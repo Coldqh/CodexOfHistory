@@ -1,0 +1,73 @@
+{
+  "id": "CAM_ROM_001",
+  "title": "Рим: от города к империи",
+  "subtitle": "первая кампания MVP",
+  "description": "Короткий путь по Риму: миф основания, Республика, Карфаген, Цезарь, Август.",
+  "difficulty": 3,
+  "nodes": [
+    {
+      "id": "NODE_ROM_001",
+      "type": "INTRO",
+      "title": "Рождение Рима",
+      "cards": [
+        "PER_ROM_001",
+        "EVT_ROM_001",
+        "STATE_ROM_001"
+      ],
+      "quiz": "QUIZ_ROM_001",
+      "xp": 120,
+      "emoji": "🐺"
+    },
+    {
+      "id": "NODE_ROM_002",
+      "type": "LESSON",
+      "title": "Республика поднимается",
+      "cards": [
+        "EVT_ROM_002",
+        "STATE_ROM_002",
+        "ORG_ROM_001"
+      ],
+      "quiz": "QUIZ_ROM_002",
+      "xp": 150,
+      "emoji": "🏛"
+    },
+    {
+      "id": "NODE_ROM_003",
+      "type": "BATTLE_STUDY",
+      "title": "Рим против Карфагена",
+      "cards": [
+        "PER_CAR_001",
+        "WAR_ROM_001",
+        "BAT_ROM_001",
+        "PER_ROM_002",
+        "BAT_ROM_002"
+      ],
+      "quiz": "QUIZ_ROM_003",
+      "xp": 180,
+      "emoji": "⚔"
+    },
+    {
+      "id": "NODE_ROM_004",
+      "type": "CRISIS",
+      "title": "Цезарь и точка невозврата",
+      "cards": [
+        "PER_ROM_003",
+        "EVT_ROM_003"
+      ],
+      "quiz": "QUIZ_ROM_004",
+      "xp": 160,
+      "emoji": "🩸"
+    },
+    {
+      "id": "NODE_ROM_005",
+      "type": "FINALE",
+      "title": "Август и новая власть",
+      "cards": [
+        "PER_ROM_004"
+      ],
+      "quiz": "QUIZ_ROM_005",
+      "xp": 220,
+      "emoji": "👑"
+    }
+  ]
+}

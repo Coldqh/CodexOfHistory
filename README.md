@@ -1,51 +1,43 @@
-# Codex of History — GitHub Pages MVP v0.1
+# Codex of History — MVP v0.2 RU/UI
 
-Чистое статичное веб-приложение под GitHub Pages.
+Статичное приложение под GitHub Pages.
 
 ## Что внутри
 
-- `index.html` — главный файл приложения
-- `styles.css` — стили
-- `app.js` — логика, демо-данные, навигация, квизы, прогресс
-- `data/` — JSON seed для будущего подключения к API или импорту
-- `csv/` — CSV-таблицы для Google Sheets
-- `sql/` — PostgreSQL/Supabase schema
-- `docs/` — архитектура и план следующих патчей
-- `.nojekyll` — чтобы GitHub Pages не ломал статичные файлы
+- русский UI и русский контент первого модуля;
+- отдельное поведение под ПК и телефон;
+- новый исторический UI: codex / карта / коллекция;
+- изображения карточек через Wikimedia Commons Special:FilePath;
+- fallback SVG, если картинка не загрузилась;
+- 14 карточек Рима, кампания, квизы, связи;
+- JSON и CSV экспорт данных.
 
 ## Запуск локально
-
-Можно просто открыть `index.html`.
-
-Или через локальный сервер:
 
 ```bash
 python -m http.server 8000
 ```
 
-Потом открыть:
+Открыть:
 
 ```text
 http://localhost:8000
 ```
 
-## Деплой на GitHub Pages
+Можно также открыть `index.html`, но для GitHub Pages лучше пушить как обычный static root.
 
-1. Создай репозиторий на GitHub.
-2. Загрузи содержимое этой папки в корень репозитория.
-3. Открой Settings → Pages.
-4. Source: Deploy from a branch.
-5. Branch: `main` / root.
-6. Сохрани.
+## GitHub Pages
 
-После этого GitHub выдаст ссылку вида:
+Файлы должны лежать в корне репозитория:
 
 ```text
-https://username.github.io/repository-name/
+index.html
+styles.css
+app.js
+.nojekyll
+data/
+assets/
+docs/
+csv/
+sql/
 ```
-
-## Важно
-
-Это static MVP. Backend не нужен. Node, React, сборка и база данных для запуска не требуются.
-
-SQL и JSON лежат как основа для следующих версий.

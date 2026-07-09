@@ -1,0 +1,114 @@
+[
+  {
+    "id": "REL_001",
+    "source": "PER_ROM_001",
+    "target": "EVT_ROM_001",
+    "type": "ОСНОВАТЕЛЬ_МИФА",
+    "description": "Ромул связан с мифом основания Рима.",
+    "strength": 8
+  },
+  {
+    "id": "REL_002",
+    "source": "EVT_ROM_001",
+    "target": "STATE_ROM_001",
+    "type": "ОТКРЫВАЕТ_ПЕРИОД",
+    "description": "Миф основания ведёт к рассказу о царском периоде.",
+    "strength": 8
+  },
+  {
+    "id": "REL_003",
+    "source": "STATE_ROM_001",
+    "target": "EVT_ROM_002",
+    "type": "ПРЕДШЕСТВУЕТ",
+    "description": "Римское царство заканчивается традицией изгнания царей.",
+    "strength": 8
+  },
+  {
+    "id": "REL_004",
+    "source": "EVT_ROM_002",
+    "target": "STATE_ROM_002",
+    "type": "ПРИЧИНА",
+    "description": "Изгнание царей стало мифом рождения Республики.",
+    "strength": 8
+  },
+  {
+    "id": "REL_005",
+    "source": "STATE_ROM_002",
+    "target": "ORG_ROM_001",
+    "type": "ЧАСТЬ_СИСТЕМЫ",
+    "description": "Сенат был ключевым органом республиканской политики.",
+    "strength": 8
+  },
+  {
+    "id": "REL_006",
+    "source": "PER_CAR_001",
+    "target": "WAR_ROM_001",
+    "type": "УЧАСТНИК",
+    "description": "Ганнибал — главный карфагенский полководец Второй Пунической войны.",
+    "strength": 8
+  },
+  {
+    "id": "REL_007",
+    "source": "WAR_ROM_001",
+    "target": "BAT_ROM_001",
+    "type": "СОДЕРЖИТ",
+    "description": "Канны — одна из решающих битв войны.",
+    "strength": 8
+  },
+  {
+    "id": "REL_008",
+    "source": "PER_CAR_001",
+    "target": "BAT_ROM_001",
+    "type": "КОМАНДУЮЩИЙ",
+    "description": "Ганнибал командовал карфагенянами при Каннах.",
+    "strength": 8
+  },
+  {
+    "id": "REL_009",
+    "source": "PER_ROM_002",
+    "target": "BAT_ROM_002",
+    "type": "КОМАНДУЮЩИЙ",
+    "description": "Сципион командовал римлянами при Заме.",
+    "strength": 8
+  },
+  {
+    "id": "REL_010",
+    "source": "BAT_ROM_002",
+    "target": "WAR_ROM_001",
+    "type": "ЗАВЕРШАЕТ",
+    "description": "Зама стала финальным ударом по Карфагену во Второй Пунической войне.",
+    "strength": 8
+  },
+  {
+    "id": "REL_011",
+    "source": "STATE_ROM_002",
+    "target": "PER_ROM_003",
+    "type": "КРИЗИС",
+    "description": "Карьера Цезаря стала итогом кризиса Республики.",
+    "strength": 8
+  },
+  {
+    "id": "REL_012",
+    "source": "PER_ROM_003",
+    "target": "EVT_ROM_003",
+    "type": "ДЕЙСТВИЕ",
+    "description": "Переход через Рубикон связан с решением Цезаря начать гражданскую войну.",
+    "strength": 8
+  },
+  {
+    "id": "REL_013",
+    "source": "EVT_ROM_003",
+    "target": "PER_ROM_004",
+    "type": "ПОСЛЕДСТВИЕ",
+    "description": "Гражданские войны открыли путь к власти Августа.",
+    "strength": 8
+  },
+  {
+    "id": "REL_014",
+    "source": "PER_ROM_004",
+    "target": "STATE_ROM_002",
+    "type": "ТРАНСФОРМАЦИЯ",
+    "description": "Август формально сохранил республиканские формы, но создал императорскую систему.",
+    "strength": 8
+  }
+]

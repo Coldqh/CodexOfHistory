@@ -1,0 +1,16 @@
+[
+  {"id":"REL_001","source":"PER_ROM_001","target":"EVT_ROM_001","type":"FOUNDED_BY","strength":9,"description":"Romulus is the legendary founder linked to Rome's foundation myth."},
+  {"id":"REL_002","source":"EVT_ROM_001","target":"STATE_ROM_001","type":"CAUSE","strength":7,"description":"The foundation myth introduces the traditional monarchic phase of Rome."},
+  {"id":"REL_003","source":"STATE_ROM_001","target":"EVT_ROM_002","type":"PRECEDES","strength":8,"description":"The Roman Kingdom precedes the traditional birth of the Republic."},
+  {"id":"REL_004","source":"EVT_ROM_002","target":"STATE_ROM_002","type":"CAUSE","strength":10,"description":"The expulsion of the kings is the traditional origin of the Roman Republic."},
+  {"id":"REL_005","source":"STATE_ROM_002","target":"ORG_ROM_001","type":"PART_OF","strength":10,"description":"The Senate was a central institution of Republican politics."},
+  {"id":"REL_006","source":"PER_CAR_001","target":"WAR_ROM_001","type":"PART_OF","strength":10,"description":"Hannibal was the central Carthaginian commander of the Second Punic War."},
+  {"id":"REL_007","source":"WAR_ROM_001","target":"BAT_ROM_001","type":"PART_OF","strength":10,"description":"Cannae was one of the major battles of the Second Punic War."},
+  {"id":"REL_008","source":"PER_CAR_001","target":"BAT_ROM_001","type":"COMMANDER_IN","strength":10,"description":"Hannibal commanded the Carthaginian army at Cannae."},
+  {"id":"REL_009","source":"PER_ROM_002","target":"BAT_ROM_002","type":"COMMANDER_IN","strength":10,"description":"Scipio commanded the Roman forces at Zama."},
+  {"id":"REL_010","source":"BAT_ROM_002","target":"WAR_ROM_001","type":"CONSEQUENCE","strength":9,"description":"Zama decided the war in Rome's favor."},
+  {"id":"REL_011","source":"PER_ROM_003","target":"EVT_ROM_003","type":"CAUSE","strength":10,"description":"Caesar's political conflict led to his crossing of the Rubicon."},
+  {"id":"REL_012","source":"EVT_ROM_003","target":"STATE_ROM_002","type":"CONSEQUENCE","strength":10,"description":"The Rubicon crisis accelerated the collapse of the Republic."},
+  {"id":"REL_013","source":"PER_ROM_003","target":"PER_ROM_004","type":"INFLUENCED","strength":10,"description":"Caesar's career and death opened the political path for Augustus."},
+  {"id":"REL_014","source":"PER_ROM_004","target":"STATE_ROM_002","type":"CONSEQUENCE","strength":9,"description":"Augustus kept Republican forms while building imperial rule."}
+]

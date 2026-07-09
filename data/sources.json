@@ -1,0 +1,18 @@
+[
+  {"id":"SRC_LIVY","title":"Livy, Ab Urbe Condita","type":"ancient_source","reliability":"primary_tradition_needs_context"},
+  {"id":"SRC_POLYBIUS","title":"Polybius, Histories","type":"ancient_source","reliability":"primary_tradition_needs_context"},
+  {"id":"SRC_PLUTARCH","title":"Plutarch, Parallel Lives","type":"ancient_source","reliability":"primary_tradition_needs_context"},
+  {"id":"SRC_SUETONIUS","title":"Suetonius, The Twelve Caesars","type":"ancient_source","reliability":"primary_tradition_needs_context"},
+  {"id":"SRC_RES_GESTAE","title":"Res Gestae Divi Augusti","type":"ancient_source","reliability":"primary_inscription_propaganda_context"},
+  {"id":"SRC_BRITANNICA_ROME","title":"Encyclopaedia Britannica: Rome","type":"modern_reference","reliability":"reference"},
+  {"id":"SRC_BRITANNICA_ROMAN_REPUBLIC","title":"Encyclopaedia Britannica: Roman Republic","type":"modern_reference","reliability":"reference"},
+  {"id":"SRC_BRITANNICA_ROMAN_SENATE","title":"Encyclopaedia Britannica: Roman Senate","type":"modern_reference","reliability":"reference"},
+  {"id":"SRC_BRITANNICA_HANNIBAL","title":"Encyclopaedia Britannica: Hannibal","type":"modern_reference","reliability":"reference"},
+  {"id":"SRC_BRITANNICA_PUNIC_WARS","title":"Encyclopaedia Britannica: Punic Wars","type":"modern_reference","reliability":"reference"},
+  {"id":"SRC_BRITANNICA_CANNAE","title":"Encyclopaedia Britannica: Battle of Cannae","type":"modern_reference","reliability":"reference"},
+  {"id":"SRC_BRITANNICA_SCIPIO","title":"Encyclopaedia Britannica: Scipio Africanus","type":"modern_reference","reliability":"reference"},
+  {"id":"SRC_BRITANNICA_ZAMA","title":"Encyclopaedia Britannica: Battle of Zama","type":"modern_reference","reliability":"reference"},
+  {"id":"SRC_BRITANNICA_CAESAR","title":"Encyclopaedia Britannica: Julius Caesar","type":"modern_reference","reliability":"reference"},
+  {"id":"SRC_BRITANNICA_AUGUSTUS","title":"Encyclopaedia Britannica: Augustus","type":"modern_reference","reliability":"reference"},
+  {"id":"SRC_BRITANNICA_ROMULUS","title":"Encyclopaedia Britannica: Romulus and Remus","type":"modern_reference","reliability":"reference"}
+]

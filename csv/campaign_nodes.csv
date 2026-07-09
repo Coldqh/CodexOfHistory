@@ -1,0 +1,6 @@
+campaign_id,node_id,node_type,title,order,cards,quiz,reward
+CAM_ROM_001,NODE_ROM_001,INTRO,Birth of Rome,1,"[""PER_ROM_001"", ""EVT_ROM_001"", ""STATE_ROM_001""]",QUIZ_ROM_001,"{""xp"": 120, ""unlock"": [""EVT_ROM_002""]}"
+CAM_ROM_001,NODE_ROM_002,LESSON,Republic Rises,2,"[""EVT_ROM_002"", ""STATE_ROM_002"", ""ORG_ROM_001""]",QUIZ_ROM_002,"{""xp"": 150, ""unlock"": [""WAR_ROM_001""]}"
+CAM_ROM_001,NODE_ROM_003,BATTLE_STUDY,Rome vs Carthage,3,"[""PER_CAR_001"", ""WAR_ROM_001"", ""BAT_ROM_001"", ""PER_ROM_002"", ""BAT_ROM_002""]",QUIZ_ROM_003,"{""xp"": 200, ""unlock"": [""PER_ROM_003""]}"
+CAM_ROM_001,NODE_ROM_004,STORY_SCENE,Caesar's Point of No Return,4,"[""PER_ROM_003"", ""EVT_ROM_003""]",QUIZ_ROM_004,"{""xp"": 180, ""unlock"": [""PER_ROM_004""]}"
+CAM_ROM_001,NODE_ROM_005,BOSS_QUIZ,From Republic to Empire,5,"[""PER_ROM_004""]",QUIZ_ROM_005,"{""xp"": 300, ""pack"": ""PACK_ROM_CORE""}"

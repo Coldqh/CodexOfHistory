@@ -1,0 +1,16 @@
+[
+  {
+    "id": "CAM_ROM_001",
+    "slug": "rome-from-city-to-empire",
+    "title": "Rome: From City to Empire",
+    "description": "First MVP campaign: Rome from foundation myth to Augustus.",
+    "difficulty": 3,
+    "nodes": [
+      {"id":"NODE_ROM_001","type":"INTRO","title":"Birth of Rome","order":1,"cards":["PER_ROM_001","EVT_ROM_001","STATE_ROM_001"],"quiz":"QUIZ_ROM_001","reward":{"xp":120,"unlock":["EVT_ROM_002"]}},
+      {"id":"NODE_ROM_002","type":"LESSON","title":"Republic Rises","order":2,"cards":["EVT_ROM_002","STATE_ROM_002","ORG_ROM_001"],"quiz":"QUIZ_ROM_002","reward":{"xp":150,"unlock":["WAR_ROM_001"]}},
+      {"id":"NODE_ROM_003","type":"BATTLE_STUDY","title":"Rome vs Carthage","order":3,"cards":["PER_CAR_001","WAR_ROM_001","BAT_ROM_001","PER_ROM_002","BAT_ROM_002"],"quiz":"QUIZ_ROM_003","reward":{"xp":200,"unlock":["PER_ROM_003"]}},
+      {"id":"NODE_ROM_004","type":"STORY_SCENE","title":"Caesar's Point of No Return","order":4,"cards":["PER_ROM_003","EVT_ROM_003"],"quiz":"QUIZ_ROM_004","reward":{"xp":180,"unlock":["PER_ROM_004"]}},
+      {"id":"NODE_ROM_005","type":"BOSS_QUIZ","title":"From Republic to Empire","order":5,"cards":["PER_ROM_004"],"quiz":"QUIZ_ROM_005","reward":{"xp":300,"pack":"PACK_ROM_CORE"}}
+    ]
+  }
+]

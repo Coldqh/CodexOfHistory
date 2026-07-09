@@ -1,0 +1,15 @@
+id,source,target,type,strength,description
+REL_001,PER_ROM_001,EVT_ROM_001,FOUNDED_BY,9,Romulus is the legendary founder linked to Rome's foundation myth.
+REL_002,EVT_ROM_001,STATE_ROM_001,CAUSE,7,The foundation myth introduces the traditional monarchic phase of Rome.
+REL_003,STATE_ROM_001,EVT_ROM_002,PRECEDES,8,The Roman Kingdom precedes the traditional birth of the Republic.
+REL_004,EVT_ROM_002,STATE_ROM_002,CAUSE,10,The expulsion of the kings is the traditional origin of the Roman Republic.
+REL_005,STATE_ROM_002,ORG_ROM_001,PART_OF,10,The Senate was a central institution of Republican politics.
+REL_006,PER_CAR_001,WAR_ROM_001,PART_OF,10,Hannibal was the central Carthaginian commander of the Second Punic War.
+REL_007,WAR_ROM_001,BAT_ROM_001,PART_OF,10,Cannae was one of the major battles of the Second Punic War.
+REL_008,PER_CAR_001,BAT_ROM_001,COMMANDER_IN,10,Hannibal commanded the Carthaginian army at Cannae.
+REL_009,PER_ROM_002,BAT_ROM_002,COMMANDER_IN,10,Scipio commanded the Roman forces at Zama.
+REL_010,BAT_ROM_002,WAR_ROM_001,CONSEQUENCE,9,Zama decided the war in Rome's favor.
+REL_011,PER_ROM_003,EVT_ROM_003,CAUSE,10,Caesar's political conflict led to his crossing of the Rubicon.
+REL_012,EVT_ROM_003,STATE_ROM_002,CONSEQUENCE,10,The Rubicon crisis accelerated the collapse of the Republic.
+REL_013,PER_ROM_003,PER_ROM_004,INFLUENCED,10,Caesar's career and death opened the political path for Augustus.
+REL_014,PER_ROM_004,STATE_ROM_002,CONSEQUENCE,9,Augustus kept Republican forms while building imperial rule.

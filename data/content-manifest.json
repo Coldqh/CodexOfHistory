@@ -1,5 +1,5 @@
 {
-  "version": "2.2.0",
+  "version": "2.2.1",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -68,6 +68,7 @@
     "js/features/v2-0-italy.js",
     "js/features/v2-1-global-era.js",
     "js/features/v2-2-mesopotamia.js",
+    "js/features/v2-2-1-navigation-cleanup.js",
     "js/core/start.js"
   ],
   "vendors": {

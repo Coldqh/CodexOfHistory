@@ -1,6 +1,7 @@
 /* Codex v1.5 — archive/catalog separation */
 state.collectionView = state.collectionView === 'CATALOG' ? 'CATALOG' : 'ARCHIVE';
-state.catalogScope = state.catalogScope || 'ALL';
+const CATALOG_SCOPES = ['ALL','OWNED','OPEN_POOLS','FUTURE','STORY','ARCHIVE'];
+state.catalogScope = CATALOG_SCOPES.includes(state.catalogScope) ? state.catalogScope : 'ALL';
 PAGE_META.collection=['Библиотека','Архив и полный каталог'];
 
 function ownedCards(){ return CARDS.filter(c=>isUnlocked(c.id)); }
@@ -12,7 +13,16 @@ function setCollectionView(view){
   state.masteryFilter='ALL';
   save();render();
 }
-function setCatalogScope(scope){ state.catalogScope=scope;save();render(); }
+function setCatalogScope(scope){
+  state.catalogScope=CATALOG_SCOPES.includes(scope)?scope:'ALL';
+  // Scope buttons describe the top-level catalog view. Old search/type/rarity
+  // filters must not silently make a freshly selected scope look empty.
+  state.search='';
+  state.filter='ALL';
+  state.rarity='ALL';
+  state.masteryFilter='ALL';
+  save();render();
+}
 function openCatalogCard(id){
   const c=card(id); if(!c)return;
   if(isUnlocked(id)){openCard(id);return;}
@@ -57,10 +67,25 @@ function librarySwitch(){
   </div>`;
 }
 function cardMatchesFilters(c){
-  const query=state.search.toLowerCase();
+  const query=String(state.search||'').trim().toLowerCase();
+  const title=String(c?.title||'').toLowerCase();
+  const original=String(c?.original||'').toLowerCase();
+  const tags=Array.isArray(c?.tags)?c.tags.join(' ').toLowerCase():'';
   return (state.filter==='ALL'||c.type===state.filter)
     &&(state.rarity==='ALL'||c.rarity===state.rarity)
-    &&(c.title.toLowerCase().includes(query)||c.original.toLowerCase().includes(query)||c.tags.join(' ').toLowerCase().includes(query));
+    &&(!query||title.includes(query)||original.includes(query)||tags.includes(query));
+}
+function catalogScopeAllows(c,scope=state.catalogScope){
+  const value=catalogState(c);
+  if(scope==='OWNED')return value==='OWNED';
+  if(scope==='OPEN_POOLS')return value==='POOL_OPEN'||value==='STORY_AVAILABLE';
+  if(scope==='FUTURE')return value==='POOL_LOCKED'||value==='STORY_LOCKED';
+  if(scope==='STORY')return isStoryCard(c.id);
+  if(scope==='ARCHIVE')return isArchiveCard(c.id);
+  return true;
+}
+function catalogCardsForScope(scope=state.catalogScope){
+  return CARDS.filter(c=>catalogScopeAllows(c,scope)&&cardMatchesFilters(c));
 }
 function commonSearchControls(placeholder,withMastery=false){
   const types=['ALL',...new Set(CARDS.map(c=>c.type))];
@@ -72,16 +97,7 @@ function commonSearchControls(placeholder,withMastery=false){
 collection=function(){
   if(state.collectionView==='CATALOG'){
     const scopes=[['ALL','Все карты'],['OWNED','Полученные'],['OPEN_POOLS','Доступные сейчас'],['FUTURE','Будущие этапы'],['STORY','Сюжетные'],['ARCHIVE','Архивные']];
-    const list=CARDS.filter(c=>{
-      const value=catalogState(c);
-      let allowed=true;
-      if(state.catalogScope==='OWNED')allowed=value==='OWNED';
-      if(state.catalogScope==='OPEN_POOLS')allowed=value==='POOL_OPEN'||value==='STORY_AVAILABLE';
-      if(state.catalogScope==='FUTURE')allowed=value==='POOL_LOCKED'||value==='STORY_LOCKED';
-      if(state.catalogScope==='STORY')allowed=isStoryCard(c.id);
-      if(state.catalogScope==='ARCHIVE')allowed=isArchiveCard(c.id);
-      return allowed&&cardMatchesFilters(c);
-    });
+    const list=catalogCardsForScope();
     const cardsHtml=list.length?list.map(catalogCard).join(''):'<div class="empty">В выбранном разделе карточек нет.</div>';
     return shell(`<section class="collection-header reveal"><div><div class="eyebrow">Полный исторический каталог</div><h2>Коллекция всех карточек</h2><p>Здесь виден весь контент проекта. Закрытые карты показывают способ получения и этап, но не раскрывают досье, факты и связи раньше времени.</p></div><div class="collection-actions"><div class="collection-count">${list.length}/${CARDS.length}</div><button class="btn" onclick="openPackHub()">✦ Паки · ◇ ${state.fragments}</button></div></section>
       ${librarySwitch()}

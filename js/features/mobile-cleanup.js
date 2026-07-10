@@ -61,15 +61,7 @@ collection=function(){
   const top=`<section class="collection-header compact-collection-head reveal"><div><div class="eyebrow">${state.collectionView==='ARCHIVE'?'Личный архив':'Полный каталог'}</div><h2>${state.collectionView==='ARCHIVE'?'Архив':'Коллекция'}</h2></div><div class="collection-head-tools">${libraryMiniSwitch()}<button class="mini-pack-button" onclick="openPackHub()">✦ ${state.fragments} ◇</button></div></section>`;
   if(state.collectionView==='CATALOG'){
     const scopes=[['ALL','Все'],['OWNED','Полученные'],['OPEN_POOLS','Доступные'],['FUTURE','Будущие'],['STORY','Сюжет'],['ARCHIVE','Архивные']];
-    const list=CARDS.filter(c=>{
-      const value=catalogState(c);let allowed=true;
-      if(state.catalogScope==='OWNED')allowed=value==='OWNED';
-      if(state.catalogScope==='OPEN_POOLS')allowed=value==='POOL_OPEN'||value==='STORY_AVAILABLE';
-      if(state.catalogScope==='FUTURE')allowed=value==='POOL_LOCKED'||value==='STORY_LOCKED';
-      if(state.catalogScope==='STORY')allowed=isStoryCard(c.id);
-      if(state.catalogScope==='ARCHIVE')allowed=isArchiveCard(c.id);
-      return allowed&&cardMatchesFilters(c);
-    });
+    const list=catalogCardsForScope();
     return shell(`${top}<div class="compact-chip-row reveal">${scopes.map(([id,label])=>`<button class="${state.catalogScope===id?'active':''}" onclick="setCatalogScope('${id}')">${label}</button>`).join('')}<span>${list.length}/${CARDS.length}</span></div>${compactFilterControls('Поиск по коллекции...')}<div class="catalog-grid reveal">${list.length?list.map(catalogCard).join(''):'<div class="empty">Карточек по этим фильтрам нет.</div>'}</div>`);
   }
   const modes=[['ALL','Все'],['STORY','Сюжет'],['ARCHIVE','Из паков'],['STORIES','Истории'],['MASTERED','Закреплены']];

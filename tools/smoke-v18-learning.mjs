@@ -16,27 +16,30 @@ Object.assign(context,{CODEX_MANIFEST:manifest,CODEX_CONFIG:{mastery:read(d.mast
 context.CODEX_REGISTRY={cardsById:new Map(cards.map(x=>[x.id,x])),relationsByCard:new Map(cards.map(c=>[c.id,relations.filter(r=>r.source===c.id||r.target===c.id)])),missionsById:new Map(campaign.nodes.map(x=>[x.id,x])),poolsById:new Map(pools.pools.map(x=>[x.id,x])),lessonsByMission:new Map(Object.entries(lessons))};
 const ctx=vm.createContext(context);for(const script of manifest.scripts)vm.runInContext(fs.readFileSync(path.join(root,script),'utf8'),ctx,{filename:script});
 const assert=(v,m)=>{if(!v)throw new Error(m)};
-assert(manifest.version==='1.8.0','Версия не 1.8.0');
+assert(manifest.version==='1.9.0','Версия не 1.9.0');
 assert(Object.keys(lessons).length===campaign.nodes.length,'Не у каждой миссии есть урок');
 for(const m of campaign.nodes){const l=lessons[m.id];assert(l.story.length>=2,`${m.id}: нет рассказа`);assert(l.chronology.length>=3,`${m.id}: нет хронологии`);assert(l.concepts.length>=3,`${m.id}: нет разбора`);}
 vm.runInContext("state.tab='campaign';render();",ctx);
-assert(app.innerHTML.includes('рассказ → хронология → разбор → практика'),'Нет новой модели обучения');
+assert(app.innerHTML.includes('рассказ → хронология → разбор → теория → практика'),'Нет новой модели обучения');
 assert(app.innerHTML.includes('compact-chapter-switch'),'Переключатель глав не компактный');
 assert(app.innerHTML.includes('learning-mission-row'),'Миссии не переведены в компактные строки');
 vm.runInContext("state.currentMission='MIS_REPUBLIC_06';state.tab='mission';render();",ctx);
 assert(app.innerHTML.includes('Исторический рассказ'),'Миссия не начинает с рассказа');
-vm.runInContext("state.lessonUnlockedStages['MIS_REPUBLIC_06']=3;state.lessonStages['MIS_REPUBLIC_06']=1;render();",ctx);
+vm.runInContext("state.lessonUnlockedStages['MIS_REPUBLIC_06']=4;state.lessonStages['MIS_REPUBLIC_06']=1;render();",ctx);
 assert(app.innerHTML.includes('Хронология и развитие'),'В миссии нет хронологии');
 vm.runInContext("state.lessonStages['MIS_REPUBLIC_06']=2;render();",ctx);
 assert(app.innerHTML.includes('Как это работает'),'В миссии нет учебного разбора');
 vm.runInContext("state.lessonStages['MIS_REPUBLIC_06']=3;render();",ctx);
+assert(app.innerHTML.includes('ПОЛНОЕ ЧТЕНИЕ'),'Теория миссии не загружена');
+assert(app.innerHTML.includes('Исторические оговорки'),'В теории нет оговорок');
+vm.runInContext("state.lessonStages['MIS_REPUBLIC_06']=4;render();",ctx);
 assert(app.innerHTML.includes('Почему уход плебеев был эффективен?'),'Практика миссии не загружена');
 assert(app.innerHTML.includes('Карточки миссии'),'Карточки не переведены в архивную роль');
 
-vm.runInContext("state.currentMission='MIS_REPUBLIC_05';state.lessonUnlockedStages['MIS_REPUBLIC_05']=3;state.lessonStages['MIS_REPUBLIC_05']=3;render();",ctx);
+vm.runInContext("state.currentMission='MIS_REPUBLIC_05';state.lessonUnlockedStages['MIS_REPUBLIC_05']=4;state.lessonStages['MIS_REPUBLIC_05']=4;render();",ctx);
 assert(app.innerHTML.includes('id="mission-map"'),'Карта не встроена в учебный поток');
-vm.runInContext("state.currentMission='MIS_REPUBLIC_09';state.lessonUnlockedStages['MIS_REPUBLIC_09']=3;state.lessonStages['MIS_REPUBLIC_09']=3;render();",ctx);
+vm.runInContext("state.currentMission='MIS_REPUBLIC_09';state.lessonUnlockedStages['MIS_REPUBLIC_09']=4;state.lessonStages['MIS_REPUBLIC_09']=4;render();",ctx);
 assert(app.innerHTML.includes('СОБЕРИ ХРОНОЛОГИЮ'),'Хронология не встроена в учебный поток');
-vm.runInContext("state.currentMission='MIS_REPUBLIC_12';state.lessonUnlockedStages['MIS_REPUBLIC_12']=3;state.lessonStages['MIS_REPUBLIC_12']=3;render();",ctx);
+vm.runInContext("state.currentMission='MIS_REPUBLIC_12';state.lessonUnlockedStages['MIS_REPUBLIC_12']=4;state.lessonStages['MIS_REPUBLIC_12']=4;render();",ctx);
 assert(app.innerHTML.includes('ИТОГОВОЕ ИСПЫТАНИЕ'),'Финал не встроен в учебный поток');
 console.log(`✓ v1.8 learning smoke: ${Object.keys(lessons).length} lessons, ${campaign.nodes.length} missions`);

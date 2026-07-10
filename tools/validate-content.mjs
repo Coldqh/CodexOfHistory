@@ -36,6 +36,13 @@ for(const m of campaign.nodes){
  req(Array.isArray(l.concepts)&&l.concepts.length>=3,`${m.id}: нужны понятия`);
  req(Array.isArray(l.causeEffect?.causes)&&l.causeEffect.causes.length>=2,`${m.id}: нужны причины`);
  req(Array.isArray(l.causeEffect?.consequences)&&l.causeEffect.consequences.length>=2,`${m.id}: нужны последствия`);
+ req(!!l.theory,`${m.id}: отсутствует теория`);
+ req(typeof l.theory?.title==='string'&&l.theory.title.length>4,`${m.id}: у теории нет заголовка`);
+ req(Number.isInteger(l.theory?.readingMinutes)&&l.theory.readingMinutes>=3,`${m.id}: некорректное время чтения теории`);
+ req(Array.isArray(l.theory?.paragraphs)&&l.theory.paragraphs.length>=5,`${m.id}: теория должна содержать минимум 5 абзацев`);
+ req((l.theory?.paragraphs||[]).join(' ').split(/\s+/).length>=280,`${m.id}: теория слишком короткая`);
+ req(Array.isArray(l.theory?.sources)&&l.theory.sources.length>=1,`${m.id}: у теории нет источников`);
+ req(Array.isArray(l.theory?.historicityNotes)&&l.theory.historicityNotes.length>=2,`${m.id}: нужны исторические оговорки`);
  req(!!l.activity?.type,`${m.id}: отсутствует учебная практика`);
 }
 for(const p of pools.pools){for(const id of p.cardIds)req(ids.has(id),`Пул ${p.id}: нет карты ${id}`);if(!p.unlockMission.startsWith('ROME_CHAPTER_'))req(missionIds.has(p.unlockMission),`Пул ${p.id}: нет миссии ${p.unlockMission}`);}

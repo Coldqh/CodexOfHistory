@@ -1,0 +1,26 @@
+#!/usr/bin/env node
+import fs from 'node:fs';
+import path from 'node:path';
+import vm from 'node:vm';
+import {fileURLToPath} from 'node:url';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
+const manifest=read('data/content-manifest.json'),d=manifest.datasets;
+const bundle=spec=>Array.isArray(spec)?Object.assign({},...spec.map(read)):read(spec);
+const cards=d.cards.flatMap(read),relations=read(d.relations),campaign=read(d.campaign),pools=read(d.pools),quizzes=bundle(d.quizzes),stories=read(d.stories),lessons=bundle(d.lessons);
+const app={innerHTML:''},local=new Map();
+const document={documentElement:{dataset:{},style:{},classList:{add(){},remove(){}}},querySelector(){return null},getElementById(id){return id==='app'?app:null},addEventListener(){},body:{appendChild(){},classList:{add(){},remove(){},toggle(){}}}};
+const context={console,Date,Math,JSON,Intl,Map,Set,URL,Blob,Promise,CustomEvent:class{},localStorage:{getItem:k=>local.get(k)||null,setItem:(k,v)=>local.set(k,v),removeItem:k=>local.delete(k)},sessionStorage:{getItem(){return null},setItem(){},removeItem(){}},confirm:()=>true,setTimeout:fn=>0,clearTimeout(){},requestAnimationFrame(){},window:{scrollTo(){},dispatchEvent(){},matchMedia:()=>({matches:true})},document,location:{protocol:'http:',href:'https://example.test/',replace(){},reload(){}},IntersectionObserver:class{},L:undefined,navigator:{}};
+context.window.window=context.window;context.window.document=document;context.globalThis=context;
+Object.assign(context,{CODEX_MANIFEST:manifest,CODEX_CONFIG:{mastery:read(d.mastery),packs:read(d.packs),collection:read(d.collection),maps:read(d.maps),daily:read(d.daily)},CARDS:cards,RELATIONS:relations,CAMPAIGN:campaign,V09_CONTENT:pools,QUIZZES:quizzes,PERSONAL_STORIES:stories,CODEX_LESSONS:lessons});
+context.CODEX_REGISTRY={cardsById:new Map(cards.map(x=>[x.id,x])),relationsByCard:new Map(cards.map(c=>[c.id,relations.filter(r=>r.source===c.id||r.target===c.id)])),missionsById:new Map(campaign.nodes.map(x=>[x.id,x])),poolsById:new Map(pools.pools.map(x=>[x.id,x])),lessonsByMission:new Map(Object.entries(lessons))};
+const ctx=vm.createContext(context);
+for(const script of manifest.scripts)vm.runInContext(fs.readFileSync(path.join(root,script),'utf8'),ctx,{filename:script});
+const assert=(v,m)=>{if(!v)throw new Error(m)};
+vm.runInContext("state.tab='collection';state.collectionView='CATALOG';state.search='несуществующий запрос';state.filter='BATTLE';state.rarity='MYTHIC';setCatalogScope('ALL');",ctx);
+assert(vm.runInContext("state.search===''&&state.filter==='ALL'&&state.rarity==='ALL'",ctx),'Переключение «Все» не сбрасывает скрытые фильтры');
+assert((app.innerHTML.match(/catalog-card/g)||[]).length===cards.length,'«Все» не показывает весь каталог');
+vm.runInContext("state.search='мусор';state.filter='BATTLE';state.rarity='MYTHIC';setCatalogScope('FUTURE');",ctx);
+assert(vm.runInContext("state.search===''&&state.filter==='ALL'&&state.rarity==='ALL'",ctx),'Переключение «Будущие» не сбрасывает скрытые фильтры');
+assert((app.innerHTML.match(/catalog-card/g)||[]).length>0,'«Будущие» не показывает закрытые карточки');
+console.log('✓ v1.8.1 catalog hotfix: ALL and FUTURE scopes render after dirty filters');

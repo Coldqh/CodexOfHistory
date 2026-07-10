@@ -1,0 +1,13 @@
+{
+  "name": "Codex of History",
+  "short_name": "Codex",
+  "description": "Игровая энциклопедия истории",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080807",
+  "theme_color": "#080807",
+  "lang": "ru",
+  "icons": [
+    {"src":"assets/ui/codex-mark.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}

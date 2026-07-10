@@ -3,13 +3,21 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <meta name="theme-color" content="#12100c" />
-  <title>Codex of History — Рим v0.3</title>
+  <meta name="theme-color" content="#080807" />
+  <meta name="color-scheme" content="dark" />
+  <meta name="description" content="Codex of History — игровая энциклопедия истории" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <title>Codex of History — Рим</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="assets/ui/codex-mark.svg" type="image/svg+xml" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <noscript>Нужен JavaScript: приложение хранит прогресс локально и собирает экраны на клиенте.</noscript>
+  <div class="ambient" aria-hidden="true"><i></i><i></i><i></i></div>
   <div id="app" class="app-shell"></div>
+  <div id="toast-root" class="toast-root" aria-live="polite"></div>
   <script src="app.js"></script>
 </body>
 </html>

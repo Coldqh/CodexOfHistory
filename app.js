@@ -4,53 +4,331 @@ const CAMPAIGN = {"id": "CAM_ROM_001", "title": "Рим: от города к и
 const QUIZZES = {"QUIZ_ROM_001": {"title": "Рождение Рима", "questions": [{"text": "Какая дата традиционно считается датой основания Рима?", "answers": ["753 год до н. э.", "509 год до н. э.", "216 год до н. э.", "44 год до н. э."], "correct": 0, "explanation": "753 год до н. э. — традиционная дата. Это не точная археологическая дата, а часть римской исторической памяти."}, {"text": "История Ромула и Рема — это строгий документальный факт?", "answers": ["Да", "Нет"], "correct": 1, "explanation": "Нет. Это мифо-историческая традиция. Она важна не как протокол событий, а как образ происхождения Рима."}, {"text": "Что лучше всего объясняет карточка “Ромул”?", "answers": ["Римскую мифологию основания", "Экономику империи", "Падение Константинополя", "Реформы Мария"], "correct": 0, "explanation": "Ромул нужен для понимания мифа основания, царской памяти и римской идентичности."}]}, "QUIZ_ROM_002": {"title": "Республика поднимается", "questions": [{"text": "С чем в римской памяти начали связывать царскую власть?", "answers": ["С тиранией", "С демократией", "С торговлей", "С философией"], "correct": 0, "explanation": "После изгнания царей образ царя стал для римлян политически опасным."}, {"text": "Что было одним из центров республиканской политики?", "answers": ["Сенат", "Парламент Великобритании", "Ватикан", "Королевский двор Франции"], "correct": 0, "explanation": "Сенат был ключевым институтом римской элиты."}, {"text": "Римская республика была современной демократией?", "answers": ["Да", "Нет"], "correct": 1, "explanation": "Нет. В ней были собрания и выборные должности, но власть сильно зависела от статуса, элиты и патроната."}]}, "QUIZ_ROM_003": {"title": "Рим против Карфагена", "questions": [{"text": "Кто был главным карфагенским полководцем Второй Пунической войны?", "answers": ["Ганнибал Барка", "Юлий Цезарь", "Август", "Цицерон"], "correct": 0, "explanation": "Ганнибал Барка перенёс войну в Италию и стал главным врагом Рима."}, {"text": "Какая битва стала символом разгрома римской армии Ганнибалом?", "answers": ["Канны", "Зама", "Фарсал", "Акций"], "correct": 0, "explanation": "Канны — знаменитая победа Ганнибала и пример окружения противника."}, {"text": "Кто победил Ганнибала при Заме?", "answers": ["Сципион Африканский", "Помпей", "Марк Антоний", "Ромул"], "correct": 0, "explanation": "Сципион перенёс войну в Африку и победил Ганнибала в 202 году до н. э."}]}, "QUIZ_ROM_004": {"title": "Цезарь и точка невозврата", "questions": [{"text": "Что означал переход Цезаря через Рубикон?", "answers": ["Начало открытого конфликта с сенатской властью", "Основание Рима", "Конец Пунических войн", "Победу Августа"], "correct": 0, "explanation": "Переход через Рубикон стал политическим вызовом и началом гражданской войны."}, {"text": "Почему Цезарь важен для истории Республики?", "answers": ["Его карьера ускорила крах старого баланса власти", "Он основал Карфаген", "Он написал Библию", "Он был первым царём Рима"], "correct": 0, "explanation": "Цезарь стал фигурой, через которую кризис Республики перешёл в открытую гражданскую войну."}, {"text": "В каком году Цезарь был убит?", "answers": ["44 год до н. э.", "27 год до н. э.", "14 год н. э.", "216 год до н. э."], "correct": 0, "explanation": "Цезаря убили в 44 году до н. э. Убийство не восстановило старую Республику."}]}, "QUIZ_ROM_005": {"title": "Август и новая власть", "questions": [{"text": "Кем стал Август в историческом смысле?", "answers": ["Первым римским императором", "Последним царём Рима", "Карфагенским полководцем", "Основателем Афин"], "correct": 0, "explanation": "Август создал принципат — новую форму власти, где республиканские формы сохранились, но реальная власть стала императорской."}, {"text": "Что сделал Август с республиканскими формами?", "answers": ["Сохранил внешне, изменив содержание власти", "Полностью уничтожил все должности", "Передал власть Карфагену", "Отменил армию"], "correct": 0, "explanation": "Август действовал тонко: он не называл себя царём, но сосредоточил ключевые полномочия."}, {"text": "Какая цепочка лучше всего ведёт к Августу?", "answers": ["Цезарь → гражданские войны → Август", "Ромул → Ганнибал → исламский мир", "Канны → Ренессанс → Наполеон", "Зама → Византия → крестовые походы"], "correct": 0, "explanation": "Август вырос из кризиса поздней Республики и войн после Цезаря."}]}};
 
 const STORE = 'codex_history_v02_ru';
-const TYPE_META = {PERSON:['👑','Личность'], EVENT:['📜','Событие'], BATTLE:['⚔','Битва'], STATE:['🏛','Государство'], FACTION:['🏛','Институт']};
+const TYPE_META = {
+  PERSON:['♛','Личность'], EVENT:['✦','Событие'], BATTLE:['⚔','Битва'],
+  STATE:['◈','Государство'], FACTION:['⌂','Институт']
+};
 const RARITY_META = {RARE:'Редкая', EPIC:'Эпическая', LEGENDARY:'Легендарная', MYTHIC:'Мифическая'};
 const STAT_LABELS = {influence:'Влияние', complexity:'Сложность', legacy:'Наследие', military:'Война', culture:'Культура', politics:'Политика', religion:'Религия', economy:'Экономика', connections:'Связи'};
-const NAV = [ ['home','🏠','Главная'], ['campaign','🏛','Кампания'], ['collection','🃏','Коллекция'], ['map','🗺','Карта'], ['profile','👤','Профиль'] ];
+const NAV = [
+  ['home','⌂','Главная'], ['campaign','♜','Кампания'], ['collection','▦','Коллекция'],
+  ['map','⌖','Карта'], ['profile','◉','Профиль']
+];
+const PAGE_META = {
+  home:['Обзор','Твой исторический мир'], campaign:['Кампания','Рим: от города к империи'],
+  collection:['Архив','Коллекция знаний'], detail:['Карточка','Историческое досье'],
+  quiz:['Испытание','Проверка знаний'], map:['Атлас','Карта кампании'], profile:['Профиль','Личный прогресс']
+};
 const PASS_PERCENT = 70;
-const initial = {tab:'home', xp:0, level:1, unlocked:['PER_ROM_001','EVT_ROM_001','STATE_ROM_001','EVT_ROM_002','STATE_ROM_002','ORG_ROM_001'], read:[], quizDone:[], quizResults:{}, currentCard:'PER_ROM_001', currentQuiz:null, quizIndex:0, quizScore:0, selected:null, quizFinished:false, quizLastResult:null, filter:'ALL', rarity:'ALL', search:''};
+const initial = {
+  tab:'home', xp:0, level:1,
+  unlocked:['PER_ROM_001','EVT_ROM_001','STATE_ROM_001','EVT_ROM_002','STATE_ROM_002','ORG_ROM_001'],
+  read:[], quizDone:[], quizResults:{}, currentCard:'PER_ROM_001', currentQuiz:null,
+  quizIndex:0, quizScore:0, selected:null, quizFinished:false, quizLastResult:null,
+  filter:'ALL', rarity:'ALL', search:''
+};
 let state = {...initial, ...(JSON.parse(localStorage.getItem(STORE) || '{}'))};
 state.quizResults = state.quizResults || {};
 state.quizDone = Array.isArray(state.quizDone) ? state.quizDone : [];
+
 function save(){ localStorage.setItem(STORE, JSON.stringify(state)); }
 function card(id){ return CARDS.find(c=>c.id===id); }
 function isUnlocked(id){ return state.unlocked.includes(id); }
 function imgUrl(file){ return 'https://commons.wikimedia.org/wiki/Special:FilePath/' + encodeURIComponent(file); }
 function filePage(file){ return 'https://commons.wikimedia.org/wiki/File:' + file.replaceAll(' ','_'); }
-function imgTag(c, cls=''){ const src=imgUrl(c.image.file); return `<img class="${cls}" src="${src}" alt="${esc(c.title)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='assets/ui/fallback-card.svg'">`; }
+function imgTag(c, cls=''){
+  return `<img class="${cls}" src="${imgUrl(c.image.file)}" alt="${esc(c.title)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='assets/ui/fallback-card.svg'">`;
+}
 function esc(s){ return String(s ?? '').replace(/[&<>"']/g, m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m])); }
 function typeLabel(t){ return TYPE_META[t]?.[1] || t; }
 function typeIcon(t){ return TYPE_META[t]?.[0] || '◈'; }
 function rarityLabel(r){ return RARITY_META[r] || r; }
 function addXp(x){ state.xp += x; state.level = Math.floor(state.xp/500)+1; save(); }
 function unlock(ids){ ids.filter(Boolean).forEach(id=>{ if(!state.unlocked.includes(id)) state.unlocked.push(id); }); save(); }
-function progress(){ return Math.round(state.unlocked.length / CARDS.length * 100); }
+function collectionProgress(){ return Math.round(state.unlocked.length / CARDS.length * 100); }
+function levelProgress(){ return Math.round((state.xp % 500) / 500 * 100); }
 function quizResult(id){ return state.quizResults?.[id] || null; }
 function isQuizPassed(id){ return !!quizResult(id)?.passed; }
 function passedQuizCount(){ return CAMPAIGN.nodes.filter(n=>isQuizPassed(n.quiz)).length; }
 function campaignProgress(){ return Math.round(passedQuizCount() / CAMPAIGN.nodes.length * 100); }
 function currentNode(){ return CAMPAIGN.nodes.find(n=>!isQuizPassed(n.quiz)) || CAMPAIGN.nodes[CAMPAIGN.nodes.length-1]; }
-function go(tab){ state.tab=tab; state.selected=null; state.quizFinished=false; state.quizLastResult=null; save(); render(); }
-function openCard(id){ if(!isUnlocked(id)) return; state.currentCard=id; state.tab='detail'; if(!state.read.includes(id)){ state.read.push(id); addXp(10); } save(); render(); }
-function openQuiz(id){ state.currentQuiz=id; state.quizIndex=0; state.quizScore=0; state.selected=null; state.quizFinished=false; state.quizLastResult=null; state.tab='quiz'; save(); render(); }
-function answer(i){ if(state.selected!==null) return; state.selected=i; const q=currentQuestion(); if(i===q.correct) state.quizScore++; save(); render(); }
+function averageQuiz(){
+  const vals=Object.values(state.quizResults||{}).map(r=>r.bestPercent||0);
+  return vals.length ? Math.round(vals.reduce((a,b)=>a+b,0)/vals.length) : 0;
+}
+function pageTitle(){ return PAGE_META[state.tab] || PAGE_META.home; }
+function cardNumber(c){ return String(CARDS.findIndex(x=>x.id===c.id)+1).padStart(2,'0'); }
+function currentCard(){ return card(state.currentCard) || CARDS[0]; }
+
+function go(tab){
+  state.tab=tab; state.selected=null; state.quizFinished=false; state.quizLastResult=null;
+  save(); render(); window.scrollTo({top:0,behavior:'smooth'});
+}
+function openCard(id){
+  if(!isUnlocked(id)) return;
+  state.currentCard=id; state.tab='detail';
+  if(!state.read.includes(id)){ state.read.push(id); addXp(10); showToast('Новое знание','Карточка изучена · +10 XP','✦'); }
+  save(); render(); window.scrollTo({top:0,behavior:'smooth'});
+}
+function openQuiz(id){
+  state.currentQuiz=id; state.quizIndex=0; state.quizScore=0; state.selected=null;
+  state.quizFinished=false; state.quizLastResult=null; state.tab='quiz'; save(); render();
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+function answer(i){
+  if(state.selected!==null) return;
+  state.selected=i;
+  if(i===currentQuestion().correct) state.quizScore++;
+  save(); render();
+}
 function currentQuiz(){ return QUIZZES[state.currentQuiz] || QUIZZES[currentNode().quiz]; }
 function currentQuestion(){ return currentQuiz().questions[state.quizIndex]; }
-function nextQuestion(){ const qz=currentQuiz(); if(state.quizIndex < qz.questions.length-1){ state.quizIndex++; state.selected=null; save(); render(); return; } finishQuiz(); }
-function finishQuiz(){ const qz=currentQuiz(); const quizId=state.currentQuiz || currentNode().quiz; const total=qz.questions.length; const score=state.quizScore; const percent=Math.round(score/total*100); const previous=quizResult(quizId); const best=Math.max(previous?.bestPercent || 0, percent); const passed=percent>=PASS_PERCENT; const wasPassed=!!previous?.passed; const result={score,total,percent,bestPercent:best,passed:wasPassed || passed,lastPassed:passed,attempts:(previous?.attempts||0)+1,completedAt:new Date().toISOString()}; state.quizResults={...(state.quizResults||{}), [quizId]:result}; state.quizLastResult={quizId,...result,title:qz.title}; if(passed && !wasPassed){ if(!state.quizDone.includes(quizId)) state.quizDone.push(quizId); const node=CAMPAIGN.nodes.find(n=>n.quiz===quizId); addXp(node?.xp || 100); const idx=CAMPAIGN.nodes.findIndex(n=>n.quiz===quizId); const next=CAMPAIGN.nodes[idx+1]; if(next) unlock(next.cards); } state.quizFinished=true; state.selected=null; save(); render(); }
-function openPack(){ const locked=CARDS.filter(c=>!isUnlocked(c.id)); const picks=locked.sort(()=>Math.random()-.5).slice(0,2).map(c=>c.id); unlock(picks); addXp(35); state.currentCard=picks[0] || state.currentCard; state.tab='detail'; save(); render(); }
-function resetProgress(){ localStorage.removeItem(STORE); state={...initial}; render(); }
-function navButtons(cls=''){ return NAV.map(([id,ico,label])=>`<button class="${cls} ${state.tab===id?'active':''}" onclick="go('${id}')"><span>${ico}</span>${label}</button>`).join(''); }
-function shell(inner){ return `<div class="app-layout"><aside class="side-nav"><div class="brand-mark"><div class="seal">📜</div><div class="brand-title"><small>Codex of History</small><h1>История</h1></div></div><div class="nav-list">${navButtons('nav-btn')}</div><div class="side-card"><b>${state.level} уровень</b><span>${state.xp} XP · открыто ${state.unlocked.length}/${CARDS.length}</span><div class="progress" style="margin-top:12px"><span style="width:${progress()}%"></span></div></div></aside><main class="main-wrap"><div class="top-mobile"><b>📜 Codex</b><span>${state.level} ур. · ${state.xp} XP</span></div><div class="view">${inner}</div></main><nav class="mobile-tabs">${navButtons('')}</nav></div>`; }
-function cardBadges(c){ return `<div class="card-tags"><span class="badge gold">⭐ ${rarityLabel(c.rarity)}</span><span class="badge">${typeIcon(c.type)} ${typeLabel(c.type)}</span><span class="badge">🕰 ${c.date}</span></div>`; }
-function home(){ const node=currentNode(); return shell(`<section class="hero hero-clean"><div class="hero-content"><div class="eyebrow">Твой исторический codex · Рим</div><h2>История как коллекция, карта и квест</h2><p>Открывай карточки, проходи кампанию, собирай связи и проверяй себя квизами. Первый модуль: <b>Рим: от города к империи</b>.</p><div class="hero-actions"><button class="btn" onclick="go('campaign')">🏛 Продолжить кампанию</button><button class="btn secondary" onclick="openPack()">🎁 Открыть пак дня</button><button class="btn ghost" onclick="openQuiz('${node.quiz}')">🧠 Квиз текущей главы</button></div></div><div class="hero-summary"><div class="summary-mark">📜</div><h3>Codex of History</h3><p>Учебная кампания, коллекция карточек и карта связей. Без лишних блоков на главной.</p><div class="mini-progress"><span>Кампания</span><b>${campaignProgress()}%</b></div><div class="progress"><span style="width:${campaignProgress()}%"></span></div></div></section><section class="section"><div class="stat-strip"><div class="stat-box"><b>${state.unlocked.length}/${CARDS.length}</b><span>карточек открыто</span></div><div class="stat-box"><b>${state.read.length}</b><span>прочитано</span></div><div class="stat-box"><b>${passedQuizCount()}</b><span>квизов зачтено</span></div><div class="stat-box"><b>${campaignProgress()}%</b><span>кампания</span></div></div></section>`); }
-function campaign(){ return shell(`<section class="section" style="margin-top:0"><div class="section-head"><h2>🏛 ${CAMPAIGN.title}</h2><span>${campaignProgress()}% завершено</span></div><div class="panel"><h3>${CAMPAIGN.subtitle}</h3><p>${CAMPAIGN.description}</p><div class="progress" style="margin-top:14px"><span style="width:${campaignProgress()}%"></span></div></div></section><section class="section"><div class="section-head"><h2>Маршрут</h2><span>зачёт от ${PASS_PERCENT}%</span></div><div class="campaign-path">${CAMPAIGN.nodes.map((n,i)=>{ const open=i===0 || isQuizPassed(CAMPAIGN.nodes[i-1].quiz); const res=quizResult(n.quiz); const done=isQuizPassed(n.quiz); const label=res?`${res.bestPercent}% · ${done?'зачтено':'не зачтено'}`:'не пройден'; return `<div class="node ${open?'':'lock'}"><div class="node-icon">${done?'✅':n.emoji}</div><div><h3>${n.title}</h3><p>${n.cards.map(id=>card(id)?.title).join(' · ')}</p><div class="quiz-status ${done?'passed':'failed'}">${label}</div></div><button class="btn ${done?'secondary':''}" ${open?`onclick="openQuiz('${n.quiz}')"`:'disabled'}>${done?'Повторить':'Квиз'}</button></div>`; }).join('')}</div></section>`); }
-function renderMiniCard(c){ const locked=!isUnlocked(c.id); return `<article class="history-card ${locked?'lock':''}" onclick="${locked?'':`openCard('${c.id}')`}"><div class="image-card">${locked?'<img src="assets/ui/fallback-card.svg" alt="locked">':imgTag(c)}</div><div class="card-body">${cardBadges(c)}<h3>${locked?'Закрытая карточка':typeIcon(c.type)+' '+c.title}</h3><p>${locked?'Открой через кампанию или пак дня.':c.summary}</p><div class="card-tags">${(locked?['?','?']:c.tags.slice(0,3)).map(t=>`<span class="tag">${t}</span>`).join('')}</div></div></article>`; }
-function collection(){ const types=['ALL',...new Set(CARDS.map(c=>c.type))]; const rarities=['ALL',...new Set(CARDS.map(c=>c.rarity))]; const s=state.search.toLowerCase(); const list=CARDS.filter(c=>(state.filter==='ALL'||c.type===state.filter)&&(state.rarity==='ALL'||c.rarity===state.rarity)&&(c.title.toLowerCase().includes(s)||c.original.toLowerCase().includes(s)||c.tags.join(' ').toLowerCase().includes(s))); return shell(`<section class="section" style="margin-top:0"><div class="section-head"><h2>🃏 Коллекция</h2><span>${list.length} найдено</span></div><div class="search-row"><input placeholder="Поиск: Цезарь, Канны, сенат..." value="${esc(state.search)}" oninput="state.search=this.value;save();render()"><select onchange="state.filter=this.value;save();render()">${types.map(t=>`<option value="${t}" ${state.filter===t?'selected':''}>${t==='ALL'?'Все типы':typeLabel(t)}</option>`).join('')}</select><select onchange="state.rarity=this.value;save();render()">${rarities.map(r=>`<option value="${r}" ${state.rarity===r?'selected':''}>${r==='ALL'?'Все редкости':rarityLabel(r)}</option>`).join('')}</select></div><div class="card-grid">${list.map(renderMiniCard).join('')}</div></section>`); }
-function detail(){ const c=card(state.currentCard) || CARDS[0]; const edges=RELATIONS.filter(r=>r.source===c.id||r.target===c.id); return shell(`<div class="detail-grid"><div><div class="detail-cover">${imgTag(c,'cover-img')}<div class="detail-title">${cardBadges(c)}<h2>${c.title}</h2><p>${c.subtitle}</p></div></div><section class="section"><div class="grid cols-2"><div class="panel"><h3>Суть</h3><p>${c.summary}</p></div><div class="panel"><h3>Почему важно</h3><p>${c.importance}</p></div></div></section><section class="section"><div class="section-head"><h2>📌 3 факта</h2><span>${c.era}</span></div><div class="fact-list">${c.facts.map(f=>`<div class="fact">${f}</div>`).join('')}</div></section><section class="section"><div class="section-head"><h2>🔗 Связи</h2><span>${edges.length}</span></div><div class="grid">${edges.map(r=>{ const other=card(r.source===c.id?r.target:r.source); return `<div class="edge" onclick="openCard('${other.id}')"><b>${r.type}</b> → ${other.title}<br>${r.description}</div>`; }).join('') || '<div class="empty">Связей пока нет.</div>'}</div></section></div><aside><div class="panel"><h3>Учебные статы</h3><div class="bars">${Object.entries(c.stats).map(([k,v])=>`<div class="bar-row"><span>${STAT_LABELS[k]||k}</span><div class="bar-bg"><div class="bar-fill" style="width:${v*10}%"></div></div><b>${v}</b></div>`).join('')}</div></div><div class="panel" style="margin-top:14px"><h3>Изображение</h3><p>${c.image.caption}</p><p class="credit">${c.image.credit} · ${c.image.license}</p><p style="margin-top:10px"><a href="${filePage(c.image.file)}" target="_blank" rel="noreferrer">Открыть страницу файла ↗</a></p></div><div class="panel" style="margin-top:14px"><h3>Теги</h3><div class="card-tags">${c.tags.map(t=>`<span class="tag">#${t}</span>`).join('')}</div></div></aside></div>`); }
-function quiz(){ const qz=currentQuiz(); if(state.quizFinished && state.quizLastResult){ const r=state.quizLastResult; return shell(`<section class="quiz-card section" style="margin-top:0"><div class="panel quiz-result ${r.lastPassed?'passed':'failed'}"><div class="result-mark">${r.lastPassed?'✅':'❌'}</div><h2>${r.lastPassed?'Квиз зачтён':'Квиз не зачтён'}</h2><p><b>${r.percent}%</b> правильных ответов · ${r.score}/${r.total}</p><div class="progress"><span style="width:${r.percent}%"></span></div><p class="muted">Зачёт начинается от ${PASS_PERCENT}%. Лучший результат: ${r.bestPercent}%.</p><div class="hero-actions"><button class="btn" onclick="openQuiz('${r.quizId}')">Пройти ещё раз</button><button class="btn secondary" onclick="go('campaign')">В кампанию</button></div></div></section>`); } const q=currentQuestion(); const picked=state.selected!==null; const livePercent=Math.round(state.quizScore/qz.questions.length*100); return shell(`<section class="quiz-card section" style="margin-top:0"><div class="section-head"><h2>🧠 ${qz.title}</h2><span>${state.quizIndex+1}/${qz.questions.length} · ${livePercent}%</span></div><div class="panel"><div class="quiz-meter"><span>Правильно: ${state.quizScore}/${qz.questions.length}</span><b>зачёт от ${PASS_PERCENT}%</b></div><h3>${q.text}</h3><div class="answers">${q.answers.map((a,i)=>`<button class="answer ${picked?(i===q.correct?'correct':(i===state.selected?'wrong':'')):''}" onclick="answer(${i})">${a}</button>`).join('')}</div>${picked?`<div class="explain">${q.explanation}</div><button class="btn" onclick="nextQuestion()">${state.quizIndex<qz.questions.length-1?'Дальше':'Завершить'}</button>`:''}</div></section>`); }
-function mapScreen(){ const opened=CARDS.filter(c=>isUnlocked(c.id)); return shell(`<section class="section" style="margin-top:0"><div class="section-head"><h2>🗺 Карта кампании</h2><span>упрощённый слой MVP</span></div><div class="map-wrap">${opened.map(c=>`<div class="pin" style="left:${c.loc.x}%;top:${c.loc.y}%"><button onclick="openCard('${c.id}')">${typeIcon(c.type)}</button><span>${c.loc.label}</span></div>`).join('')}</div></section><section class="section"><div class="section-head"><h2>Открытые точки</h2><span>${opened.length}</span></div><div class="grid cols-2">${opened.slice(0,8).map(c=>`<div class="panel" onclick="openCard('${c.id}')"><h3>${typeIcon(c.type)} ${c.title}</h3><p>${c.region} · ${c.date}</p></div>`).join('')}</div></section>`); }
-function profile(){ return shell(`<section class="hero"><div class="hero-content"><div class="eyebrow">Локальный профиль</div><h2>Твой прогресс</h2><p>В MVP всё хранится в браузере через localStorage. Это удобно для GitHub Pages: backend не нужен.</p><div class="hero-actions"><button class="btn secondary" onclick="resetProgress()">Сбросить прогресс</button><a class="btn ghost" href="docs/PATCH_NOTES_v0_2.md" target="_blank">Patch notes</a></div></div><div class="hero-art"><img src="assets/ui/fallback-card.svg" alt="Codex"></div></section><section class="section"><div class="stat-strip"><div class="stat-box"><b>${state.xp}</b><span>XP</span></div><div class="stat-box"><b>${state.level}</b><span>уровень</span></div><div class="stat-box"><b>${state.unlocked.length}</b><span>карточек</span></div><div class="stat-box"><b>${passedQuizCount()}</b><span>квизов зачтено</span></div></div></section><section class="section"><div class="panel"><h3>Что внутри v0.2</h3><p>Русский UI, desktop/mobile режимы, новая дизайн-система, изображения карточек, attribution, улучшенная коллекция, фильтры, карта, кампания и квизы.</p></div></section>`); }
-function render(){ document.getElementById('app').innerHTML = ({home, campaign, collection, detail, quiz, map:mapScreen, profile}[state.tab] || home)(); }
+function nextQuestion(){
+  const qz=currentQuiz();
+  if(state.quizIndex < qz.questions.length-1){ state.quizIndex++; state.selected=null; save(); render(); return; }
+  finishQuiz();
+}
+function finishQuiz(){
+  const qz=currentQuiz();
+  const quizId=state.currentQuiz || currentNode().quiz;
+  const total=qz.questions.length;
+  const score=state.quizScore;
+  const percent=Math.round(score/total*100);
+  const previous=quizResult(quizId);
+  const best=Math.max(previous?.bestPercent || 0, percent);
+  const passed=percent>=PASS_PERCENT;
+  const wasPassed=!!previous?.passed;
+  const result={score,total,percent,bestPercent:best,passed:wasPassed || passed,lastPassed:passed,attempts:(previous?.attempts||0)+1,completedAt:new Date().toISOString()};
+  state.quizResults={...(state.quizResults||{}), [quizId]:result};
+  state.quizLastResult={quizId,...result,title:qz.title};
+  if(passed && !wasPassed){
+    if(!state.quizDone.includes(quizId)) state.quizDone.push(quizId);
+    const node=CAMPAIGN.nodes.find(n=>n.quiz===quizId);
+    addXp(node?.xp || 100);
+    const idx=CAMPAIGN.nodes.findIndex(n=>n.quiz===quizId);
+    const next=CAMPAIGN.nodes[idx+1];
+    if(next) unlock(next.cards);
+  }
+  state.quizFinished=true; state.selected=null; save(); render();
+  if(passed){ confetti(); showToast('Испытание пройдено',`${percent}% правильных · глава зачтена`,'✓'); }
+  else showToast('Попытка завершена',`${percent}% · нужно минимум ${PASS_PERCENT}%`,'↻');
+}
+function openPack(){
+  const locked=CARDS.filter(c=>!isUnlocked(c.id));
+  if(!locked.length){ showToast('Коллекция собрана','Все карточки текущего модуля уже открыты','♛'); return; }
+  const picks=[...locked].sort(()=>Math.random()-.5).slice(0,2);
+  unlock(picks.map(c=>c.id)); addXp(35);
+  showToast('Пак открыт',picks.map(c=>c.title).join(' · ') + ' · +35 XP','✦');
+  state.currentCard=picks[0].id; state.tab='detail'; save(); render();
+}
+function resetProgress(){
+  if(!confirm('Сбросить весь локальный прогресс?')) return;
+  localStorage.removeItem(STORE); state={...initial,quizResults:{},quizDone:[]}; render();
+  showToast('Прогресс сброшен','Можно начать кампанию заново','↺');
+}
+function updateSearch(el){
+  state.search=el.value; save(); const pos=el.selectionStart; render();
+  requestAnimationFrame(()=>{const n=document.getElementById('collection-search');if(n){n.focus();n.setSelectionRange(pos,pos);}});
+}
+function setFilter(key,value){ state[key]=value; save(); render(); }
+
+function showToast(title,text,icon='✦'){
+  const root=document.getElementById('toast-root'); if(!root) return;
+  const el=document.createElement('div'); el.className='toast';
+  el.innerHTML=`<div class="toast-icon">${icon}</div><div><b>${esc(title)}</b><span>${esc(text)}</span></div>`;
+  root.appendChild(el);
+  setTimeout(()=>{el.classList.add('out');setTimeout(()=>el.remove(),420);},3300);
+}
+function confetti(){
+  const colors=['#f4d78a','#b45658','#547b93','#f1e6cf','#66845c'];
+  for(let i=0;i<34;i++){
+    const p=document.createElement('i'); p.className='confetti';
+    p.style.background=colors[i%colors.length];
+    p.style.setProperty('--x',`${(Math.random()-.5)*680}px`);
+    p.style.setProperty('--y',`${120+Math.random()*430}px`);
+    p.style.setProperty('--r',`${(Math.random()-.5)*900}deg`);
+    p.style.left=`${46+Math.random()*8}%`; p.style.animationDelay=`${Math.random()*.18}s`;
+    document.body.appendChild(p); setTimeout(()=>p.remove(),2100);
+  }
+}
+
+function navButtons(cls=''){
+  return NAV.map(([id,ico,label])=>`<button class="${cls} ${state.tab===id?'active':''}" onclick="go('${id}')"><span>${ico}</span>${label}</button>`).join('');
+}
+function shell(inner){
+  const [section,title]=pageTitle();
+  return `<div class="app-layout">
+    <aside class="side-nav">
+      <div class="brand-mark"><div class="seal">C</div><div class="brand-title"><small>Codex of History</small><h1>История</h1></div></div>
+      <div class="nav-kicker">Навигация</div>
+      <div class="nav-list">${navButtons('nav-btn')}</div>
+      <div class="side-card">
+        <div class="side-level"><strong>${state.level}</strong><em>УРОВЕНЬ</em></div>
+        <p>${state.xp} XP · ${state.unlocked.length} из ${CARDS.length} карточек открыто</p>
+        <div class="progress"><span style="width:${levelProgress()}%"></span></div>
+        <div class="side-credit"><span>до нового уровня</span><span>${500-(state.xp%500)} XP</span></div>
+      </div>
+    </aside>
+    <main class="main-wrap">
+      <header class="command-bar">
+        <div class="command-title"><span>${section}</span><span>·</span><b>${title}</b></div>
+        <div class="command-actions"><div class="command-pill">${state.level} уровень</div><div class="command-pill">${state.xp} XP</div><button class="command-icon" onclick="openPack()" title="Открыть пак">✦</button></div>
+      </header>
+      <div class="top-mobile"><div class="mobile-brand"><img src="assets/ui/codex-mark.svg" alt=""><b>Codex</b></div><div class="mobile-level">${state.level} ур. · ${state.xp} XP</div></div>
+      <div class="view">${inner}</div>
+    </main>
+    <nav class="mobile-tabs">${navButtons('')}</nav>
+  </div>`;
+}
+function cardBadges(c, withDate=true){
+  return `<div class="card-tags"><span class="badge gold">${rarityLabel(c.rarity)}</span><span class="badge">${typeIcon(c.type)} ${typeLabel(c.type)}</span>${withDate?`<span class="badge">${c.date}</span>`:''}</div>`;
+}
+
+function home(){
+  const node=currentNode();
+  return shell(`<section class="home-hero reveal">
+    <div class="hero-layout">
+      <div class="hero-content">
+        <div class="eyebrow">Твой личный исторический codex</div>
+        <h2>Открывай прошлое.<br><span>Собирай историю.</span></h2>
+        <p>Красивое путешествие по людям, войнам, идеям и государствам. Изучай карточки, проходи кампании и выстраивай связи между эпохами.</p>
+        <div class="hero-actions">
+          <button class="btn" onclick="go('campaign')">♜ Продолжить путь</button>
+          <button class="btn secondary" onclick="openPack()">✦ Открыть пак</button>
+          <button class="btn ghost" onclick="openQuiz('${node.quiz}')">◉ Испытание главы</button>
+        </div>
+      </div>
+      <div class="hero-orbit">
+        <div class="orbit-core"><div class="core-value"><strong>${campaignProgress()}%</strong><span>путь по Риму</span></div></div>
+        <div class="orbit-chip one">Коллекция<b>${state.unlocked.length}/${CARDS.length}</b></div>
+        <div class="orbit-chip two">Средний квиз<b>${averageQuiz()}%</b></div>
+        <div class="orbit-chip three">Изучено<b>${state.read.length}</b></div>
+      </div>
+    </div>
+  </section>
+  <section class="home-stats reveal">
+    <div class="stat-box"><div class="stat-icon">▦</div><b>${state.unlocked.length}/${CARDS.length}</b><span>карточек открыто</span></div>
+    <div class="stat-box"><div class="stat-icon">✦</div><b>${state.read.length}</b><span>карточек изучено</span></div>
+    <div class="stat-box"><div class="stat-icon">✓</div><b>${passedQuizCount()}/${CAMPAIGN.nodes.length}</b><span>испытаний зачтено</span></div>
+    <div class="stat-box"><div class="stat-icon">♜</div><b>${campaignProgress()}%</b><span>кампания пройдена</span></div>
+  </section>`);
+}
+
+function campaign(){
+  return shell(`<section class="campaign-header reveal">
+    <div class="campaign-copy">
+      <div class="eyebrow">Первая историческая кампания</div>
+      <h2>${CAMPAIGN.title}</h2>
+      <p>${CAMPAIGN.description} Каждый узел открывает знания, карточки и следующий фрагмент пути.</p>
+      <div class="hero-actions"><button class="btn" onclick="openQuiz('${currentNode().quiz}')">◉ Текущее испытание</button><button class="btn secondary" onclick="go('collection')">▦ Открытые карточки</button></div>
+    </div>
+    <div class="campaign-progress-card">
+      <div class="campaign-ring" style="--p:${campaignProgress()}"><strong>${campaignProgress()}%</strong></div>
+      <p>${passedQuizCount()} из ${CAMPAIGN.nodes.length} глав завершено<br>Зачёт начинается от ${PASS_PERCENT}%.</p>
+    </div>
+  </section>
+  <section class="section reveal"><div class="section-head"><h2>Маршрут кампании</h2><span>Путь от мифа к империи</span></div>
+    <div class="timeline-shell"><div class="campaign-path">${CAMPAIGN.nodes.map((n,i)=>{
+      const open=i===0 || isQuizPassed(CAMPAIGN.nodes[i-1].quiz);
+      const res=quizResult(n.quiz); const done=isQuizPassed(n.quiz);
+      const label=res?`${res.bestPercent}% · ${done?'зачтено':'нужна новая попытка'}`:'испытание не пройдено';
+      return `<article class="node ${open?'':'lock'} ${done?'done':''}"><span class="node-number">${String(i+1).padStart(2,'0')}</span><div class="node-icon">${done?'✓':n.emoji}</div><div><h3>${n.title}</h3><p>${n.cards.map(id=>card(id)?.title).join(' · ')}</p><div class="quiz-status ${done?'passed':'failed'}">${label}</div></div><button class="btn ${done?'secondary':''}" ${open?`onclick="openQuiz('${n.quiz}')"`:'disabled'}>${done?'Повторить':'Начать'}</button></article>`;
+    }).join('')}</div></div>
+  </section>`);
+}
+
+function renderMiniCard(c){
+  const locked=!isUnlocked(c.id);
+  return `<article class="history-card tilt ${locked?'lock':''}" ${locked?'':`onclick="openCard('${c.id}')"`}>
+    <div class="image-card">${locked?'<img src="assets/ui/fallback-card.svg" alt="Закрытая карточка">':imgTag(c)}<span class="rarity-flag">${locked?'не открыта':rarityLabel(c.rarity)}</span><span class="card-number">${cardNumber(c)}</span></div>
+    <div class="card-body"><div class="card-kicker"><span>${locked?'???':typeIcon(c.type)+' '+typeLabel(c.type)}</span><span>${locked?'закрыто':c.era}</span></div><h3>${locked?'Закрытая карточка':c.title}</h3><p>${locked?'Продвигайся по кампании или открой пак, чтобы получить эту карточку.':c.summary}</p><div class="card-tags">${(locked?['неизвестно']:c.tags.slice(0,3)).map(t=>`<span class="tag">${t}</span>`).join('')}</div></div>
+  </article>`;
+}
+function collection(){
+  const types=['ALL',...new Set(CARDS.map(c=>c.type))];
+  const rarities=['ALL',...new Set(CARDS.map(c=>c.rarity))];
+  const s=state.search.toLowerCase();
+  const list=CARDS.filter(c=>(state.filter==='ALL'||c.type===state.filter)&&(state.rarity==='ALL'||c.rarity===state.rarity)&&(c.title.toLowerCase().includes(s)||c.original.toLowerCase().includes(s)||c.tags.join(' ').toLowerCase().includes(s)));
+  return shell(`<section class="collection-header reveal"><div><div class="eyebrow">Твой архив знаний</div><h2>Коллекция</h2></div><div class="collection-count">${list.length} карточек найдено</div></section>
+    <div class="search-row reveal"><div class="field-wrap"><input id="collection-search" placeholder="Цезарь, Канны, сенат..." value="${esc(state.search)}" oninput="updateSearch(this)"></div><select onchange="setFilter('filter',this.value)">${types.map(t=>`<option value="${t}" ${state.filter===t?'selected':''}>${t==='ALL'?'Все типы':typeLabel(t)}</option>`).join('')}</select><select onchange="setFilter('rarity',this.value)">${rarities.map(r=>`<option value="${r}" ${state.rarity===r?'selected':''}>${r==='ALL'?'Все редкости':rarityLabel(r)}</option>`).join('')}</select></div>
+    <div class="card-grid reveal">${list.map(renderMiniCard).join('')}</div>`);
+}
+
+function detail(){
+  const c=currentCard();
+  const edges=RELATIONS.filter(r=>r.source===c.id||r.target===c.id);
+  return shell(`<div class="detail-grid">
+    <main class="detail-main">
+      <div class="detail-cover reveal">${imgTag(c)}<div class="detail-title">${cardBadges(c)}<h2>${c.title}</h2><p>${c.subtitle} · ${c.region}</p></div></div>
+      <section class="section info-pair reveal"><div class="panel info-panel"><div class="eyebrow">Коротко</div><h3>Суть карточки</h3><p>${c.summary}</p></div><div class="panel info-panel"><div class="eyebrow">Контекст</div><h3>Почему это важно</h3><p>${c.importance}</p></div></section>
+      <section class="section reveal"><div class="section-head"><h2>Три опорных факта</h2><span>${c.era}</span></div><div class="fact-list">${c.facts.map(f=>`<div class="fact">${f}</div>`).join('')}</div></section>
+      <section class="section reveal"><div class="section-head"><h2>Связи в истории</h2><span>${edges.length} узлов</span></div><div class="edge-list">${edges.map(r=>{const other=card(r.source===c.id?r.target:r.source);return `<article class="edge" onclick="openCard('${other.id}')"><b>${r.type.replaceAll('_',' ')}</b><strong>${other.title}</strong><br>${r.description}</article>`;}).join('')||'<div class="empty">Связей пока нет.</div>'}</div></section>
+    </main>
+    <aside class="detail-aside">
+      <div class="panel reveal"><div class="eyebrow">Профиль знания</div><h3>Учебные характеристики</h3><div class="bars">${Object.entries(c.stats).map(([k,v])=>`<div class="bar-row"><span>${STAT_LABELS[k]||k}</span><div class="bar-bg"><div class="bar-fill" style="width:${v*10}%"></div></div><b>${v}</b></div>`).join('')}</div></div>
+      <div class="panel reveal"><div class="eyebrow">Источник изображения</div><h3>${c.image.caption}</h3><p class="credit">${c.image.credit} · ${c.image.license}</p><div class="hero-actions"><a class="btn ghost" href="${filePage(c.image.file)}" target="_blank" rel="noreferrer">Открыть источник ↗</a></div></div>
+      <div class="panel reveal"><div class="eyebrow">Навигация</div><h3>Теги карточки</h3><div class="card-tags">${c.tags.map(t=>`<span class="tag">#${t}</span>`).join('')}</div></div>
+    </aside>
+  </div>`);
+}
+
+function quiz(){
+  const qz=currentQuiz();
+  if(state.quizFinished && state.quizLastResult){
+    const r=state.quizLastResult;
+    return shell(`<section class="quiz-focus reveal"><div class="quiz-card quiz-result ${r.lastPassed?'passed':'failed'}"><div class="result-mark">${r.lastPassed?'✓':'↻'}</div><div class="eyebrow" style="justify-content:center">Результат испытания</div><h2>${r.lastPassed?'Глава пройдена':'Нужна ещё попытка'}</h2><div class="score-display">${r.percent}% <small>${r.score}/${r.total} верно</small></div><div class="progress"><span style="width:${r.percent}%"></span></div><p class="muted">Зачёт начинается от ${PASS_PERCENT}%. Твой лучший результат: ${r.bestPercent}%.</p><div class="hero-actions" style="justify-content:center"><button class="btn" onclick="openQuiz('${r.quizId}')">↻ Пройти ещё раз</button><button class="btn secondary" onclick="go('campaign')">♜ Вернуться к пути</button></div></div></section>`);
+  }
+  const q=currentQuestion(); const picked=state.selected!==null;
+  const questionProgress=Math.round((state.quizIndex+1)/qz.questions.length*100);
+  return shell(`<section class="quiz-focus reveal"><div class="quiz-topline"><div class="quiz-title"><div class="eyebrow">Испытание главы</div><h2>${qz.title}</h2></div><div class="quiz-counter">${state.quizIndex+1}/${qz.questions.length}</div></div><div class="quiz-card"><div class="quiz-meter"><span>Правильно сейчас: ${state.quizScore}</span><b>зачёт от ${PASS_PERCENT}%</b></div><div class="progress" style="margin-bottom:27px"><span style="width:${questionProgress}%"></span></div><h3 class="question">${q.text}</h3><div class="answers">${q.answers.map((a,i)=>`<button data-key="${String.fromCharCode(65+i)}" class="answer ${picked?(i===q.correct?'correct':(i===state.selected?'wrong':'')):''}" onclick="answer(${i})">${a}</button>`).join('')}</div>${picked?`<div class="explain">${q.explanation}</div><button class="btn" onclick="nextQuestion()">${state.quizIndex<qz.questions.length-1?'Следующий вопрос →':'Завершить испытание'}</button>`:''}</div></section>`);
+}
+
+function routeSvg(points){
+  const uniq=[]; const seen=new Set();
+  points.forEach(p=>{const key=`${p.loc.x}-${p.loc.y}`;if(!seen.has(key)){seen.add(key);uniq.push(p);}});
+  if(uniq.length<2) return '';
+  const d=uniq.map((p,i)=>`${i?'L':'M'} ${p.loc.x} ${p.loc.y}`).join(' ');
+  return `<svg class="map-route" viewBox="0 0 100 100" preserveAspectRatio="none"><defs><linearGradient id="routeGradient"><stop offset="0" stop-color="#f4d78a"/><stop offset=".5" stop-color="#b45658"/><stop offset="1" stop-color="#547b93"/></linearGradient></defs><path d="${d}"/></svg>`;
+}
+function mapScreen(){
+  const opened=CARDS.filter(c=>isUnlocked(c.id));
+  return shell(`<section class="collection-header reveal"><div><div class="eyebrow">Средиземноморский театр</div><h2>Карта кампании</h2></div><div class="collection-count">${opened.length} точек открыто</div></section><div class="map-stage reveal">${routeSvg(opened)}${opened.map(c=>`<div class="pin" style="left:${c.loc.x}%;top:${c.loc.y}%"><button onclick="openCard('${c.id}')">${typeIcon(c.type)}</button><span>${c.loc.label}</span></div>`).join('')}</div><section class="section reveal"><div class="section-head"><h2>Открытые места</h2><span>История в пространстве</span></div><div class="location-grid">${opened.slice(0,12).map(c=>`<article class="panel panel-click location-card" onclick="openCard('${c.id}')"><small>${c.region}</small><h3>${typeIcon(c.type)} ${c.title}</h3><p>${c.date}</p></article>`).join('')}</div></section>`);
+}
+
+function profile(){
+  return shell(`<section class="profile-hero reveal"><div class="profile-main"><div class="eyebrow">Личная хроника</div><h2>Хранитель Codex</h2><p>Твой прогресс живёт прямо в браузере. Каждая карточка, глава и попытка формируют личную карту знаний.</p><div class="profile-level"><b>${state.level}</b><span>уровень исследователя<br>${state.xp} опыта</span></div><div class="hero-actions"><button class="btn danger" onclick="resetProgress()">↺ Сбросить прогресс</button><a class="btn ghost" href="docs/PATCH_NOTES_v0_4.md" target="_blank">Что нового ↗</a></div></div><div class="achievement-card"><div class="achievement-medal">${campaignProgress()===100?'♛':'✦'}</div><h3>${campaignProgress()===100?'Покоритель Рима':'Исследователь Рима'}</h3><p>${campaignProgress()===100?'Первая кампания полностью завершена.':'Заверши все главы первой кампании, чтобы получить высший знак.'}</p><div class="progress" style="margin-top:20px"><span style="width:${campaignProgress()}%"></span></div></div></section><section class="home-stats reveal"><div class="stat-box"><div class="stat-icon">XP</div><b>${state.xp}</b><span>всего опыта</span></div><div class="stat-box"><div class="stat-icon">▦</div><b>${collectionProgress()}%</b><span>коллекция собрана</span></div><div class="stat-box"><div class="stat-icon">◉</div><b>${averageQuiz()}%</b><span>средний результат</span></div><div class="stat-box"><div class="stat-icon">✦</div><b>${state.read.length}</b><span>знаний изучено</span></div></section><section class="section reveal"><div class="panel"><div class="eyebrow">Техническая основа</div><h3>Твой прогресс остаётся у тебя</h3><p>Codex остаётся полностью статичным и работает на GitHub Pages. Авторизация и сервер не нужны: данные сохраняются локально через localStorage.</p></div></section>`);
+}
+
+function initEnhancements(){
+  const prefersReduced=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if(!prefersReduced){
+    document.querySelectorAll('.tilt:not(.lock)').forEach(el=>{
+      el.addEventListener('pointermove',e=>{
+        if(window.innerWidth<901) return;
+        const r=el.getBoundingClientRect(); const x=(e.clientX-r.left)/r.width; const y=(e.clientY-r.top)/r.height;
+        el.style.setProperty('--ry',`${(x-.5)*8}deg`); el.style.setProperty('--rx',`${(.5-y)*8}deg`);
+        el.style.setProperty('--hx',`${x*100}%`); el.style.setProperty('--hy',`${y*100}%`);
+      });
+      el.addEventListener('pointerleave',()=>{el.style.setProperty('--ry','0deg');el.style.setProperty('--rx','0deg');});
+    });
+  }
+  const items=document.querySelectorAll('.reveal');
+  if(!('IntersectionObserver' in window) || prefersReduced){items.forEach(x=>x.classList.add('visible'));return;}
+  const io=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');io.unobserve(e.target);}}),{threshold:.08});
+  items.forEach((x,i)=>{x.style.transitionDelay=`${Math.min(i*55,220)}ms`;io.observe(x);});
+}
+function render(){
+  document.getElementById('app').innerHTML=({home,campaign,collection,detail,quiz,map:mapScreen,profile}[state.tab]||home)();
+  requestAnimationFrame(initEnhancements);
+}
+
+document.addEventListener('pointermove',e=>{
+  document.documentElement.style.setProperty('--mx',`${e.clientX}px`);
+  document.documentElement.style.setProperty('--my',`${e.clientY}px`);
+},{passive:true});
+document.addEventListener('keydown',e=>{
+  if(e.altKey && /^[1-5]$/.test(e.key)) go(NAV[Number(e.key)-1][0]);
+  if(e.key==='Escape' && state.tab==='detail') go('collection');
+});
+
 render();

@@ -1,27 +1,27 @@
-# ATTRIBUTION — Codex of History v0.2
+# ATTRIBUTION — Codex of History v0.5
 
 Изображения подключены через Wikimedia Commons `Special:FilePath`. Для каждого файла указана страница источника. Перед коммерческим использованием проверь точную лицензию на странице файла.
 
 ## Ромул
-- Файл: `Capitoline_she-wolf_Musei_Capitolini_MC1181.jpg`
-- Подпись: Капитолийская волчица с Ромулом и Ремом
-- Credit: Wikimedia Commons
-- License: Public Domain / см. страницу файла
-- Source: https://commons.wikimedia.org/wiki/File:Capitoline_she-wolf_Musei_Capitolini_MC1181.jpg
+- Файл: `Buste de Rome (Louvre, Ma 1209) - Romulus.jpg`
+- Подпись: Ромул на шлеме аллегорического бюста города Рима, Лувр
+- Credit: Wikimedia Commons / Louvre / Tangopaso
+- License: Public Domain
+- Source: https://commons.wikimedia.org/wiki/File:Buste_de_Rome_(Louvre,_Ma_1209)_-_Romulus.jpg
 
 ## Основание Рима
-- Файл: `Capitoline_she-wolf_Musei_Capitolini_MC1181.jpg`
-- Подпись: Капитолийская волчица — один из главных образов мифа основания
+- Файл: `Romulus Founds the City and Names it Rome, pl.9 from the series The Story of Romulus and Remus.jpg`
+- Подпись: Ромул закладывает город и даёт ему имя Рим. Гравюра Джамбаттисты Фонтаны, 1575
 - Credit: Wikimedia Commons
 - License: Public Domain / см. страницу файла
-- Source: https://commons.wikimedia.org/wiki/File:Capitoline_she-wolf_Musei_Capitolini_MC1181.jpg
+- Source: https://commons.wikimedia.org/wiki/File:Romulus_Founds_the_City_and_Names_it_Rome,_pl.9_from_the_series_The_Story_of_Romulus_and_Remus.jpg
 
 ## Римское царство
-- Файл: `Capitoline_Wolf_of_Roman_Kingdom.svg`
-- Подпись: Символический знак Римского царства с Капитолийской волчицей
-- Credit: Wikimedia Commons
-- License: см. страницу файла
-- Source: https://commons.wikimedia.org/wiki/File:Capitoline_Wolf_of_Roman_Kingdom.svg
+- Файл: `Late Roman kingdom map-blank.svg`
+- Подпись: Территория позднего Римского царства на карте Италии
+- Credit: Wikimedia Commons / Sémhur
+- License: CC BY-SA 4.0 / Free Art License
+- Source: https://commons.wikimedia.org/wiki/File:Late_Roman_kingdom_map-blank.svg
 
 ## Изгнание царей
 - Файл: `The_Lictors_Returning_To_Brutus_The_Bodies_Of_His_Sons.jpg`

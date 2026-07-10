@@ -125,24 +125,22 @@
 - Базовые картографические данные и тайлы: © OpenStreetMap contributors.
 - Контуры Лация, Этрурии и сабинской области в приложении — упрощённые учебные оверлеи, созданные для механики кампании, а не точная реконструкция границ.
 
-## Карточки, добавленные в v0.9
+## Архивные изображения, проверенные в v1.0
 
-Новые архивные изображения подключаются через `Wikimedia Commons Special:FilePath` и должны проверяться по странице конкретного файла перед публичным коммерческим использованием:
+- Альба-Лонга — `Lo Scheggia, Reduction of Alba Longa by Tullus Hostilius, Circa 1430 - 35, Sotheby's.jpg` — Public Domain.
+- Тибр — `Tiber River, Rome (48494164807).jpg` — Public Domain Mark.
+- Авгурия — `Augur, Nordisk familjebok.svg` — Public Domain.
+- Тит Татий — `P.P. Rubens - Twee Romeinse veldheren (Romulus en Titus Tatius) - NK2675 - Museum Boijmans Van Beuningen.jpg` — Public Domain.
+- Тарпея — `Tarpeia Crushed by the Sabines Met DP888584.jpg` — CC0.
+- Квиринал — `Quirinal Hill Luigi Rossini.jpg` — Public Domain.
+- Храм Януса — `Sesterce temple janus.JPG` — см. страницу файла.
+- Анк Марций — `Ancus-Martius.jpg` — Public Domain.
+- Сервий Туллий — `Servius Tullius by Frans Huys.jpg` — Public Domain.
+- Клоака Максима — `View of the Cloaca Maxima, Rome.jpg` — Public Domain.
+- Сервиева стена — `Servian Wall.JPG` — Public Domain.
+- Лукреция — `Joerg Breu the Elder - The Suicide of Lucretia.JPG` — Public Domain.
+- Луций Юний Брут — `Capitoline Brutus Musei Capitolini MC1183.jpg` — см. страницу файла.
+- Римские консулы — `Consul with Lictors.png` — Public Domain.
+- Фасции — `Fasces lictoriae.svg` — см. страницу файла.
 
-- Альба-Лонга — `Castel Gandolfo and Lake Albano.jpg`
-- Тибр — `Tiber River Rome.jpg`
-- Авгурия — `Augur, Nordisk familjebok.png`
-- Тит Татий — `Titus Tatius.jpg`
-- Тарпея — `Tarpeia.jpg`
-- Квиринал — `Quirinal Hill Rome.jpg`
-- Храм Януса — `Temple of Janus coin.jpg`
-- Анк Марций — `Ancus Marcius.jpg`
-- Сервий Туллий — `Servius Tullius.jpg`
-- Клоака Максима — `Cloaca Maxima Rome.jpg`
-- Сервиева стена — `Servian Wall Rome.jpg`
-- Лукреция — `The Death of Lucretia.jpg`
-- Луций Юний Брут — `Lucius Junius Brutus Capitoline Museums.jpg`
-- Римские консулы — `Roman consul.jpg`
-- Фасции — `Fasces lictoriae.svg`
-
-Если конкретный файл отсутствует или переименован, приложение использует `assets/ui/fallback-card.svg`.
+Все файлы подключаются через Wikimedia Commons `Special:FilePath`. Для коммерческого использования проверь актуальные условия на странице каждого файла.

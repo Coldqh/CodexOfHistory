@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "source": "Wikimedia Commons",
+  "strategy": "Special:FilePath with local fallback",
+  "fixed_cards": [
+    {"id":"CITY_ARC_001","file":"Lo Scheggia, Reduction of Alba Longa by Tullus Hostilius, Circa 1430 - 35, Sotheby's.jpg","license":"Public Domain"},
+    {"id":"REG_ARC_001","file":"Tiber River, Rome (48494164807).jpg","license":"Public Domain Mark"},
+    {"id":"REL_ARC_001","file":"Augur, Nordisk familjebok.svg","license":"Public Domain"},
+    {"id":"PER_ARC_001","file":"P.P. Rubens - Twee Romeinse veldheren (Romulus en Titus Tatius) - NK2675 - Museum Boijmans Van Beuningen.jpg","license":"Public Domain"},
+    {"id":"PER_ARC_002","file":"Tarpeia Crushed by the Sabines Met DP888584.jpg","license":"CC0"},
+    {"id":"LOC_ARC_001","file":"Quirinal Hill Luigi Rossini.jpg","license":"Public Domain"},
+    {"id":"REL_ARC_002","file":"Sesterce temple janus.JPG","license":"Check file page"},
+    {"id":"PER_ARC_003","file":"Ancus-Martius.jpg","license":"Public Domain"},
+    {"id":"PER_ARC_004","file":"Servius Tullius by Frans Huys.jpg","license":"Public Domain"},
+    {"id":"ART_ARC_001","file":"View of the Cloaca Maxima, Rome.jpg","license":"Public Domain"},
+    {"id":"ART_ARC_002","file":"Servian Wall.JPG","license":"Public Domain"},
+    {"id":"PER_ARC_005","file":"Joerg Breu the Elder - The Suicide of Lucretia.JPG","license":"Public Domain"},
+    {"id":"PER_ARC_006","file":"Capitoline Brutus Musei Capitolini MC1183.jpg","license":"Check file page"},
+    {"id":"ORG_ARC_001","file":"Consul with Lictors.png","license":"Public Domain"},
+    {"id":"ART_ARC_003","file":"Fasces lictoriae.svg","license":"Check file page"}
+  ]
+}

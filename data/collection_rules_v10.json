@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "archive": {
+    "description": "Личный архив показывает только реально полученные карточки.",
+    "includes": ["campaign_rewards", "pack_drops", "crafted_cards"],
+    "excludes": ["unknown_cards", "discovered_but_not_owned", "future_pool_cards"]
+  },
+  "collection": {
+    "description": "Полный каталог показывает все карточки проекта и их способ получения.",
+    "locked_content": ["summary", "facts", "relations", "quests"],
+    "visible_metadata": ["title", "image", "type", "rarity", "acquisition", "pool_status"]
+  }
+}

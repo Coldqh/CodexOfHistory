@@ -1,8 +1,8 @@
-/* Codex of History v1.1 — data-first static bootstrap */
+/* Codex of History v1.2 — data-first static bootstrap */
 (() => {
   const app = document.getElementById('app');
   const showBoot = (title, text, isError=false) => {
-    app.innerHTML = `<main class="boot-screen ${isError?'boot-error':''}"><div class="boot-mark">C</div><div><div class="eyebrow">Content Engine v1.1</div><h1>${title}</h1><p>${text}</p></div></main>`;
+    app.innerHTML = `<main class="boot-screen ${isError?'boot-error':''}"><div class="boot-mark">C</div><div><div class="eyebrow">Content Engine v1.2</div><h1>${title}</h1><p>${text}</p></div></main>`;
   };
   const fetchJson = async path => {
     const response = await fetch(path, {cache:'no-cache'});
@@ -19,13 +19,13 @@
       const manifest=await fetchJson('data/content-manifest.json');
       const d=manifest.datasets;
       window.CODEX_VENDOR_READY={leaflet:manifest.vendors?.leaflet?loadScript(manifest.vendors.leaflet).catch(error=>{console.warn('[Codex vendor]',error);return false;}):Promise.resolve(false)};
-      const [cardSets,relations,campaign,pools,quizzes,stories,mastery,packs,collection,maps]=await Promise.all([
+      const [cardSets,relations,campaign,pools,quizzes,stories,mastery,packs,collection,maps,daily]=await Promise.all([
         Promise.all(d.cards.map(fetchJson)),fetchJson(d.relations),fetchJson(d.campaign),fetchJson(d.pools),fetchJson(d.quizzes),
-        fetchJson(d.stories),fetchJson(d.mastery),fetchJson(d.packs),fetchJson(d.collection),fetchJson(d.maps)
+        fetchJson(d.stories),fetchJson(d.mastery),fetchJson(d.packs),fetchJson(d.collection),fetchJson(d.maps),fetchJson(d.daily)
       ]);
       const cards=cardSets.flat();
       window.CODEX_MANIFEST=manifest;
-      window.CODEX_CONFIG={mastery,packs,collection,maps};
+      window.CODEX_CONFIG={mastery,packs,collection,maps,daily};
       window.CARDS=cards; window.RELATIONS=relations; window.CAMPAIGN=campaign; window.V09_CONTENT=pools;
       window.QUIZZES=quizzes; window.PERSONAL_STORIES=stories;
       window.CODEX_REGISTRY={

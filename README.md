@@ -1,6 +1,6 @@
-# Codex of History v1.1
+# Codex of History v1.2
 
-Статическая историческая игра для GitHub Pages. Версия 1.1 переводит проект на data-first архитектуру.
+Статическая историческая игра для GitHub Pages. Версия 1.2 добавляет ежедневное обучение и интервальные повторения поверх data-first архитектуры v1.1.
 
 ## Установка
 
@@ -8,13 +8,13 @@
 
 ```powershell
 git add .
-git commit -m "Patch v1.1 content engine refactor"
+git commit -m "Patch v1.2 daily learning"
 git push
 ```
 
 ## Локальный запуск
 
-Из-за загрузки JSON через `fetch` нужен HTTP-сервер:
+Данные загружаются через `fetch`, поэтому нужен HTTP-сервер:
 
 ```powershell
 cd C:\CodexOfHistory
@@ -29,4 +29,8 @@ python -m http.server 8000
 node tools/validate-content.mjs
 ```
 
-Подробности: `docs/ARCHITECTURE_v1_1.md`.
+Документация:
+
+- `docs/PATCH_NOTES_v1_2.md`
+- `docs/ARCHITECTURE_v1_2.md`
+- `docs/QA_v1_2.md`

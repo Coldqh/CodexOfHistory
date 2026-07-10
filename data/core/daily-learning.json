@@ -1,0 +1,20 @@
+{
+  "version": "1.2",
+  "interval_days": [1, 3, 7, 14, 30],
+  "session": {
+    "review_cards": 3,
+    "relation_tasks": 1,
+    "challenge_tasks": 1,
+    "pass_percent": 70,
+    "xp_reward": 60,
+    "fragment_reward": 15,
+    "perfect_bonus_xp": 25,
+    "perfect_bonus_fragments": 5
+  },
+  "rules": {
+    "daily_pack_requires_session": true,
+    "missed_days_remove_progress": false,
+    "wrong_answer_resets_interval": true,
+    "replay_rewards": false
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -16,7 +16,8 @@
     "mastery": "data/core/mastery.json",
     "packs": "data/core/packs.json",
     "collection": "data/core/collection.json",
-    "maps": "data/maps/rome.json"
+    "maps": "data/maps/rome.json",
+    "daily": "data/core/daily-learning.json"
   },
   "scripts": [
     "js/maps/engine.js",
@@ -29,6 +30,7 @@
     "js/features/mastery.js",
     "js/features/pools-stories.js",
     "js/features/catalog.js",
+    "js/features/daily-learning.js",
     "js/core/start.js"
   ],
   "vendors": {

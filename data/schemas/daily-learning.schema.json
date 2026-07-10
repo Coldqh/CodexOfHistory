@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Codex Daily Learning Config",
+  "type": "object",
+  "required": ["version", "interval_days", "session", "rules"],
+  "properties": {
+    "version": {"type": "string"},
+    "interval_days": {
+      "type": "array",
+      "minItems": 1,
+      "items": {"type": "integer", "minimum": 1}
+    },
+    "session": {
+      "type": "object",
+      "required": ["review_cards", "relation_tasks", "challenge_tasks", "pass_percent", "xp_reward", "fragment_reward"]
+    },
+    "rules": {"type": "object"}
+  }
+}

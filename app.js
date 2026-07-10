@@ -3,6 +3,96 @@ const RELATIONS = [{"id":"REL_001","source":"PER_ROM_001","target":"EVT_ROM_001"
 const CAMPAIGN = {"id":"CAM_ROM_BIRTH_001","title":"Рим: рождение города","subtitle":"Глава I · От мифа к Республике","description":"Семь миссий о близнецах, Палатине, сабинянах, религии, этрусском городе и падении царской власти.","difficulty":3,"chapter":1,"nodes":[{"id":"MIS_BIRTH_01","type":"READ","title":"Легенда о близнецах","description":"Изучи Ромула, Рема и традиционное основание города.","cards":["PER_ROM_001","PER_ROM_005","EVT_ROM_001"],"unlockCards":["PER_ROM_006","ART_ROM_001","LOC_ROM_001"],"xp":90,"emoji":"🐺"},{"id":"MIS_BIRTH_02","type":"QUIZ","title":"Миф или хроника?","description":"Отдели римскую память от проверяемого исторического знания.","cards":["PER_ROM_006","ART_ROM_001","LOC_ROM_001"],"quiz":"QUIZ_BIRTH_MYTH","unlockCards":["REG_ROM_001","STATE_ROM_001"],"xp":110,"emoji":"📜"},{"id":"MIS_BIRTH_03","type":"MAP","title":"Где родился Рим","description":"Найди Лаций и Палатин на учебной карте.","cards":["REG_ROM_001","LOC_ROM_001"],"unlockCards":["CUL_ROM_001","EVT_ROM_005"],"xp":100,"emoji":"🗺"},{"id":"MIS_BIRTH_04","type":"QUIZ","title":"Рим и сабиняне","description":"Разбери тяжёлый миф о конфликте, женщинах и объединении общин.","cards":["CUL_ROM_001","EVT_ROM_005"],"quiz":"QUIZ_BIRTH_SABINES","unlockCards":["PER_ROM_007","ORG_ROM_002"],"xp":120,"emoji":"⚔"},{"id":"MIS_BIRTH_05","type":"QUIZ","title":"Царь мира и богов","description":"Изучи Нуму, весталок и роль религии в раннем государстве.","cards":["PER_ROM_007","ORG_ROM_002"],"quiz":"QUIZ_BIRTH_NUMA","unlockCards":["CUL_ROM_002","PER_ROM_008","LOC_ROM_002","PER_ROM_009","EVT_ROM_002"],"xp":130,"emoji":"🔥"},{"id":"MIS_BIRTH_06","type":"TIMELINE","title":"Царская хронология","description":"Собери путь от основания к изгнанию последнего царя.","cards":["CUL_ROM_002","PER_ROM_008","LOC_ROM_002","PER_ROM_009","EVT_ROM_002","STATE_ROM_001"],"unlockCards":[],"xp":140,"emoji":"⏳"},{"id":"MIS_BIRTH_07","type":"FINAL","title":"Испытание первой главы","description":"Докажи, что понимаешь миф, географию, царей и переход к Республике.","cards":["STATE_ROM_001","EVT_ROM_002"],"quiz":"QUIZ_BIRTH_FINAL","unlockCards":["STATE_ROM_002","ORG_ROM_001"],"xp":260,"emoji":"🏛"}]};
 const QUIZZES = {"QUIZ_BIRTH_MYTH":{"title":"Миф или хроника?","questions":[{"text":"Какая дата традиционно считается датой основания Рима?","answers":["753 год до н. э.","509 год до н. э.","616 год до н. э.","44 год до н. э."],"correct":0,"explanation":"753 год до н. э. — традиционная дата, закреплённая поздней римской хронологией."},{"text":"Историю Ромула и Рема следует считать точной хроникой?","answers":["Да, полностью","Нет, это миф основания","Только историю волчицы","Только дату рождения"],"correct":1,"explanation":"Это миф основания. Он важен для римской идентичности, но не является надёжным протоколом событий."},{"text":"Что связывает легенду с археологией?","answers":["Следы ранних поселений на Палатине","Найденная могила Ромула с паспортом","Точный дворец Рема","Письменный дневник Реи Сильвии"],"correct":0,"explanation":"На Палатине есть следы раннего поселения, но они не доказывают буквальную историю близнецов."},{"text":"Когда к Капитолийской волчице добавили фигуры близнецов?","answers":["В эпоху Возрождения","При Ромуле","При Нуме","В XX веке"],"correct":0,"explanation":"Фигуры Ромула и Рема были добавлены значительно позже самой бронзовой волчицы, в эпоху Возрождения."},{"text":"Кем в мифе была Рея Сильвия?","answers":["Весталкой и матерью близнецов","Царицей Карфагена","Сабинской воительницей","Первой консулкой"],"correct":0,"explanation":"Рея Сильвия — мифическая весталка, мать Ромула и Рема."}]},"QUIZ_BIRTH_SABINES":{"title":"Рим и сабиняне","questions":[{"text":"Кем были сабиняне?","answers":["Италийским народом рядом с Лацием","Египетской династией","Карфагенскими моряками","Греческими спартанцами"],"correct":0,"explanation":"Сабиняне жили в Центральной Италии к северо-востоку от Рима."},{"text":"Что делает легенда о сабинянках в финале?","answers":["Объясняет объединение общин","Уничтожает Рим","Создаёт Карфаген","Начинает Империю"],"correct":0,"explanation":"В традиции женщины останавливают конфликт и становятся связью между римлянами и сабинянами."},{"text":"Нужно ли воспринимать похищение сабинянок как доказанный факт?","answers":["Нет, это поздняя легендарная традиция","Да, известны все имена","Да, сохранилось видео","Только частично, потому что есть монеты"],"correct":0,"explanation":"История известна из поздних литературных источников и работает как миф о происхождении общества."},{"text":"Какой царь традиционно считался сабинянином?","answers":["Нума Помпилий","Юлий Цезарь","Август","Ганнибал"],"correct":0,"explanation":"Римская традиция считала Нуму сабинянином."},{"text":"Что показывает сабинская линия?","answers":["Рим формировался через конфликт и интеграцию","Рим был полностью изолирован","В Риме не было соседей","Все жители были этрусками"],"correct":0,"explanation":"Ранний Рим возник в среде разных общин Центральной Италии."}]},"QUIZ_BIRTH_NUMA":{"title":"Нума и священный порядок","questions":[{"text":"Какой образ закрепился за Нумой Помпилием?","answers":["Мирный законодатель и устроитель культов","Главный завоеватель Карфагена","Последний император","Греческий философ в Афинах"],"correct":0,"explanation":"Нуме приписывали мирный порядок, ритуалы, календарь и жреческие институты."},{"text":"Что поддерживали весталки?","answers":["Священный огонь Весты","Военный флот","Царскую казну","Стены Карфагена"],"correct":0,"explanation":"Главной обязанностью весталок было поддержание священного огня."},{"text":"Была ли религия отделена от государства в раннем Риме?","answers":["Нет, ритуалы были частью общественного порядка","Да, полностью","Только при царях","Только для иностранцев"],"correct":0,"explanation":"Римская религия была тесно встроена в политическую и общественную жизнь."},{"text":"Историчны ли все детали биографии Нумы?","answers":["Нет, традиция сильно легендарна","Да, подтверждены документами","Да, сохранилась автобиография","Нет, Нумы вообще нет в римской традиции"],"correct":0,"explanation":"Нума — традиционный царь, но подробности его жизни нельзя считать надёжно доказанными."},{"text":"С каким народом традиция связывала Нуму?","answers":["С сабинянами","С карфагенянами","С галлами","С египтянами"],"correct":0,"explanation":"Нума считался выходцем из сабинской среды."}]},"QUIZ_BIRTH_FINAL":{"title":"Финал: рождение Рима","questions":[{"text":"Что правильнее всего сказать о 753 годе до н. э.?","answers":["Это традиционная дата основания","Это точная дата археологической постройки","Это дата падения царства","Это дата рождения Нумы"],"correct":0,"explanation":"Дата традиционная и символическая."},{"text":"Какой холм связан с ранним ядром Рима и мифом Ромула?","answers":["Палатин","Акрополь","Монмартр","Синай"],"correct":0,"explanation":"Палатин был древним центром поселения и местом основания в традиции."},{"text":"Где возник Рим?","answers":["В Лации у Тибра","В Сицилии","В Египте","В Галлии"],"correct":0,"explanation":"Рим возник в древнем Лации у реки Тибр."},{"text":"Что символизирует Капитолийская волчица?","answers":["Мифическое спасение близнецов и происхождение Рима","Победу над Ганнибалом","Сенатскую реформу","Падение Империи"],"correct":0,"explanation":"Волчица стала главным символом римского мифа основания."},{"text":"Чем важен миф о сабинянках?","answers":["Объясняет конфликт и включение соседней общины","Доказывает основание Карфагена","Рассказывает о Цезаре","Описывает Пуническую войну"],"correct":0,"explanation":"Он связывает насилие, войну и последующее объединение."},{"text":"Кому традиция приписывала устройство многих культов?","answers":["Нуме Помпилию","Тарквинию Гордому","Сципиону","Августу"],"correct":0,"explanation":"Нума — традиционный религиозный законодатель."},{"text":"Кто сильнее всего повлиял на городское развитие Рима в поздний царский период?","answers":["Этруски","Викинги","Персы","Финикийцы Испании"],"correct":0,"explanation":"Этрусские правители и традиции связаны с урбанизацией раннего Рима."},{"text":"Что стало сердцем городской жизни после осушения долины?","answers":["Римский форум","Колизей","Пантеон","Аппиева дорога"],"correct":0,"explanation":"Форум возник между холмами как общее пространство города."},{"text":"Кто считается последним царём Рима?","answers":["Тарквиний Гордый","Ромул","Нума","Цезарь"],"correct":0,"explanation":"Тарквиний Гордый — традиционный седьмой и последний царь."},{"text":"Что, по традиции, произошло в 509 году до н. э.?","answers":["Изгнание царей и рождение Республики","Основание Рима","Битва при Каннах","Убийство Цезаря"],"correct":0,"explanation":"509 год до н. э. — традиционная дата перехода к Республике."}]}};
 
+const GEO = {
+  ROME:[41.9028,12.4964], PALATINE:[41.8895,12.4875], CAPITOL:[41.8933,12.4829], FORUM:[41.8925,12.4853],
+  LATIUM:[41.75,12.62], SABINES:[42.15,13.03], ETRURIA:[42.15,11.82], CARTHAGE:[36.8529,10.3233],
+  CANNAE:[41.3062,16.1348], ZAMA:[36.33,9.45], RUBICON:[44.17,12.44]
+};
+const LATIUM_POLYGON=[[42.16,11.30],[42.35,12.10],[42.20,13.05],[41.85,13.72],[41.20,13.75],[40.78,12.82],[41.03,11.62],[41.55,11.38]];
+const ETRURIA_POLYGON=[[43.05,10.70],[43.10,12.25],[42.43,12.60],[41.92,12.50],[41.72,11.47],[42.20,10.72]];
+const SABINE_POLYGON=[[42.66,12.55],[42.70,13.45],[41.90,13.60],[41.78,12.72],[42.15,12.50]];
+const CARD_GEO = {
+  'PER_ROM_001':GEO.PALATINE,'PER_ROM_005':GEO.PALATINE,'EVT_ROM_001':GEO.PALATINE,'PER_ROM_006':GEO.ROME,'ART_ROM_001':GEO.CAPITOL,
+  'LOC_ROM_001':GEO.PALATINE,'REG_ROM_001':GEO.LATIUM,'STATE_ROM_001':GEO.ROME,'CUL_ROM_001':GEO.SABINES,'EVT_ROM_005':GEO.ROME,
+  'PER_ROM_007':GEO.ROME,'ORG_ROM_002':GEO.FORUM,'CUL_ROM_002':GEO.ETRURIA,'PER_ROM_008':GEO.ROME,'LOC_ROM_002':GEO.FORUM,
+  'PER_ROM_009':GEO.ROME,'EVT_ROM_002':GEO.ROME,'STATE_ROM_002':GEO.ROME,'ORG_ROM_001':GEO.FORUM,
+  'PER_CAR_001':GEO.CARTHAGE,'WAR_ROM_001':[39.4,12.0],'BAT_ROM_001':GEO.CANNAE,'PER_ROM_002':GEO.ZAMA,'BAT_ROM_002':GEO.ZAMA,
+  'PER_ROM_003':GEO.ROME,'EVT_ROM_003':GEO.RUBICON,'BAT_ROM_003':[39.15,22.14],'PER_ROM_004':GEO.ROME
+};
+let activeMaps=[];
+function destroyMaps(){ activeMaps.forEach(m=>{try{m.remove();}catch(_){}}); activeMaps=[]; }
+function geoForCard(c){ return CARD_GEO[c.id] || GEO.ROME; }
+function mapColors(){ return state.theme==='parchment'
+  ? {line:'#68421f',fill:'#9b682f',wine:'#7f2f37',soft:'#f6ead2',text:'#2b1f15'}
+  : {line:'#f0d9aa',fill:'#c69b5c',wine:'#cf6471',soft:'#17120d',text:'#f6f1e8'};
+}
+function markerIcon(c,target=false){
+  return L.divIcon({className:'history-div-icon',html:`<div class="history-marker ${target?'mission-target':''}">${typeIcon(c.type)}</div>`,iconSize:[42,42],iconAnchor:[21,21],tooltipAnchor:[0,-25]});
+}
+function createBaseMap(id,center,zoom){
+  if(typeof L==='undefined'){ const el=document.getElementById(id); if(el) el.innerHTML='<div class="map-load-error"><b>Карта не загрузилась</b><span>Проверь подключение к интернету и обнови страницу.</span></div>'; return null; }
+  const map=L.map(id,{zoomControl:false,minZoom:5,maxZoom:18,worldCopyJump:true,preferCanvas:true}).setView(center,zoom);
+  L.control.zoom({position:'bottomright'}).addTo(map);
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'}).addTo(map);
+  activeMaps.push(map); return map;
+}
+function addRegionLayers(map,interactive=false,missionId=null){
+  const c=mapColors();
+  const regions=[
+    {key:'latium',name:'Лаций',poly:LATIUM_POLYGON,color:c.wine,fill:.12},
+    {key:'etruria',name:'Этрурия',poly:ETRURIA_POLYGON,color:c.fill,fill:.07},
+    {key:'sabines',name:'Сабинская область',poly:SABINE_POLYGON,color:c.line,fill:.06}
+  ];
+  regions.forEach(r=>{
+    const layer=L.polygon(r.poly,{color:r.color,weight:r.key==='latium'?2.2:1.3,fillColor:r.color,fillOpacity:r.fill,dashArray:r.key==='latium'?null:'7 7'}).addTo(map);
+    layer.bindTooltip(r.name,{sticky:true,className:'history-label'});
+    if(interactive && r.key==='latium') layer.on('click',e=>{if(e.originalEvent)L.DomEvent.stopPropagation(e.originalEvent);answerMapTask(missionId,'latium');});
+  });
+  L.polyline([[42.15,12.31],[41.97,12.38],[41.90,12.47],[41.72,12.31],[41.35,12.07]],{color:c.line,weight:3,opacity:.55}).addTo(map).bindTooltip('Тибр',{sticky:true,className:'history-label'});
+}
+function addCardMarkers(map,cards){
+  cards.forEach(c=>{
+    const marker=L.marker(geoForCard(c),{icon:markerIcon(c)}).addTo(map);
+    marker.bindTooltip(c.loc?.label||c.title,{direction:'top',className:'history-label',offset:[0,-3]});
+    marker.bindPopup(`<div class="map-popup"><b>${esc(c.title)}</b><span>${esc(c.date)} · ${esc(c.region)}</span><button onclick="openCard('${c.id}')">Открыть карточку</button></div>`);
+  });
+}
+function fitChapterMap(map,cards){
+  const pts=cards.map(geoForCard); if(!pts.length) return;
+  if(pts.length===1) map.setView(pts[0],11); else map.fitBounds(L.latLngBounds(pts).pad(.35),{maxZoom:11});
+}
+function initAtlasMap(){
+  const el=document.getElementById('atlas-map'); if(!el) return;
+  const chapterIds=[...new Set(CAMPAIGN.nodes.flatMap(n=>n.cards))];
+  const cards=chapterIds.map(card).filter(c=>c&&isUnlocked(c.id));
+  const map=createBaseMap('atlas-map',GEO.ROME,8); if(!map) return;
+  addRegionLayers(map); addCardMarkers(map,cards); fitChapterMap(map,cards);
+  setTimeout(()=>map.invalidateSize(),120);
+}
+function resetAtlasView(){ const m=activeMaps.find(x=>x.getContainer()?.id==='atlas-map'); if(m)m.setView(GEO.ROME,8,{animate:true}); }
+function fitAtlasMarkers(){
+  const m=activeMaps.find(x=>x.getContainer()?.id==='atlas-map'); if(!m)return;
+  const ids=[...new Set(CAMPAIGN.nodes.flatMap(n=>n.cards))]; const cards=ids.map(card).filter(c=>c&&isUnlocked(c.id)); fitChapterMap(m,cards);
+}
+function initMissionMap(){
+  const el=document.getElementById('mission-map'); if(!el) return;
+  const id=el.dataset.mission; const task=state.mapTasks[id]||{step:0,mistakes:0,passed:false};
+  const map=createBaseMap('mission-map',task.step===0?GEO.LATIUM:GEO.PALATINE,task.step===0?7:15); if(!map) return;
+  addRegionLayers(map,true,id);
+  const c=mapColors();
+  const pal=L.circle(GEO.PALATINE,{radius:170,color:c.line,weight:3,fillColor:c.fill,fillOpacity:task.step===0?.08:.30,dashArray:task.step===0?'6 7':null}).addTo(map);
+  pal.bindTooltip('Палатин',{permanent:task.step>0,direction:'top',className:'history-label'});
+  pal.on('click',e=>{if(e.originalEvent)L.DomEvent.stopPropagation(e.originalEvent);answerMapTask(id,'palatine');});
+  L.marker(GEO.CAPITOL,{icon:L.divIcon({className:'history-div-icon',html:'<div class="history-marker">⌂</div>',iconSize:[42,42],iconAnchor:[21,21]})}).addTo(map).bindTooltip('Капитолий',{direction:'top',className:'history-label'});
+  map.on('click',()=>answerMapTask(id,'wrong'));
+  setTimeout(()=>map.invalidateSize(),120);
+}
+function initMapsForView(){ if(state.tab==='map') initAtlasMap(); if(state.tab==='mission'&&mission(state.currentMission)?.type==='MAP') initMissionMap(); }
+function updateMapMissionStatus(id){
+  const t=state.mapTasks[id]||{step:0,mistakes:0};
+  const error=document.getElementById('map-error-count'); if(error) error.textContent=String(t.mistakes||0);
+}
+
 const STORE = 'codex_history_v02_ru';
 const TYPE_META = {
   PERSON:['♛','Личность'], EVENT:['✦','Событие'], BATTLE:['⚔','Битва'],
@@ -45,7 +135,7 @@ function applyTheme(){
   document.documentElement.dataset.theme=state.theme;
   document.documentElement.style.colorScheme=state.theme==='parchment'?'light':'dark';
   const meta=document.querySelector('meta[name="theme-color"]');
-  if(meta) meta.content=state.theme==='parchment'?'#e7dcc2':'#06131c';
+  if(meta) meta.content=state.theme==='parchment'?'#ded1b6':'#050505';
 }
 function toggleTheme(){
   document.documentElement.classList.add('theme-switching');
@@ -78,9 +168,16 @@ function finishReadMission(id){ const m=mission(id); if(m && missionReady(m)) co
 function answerMapTask(id,key){
   const expected=['latium','palatine']; const cur=state.mapTasks[id]||{step:0,mistakes:0,passed:false};
   if(cur.passed) return;
-  if(key===expected[cur.step]){ cur.step++; showToast('Верно',cur.step===1?'Теперь найди Палатин':'Локация собрана','⌖'); }
-  else { cur.mistakes++; showToast('Не туда','Посмотри на подписи и попробуй ещё раз','↻'); }
-  if(cur.step>=expected.length){cur.passed=true; state.mapTasks[id]=cur; completeMission(id);} else {state.mapTasks[id]=cur;save();render();}
+  if(key===expected[cur.step]){
+    cur.step++;
+    state.mapTasks[id]=cur; save();
+    showToast('Верно',cur.step===1?'Лаций найден. Теперь приблизь карту и найди Палатин.':'Палатин найден — география миссии пройдена.','⌖');
+    if(cur.step>=expected.length){ cur.passed=true; state.mapTasks[id]=cur; save(); completeMission(id); render(); }
+    else render();
+  } else {
+    cur.mistakes++; state.mapTasks[id]=cur; save(); updateMapMissionStatus(id);
+    showToast('Не туда','Перемещай карту, меняй масштаб и ориентируйся по подписям.','↻');
+  }
 }
 const TIMELINE_ORDER=['foundation','numa','tarquin','superbus','expulsion'];
 const TIMELINE_LABELS={foundation:'753 до н. э. · традиционное основание',numa:'Нума и священный порядок',tarquin:'Этрусские цари и городской рост',superbus:'Тарквиний Гордый',expulsion:'509 до н. э. · изгнание царей'};
@@ -317,8 +414,8 @@ function missionScreen(){
     activity=`<div class="mission-action panel"><div class="eyebrow">${m.type==='FINAL'?'Финальный экзамен':'Испытание'}</div><h3>${QUIZZES[m.quiz].title}</h3><p>${r?`Лучший результат: <b>${r.bestPercent}%</b>. ${r.passed?'Зачёт получен.':'Нужно минимум '+PASS_PERCENT+'%.'}`:'Проверь понимание миссии. Зачёт начинается от '+PASS_PERCENT+'%.'}</p><button class="btn" onclick="openQuiz('${m.quiz}','${m.id}')">${r?'Пройти ещё раз':'Начать испытание'} →</button></div>`;
   } else if(m.type==='MAP'){
     const task=state.mapTasks[m.id]||{step:0,mistakes:0,passed:false};
-    const ask=task.step===0?'Сначала нажми на область Лация':'Теперь нажми на Палатин внутри Рима';
-    activity=`<div class="mission-action panel map-mission"><div class="eyebrow">Интерактивная карта</div><h3>${task.passed?'Маршрут найден':ask}</h3><p>Ошибок: ${task.mistakes||0}. Карта учебная и условная.</p><div class="chapter-map"><button class="geo-region latium" onclick="answerMapTask('${m.id}','latium')"><span>ЛАЦИЙ</span></button><button class="geo-point palatine" onclick="answerMapTask('${m.id}','palatine')"><i></i><span>Палатин</span></button><button class="geo-point capitol" onclick="answerMapTask('${m.id}','capitol')"><i></i><span>Капитолий</span></button><button class="geo-region etruria" onclick="answerMapTask('${m.id}','etruria')"><span>ЭТРУРИЯ</span></button><div class="river">Тибр</div></div></div>`;
+    const ask=task.passed?'География пройдена':task.step===0?'Найди Лаций на карте':'Приблизь Рим и найди Палатин';
+    activity=`<div class="mission-action panel map-mission"><div class="eyebrow">Настоящая интерактивная карта</div><h3>${ask}</h3><p>Перетаскивай карту мышью или пальцем, приближай колёсиком, жестом или кнопками. Ошибок: <b id="map-error-count">${task.mistakes||0}</b>.</p><div class="map-shell mission-map-shell"><div id="mission-map" class="leaflet-map" data-mission="${m.id}"></div><div class="map-toolbar"><div class="eyebrow">Задание</div><h3>${ask}</h3><p>${task.step===0?'Нажми внутри выделенной территории древнего Лация.':'Найди отмеченную область Палатина внутри современного Рима.'}</p><div class="map-progress"><i class="${task.step>0?'done':''}"></i><i class="${task.passed?'done':''}"></i><b>${task.passed?'2/2':task.step+'/2'}</b></div></div><div class="map-legend"><span><i class="region-dot"></i> исторические области</span><span><i></i> места и карточки</span><span>© OpenStreetMap</span></div></div></div>`;
   } else if(m.type==='TIMELINE'){
     const task=state.timelineTasks[m.id]||{selected:[],passed:false};
     const options=TIMELINE_ORDER.slice().sort((a,b)=>['superbus','foundation','expulsion','numa','tarquin'].indexOf(a)-['superbus','foundation','expulsion','numa','tarquin'].indexOf(b));
@@ -376,17 +473,12 @@ function quiz(){
   return shell(`<section class="quiz-focus reveal"><div class="quiz-topline"><div class="quiz-title"><div class="eyebrow">Испытание главы</div><h2>${qz.title}</h2></div><div class="quiz-counter">${state.quizIndex+1}/${qz.questions.length}</div></div><div class="quiz-card"><div class="quiz-meter"><span>Правильно сейчас: ${state.quizScore}</span><b>зачёт от ${PASS_PERCENT}%</b></div><div class="progress" style="margin-bottom:27px"><span style="width:${questionProgress}%"></span></div><h3 class="question">${q.text}</h3><div class="answers">${q.answers.map((a,i)=>`<button data-key="${String.fromCharCode(65+i)}" class="answer ${picked?(i===q.correct?'correct':(i===state.selected?'wrong':'')):''}" onclick="answer(${i})">${a}</button>`).join('')}</div>${picked?`<div class="explain">${q.explanation}</div><button class="btn" onclick="nextQuestion()">${state.quizIndex<qz.questions.length-1?'Следующий вопрос →':'Завершить испытание'}</button>`:''}</div></section>`);
 }
 
-function routeSvg(points){
-  const uniq=[]; const seen=new Set();
-  points.forEach(p=>{const key=`${p.loc.x}-${p.loc.y}`;if(!seen.has(key)){seen.add(key);uniq.push(p);}});
-  if(uniq.length<2) return '';
-  const d=uniq.map((p,i)=>`${i?'L':'M'} ${p.loc.x} ${p.loc.y}`).join(' ');
-  return `<svg class="map-route" viewBox="0 0 100 100" preserveAspectRatio="none"><defs><linearGradient id="routeGradient"><stop offset="0" stop-color="#a8f0e5"/><stop offset=".5" stop-color="#ef7c86"/><stop offset="1" stop-color="#6388d8"/></linearGradient></defs><path d="${d}"/></svg>`;
-}
 function mapScreen(){
   const chapterIds=[...new Set(CAMPAIGN.nodes.flatMap(n=>n.cards))];
   const opened=chapterIds.map(card).filter(c=>c&&isUnlocked(c.id));
-  return shell(`<section class="collection-header reveal"><div><div class="eyebrow">География первой главы</div><h2>Лаций и ранний Рим</h2></div><div class="collection-count">${opened.length} узлов открыто</div></section><div class="map-stage birth-map reveal">${routeSvg(opened)}${opened.map(c=>`<div class="pin" style="left:${c.loc.x}%;top:${c.loc.y}%"><button onclick="openCard('${c.id}')">${typeIcon(c.type)}</button><span>${c.loc.label}</span></div>`).join('')}</div><section class="section reveal"><div class="section-head"><h2>Ключевые пространства</h2><span>Река · холмы · соседние народы</span></div><div class="location-grid">${opened.map(c=>`<article class="panel panel-click location-card" onclick="openCard('${c.id}')"><small>${c.region}</small><h3>${typeIcon(c.type)} ${c.title}</h3><p>${c.date}</p></article>`).join('')}</div></section>`);
+  return shell(`<section class="collection-header reveal"><div><div class="eyebrow">Живой исторический атлас</div><h2>Лаций и ранний Рим</h2></div><div class="collection-count">${opened.length} узлов открыто</div></section>
+  <div class="map-shell reveal"><div id="atlas-map" class="leaflet-map"></div><div class="map-toolbar"><div class="eyebrow">Интерактивная карта</div><h3>Перемещайся по настоящей карте</h3><p>Приближай Рим, открывай маркеры карточек и изучай соседние области. Исторические границы показаны учебными контурами поверх современной географии.</p></div><div class="map-actions"><button class="map-action" onclick="resetAtlasView()" title="Вернуться к Риму">⌂</button><button class="map-action" onclick="fitAtlasMarkers()" title="Показать все открытые точки">◎</button></div><div class="map-legend"><span><i class="region-dot"></i> исторические области</span><span><i></i> открытые карточки</span><span>колесо / жест — масштаб</span></div></div>
+  <section class="section reveal"><div class="section-head"><h2>Ключевые пространства</h2><span>Нажми карточку — карта откроет досье</span></div><div class="location-grid">${opened.map(c=>`<article class="panel panel-click location-card" onclick="openCard('${c.id}')"><small>${c.region}</small><h3>${typeIcon(c.type)} ${c.title}</h3><p>${c.date}</p></article>`).join('')}</div></section>`);
 }
 
 function profile(){
@@ -413,8 +505,9 @@ function initEnhancements(){
 }
 function render(){
   applyTheme();
+  destroyMaps();
   document.getElementById('app').innerHTML=({home,campaign,mission:missionScreen,collection,detail,quiz,map:mapScreen,profile}[state.tab]||home)();
-  requestAnimationFrame(initEnhancements);
+  requestAnimationFrame(()=>{initEnhancements();initMapsForView();});
 }
 
 document.addEventListener('pointermove',e=>{

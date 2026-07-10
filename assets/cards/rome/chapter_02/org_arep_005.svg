@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#18111b"/><stop offset="1" stop-color="#76506f"/></linearGradient><pattern id="p" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M0 23h46M23 0v46" stroke="#e8c590" stroke-opacity=".05"/></pattern></defs>
+<rect width="900" height="1200" fill="url(#g)"/><rect width="900" height="1200" fill="url(#p)"/>
+<circle cx="450" cy="420" r="250" fill="none" stroke="#e8c590" stroke-opacity=".18" stroke-width="3"/>
+<circle cx="450" cy="420" r="188" fill="#e8c590" fill-opacity=".07" stroke="#e8c590" stroke-opacity=".4" stroke-width="2"/>
+<text x="450" y="500" text-anchor="middle" font-size="220" fill="#e8c590" font-family="Georgia,serif">⌂</text>
+<path d="M90 820H810" stroke="#e8c590" stroke-opacity=".45"/>
+<text x="60" y="900" font-size="48" font-weight="700" fill="#e8c590" font-family="Georgia,serif"><tspan x="60" dy="0">Плебейский совет</tspan></text>
+<text x="60" y="1080" font-size="24" fill="#e8c590" opacity=".76" font-family="Arial,sans-serif">собрание плебеев без патрициев</text>
+<text x="810" y="1140" text-anchor="end" font-size="18" fill="#e8c590" opacity=".55" font-family="Arial,sans-serif">CODEX · ROMA II</text>
+</svg>

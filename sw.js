@@ -1,7 +1,45 @@
-const VERSION='codex-v1.6.0';
+const VERSION='codex-v1.7.0';
 const APP_CACHE=`${VERSION}-app`;
 const IMAGE_CACHE=`${VERSION}-images`;
-const APP_SHELL=['./','./index.html','./styles.css','./manifest.webmanifest','./assets/ui/codex-mark.svg','./assets/ui/fallback-card.svg','./assets/ui/pack-daily.svg','./assets/ui/pack-rome.svg'];
+const APP_SHELL=['./','./index.html','./styles.css','./manifest.webmanifest','./assets/ui/codex-mark.svg','./assets/ui/fallback-card.svg','./assets/ui/pack-daily.svg','./assets/ui/pack-rome.svg',
+"./assets/cards/rome/chapter_02/per_rep_001.svg",
+"./assets/cards/rome/chapter_02/per_rep_002.svg",
+"./assets/cards/rome/chapter_02/evt_rep_001.svg",
+"./assets/cards/rome/chapter_02/per_rep_003.svg",
+"./assets/cards/rome/chapter_02/bat_rep_001.svg",
+"./assets/cards/rome/chapter_02/cul_rep_001.svg",
+"./assets/cards/rome/chapter_02/cul_rep_002.svg",
+"./assets/cards/rome/chapter_02/evt_rep_002.svg",
+"./assets/cards/rome/chapter_02/org_rep_001.svg",
+"./assets/cards/rome/chapter_02/evt_rep_003.svg",
+"./assets/cards/rome/chapter_02/law_rep_001.svg",
+"./assets/cards/rome/chapter_02/org_rep_002.svg",
+"./assets/cards/rome/chapter_02/per_rep_004.svg",
+"./assets/cards/rome/chapter_02/per_rep_005.svg",
+"./assets/cards/rome/chapter_02/evt_rep_004.svg",
+"./assets/cards/rome/chapter_02/per_arep_001.svg",
+"./assets/cards/rome/chapter_02/loc_arep_001.svg",
+"./assets/cards/rome/chapter_02/loc_arep_002.svg",
+"./assets/cards/rome/chapter_02/per_arep_002.svg",
+"./assets/cards/rome/chapter_02/per_arep_003.svg",
+"./assets/cards/rome/chapter_02/per_arep_004.svg",
+"./assets/cards/rome/chapter_02/per_arep_005.svg",
+"./assets/cards/rome/chapter_02/loc_arep_003.svg",
+"./assets/cards/rome/chapter_02/bat_arep_001.svg",
+"./assets/cards/rome/chapter_02/org_arep_001.svg",
+"./assets/cards/rome/chapter_02/org_arep_002.svg",
+"./assets/cards/rome/chapter_02/org_arep_003.svg",
+"./assets/cards/rome/chapter_02/org_arep_004.svg",
+"./assets/cards/rome/chapter_02/art_arep_001.svg",
+"./assets/cards/rome/chapter_02/term_arep_001.svg",
+"./assets/cards/rome/chapter_02/loc_arep_004.svg",
+"./assets/cards/rome/chapter_02/loc_arep_005.svg",
+"./assets/cards/rome/chapter_02/org_arep_005.svg",
+"./assets/cards/rome/chapter_02/org_arep_006.svg",
+"./assets/cards/rome/chapter_02/law_arep_001.svg",
+"./assets/cards/rome/chapter_02/term_arep_002.svg",
+"./assets/cards/rome/chapter_02/per_arep_006.svg",
+"./assets/cards/rome/chapter_02/per_arep_007.svg"];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(APP_CACHE).then(cache=>cache.addAll(APP_SHELL)).then(()=>self.skipWaiting()));});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('codex-')&&!k.startsWith(VERSION)).map(k=>caches.delete(k)))).then(()=>self.clients.claim()));});
 self.addEventListener('fetch',event=>{

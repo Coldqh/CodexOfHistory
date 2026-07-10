@@ -49,18 +49,11 @@ function resetAtlasView(){const m=activeMaps.find(x=>x.getContainer()?.id==='atl
 function fitAtlasMarkers(){const m=activeMaps.find(x=>x.getContainer()?.id==='atlas-map');if(!m)return;const cards=typeof chapterMapCards==='function'?chapterMapCards():[];fitChapterMap(m,cards);}
 function initMissionMap(){
   const el=document.getElementById('mission-map');if(!el)return;
-  const id=el.dataset.mission;const task=state.mapTasks[id]||{step:0,mistakes:0,passed:false};const colors=mapColors();
-  const map=createBaseMap('mission-map',task.step===0?[42.0,12.5]:GEO.PALATINE,task.step===0?6:15);if(!map)return;
-  if(task.step===0){
-    const rome=L.circle(GEO.ROME,{radius:18000,color:colors.wine,weight:3,fillColor:colors.wine,fillOpacity:.18}).addTo(map);
-    rome.bindTooltip('Рим',{permanent:true,direction:'top',className:'history-label'});
-    rome.on('click',e=>{if(e.originalEvent)L.DomEvent.stopPropagation(e.originalEvent);answerMapTask(id,'rome');});
-  }else{
-    const pal=L.circle(GEO.PALATINE,{radius:190,color:colors.line,weight:3,fillColor:colors.fill,fillOpacity:.34}).addTo(map);
-    pal.bindTooltip('Палатин',{permanent:true,direction:'top',className:'history-label'});
-    pal.on('click',e=>{if(e.originalEvent)L.DomEvent.stopPropagation(e.originalEvent);answerMapTask(id,'palatine');});
-    L.marker(GEO.CAPITOL,{icon:L.divIcon({className:'history-div-icon',html:'<div class="history-marker">⌂</div>',iconSize:[36,36],iconAnchor:[18,18]})}).addTo(map).bindTooltip('Капитолий',{direction:'top',className:'history-label'});
-  }
+  const id=el.dataset.mission;const targets=typeof missionMapTargets==='function'?missionMapTargets(id):[];const task=state.mapTasks[id]||{step:0,mistakes:0,passed:false};const colors=mapColors();const target=targets[Math.min(task.step,Math.max(0,targets.length-1))];
+  const point=target?(typeof target.point==='string'?GEO[target.point]:target.point):GEO.ROME;const initial=task.step===0?(mission(id)?.chapterId==='ROME_CHAPTER_02'?GEO.ROME:[42.0,12.5]):point;
+  const map=createBaseMap('mission-map',initial,task.step===0?(mission(id)?.chapterId==='ROME_CHAPTER_02'?11:6):(target?.zoom||14));if(!map)return;
+  if(target){const circle=L.circle(point,{radius:target.radius||350,color:colors.wine,weight:3,fillColor:colors.fill,fillOpacity:.28}).addTo(map);circle.bindTooltip(target.label,{permanent:true,direction:'top',className:'history-label'});circle.on('click',e=>{if(e.originalEvent)L.DomEvent.stopPropagation(e.originalEvent);answerMapTask(id,target.key);});}
+  targets.forEach((t,i)=>{if(i===task.step)return;const p=typeof t.point==='string'?GEO[t.point]:t.point;L.marker(p,{icon:L.divIcon({className:'history-div-icon',html:`<div class="history-marker muted">${i<task.step?'✓':'·'}</div>`,iconSize:[30,30],iconAnchor:[15,15]})}).addTo(map).bindTooltip(t.label,{direction:'top',className:'history-label'});});
   map.on('click',()=>answerMapTask(id,'wrong'));setTimeout(()=>map.invalidateSize(),120);
 }
 function initMapsForView(){if(state.tab==='map')initAtlasMap();if(state.tab==='mission'&&mission(state.currentMission)?.type==='MAP')initMissionMap();}

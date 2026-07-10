@@ -778,5 +778,1224 @@
       "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D1%81%D1%86%D0%B8%D0%B8",
       "type": "wikipedia"
     }
+  },
+  {
+    "id": "PER_AREP_001",
+    "type": "PERSON",
+    "title": "Спурий Лукреций Триципитин",
+    "original": "Spurius Lucretius Tricipitinus",
+    "subtitle": "отец Лукреции и участник смены власти",
+    "era": "Ранняя Республика",
+    "region": "Рим",
+    "date": "конец VI века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "summary": "Спурий Лукреций в предании — отец Лукреции и один из первых магистратов после изгнания царей.",
+    "importance": "Карточка показывает, что переворот описывался как дело нескольких связанных аристократических семей.",
+    "facts": [
+      "Он присутствует в рассказе Ливия о признании Лукреции.",
+      "Традиция ненадолго помещает его на место консула Коллатина.",
+      "Историческая биография почти полностью зависит от поздних источников."
+    ],
+    "tags": [
+      "Лукреция",
+      "аристократия",
+      "консулы"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 4,
+      "military": 2,
+      "culture": 3,
+      "politics": 5,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Рим",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "per_arep_001.svg",
+      "local": "assets/cards/rome/chapter_02/per_arep_001.svg",
+      "caption": "Авторская векторная иллюстрация: Спурий Лукреций Триципитин",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Спурий Лукреций Триципитин — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%A1%D0%BF%D1%83%D1%80%D0%B8%D0%B9%20%D0%9B%D1%83%D0%BA%D1%80%D0%B5%D1%86%D0%B8%D0%B9%20%D0%A2%D1%80%D0%B8%D1%86%D0%B8%D0%BF%D0%B8%D1%82%D0%B8%D0%BD",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "LOC_AREP_001",
+    "type": "CITY",
+    "title": "Комиций",
+    "original": "Comitium",
+    "subtitle": "древняя площадка собраний у Форума",
+    "era": "Римская республика",
+    "region": "Римский форум",
+    "date": "архаический и республиканский периоды",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "summary": "Комиций был политически значимым пространством рядом с Форумом, связанным с народными собраниями, речами и ранними институтами.",
+    "importance": "Он помогает увидеть Республику не как абстрактную схему, а как систему конкретных мест.",
+    "facts": [
+      "Комиций находился у северо-западной части Форума.",
+      "Рядом располагалась курия — место заседаний сената.",
+      "Позднее его функции частично перешли к другим пространствам."
+    ],
+    "tags": [
+      "Форум",
+      "собрания",
+      "архитектура"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 4,
+      "legacy": 7,
+      "military": 1,
+      "culture": 7,
+      "politics": 8,
+      "religion": 3,
+      "economy": 3,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Римский форум",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "loc_arep_001.svg",
+      "local": "assets/cards/rome/chapter_02/loc_arep_001.svg",
+      "caption": "Авторская векторная иллюстрация: Комиций",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Комиций — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9A%D0%BE%D0%BC%D0%B8%D1%86%D0%B8%D0%B9",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "LOC_AREP_002",
+    "type": "CITY",
+    "title": "Курия Гостилия",
+    "original": "Curia Hostilia",
+    "subtitle": "традиционное раннее здание сената",
+    "era": "Римская республика",
+    "region": "Римский форум",
+    "date": "царский и республиканский периоды",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "summary": "Курия Гостилия считалась древнейшим постоянным местом заседаний римского сената.",
+    "importance": "Карточка связывает институт сената с физическим центром города.",
+    "facts": [
+      "Название связывали с царём Туллом Гостилием.",
+      "Здание стояло рядом с Комицием.",
+      "Позднее его заменили другие здания курии."
+    ],
+    "tags": [
+      "сенат",
+      "курия",
+      "Форум"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 4,
+      "legacy": 7,
+      "military": 1,
+      "culture": 8,
+      "politics": 9,
+      "religion": 2,
+      "economy": 2,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Римский форум",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "loc_arep_002.svg",
+      "local": "assets/cards/rome/chapter_02/loc_arep_002.svg",
+      "caption": "Авторская векторная иллюстрация: Курия Гостилия",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Курия Гостилия — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9A%D1%83%D1%80%D0%B8%D1%8F%20%D0%93%D0%BE%D1%81%D1%82%D0%B8%D0%BB%D0%B8%D1%8F",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "PER_AREP_002",
+    "type": "PERSON",
+    "title": "Гораций Коклес",
+    "original": "Horatius Cocles",
+    "subtitle": "легендарный защитник Свайного моста",
+    "era": "Ранняя Республика",
+    "region": "Рим",
+    "date": "конец VI века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 4,
+    "summary": "Гораций Коклес — герой предания, который удерживал врагов у моста через Тибр, пока римляне разрушали переправу.",
+    "importance": "Его история создавала образ гражданина, готового в одиночку защищать Республику.",
+    "facts": [
+      "Рассказ связан с войной против этрусского царя Порсены.",
+      "Главная сцена происходит у Свайного моста.",
+      "Версии античных авторов различаются в деталях его спасения."
+    ],
+    "tags": [
+      "герой",
+      "мост",
+      "Порсена"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 5,
+      "legacy": 9,
+      "military": 8,
+      "culture": 9,
+      "politics": 5,
+      "religion": 2,
+      "economy": 1,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Свайный мост",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "per_arep_002.svg",
+      "local": "assets/cards/rome/chapter_02/per_arep_002.svg",
+      "caption": "Авторская векторная иллюстрация: Гораций Коклес",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Гораций Коклес — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%93%D0%BE%D1%80%D0%B0%D1%86%D0%B8%D0%B9%20%D0%9A%D0%BE%D0%BA%D0%BB%D0%B5%D1%81",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "PER_AREP_003",
+    "type": "PERSON",
+    "title": "Гай Муций Сцевола",
+    "original": "Gaius Mucius Scaevola",
+    "subtitle": "герой предания о стойкости перед Порсеной",
+    "era": "Ранняя Республика",
+    "region": "Этрурия и Рим",
+    "date": "конец VI века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 4,
+    "summary": "Муций Сцевола, по преданию, проник в лагерь Порсены, ошибся целью и показал стойкость, положив руку в огонь.",
+    "importance": "Его образ стал римским примером дисциплины и пренебрежения личной болью ради государства.",
+    "facts": [
+      "Прозвище Scaevola связывали с повреждённой правой рукой.",
+      "Эпизод известен в нескольких литературных версиях.",
+      "Рассказ подчёркивает нравственную победу даже при неудаче задания."
+    ],
+    "tags": [
+      "герой",
+      "Порсена",
+      "стойкость"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 5,
+      "legacy": 9,
+      "military": 6,
+      "culture": 10,
+      "politics": 4,
+      "religion": 2,
+      "economy": 1,
+      "connections": 7
+    },
+    "loc": {
+      "label": "лагерь Порсены",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "per_arep_003.svg",
+      "local": "assets/cards/rome/chapter_02/per_arep_003.svg",
+      "caption": "Авторская векторная иллюстрация: Гай Муций Сцевола",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Гай Муций Сцевола — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%93%D0%B0%D0%B9%20%D0%9C%D1%83%D1%86%D0%B8%D0%B9%20%D0%A1%D1%86%D0%B5%D0%B2%D0%BE%D0%BB%D0%B0",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "PER_AREP_004",
+    "type": "PERSON",
+    "title": "Клелия",
+    "original": "Cloelia",
+    "subtitle": "заложница и героиня раннереспубликанской легенды",
+    "era": "Ранняя Республика",
+    "region": "Рим и Этрурия",
+    "date": "конец VI века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 4,
+    "summary": "Клелия — римская заложница, которая, по преданию, возглавила побег девушек через Тибр.",
+    "importance": "Её история расширяла республиканский пантеон доблести за пределы мужских военных героев.",
+    "facts": [
+      "Клелия связана с миром между Римом и Порсеной.",
+      "Порсена, по легенде, восхитился её смелостью.",
+      "Римляне якобы поставили ей конную статую."
+    ],
+    "tags": [
+      "героиня",
+      "заложники",
+      "Тибр"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 5,
+      "legacy": 8,
+      "military": 4,
+      "culture": 10,
+      "politics": 4,
+      "religion": 2,
+      "economy": 1,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Тибр",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "per_arep_004.svg",
+      "local": "assets/cards/rome/chapter_02/per_arep_004.svg",
+      "caption": "Авторская векторная иллюстрация: Клелия",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Клелия — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9A%D0%BB%D0%B5%D0%BB%D0%B8%D1%8F",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "PER_AREP_005",
+    "type": "PERSON",
+    "title": "Ларс Порсена",
+    "original": "Lars Porsena",
+    "subtitle": "этрусский правитель в легендах ранней Республики",
+    "era": "Ранняя Республика",
+    "region": "Клузий и Рим",
+    "date": "конец VI века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 5,
+    "summary": "Ларс Порсена — этрусский царь Клузия, которого римская традиция связывала с попыткой вернуть Тарквиниев.",
+    "importance": "Рассказы о нём соединяют римскую героику с реальной силой этрусских городов.",
+    "facts": [
+      "Античные версии исхода войны противоречат друг другу.",
+      "С Порсеной связаны легенды о Коклесе, Муции и Клелии.",
+      "Некоторые исследователи допускают, что Рим мог оказаться в зависимом положении."
+    ],
+    "tags": [
+      "этруски",
+      "Клузий",
+      "война"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 8,
+      "culture": 7,
+      "politics": 8,
+      "religion": 4,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Клузий",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "per_arep_005.svg",
+      "local": "assets/cards/rome/chapter_02/per_arep_005.svg",
+      "caption": "Авторская векторная иллюстрация: Ларс Порсена",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Ларс Порсена — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9B%D0%B0%D1%80%D1%81%20%D0%9F%D0%BE%D1%80%D1%81%D0%B5%D0%BD%D0%B0",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "LOC_AREP_003",
+    "type": "CITY",
+    "title": "Свайный мост",
+    "original": "Pons Sublicius",
+    "subtitle": "древняя переправа через Тибр",
+    "era": "Ранняя Республика",
+    "region": "Рим",
+    "date": "архаический период",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "summary": "Свайный мост считался древнейшим мостом Рима и строился из дерева без металлических креплений.",
+    "importance": "Он был одновременно транспортным объектом, религиозным памятником и сценой легенды о Горации Коклесе.",
+    "facts": [
+      "Латинское название Pons Sublicius связано с деревянными сваями.",
+      "Мост находился ниже острова Тиберина.",
+      "Его ремонт и ритуальная чистота имели религиозное значение."
+    ],
+    "tags": [
+      "мост",
+      "Тибр",
+      "Коклес"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 3,
+      "religion": 7,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Тибр",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "loc_arep_003.svg",
+      "local": "assets/cards/rome/chapter_02/loc_arep_003.svg",
+      "caption": "Авторская векторная иллюстрация: Свайный мост",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Свайный мост — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%A1%D0%B2%D0%B0%D0%B9%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D1%81%D1%82",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "BAT_AREP_001",
+    "type": "BATTLE",
+    "title": "Битва у Регилльского озера",
+    "original": "Battle of Lake Regillus",
+    "subtitle": "легендарная победа над Латинским союзом",
+    "era": "Ранняя Республика",
+    "region": "Лаций",
+    "date": "традиционно начало V века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Битва у Регилльского озера в традиции завершила крупную попытку Тарквиниев вернуться с помощью латинских союзников.",
+    "importance": "Она закрепляла образ Республики, пережившей внешнее давление и внутреннюю смену режима.",
+    "facts": [
+      "Точная дата и историчность деталей спорны.",
+      "Традиция связывала победу с явлением Диоскуров.",
+      "После войны отношения с латинскими городами были оформлены договором."
+    ],
+    "tags": [
+      "Латинский союз",
+      "Тарквинии",
+      "битва"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 8,
+      "culture": 5,
+      "politics": 7,
+      "religion": 6,
+      "economy": 2,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Регилльское озеро",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "bat_arep_001.svg",
+      "local": "assets/cards/rome/chapter_02/bat_arep_001.svg",
+      "caption": "Авторская векторная иллюстрация: Битва у Регилльского озера",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Битва у Регилльского озера — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%91%D0%B8%D1%82%D0%B2%D0%B0%20%D1%83%20%D0%A0%D0%B5%D0%B3%D0%B8%D0%BB%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B7%D0%B5%D1%80%D0%B0",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "ORG_AREP_001",
+    "type": "OFFICE",
+    "title": "Ликторы",
+    "original": "Lictors",
+    "subtitle": "служители и символ власти магистратов",
+    "era": "Римская республика",
+    "region": "Рим",
+    "date": "республиканский период",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "summary": "Ликторы сопровождали высших магистратов, расчищали путь и несли фасции как знак полномочий.",
+    "importance": "Через их число и символы римляне буквально видели присутствие государственной власти.",
+    "facts": [
+      "Консулов обычно сопровождали двенадцать ликторов.",
+      "Внутри померия топоры из фасций традиционно убирались.",
+      "Ликторы исполняли распоряжения магистрата и церемониальные функции."
+    ],
+    "tags": [
+      "ликторы",
+      "фасции",
+      "магистраты"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 7,
+      "military": 3,
+      "culture": 7,
+      "politics": 8,
+      "religion": 4,
+      "economy": 2,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Рим",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "org_arep_001.svg",
+      "local": "assets/cards/rome/chapter_02/org_arep_001.svg",
+      "caption": "Авторская векторная иллюстрация: Ликторы",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Ликторы — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9B%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D1%8B",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "ORG_AREP_002",
+    "type": "FACTION",
+    "title": "Куриатные комиции",
+    "original": "Curiate Assembly",
+    "subtitle": "древнейшая форма народного собрания",
+    "era": "Римское государство",
+    "region": "Рим",
+    "date": "царский и республиканский периоды",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Куриатные комиции были архаическим собранием граждан по куриям, чьи функции со временем стали в основном формальными и религиозными.",
+    "importance": "Карточка показывает, как старые институты продолжали существовать внутри новой Республики.",
+    "facts": [
+      "Собрание включало тридцать курий.",
+      "Оно участвовало в подтверждении полномочий и отдельных семейно-правовых актах.",
+      "В поздней Республике курии представляли ликторы."
+    ],
+    "tags": [
+      "комиции",
+      "курии",
+      "собрание"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 1,
+      "culture": 5,
+      "politics": 8,
+      "religion": 7,
+      "economy": 2,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Комиций",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "org_arep_002.svg",
+      "local": "assets/cards/rome/chapter_02/org_arep_002.svg",
+      "caption": "Авторская векторная иллюстрация: Куриатные комиции",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Куриатные комиции — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9A%D1%83%D1%80%D0%B8%D0%B0%D1%82%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B8%D1%86%D0%B8%D0%B8",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "ORG_AREP_003",
+    "type": "FACTION",
+    "title": "Центуриатные комиции",
+    "original": "Centuriate Assembly",
+    "subtitle": "собрание граждан по имущественным и военным разрядам",
+    "era": "Римская республика",
+    "region": "Марсово поле",
+    "date": "республиканский период",
+    "rarity": "RARE",
+    "difficulty": 6,
+    "summary": "Центуриатные комиции голосовали по центуриям, избирали высших магистратов и решали важные вопросы войны и суда.",
+    "importance": "Их устройство давало более состоятельным группам значительное преимущество в порядке голосования.",
+    "facts": [
+      "Собрание связывало военную организацию граждан с политикой.",
+      "Оно избирало консулов, преторов и цензоров.",
+      "Заседания проходили за пределами священной городской границы."
+    ],
+    "tags": [
+      "комиции",
+      "центурии",
+      "выборы"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 5,
+      "culture": 5,
+      "politics": 10,
+      "religion": 4,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Марсово поле",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "org_arep_003.svg",
+      "local": "assets/cards/rome/chapter_02/org_arep_003.svg",
+      "caption": "Авторская векторная иллюстрация: Центуриатные комиции",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Центуриатные комиции — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%A6%D0%B5%D0%BD%D1%82%D1%83%D1%80%D0%B8%D0%B0%D1%82%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B8%D1%86%D0%B8%D0%B8",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "ORG_AREP_004",
+    "type": "OFFICE",
+    "title": "Квесторы",
+    "original": "Quaestors",
+    "subtitle": "младшие магистраты финансов и расследований",
+    "era": "Римская республика",
+    "region": "Рим",
+    "date": "ранняя Республика и позднее",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Квесторы были младшими магистратами, чьи обязанности постепенно сосредоточились на казне, финансах и сопровождении командиров.",
+    "importance": "Должность показывает, как Республика дробила управление между временными коллегиальными постами.",
+    "facts": [
+      "Число и функции квесторов менялись со временем.",
+      "Квестура стала обычной первой ступенью политической карьеры.",
+      "Ранние сведения о должности частично легендарны."
+    ],
+    "tags": [
+      "квесторы",
+      "магистратуры",
+      "казна"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 5,
+      "legacy": 7,
+      "military": 2,
+      "culture": 3,
+      "politics": 7,
+      "religion": 2,
+      "economy": 8,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Рим",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "org_arep_004.svg",
+      "local": "assets/cards/rome/chapter_02/org_arep_004.svg",
+      "caption": "Авторская векторная иллюстрация: Квесторы",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Квесторы — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9A%D0%B2%D0%B5%D1%81%D1%82%D0%BE%D1%80%D1%8B",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "ART_AREP_001",
+    "type": "ARTIFACT",
+    "title": "Курульное кресло",
+    "original": "Curule chair",
+    "subtitle": "знак высшей магистратской власти",
+    "era": "Римская республика",
+    "region": "Рим",
+    "date": "республиканский период",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "summary": "Складное курульное кресло служило символом должностного достоинства магистратов, обладавших курульной властью.",
+    "importance": "Небольшой предмет помогает читать римскую политику через видимые знаки статуса.",
+    "facts": [
+      "Форма кресла имела складные перекрещенные ножки.",
+      "Им пользовались консулы, преторы и курульные эдилы.",
+      "Образ курульного кресла появлялся на монетах и памятниках."
+    ],
+    "tags": [
+      "символ",
+      "магистрат",
+      "власть"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 3,
+      "legacy": 8,
+      "military": 1,
+      "culture": 8,
+      "politics": 7,
+      "religion": 2,
+      "economy": 2,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Рим",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "art_arep_001.svg",
+      "local": "assets/cards/rome/chapter_02/art_arep_001.svg",
+      "caption": "Авторская векторная иллюстрация: Курульное кресло",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Курульное кресло — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9A%D1%83%D1%80%D1%83%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BA%D1%80%D0%B5%D1%81%D0%BB%D0%BE",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "TERM_AREP_001",
+    "type": "TERM",
+    "title": "Помeрий",
+    "original": "Pomerium",
+    "subtitle": "священная граница города",
+    "era": "Римское государство",
+    "region": "Рим",
+    "date": "архаический и республиканский периоды",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Помeрий был ритуально установленной границей, отделявшей собственно город от внешней территории.",
+    "importance": "Граница определяла, где действовали разные формы власти и какие военные символы были допустимы.",
+    "facts": [
+      "Помeрий не совпадал полностью с городской стеной.",
+      "Военная власть магистратов внутри границы была ограничена.",
+      "Расширение померия имело политическое и религиозное значение."
+    ],
+    "tags": [
+      "граница",
+      "религия",
+      "город"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 3,
+      "culture": 7,
+      "politics": 8,
+      "religion": 9,
+      "economy": 3,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "term_arep_001.svg",
+      "local": "assets/cards/rome/chapter_02/term_arep_001.svg",
+      "caption": "Авторская векторная иллюстрация: Помeрий",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Помeрий — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9F%D0%BE%D0%BCe%D1%80%D0%B8%D0%B9",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "LOC_AREP_004",
+    "type": "CITY",
+    "title": "Авентинский холм",
+    "original": "Aventine Hill",
+    "subtitle": "район, связанный с плебейской памятью",
+    "era": "Римская республика",
+    "region": "Рим",
+    "date": "античность",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "summary": "Авентин — один из холмов Рима, который поздняя традиция тесно связывала с плебеями, их культами и политической организацией.",
+    "importance": "Он даёт пространственный образ социальному конфликту ранней Республики.",
+    "facts": [
+      "На Авентине находились важные плебейские культы.",
+      "Некоторые версии помещают сюда первую сецессию.",
+      "Холм долго сохранял особую социальную символику."
+    ],
+    "tags": [
+      "Авентин",
+      "плебеи",
+      "Рим"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 4,
+      "legacy": 8,
+      "military": 1,
+      "culture": 8,
+      "politics": 7,
+      "religion": 7,
+      "economy": 4,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Авентин",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "loc_arep_004.svg",
+      "local": "assets/cards/rome/chapter_02/loc_arep_004.svg",
+      "caption": "Авторская векторная иллюстрация: Авентинский холм",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Авентинский холм — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%90%D0%B2%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%85%D0%BE%D0%BB%D0%BC",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "LOC_AREP_005",
+    "type": "CITY",
+    "title": "Священная гора",
+    "original": "Mons Sacer",
+    "subtitle": "традиционное место первой сецессии",
+    "era": "Ранняя Республика",
+    "region": "окрестности Рима",
+    "date": "традиционно 494 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Священная гора в римской традиции — место, куда плебеи удалились во время первой сецессии.",
+    "importance": "Локация превращает политическую забастовку в запоминающийся географический сюжет.",
+    "facts": [
+      "Точное местоположение и детали события обсуждаются.",
+      "Уход граждан создавал угрозу военной и хозяйственной жизни города.",
+      "Возвращение связывали с учреждением плебейских должностей."
+    ],
+    "tags": [
+      "сецессия",
+      "плебеи",
+      "география"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 5,
+      "legacy": 8,
+      "military": 2,
+      "culture": 8,
+      "politics": 9,
+      "religion": 6,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Священная гора",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "loc_arep_005.svg",
+      "local": "assets/cards/rome/chapter_02/loc_arep_005.svg",
+      "caption": "Авторская векторная иллюстрация: Священная гора",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Священная гора — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%A1%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%B3%D0%BE%D1%80%D0%B0",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "ORG_AREP_005",
+    "type": "FACTION",
+    "title": "Плебейский совет",
+    "original": "Concilium Plebis",
+    "subtitle": "собрание плебеев без патрициев",
+    "era": "Римская республика",
+    "region": "Рим",
+    "date": "республиканский период",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Плебейский совет был отдельным собранием плебеев, которое избирало трибунов и принимало плебисциты.",
+    "importance": "Он создал устойчивую институциональную основу коллективного действия плебеев.",
+    "facts": [
+      "Советом председательствовали народные трибуны.",
+      "Плебисциты первоначально связывали прежде всего плебейскую общину.",
+      "Позже их решения получили общеобязательную силу."
+    ],
+    "tags": [
+      "плебеи",
+      "собрание",
+      "плебисцит"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 1,
+      "culture": 5,
+      "politics": 10,
+      "religion": 3,
+      "economy": 3,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рим",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "org_arep_005.svg",
+      "local": "assets/cards/rome/chapter_02/org_arep_005.svg",
+      "caption": "Авторская векторная иллюстрация: Плебейский совет",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Плебейский совет — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9F%D0%BB%D0%B5%D0%B1%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "ORG_AREP_006",
+    "type": "OFFICE",
+    "title": "Плебейские эдилы",
+    "original": "Plebeian aediles",
+    "subtitle": "помощники трибунов и хранители плебейского архива",
+    "era": "Римская республика",
+    "region": "Рим",
+    "date": "с начала V века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Плебейские эдилы возникли рядом с трибунами и выполняли организационные, архивные и позднее городские обязанности.",
+    "importance": "Должность показывает, как протестное движение создавало постоянную администрацию.",
+    "facts": [
+      "Первоначально эдилы связывались с плебейским храмом Цереры.",
+      "Они помогали трибунам и хранили решения плебейской общины.",
+      "Позднее эдилы занимались городским хозяйством и играми."
+    ],
+    "tags": [
+      "эдилы",
+      "трибуны",
+      "плебеи"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 5,
+      "legacy": 7,
+      "military": 1,
+      "culture": 5,
+      "politics": 7,
+      "religion": 4,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Авентин",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "org_arep_006.svg",
+      "local": "assets/cards/rome/chapter_02/org_arep_006.svg",
+      "caption": "Авторская векторная иллюстрация: Плебейские эдилы",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Плебейские эдилы — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9F%D0%BB%D0%B5%D0%B1%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B5%20%D1%8D%D0%B4%D0%B8%D0%BB%D1%8B",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "LAW_AREP_001",
+    "type": "LAW",
+    "title": "Священный закон плебеев",
+    "original": "Lex Sacrata",
+    "subtitle": "клятвенная защита народных трибунов",
+    "era": "Ранняя Республика",
+    "region": "Рим",
+    "date": "традиционно 494 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 6,
+    "summary": "Lex Sacrata в традиции закрепляла неприкосновенность плебейских трибунов через коллективную религиозную клятву.",
+    "importance": "Она показывает, что политическая защита могла строиться не только на государственном законе, но и на священном обязательстве общины.",
+    "facts": [
+      "Нарушитель неприкосновенности трибуна объявлялся проклятым.",
+      "Закон связывали с результатами первой сецессии.",
+      "Реконструкция его ранней формы зависит от поздних источников."
+    ],
+    "tags": [
+      "закон",
+      "трибуны",
+      "клятва"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 1,
+      "culture": 6,
+      "politics": 10,
+      "religion": 9,
+      "economy": 2,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "law_arep_001.svg",
+      "local": "assets/cards/rome/chapter_02/law_arep_001.svg",
+      "caption": "Авторская векторная иллюстрация: Священный закон плебеев",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Священный закон плебеев — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%A1%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%BF%D0%BB%D0%B5%D0%B1%D0%B5%D0%B5%D0%B2",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "TERM_AREP_002",
+    "type": "TERM",
+    "title": "Нексум",
+    "original": "Nexum",
+    "subtitle": "архаическая долговая зависимость",
+    "era": "Ранняя Республика",
+    "region": "Рим и Лаций",
+    "date": "архаический период",
+    "rarity": "RARE",
+    "difficulty": 6,
+    "summary": "Нексум обычно понимают как формальную долговую сделку, которую поздняя традиция связывала с тяжёлой личной зависимостью должника.",
+    "importance": "Долговой кризис — одна из главных тем рассказов о раннем конфликте патрициев и плебеев.",
+    "facts": [
+      "Точная юридическая форма нексума остаётся спорной.",
+      "Источники описывают угрозу личной зависимости за долги.",
+      "Отмена или ограничение практики связывается с более поздними республиканскими реформами."
+    ],
+    "tags": [
+      "долги",
+      "право",
+      "плебеи"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 5,
+      "politics": 8,
+      "religion": 2,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "term_arep_002.svg",
+      "local": "assets/cards/rome/chapter_02/term_arep_002.svg",
+      "caption": "Авторская векторная иллюстрация: Нексум",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Нексум — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9D%D0%B5%D0%BA%D1%81%D1%83%D0%BC",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "PER_AREP_006",
+    "type": "PERSON",
+    "title": "Луций Квинкций Цинциннат",
+    "original": "Lucius Quinctius Cincinnatus",
+    "subtitle": "диктатор и идеал ограниченной власти",
+    "era": "Ранняя Республика",
+    "region": "Рим и Лаций",
+    "date": "V век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 5,
+    "summary": "Цинциннат в римской традиции покинул своё поле, принял чрезвычайную власть, спас войско и быстро сложил полномочия.",
+    "importance": "Его образ стал главным примером того, что чрезвычайная власть должна быть временной и служебной.",
+    "facts": [
+      "Самый известный эпизод связывают с войной против эквов.",
+      "Диктатура в Риме была ограниченной по сроку магистратурой.",
+      "Позднейшая культура превратила Цинцинната в универсальный политический символ."
+    ],
+    "tags": [
+      "диктатор",
+      "добродетель",
+      "эквы"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 10,
+      "military": 8,
+      "culture": 9,
+      "politics": 9,
+      "religion": 3,
+      "economy": 2,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Лаций",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "per_arep_006.svg",
+      "local": "assets/cards/rome/chapter_02/per_arep_006.svg",
+      "caption": "Авторская векторная иллюстрация: Луций Квинкций Цинциннат",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Луций Квинкций Цинциннат — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9B%D1%83%D1%86%D0%B8%D0%B9%20%D0%9A%D0%B2%D0%B8%D0%BD%D0%BA%D1%86%D0%B8%D0%B9%20%D0%A6%D0%B8%D0%BD%D1%86%D0%B8%D0%BD%D0%BD%D0%B0%D1%82",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "PER_AREP_007",
+    "type": "PERSON",
+    "title": "Тит Ларций",
+    "original": "Titus Larcius",
+    "subtitle": "первый диктатор по одной из традиций",
+    "era": "Ранняя Республика",
+    "region": "Рим",
+    "date": "конец VI — начало V века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Тит Ларций — консул, которого часть античной традиции называла первым римским диктатором.",
+    "importance": "Карточка раскрывает раннюю идею чрезвычайной, но временной магистратуры.",
+    "facts": [
+      "Античные авторы расходятся в датах и обстоятельствах первой диктатуры.",
+      "Диктатор назначался для конкретного кризиса.",
+      "Его власть была сильнее консульской, но ограничивалась сроком и задачей."
+    ],
+    "tags": [
+      "диктатура",
+      "магистратура",
+      "кризис"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 6,
+      "culture": 3,
+      "politics": 8,
+      "religion": 2,
+      "economy": 2,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Рим",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "per_arep_007.svg",
+      "local": "assets/cards/rome/chapter_02/per_arep_007.svg",
+      "caption": "Авторская векторная иллюстрация: Тит Ларций",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Тит Ларций — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%A2%D0%B8%D1%82%20%D0%9B%D0%B0%D1%80%D1%86%D0%B8%D0%B9",
+      "type": "wikipedia"
+    }
   }
 ]

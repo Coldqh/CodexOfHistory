@@ -43,6 +43,38 @@
     "RUBICON": [
       44.17,
       12.44
+    ],
+    "AVENTINE": [
+      41.8837,
+      12.4809
+    ],
+    "SACRED_MOUNT": [
+      42.023,
+      12.626
+    ],
+    "COMITIUM": [
+      41.8928,
+      12.4844
+    ],
+    "CURIA": [
+      41.8931,
+      12.4851
+    ],
+    "PONS_SUBLICIUS": [
+      41.8876,
+      12.4776
+    ],
+    "REGILLUS": [
+      41.76,
+      12.72
+    ],
+    "CLOUSIUM": [
+      43.016,
+      11.95
+    ],
+    "MARS_FIELD": [
+      41.901,
+      12.474
     ]
   },
   "regions": {
@@ -215,7 +247,51 @@
     "PER_ARC_005": "ROME",
     "PER_ARC_006": "ROME",
     "ORG_ARC_001": "FORUM",
-    "ART_ARC_003": "FORUM"
+    "ART_ARC_003": "FORUM",
+    "PER_REP_001": "ROME",
+    "PER_REP_002": "ROME",
+    "EVT_REP_001": "FORUM",
+    "PER_REP_003": "ROME",
+    "BAT_REP_001": [
+      42.12,
+      12.3
+    ],
+    "CUL_REP_001": "ROME",
+    "CUL_REP_002": "AVENTINE",
+    "EVT_REP_002": "SACRED_MOUNT",
+    "ORG_REP_001": "FORUM",
+    "EVT_REP_003": "ROME",
+    "LAW_REP_001": "FORUM",
+    "ORG_REP_002": "FORUM",
+    "PER_REP_004": "FORUM",
+    "PER_REP_005": "FORUM",
+    "EVT_REP_004": "ROME",
+    "PER_AREP_001": "ROME",
+    "LOC_AREP_001": "COMITIUM",
+    "LOC_AREP_002": "CURIA",
+    "PER_AREP_002": "PONS_SUBLICIUS",
+    "PER_AREP_003": "CLOUSIUM",
+    "PER_AREP_004": "ROME",
+    "PER_AREP_005": "CLOUSIUM",
+    "LOC_AREP_003": "PONS_SUBLICIUS",
+    "BAT_AREP_001": "REGILLUS",
+    "ORG_AREP_001": "ROME",
+    "ORG_AREP_002": "COMITIUM",
+    "ORG_AREP_003": "MARS_FIELD",
+    "ORG_AREP_004": "ROME",
+    "ART_AREP_001": "ROME",
+    "TERM_AREP_001": "ROME",
+    "LOC_AREP_004": "AVENTINE",
+    "LOC_AREP_005": "SACRED_MOUNT",
+    "ORG_AREP_005": "AVENTINE",
+    "ORG_AREP_006": "AVENTINE",
+    "LAW_AREP_001": "ROME",
+    "TERM_AREP_002": "ROME",
+    "PER_AREP_006": [
+      41.82,
+      12.75
+    ],
+    "PER_AREP_007": "ROME"
   },
   "chapters": {
     "ROME_CHAPTER_01": {
@@ -233,6 +309,28 @@
         "MIS_BIRTH_05",
         "MIS_BIRTH_06",
         "MIS_BIRTH_07"
+      ]
+    },
+    "ROME_CHAPTER_02": {
+      "title": "Рождение Республики",
+      "center": [
+        41.9028,
+        12.4964
+      ],
+      "zoom": 10,
+      "missionIds": [
+        "MIS_REPUBLIC_01",
+        "MIS_REPUBLIC_02",
+        "MIS_REPUBLIC_03",
+        "MIS_REPUBLIC_04",
+        "MIS_REPUBLIC_05",
+        "MIS_REPUBLIC_06",
+        "MIS_REPUBLIC_07",
+        "MIS_REPUBLIC_08",
+        "MIS_REPUBLIC_09",
+        "MIS_REPUBLIC_10",
+        "MIS_REPUBLIC_11",
+        "MIS_REPUBLIC_12"
       ]
     }
   }

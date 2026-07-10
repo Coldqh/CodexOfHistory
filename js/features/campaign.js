@@ -11,7 +11,7 @@ function completeMission(id){
   const next=CAMPAIGN.nodes[missionIndex(id)+1]; if(next) state.currentMission=next.id;
   save(); confetti(); showToast('Миссия выполнена',`${m.title} · +${m.xp||80} XP`,'✓');
 }
-function openMission(id){ if(!missionOpen(id)) return; state.currentMission=id; state.tab='mission'; state.selected=null; save(); render(); window.scrollTo({top:0,behavior:'smooth'}); }
+function openMission(id){ if(!missionOpen(id)) return; const target=mission(id); state.currentMission=id; if(target?.chapterId)state.mapChapter=target.chapterId; state.tab='mission'; state.selected=null; save(); render(); window.scrollTo({top:0,behavior:'smooth'}); }
 function missionTypeLabel(t){ return ({READ:'Изучение',QUIZ:'Испытание',MAP:'Карта',TIMELINE:'Хронология',FINAL:'Финал'})[t]||t; }
 function missionReady(m){
   if(m.type==='READ') return m.cards.every(id=>state.read.includes(id));
@@ -21,30 +21,18 @@ function missionReady(m){
   return false;
 }
 function finishReadMission(id){ const m=mission(id); if(m && missionReady(m)) completeMission(id); }
+function missionMapTargets(id){return mission(id)?.mapTargets||[{key:'rome',label:'Рим',point:'ROME',zoom:7,radius:18000},{key:'palatine',label:'Палатин',point:'PALATINE',zoom:15,radius:190}];}
 function answerMapTask(id,key){
-  const expected=['latium','palatine']; const cur=state.mapTasks[id]||{step:0,mistakes:0,passed:false};
-  if(cur.passed) return;
-  if(key===expected[cur.step]){
-    cur.step++;
-    state.mapTasks[id]=cur; save();
-    showToast('Верно',cur.step===1?'Лаций найден. Теперь приблизь карту и найди Палатин.':'Палатин найден — география миссии пройдена.','⌖');
-    if(cur.step>=expected.length){ cur.passed=true; state.mapTasks[id]=cur; save(); completeMission(id); render(); }
-    else render();
-  } else {
-    cur.mistakes++; state.mapTasks[id]=cur; save(); updateMapMissionStatus(id);
-    showToast('Не туда','Перемещай карту, меняй масштаб и ориентируйся по подписям.','↻');
-  }
+  const targets=missionMapTargets(id);const cur=state.mapTasks[id]||{step:0,mistakes:0,passed:false};
+  if(cur.passed)return;const expected=targets[cur.step]?.key;
+  if(key===expected){cur.step++;state.mapTasks[id]=cur;save();const next=targets[cur.step];showToast('Верно',next?`Теперь найди: ${next.label}`:'География миссии пройдена.','⌖');if(cur.step>=targets.length){cur.passed=true;state.mapTasks[id]=cur;save();completeMission(id);render();}else render();}
+  else{cur.mistakes++;state.mapTasks[id]=cur;save();updateMapMissionStatus?.(id);showToast('Не туда',`Нужная цель: ${targets[cur.step]?.label||'точка задания'}.`,'↻');}
 }
-const TIMELINE_ORDER=['foundation','numa','tarquin','superbus','expulsion'];
-const TIMELINE_LABELS={foundation:'753 до н. э. · традиционное основание',numa:'Нума и священный порядок',tarquin:'Этрусские цари и городской рост',superbus:'Тарквиний Гордый',expulsion:'509 до н. э. · изгнание царей'};
+function timelineConfig(id){const m=mission(id);return m?.timeline||{order:['foundation','numa','tarquin','superbus','expulsion'],labels:{foundation:'753 до н. э. · традиционное основание',numa:'Нума и священный порядок',tarquin:'Этрусские цари и городской рост',superbus:'Тарквиний Гордый',expulsion:'509 до н. э. · изгнание царей'},shuffle:['superbus','foundation','expulsion','numa','tarquin']};}
 function chooseTimeline(id,key){
-  const cur=state.timelineTasks[id]||{selected:[],attempts:0,passed:false}; if(cur.passed||cur.selected.includes(key)) return;
-  cur.selected.push(key); state.timelineTasks[id]=cur;
-  if(cur.selected.length===TIMELINE_ORDER.length){
-    const ok=cur.selected.every((x,i)=>x===TIMELINE_ORDER[i]); cur.attempts++;
-    if(ok){cur.passed=true;state.timelineTasks[id]=cur;completeMission(id);return;}
-    showToast('Порядок неверный','Цепочка сброшена. Начни от основания города.','↻'); cur.selected=[];
-  }
+  const cfg=timelineConfig(id);const cur=state.timelineTasks[id]||{selected:[],attempts:0,passed:false};if(cur.passed||cur.selected.includes(key))return;
+  cur.selected.push(key);state.timelineTasks[id]=cur;
+  if(cur.selected.length===cfg.order.length){const ok=cur.selected.every((x,i)=>x===cfg.order[i]);cur.attempts++;if(ok){cur.passed=true;state.timelineTasks[id]=cur;completeMission(id);return;}showToast('Порядок неверный','Цепочка сброшена. Попробуй ещё раз.','↻');cur.selected=[];}
   state.timelineTasks[id]=cur;save();render();
 }
-function undoTimeline(id){ const cur=state.timelineTasks[id]||{selected:[]};cur.selected.pop();state.timelineTasks[id]=cur;save();render(); }
+function undoTimeline(id){const cur=state.timelineTasks[id]||{selected:[]};cur.selected.pop();state.timelineTasks[id]=cur;save();render();}

@@ -56,18 +56,6 @@
       ]
     },
     {
-      "id": "ROME_REPUBLIC_BIRTH",
-      "campaign": "ROME",
-      "title": "Рождение Республики",
-      "unlockMission": "MIS_BIRTH_07",
-      "cardIds": [
-        "PER_ARC_005",
-        "PER_ARC_006",
-        "ORG_ARC_001",
-        "ART_ARC_003"
-      ]
-    },
-    {
       "id": "ROME_PUNIC",
       "campaign": "ROME",
       "title": "Пунические войны",
@@ -97,6 +85,70 @@
       "unlockMission": "ROME_CHAPTER_07",
       "cardIds": [
         "PER_ROM_004"
+      ]
+    },
+    {
+      "id": "ROME_REPUBLIC_BIRTH",
+      "campaign": "ROME",
+      "title": "Преддверие Республики",
+      "unlockMission": "MIS_BIRTH_07",
+      "cardIds": [
+        "ART_ARC_003",
+        "PER_AREP_001",
+        "LOC_AREP_001",
+        "LOC_AREP_002"
+      ]
+    },
+    {
+      "id": "ROME_REPUBLIC_DEFENDERS",
+      "campaign": "ROME",
+      "title": "Защитники молодой Республики",
+      "unlockMission": "MIS_REPUBLIC_03",
+      "cardIds": [
+        "PER_AREP_002",
+        "PER_AREP_003",
+        "PER_AREP_004",
+        "PER_AREP_005",
+        "LOC_AREP_003",
+        "BAT_AREP_001"
+      ]
+    },
+    {
+      "id": "ROME_REPUBLIC_INSTITUTIONS",
+      "campaign": "ROME",
+      "title": "Механика республиканской власти",
+      "unlockMission": "MIS_REPUBLIC_04",
+      "cardIds": [
+        "ORG_AREP_001",
+        "ORG_AREP_002",
+        "ORG_AREP_003",
+        "ORG_AREP_004",
+        "ART_AREP_001",
+        "TERM_AREP_001"
+      ]
+    },
+    {
+      "id": "ROME_PLEBEIAN_MOVEMENT",
+      "campaign": "ROME",
+      "title": "Плебейское движение",
+      "unlockMission": "MIS_REPUBLIC_06",
+      "cardIds": [
+        "LOC_AREP_004",
+        "LOC_AREP_005",
+        "ORG_AREP_005",
+        "ORG_AREP_006",
+        "LAW_AREP_001",
+        "TERM_AREP_002"
+      ]
+    },
+    {
+      "id": "ROME_REPUBLIC_IDEALS",
+      "campaign": "ROME",
+      "title": "Республиканские идеалы",
+      "unlockMission": "MIS_REPUBLIC_12",
+      "cardIds": [
+        "PER_AREP_006",
+        "PER_AREP_007"
       ]
     }
   ],
@@ -252,19 +304,19 @@
       "pool": "ROME_KINGS"
     },
     "PER_ARC_005": {
-      "kind": "ARCHIVE",
+      "kind": "STORY",
       "campaign": "ROME",
-      "pool": "ROME_REPUBLIC_BIRTH"
+      "chapter": "ROME_CHAPTER_02"
     },
     "PER_ARC_006": {
-      "kind": "ARCHIVE",
+      "kind": "STORY",
       "campaign": "ROME",
-      "pool": "ROME_REPUBLIC_BIRTH"
+      "chapter": "ROME_CHAPTER_02"
     },
     "ORG_ARC_001": {
-      "kind": "ARCHIVE",
+      "kind": "STORY",
       "campaign": "ROME",
-      "pool": "ROME_REPUBLIC_BIRTH"
+      "chapter": "ROME_CHAPTER_02"
     },
     "ART_ARC_003": {
       "kind": "ARCHIVE",
@@ -310,6 +362,196 @@
       "kind": "ARCHIVE",
       "campaign": "ROME",
       "pool": "ROME_PRINCIPATE"
+    },
+    "PER_REP_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_02"
+    },
+    "PER_REP_002": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_02"
+    },
+    "EVT_REP_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_02"
+    },
+    "PER_REP_003": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_02"
+    },
+    "BAT_REP_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_02"
+    },
+    "CUL_REP_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_02"
+    },
+    "CUL_REP_002": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_02"
+    },
+    "EVT_REP_002": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_02"
+    },
+    "ORG_REP_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_02"
+    },
+    "EVT_REP_003": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_02"
+    },
+    "LAW_REP_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_02"
+    },
+    "ORG_REP_002": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_02"
+    },
+    "PER_REP_004": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_02"
+    },
+    "PER_REP_005": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_02"
+    },
+    "EVT_REP_004": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_02"
+    },
+    "PER_AREP_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_BIRTH"
+    },
+    "LOC_AREP_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_BIRTH"
+    },
+    "LOC_AREP_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_BIRTH"
+    },
+    "PER_AREP_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_DEFENDERS"
+    },
+    "PER_AREP_003": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_DEFENDERS"
+    },
+    "PER_AREP_004": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_DEFENDERS"
+    },
+    "PER_AREP_005": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_DEFENDERS"
+    },
+    "LOC_AREP_003": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_DEFENDERS"
+    },
+    "BAT_AREP_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_DEFENDERS"
+    },
+    "ORG_AREP_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_INSTITUTIONS"
+    },
+    "ORG_AREP_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_INSTITUTIONS"
+    },
+    "ORG_AREP_003": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_INSTITUTIONS"
+    },
+    "ORG_AREP_004": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_INSTITUTIONS"
+    },
+    "ART_AREP_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_INSTITUTIONS"
+    },
+    "TERM_AREP_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_INSTITUTIONS"
+    },
+    "LOC_AREP_004": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PLEBEIAN_MOVEMENT"
+    },
+    "LOC_AREP_005": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PLEBEIAN_MOVEMENT"
+    },
+    "ORG_AREP_005": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PLEBEIAN_MOVEMENT"
+    },
+    "ORG_AREP_006": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PLEBEIAN_MOVEMENT"
+    },
+    "LAW_AREP_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PLEBEIAN_MOVEMENT"
+    },
+    "TERM_AREP_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PLEBEIAN_MOVEMENT"
+    },
+    "PER_AREP_006": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_IDEALS"
+    },
+    "PER_AREP_007": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_IDEALS"
     }
   }
 }

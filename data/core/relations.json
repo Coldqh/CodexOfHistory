@@ -334,5 +334,264 @@
     "type": "SYMBOL_OF",
     "description": "Фасции обозначали власть магистратов.",
     "strength": 7
+  },
+  {
+    "id": "REL_043",
+    "source": "PER_REP_001",
+    "target": "PER_ARC_005",
+    "type": "CONFLICT_WITH",
+    "description": "Преступление Секста над Лукрецией стало центром предания о падении Тарквиниев."
+  },
+  {
+    "id": "REL_044",
+    "source": "PER_ARC_005",
+    "target": "EVT_REP_001",
+    "type": "CAUSE",
+    "description": "Смерть Лукреции ведёт к клятве и восстанию в римской традиции."
+  },
+  {
+    "id": "REL_045",
+    "source": "PER_ARC_006",
+    "target": "EVT_REP_001",
+    "type": "FOUNDED_BY",
+    "description": "Брут произносит клятву против царской власти."
+  },
+  {
+    "id": "REL_046",
+    "source": "EVT_REP_001",
+    "target": "EVT_ROM_002",
+    "type": "CAUSE",
+    "description": "Клятва становится символическим началом изгнания царей."
+  },
+  {
+    "id": "REL_047",
+    "source": "PER_REP_002",
+    "target": "ORG_ARC_001",
+    "type": "RULED_BY",
+    "description": "Коллатин был одним из первых консулов по традиции."
+  },
+  {
+    "id": "REL_048",
+    "source": "PER_REP_003",
+    "target": "STATE_ROM_002",
+    "type": "INFLUENCED",
+    "description": "Публикола воплощает ранний идеал ограниченной республиканской власти."
+  },
+  {
+    "id": "REL_049",
+    "source": "BAT_REP_001",
+    "target": "PER_ARC_006",
+    "type": "CONSEQUENCE",
+    "description": "В традиции Брут погибает в столкновении с союзниками Тарквиниев."
+  },
+  {
+    "id": "REL_050",
+    "source": "CUL_REP_001",
+    "target": "CUL_REP_002",
+    "type": "CONFLICT_WITH",
+    "description": "Различие патрициев и плебеев лежит в основе традиционной борьбы сословий."
+  },
+  {
+    "id": "REL_051",
+    "source": "CUL_REP_002",
+    "target": "EVT_REP_002",
+    "type": "CAUSE",
+    "description": "Плебейское недовольство приводит к коллективной сецессии."
+  },
+  {
+    "id": "REL_052",
+    "source": "EVT_REP_002",
+    "target": "ORG_REP_001",
+    "type": "CONSEQUENCE",
+    "description": "Первую сецессию связывают с учреждением трибуната."
+  },
+  {
+    "id": "REL_053",
+    "source": "ORG_REP_001",
+    "target": "EVT_REP_003",
+    "type": "PART_OF",
+    "description": "Народные трибуны стали центральным инструментом плебейской борьбы."
+  },
+  {
+    "id": "REL_054",
+    "source": "EVT_REP_003",
+    "target": "LAW_REP_001",
+    "type": "CONSEQUENCE",
+    "description": "Давление плебеев связывают с появлением публичного письменного права."
+  },
+  {
+    "id": "REL_055",
+    "source": "ORG_REP_002",
+    "target": "LAW_REP_001",
+    "type": "FOUNDED_BY",
+    "description": "Децемвиры составили таблицы по традиции."
+  },
+  {
+    "id": "REL_056",
+    "source": "PER_REP_004",
+    "target": "PER_REP_005",
+    "type": "CONFLICT_WITH",
+    "description": "Предание об Аппии и Вергинии объясняет падение децемвиров."
+  },
+  {
+    "id": "REL_057",
+    "source": "PER_REP_005",
+    "target": "EVT_REP_004",
+    "type": "CAUSE",
+    "description": "Гибель Вергинии становится катализатором новой сецессии."
+  },
+  {
+    "id": "REL_058",
+    "source": "EVT_REP_004",
+    "target": "LAW_REP_001",
+    "type": "CONSEQUENCE",
+    "description": "После кризиса традиция помещает окончательную публикацию таблиц."
+  },
+  {
+    "id": "REL_059",
+    "source": "LOC_AREP_001",
+    "target": "ORG_ROM_001",
+    "type": "LOCATED_IN",
+    "description": "Комиций и ранняя курия образовывали политический узел рядом с сенатом."
+  },
+  {
+    "id": "REL_060",
+    "source": "LOC_AREP_002",
+    "target": "ORG_ROM_001",
+    "type": "LOCATED_IN",
+    "description": "Курия Гостилия считалась ранним местом заседаний сената."
+  },
+  {
+    "id": "REL_061",
+    "source": "PER_AREP_002",
+    "target": "LOC_AREP_003",
+    "type": "LOCATED_IN",
+    "description": "Подвиг Коклеса разворачивается у Свайного моста."
+  },
+  {
+    "id": "REL_062",
+    "source": "PER_AREP_003",
+    "target": "PER_AREP_005",
+    "type": "CONFLICT_WITH",
+    "description": "Муций действует в лагере Порсены."
+  },
+  {
+    "id": "REL_063",
+    "source": "PER_AREP_004",
+    "target": "PER_AREP_005",
+    "type": "CONFLICT_WITH",
+    "description": "Клелия была заложницей в договоре с Порсеной."
+  },
+  {
+    "id": "REL_064",
+    "source": "PER_AREP_005",
+    "target": "STATE_ROM_002",
+    "type": "CONFLICT_WITH",
+    "description": "По традиции Порсена угрожал молодой Республике."
+  },
+  {
+    "id": "REL_065",
+    "source": "BAT_AREP_001",
+    "target": "PER_ROM_009",
+    "type": "ALLY",
+    "description": "Тарквинии связываются с попыткой вернуться при поддержке латинов."
+  },
+  {
+    "id": "REL_066",
+    "source": "ORG_AREP_001",
+    "target": "ART_ARC_003",
+    "type": "PART_OF",
+    "description": "Ликторы несли фасции перед магистратами."
+  },
+  {
+    "id": "REL_067",
+    "source": "ORG_AREP_002",
+    "target": "LOC_AREP_001",
+    "type": "LOCATED_IN",
+    "description": "Куриатное собрание связано с Комицием."
+  },
+  {
+    "id": "REL_068",
+    "source": "ORG_AREP_003",
+    "target": "ORG_ARC_001",
+    "type": "INFLUENCED",
+    "description": "Центуриатные комиции избирали консулов."
+  },
+  {
+    "id": "REL_069",
+    "source": "ORG_AREP_004",
+    "target": "STATE_ROM_002",
+    "type": "PART_OF",
+    "description": "Квесторы стали одной из магистратур Республики."
+  },
+  {
+    "id": "REL_070",
+    "source": "ART_AREP_001",
+    "target": "ORG_ARC_001",
+    "type": "PART_OF",
+    "description": "Курульное кресло было знаком высших магистратов."
+  },
+  {
+    "id": "REL_071",
+    "source": "TERM_AREP_001",
+    "target": "ART_ARC_003",
+    "type": "INFLUENCED",
+    "description": "Внутри померия топоры из фасций традиционно убирались."
+  },
+  {
+    "id": "REL_072",
+    "source": "LOC_AREP_004",
+    "target": "CUL_REP_002",
+    "type": "CULTURAL_LINK",
+    "description": "Авентин ассоциировался с плебейской общиной."
+  },
+  {
+    "id": "REL_073",
+    "source": "LOC_AREP_005",
+    "target": "EVT_REP_002",
+    "type": "LOCATED_IN",
+    "description": "Священная гора считается традиционным местом сецессии."
+  },
+  {
+    "id": "REL_074",
+    "source": "ORG_AREP_005",
+    "target": "ORG_REP_001",
+    "type": "PART_OF",
+    "description": "Трибуны председательствовали в плебейском совете."
+  },
+  {
+    "id": "REL_075",
+    "source": "ORG_AREP_006",
+    "target": "ORG_REP_001",
+    "type": "ALLY",
+    "description": "Плебейские эдилы помогали трибунам."
+  },
+  {
+    "id": "REL_076",
+    "source": "LAW_AREP_001",
+    "target": "ORG_REP_001",
+    "type": "RELIGIOUS_LINK",
+    "description": "Священный закон обеспечивал неприкосновенность трибунов."
+  },
+  {
+    "id": "REL_077",
+    "source": "TERM_AREP_002",
+    "target": "EVT_REP_002",
+    "type": "CAUSE",
+    "description": "Долговая зависимость входит в традиционные объяснения сецессии."
+  },
+  {
+    "id": "REL_078",
+    "source": "PER_AREP_006",
+    "target": "STATE_ROM_002",
+    "type": "CULTURAL_LINK",
+    "description": "Цинциннат стал идеалом временной чрезвычайной власти."
+  },
+  {
+    "id": "REL_079",
+    "source": "PER_AREP_007",
+    "target": "STATE_ROM_002",
+    "type": "PART_OF",
+    "description": "Тит Ларций связан с ранней традицией римской диктатуры."
   }
 ]

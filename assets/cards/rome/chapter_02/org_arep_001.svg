@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1c1510"/><stop offset="1" stop-color="#7f6a42"/></linearGradient><pattern id="p" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M0 23h46M23 0v46" stroke="#f0d5a1" stroke-opacity=".05"/></pattern></defs>
+<rect width="900" height="1200" fill="url(#g)"/><rect width="900" height="1200" fill="url(#p)"/>
+<circle cx="450" cy="420" r="250" fill="none" stroke="#f0d5a1" stroke-opacity=".18" stroke-width="3"/>
+<circle cx="450" cy="420" r="188" fill="#f0d5a1" fill-opacity=".07" stroke="#f0d5a1" stroke-opacity=".4" stroke-width="2"/>
+<text x="450" y="500" text-anchor="middle" font-size="220" fill="#f0d5a1" font-family="Georgia,serif">⚖</text>
+<path d="M90 820H810" stroke="#f0d5a1" stroke-opacity=".45"/>
+<text x="60" y="900" font-size="48" font-weight="700" fill="#f0d5a1" font-family="Georgia,serif"><tspan x="60" dy="0">Ликторы</tspan></text>
+<text x="60" y="1080" font-size="24" fill="#f0d5a1" opacity=".76" font-family="Arial,sans-serif">служители и символ власти магистратов</text>
+<text x="810" y="1140" text-anchor="end" font-size="18" fill="#f0d5a1" opacity=".55" font-family="Arial,sans-serif">CODEX · ROMA II</text>
+</svg>

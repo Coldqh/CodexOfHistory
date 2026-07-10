@@ -3,7 +3,7 @@
     "card_id": "PER_ROM_001",
     "title": "Ромул",
     "file": "Buste de Rome (Louvre, Ma 1209) - Romulus.jpg",
-    "caption": "Ромул на шлеме аллегорического бюста города Рима, Лувр",
+    "local": null,
     "credit": "Wikimedia Commons / Louvre / Tangopaso",
     "license": "Public Domain"
   },
@@ -11,7 +11,7 @@
     "card_id": "EVT_ROM_001",
     "title": "Основание Рима",
     "file": "Romulus Founds the City and Names it Rome, pl.9 from the series The Story of Romulus and Remus.jpg",
-    "caption": "Ромул закладывает город и даёт ему имя Рим. Гравюра Джамбаттисты Фонтаны, 1575",
+    "local": null,
     "credit": "Wikimedia Commons",
     "license": "Public Domain / см. страницу файла"
   },
@@ -19,7 +19,7 @@
     "card_id": "STATE_ROM_001",
     "title": "Римское царство",
     "file": "Late Roman kingdom map-blank.svg",
-    "caption": "Территория позднего Римского царства на карте Италии",
+    "local": null,
     "credit": "Wikimedia Commons / Sémhur",
     "license": "CC BY-SA 4.0 / Free Art License"
   },
@@ -27,7 +27,7 @@
     "card_id": "EVT_ROM_002",
     "title": "Изгнание царей",
     "file": "The_Lictors_Returning_To_Brutus_The_Bodies_Of_His_Sons.jpg",
-    "caption": "Жак-Луи Давид. Брут и тела его сыновей — образ суровой республиканской добродетели",
+    "local": null,
     "credit": "Wikimedia Commons",
     "license": "Public Domain / см. страницу файла"
   },
@@ -35,7 +35,7 @@
     "card_id": "STATE_ROM_002",
     "title": "Римская республика",
     "file": "Extent_of_the_Roman_Republic_and_the_Roman_Empire_between_218_BC_and_117_AD.png",
-    "caption": "Рост Римской республики и империи на карте",
+    "local": null,
     "credit": "Wikimedia Commons",
     "license": "см. страницу файла"
   },
@@ -43,79 +43,15 @@
     "card_id": "ORG_ROM_001",
     "title": "Римский сенат",
     "file": "Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari.png",
-    "caption": "Цицерон разоблачает Катилину в сенате. Фреска Чезаре Маккари",
+    "local": null,
     "credit": "Wikimedia Commons",
     "license": "Public Domain / см. страницу файла"
-  },
-  {
-    "card_id": "PER_CAR_001",
-    "title": "Ганнибал Барка",
-    "file": "Hannibal_Slodtz_Louvre_MR2093.png",
-    "caption": "Скульптура Ганнибала работы Себастьена Слодца",
-    "credit": "Wikimedia Commons",
-    "license": "Public Domain / см. страницу файла"
-  },
-  {
-    "card_id": "WAR_ROM_001",
-    "title": "Вторая Пуническая война",
-    "file": "Map_of_Rome_and_Carthage_at_the_start_of_the_Second_Punic_War.svg",
-    "caption": "Рим и Карфаген в начале Второй Пунической войны",
-    "credit": "Wikimedia Commons",
-    "license": "см. страницу файла"
-  },
-  {
-    "card_id": "BAT_ROM_001",
-    "title": "Битва при Каннах",
-    "file": "Battle_cannae_destruction.svg",
-    "caption": "Схема окружения римской армии при Каннах",
-    "credit": "Wikimedia Commons",
-    "license": "см. страницу файла"
-  },
-  {
-    "card_id": "PER_ROM_002",
-    "title": "Сципион Африканский",
-    "file": "Scipio_Africanus_the_Elder.jpg",
-    "caption": "Бюст Сципиона Африканского Старшего",
-    "credit": "Wikimedia Commons",
-    "license": "см. страницу файла"
-  },
-  {
-    "card_id": "BAT_ROM_002",
-    "title": "Битва при Заме",
-    "file": "Battle_of_Zama,_202_BC.png",
-    "caption": "Схема битвы при Заме, 202 год до н. э.",
-    "credit": "Wikimedia Commons / U.S. Military Academy map",
-    "license": "Public Domain / см. страницу файла"
-  },
-  {
-    "card_id": "PER_ROM_003",
-    "title": "Юлий Цезарь",
-    "file": "Julius_Caesar_Coustou_Louvre_MR1798.jpg",
-    "caption": "Статуя Юлия Цезаря работы Николя Кусту",
-    "credit": "Wikimedia Commons / Louvre",
-    "license": "Public Domain / см. страницу файла"
-  },
-  {
-    "card_id": "EVT_ROM_003",
-    "title": "Переход через Рубикон",
-    "file": "Jean_Fouquet_-_Caesar_Crossing_the_Rubicon_-_WGA08034.jpg",
-    "caption": "Жан Фуке. Цезарь переходит Рубикон",
-    "credit": "Wikimedia Commons / Web Gallery of Art",
-    "license": "Public Domain / см. страницу файла"
-  },
-  {
-    "card_id": "PER_ROM_004",
-    "title": "Август",
-    "file": "Augustus_of_Prima_Porta_(inv._2290).jpg",
-    "caption": "Август из Прима-Порта, Ватиканские музеи",
-    "credit": "Wikimedia Commons",
-    "license": "CC BY-SA / см. страницу файла"
   },
   {
     "card_id": "PER_ROM_005",
     "title": "Рем",
     "file": "Rubens, Peter Paul - Romulus and Remus - 1614-1616.jpg",
-    "caption": "Питер Пауль Рубенс. Ромул и Рем",
+    "local": null,
     "credit": "Wikimedia Commons",
     "license": "Public Domain / см. страницу файла"
   },
@@ -123,7 +59,7 @@
     "card_id": "PER_ROM_006",
     "title": "Рея Сильвия",
     "file": "F. Melzi - Rhea Sylvia met scenes uit de geschiedenis van Romulus en Remus - NK1923 - Cultural Heritage Agency of the Netherlands Art Collection.jpg",
-    "caption": "Франческо Мельци. Рея Сильвия и сцены истории Ромула и Рема",
+    "local": null,
     "credit": "Wikimedia Commons / Cultural Heritage Agency of the Netherlands",
     "license": "Public Domain / см. страницу файла"
   },
@@ -131,7 +67,7 @@
     "card_id": "LOC_ROM_001",
     "title": "Палатинский холм",
     "file": "Palatine Hill Rome.jpg",
-    "caption": "Палатинский холм в Риме",
+    "local": null,
     "credit": "Wikimedia Commons / Jensens",
     "license": "Свободная лицензия / см. страницу файла"
   },
@@ -139,7 +75,7 @@
     "card_id": "REG_ROM_001",
     "title": "Лаций",
     "file": "Ancient Latium.png",
-    "caption": "Карта древнего Лация",
+    "local": null,
     "credit": "Wikimedia Commons / William R. Shepherd",
     "license": "Public Domain"
   },
@@ -147,7 +83,7 @@
     "card_id": "ART_ROM_001",
     "title": "Капитолийская волчица",
     "file": "Capitoline she-wolf Musei Capitolini MC1181 n2.jpg",
-    "caption": "Капитолийская волчица с Ромулом и Ремом",
+    "local": null,
     "credit": "Wikimedia Commons / Jastrow",
     "license": "Public Domain"
   },
@@ -155,7 +91,7 @@
     "card_id": "CUL_ROM_001",
     "title": "Сабиняне",
     "file": "The Intervention of the Sabine Women - David (Louvre INV 3691).jpg",
-    "caption": "Жак-Луи Давид. Вмешательство сабинянок",
+    "local": null,
     "credit": "Wikimedia Commons / Louvre",
     "license": "Public Domain / см. страницу файла"
   },
@@ -163,7 +99,7 @@
     "card_id": "EVT_ROM_005",
     "title": "Похищение сабинянок",
     "file": "The Rape of the Sabine Women.jpg",
-    "caption": "Никола Пуссен. Похищение сабинянок",
+    "local": null,
     "credit": "Wikimedia Commons / The Met",
     "license": "Public Domain"
   },
@@ -171,7 +107,7 @@
     "card_id": "PER_ROM_007",
     "title": "Нума Помпилий",
     "file": "Numa Pompilius, from Promptuarii Iconum Insigniorum.png",
-    "caption": "Нума Помпилий в издании XVI века",
+    "local": null,
     "credit": "Wikimedia Commons",
     "license": "Public Domain"
   },
@@ -179,7 +115,7 @@
     "card_id": "ORG_ROM_002",
     "title": "Весталки",
     "file": "Vestal in Forum romanum Rome Italy.jpg",
-    "caption": "Статуя весталки на Римском форуме",
+    "local": null,
     "credit": "Wikimedia Commons / Jebulon",
     "license": "Свободная лицензия / см. страницу файла"
   },
@@ -187,7 +123,7 @@
     "card_id": "CUL_ROM_002",
     "title": "Этруски",
     "file": "Etruscan civilization map.png",
-    "caption": "Карта Этрурии и этрусских городов",
+    "local": null,
     "credit": "Wikimedia Commons / NormanEinstein",
     "license": "CC BY-SA 3.0 / GFDL"
   },
@@ -195,7 +131,7 @@
     "card_id": "PER_ROM_008",
     "title": "Тарквиний Древний",
     "file": "Tarquinius-Priscus.jpg",
-    "caption": "Тарквиний Древний в издании XVI века",
+    "local": null,
     "credit": "Wikimedia Commons / Guillaume Rouillé",
     "license": "Public Domain"
   },
@@ -203,7 +139,7 @@
     "card_id": "LOC_ROM_002",
     "title": "Римский форум",
     "file": "Roman Forum, Panorama (31458111547).jpg",
-    "caption": "Панорама Римского форума",
+    "local": null,
     "credit": "Wikimedia Commons",
     "license": "Свободная лицензия / см. страницу файла"
   },
@@ -211,128 +147,496 @@
     "card_id": "PER_ROM_009",
     "title": "Тарквиний Гордый",
     "file": "Perino Tarquino el Soberbio funda el templo de Jupiter Capitolino.jpg",
-    "caption": "Тарквиний Гордый основывает храм Юпитера Капитолийского",
+    "local": null,
     "credit": "Wikimedia Commons / Uffizi",
     "license": "Public Domain / см. страницу файла"
   },
   {
+    "card_id": "PER_REP_001",
+    "title": "Секст Тарквиний",
+    "file": "per_rep_001.svg",
+    "local": "assets/cards/rome/chapter_02/per_rep_001.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_REP_002",
+    "title": "Луций Тарквиний Коллатин",
+    "file": "per_rep_002.svg",
+    "local": "assets/cards/rome/chapter_02/per_rep_002.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "EVT_REP_001",
+    "title": "Клятва Брута",
+    "file": "evt_rep_001.svg",
+    "local": "assets/cards/rome/chapter_02/evt_rep_001.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_REP_003",
+    "title": "Публий Валерий Публикола",
+    "file": "per_rep_003.svg",
+    "local": "assets/cards/rome/chapter_02/per_rep_003.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "BAT_REP_001",
+    "title": "Битва при Сильва-Арсии",
+    "file": "bat_rep_001.svg",
+    "local": "assets/cards/rome/chapter_02/bat_rep_001.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "CUL_REP_001",
+    "title": "Патриции",
+    "file": "cul_rep_001.svg",
+    "local": "assets/cards/rome/chapter_02/cul_rep_001.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "CUL_REP_002",
+    "title": "Плебеи",
+    "file": "cul_rep_002.svg",
+    "local": "assets/cards/rome/chapter_02/cul_rep_002.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "EVT_REP_002",
+    "title": "Первая сецессия плебеев",
+    "file": "evt_rep_002.svg",
+    "local": "assets/cards/rome/chapter_02/evt_rep_002.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ORG_REP_001",
+    "title": "Народный трибун",
+    "file": "org_rep_001.svg",
+    "local": "assets/cards/rome/chapter_02/org_rep_001.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "EVT_REP_003",
+    "title": "Борьба сословий",
+    "file": "evt_rep_003.svg",
+    "local": "assets/cards/rome/chapter_02/evt_rep_003.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "LAW_REP_001",
+    "title": "Законы XII таблиц",
+    "file": "law_rep_001.svg",
+    "local": "assets/cards/rome/chapter_02/law_rep_001.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ORG_REP_002",
+    "title": "Децемвиры",
+    "file": "org_rep_002.svg",
+    "local": "assets/cards/rome/chapter_02/org_rep_002.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_REP_004",
+    "title": "Аппий Клавдий Красс",
+    "file": "per_rep_004.svg",
+    "local": "assets/cards/rome/chapter_02/per_rep_004.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_REP_005",
+    "title": "Вергиния",
+    "file": "per_rep_005.svg",
+    "local": "assets/cards/rome/chapter_02/per_rep_005.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "EVT_REP_004",
+    "title": "Вторая сецессия плебеев",
+    "file": "evt_rep_004.svg",
+    "local": "assets/cards/rome/chapter_02/evt_rep_004.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
     "card_id": "CITY_ARC_001",
     "title": "Альба-Лонга",
-    "file": "Castel Gandolfo and Lake Albano.jpg",
-    "caption": "Окрестности Альбанских холмов и озера Альбано",
-    "credit": "Wikimedia Commons",
-    "license": "см. страницу файла"
+    "file": "Lo Scheggia, Reduction of Alba Longa by Tullus Hostilius, Circa 1430 - 35, Sotheby's.jpg",
+    "local": null,
+    "credit": "Wikimedia Commons / Lo Scheggia",
+    "license": "Public Domain"
   },
   {
     "card_id": "REG_ARC_001",
     "title": "Тибр",
-    "file": "Tiber River Rome.jpg",
-    "caption": "Река Тибр в Риме",
-    "credit": "Wikimedia Commons",
-    "license": "см. страницу файла"
+    "file": "Tiber River, Rome (48494164807).jpg",
+    "local": null,
+    "credit": "Wikimedia Commons / Gary Lee Todd",
+    "license": "Public Domain Mark"
   },
   {
     "card_id": "REL_ARC_001",
     "title": "Авгурия",
-    "file": "Augur, Nordisk familjebok.png",
-    "caption": "Изображение римского авгура",
-    "credit": "Wikimedia Commons",
-    "license": "Public Domain / см. страницу файла"
+    "file": "Augur, Nordisk familjebok.svg",
+    "local": null,
+    "credit": "Wikimedia Commons / Nordisk familjebok",
+    "license": "Public Domain"
   },
   {
     "card_id": "PER_ARC_001",
     "title": "Тит Татий",
-    "file": "Titus Tatius.jpg",
-    "caption": "Тит Татий в поздней художественной традиции",
-    "credit": "Wikimedia Commons",
-    "license": "см. страницу файла"
+    "file": "P.P. Rubens - Twee Romeinse veldheren (Romulus en Titus Tatius) - NK2675 - Museum Boijmans Van Beuningen.jpg",
+    "local": null,
+    "credit": "Wikimedia Commons / Peter Paul Rubens",
+    "license": "Public Domain"
   },
   {
     "card_id": "PER_ARC_002",
     "title": "Тарпея",
-    "file": "Tarpeia.jpg",
-    "caption": "Тарпея в художественной традиции",
-    "credit": "Wikimedia Commons",
-    "license": "см. страницу файла"
+    "file": "Tarpeia Crushed by the Sabines Met DP888584.jpg",
+    "local": null,
+    "credit": "Wikimedia Commons / The Met",
+    "license": "CC0"
   },
   {
     "card_id": "LOC_ARC_001",
     "title": "Квиринал",
-    "file": "Quirinal Hill Rome.jpg",
-    "caption": "Квиринальский холм в Риме",
-    "credit": "Wikimedia Commons",
-    "license": "см. страницу файла"
+    "file": "Quirinal Hill Luigi Rossini.jpg",
+    "local": null,
+    "credit": "Wikimedia Commons / Luigi Rossini",
+    "license": "Public Domain"
   },
   {
     "card_id": "REL_ARC_002",
     "title": "Храм Януса",
-    "file": "Temple of Janus coin.jpg",
-    "caption": "Изображение храма Януса на римской монете",
+    "file": "Sesterce temple janus.JPG",
+    "local": null,
     "credit": "Wikimedia Commons",
     "license": "см. страницу файла"
   },
   {
     "card_id": "PER_ARC_003",
     "title": "Анк Марций",
-    "file": "Ancus Marcius.jpg",
-    "caption": "Анк Марций в поздней иконографической традиции",
-    "credit": "Wikimedia Commons",
-    "license": "см. страницу файла"
+    "file": "Ancus-Martius.jpg",
+    "local": null,
+    "credit": "Wikimedia Commons / Guillaume Rouillé",
+    "license": "Public Domain"
   },
   {
     "card_id": "PER_ARC_004",
     "title": "Сервий Туллий",
-    "file": "Servius Tullius.jpg",
-    "caption": "Сервий Туллий в художественной традиции",
-    "credit": "Wikimedia Commons",
-    "license": "см. страницу файла"
+    "file": "Servius Tullius by Frans Huys.jpg",
+    "local": null,
+    "credit": "Wikimedia Commons / Frans Huys",
+    "license": "Public Domain"
   },
   {
     "card_id": "ART_ARC_001",
     "title": "Клоака Максима",
-    "file": "Cloaca Maxima Rome.jpg",
-    "caption": "Выход Клоаки Максимы у Тибра",
-    "credit": "Wikimedia Commons",
-    "license": "см. страницу файла"
+    "file": "View of the Cloaca Maxima, Rome.jpg",
+    "local": null,
+    "credit": "Wikimedia Commons / National Gallery of Art",
+    "license": "Public Domain"
   },
   {
     "card_id": "ART_ARC_002",
     "title": "Сервиева стена",
-    "file": "Servian Wall Rome.jpg",
-    "caption": "Сохранившийся участок Сервиевой стены",
-    "credit": "Wikimedia Commons",
-    "license": "см. страницу файла"
+    "file": "Servian Wall.JPG",
+    "local": null,
+    "credit": "Wikimedia Commons / Joris van Rooden",
+    "license": "Public Domain"
   },
   {
     "card_id": "PER_ARC_005",
     "title": "Лукреция",
-    "file": "The Death of Lucretia.jpg",
-    "caption": "Смерть Лукреции в европейской живописи",
+    "file": "Joerg Breu the Elder - The Suicide of Lucretia.JPG",
+    "local": null,
     "credit": "Wikimedia Commons",
-    "license": "Public Domain / см. страницу файла"
+    "license": "Public Domain"
   },
   {
     "card_id": "PER_ARC_006",
     "title": "Луций Юний Брут",
-    "file": "Lucius Junius Brutus Capitoline Museums.jpg",
-    "caption": "Бюст, традиционно называемый Луцием Юнием Брутом",
-    "credit": "Wikimedia Commons",
+    "file": "Capitoline Brutus Musei Capitolini MC1183.jpg",
+    "local": null,
+    "credit": "Wikimedia Commons / Musei Capitolini",
     "license": "см. страницу файла"
   },
   {
     "card_id": "ORG_ARC_001",
     "title": "Римские консулы",
-    "file": "Roman consul.jpg",
-    "caption": "Образ римского консула",
-    "credit": "Wikimedia Commons",
-    "license": "см. страницу файла"
+    "file": "Consul with Lictors.png",
+    "local": null,
+    "credit": "Wikimedia Commons / John Williamson",
+    "license": "Public Domain"
   },
   {
     "card_id": "ART_ARC_003",
     "title": "Фасции",
     "file": "Fasces lictoriae.svg",
-    "caption": "Схематическое изображение римских фасций",
+    "local": null,
     "credit": "Wikimedia Commons",
     "license": "см. страницу файла"
+  },
+  {
+    "card_id": "PER_AREP_001",
+    "title": "Спурий Лукреций Триципитин",
+    "file": "per_arep_001.svg",
+    "local": "assets/cards/rome/chapter_02/per_arep_001.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "LOC_AREP_001",
+    "title": "Комиций",
+    "file": "loc_arep_001.svg",
+    "local": "assets/cards/rome/chapter_02/loc_arep_001.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "LOC_AREP_002",
+    "title": "Курия Гостилия",
+    "file": "loc_arep_002.svg",
+    "local": "assets/cards/rome/chapter_02/loc_arep_002.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_AREP_002",
+    "title": "Гораций Коклес",
+    "file": "per_arep_002.svg",
+    "local": "assets/cards/rome/chapter_02/per_arep_002.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_AREP_003",
+    "title": "Гай Муций Сцевола",
+    "file": "per_arep_003.svg",
+    "local": "assets/cards/rome/chapter_02/per_arep_003.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_AREP_004",
+    "title": "Клелия",
+    "file": "per_arep_004.svg",
+    "local": "assets/cards/rome/chapter_02/per_arep_004.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_AREP_005",
+    "title": "Ларс Порсена",
+    "file": "per_arep_005.svg",
+    "local": "assets/cards/rome/chapter_02/per_arep_005.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "LOC_AREP_003",
+    "title": "Свайный мост",
+    "file": "loc_arep_003.svg",
+    "local": "assets/cards/rome/chapter_02/loc_arep_003.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "BAT_AREP_001",
+    "title": "Битва у Регилльского озера",
+    "file": "bat_arep_001.svg",
+    "local": "assets/cards/rome/chapter_02/bat_arep_001.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ORG_AREP_001",
+    "title": "Ликторы",
+    "file": "org_arep_001.svg",
+    "local": "assets/cards/rome/chapter_02/org_arep_001.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ORG_AREP_002",
+    "title": "Куриатные комиции",
+    "file": "org_arep_002.svg",
+    "local": "assets/cards/rome/chapter_02/org_arep_002.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ORG_AREP_003",
+    "title": "Центуриатные комиции",
+    "file": "org_arep_003.svg",
+    "local": "assets/cards/rome/chapter_02/org_arep_003.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ORG_AREP_004",
+    "title": "Квесторы",
+    "file": "org_arep_004.svg",
+    "local": "assets/cards/rome/chapter_02/org_arep_004.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ART_AREP_001",
+    "title": "Курульное кресло",
+    "file": "art_arep_001.svg",
+    "local": "assets/cards/rome/chapter_02/art_arep_001.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "TERM_AREP_001",
+    "title": "Помeрий",
+    "file": "term_arep_001.svg",
+    "local": "assets/cards/rome/chapter_02/term_arep_001.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "LOC_AREP_004",
+    "title": "Авентинский холм",
+    "file": "loc_arep_004.svg",
+    "local": "assets/cards/rome/chapter_02/loc_arep_004.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "LOC_AREP_005",
+    "title": "Священная гора",
+    "file": "loc_arep_005.svg",
+    "local": "assets/cards/rome/chapter_02/loc_arep_005.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ORG_AREP_005",
+    "title": "Плебейский совет",
+    "file": "org_arep_005.svg",
+    "local": "assets/cards/rome/chapter_02/org_arep_005.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ORG_AREP_006",
+    "title": "Плебейские эдилы",
+    "file": "org_arep_006.svg",
+    "local": "assets/cards/rome/chapter_02/org_arep_006.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "LAW_AREP_001",
+    "title": "Священный закон плебеев",
+    "file": "law_arep_001.svg",
+    "local": "assets/cards/rome/chapter_02/law_arep_001.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "TERM_AREP_002",
+    "title": "Нексум",
+    "file": "term_arep_002.svg",
+    "local": "assets/cards/rome/chapter_02/term_arep_002.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_AREP_006",
+    "title": "Луций Квинкций Цинциннат",
+    "file": "per_arep_006.svg",
+    "local": "assets/cards/rome/chapter_02/per_arep_006.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_AREP_007",
+    "title": "Тит Ларций",
+    "file": "per_arep_007.svg",
+    "local": "assets/cards/rome/chapter_02/per_arep_007.svg",
+    "credit": "Codex of History",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_CAR_001",
+    "title": "Ганнибал Барка",
+    "file": "Hannibal_Slodtz_Louvre_MR2093.png",
+    "local": null,
+    "credit": "Wikimedia Commons",
+    "license": "Public Domain / см. страницу файла"
+  },
+  {
+    "card_id": "WAR_ROM_001",
+    "title": "Вторая Пуническая война",
+    "file": "Map_of_Rome_and_Carthage_at_the_start_of_the_Second_Punic_War.svg",
+    "local": null,
+    "credit": "Wikimedia Commons",
+    "license": "см. страницу файла"
+  },
+  {
+    "card_id": "BAT_ROM_001",
+    "title": "Битва при Каннах",
+    "file": "Battle_cannae_destruction.svg",
+    "local": null,
+    "credit": "Wikimedia Commons",
+    "license": "см. страницу файла"
+  },
+  {
+    "card_id": "PER_ROM_002",
+    "title": "Сципион Африканский",
+    "file": "Scipio_Africanus_the_Elder.jpg",
+    "local": null,
+    "credit": "Wikimedia Commons",
+    "license": "см. страницу файла"
+  },
+  {
+    "card_id": "BAT_ROM_002",
+    "title": "Битва при Заме",
+    "file": "Battle_of_Zama,_202_BC.png",
+    "local": null,
+    "credit": "Wikimedia Commons / U.S. Military Academy map",
+    "license": "Public Domain / см. страницу файла"
+  },
+  {
+    "card_id": "PER_ROM_003",
+    "title": "Юлий Цезарь",
+    "file": "Julius_Caesar_Coustou_Louvre_MR1798.jpg",
+    "local": null,
+    "credit": "Wikimedia Commons / Louvre",
+    "license": "Public Domain / см. страницу файла"
+  },
+  {
+    "card_id": "EVT_ROM_003",
+    "title": "Переход через Рубикон",
+    "file": "Jean_Fouquet_-_Caesar_Crossing_the_Rubicon_-_WGA08034.jpg",
+    "local": null,
+    "credit": "Wikimedia Commons / Web Gallery of Art",
+    "license": "Public Domain / см. страницу файла"
+  },
+  {
+    "card_id": "PER_ROM_004",
+    "title": "Август",
+    "file": "Augustus_of_Prima_Porta_(inv._2290).jpg",
+    "local": null,
+    "credit": "Wikimedia Commons",
+    "license": "CC BY-SA / см. страницу файла"
   }
 ]

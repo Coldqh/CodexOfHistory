@@ -984,5 +984,800 @@
       "url": "https://ru.wikipedia.org/wiki/%D0%9B%D1%83%D1%86%D0%B8%D0%B9_%D0%A2%D0%B0%D1%80%D0%BA%D0%B2%D0%B8%D0%BD%D0%B8%D0%B9_%D0%93%D0%BE%D1%80%D0%B4%D1%8B%D0%B9",
       "type": "wikipedia"
     }
+  },
+  {
+    "id": "PER_REP_001",
+    "type": "PERSON",
+    "title": "Секст Тарквиний",
+    "original": "Sextus Tarquinius",
+    "subtitle": "сын последнего царя и фигура предания о Лукреции",
+    "era": "Ранний Рим",
+    "region": "Рим и Лаций",
+    "date": "конец VI века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 4,
+    "summary": "Секст Тарквиний в римской традиции — сын Тарквиния Гордого, насилие которого над Лукрецией стало поводом к восстанию против царской власти.",
+    "importance": "Через его образ римляне объясняли, почему личное преступление правящей семьи превратилось в политический переворот.",
+    "facts": [
+      "Рассказ известен по авторам, писавшим через несколько столетий после событий.",
+      "Традиция связывает преступление Секста с падением монархии.",
+      "После изгнания Тарквиниев Секст исчезает из центральной римской истории."
+    ],
+    "tags": [
+      "Тарквинии",
+      "Лукреция",
+      "монархия"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 2,
+      "culture": 7,
+      "politics": 8,
+      "religion": 2,
+      "economy": 1,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "per_rep_001.svg",
+      "local": "assets/cards/rome/chapter_02/per_rep_001.svg",
+      "caption": "Авторская векторная иллюстрация: Секст Тарквиний",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Секст Тарквиний — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%A1%D0%B5%D0%BA%D1%81%D1%82%20%D0%A2%D0%B0%D1%80%D0%BA%D0%B2%D0%B8%D0%BD%D0%B8%D0%B9",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "PER_REP_002",
+    "type": "PERSON",
+    "title": "Луций Тарквиний Коллатин",
+    "original": "Lucius Tarquinius Collatinus",
+    "subtitle": "муж Лукреции и первый консул по традиции",
+    "era": "Ранняя Республика",
+    "region": "Рим",
+    "date": "конец VI века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "summary": "Коллатин был мужем Лукреции и участником выступления против царей. По традиции он стал одним из первых консулов, но вскоре покинул должность из-за имени Тарквиниев.",
+    "importance": "Его короткая карьера показывает, насколько сильным был страх перед возвращением царской династии.",
+    "facts": [
+      "Коллатин принадлежал к роду Тарквиниев.",
+      "Традиция называет его коллегой Брута в первом консульстве.",
+      "Он уступил должность и покинул Рим, чтобы снизить политическое напряжение."
+    ],
+    "tags": [
+      "консулы",
+      "Лукреция",
+      "Тарквинии"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 3,
+      "culture": 3,
+      "politics": 7,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Коллация",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "per_rep_002.svg",
+      "local": "assets/cards/rome/chapter_02/per_rep_002.svg",
+      "caption": "Авторская векторная иллюстрация: Луций Тарквиний Коллатин",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Луций Тарквиний Коллатин — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9B%D1%83%D1%86%D0%B8%D0%B9%20%D0%A2%D0%B0%D1%80%D0%BA%D0%B2%D0%B8%D0%BD%D0%B8%D0%B9%20%D0%9A%D0%BE%D0%BB%D0%BB%D0%B0%D1%82%D0%B8%D0%BD",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "EVT_REP_001",
+    "type": "EVENT",
+    "title": "Клятва Брута",
+    "original": "Oath of Brutus",
+    "subtitle": "обет не допустить возвращения царей",
+    "era": "Ранняя Республика",
+    "region": "Рим",
+    "date": "традиционно 509 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 4,
+    "summary": "После смерти Лукреции Брут, согласно преданию, поднял окровавленный кинжал и призвал изгнать Тарквиниев.",
+    "importance": "Клятва стала ключевым образом республиканской памяти: власть царя изображалась угрозой свободе граждан.",
+    "facts": [
+      "Эпизод принадлежит литературной традиции, а не современному событию документу.",
+      "Брут обещал не допустить царской власти в Риме.",
+      "Позднейшее искусство постоянно возвращалось к этой сцене."
+    ],
+    "tags": [
+      "Брут",
+      "клятва",
+      "Республика"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 5,
+      "legacy": 9,
+      "military": 2,
+      "culture": 9,
+      "politics": 10,
+      "religion": 2,
+      "economy": 1,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рим",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "evt_rep_001.svg",
+      "local": "assets/cards/rome/chapter_02/evt_rep_001.svg",
+      "caption": "Авторская векторная иллюстрация: Клятва Брута",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Клятва Брута — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9A%D0%BB%D1%8F%D1%82%D0%B2%D0%B0%20%D0%91%D1%80%D1%83%D1%82%D0%B0",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "PER_REP_003",
+    "type": "PERSON",
+    "title": "Публий Валерий Публикола",
+    "original": "Publius Valerius Publicola",
+    "subtitle": "ранний консул и герой республиканской традиции",
+    "era": "Ранняя Республика",
+    "region": "Рим",
+    "date": "конец VI века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 4,
+    "summary": "Публикола — один из ранних консулов, которому традиция приписывала меры против возможной тирании и защиту права обращения к народу.",
+    "importance": "Его образ помогал римлянам представлять идеального аристократа, ограничивающего собственную власть ради Республики.",
+    "facts": [
+      "Прозвище Publicola обычно понимают как «друг народа».",
+      "Ему приписывали законы о праве апелляции к народу.",
+      "Ранняя биография Публиколы сильно обработана поздней традицией."
+    ],
+    "tags": [
+      "консул",
+      "апелляция",
+      "Республика"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 8,
+      "military": 5,
+      "culture": 5,
+      "politics": 9,
+      "religion": 2,
+      "economy": 2,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "per_rep_003.svg",
+      "local": "assets/cards/rome/chapter_02/per_rep_003.svg",
+      "caption": "Авторская векторная иллюстрация: Публий Валерий Публикола",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Публий Валерий Публикола — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9F%D1%83%D0%B1%D0%BB%D0%B8%D0%B9%20%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B9%20%D0%9F%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "BAT_REP_001",
+    "type": "BATTLE",
+    "title": "Битва при Сильва-Арсии",
+    "original": "Battle of Silva Arsia",
+    "subtitle": "первое крупное столкновение молодой Республики",
+    "era": "Ранняя Республика",
+    "region": "Этрурия и Лаций",
+    "date": "традиционно 509 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "По римской традиции сторонники изгнанного царя и этрусские союзники столкнулись с войском Республики у Сильва-Арсии.",
+    "importance": "Сражение стало частью рассказа о том, как новая система пережила первую попытку вернуть Тарквиниев.",
+    "facts": [
+      "Традиция связывает битву с гибелью Луция Юния Брута.",
+      "Исторические детали ранних войн крайне неопределённы.",
+      "Победа Республики в рассказе подтверждает необратимость изгнания царей."
+    ],
+    "tags": [
+      "битва",
+      "этруски",
+      "Брут"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 5,
+      "legacy": 5,
+      "military": 7,
+      "culture": 3,
+      "politics": 6,
+      "religion": 1,
+      "economy": 1,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Сильва-Арсия",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "bat_rep_001.svg",
+      "local": "assets/cards/rome/chapter_02/bat_rep_001.svg",
+      "caption": "Авторская векторная иллюстрация: Битва при Сильва-Арсии",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Битва при Сильва-Арсии — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%91%D0%B8%D1%82%D0%B2%D0%B0%20%D0%BF%D1%80%D0%B8%20%D0%A1%D0%B8%D0%BB%D1%8C%D0%B2%D0%B0-%D0%90%D1%80%D1%81%D0%B8%D0%B8",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "CUL_REP_001",
+    "type": "CULTURE",
+    "title": "Патриции",
+    "original": "Patricians",
+    "subtitle": "наследственная привилегированная группа раннего Рима",
+    "era": "Ранняя Республика",
+    "region": "Рим",
+    "date": "VI–V века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "summary": "Патриции были группой родов, обладавших особым престижем и в ранней традиции контролировавших важнейшие религиозные и политические должности.",
+    "importance": "Без различия между патрициями и плебеями невозможно понять борьбу сословий.",
+    "facts": [
+      "Патрицианский статус связывался с происхождением, а не просто с богатством.",
+      "В ранней Республике патриции доминировали в магистратурах и жречествах.",
+      "Позже богатые плебеи вошли в общую правящую элиту."
+    ],
+    "tags": [
+      "патриции",
+      "сословия",
+      "власть"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 8,
+      "military": 2,
+      "culture": 6,
+      "politics": 10,
+      "religion": 7,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рим",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "cul_rep_001.svg",
+      "local": "assets/cards/rome/chapter_02/cul_rep_001.svg",
+      "caption": "Авторская векторная иллюстрация: Патриции",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Патриции — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B8%D0%B8",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "CUL_REP_002",
+    "type": "CULTURE",
+    "title": "Плебеи",
+    "original": "Plebeians",
+    "subtitle": "широкая часть римского гражданского коллектива",
+    "era": "Ранняя Республика",
+    "region": "Рим",
+    "date": "VI–V века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "summary": "Плебеи составляли неоднородную часть свободных римских граждан: среди них были бедняки, земледельцы, ремесленники и состоятельные семьи.",
+    "importance": "Их коллективные выступления постепенно изменили устройство Республики.",
+    "facts": [
+      "Плебеи не были единым экономическим классом.",
+      "Сецессии стали главным способом давления на патрицианскую верхушку в традиции.",
+      "Плебейские должности и собрания сформировали отдельную политическую организацию."
+    ],
+    "tags": [
+      "плебеи",
+      "сословия",
+      "граждане"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 5,
+      "legacy": 9,
+      "military": 4,
+      "culture": 6,
+      "politics": 10,
+      "religion": 4,
+      "economy": 7,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Рим",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "cul_rep_002.svg",
+      "local": "assets/cards/rome/chapter_02/cul_rep_002.svg",
+      "caption": "Авторская векторная иллюстрация: Плебеи",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Плебеи — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9F%D0%BB%D0%B5%D0%B1%D0%B5%D0%B8",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "EVT_REP_002",
+    "type": "EVENT",
+    "title": "Первая сецессия плебеев",
+    "original": "First Secession of the Plebs",
+    "subtitle": "коллективный уход граждан как политическое давление",
+    "era": "Ранняя Республика",
+    "region": "Рим и Священная гора",
+    "date": "традиционно 494 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 5,
+    "summary": "По традиции плебеи, страдавшие от долгов и политического бесправия, покинули город и отказались выполнять обычные обязанности.",
+    "importance": "Сецессия показала силу коллективного отказа и привела к созданию плебейского трибуната.",
+    "facts": [
+      "Традиционная дата первой сецессии — 494 год до н. э.",
+      "Источники связывают конфликт с долгами, службой и отсутствием защиты.",
+      "Результатом считалось учреждение народных трибунов."
+    ],
+    "tags": [
+      "сецессия",
+      "плебеи",
+      "долги"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 4,
+      "culture": 7,
+      "politics": 10,
+      "religion": 3,
+      "economy": 7,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Священная гора",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "evt_rep_002.svg",
+      "local": "assets/cards/rome/chapter_02/evt_rep_002.svg",
+      "caption": "Авторская векторная иллюстрация: Первая сецессия плебеев",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Первая сецессия плебеев — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F%20%D1%81%D0%B5%D1%86%D0%B5%D1%81%D1%81%D0%B8%D1%8F%20%D0%BF%D0%BB%D0%B5%D0%B1%D0%B5%D0%B5%D0%B2",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "ORG_REP_001",
+    "type": "OFFICE",
+    "title": "Народный трибун",
+    "original": "Tribune of the Plebs",
+    "subtitle": "защитник плебеев с правом вмешательства",
+    "era": "Римская республика",
+    "region": "Рим",
+    "date": "с начала V века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 5,
+    "summary": "Народные трибуны представляли плебеев, могли вмешиваться в действия магистратов и позднее получили известное право вето.",
+    "importance": "Трибунат стал одним из важнейших противовесов внутри республиканского строя.",
+    "facts": [
+      "Личность трибуна считалась неприкосновенной.",
+      "Трибуны созывали плебейские собрания и защищали граждан.",
+      "Полномочия должности расширялись постепенно, а не возникли сразу в окончательном виде."
+    ],
+    "tags": [
+      "трибуны",
+      "вето",
+      "плебеи"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 10,
+      "military": 1,
+      "culture": 5,
+      "politics": 10,
+      "religion": 4,
+      "economy": 3,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Римский форум",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "org_rep_001.svg",
+      "local": "assets/cards/rome/chapter_02/org_rep_001.svg",
+      "caption": "Авторская векторная иллюстрация: Народный трибун",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Народный трибун — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D1%82%D1%80%D0%B8%D0%B1%D1%83%D0%BD",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "EVT_REP_003",
+    "type": "EVENT",
+    "title": "Борьба сословий",
+    "original": "Conflict of the Orders",
+    "subtitle": "долгий конфликт за доступ к праву и должностям",
+    "era": "Римская республика",
+    "region": "Рим",
+    "date": "традиционно V–III века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 6,
+    "summary": "Борьба сословий — условное название длительного процесса, в котором плебеи добивались политических, правовых и религиозных возможностей.",
+    "importance": "Это не одна война, а цепь кризисов, компромиссов и реформ, изменивших римскую элиту.",
+    "facts": [
+      "Источники описывают несколько сецессий и законодательных уступок.",
+      "Современные историки спорят о точности поздней римской схемы конфликта.",
+      "Результатом стало включение богатых плебейских родов в правящую знать."
+    ],
+    "tags": [
+      "сословия",
+      "реформы",
+      "Республика"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 8,
+      "legacy": 10,
+      "military": 3,
+      "culture": 7,
+      "politics": 10,
+      "religion": 6,
+      "economy": 7,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Рим",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "evt_rep_003.svg",
+      "local": "assets/cards/rome/chapter_02/evt_rep_003.svg",
+      "caption": "Авторская векторная иллюстрация: Борьба сословий",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Борьба сословий — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%91%D0%BE%D1%80%D1%8C%D0%B1%D0%B0%20%D1%81%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B9",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "LAW_REP_001",
+    "type": "LAW",
+    "title": "Законы XII таблиц",
+    "original": "Twelve Tables",
+    "subtitle": "первая публичная основа римского права",
+    "era": "Римская республика",
+    "region": "Римский форум",
+    "date": "традиционно 451–449 годы до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 7,
+    "summary": "Законы XII таблиц были ранней письменной фиксацией римских правовых норм и процедур. Их текст утрачен и восстанавливается по поздним цитатам.",
+    "importance": "Публичность норм ограничивала монополию знатоков обычая и стала символом римского правового порядка.",
+    "facts": [
+      "Таблицы связывают с работой двух коллегий децемвиров.",
+      "Они касались суда, долгов, семьи, собственности и общественного порядка.",
+      "Полный оригинальный текст не сохранился."
+    ],
+    "tags": [
+      "право",
+      "XII таблиц",
+      "форум"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 8,
+      "legacy": 10,
+      "military": 1,
+      "culture": 9,
+      "politics": 10,
+      "religion": 5,
+      "economy": 8,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Римский форум",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "law_rep_001.svg",
+      "local": "assets/cards/rome/chapter_02/law_rep_001.svg",
+      "caption": "Авторская векторная иллюстрация: Законы XII таблиц",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Законы XII таблиц — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B%20XII%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "ORG_REP_002",
+    "type": "FACTION",
+    "title": "Децемвиры",
+    "original": "Decemvirs",
+    "subtitle": "коллегия десяти мужей для записи законов",
+    "era": "Римская республика",
+    "region": "Рим",
+    "date": "традиционно 451–449 годы до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Децемвиры — две последовательные коллегии из десяти человек, которым традиция приписывает составление XII таблиц.",
+    "importance": "Рассказ о второй коллегии показывает страх римлян перед властью без обычных ограничений.",
+    "facts": [
+      "Во время децемвирата обычные магистратуры временно не действовали.",
+      "Первая коллегия создала десять таблиц, вторая — ещё две.",
+      "Поздняя традиция изображала вторую коллегию как тираническую."
+    ],
+    "tags": [
+      "децемвиры",
+      "право",
+      "коллегия"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 2,
+      "culture": 5,
+      "politics": 9,
+      "religion": 3,
+      "economy": 3,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "org_rep_002.svg",
+      "local": "assets/cards/rome/chapter_02/org_rep_002.svg",
+      "caption": "Авторская векторная иллюстрация: Децемвиры",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Децемвиры — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%94%D0%B5%D1%86%D0%B5%D0%BC%D0%B2%D0%B8%D1%80%D1%8B",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "PER_REP_004",
+    "type": "PERSON",
+    "title": "Аппий Клавдий Красс",
+    "original": "Appius Claudius Crassus",
+    "subtitle": "децемвир и антагонист предания о Вергинии",
+    "era": "Римская республика",
+    "region": "Рим",
+    "date": "V век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Аппий Клавдий в традиции возглавляет вторую коллегию децемвиров и пытается подчинить себе Вергинию через судебное решение.",
+    "importance": "Его образ стал примером того, как чрезвычайная власть превращается в личное насилие.",
+    "facts": [
+      "Рассказ об Аппии и Вергинии дошёл в поздней литературной форме.",
+      "Он принадлежал к влиятельному патрицианскому роду Клавдиев.",
+      "Падение децемвиров связывали с новым плебейским выступлением."
+    ],
+    "tags": [
+      "Клавдии",
+      "децемвиры",
+      "Вергиния"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 2,
+      "culture": 7,
+      "politics": 9,
+      "religion": 2,
+      "economy": 2,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Рим",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "per_rep_004.svg",
+      "local": "assets/cards/rome/chapter_02/per_rep_004.svg",
+      "caption": "Авторская векторная иллюстрация: Аппий Клавдий Красс",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Аппий Клавдий Красс — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%90%D0%BF%D0%BF%D0%B8%D0%B9%20%D0%9A%D0%BB%D0%B0%D0%B2%D0%B4%D0%B8%D0%B9%20%D0%9A%D1%80%D0%B0%D1%81%D1%81",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "PER_REP_005",
+    "type": "PERSON",
+    "title": "Вергиния",
+    "original": "Verginia",
+    "subtitle": "героиня предания о падении децемвиров",
+    "era": "Римская республика",
+    "region": "Рим",
+    "date": "традиционно середина V века до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 6,
+    "summary": "Вергиния — героиня римского предания, чья гибель стала катализатором восстания против децемвиров.",
+    "importance": "История повторяет структуру рассказа о Лукреции: насилие власти превращается в основание политического переворота.",
+    "facts": [
+      "Аппий Клавдий пытался объявить Вергинию рабыней своего клиента.",
+      "Отец Вергинии убил дочь, чтобы не отдать её во власть децемвира.",
+      "Современные исследователи рассматривают рассказ как сильно литературно обработанный."
+    ],
+    "tags": [
+      "Вергиния",
+      "децемвиры",
+      "легенда"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 1,
+      "culture": 10,
+      "politics": 9,
+      "religion": 2,
+      "economy": 1,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Римский форум",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "per_rep_005.svg",
+      "local": "assets/cards/rome/chapter_02/per_rep_005.svg",
+      "caption": "Авторская векторная иллюстрация: Вергиния",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Вергиния — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%92%D0%B5%D1%80%D0%B3%D0%B8%D0%BD%D0%B8%D1%8F",
+      "type": "wikipedia"
+    }
+  },
+  {
+    "id": "EVT_REP_004",
+    "type": "EVENT",
+    "title": "Вторая сецессия плебеев",
+    "original": "Second Secession of the Plebs",
+    "subtitle": "падение децемвиров и восстановление магистратур",
+    "era": "Римская республика",
+    "region": "Рим",
+    "date": "традиционно 449 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "По традиции протест против децемвиров привёл к новой сецессии, падению коллегии и восстановлению консулов и трибунов.",
+    "importance": "Эпизод связывает публичное право с борьбой против чрезвычайной власти.",
+    "facts": [
+      "Сецессию связывали с историей Вергинии.",
+      "После кризиса традиция помещает публикацию XII таблиц.",
+      "Точная последовательность событий остаётся спорной."
+    ],
+    "tags": [
+      "сецессия",
+      "децемвиры",
+      "XII таблиц"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 3,
+      "culture": 6,
+      "politics": 10,
+      "religion": 2,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "x": 56,
+      "y": 50
+    },
+    "image": {
+      "file": "evt_rep_004.svg",
+      "local": "assets/cards/rome/chapter_02/evt_rep_004.svg",
+      "caption": "Авторская векторная иллюстрация: Вторая сецессия плебеев",
+      "credit": "Codex of History",
+      "license": "Project asset",
+      "focus": "50% 50%"
+    },
+    "source": {
+      "title": "Вторая сецессия плебеев — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%92%D1%82%D0%BE%D1%80%D0%B0%D1%8F%20%D1%81%D0%B5%D1%86%D0%B5%D1%81%D1%81%D0%B8%D1%8F%20%D0%BF%D0%BB%D0%B5%D0%B1%D0%B5%D0%B5%D0%B2",
+      "type": "wikipedia"
+    }
   }
 ]

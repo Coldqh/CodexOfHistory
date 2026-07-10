@@ -1,4 +1,4 @@
-/* Codex v1.4 — compact library, mobile drawer, profile and pack cleanup */
+/* Codex v1.5 — compact library, mobile drawer, profile and pack cleanup */
 
 function openMobileMenu(){ document.body?.classList?.add('mobile-menu-open'); }
 function closeMobileMenu(){ document.body?.classList?.remove('mobile-menu-open'); }

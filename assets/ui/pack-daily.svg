@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 820">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17130f"/><stop offset="1" stop-color="#050505"/></linearGradient>
+    <radialGradient id="sun"><stop stop-color="#f4dfac"/><stop offset="1" stop-color="#a87638"/></radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="600" height="820" rx="48" fill="url(#bg)"/>
+  <rect x="22" y="22" width="556" height="776" rx="36" fill="none" stroke="#d8bd82" stroke-width="4"/>
+  <rect x="42" y="42" width="516" height="736" rx="28" fill="none" stroke="#6f5432" stroke-width="2"/>
+  <circle cx="300" cy="300" r="112" fill="url(#sun)" filter="url(#glow)"/>
+  <g stroke="#efd79c" stroke-width="8" stroke-linecap="round" opacity=".9">
+    <path d="M300 110v70M300 420v70M110 300h70M420 300h70M166 166l50 50M384 384l50 50M434 166l-50 50M216 384l-50 50"/>
+  </g>
+  <path d="M176 535c70-34 178-34 248 0v108c-70-34-178-34-248 0z" fill="#d2b578" opacity=".16" stroke="#d8bd82" stroke-width="4"/>
+  <path d="M300 522v136" stroke="#d8bd82" stroke-width="4"/>
+  <text x="300" y="710" text-anchor="middle" fill="#f3e4bd" font-family="Georgia,serif" font-size="40" letter-spacing="8">CODEX</text>
+  <text x="300" y="754" text-anchor="middle" fill="#aa8a58" font-family="Arial,sans-serif" font-size="18" letter-spacing="5">DAILY ARCHIVE</text>
+</svg>

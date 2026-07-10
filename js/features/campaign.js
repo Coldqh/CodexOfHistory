@@ -1,4 +1,4 @@
-/* Codex v1.4 — campaign engine */
+/* Codex v1.5 — campaign engine */
 function mission(id){ return CODEX_REGISTRY.missionsById.get(id); }
 function missionIndex(id){ return CAMPAIGN.nodes.findIndex(n=>n.id===id); }
 function missionCompleted(id){ return state.missionsCompleted.includes(id); }

@@ -103,6 +103,25 @@
         "credit",
         "license"
       ]
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "title",
+        "url",
+        "type"
+      ],
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string"
+        }
+      }
     }
   },
   "additionalProperties": true

@@ -16,4 +16,4 @@ jobs:
       - run: node tools/validate-content.mjs
       - run: node tools/smoke-daily.mjs
       - run: node tools/smoke-settings.mjs
-      - run: node tools/smoke-ui-v14.mjs
+      - run: node tools/smoke-ui-v15.mjs

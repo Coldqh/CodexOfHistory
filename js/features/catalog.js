@@ -1,4 +1,4 @@
-/* Codex v1.4 — archive/catalog separation */
+/* Codex v1.5 — archive/catalog separation */
 state.collectionView = state.collectionView === 'CATALOG' ? 'CATALOG' : 'ARCHIVE';
 state.catalogScope = state.catalogScope || 'ALL';
 PAGE_META.collection=['Библиотека','Архив и полный каталог'];

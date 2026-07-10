@@ -1,4 +1,4 @@
-/* Codex v1.4 — runtime configuration, state and theme */
+/* Codex v1.5 — runtime configuration, state and theme */
 const STORE = 'codex_history_v02_ru';
 const TYPE_META = {
   PERSON:['♛','Личность'], EVENT:['✦','Событие'], BATTLE:['⚔','Битва'],

@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -33,6 +33,7 @@
     "js/features/daily-learning.js",
     "js/features/settings.js",
     "js/features/mobile-cleanup.js",
+    "js/features/v1-5-polish.js",
     "js/core/start.js"
   ],
   "vendors": {

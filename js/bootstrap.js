@@ -1,8 +1,8 @@
-/* Codex of History v1.4 — versioned static bootstrap and forced refresh support */
+/* Codex of History v1.5 — versioned static bootstrap and forced refresh support */
 (() => {
   const app = document.getElementById('app');
   const showBoot = (title, text, isError=false) => {
-    app.innerHTML = `<main class="boot-screen ${isError?'boot-error':''}"><div class="boot-mark">C</div><div><div class="eyebrow">Content Engine v1.4</div><h1>${title}</h1><p>${text}</p></div></main>`;
+    app.innerHTML = `<main class="boot-screen ${isError?'boot-error':''}"><div class="boot-mark">C</div><div><div class="eyebrow">Content Engine v1.5</div><h1>${title}</h1><p>${text}</p></div></main>`;
   };
   const refreshToken=sessionStorage.getItem('codex_force_refresh')||'';
   const addVersion=(path,version='')=>{
@@ -25,7 +25,7 @@
     try {
       showBoot('Открываем Codex','Загружаем карточки, кампанию и игровые системы…');
       const manifest=await fetchJson('data/content-manifest.json');
-      const version=manifest.version||'1.4.0';
+      const version=manifest.version||'1.5.0';
       const d=manifest.datasets;
       window.CODEX_VENDOR_READY={leaflet:manifest.vendors?.leaflet?loadScript(manifest.vendors.leaflet,version).catch(error=>{console.warn('[Codex vendor]',error);return false;}):Promise.resolve(false)};
       const [cardSets,relations,campaign,pools,quizzes,stories,mastery,packs,collection,maps,daily]=await Promise.all([

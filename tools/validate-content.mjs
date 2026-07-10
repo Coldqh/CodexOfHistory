@@ -14,9 +14,10 @@ const ids=new Set();
 for(const c of cards){
  req(c&&typeof c==='object',`Некорректная карточка: ${String(c)}`); if(!c)continue;
  req(c.id,`Карточка без id: ${c.title||'?'}`); req(!ids.has(c.id),`Дубликат card id: ${c.id}`); ids.add(c.id);
- for(const key of ['type','title','subtitle','era','region','date','rarity','summary','importance','facts','tags','stats','image']) req(c[key]!==undefined,`${c.id}: отсутствует ${key}`);
+ for(const key of ['type','title','subtitle','era','region','date','rarity','summary','importance','facts','tags','stats','image','source']) req(c[key]!==undefined,`${c.id}: отсутствует ${key}`);
  req(Array.isArray(c.facts)&&c.facts.length>=3,`${c.id}: нужно минимум 3 факта`);
  req(c.image?.file&&c.image?.caption&&c.image?.credit&&c.image?.license,`${c.id}: неполные данные изображения`);
+ req(c.source?.type==='wikipedia'&&c.source?.url,`${c.id}: отсутствует Wikipedia source`);
 }
 for(const r of relations){req(ids.has(r.source),`Связь ${r.id||'?'}: нет source ${r.source}`);req(ids.has(r.target),`Связь ${r.id||'?'}: нет target ${r.target}`);}
 const missionIds=new Set(campaign.nodes.map(x=>x.id));

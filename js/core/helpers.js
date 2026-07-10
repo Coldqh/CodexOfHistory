@@ -1,4 +1,4 @@
-/* Codex v1.4 — registries and shared helpers */
+/* Codex v1.5 — registries and shared helpers */
 function card(id){ return CODEX_REGISTRY.cardsById.get(id); }
 function isUnlocked(id){ return state.unlocked.includes(id); }
 function imgUrl(file){ return 'https://commons.wikimedia.org/wiki/Special:FilePath/' + encodeURIComponent(file); }

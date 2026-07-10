@@ -216,5 +216,24 @@
     "PER_ARC_006": "ROME",
     "ORG_ARC_001": "FORUM",
     "ART_ARC_003": "FORUM"
+  },
+  "chapters": {
+    "ROME_CHAPTER_01": {
+      "title": "Рождение Рима",
+      "center": [
+        41.9028,
+        12.4964
+      ],
+      "zoom": 9,
+      "missionIds": [
+        "MIS_BIRTH_01",
+        "MIS_BIRTH_02",
+        "MIS_BIRTH_03",
+        "MIS_BIRTH_04",
+        "MIS_BIRTH_05",
+        "MIS_BIRTH_06",
+        "MIS_BIRTH_07"
+      ]
+    }
   }
 }

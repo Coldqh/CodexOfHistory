@@ -1,4 +1,4 @@
-/* Codex v1.4 — campaign pools and personal stories */
+/* Codex v1.5 — campaign pools and personal stories */
 const V09_RARITY_WEIGHTS=CODEX_CONFIG.packs.rarityWeights;
 const V09_RARITY_RANK={RARE:1,EPIC:2,LEGENDARY:3,MYTHIC:4};
 PAGE_META.storyline=['Личная история','Архивный квест'];

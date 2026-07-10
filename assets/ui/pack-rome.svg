@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 820">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#260b0e"/><stop offset=".55" stop-color="#10090a"/><stop offset="1" stop-color="#050505"/></linearGradient><linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f0d39b"/><stop offset="1" stop-color="#8f642f"/></linearGradient></defs>
+  <rect width="600" height="820" rx="48" fill="url(#bg)"/>
+  <rect x="22" y="22" width="556" height="776" rx="36" fill="none" stroke="#d7b476" stroke-width="4"/>
+  <path d="M110 160h380M130 190h340" stroke="#76532c" stroke-width="3"/>
+  <g fill="url(#gold)">
+    <path d="M300 160c-80 38-126 100-126 182 0 102 74 178 126 216 52-38 126-114 126-216 0-82-46-144-126-182zm0 56c43 27 68 70 68 126 0 63-39 119-68 148-29-29-68-85-68-148 0-56 25-99 68-126z"/>
+    <path d="M300 260l24 52 57 7-42 40 11 56-50-27-50 27 11-56-42-40 57-7z"/>
+  </g>
+  <text x="300" y="610" text-anchor="middle" fill="#eed7a7" font-family="Georgia,serif" font-size="72" letter-spacing="10">SPQR</text>
+  <path d="M140 650h320" stroke="#b2884d" stroke-width="3"/>
+  <text x="300" y="705" text-anchor="middle" fill="#d2b27a" font-family="Arial,sans-serif" font-size="24" letter-spacing="6">ROMAN ARCHIVE</text>
+  <text x="300" y="755" text-anchor="middle" fill="#83643b" font-family="Arial,sans-serif" font-size="18" letter-spacing="5">CODEX OF HISTORY</text>
+</svg>

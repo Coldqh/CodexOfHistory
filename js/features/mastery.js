@@ -1,4 +1,4 @@
-/* Codex v1.4 — mastery, collection progression and packs */
+/* Codex v1.5 — mastery, collection progression and packs */
 const MASTERY_META=Object.fromEntries(CODEX_CONFIG.mastery.states.map(x=>[x.id,{label:x.label,percent:x.percent,icon:x.icon}]));
 const MASTERY_FILTERS=['ALL',...CODEX_CONFIG.mastery.states.map(x=>x.id)];
 const PACK_DEFS=Object.fromEntries(CODEX_CONFIG.packs.packs.map(p=>[p.id,{...p,subtitle:p.id==='DAILY'?'Один бесплатный пак в сутки':'Открытия за фрагменты',emoji:p.id==='DAILY'?'☀':'SPQR'}]));

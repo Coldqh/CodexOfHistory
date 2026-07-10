@@ -1,4 +1,4 @@
-/* Codex v1.1 — interactive map engine */
+/* Codex v1.4 — interactive map engine */
 const GEO=CODEX_CONFIG.maps.points;
 const LATIUM_POLYGON=CODEX_CONFIG.maps.regions.latium.polygon;
 const ETRURIA_POLYGON=CODEX_CONFIG.maps.regions.etruria.polygon;
@@ -16,9 +16,10 @@ function markerIcon(c,target=false){
 }
 function createBaseMap(id,center,zoom){
   if(typeof L==='undefined'){ const el=document.getElementById(id); if(el) el.innerHTML='<div class="map-load-error"><b>Карта не загрузилась</b><span>Проверь подключение к интернету и обнови страницу.</span></div>'; return null; }
-  const map=L.map(id,{zoomControl:false,minZoom:5,maxZoom:18,worldCopyJump:true,preferCanvas:true}).setView(center,zoom);
+  const map=L.map(id,{zoomControl:false,attributionControl:false,minZoom:5,maxZoom:18,worldCopyJump:true,preferCanvas:true}).setView(center,zoom);
   L.control.zoom({position:'bottomright'}).addTo(map);
-  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'}).addTo(map);
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19}).addTo(map);
+  L.control.attribution({position:'bottomleft',prefix:false}).addAttribution('&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noreferrer">OpenStreetMap</a>').addTo(map);
   activeMaps.push(map); return map;
 }
 function addRegionLayers(map,interactive=false,missionId=null){

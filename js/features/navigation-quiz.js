@@ -1,4 +1,4 @@
-/* Codex v1.1 — navigation, quizzes, basic rewards and feedback */
+/* Codex v1.4 — navigation, quizzes, basic rewards and feedback */
 function go(tab){
   state.tab=tab; state.selected=null; state.quizFinished=false; state.quizLastResult=null;
   save(); render(); window.scrollTo({top:0,behavior:'smooth'});

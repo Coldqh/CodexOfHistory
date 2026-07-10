@@ -1,4 +1,4 @@
-/* Codex v1.1 — base UI shell and screen renderers */
+/* Codex v1.4 — base UI shell and screen renderers */
 function navButtons(cls=''){
   return NAV.map(([id,ico,label])=>{const active=state.tab===id||(state.tab==='mission'&&id==='campaign');return `<button class="${cls} ${active?'active':''}" onclick="go('${id}')"><span>${ico}</span>${label}</button>`;}).join('');
 }

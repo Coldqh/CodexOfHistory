@@ -1,11 +1,11 @@
-/* Codex v1.3 — settings, compact mobile preferences and update controls */
+/* Codex v1.4 — settings, compact mobile preferences and update controls */
 const PREF_STORE='codex_history_preferences_v13';
 const DEFAULT_PREFERENCES={density:'compact',textSize:'normal',motion:'full',confirmReset:true,lastForcedRefresh:null};
 let storedPreferences={};
 try{storedPreferences=JSON.parse(localStorage.getItem(PREF_STORE)||'{}')||{};}catch{storedPreferences={};}
 let preferences={...DEFAULT_PREFERENCES,...storedPreferences};
 
-function appVersion(){return CODEX_MANIFEST?.version||'1.3.0';}
+function appVersion(){return CODEX_MANIFEST?.version||'1.4.0';}
 function savePreferences(){localStorage.setItem(PREF_STORE,JSON.stringify(preferences));}
 function applyPreferences(){
   const root=document.documentElement;

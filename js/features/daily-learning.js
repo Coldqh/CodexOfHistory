@@ -1,4 +1,4 @@
-/* Codex v1.2 — daily learning, spaced repetition and error analytics */
+/* Codex v1.4 — daily learning, spaced repetition and error analytics */
 const DAILY_CONFIG=CODEX_CONFIG.daily;
 const DAILY_INTERVALS=DAILY_CONFIG.interval_days;
 const DAILY_RULES=DAILY_CONFIG.session;

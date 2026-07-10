@@ -1,4 +1,4 @@
-/* Codex v1.1 — final startup after every feature module is registered */
+/* Codex v1.4 — final startup after every feature module is registered */
 (() => {
   syncDiscovery();
   save();

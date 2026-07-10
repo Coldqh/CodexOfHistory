@@ -1,4 +1,4 @@
-/* Codex v1.1 — enhancement and base render loop */
+/* Codex v1.4 — enhancement and base render loop */
 function initEnhancements(){
   const prefersReduced=window.matchMedia('(prefers-reduced-motion: reduce)').matches || document.documentElement.dataset.motion==='reduced';
   if(!prefersReduced){

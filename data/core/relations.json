@@ -593,5 +593,165 @@
     "target": "STATE_ROM_002",
     "type": "PART_OF",
     "description": "Тит Ларций связан с ранней традицией римской диктатуры."
+  },
+  {
+    "id": "REL_080",
+    "source": "CITY_ITA_001",
+    "target": "EVT_ITA_001",
+    "type": "ЦЕЛЬ_ВОЙНЫ",
+    "description": "CITY_ITA_001 → EVT_ITA_001",
+    "strength": 8
+  },
+  {
+    "id": "REL_081",
+    "source": "PER_ITA_001",
+    "target": "EVT_ITA_001",
+    "type": "КОМАНДУЮЩИЙ",
+    "description": "PER_ITA_001 → EVT_ITA_001",
+    "strength": 8
+  },
+  {
+    "id": "REL_082",
+    "source": "BAT_ITA_001",
+    "target": "EVT_ITA_002",
+    "type": "ПРИЧИНА",
+    "description": "BAT_ITA_001 → EVT_ITA_002",
+    "strength": 8
+  },
+  {
+    "id": "REL_083",
+    "source": "PER_ITA_002",
+    "target": "EVT_ITA_002",
+    "type": "СВЯЗАН",
+    "description": "PER_ITA_002 → EVT_ITA_002",
+    "strength": 8
+  },
+  {
+    "id": "REL_084",
+    "source": "EVT_ITA_002",
+    "target": "EVT_ITA_003",
+    "type": "ПРЕДШЕСТВУЕТ",
+    "description": "EVT_ITA_002 → EVT_ITA_003",
+    "strength": 8
+  },
+  {
+    "id": "REL_085",
+    "source": "WAR_ITA_001",
+    "target": "EVT_ITA_004",
+    "type": "ЗАВЕРШАЕТСЯ",
+    "description": "WAR_ITA_001 → EVT_ITA_004",
+    "strength": 8
+  },
+  {
+    "id": "REL_086",
+    "source": "EVT_ITA_004",
+    "target": "SYS_ITA_001",
+    "type": "СОЗДАЁТ",
+    "description": "EVT_ITA_004 → SYS_ITA_001",
+    "strength": 8
+  },
+  {
+    "id": "REL_087",
+    "source": "WAR_ITA_002",
+    "target": "BAT_ITA_002",
+    "type": "ВКЛЮЧАЕТ",
+    "description": "WAR_ITA_002 → BAT_ITA_002",
+    "strength": 8
+  },
+  {
+    "id": "REL_088",
+    "source": "PER_ITA_003",
+    "target": "BAT_ITA_002",
+    "type": "КОМАНДУЮЩИЙ",
+    "description": "PER_ITA_003 → BAT_ITA_002",
+    "strength": 8
+  },
+  {
+    "id": "REL_089",
+    "source": "ROAD_ITA_001",
+    "target": "SYS_ITA_001",
+    "type": "УКРЕПЛЯЕТ",
+    "description": "ROAD_ITA_001 → SYS_ITA_001",
+    "strength": 8
+  },
+  {
+    "id": "REL_090",
+    "source": "BAT_ITA_003",
+    "target": "WAR_ITA_002",
+    "type": "ПЕРЕЛОМ",
+    "description": "BAT_ITA_003 → WAR_ITA_002",
+    "strength": 8
+  },
+  {
+    "id": "REL_091",
+    "source": "CITY_ITA_002",
+    "target": "WAR_ITA_003",
+    "type": "ВЫЗЫВАЕТ",
+    "description": "CITY_ITA_002 → WAR_ITA_003",
+    "strength": 8
+  },
+  {
+    "id": "REL_092",
+    "source": "PER_ITA_004",
+    "target": "WAR_ITA_003",
+    "type": "КОМАНДУЮЩИЙ",
+    "description": "PER_ITA_004 → WAR_ITA_003",
+    "strength": 8
+  },
+  {
+    "id": "REL_093",
+    "source": "WAR_ITA_003",
+    "target": "BAT_ITA_004",
+    "type": "ВКЛЮЧАЕТ",
+    "description": "WAR_ITA_003 → BAT_ITA_004",
+    "strength": 8
+  },
+  {
+    "id": "REL_094",
+    "source": "WAR_ITA_003",
+    "target": "BAT_ITA_005",
+    "type": "ВКЛЮЧАЕТ",
+    "description": "WAR_ITA_003 → BAT_ITA_005",
+    "strength": 8
+  },
+  {
+    "id": "REL_095",
+    "source": "WAR_ITA_003",
+    "target": "BAT_ITA_006",
+    "type": "ВКЛЮЧАЕТ",
+    "description": "WAR_ITA_003 → BAT_ITA_006",
+    "strength": 8
+  },
+  {
+    "id": "REL_096",
+    "source": "SYS_ITA_001",
+    "target": "STATE_ITA_001",
+    "type": "ОСНОВА",
+    "description": "SYS_ITA_001 → STATE_ITA_001",
+    "strength": 8
+  },
+  {
+    "id": "REL_097",
+    "source": "ROAD_ITA_001",
+    "target": "CITY_ITA_004",
+    "type": "СВЯЗЫВАЕТ",
+    "description": "ROAD_ITA_001 → CITY_ITA_004",
+    "strength": 8
+  },
+  {
+    "id": "REL_098",
+    "source": "TERM_ITA_004",
+    "target": "CITY_ITA_005",
+    "type": "СОЗДАЁТ",
+    "description": "TERM_ITA_004 → CITY_ITA_005",
+    "strength": 8
+  },
+  {
+    "id": "REL_099",
+    "source": "TERM_ITA_006",
+    "target": "BAT_ITA_005",
+    "type": "ПРОИСХОДИТ_ИЗ",
+    "description": "TERM_ITA_006 → BAT_ITA_005",
+    "strength": 8
   }
 ]

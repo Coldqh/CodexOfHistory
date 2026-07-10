@@ -1,5 +1,5 @@
 {
-  "version": "1.9.0",
+  "version": "2.0.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -13,7 +13,8 @@
     "pools": "data/campaigns/rome/pools.json",
     "quizzes": [
       "data/quizzes/rome/chapter_01.json",
-      "data/quizzes/rome/chapter_02.json"
+      "data/quizzes/rome/chapter_02.json",
+      "data/quizzes/rome/chapter_03.json"
     ],
     "stories": "data/stories/rome/personal.json",
     "mastery": "data/core/mastery.json",
@@ -23,7 +24,8 @@
     "daily": "data/core/daily-learning.json",
     "lessons": [
       "data/lessons/rome/chapter_01.json",
-      "data/lessons/rome/chapter_02.json"
+      "data/lessons/rome/chapter_02.json",
+      "data/lessons/rome/chapter_03.json"
     ]
   },
   "scripts": [
@@ -44,6 +46,7 @@
     "js/features/v1-7-republic.js",
     "js/features/v1-8-learning-missions.js",
     "js/features/v1-9-theory.js",
+    "js/features/v2-0-italy.js",
     "js/core/start.js"
   ],
   "vendors": {

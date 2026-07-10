@@ -1779,5 +1779,1241 @@
       "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%92%D1%82%D0%BE%D1%80%D0%B0%D1%8F%20%D1%81%D0%B5%D1%86%D0%B5%D1%81%D1%81%D0%B8%D1%8F%20%D0%BF%D0%BB%D0%B5%D0%B1%D0%B5%D0%B5%D0%B2",
       "type": "wikipedia"
     }
+  },
+  {
+    "id": "CITY_ITA_001",
+    "type": "CITY",
+    "title": "Вейи",
+    "original": "Вейи",
+    "subtitle": "этрусский соперник Рима",
+    "era": "Ранняя Республика",
+    "region": "Этрурия",
+    "date": "до 396 года до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 3,
+    "summary": "Вейи были богатым этрусским городом всего в нескольких десятках километров от Рима.",
+    "importance": "Долгая борьба с Вейями показывает, что ранний Рим сначала воевал за ближайшие переправы, землю и влияние, а не за мировую империю.",
+    "facts": [
+      "Город контролировал важные пути к северу от Тибра.",
+      "Римская традиция описывает десятилетнюю осаду Вейев.",
+      "Город пал около 396 года до н. э."
+    ],
+    "tags": [
+      "Вейи",
+      "этруски",
+      "война"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 7,
+      "military": 8,
+      "culture": 4,
+      "politics": 7,
+      "religion": 3,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Вейи",
+      "lat": 42.01,
+      "lng": 12.4
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/city_ita_001.svg",
+      "caption": "Учебная обложка: Вейи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "city_ita_001.svg"
+    },
+    "source": {
+      "title": "Вейи — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B9%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "PER_ITA_001",
+    "type": "PERSON",
+    "title": "Марк Фурий Камилл",
+    "original": "Марк Фурий Камилл",
+    "subtitle": "полководец ранней Республики",
+    "era": "Ранняя Республика",
+    "region": "Рим",
+    "date": "V–IV века до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 3,
+    "summary": "Камилл — герой римской традиции, связанный с захватом Вейев, восстановлением Рима после галлов и несколькими войнами в Италии.",
+    "importance": "Его биография показывает, как Республика превращала военные кризисы в рассказы о долге, дисциплине и спасении общины.",
+    "facts": [
+      "Традиция приписывала ему взятие Вейев.",
+      "Его называли вторым основателем Рима.",
+      "Многие детали его жизни известны из поздних источников."
+    ],
+    "tags": [
+      "Камилл",
+      "Вейи",
+      "галлы"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 9,
+      "culture": 6,
+      "politics": 8,
+      "religion": 4,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.9,
+      "lng": 12.5
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/per_ita_001.svg",
+      "caption": "Учебная обложка: Марк Фурий Камилл",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "per_ita_001.svg"
+    },
+    "source": {
+      "title": "Марк Фурий Камилл — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA_%D0%A4%D1%83%D1%80%D0%B8%D0%B9_%D0%9A%D0%B0%D0%BC%D0%B8%D0%BB%D0%BB",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03",
+    "personalStory": "STORY_CAMILLUS"
+  },
+  {
+    "id": "EVT_ITA_001",
+    "type": "EVENT",
+    "title": "Падение Вейев",
+    "original": "Падение Вейев",
+    "subtitle": "первый крупный успех Республики",
+    "era": "Ранняя Республика",
+    "region": "Этрурия",
+    "date": "около 396 года до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 3,
+    "summary": "После долгой войны Рим захватил Вейи и получил территорию, население и ресурсы ближайшего этрусского соперника.",
+    "importance": "Победа увеличила римскую территорию и стала важным шагом от локального города к региональной державе.",
+    "facts": [
+      "Дата традиционно относится к 396 году до н. э.",
+      "Рассказ об осаде содержит легендарные детали.",
+      "Земля Вейев усилила ресурсную базу Рима."
+    ],
+    "tags": [
+      "Вейи",
+      "завоевание",
+      "Этрурия"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 9,
+      "culture": 4,
+      "politics": 8,
+      "religion": 4,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Вейи",
+      "lat": 42.01,
+      "lng": 12.4
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/evt_ita_001.svg",
+      "caption": "Учебная обложка: Падение Вейев",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "evt_ita_001.svg"
+    },
+    "source": {
+      "title": "Вейи — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B9%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "BAT_ITA_001",
+    "type": "BATTLE",
+    "title": "Битва при Аллии",
+    "original": "Битва при Аллии",
+    "subtitle": "катастрофа перед разграблением Рима",
+    "era": "Ранняя Республика",
+    "region": "Лаций",
+    "date": "традиционно 390 или 387 год до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 3,
+    "summary": "Римская армия потерпела тяжёлое поражение от галлов у реки Аллия.",
+    "importance": "Поражение разрушило ощущение безопасности и стало центральной травмой римской исторической памяти.",
+    "facts": [
+      "Точная дата спорна.",
+      "После поражения галлы вошли в Рим.",
+      "Капитолий, согласно традиции, продолжал сопротивление."
+    ],
+    "tags": [
+      "галлы",
+      "Аллия",
+      "поражение"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 10,
+      "culture": 7,
+      "politics": 8,
+      "religion": 3,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Аллия",
+      "lat": 42.06,
+      "lng": 12.5
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/bat_ita_001.svg",
+      "caption": "Учебная обложка: Битва при Аллии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "bat_ita_001.svg"
+    },
+    "source": {
+      "title": "Битва при Аллии — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%B2%D0%B0_%D0%BF%D1%80%D0%B8_%D0%90%D0%BB%D0%BB%D0%B8%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "EVT_ITA_002",
+    "type": "EVENT",
+    "title": "Разграбление Рима галлами",
+    "original": "Разграбление Рима галлами",
+    "subtitle": "город после военной катастрофы",
+    "era": "Ранняя Республика",
+    "region": "Рим",
+    "date": "IV век до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 3,
+    "summary": "Галльские отряды заняли и разграбили значительную часть Рима после победы при Аллии.",
+    "importance": "Память о разграблении усилила римскую одержимость обороной, военной устойчивостью и недопущением повторного унижения.",
+    "facts": [
+      "Античные версии событий расходятся.",
+      "Легенда связывает спасение Капитолия с гусями Юноны.",
+      "Позднее римляне использовали катастрофу как пример способности восстановиться."
+    ],
+    "tags": [
+      "галлы",
+      "Рим",
+      "разграбление"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 10,
+      "military": 9,
+      "culture": 8,
+      "politics": 8,
+      "religion": 5,
+      "economy": 7,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.9,
+      "lng": 12.5
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/evt_ita_002.svg",
+      "caption": "Учебная обложка: Разграбление Рима галлами",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "evt_ita_002.svg"
+    },
+    "source": {
+      "title": "Разграбление Рима (390 год до н. э.) — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%B3%D1%80%D0%B0%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A0%D0%B8%D0%BC%D0%B0_(390_%D0%B3%D0%BE%D0%B4_%D0%B4%D0%BE_%D0%BD._%D1%8D.)",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "PER_ITA_002",
+    "type": "PERSON",
+    "title": "Бренн",
+    "original": "Бренн",
+    "subtitle": "галльский вождь в римской традиции",
+    "era": "Ранняя Республика",
+    "region": "Центральная Италия",
+    "date": "IV век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 3,
+    "summary": "Бренн — имя вождя сенонов, с которым поздняя традиция связывала взятие Рима и фразу «горе побеждённым».",
+    "importance": "Его образ показывает, как поражение было превращено в моральный рассказ о силе, унижении и реванше.",
+    "facts": [
+      "Историчность отдельных деталей спорна.",
+      "Фраза Vae victis известна из позднего рассказа.",
+      "Имя Бренн могло быть титулом или традиционным обозначением."
+    ],
+    "tags": [
+      "галлы",
+      "Бренн",
+      "память"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 5,
+      "legacy": 8,
+      "military": 8,
+      "culture": 7,
+      "politics": 4,
+      "religion": 2,
+      "economy": 2,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.9,
+      "lng": 12.5
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/per_ita_002.svg",
+      "caption": "Учебная обложка: Бренн",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "per_ita_002.svg"
+    },
+    "source": {
+      "title": "Бренн (IV век до н. э.) — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B5%D0%BD%D0%BD_(IV_%D0%B2%D0%B5%D0%BA_%D0%B4%D0%BE_%D0%BD._%D1%8D.)",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03",
+    "personalStory": "STORY_BRENNUS"
+  },
+  {
+    "id": "EVT_ITA_003",
+    "type": "EVENT",
+    "title": "Восстановление Рима",
+    "original": "Восстановление Рима",
+    "subtitle": "перестройка после галльской катастрофы",
+    "era": "Ранняя Республика",
+    "region": "Рим",
+    "date": "IV век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "summary": "После разграбления город был восстановлен, а его оборонительная и политическая система продолжила развиваться.",
+    "importance": "Этот этап важен не одной стройкой, а способностью Республики мобилизовать людей и ресурсы после тяжёлого поражения.",
+    "facts": [
+      "Рим не прекратил экспансию после катастрофы.",
+      "С обороной IV века связывают мощные каменные стены.",
+      "Традиция приписывала Камиллу роль спасителя города."
+    ],
+    "tags": [
+      "восстановление",
+      "Рим",
+      "оборона"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 7,
+      "military": 5,
+      "culture": 5,
+      "politics": 7,
+      "religion": 2,
+      "economy": 7,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.9,
+      "lng": 12.5
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/evt_ita_003.svg",
+      "caption": "Учебная обложка: Восстановление Рима",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "evt_ita_003.svg"
+    },
+    "source": {
+      "title": "Сервиева стена — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D0%B5%D0%B2%D0%B0_%D1%81%D1%82%D0%B5%D0%BD%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "WAR_ITA_001",
+    "type": "WAR",
+    "title": "Латинская война",
+    "original": "Латинская война",
+    "subtitle": "борьба за устройство Лация",
+    "era": "Ранняя Республика",
+    "region": "Лаций",
+    "date": "340–338 годы до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 3,
+    "summary": "Рим и его союзники столкнулись с рядом латинских общин, которые сопротивлялись римскому господству.",
+    "importance": "После победы Рим не просто уничтожил противников, а создал разные формы гражданства и союзных обязательств.",
+    "facts": [
+      "Война завершилась в 338 году до н. э.",
+      "Латинский союз был распущен.",
+      "Побеждённые общины получили различный правовой статус."
+    ],
+    "tags": [
+      "Латинская война",
+      "Лаций",
+      "союзы"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 9,
+      "culture": 3,
+      "politics": 10,
+      "religion": 2,
+      "economy": 8,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Лаций",
+      "lat": 41.7,
+      "lng": 12.7
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/war_ita_001.svg",
+      "caption": "Учебная обложка: Латинская война",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "war_ita_001.svg"
+    },
+    "source": {
+      "title": "Латинская война — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "EVT_ITA_004",
+    "type": "EVENT",
+    "title": "Роспуск Латинского союза",
+    "original": "Роспуск Латинского союза",
+    "subtitle": "новый порядок после 338 года",
+    "era": "Ранняя Республика",
+    "region": "Лаций",
+    "date": "338 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 3,
+    "summary": "После Латинской войны Рим прекратил существование общего союза и выстроил отдельные отношения с каждой общиной.",
+    "importance": "Договоры по отдельности мешали созданию единого антиримского блока и стали частью римской системы контроля.",
+    "facts": [
+      "Не все города получили одинаковые условия.",
+      "Некоторые получили гражданство, другие — ограниченные права.",
+      "Военные обязанности союзников сохранились."
+    ],
+    "tags": [
+      "Латинский союз",
+      "гражданство",
+      "договоры"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 5,
+      "culture": 3,
+      "politics": 10,
+      "religion": 2,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Лаций",
+      "lat": 41.7,
+      "lng": 12.7
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/evt_ita_004.svg",
+      "caption": "Учебная обложка: Роспуск Латинского союза",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "evt_ita_004.svg"
+    },
+    "source": {
+      "title": "Латинский союз — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "SYS_ITA_001",
+    "type": "SYSTEM",
+    "title": "Союзная система Рима",
+    "original": "Союзная система Рима",
+    "subtitle": "сеть граждан, муниципиев и союзников",
+    "era": "Ранняя Республика",
+    "region": "Италия",
+    "date": "IV–III века до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 3,
+    "summary": "Рим объединял Италию через неодинаковые статусы, двусторонние договоры, колонии и военную обязанность.",
+    "importance": "Эта система давала Риму огромный резерв людей, не превращая всю Италию в единообразное государство.",
+    "facts": [
+      "Статусы общин различались.",
+      "Союзники выставляли войска.",
+      "Рим сохранял центральное руководство войной и внешней политикой."
+    ],
+    "tags": [
+      "союзники",
+      "гражданство",
+      "Италия"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 9,
+      "legacy": 10,
+      "military": 9,
+      "culture": 4,
+      "politics": 10,
+      "religion": 2,
+      "economy": 10,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Италия",
+      "lat": 41.0,
+      "lng": 13.0
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/sys_ita_001.svg",
+      "caption": "Учебная обложка: Союзная система Рима",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "sys_ita_001.svg"
+    },
+    "source": {
+      "title": "Римское гражданство — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "WAR_ITA_002",
+    "type": "WAR",
+    "title": "Самнитские войны",
+    "original": "Самнитские войны",
+    "subtitle": "долгая борьба за Центральную Италию",
+    "era": "Ранняя Республика",
+    "region": "Самний",
+    "date": "343–290 годы до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 3,
+    "summary": "Серия конфликтов между Римом и самнитскими объединениями охватила десятилетия и несколько разных войн.",
+    "importance": "Именно эти войны заставили Рим действовать в горной местности, строить дороги, основывать колонии и удерживать коалиции.",
+    "facts": [
+      "Обычно выделяют три Самнитские войны.",
+      "Кавдинское ущелье стало символом римского унижения.",
+      "Победа открыла путь к господству в Центральной Италии."
+    ],
+    "tags": [
+      "самниты",
+      "война",
+      "Италия"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 8,
+      "legacy": 10,
+      "military": 10,
+      "culture": 4,
+      "politics": 9,
+      "religion": 3,
+      "economy": 9,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Самний",
+      "lat": 41.45,
+      "lng": 14.35
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/war_ita_002.svg",
+      "caption": "Учебная обложка: Самнитские войны",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "war_ita_002.svg"
+    },
+    "source": {
+      "title": "Самнитские войны — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%BD%D0%B8%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "BAT_ITA_002",
+    "type": "BATTLE",
+    "title": "Кавдинское ущелье",
+    "original": "Кавдинское ущелье",
+    "subtitle": "капитуляция без большой битвы",
+    "era": "Ранняя Республика",
+    "region": "Самний",
+    "date": "321 год до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 3,
+    "summary": "Самнитский командующий Гай Понтий заманил римскую армию в горную ловушку и вынудил её сдаться.",
+    "importance": "Эпизод показывает, что расширение Рима не было непрерывной серией побед и что Республика могла переживать тяжёлые унижения.",
+    "facts": [
+      "Римляне оказались заперты между проходами.",
+      "Традиция описывает прохождение под ярмом.",
+      "Политические детали соглашения спорны."
+    ],
+    "tags": [
+      "Кавдинское ущелье",
+      "самниты",
+      "поражение"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 9,
+      "culture": 6,
+      "politics": 8,
+      "religion": 3,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Каудий",
+      "lat": 41.04,
+      "lng": 14.63
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/bat_ita_002.svg",
+      "caption": "Учебная обложка: Кавдинское ущелье",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "bat_ita_002.svg"
+    },
+    "source": {
+      "title": "Битва в Кавдинском ущелье — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%B2%D0%B0_%D0%B2_%D0%9A%D0%B0%D0%B2%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D1%83%D1%89%D0%B5%D0%BB%D1%8C%D0%B5",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "PER_ITA_003",
+    "type": "PERSON",
+    "title": "Гай Понтий",
+    "original": "Гай Понтий",
+    "subtitle": "самнитский командующий",
+    "era": "Ранняя Республика",
+    "region": "Самний",
+    "date": "IV век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 3,
+    "summary": "Гай Понтий — самнитский военачальник, связанный с победой над римлянами в Кавдинском ущелье.",
+    "importance": "Его история показывает стратегическую способность противников Рима и ограничения римской военной машины.",
+    "facts": [
+      "Он использовал рельеф вместо прямого боя.",
+      "Римская армия была вынуждена капитулировать.",
+      "Поздние рассказы о его судьбе расходятся."
+    ],
+    "tags": [
+      "Гай Понтий",
+      "самниты",
+      "стратегия"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 9,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 2,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Каудий",
+      "lat": 41.04,
+      "lng": 14.63
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/per_ita_003.svg",
+      "caption": "Учебная обложка: Гай Понтий",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "per_ita_003.svg"
+    },
+    "source": {
+      "title": "Гай Понтий — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B9_%D0%9F%D0%BE%D0%BD%D1%82%D0%B8%D0%B9",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03",
+    "personalStory": "STORY_PONTIUS"
+  },
+  {
+    "id": "ROAD_ITA_001",
+    "type": "ROAD",
+    "title": "Аппиева дорога",
+    "original": "Аппиева дорога",
+    "subtitle": "военная и административная магистраль",
+    "era": "Ранняя Республика",
+    "region": "Италия",
+    "date": "с 312 года до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 3,
+    "summary": "Аппиева дорога связала Рим с Капуей и позднее была продолжена к югу.",
+    "importance": "Дорога ускоряла перемещение войск, сообщений и товаров и одновременно закрепляла римское присутствие на новых территориях.",
+    "facts": [
+      "Строительство начал цензор Аппий Клавдий Цек.",
+      "Первоначальный маршрут вёл к Капуе.",
+      "Дорога стала символом римской инфраструктуры."
+    ],
+    "tags": [
+      "Аппиева дорога",
+      "инфраструктура",
+      "армия"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 5,
+      "legacy": 10,
+      "military": 8,
+      "culture": 7,
+      "politics": 8,
+      "religion": 2,
+      "economy": 10,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Аппиева дорога",
+      "lat": 41.7,
+      "lng": 12.7
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/road_ita_001.svg",
+      "caption": "Учебная обложка: Аппиева дорога",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "road_ita_001.svg"
+    },
+    "source": {
+      "title": "Аппиева дорога — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BF%D0%BF%D0%B8%D0%B5%D0%B2%D0%B0_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "BAT_ITA_003",
+    "type": "BATTLE",
+    "title": "Битва при Сентине",
+    "original": "Битва при Сентине",
+    "subtitle": "победа над широкой коалицией",
+    "era": "Ранняя Республика",
+    "region": "Умбрия",
+    "date": "295 год до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 3,
+    "summary": "Римские армии столкнулись с коалицией самнитов, галлов и других противников у Сентина.",
+    "importance": "Победа ослабила возможность создать общий фронт против Рима и стала переломом Третьей Самнитской войны.",
+    "facts": [
+      "Битва относится к 295 году до н. э.",
+      "Против Рима действовала широкая коалиция.",
+      "Римская традиция связывает победу с devotio Деция Муса."
+    ],
+    "tags": [
+      "Сентин",
+      "коалиция",
+      "самниты"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 10,
+      "culture": 5,
+      "politics": 9,
+      "religion": 5,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Сентин",
+      "lat": 43.34,
+      "lng": 12.84
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/bat_ita_003.svg",
+      "caption": "Учебная обложка: Битва при Сентине",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "bat_ita_003.svg"
+    },
+    "source": {
+      "title": "Битва при Сентине — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%B2%D0%B0_%D0%BF%D1%80%D0%B8_%D0%A1%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%B5",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "CITY_ITA_002",
+    "type": "CITY",
+    "title": "Тарент",
+    "original": "Тарент",
+    "subtitle": "греческий полис Южной Италии",
+    "era": "Ранняя Республика",
+    "region": "Великая Греция",
+    "date": "IV–III века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 3,
+    "summary": "Тарент был богатым греческим городом, который пригласил царя Пирра для войны с Римом.",
+    "importance": "Конфликт с Тарентом вывел Рим из италийской политики в мир эллинистических армий и международных союзов.",
+    "facts": [
+      "Город был спартанской колонией.",
+      "Он обладал сильным флотом и экономикой.",
+      "После войны Тарент оказался под римским контролем."
+    ],
+    "tags": [
+      "Тарент",
+      "Великая Греция",
+      "Пирр"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 7,
+      "culture": 9,
+      "politics": 8,
+      "religion": 4,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Тарент",
+      "lat": 40.47,
+      "lng": 17.24
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/city_ita_002.svg",
+      "caption": "Учебная обложка: Тарент",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "city_ita_002.svg"
+    },
+    "source": {
+      "title": "Таранто — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%80%D0%B0%D0%BD%D1%82%D0%BE",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "PER_ITA_004",
+    "type": "PERSON",
+    "title": "Пирр Эпирский",
+    "original": "Пирр Эпирский",
+    "subtitle": "эллинистический царь и противник Рима",
+    "era": "Ранняя Республика",
+    "region": "Эпир и Южная Италия",
+    "date": "319/318–272 годы до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 3,
+    "summary": "Пирр привёл в Италию профессиональную эллинистическую армию и боевых слонов и несколько раз победил римлян ценой тяжёлых потерь.",
+    "importance": "Его война показала способность Рима заменять армии, сохранять союзников и продолжать борьбу даже после поражений.",
+    "facts": [
+      "Пирр победил при Гераклее и Аускуле.",
+      "С его именем связано выражение «пиррова победа».",
+      "После неудачи при Беневенте он покинул Италию."
+    ],
+    "tags": [
+      "Пирр",
+      "эллинизм",
+      "война"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 8,
+      "legacy": 10,
+      "military": 10,
+      "culture": 9,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Эпир",
+      "lat": 39.5,
+      "lng": 20.2
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/per_ita_004.svg",
+      "caption": "Учебная обложка: Пирр Эпирский",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "per_ita_004.svg"
+    },
+    "source": {
+      "title": "Пирр — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D1%80",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03",
+    "personalStory": "STORY_PYRRHUS"
+  },
+  {
+    "id": "WAR_ITA_003",
+    "type": "WAR",
+    "title": "Пиррова война",
+    "original": "Пиррова война",
+    "subtitle": "столкновение Рима с эллинистическим миром",
+    "era": "Ранняя Республика",
+    "region": "Южная Италия",
+    "date": "280–275 годы до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 3,
+    "summary": "Рим воевал с Пирром, Тарентом и их союзниками в Южной Италии.",
+    "importance": "Война проверила римскую коалицию на прочность и завершила важный этап подчинения Италии.",
+    "facts": [
+      "Пирр использовал слонов и фалангу.",
+      "Рим не согласился на мир после поражений.",
+      "После ухода Пирра Тарент капитулировал."
+    ],
+    "tags": [
+      "Пиррова война",
+      "Тарент",
+      "Италия"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 8,
+      "legacy": 10,
+      "military": 10,
+      "culture": 8,
+      "politics": 9,
+      "religion": 4,
+      "economy": 8,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Южная Италия",
+      "lat": 40.7,
+      "lng": 16.5
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/war_ita_003.svg",
+      "caption": "Учебная обложка: Пиррова война",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "war_ita_003.svg"
+    },
+    "source": {
+      "title": "Пиррова война — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D1%80%D0%BE%D0%B2%D0%B0_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "BAT_ITA_004",
+    "type": "BATTLE",
+    "title": "Битва при Гераклее",
+    "original": "Битва при Гераклее",
+    "subtitle": "первая победа Пирра в Италии",
+    "era": "Ранняя Республика",
+    "region": "Лукания",
+    "date": "280 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 3,
+    "summary": "Пирр победил римскую армию у Гераклеи, используя фалангу, конницу и слонов.",
+    "importance": "Римляне столкнулись с незнакомой боевой системой, но поражение не заставило Республику выйти из войны.",
+    "facts": [
+      "Битва произошла в 280 году до н. э.",
+      "Слоны сыграли заметную роль.",
+      "Потери Пирра ограничили ценность победы."
+    ],
+    "tags": [
+      "Гераклея",
+      "Пирр",
+      "слоны"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 9,
+      "culture": 6,
+      "politics": 6,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Гераклея",
+      "lat": 40.2,
+      "lng": 16.6
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/bat_ita_004.svg",
+      "caption": "Учебная обложка: Битва при Гераклее",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "bat_ita_004.svg"
+    },
+    "source": {
+      "title": "Битва при Гераклее — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%B2%D0%B0_%D0%BF%D1%80%D0%B8_%D0%93%D0%B5%D1%80%D0%B0%D0%BA%D0%BB%D0%B5%D0%B5",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "BAT_ITA_005",
+    "type": "BATTLE",
+    "title": "Битва при Аускуле",
+    "original": "Битва при Аускуле",
+    "subtitle": "победа, которая истощает победителя",
+    "era": "Ранняя Республика",
+    "region": "Апулия",
+    "date": "279 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 3,
+    "summary": "При Аускуле Пирр снова добился успеха, но его армия понесла потери, которые было трудно восполнить.",
+    "importance": "Событие стало основой понятия «пиррова победа»: формальный успех может ухудшить стратегическое положение.",
+    "facts": [
+      "Датируется 279 годом до н. э.",
+      "Источники по исходу и потерям расходятся.",
+      "Рим мог восполнять людей легче, чем Пирр."
+    ],
+    "tags": [
+      "Аускул",
+      "пиррова победа",
+      "стратегия"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 10,
+      "military": 9,
+      "culture": 7,
+      "politics": 6,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Аускул",
+      "lat": 41.0,
+      "lng": 15.3
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/bat_ita_005.svg",
+      "caption": "Учебная обложка: Битва при Аускуле",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "bat_ita_005.svg"
+    },
+    "source": {
+      "title": "Битва при Аускуле — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%B2%D0%B0_%D0%BF%D1%80%D0%B8_%D0%90%D1%83%D1%81%D0%BA%D1%83%D0%BB%D0%B5",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "BAT_ITA_006",
+    "type": "BATTLE",
+    "title": "Битва при Беневенте",
+    "original": "Битва при Беневенте",
+    "subtitle": "завершение италийской кампании Пирра",
+    "era": "Ранняя Республика",
+    "region": "Самний",
+    "date": "275 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 3,
+    "summary": "Столкновение у Беневента не принесло Пирру решающего успеха, после чего он покинул Италию.",
+    "importance": "Уход царя лишил Тарент главной военной опоры и подтвердил устойчивость римской системы.",
+    "facts": [
+      "Битва относится к 275 году до н. э.",
+      "Результат часто описывают как римскую победу или нерешительное столкновение.",
+      "Пирр вскоре вернулся в Эпир."
+    ],
+    "tags": [
+      "Беневент",
+      "Пирр",
+      "конец войны"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 9,
+      "culture": 4,
+      "politics": 8,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Беневент",
+      "lat": 41.13,
+      "lng": 14.78
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/bat_ita_006.svg",
+      "caption": "Учебная обложка: Битва при Беневенте",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "bat_ita_006.svg"
+    },
+    "source": {
+      "title": "Битва при Беневенте — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%B2%D0%B0_%D0%BF%D1%80%D0%B8_%D0%91%D0%B5%D0%BD%D0%B5%D0%B2%D0%B5%D0%BD%D1%82%D0%B5",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "STATE_ITA_001",
+    "type": "STATE",
+    "title": "Римская Италия",
+    "original": "Римская Италия",
+    "subtitle": "система господства без единой провинции",
+    "era": "Ранняя Республика",
+    "region": "Италия",
+    "date": "к 272 году до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 3,
+    "summary": "К началу III века до н. э. Рим контролировал большую часть полуострова через граждан, колонии, муниципии и союзные договоры.",
+    "importance": "Это была не единая нация и не обычная провинция, а сложная сеть общин с разными правами и обязанностями.",
+    "facts": [
+      "Италийские союзники сохраняли внутренние институты.",
+      "Рим руководил внешней политикой и войной.",
+      "Союзная людская база стала ключевым преимуществом в будущих войнах."
+    ],
+    "tags": [
+      "Италия",
+      "союзники",
+      "господство"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 9,
+      "legacy": 10,
+      "military": 9,
+      "culture": 6,
+      "politics": 10,
+      "religion": 3,
+      "economy": 10,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Италия",
+      "lat": 41.0,
+      "lng": 13.0
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/state_ita_001.svg",
+      "caption": "Учебная обложка: Римская Италия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "state_ita_001.svg"
+    },
+    "source": {
+      "title": "Римская Италия — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
   }
 ]

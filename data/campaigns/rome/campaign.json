@@ -40,6 +40,27 @@
         "MIS_REPUBLIC_11",
         "MIS_REPUBLIC_12"
       ]
+    },
+    {
+      "id": "ROME_CHAPTER_03",
+      "number": 3,
+      "title": "Борьба за Италию",
+      "subtitle": "От Вейев до Пирра",
+      "description": "Как Рим переживал катастрофы, строил союзы, дороги и колонии и постепенно подчинил Апеннинский полуостров.",
+      "missionIds": [
+        "MIS_ITALY_01",
+        "MIS_ITALY_02",
+        "MIS_ITALY_03",
+        "MIS_ITALY_04",
+        "MIS_ITALY_05",
+        "MIS_ITALY_06",
+        "MIS_ITALY_07",
+        "MIS_ITALY_08",
+        "MIS_ITALY_09",
+        "MIS_ITALY_10",
+        "MIS_ITALY_11",
+        "MIS_ITALY_12"
+      ]
     }
   ],
   "nodes": [
@@ -494,10 +515,363 @@
         "LAW_REP_001"
       ],
       "quiz": "QUIZ_REP_FINAL",
-      "unlockCards": [],
+      "unlockCards": [
+        "CITY_ITA_001",
+        "PER_ITA_001",
+        "EVT_ITA_001"
+      ],
       "xp": 320,
       "emoji": "🏺",
       "lessonId": "MIS_REPUBLIC_12"
+    },
+    {
+      "id": "MIS_ITALY_01",
+      "type": "LESSON",
+      "title": "Вейи: война рядом с домом",
+      "description": "Почему ближайший этрусский город стал первым крупным завоеванием Рима.",
+      "cards": [
+        "CITY_ITA_001",
+        "PER_ITA_001",
+        "EVT_ITA_001"
+      ],
+      "unlockCards": [
+        "CITY_ITA_001",
+        "PER_ITA_001",
+        "EVT_ITA_001"
+      ],
+      "xp": 150,
+      "emoji": "🏰",
+      "chapterId": "ROME_CHAPTER_03",
+      "lessonId": "MIS_ITALY_01",
+      "reviewQuiz": "QUIZ_ITALY_VEII"
+    },
+    {
+      "id": "MIS_ITALY_02",
+      "type": "SOURCE",
+      "title": "Галльская катастрофа",
+      "description": "Аллия, разграбление Рима и работа исторической памяти.",
+      "cards": [
+        "BAT_ITA_001",
+        "EVT_ITA_002",
+        "PER_ITA_002"
+      ],
+      "unlockCards": [
+        "BAT_ITA_001",
+        "EVT_ITA_002",
+        "PER_ITA_002"
+      ],
+      "xp": 170,
+      "emoji": "🔥",
+      "chapterId": "ROME_CHAPTER_03",
+      "lessonId": "MIS_ITALY_02",
+      "reviewQuiz": "QUIZ_ITALY_ALLIA"
+    },
+    {
+      "id": "MIS_ITALY_03",
+      "type": "CAUSE_EFFECT",
+      "title": "Как Республика восстановилась",
+      "description": "Стены, людские ресурсы и политическая устойчивость после поражения.",
+      "cards": [
+        "EVT_ITA_003",
+        "PER_ITA_001",
+        "STATE_ROM_002"
+      ],
+      "unlockCards": [
+        "EVT_ITA_003"
+      ],
+      "xp": 150,
+      "emoji": "🧱",
+      "chapterId": "ROME_CHAPTER_03",
+      "lessonId": "MIS_ITALY_03"
+    },
+    {
+      "id": "MIS_ITALY_04",
+      "type": "MAP",
+      "title": "Лаций после латинской войны",
+      "description": "Найди Рим, Трифан и Капую и пойми географию кризиса 340–338 годов.",
+      "cards": [
+        "WAR_ITA_001",
+        "EVT_ITA_004",
+        "CITY_ITA_004"
+      ],
+      "unlockCards": [
+        "WAR_ITA_001",
+        "EVT_ITA_004"
+      ],
+      "xp": 190,
+      "emoji": "⌖",
+      "mapTargets": [
+        {
+          "key": "rome",
+          "label": "Рим",
+          "point": "ROME",
+          "zoom": 8,
+          "radius": 24000
+        },
+        {
+          "key": "trifanum",
+          "label": "Трифан",
+          "point": "TRIFANUM",
+          "zoom": 10,
+          "radius": 30000
+        },
+        {
+          "key": "capua",
+          "label": "Капуя",
+          "point": "CAPUA",
+          "zoom": 11,
+          "radius": 22000
+        }
+      ],
+      "chapterId": "ROME_CHAPTER_03",
+      "lessonId": "MIS_ITALY_04"
+    },
+    {
+      "id": "MIS_ITALY_05",
+      "type": "MATCH",
+      "title": "Система без единого статуса",
+      "description": "Муниципии, латинское право, колонии и союзные договоры.",
+      "cards": [
+        "SYS_ITA_001",
+        "TERM_ITA_001",
+        "TERM_ITA_002",
+        "TERM_ITA_003"
+      ],
+      "unlockCards": [
+        "SYS_ITA_001"
+      ],
+      "xp": 190,
+      "emoji": "⚖",
+      "chapterId": "ROME_CHAPTER_03",
+      "lessonId": "MIS_ITALY_05"
+    },
+    {
+      "id": "MIS_ITALY_06",
+      "type": "LESSON",
+      "title": "Самниты и горная война",
+      "description": "Почему война в Апеннинах длилась десятилетиями.",
+      "cards": [
+        "WAR_ITA_002",
+        "REG_ITA_001",
+        "ORG_ITA_001"
+      ],
+      "unlockCards": [
+        "WAR_ITA_002"
+      ],
+      "xp": 180,
+      "emoji": "⛰",
+      "chapterId": "ROME_CHAPTER_03",
+      "lessonId": "MIS_ITALY_06",
+      "reviewQuiz": "QUIZ_ITALY_SAMNIUM"
+    },
+    {
+      "id": "MIS_ITALY_07",
+      "type": "TIMELINE",
+      "title": "Кавдинское ущелье",
+      "description": "Собери цепочку ловушки, капитуляции и римского возвращения в войну.",
+      "cards": [
+        "BAT_ITA_002",
+        "PER_ITA_003",
+        "WAR_ITA_002"
+      ],
+      "unlockCards": [
+        "BAT_ITA_002",
+        "PER_ITA_003"
+      ],
+      "xp": 200,
+      "emoji": "⛓",
+      "timeline": {
+        "order": [
+          "march",
+          "trap",
+          "surrender",
+          "renewal",
+          "victory"
+        ],
+        "labels": {
+          "march": "Римская армия входит в горные проходы",
+          "trap": "Самниты перекрывают оба выхода",
+          "surrender": "Капитуляция и прохождение под ярмом",
+          "renewal": "Республика возобновляет войну",
+          "victory": "Завершение Самнитских войн"
+        },
+        "shuffle": [
+          "renewal",
+          "trap",
+          "victory",
+          "march",
+          "surrender"
+        ]
+      },
+      "chapterId": "ROME_CHAPTER_03",
+      "lessonId": "MIS_ITALY_07"
+    },
+    {
+      "id": "MIS_ITALY_08",
+      "type": "MATCH",
+      "title": "Дороги, колонии и контроль",
+      "description": "Собери инфраструктуру, которая удерживала завоёванное пространство.",
+      "cards": [
+        "ROAD_ITA_001",
+        "TERM_ITA_004",
+        "CITY_ITA_005",
+        "CITY_ITA_006"
+      ],
+      "unlockCards": [
+        "ROAD_ITA_001"
+      ],
+      "xp": 190,
+      "emoji": "↠",
+      "chapterId": "ROME_CHAPTER_03",
+      "lessonId": "MIS_ITALY_08"
+    },
+    {
+      "id": "MIS_ITALY_09",
+      "type": "MAP",
+      "title": "Сентин и коалиция Италии",
+      "description": "Найди Сентин, Самний и римские коммуникации.",
+      "cards": [
+        "BAT_ITA_003",
+        "WAR_ITA_002",
+        "TERM_ITA_005"
+      ],
+      "unlockCards": [
+        "BAT_ITA_003"
+      ],
+      "xp": 210,
+      "emoji": "⚔",
+      "mapTargets": [
+        {
+          "key": "sentinum",
+          "label": "Сентин",
+          "point": "SENTINUM",
+          "zoom": 10,
+          "radius": 30000
+        },
+        {
+          "key": "samnium",
+          "label": "Самний",
+          "point": "SAMNIUM",
+          "zoom": 8,
+          "radius": 75000
+        },
+        {
+          "key": "appia",
+          "label": "Аппиева дорога",
+          "point": "APPIAN_WAY",
+          "zoom": 8,
+          "radius": 65000
+        }
+      ],
+      "chapterId": "ROME_CHAPTER_03",
+      "lessonId": "MIS_ITALY_09"
+    },
+    {
+      "id": "MIS_ITALY_10",
+      "type": "MAP",
+      "title": "Юг Италии и Тарент",
+      "description": "Перейди от мира италийских общин к греческим полисам и Пирру.",
+      "cards": [
+        "CITY_ITA_002",
+        "REG_ITA_003",
+        "PER_ITA_004"
+      ],
+      "unlockCards": [
+        "CITY_ITA_002",
+        "PER_ITA_004"
+      ],
+      "xp": 210,
+      "emoji": "🏛",
+      "mapTargets": [
+        {
+          "key": "tarentum",
+          "label": "Тарент",
+          "point": "TARENTUM",
+          "zoom": 11,
+          "radius": 20000
+        },
+        {
+          "key": "heraclea",
+          "label": "Гераклея",
+          "point": "HERACLEA",
+          "zoom": 11,
+          "radius": 24000
+        },
+        {
+          "key": "magna",
+          "label": "Великая Греция",
+          "point": "MAGNA_GRAECIA",
+          "zoom": 7,
+          "radius": 150000
+        }
+      ],
+      "chapterId": "ROME_CHAPTER_03",
+      "lessonId": "MIS_ITALY_10"
+    },
+    {
+      "id": "MIS_ITALY_11",
+      "type": "TIMELINE",
+      "title": "Пирр: победы без результата",
+      "description": "Гераклея, Аускул, Сицилия и Беневент как единая стратегия.",
+      "cards": [
+        "WAR_ITA_003",
+        "BAT_ITA_004",
+        "BAT_ITA_005",
+        "BAT_ITA_006"
+      ],
+      "unlockCards": [
+        "WAR_ITA_003",
+        "BAT_ITA_004",
+        "BAT_ITA_005",
+        "BAT_ITA_006"
+      ],
+      "xp": 230,
+      "emoji": "🐘",
+      "timeline": {
+        "order": [
+          "heraclea",
+          "asculum",
+          "sicily",
+          "beneventum",
+          "tarentum"
+        ],
+        "labels": {
+          "heraclea": "280 до н. э. · Гераклея",
+          "asculum": "279 до н. э. · Аускул",
+          "sicily": "278–276 до н. э. · поход на Сицилию",
+          "beneventum": "275 до н. э. · Беневент",
+          "tarentum": "272 до н. э. · падение Тарента"
+        },
+        "shuffle": [
+          "beneventum",
+          "heraclea",
+          "tarentum",
+          "asculum",
+          "sicily"
+        ]
+      },
+      "chapterId": "ROME_CHAPTER_03",
+      "lessonId": "MIS_ITALY_11",
+      "reviewQuiz": "QUIZ_ITALY_PYRRHUS"
+    },
+    {
+      "id": "MIS_ITALY_12",
+      "type": "FINAL",
+      "title": "Как Рим собрал Италию",
+      "description": "Итог: союзники, людские резервы, инфраструктура и способность переживать поражения.",
+      "cards": [
+        "STATE_ITA_001",
+        "SYS_ITA_001",
+        "WAR_ITA_003"
+      ],
+      "quiz": "QUIZ_ITALY_FINAL",
+      "unlockCards": [
+        "STATE_ITA_001"
+      ],
+      "xp": 400,
+      "emoji": "🦅",
+      "chapterId": "ROME_CHAPTER_03",
+      "lessonId": "MIS_ITALY_12"
     }
   ]
 }

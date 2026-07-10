@@ -75,6 +75,66 @@
     "MARS_FIELD": [
       41.901,
       12.474
+    ],
+    "VEII": [
+      42.015,
+      12.403
+    ],
+    "ALLIA": [
+      42.06,
+      12.5
+    ],
+    "CAPUA": [
+      41.1,
+      14.21
+    ],
+    "TRIFANUM": [
+      41.31,
+      13.91
+    ],
+    "SAMNIUM": [
+      41.45,
+      14.35
+    ],
+    "CAUDIUM": [
+      41.04,
+      14.63
+    ],
+    "APPIAN_WAY": [
+      41.45,
+      13.55
+    ],
+    "SENTINUM": [
+      43.34,
+      12.84
+    ],
+    "TARENTUM": [
+      40.47,
+      17.24
+    ],
+    "HERACLEA": [
+      40.2,
+      16.6
+    ],
+    "ASCULUM": [
+      41.0,
+      15.3
+    ],
+    "BENEVENTUM": [
+      41.13,
+      14.78
+    ],
+    "FREGELLAE": [
+      41.48,
+      13.57
+    ],
+    "VENUSIA": [
+      40.96,
+      15.81
+    ],
+    "MAGNA_GRAECIA": [
+      39.9,
+      16.5
     ]
   },
   "regions": {
@@ -291,7 +351,57 @@
       41.82,
       12.75
     ],
-    "PER_AREP_007": "ROME"
+    "PER_AREP_007": "ROME",
+    "CITY_ITA_001": "VEII",
+    "PER_ITA_001": "ROME",
+    "EVT_ITA_001": "ROME",
+    "BAT_ITA_001": "ALLIA",
+    "EVT_ITA_002": "ROME",
+    "PER_ITA_002": "ROME",
+    "EVT_ITA_003": "ROME",
+    "WAR_ITA_001": "ROME",
+    "EVT_ITA_004": "ROME",
+    "SYS_ITA_001": "ROME",
+    "WAR_ITA_002": "ROME",
+    "BAT_ITA_002": "CAUDIUM",
+    "PER_ITA_003": "CAUDIUM",
+    "ROAD_ITA_001": "APPIAN_WAY",
+    "BAT_ITA_003": "SENTINUM",
+    "CITY_ITA_002": "TARENTUM",
+    "PER_ITA_004": "ROME",
+    "WAR_ITA_003": "ROME",
+    "BAT_ITA_004": "HERACLEA",
+    "BAT_ITA_005": "ASCULUM",
+    "BAT_ITA_006": "BENEVENTUM",
+    "STATE_ITA_001": "ROME",
+    "PEO_ITA_001": "ROME",
+    "PEO_ITA_002": "ROME",
+    "PEO_ITA_003": "ROME",
+    "PEO_ITA_004": "ROME",
+    "PEO_ITA_005": "ROME",
+    "PEO_ITA_006": "ROME",
+    "PEO_ITA_007": "ROME",
+    "PEO_ITA_008": "ROME",
+    "PEO_ITA_009": "ROME",
+    "PEO_ITA_010": "ROME",
+    "CITY_ITA_003": "ROME",
+    "CITY_ITA_004": "CAPUA",
+    "CITY_ITA_005": "FREGELLAE",
+    "CITY_ITA_006": "VENUSIA",
+    "CITY_ITA_007": "HERACLEA",
+    "CITY_ITA_008": "BENEVENTUM",
+    "REG_ITA_001": "SAMNIUM",
+    "REG_ITA_002": "ROME",
+    "REG_ITA_003": "MAGNA_GRAECIA",
+    "TERM_ITA_001": "ROME",
+    "TERM_ITA_002": "ROME",
+    "TERM_ITA_003": "ROME",
+    "TERM_ITA_004": "ROME",
+    "TERM_ITA_005": "ROME",
+    "TERM_ITA_006": "ROME",
+    "ORG_ITA_001": "ROME",
+    "ART_ITA_001": "ROME",
+    "PER_ITA_005": "ROME"
   },
   "chapters": {
     "ROME_CHAPTER_01": {
@@ -331,6 +441,28 @@
         "MIS_REPUBLIC_10",
         "MIS_REPUBLIC_11",
         "MIS_REPUBLIC_12"
+      ]
+    },
+    "ROME_CHAPTER_03": {
+      "title": "Борьба за Италию",
+      "center": [
+        41.2,
+        14.2
+      ],
+      "zoom": 6,
+      "missionIds": [
+        "MIS_ITALY_01",
+        "MIS_ITALY_02",
+        "MIS_ITALY_03",
+        "MIS_ITALY_04",
+        "MIS_ITALY_05",
+        "MIS_ITALY_06",
+        "MIS_ITALY_07",
+        "MIS_ITALY_08",
+        "MIS_ITALY_09",
+        "MIS_ITALY_10",
+        "MIS_ITALY_11",
+        "MIS_ITALY_12"
       ]
     }
   }

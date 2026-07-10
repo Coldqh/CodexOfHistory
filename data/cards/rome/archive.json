@@ -1997,5 +1997,1574 @@
       "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%A2%D0%B8%D1%82%20%D0%9B%D0%B0%D1%80%D1%86%D0%B8%D0%B9",
       "type": "wikipedia"
     }
+  },
+  {
+    "id": "PEO_ITA_001",
+    "type": "PEOPLE",
+    "title": "Фалиски",
+    "original": "Фалиски",
+    "subtitle": "соседи Рима к северу от Тибра",
+    "era": "Ранняя Республика",
+    "region": "Южная Этрурия",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Фалиски были италийским народом, культурно тесно связанным с этрусским миром.",
+    "importance": "Карточка показывает, насколько дробной была Центральная Италия и сколько малых общин окружало Рим.",
+    "facts": [
+      "Говорили на языке, близком к латинскому.",
+      "Главным центром были Фалерии.",
+      "Отношения с Римом включали войны и договоры."
+    ],
+    "tags": [
+      "фалиски",
+      "Этрурия",
+      "соседи"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Фалиски",
+      "lat": 42.29,
+      "lng": 12.36
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/peo_ita_001.svg",
+      "caption": "Учебная обложка: Фалиски",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "peo_ita_001.svg"
+    },
+    "source": {
+      "title": "Фалиски — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%BB%D0%B8%D1%81%D0%BA%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "PEO_ITA_002",
+    "type": "PEOPLE",
+    "title": "Эквы",
+    "original": "Эквы",
+    "subtitle": "горный народ восточного Лация",
+    "era": "Ранняя Республика",
+    "region": "Апеннины",
+    "date": "V–IV века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Эквы часто выступают в рассказах о ранних войнах Республики.",
+    "importance": "Они напоминают, что до крупных завоеваний Рим десятилетиями воевал с ближайшими горными соседями.",
+    "facts": [
+      "Связаны с легендой Цинцинната.",
+      "Жили к востоку от Лация.",
+      "Их территории постепенно вошли в римскую систему."
+    ],
+    "tags": [
+      "эквы",
+      "Апеннины",
+      "войны"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Эквы",
+      "lat": 41.95,
+      "lng": 13.2
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/peo_ita_002.svg",
+      "caption": "Учебная обложка: Эквы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "peo_ita_002.svg"
+    },
+    "source": {
+      "title": "Эквы — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%B2%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "PEO_ITA_003",
+    "type": "PEOPLE",
+    "title": "Вольски",
+    "original": "Вольски",
+    "subtitle": "соперники Рима на юге Лация",
+    "era": "Ранняя Республика",
+    "region": "Лаций",
+    "date": "V–IV века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Вольски контролировали города и земли к югу от Рима и долго сопротивлялись расширению Республики.",
+    "importance": "Войны с вольсками были частью медленного формирования римского контроля над Лацием.",
+    "facts": [
+      "С ними связывают историю Кориолана.",
+      "Главные центры находились к югу от Рима.",
+      "Часть городов позже получила разные формы римского статуса."
+    ],
+    "tags": [
+      "вольски",
+      "Лаций",
+      "Кориолан"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Вольски",
+      "lat": 41.55,
+      "lng": 12.98
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/peo_ita_003.svg",
+      "caption": "Учебная обложка: Вольски",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "peo_ita_003.svg"
+    },
+    "source": {
+      "title": "Вольски — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "PEO_ITA_004",
+    "type": "PEOPLE",
+    "title": "Герники",
+    "original": "Герники",
+    "subtitle": "италийская община между Лацием и Самнием",
+    "era": "Ранняя Республика",
+    "region": "Центральная Италия",
+    "date": "V–IV века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Герники заключали союзы с Римом и латинами, а позднее вступали с Римом в конфликт.",
+    "importance": "Их история показывает, что союзники могли менять позицию и что римская сеть создавалась постепенно.",
+    "facts": [
+      "Жили в долине реки Сакко.",
+      "Участвовали в ранних союзах против горных народов.",
+      "После поражения получили неодинаковые статусы."
+    ],
+    "tags": [
+      "герники",
+      "союз",
+      "Лаций"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Герники",
+      "lat": 41.74,
+      "lng": 13.16
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/peo_ita_004.svg",
+      "caption": "Учебная обложка: Герники",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "peo_ita_004.svg"
+    },
+    "source": {
+      "title": "Герники — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%BD%D0%B8%D0%BA%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "PEO_ITA_005",
+    "type": "PEOPLE",
+    "title": "Аврунки",
+    "original": "Аврунки",
+    "subtitle": "малый народ южного Лация и Кампании",
+    "era": "Ранняя Республика",
+    "region": "Южный Лаций",
+    "date": "IV век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Аврунки жили между Лацием и Кампанией и оказались вовлечены в борьбу Рима за южные маршруты.",
+    "importance": "Локальная карточка раскрывает мир небольших общин, исчезающих за крупными названиями войн.",
+    "facts": [
+      "Связаны с районом гор Аурунков.",
+      "Воевали с Римом в IV веке до н. э.",
+      "Их земли имели стратегическое положение."
+    ],
+    "tags": [
+      "аврунки",
+      "Кампания",
+      "локальная история"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Аврунки",
+      "lat": 41.25,
+      "lng": 13.72
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/peo_ita_005.svg",
+      "caption": "Учебная обложка: Аврунки",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "peo_ita_005.svg"
+    },
+    "source": {
+      "title": "Аврунки — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%80%D1%83%D0%BD%D0%BA%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "PEO_ITA_006",
+    "type": "PEOPLE",
+    "title": "Сидицины",
+    "original": "Сидицины",
+    "subtitle": "община вокруг Теана",
+    "era": "Ранняя Республика",
+    "region": "Кампания",
+    "date": "IV век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Сидицины жили в Северной Кампании и были связаны с конфликтами латинов, самнитов и Рима.",
+    "importance": "Их положение показывает, как локальные споры втягивались в более крупные войны.",
+    "facts": [
+      "Центром был Теан.",
+      "Их конфликт с самнитами влиял на дипломатию региона.",
+      "Позднее территория вошла в римскую систему."
+    ],
+    "tags": [
+      "сидицины",
+      "Теан",
+      "Кампания"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Сидицины",
+      "lat": 41.25,
+      "lng": 14.07
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/peo_ita_006.svg",
+      "caption": "Учебная обложка: Сидицины",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "peo_ita_006.svg"
+    },
+    "source": {
+      "title": "Сидицины — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "PEO_ITA_007",
+    "type": "PEOPLE",
+    "title": "Кампанцы",
+    "original": "Кампанцы",
+    "subtitle": "население богатой Кампании",
+    "era": "Ранняя Республика",
+    "region": "Кампания",
+    "date": "IV–III века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Кампанские города обладали плодородной землёй, торговлей и сложными отношениями с самнитами и Римом.",
+    "importance": "Кампания стала одним из главных призов римского расширения на юг.",
+    "facts": [
+      "Капуя была крупнейшим центром.",
+      "Регион славился плодородием.",
+      "Кампанские всадники имели военную репутацию."
+    ],
+    "tags": [
+      "Кампания",
+      "Капуя",
+      "союзники"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Кампанцы",
+      "lat": 41.1,
+      "lng": 14.21
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/peo_ita_007.svg",
+      "caption": "Учебная обложка: Кампанцы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "peo_ita_007.svg"
+    },
+    "source": {
+      "title": "Кампанцы — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D1%86%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "PEO_ITA_008",
+    "type": "PEOPLE",
+    "title": "Луканы",
+    "original": "Луканы",
+    "subtitle": "италийский народ Южной Италии",
+    "era": "Ранняя Республика",
+    "region": "Лукания",
+    "date": "IV–III века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Луканы контролировали значительную часть Южной Италии и взаимодействовали с греческими городами, Пирром и Римом.",
+    "importance": "Они показывают, что война на юге не сводилась к противостоянию Рима и греков.",
+    "facts": [
+      "Говорили на оскском языке.",
+      "Конфликтовали и сотрудничали с греческими полисами.",
+      "Позднее стали союзниками Рима."
+    ],
+    "tags": [
+      "луканы",
+      "Южная Италия",
+      "оски"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Луканы",
+      "lat": 40.45,
+      "lng": 15.8
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/peo_ita_008.svg",
+      "caption": "Учебная обложка: Луканы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "peo_ita_008.svg"
+    },
+    "source": {
+      "title": "Луканы — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9B%D1%83%D0%BA%D0%B0%D0%BD%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "PEO_ITA_009",
+    "type": "PEOPLE",
+    "title": "Бруттии",
+    "original": "Бруттии",
+    "subtitle": "народ крайнего юга Италии",
+    "era": "Ранняя Республика",
+    "region": "Бруттий",
+    "date": "IV–III века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Бруттии занимали область современной Калабрии и участвовали в борьбе за Южную Италию.",
+    "importance": "Карточка расширяет картину италийских народов за пределами Лация и Самния.",
+    "facts": [
+      "Их политическое объединение возникло в IV веке до н. э.",
+      "Они взаимодействовали с греческими городами.",
+      "Позднее поддержали Ганнибала."
+    ],
+    "tags": [
+      "бруттии",
+      "Калабрия",
+      "Южная Италия"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Бруттии",
+      "lat": 39.1,
+      "lng": 16.5
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/peo_ita_009.svg",
+      "caption": "Учебная обложка: Бруттии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "peo_ita_009.svg"
+    },
+    "source": {
+      "title": "Бруттии — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D1%83%D1%82%D1%82%D0%B8%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "PEO_ITA_010",
+    "type": "PEOPLE",
+    "title": "Мессапы",
+    "original": "Мессапы",
+    "subtitle": "народ Апулии и Саленто",
+    "era": "Ранняя Республика",
+    "region": "Апулия",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Мессапские общины занимали юго-восточную оконечность Италии и контактировали с греческими колониями.",
+    "importance": "Они показывают культурное разнообразие региона, в который вошла римская экспансия.",
+    "facts": [
+      "Жили в Саленто.",
+      "Имели связи через Адриатику.",
+      "Воевали и торговали с Тарентом."
+    ],
+    "tags": [
+      "мессапы",
+      "Апулия",
+      "Адриатика"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Мессапы",
+      "lat": 40.35,
+      "lng": 18.17
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/peo_ita_010.svg",
+      "caption": "Учебная обложка: Мессапы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "peo_ita_010.svg"
+    },
+    "source": {
+      "title": "Мессапы — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%81%D1%81%D0%B0%D0%BF%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "CITY_ITA_003",
+    "type": "CITY",
+    "title": "Фалерии",
+    "original": "Фалерии",
+    "subtitle": "главный город фалисков",
+    "era": "Ранняя Республика",
+    "region": "Южная Этрурия",
+    "date": "до III века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Фалерии были укреплённым центром фалисков к северу от Рима.",
+    "importance": "Город показывает плотность политической карты рядом с Римом.",
+    "facts": [
+      "Находился недалеко от Вейев.",
+      "Связан с войнами Рима и фалисков.",
+      "Позднее население было переселено."
+    ],
+    "tags": [
+      "Фалерии",
+      "фалиски",
+      "город"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Фалерии",
+      "lat": 42.29,
+      "lng": 12.36
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/city_ita_003.svg",
+      "caption": "Учебная обложка: Фалерии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "city_ita_003.svg"
+    },
+    "source": {
+      "title": "Фалерии — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "CITY_ITA_004",
+    "type": "CITY",
+    "title": "Капуя",
+    "original": "Капуя",
+    "subtitle": "богатый центр Кампании",
+    "era": "Ранняя Республика",
+    "region": "Кампания",
+    "date": "IV–III века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Капуя была одним из крупнейших и богатейших городов Италии.",
+    "importance": "Союз с Капуей изменил масштаб интересов Рима и втянул его в самнитские конфликты.",
+    "facts": [
+      "Город находился в плодородной Кампании.",
+      "Капуанская элита имела тесные связи с Римом.",
+      "Через Капую прошла Аппиева дорога."
+    ],
+    "tags": [
+      "Капуя",
+      "Кампания",
+      "союз"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Капуя",
+      "lat": 41.1,
+      "lng": 14.21
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/city_ita_004.svg",
+      "caption": "Учебная обложка: Капуя",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "city_ita_004.svg"
+    },
+    "source": {
+      "title": "Капуя — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BF%D1%83%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "CITY_ITA_005",
+    "type": "CITY",
+    "title": "Фрегеллы",
+    "original": "Фрегеллы",
+    "subtitle": "латинская колония на стратегическом рубеже",
+    "era": "Ранняя Республика",
+    "region": "Лаций и долина Лири",
+    "date": "основана в IV веке до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Фрегеллы контролировали важный маршрут к югу и служили опорой римского влияния.",
+    "importance": "Колония показывает, как поселения использовались для контроля дорог, земли и союзников.",
+    "facts": [
+      "Расположена у реки Лири.",
+      "Имела латинский статус.",
+      "Была важным военным пунктом."
+    ],
+    "tags": [
+      "Фрегеллы",
+      "колония",
+      "дороги"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Фрегеллы",
+      "lat": 41.48,
+      "lng": 13.57
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/city_ita_005.svg",
+      "caption": "Учебная обложка: Фрегеллы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "city_ita_005.svg"
+    },
+    "source": {
+      "title": "Фрегеллы — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B3%D0%B5%D0%BB%D0%BB%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "CITY_ITA_006",
+    "type": "CITY",
+    "title": "Венузия",
+    "original": "Венузия",
+    "subtitle": "крупная латинская колония на юге",
+    "era": "Ранняя Республика",
+    "region": "Апулия",
+    "date": "основана в 291 году до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Венузия была основана после Самнитских войн на важном южном направлении.",
+    "importance": "Колония закрепляла римское присутствие и давала землю переселенцам.",
+    "facts": [
+      "Находилась на границе нескольких регионов.",
+      "Имела большое число колонистов.",
+      "Позднее стала родиной поэта Горация."
+    ],
+    "tags": [
+      "Венузия",
+      "колония",
+      "Апулия"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Венузия",
+      "lat": 40.96,
+      "lng": 15.81
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/city_ita_006.svg",
+      "caption": "Учебная обложка: Венузия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "city_ita_006.svg"
+    },
+    "source": {
+      "title": "Веноза — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%BE%D0%B7%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "CITY_ITA_007",
+    "type": "CITY",
+    "title": "Гераклея",
+    "original": "Гераклея",
+    "subtitle": "греческий город у места первой битвы с Пирром",
+    "era": "Ранняя Республика",
+    "region": "Лукания",
+    "date": "III век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Гераклея была греческим полисом в Южной Италии.",
+    "importance": "Её окрестности стали местом первого крупного столкновения римлян с армией Пирра.",
+    "facts": [
+      "Основана греческими колонистами.",
+      "Находилась недалеко от Тарента.",
+      "Связана с битвой 280 года до н. э."
+    ],
+    "tags": [
+      "Гераклея",
+      "греческий город",
+      "Пирр"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Гераклея",
+      "lat": 40.2,
+      "lng": 16.6
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/city_ita_007.svg",
+      "caption": "Учебная обложка: Гераклея",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "city_ita_007.svg"
+    },
+    "source": {
+      "title": "Гераклея Луканская — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%B0%D0%BA%D0%BB%D0%B5%D1%8F_%D0%9B%D1%83%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "CITY_ITA_008",
+    "type": "CITY",
+    "title": "Беневент",
+    "original": "Беневент",
+    "subtitle": "самнитский город и римская колония",
+    "era": "Ранняя Республика",
+    "region": "Самний",
+    "date": "III век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Город, ранее называвшийся Малевентом, связан с последним италийским сражением Пирра.",
+    "importance": "Переименование и колонизация показывают присвоение пространства римской политической системой.",
+    "facts": [
+      "Ранее назывался Малевент.",
+      "После войны стал римской колонией.",
+      "Название связывали с благоприятным значением."
+    ],
+    "tags": [
+      "Беневент",
+      "колония",
+      "Пирр"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Беневент",
+      "lat": 41.13,
+      "lng": 14.78
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/city_ita_008.svg",
+      "caption": "Учебная обложка: Беневент",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "city_ita_008.svg"
+    },
+    "source": {
+      "title": "Беневенто — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD%D0%B5%D0%B2%D0%B5%D0%BD%D1%82%D0%BE",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "REG_ITA_001",
+    "type": "REGION",
+    "title": "Самний",
+    "original": "Самний",
+    "subtitle": "горная страна самнитов",
+    "era": "Ранняя Республика",
+    "region": "Апеннины",
+    "date": "IV–III века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Самний представлял собой сложный горный регион Центральной Италии.",
+    "importance": "Рельеф ограничивал движение крупных армий и делал контроль над дорогами и проходами критически важным.",
+    "facts": [
+      "Не был единым городским государством.",
+      "Населён несколькими самнитскими племенами.",
+      "Горная местность влияла на войну."
+    ],
+    "tags": [
+      "Самний",
+      "горы",
+      "самниты"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Самний",
+      "lat": 41.45,
+      "lng": 14.35
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/reg_ita_001.svg",
+      "caption": "Учебная обложка: Самний",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "reg_ita_001.svg"
+    },
+    "source": {
+      "title": "Самний — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%BD%D0%B8%D0%B9",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "REG_ITA_002",
+    "type": "REGION",
+    "title": "Кампания",
+    "original": "Кампания",
+    "subtitle": "плодородный регион вокруг Капуи и Неаполя",
+    "era": "Ранняя Республика",
+    "region": "Южная Италия",
+    "date": "IV–III века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Кампания сочетала плодородные земли, города, торговлю и смешанное население.",
+    "importance": "Контроль над регионом давал ресурсы и открывал путь к дальнейшему движению на юг.",
+    "facts": [
+      "Регион имел вулканические почвы.",
+      "Здесь соседствовали италийские и греческие общины.",
+      "Капуя была важнейшим центром."
+    ],
+    "tags": [
+      "Кампания",
+      "земля",
+      "города"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Кампания",
+      "lat": 40.85,
+      "lng": 14.25
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/reg_ita_002.svg",
+      "caption": "Учебная обложка: Кампания",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "reg_ita_002.svg"
+    },
+    "source": {
+      "title": "Кампания — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "REG_ITA_003",
+    "type": "REGION",
+    "title": "Великая Греция",
+    "original": "Великая Греция",
+    "subtitle": "греческие города Южной Италии",
+    "era": "Ранняя Республика",
+    "region": "Южная Италия",
+    "date": "VIII–III века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Великой Грецией называли сеть греческих колоний на юге Апеннинского полуострова и Сицилии.",
+    "importance": "Соприкосновение с этим миром ускорило культурные и политические связи Рима с эллинистическим Средиземноморьем.",
+    "facts": [
+      "Крупными центрами были Тарент, Кротон и Сибарис.",
+      "Города сохраняли греческую культуру.",
+      "Они конкурировали с италийскими народами."
+    ],
+    "tags": [
+      "Великая Греция",
+      "греки",
+      "Южная Италия"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Великая Греция",
+      "lat": 39.9,
+      "lng": 16.5
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/reg_ita_003.svg",
+      "caption": "Учебная обложка: Великая Греция",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "reg_ita_003.svg"
+    },
+    "source": {
+      "title": "Великая Греция — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D1%8F_%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "TERM_ITA_001",
+    "type": "TERM",
+    "title": "Муниципий",
+    "original": "Муниципий",
+    "subtitle": "община с включением в римскую систему",
+    "era": "Ранняя Республика",
+    "region": "Италия",
+    "date": "IV–III века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Муниципий — городская община, связанная с Римом правами и обязанностями различного объёма.",
+    "importance": "Термин помогает понять, почему римская Италия не состояла только из полностью покорённых городов.",
+    "facts": [
+      "Статус муниципиев различался.",
+      "Некоторые жители имели гражданство без права голоса.",
+      "Местные институты могли сохраняться."
+    ],
+    "tags": [
+      "муниципий",
+      "гражданство",
+      "право"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Муниципий",
+      "lat": 41.9,
+      "lng": 12.5
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/term_ita_001.svg",
+      "caption": "Учебная обложка: Муниципий",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_ita_001.svg"
+    },
+    "source": {
+      "title": "Муниципий — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%BD%D0%B8%D1%86%D0%B8%D0%BF%D0%B8%D0%B9",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "TERM_ITA_002",
+    "type": "TERM",
+    "title": "Гражданство без права голоса",
+    "original": "Гражданство без права голоса",
+    "subtitle": "промежуточный римский статус",
+    "era": "Ранняя Республика",
+    "region": "Италия",
+    "date": "IV–III века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Civitas sine suffragio давала часть гражданских обязанностей и прав, но не участие в голосовании в Риме.",
+    "importance": "Такой статус позволял включать общины постепенно и неодинаково.",
+    "facts": [
+      "Латинское название — civitas sine suffragio.",
+      "Получатели могли не иметь политического голоса.",
+      "Статус применялся к нескольким италийским общинам."
+    ],
+    "tags": [
+      "гражданство",
+      "право голоса",
+      "Италия"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Гражданство без права голоса",
+      "lat": 41.9,
+      "lng": 12.5
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/term_ita_002.svg",
+      "caption": "Учебная обложка: Гражданство без права голоса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_ita_002.svg"
+    },
+    "source": {
+      "title": "Civitas sine suffragio — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/Civitas_sine_suffragio",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "TERM_ITA_003",
+    "type": "TERM",
+    "title": "Латинское право",
+    "original": "Латинское право",
+    "subtitle": "набор прав между гражданством и союзным статусом",
+    "era": "Ранняя Республика",
+    "region": "Лаций и колонии",
+    "date": "IV–III века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Латинское право обозначало особый набор частных и политических возможностей для латинских общин и колоний.",
+    "importance": "Оно стало гибким инструментом расширения римской системы.",
+    "facts": [
+      "Не совпадало с полным римским гражданством.",
+      "Связано с латинскими колониями.",
+      "Могло давать путь к гражданству через должность."
+    ],
+    "tags": [
+      "латинское право",
+      "колонии",
+      "гражданство"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Латинское право",
+      "lat": 41.7,
+      "lng": 12.7
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/term_ita_003.svg",
+      "caption": "Учебная обложка: Латинское право",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_ita_003.svg"
+    },
+    "source": {
+      "title": "Латинское право — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "TERM_ITA_004",
+    "type": "TERM",
+    "title": "Римская колония",
+    "original": "Римская колония",
+    "subtitle": "поселение граждан на стратегической территории",
+    "era": "Ранняя Республика",
+    "region": "Италия",
+    "date": "IV–III века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Римские и латинские колонии создавались на важных дорогах, побережьях и границах.",
+    "importance": "Они закрепляли землю, поддерживали военное присутствие и связывали регион с Римом.",
+    "facts": [
+      "Колонии имели разные правовые статусы.",
+      "Поселенцы получали землю.",
+      "Выбор места был связан со стратегией."
+    ],
+    "tags": [
+      "колония",
+      "земля",
+      "контроль"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Римская колония",
+      "lat": 41.5,
+      "lng": 13.5
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/term_ita_004.svg",
+      "caption": "Учебная обложка: Римская колония",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_ita_004.svg"
+    },
+    "source": {
+      "title": "Колонии Древнего Рима — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D0%B8_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D0%BE_%D0%A0%D0%B8%D0%BC%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "TERM_ITA_005",
+    "type": "TERM",
+    "title": "Devotio",
+    "original": "Devotio",
+    "subtitle": "ритуальное самопожертвование полководца",
+    "era": "Ранняя Республика",
+    "region": "Рим",
+    "date": "Республика",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Devotio в римской традиции — обет, при котором полководец посвящал себя и врагов богам подземного мира ради победы.",
+    "importance": "Рассказ раскрывает связь войны, религии и аристократического идеала.",
+    "facts": [
+      "С ритуалом связывают род Дециев Мусов.",
+      "Историчность конкретных эпизодов обсуждается.",
+      "Ритуал выражал высшую форму воинского долга."
+    ],
+    "tags": [
+      "devotio",
+      "религия",
+      "Деций Мус"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Devotio",
+      "lat": 43.34,
+      "lng": 12.84
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/term_ita_005.svg",
+      "caption": "Учебная обложка: Devotio",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_ita_005.svg"
+    },
+    "source": {
+      "title": "Девотион — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B2%D0%BE%D1%82%D0%B8%D0%BE%D0%BD",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "TERM_ITA_006",
+    "type": "TERM",
+    "title": "Пиррова победа",
+    "original": "Пиррова победа",
+    "subtitle": "успех ценой стратегического истощения",
+    "era": "Ранняя Республика",
+    "region": "Южная Италия",
+    "date": "с 279 года до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Пирровой называют победу, потери от которой делают дальнейшую борьбу почти невозможной.",
+    "importance": "Термин учит различать тактический результат и стратегическое положение.",
+    "facts": [
+      "Выражение связывают с битвой при Аускуле.",
+      "Фраза Пирра передана поздними авторами.",
+      "Термин используется далеко за пределами военной истории."
+    ],
+    "tags": [
+      "пиррова победа",
+      "стратегия",
+      "Аускул"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Пиррова победа",
+      "lat": 41.0,
+      "lng": 15.3
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/term_ita_006.svg",
+      "caption": "Учебная обложка: Пиррова победа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_ita_006.svg"
+    },
+    "source": {
+      "title": "Пиррова победа — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D1%80%D0%BE%D0%B2%D0%B0_%D0%BF%D0%BE%D0%B1%D0%B5%D0%B4%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "ORG_ITA_001",
+    "type": "ORGANIZATION",
+    "title": "Самнитская лига",
+    "original": "Самнитская лига",
+    "subtitle": "союз племенных общин Самния",
+    "era": "Ранняя Республика",
+    "region": "Самний",
+    "date": "IV–III века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Самниты были организованы не как единый полис, а как сеть племенных объединений и союзов.",
+    "importance": "Это объясняет длительность войн и способность сопротивления после отдельных поражений.",
+    "facts": [
+      "Включала несколько самнитских племён.",
+      "Не имела единой столицы по римскому образцу.",
+      "Коалиции менялись в ходе войн."
+    ],
+    "tags": [
+      "самниты",
+      "лига",
+      "федерация"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Самнитская лига",
+      "lat": 41.45,
+      "lng": 14.35
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/org_ita_001.svg",
+      "caption": "Учебная обложка: Самнитская лига",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "org_ita_001.svg"
+    },
+    "source": {
+      "title": "Самниты — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%BD%D0%B8%D1%82%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "ART_ITA_001",
+    "type": "ARTIFACT",
+    "title": "Самнитский пояс",
+    "original": "Самнитский пояс",
+    "subtitle": "предмет воинского статуса",
+    "era": "Ранняя Республика",
+    "region": "Самний",
+    "date": "IV–III века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "summary": "Бронзовые пояса встречаются в погребениях самнитской и соседних культур.",
+    "importance": "Артефакт даёт материальный взгляд на воинов, которых письменная традиция часто показывает только как противников Рима.",
+    "facts": [
+      "Известны археологические находки бронзовых поясов.",
+      "Предмет мог обозначать статус взрослого мужчины и воина.",
+      "Материальная культура Самния отличалась от городской римской."
+    ],
+    "tags": [
+      "самниты",
+      "археология",
+      "воин"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Самнитский пояс",
+      "lat": 41.4,
+      "lng": 14.3
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/art_ita_001.svg",
+      "caption": "Учебная обложка: Самнитский пояс",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "art_ita_001.svg"
+    },
+    "source": {
+      "title": "Самниты — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%BD%D0%B8%D1%82%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "PER_ITA_005",
+    "type": "PERSON",
+    "title": "Аппий Клавдий Цек",
+    "original": "Аппий Клавдий Цек",
+    "subtitle": "цензор, дорога и водопровод",
+    "era": "Ранняя Республика",
+    "region": "Рим",
+    "date": "IV–III века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 3,
+    "summary": "Аппий Клавдий Цек был цензором, с именем которого связаны Аппиева дорога и первый римский акведук.",
+    "importance": "Его деятельность показывает, что экспансия зависела от инфраструктуры, управления и политической борьбы внутри Рима.",
+    "facts": [
+      "Занимал цензуру в 312 году до н. э.",
+      "Связан с Via Appia и Aqua Appia.",
+      "Поздняя традиция приписывала ему речь против мира с Пирром."
+    ],
+    "tags": [
+      "Аппий Клавдий",
+      "дорога",
+      "цензор"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 5,
+      "culture": 4,
+      "politics": 5,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Аппий Клавдий Цек",
+      "lat": 41.9,
+      "lng": 12.5
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_03/per_ita_005.svg",
+      "caption": "Учебная обложка: Аппий Клавдий Цек",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "per_ita_005.svg"
+    },
+    "source": {
+      "title": "Аппий Клавдий Цек — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BF%D0%BF%D0%B8%D0%B9_%D0%9A%D0%BB%D0%B0%D0%B2%D0%B4%D0%B8%D0%B9_%D0%A6%D0%B5%D0%BA",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_03",
+    "personalStory": "STORY_APPIUS_CAECUS"
   }
 ]

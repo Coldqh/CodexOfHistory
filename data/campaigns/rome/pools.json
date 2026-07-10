@@ -150,6 +150,75 @@
         "PER_AREP_006",
         "PER_AREP_007"
       ]
+    },
+    {
+      "id": "ROME_ITALY_BORDERLANDS",
+      "campaign": "ROME",
+      "title": "Соседи ранней Республики",
+      "unlockMission": "MIS_ITALY_01",
+      "cardIds": [
+        "PEO_ITA_001",
+        "PEO_ITA_002",
+        "PEO_ITA_003",
+        "PEO_ITA_004",
+        "CITY_ITA_003"
+      ]
+    },
+    {
+      "id": "ROME_LATIN_ORDER",
+      "campaign": "ROME",
+      "title": "Лаций и Кампания",
+      "unlockMission": "MIS_ITALY_04",
+      "cardIds": [
+        "PEO_ITA_005",
+        "PEO_ITA_006",
+        "PEO_ITA_007",
+        "CITY_ITA_004",
+        "REG_ITA_002",
+        "TERM_ITA_001",
+        "TERM_ITA_002",
+        "TERM_ITA_003"
+      ]
+    },
+    {
+      "id": "ROME_SAMNIUM",
+      "campaign": "ROME",
+      "title": "Самний и горная война",
+      "unlockMission": "MIS_ITALY_06",
+      "cardIds": [
+        "REG_ITA_001",
+        "ORG_ITA_001",
+        "ART_ITA_001",
+        "PER_ITA_003",
+        "TERM_ITA_005"
+      ]
+    },
+    {
+      "id": "ROME_ROADS_COLONIES",
+      "campaign": "ROME",
+      "title": "Дороги и колонии",
+      "unlockMission": "MIS_ITALY_08",
+      "cardIds": [
+        "CITY_ITA_005",
+        "CITY_ITA_006",
+        "TERM_ITA_004",
+        "PER_ITA_005"
+      ]
+    },
+    {
+      "id": "ROME_SOUTH_ITALY",
+      "campaign": "ROME",
+      "title": "Южная Италия и греческий мир",
+      "unlockMission": "MIS_ITALY_10",
+      "cardIds": [
+        "PEO_ITA_008",
+        "PEO_ITA_009",
+        "PEO_ITA_010",
+        "CITY_ITA_007",
+        "CITY_ITA_008",
+        "REG_ITA_003",
+        "TERM_ITA_006"
+      ]
     }
   ],
   "acquisition": {
@@ -552,6 +621,256 @@
       "kind": "ARCHIVE",
       "campaign": "ROME",
       "pool": "ROME_REPUBLIC_IDEALS"
+    },
+    "BAT_ITA_004": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "EVT_ITA_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "EVT_ITA_003": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "PER_ITA_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "STATE_ITA_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "CITY_ITA_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "ROAD_ITA_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "PER_ITA_003": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "CITY_ITA_002": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "PER_ITA_004": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "SYS_ITA_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "WAR_ITA_002": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "WAR_ITA_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "EVT_ITA_004": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "WAR_ITA_003": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "BAT_ITA_005": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "BAT_ITA_002": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "EVT_ITA_002": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "BAT_ITA_003": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "PER_ITA_002": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "BAT_ITA_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "BAT_ITA_006": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_ITALY"
+    },
+    "PEO_ITA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ITALY_BORDERLANDS"
+    },
+    "PEO_ITA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ITALY_BORDERLANDS"
+    },
+    "PEO_ITA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ITALY_BORDERLANDS"
+    },
+    "PEO_ITA_004": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ITALY_BORDERLANDS"
+    },
+    "CITY_ITA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ITALY_BORDERLANDS"
+    },
+    "PEO_ITA_005": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_LATIN_ORDER"
+    },
+    "PEO_ITA_006": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_LATIN_ORDER"
+    },
+    "PEO_ITA_007": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_LATIN_ORDER"
+    },
+    "CITY_ITA_004": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_LATIN_ORDER"
+    },
+    "REG_ITA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_LATIN_ORDER"
+    },
+    "TERM_ITA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_LATIN_ORDER"
+    },
+    "TERM_ITA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_LATIN_ORDER"
+    },
+    "TERM_ITA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_LATIN_ORDER"
+    },
+    "REG_ITA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_SAMNIUM"
+    },
+    "ORG_ITA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_SAMNIUM"
+    },
+    "ART_ITA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_SAMNIUM"
+    },
+    "TERM_ITA_005": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_SAMNIUM"
+    },
+    "CITY_ITA_005": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ROADS_COLONIES"
+    },
+    "CITY_ITA_006": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ROADS_COLONIES"
+    },
+    "TERM_ITA_004": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ROADS_COLONIES"
+    },
+    "PER_ITA_005": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ROADS_COLONIES"
+    },
+    "PEO_ITA_008": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_SOUTH_ITALY"
+    },
+    "PEO_ITA_009": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_SOUTH_ITALY"
+    },
+    "PEO_ITA_010": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_SOUTH_ITALY"
+    },
+    "CITY_ITA_007": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_SOUTH_ITALY"
+    },
+    "CITY_ITA_008": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_SOUTH_ITALY"
+    },
+    "REG_ITA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_SOUTH_ITALY"
+    },
+    "TERM_ITA_006": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_SOUTH_ITALY"
     }
   }
 }

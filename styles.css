@@ -843,3 +843,10 @@ html[data-theme="parchment"] .library-switch button.active{background:linear-gra
 html[data-theme="parchment"] .catalog-copy p{color:#6f5c48}
 html[data-theme="parchment"] .catalog-card:not(.owned) .catalog-art img{filter:saturate(.45) contrast(.94) brightness(.70)}
 html[data-theme="parchment"] .catalog-card.pool_locked .catalog-art img,html[data-theme="parchment"] .catalog-card.story_locked .catalog-art img{filter:grayscale(.8) contrast(.9) brightness(.58)}
+
+
+/* v1.1 data-first boot screen */
+.boot-screen{min-height:100dvh;display:grid;place-content:center;grid-template-columns:auto minmax(0,520px);gap:24px;padding:32px;color:var(--text);background:var(--bg)}
+.boot-screen .boot-mark{width:72px;height:72px;border:1px solid var(--line);border-radius:22px;display:grid;place-items:center;font:700 36px/1 Georgia,serif;color:var(--accent);box-shadow:0 20px 60px rgba(0,0,0,.18)}
+.boot-screen h1{margin:5px 0 10px;font-size:clamp(28px,5vw,48px)}.boot-screen p{margin:0;color:var(--muted);line-height:1.65}.boot-error .boot-mark{color:#c95656}
+@media(max-width:650px){.boot-screen{grid-template-columns:1fr;text-align:center}.boot-screen .boot-mark{margin:auto}}

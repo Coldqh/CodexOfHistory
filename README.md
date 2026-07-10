@@ -1,37 +1,20 @@
-# Codex of History — v1.0
+# Codex of History v1.1
 
-Законченный статический MVP исторической карточной игры для GitHub Pages.
+Статическая историческая игра для GitHub Pages. Версия 1.1 переводит проект на data-first архитектуру.
 
-## Что есть в v1.0
+## Установка
 
-- кампания «Рождение Рима»;
-- 42 карточки;
-- сюжетные и архивные карты;
-- архивные пулы по этапам кампании;
-- паки, фрагменты и защита от спойлеров;
-- 6 персональных историй;
-- мастерство карточек и личные проверки;
-- настоящий интерактивный атлас Leaflet;
-- чёрная и пергаментная темы;
-- мобильный и настольный UI;
-- отдельный **Архив** только с полученными картами;
-- отдельная **Коллекция** со всеми картами проекта;
-- исправленные изображения архивных карт;
-- сохранение прогресса через `localStorage`.
+Распакуйте содержимое архива в корень `C:\CodexOfHistory`, затем:
 
-## Главные файлы
-
-- `index.html`
-- `styles.css`
-- `app.js`
-- `patch-v08.js`
-- `patch-v09.js`
-- `patch-v10.js`
-- `data/collection_rules_v10.json`
-- `data/image_manifest_v10.json`
-- `docs/PATCH_NOTES_v1_0.md`
+```powershell
+git add .
+git commit -m "Patch v1.1 content engine refactor"
+git push
+```
 
 ## Локальный запуск
+
+Из-за загрузки JSON через `fetch` нужен HTTP-сервер:
 
 ```powershell
 cd C:\CodexOfHistory
@@ -40,10 +23,10 @@ python -m http.server 8000
 
 Открыть `http://localhost:8000`.
 
-## GitHub Pages
+## Проверка контента
 
-Публикация из ветки `main`, папка `/root`.
+```powershell
+node tools/validate-content.mjs
+```
 
-## Внешние ресурсы
-
-Карта использует Leaflet и тайлы OpenStreetMap. Изображения загружаются через Wikimedia Commons `Special:FilePath`; при ошибке используется локальный fallback.
+Подробности: `docs/ARCHITECTURE_v1_1.md`.

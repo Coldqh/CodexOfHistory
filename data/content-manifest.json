@@ -1,0 +1,37 @@
+{
+  "version": "1.1.0",
+  "title": "Codex of History Content Manifest",
+  "locale": "ru-RU",
+  "datasets": {
+    "cards": [
+      "data/cards/rome/story.json",
+      "data/cards/rome/archive.json",
+      "data/cards/rome/future.json"
+    ],
+    "relations": "data/core/relations.json",
+    "campaign": "data/campaigns/rome/chapter_01.json",
+    "pools": "data/campaigns/rome/pools.json",
+    "quizzes": "data/quizzes/rome/chapter_01.json",
+    "stories": "data/stories/rome/personal.json",
+    "mastery": "data/core/mastery.json",
+    "packs": "data/core/packs.json",
+    "collection": "data/core/collection.json",
+    "maps": "data/maps/rome.json"
+  },
+  "scripts": [
+    "js/maps/engine.js",
+    "js/core/runtime.js",
+    "js/features/campaign.js",
+    "js/core/helpers.js",
+    "js/features/navigation-quiz.js",
+    "js/views/base.js",
+    "js/core/render-base.js",
+    "js/features/mastery.js",
+    "js/features/pools-stories.js",
+    "js/features/catalog.js",
+    "js/core/start.js"
+  ],
+  "vendors": {
+    "leaflet": "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "campaigns": {
+    "ROME": {
+      "id": "ROME",
+      "title": "Рим",
+      "active": true,
+      "status": "STARTED"
+    },
+    "CRUSADES": {
+      "id": "CRUSADES",
+      "title": "Крестовые походы",
+      "active": false,
+      "status": "NOT_STARTED"
+    },
+    "RENAISSANCE": {
+      "id": "RENAISSANCE",
+      "title": "Ренессанс",
+      "active": false,
+      "status": "NOT_STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "ROME_ORIGINS",
+      "campaign": "ROME",
+      "title": "Истоки Рима",
+      "unlockMission": "MIS_BIRTH_01",
+      "cardIds": [
+        "CITY_ARC_001",
+        "REG_ARC_001",
+        "REL_ARC_001"
+      ]
+    },
+    {
+      "id": "ROME_PEOPLES",
+      "campaign": "ROME",
+      "title": "Сабиняне и первые общины",
+      "unlockMission": "MIS_BIRTH_03",
+      "cardIds": [
+        "PER_ARC_001",
+        "PER_ARC_002",
+        "LOC_ARC_001",
+        "REL_ARC_002"
+      ]
+    },
+    {
+      "id": "ROME_KINGS",
+      "campaign": "ROME",
+      "title": "Цари и город",
+      "unlockMission": "MIS_BIRTH_05",
+      "cardIds": [
+        "PER_ARC_003",
+        "PER_ARC_004",
+        "ART_ARC_001",
+        "ART_ARC_002"
+      ]
+    },
+    {
+      "id": "ROME_REPUBLIC_BIRTH",
+      "campaign": "ROME",
+      "title": "Рождение Республики",
+      "unlockMission": "MIS_BIRTH_07",
+      "cardIds": [
+        "PER_ARC_005",
+        "PER_ARC_006",
+        "ORG_ARC_001",
+        "ART_ARC_003"
+      ]
+    },
+    {
+      "id": "ROME_PUNIC",
+      "campaign": "ROME",
+      "title": "Пунические войны",
+      "unlockMission": "ROME_CHAPTER_04",
+      "cardIds": [
+        "PER_CAR_001",
+        "WAR_ROM_001",
+        "BAT_ROM_001",
+        "PER_ROM_002",
+        "BAT_ROM_002"
+      ]
+    },
+    {
+      "id": "ROME_LATE_REPUBLIC",
+      "campaign": "ROME",
+      "title": "Кризис Республики",
+      "unlockMission": "ROME_CHAPTER_06",
+      "cardIds": [
+        "PER_ROM_003",
+        "EVT_ROM_003"
+      ]
+    },
+    {
+      "id": "ROME_PRINCIPATE",
+      "campaign": "ROME",
+      "title": "Рождение Империи",
+      "unlockMission": "ROME_CHAPTER_07",
+      "cardIds": [
+        "PER_ROM_004"
+      ]
+    }
+  ],
+  "acquisition": {
+    "PER_ROM_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_BIRTH"
+    },
+    "EVT_ROM_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_BIRTH"
+    },
+    "STATE_ROM_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_BIRTH"
+    },
+    "EVT_ROM_002": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_BIRTH"
+    },
+    "STATE_ROM_002": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_BIRTH"
+    },
+    "ORG_ROM_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_BIRTH"
+    },
+    "PER_ROM_005": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_BIRTH"
+    },
+    "PER_ROM_006": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_BIRTH"
+    },
+    "LOC_ROM_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_BIRTH"
+    },
+    "REG_ROM_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_BIRTH"
+    },
+    "ART_ROM_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_BIRTH"
+    },
+    "CUL_ROM_001": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_BIRTH"
+    },
+    "EVT_ROM_005": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_BIRTH"
+    },
+    "PER_ROM_007": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_BIRTH"
+    },
+    "ORG_ROM_002": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_BIRTH"
+    },
+    "CUL_ROM_002": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_BIRTH"
+    },
+    "PER_ROM_008": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_BIRTH"
+    },
+    "LOC_ROM_002": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_BIRTH"
+    },
+    "PER_ROM_009": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_BIRTH"
+    },
+    "CITY_ARC_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ORIGINS"
+    },
+    "REG_ARC_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ORIGINS"
+    },
+    "REL_ARC_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ORIGINS"
+    },
+    "PER_ARC_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PEOPLES"
+    },
+    "PER_ARC_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PEOPLES"
+    },
+    "LOC_ARC_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PEOPLES"
+    },
+    "REL_ARC_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PEOPLES"
+    },
+    "PER_ARC_003": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_KINGS"
+    },
+    "PER_ARC_004": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_KINGS"
+    },
+    "ART_ARC_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_KINGS"
+    },
+    "ART_ARC_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_KINGS"
+    },
+    "PER_ARC_005": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_BIRTH"
+    },
+    "PER_ARC_006": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_BIRTH"
+    },
+    "ORG_ARC_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_BIRTH"
+    },
+    "ART_ARC_003": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_BIRTH"
+    },
+    "PER_CAR_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PUNIC"
+    },
+    "WAR_ROM_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PUNIC"
+    },
+    "BAT_ROM_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PUNIC"
+    },
+    "PER_ROM_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PUNIC"
+    },
+    "BAT_ROM_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PUNIC"
+    },
+    "PER_ROM_003": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_LATE_REPUBLIC"
+    },
+    "EVT_ROM_003": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_LATE_REPUBLIC"
+    },
+    "PER_ROM_004": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PRINCIPATE"
+    }
+  }
+}

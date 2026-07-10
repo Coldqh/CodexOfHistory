@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "campaign.schema.json",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "nodes"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "nodes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "type",
+          "title"
+        ]
+      }
+    }
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,220 @@
+{
+  "points": {
+    "ROME": [
+      41.9028,
+      12.4964
+    ],
+    "PALATINE": [
+      41.8895,
+      12.4875
+    ],
+    "CAPITOL": [
+      41.8933,
+      12.4829
+    ],
+    "FORUM": [
+      41.8925,
+      12.4853
+    ],
+    "LATIUM": [
+      41.75,
+      12.62
+    ],
+    "SABINES": [
+      42.15,
+      13.03
+    ],
+    "ETRURIA": [
+      42.15,
+      11.82
+    ],
+    "CARTHAGE": [
+      36.8529,
+      10.3233
+    ],
+    "CANNAE": [
+      41.3062,
+      16.1348
+    ],
+    "ZAMA": [
+      36.33,
+      9.45
+    ],
+    "RUBICON": [
+      44.17,
+      12.44
+    ]
+  },
+  "regions": {
+    "latium": {
+      "title": "Лаций",
+      "polygon": [
+        [
+          42.16,
+          11.3
+        ],
+        [
+          42.35,
+          12.1
+        ],
+        [
+          42.2,
+          13.05
+        ],
+        [
+          41.85,
+          13.72
+        ],
+        [
+          41.2,
+          13.75
+        ],
+        [
+          40.78,
+          12.82
+        ],
+        [
+          41.03,
+          11.62
+        ],
+        [
+          41.55,
+          11.38
+        ]
+      ]
+    },
+    "etruria": {
+      "title": "Этрурия",
+      "polygon": [
+        [
+          43.05,
+          10.7
+        ],
+        [
+          43.1,
+          12.25
+        ],
+        [
+          42.43,
+          12.6
+        ],
+        [
+          41.92,
+          12.5
+        ],
+        [
+          41.72,
+          11.47
+        ],
+        [
+          42.2,
+          10.72
+        ]
+      ]
+    },
+    "sabines": {
+      "title": "Сабинская область",
+      "polygon": [
+        [
+          42.66,
+          12.55
+        ],
+        [
+          42.7,
+          13.45
+        ],
+        [
+          41.9,
+          13.6
+        ],
+        [
+          41.78,
+          12.72
+        ],
+        [
+          42.15,
+          12.5
+        ]
+      ]
+    }
+  },
+  "tiber": [
+    [
+      42.15,
+      12.31
+    ],
+    [
+      41.97,
+      12.38
+    ],
+    [
+      41.9,
+      12.47
+    ],
+    [
+      41.72,
+      12.31
+    ],
+    [
+      41.35,
+      12.07
+    ]
+  ],
+  "cardPoints": {
+    "PER_ROM_001": "PALATINE",
+    "PER_ROM_005": "PALATINE",
+    "EVT_ROM_001": "PALATINE",
+    "PER_ROM_006": "ROME",
+    "ART_ROM_001": "CAPITOL",
+    "LOC_ROM_001": "PALATINE",
+    "REG_ROM_001": "LATIUM",
+    "STATE_ROM_001": "ROME",
+    "CUL_ROM_001": "SABINES",
+    "EVT_ROM_005": "ROME",
+    "PER_ROM_007": "ROME",
+    "ORG_ROM_002": "FORUM",
+    "CUL_ROM_002": "ETRURIA",
+    "PER_ROM_008": "ROME",
+    "LOC_ROM_002": "FORUM",
+    "PER_ROM_009": "ROME",
+    "EVT_ROM_002": "ROME",
+    "STATE_ROM_002": "ROME",
+    "ORG_ROM_001": "FORUM",
+    "PER_CAR_001": "CARTHAGE",
+    "WAR_ROM_001": [
+      39.4,
+      12.0
+    ],
+    "BAT_ROM_001": "CANNAE",
+    "PER_ROM_002": "ZAMA",
+    "BAT_ROM_002": "ZAMA",
+    "PER_ROM_003": "ROME",
+    "EVT_ROM_003": "RUBICON",
+    "BAT_ROM_003": [
+      39.15,
+      22.14
+    ],
+    "PER_ROM_004": "ROME",
+    "CITY_ARC_001": [
+      41.75,
+      12.65
+    ],
+    "REG_ARC_001": "ROME",
+    "REL_ARC_001": "ROME",
+    "PER_ARC_001": "SABINES",
+    "PER_ARC_002": "CAPITOL",
+    "LOC_ARC_001": [
+      41.899,
+      12.489
+    ],
+    "REL_ARC_002": "FORUM",
+    "PER_ARC_003": "ROME",
+    "PER_ARC_004": "ROME",
+    "ART_ARC_001": "FORUM",
+    "ART_ARC_002": "ROME",
+    "PER_ARC_005": "ROME",
+    "PER_ARC_006": "ROME",
+    "ORG_ARC_001": "FORUM",
+    "ART_ARC_003": "FORUM"
+  }
+}

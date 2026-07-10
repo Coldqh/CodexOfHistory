@@ -124,3 +124,25 @@
 - Интерактивная карта: Leaflet 1.9.4, BSD-2-Clause.
 - Базовые картографические данные и тайлы: © OpenStreetMap contributors.
 - Контуры Лация, Этрурии и сабинской области в приложении — упрощённые учебные оверлеи, созданные для механики кампании, а не точная реконструкция границ.
+
+## Карточки, добавленные в v0.9
+
+Новые архивные изображения подключаются через `Wikimedia Commons Special:FilePath` и должны проверяться по странице конкретного файла перед публичным коммерческим использованием:
+
+- Альба-Лонга — `Castel Gandolfo and Lake Albano.jpg`
+- Тибр — `Tiber River Rome.jpg`
+- Авгурия — `Augur, Nordisk familjebok.png`
+- Тит Татий — `Titus Tatius.jpg`
+- Тарпея — `Tarpeia.jpg`
+- Квиринал — `Quirinal Hill Rome.jpg`
+- Храм Януса — `Temple of Janus coin.jpg`
+- Анк Марций — `Ancus Marcius.jpg`
+- Сервий Туллий — `Servius Tullius.jpg`
+- Клоака Максима — `Cloaca Maxima Rome.jpg`
+- Сервиева стена — `Servian Wall Rome.jpg`
+- Лукреция — `The Death of Lucretia.jpg`
+- Луций Юний Брут — `Lucius Junius Brutus Capitoline Museums.jpg`
+- Римские консулы — `Roman consul.jpg`
+- Фасции — `Fasces lictoriae.svg`
+
+Если конкретный файл отсутствует или переименован, приложение использует `assets/ui/fallback-card.svg`.

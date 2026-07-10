@@ -99,3 +99,22 @@
 - Credit: Wikimedia Commons
 - License: CC BY-SA / см. страницу файла
 - Source: https://commons.wikimedia.org/wiki/File:Augustus_of_Prima_Porta_(inv._2290).jpg
+
+
+## v0.6 — новые материалы
+
+- Rubens, Peter Paul - Romulus and Remus - 1614-1616.jpg — Wikimedia Commons.
+- F. Melzi - Rhea Sylvia...jpg — Wikimedia Commons / Cultural Heritage Agency of the Netherlands.
+- Palatine Hill Rome.jpg — Wikimedia Commons / Jensens.
+- Ancient Latium.png — William R. Shepherd, public domain.
+- Capitoline she-wolf Musei Capitolini MC1181.jpg — Wikimedia Commons / Musei Capitolini.
+- The Intervention of the Sabine Women - David (Louvre INV 3691).jpg — Wikimedia Commons / Louvre.
+- The Rape of the Sabine Women.jpg — The Met / Wikimedia Commons, public domain.
+- Numa Pompilius, from Promptuarii Iconum Insigniorum.png — Wikimedia Commons, public domain.
+- Vestal in Forum romanum Rome Italy.jpg — Wikimedia Commons / Jebulon.
+- Etruscan civilization map.png — Wikimedia Commons / NormanEinstein, CC BY-SA 3.0 / GFDL.
+- Tarquinius Priscus, from Promptuarii Iconum Insigniorum.png — Wikimedia Commons.
+- Roman Forum, Panorama (31458111547).jpg — Wikimedia Commons.
+- Perino Tarquino el Soberbio funda el templo de Jupiter Capitolino.jpg — Wikimedia Commons / Uffizi.
+
+Проверяйте условия конкретного файла на его странице перед публичным коммерческим переиспользованием.

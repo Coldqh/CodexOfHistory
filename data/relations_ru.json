@@ -110,5 +110,117 @@
     "type": "ТРАНСФОРМАЦИЯ",
     "description": "Август формально сохранил республиканские формы, но создал императорскую систему.",
     "strength": 8
+  },
+  {
+    "id": "REL_B01",
+    "source": "PER_ROM_006",
+    "target": "PER_ROM_001",
+    "type": "МАТЬ",
+    "description": "Рея Сильвия считается матерью Ромула в мифе.",
+    "strength": 8
+  },
+  {
+    "id": "REL_B02",
+    "source": "PER_ROM_006",
+    "target": "PER_ROM_005",
+    "type": "МАТЬ",
+    "description": "Рея Сильвия считается матерью Рема в мифе.",
+    "strength": 8
+  },
+  {
+    "id": "REL_B03",
+    "source": "PER_ROM_001",
+    "target": "PER_ROM_005",
+    "type": "БРАТ",
+    "description": "Ромул и Рем — близнецы римского предания.",
+    "strength": 8
+  },
+  {
+    "id": "REL_B04",
+    "source": "EVT_ROM_001",
+    "target": "LOC_ROM_001",
+    "type": "МЕСТО",
+    "description": "Миф помещает основание города на Палатин.",
+    "strength": 8
+  },
+  {
+    "id": "REL_B05",
+    "source": "LOC_ROM_001",
+    "target": "REG_ROM_001",
+    "type": "НАХОДИТСЯ_В",
+    "description": "Палатин находится в древнем Лации.",
+    "strength": 8
+  },
+  {
+    "id": "REL_B06",
+    "source": "ART_ROM_001",
+    "target": "EVT_ROM_001",
+    "type": "СИМВОЛ",
+    "description": "Капитолийская волчица стала символом основания Рима.",
+    "strength": 8
+  },
+  {
+    "id": "REL_B07",
+    "source": "CUL_ROM_001",
+    "target": "EVT_ROM_005",
+    "type": "УЧАСТНИК",
+    "description": "Сабиняне участвуют в легенде о похищении сабинянок.",
+    "strength": 8
+  },
+  {
+    "id": "REL_B08",
+    "source": "EVT_ROM_005",
+    "target": "PER_ROM_007",
+    "type": "ПРЕДШЕСТВУЕТ",
+    "description": "После примирения римско-сабинская линия ведёт к образу Нумы.",
+    "strength": 8
+  },
+  {
+    "id": "REL_B09",
+    "source": "PER_ROM_007",
+    "target": "ORG_ROM_002",
+    "type": "УЧРЕДИТЕЛЬ_ТРАДИЦИИ",
+    "description": "Традиция связывала Нуму с культом весталок.",
+    "strength": 8
+  },
+  {
+    "id": "REL_B10",
+    "source": "CUL_ROM_002",
+    "target": "PER_ROM_008",
+    "type": "КУЛЬТУРНАЯ_СВЯЗЬ",
+    "description": "Тарквиний Древний связан с этрусской династией.",
+    "strength": 8
+  },
+  {
+    "id": "REL_B11",
+    "source": "PER_ROM_008",
+    "target": "LOC_ROM_002",
+    "type": "РАЗВИТИЕ_ГОРОДА",
+    "description": "С его эпохой связывали развитие Форума.",
+    "strength": 8
+  },
+  {
+    "id": "REL_B12",
+    "source": "LOC_ROM_002",
+    "target": "STATE_ROM_001",
+    "type": "ЦЕНТР",
+    "description": "Форум стал центром царского Рима.",
+    "strength": 8
+  },
+  {
+    "id": "REL_B13",
+    "source": "PER_ROM_009",
+    "target": "EVT_ROM_002",
+    "type": "ПРИЧИНА_МИФА",
+    "description": "Изгнание Тарквиния Гордого завершает царский период.",
+    "strength": 8
+  },
+  {
+    "id": "REL_B14",
+    "source": "STATE_ROM_001",
+    "target": "PER_ROM_009",
+    "type": "ПОСЛЕДНИЙ_ПРАВИТЕЛЬ",
+    "description": "Тарквиний Гордый считается последним царём.",
+    "strength": 8
   }
 ]

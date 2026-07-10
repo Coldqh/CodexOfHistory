@@ -17,4 +17,4 @@ jobs:
       - run: node tools/smoke-daily.mjs
       - run: node tools/smoke-settings.mjs
       - run: node tools/smoke-ui-v15.mjs
-      - run: node tools/smoke-v17-republic.mjs
+      - run: node tools/smoke-v18-learning.mjs

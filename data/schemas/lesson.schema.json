@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Codex Learning Mission",
+  "type": "object",
+  "required": ["missionId", "duration", "objectives", "story", "chronology", "concepts", "causeEffect", "activity"],
+  "properties": {
+    "missionId": {"type": "string"},
+    "duration": {"type": "integer", "minimum": 3},
+    "objectives": {"type": "array", "minItems": 2, "items": {"type": "string"}},
+    "story": {"type": "array", "minItems": 2},
+    "chronology": {"type": "array", "minItems": 3},
+    "concepts": {"type": "array", "minItems": 3},
+    "causeEffect": {"type": "object"},
+    "activity": {"type": "object"}
+  }
+}

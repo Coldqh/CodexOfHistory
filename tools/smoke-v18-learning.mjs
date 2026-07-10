@@ -1,0 +1,42 @@
+#!/usr/bin/env node
+import fs from 'node:fs';
+import path from 'node:path';
+import vm from 'node:vm';
+import {fileURLToPath} from 'node:url';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
+const manifest=read('data/content-manifest.json'),d=manifest.datasets;
+const bundle=spec=>Array.isArray(spec)?Object.assign({},...spec.map(read)):read(spec);
+const cards=d.cards.flatMap(read),relations=read(d.relations),campaign=read(d.campaign),pools=read(d.pools),quizzes=bundle(d.quizzes),stories=read(d.stories),lessons=bundle(d.lessons);
+const app={innerHTML:''},local=new Map();
+const document={documentElement:{dataset:{},style:{setProperty(){}},classList:{add(){},remove(){}}},querySelector(){return null},querySelectorAll(){return[]},getElementById(id){return id==='app'?app:null},addEventListener(){},createElement(){return{className:'',style:{setProperty(){}},remove(){},classList:{add(){}},innerHTML:''}},body:{appendChild(){},classList:{add(){},remove(){},toggle(){}}}};
+const context={console,Date,Math,JSON,Intl,Map,Set,URL,Blob,Promise,CustomEvent:class{},localStorage:{getItem:k=>local.get(k)||null,setItem:(k,v)=>local.set(k,v),removeItem:k=>local.delete(k)},sessionStorage:{getItem(){return null},setItem(){},removeItem(){}},confirm:()=>true,setTimeout:()=>0,clearTimeout(){},requestAnimationFrame(){},window:{scrollTo(){},dispatchEvent(){},matchMedia:()=>({matches:true}),innerWidth:1200},document,location:{protocol:'http:',href:'https://example.test/',replace(){},reload(){}},IntersectionObserver:class{},L:undefined,navigator:{}};
+context.window.window=context.window;context.window.document=document;context.globalThis=context;
+Object.assign(context,{CODEX_MANIFEST:manifest,CODEX_CONFIG:{mastery:read(d.mastery),packs:read(d.packs),collection:read(d.collection),maps:read(d.maps),daily:read(d.daily)},CARDS:cards,RELATIONS:relations,CAMPAIGN:campaign,V09_CONTENT:pools,QUIZZES:quizzes,PERSONAL_STORIES:stories,CODEX_LESSONS:lessons});
+context.CODEX_REGISTRY={cardsById:new Map(cards.map(x=>[x.id,x])),relationsByCard:new Map(cards.map(c=>[c.id,relations.filter(r=>r.source===c.id||r.target===c.id)])),missionsById:new Map(campaign.nodes.map(x=>[x.id,x])),poolsById:new Map(pools.pools.map(x=>[x.id,x])),lessonsByMission:new Map(Object.entries(lessons))};
+const ctx=vm.createContext(context);for(const script of manifest.scripts)vm.runInContext(fs.readFileSync(path.join(root,script),'utf8'),ctx,{filename:script});
+const assert=(v,m)=>{if(!v)throw new Error(m)};
+assert(manifest.version==='1.8.0','Версия не 1.8.0');
+assert(Object.keys(lessons).length===campaign.nodes.length,'Не у каждой миссии есть урок');
+for(const m of campaign.nodes){const l=lessons[m.id];assert(l.story.length>=2,`${m.id}: нет рассказа`);assert(l.chronology.length>=3,`${m.id}: нет хронологии`);assert(l.concepts.length>=3,`${m.id}: нет разбора`);}
+vm.runInContext("state.tab='campaign';render();",ctx);
+assert(app.innerHTML.includes('рассказ → хронология → разбор → практика'),'Нет новой модели обучения');
+assert(app.innerHTML.includes('compact-chapter-switch'),'Переключатель глав не компактный');
+assert(app.innerHTML.includes('learning-mission-row'),'Миссии не переведены в компактные строки');
+vm.runInContext("state.currentMission='MIS_REPUBLIC_06';state.tab='mission';render();",ctx);
+assert(app.innerHTML.includes('Исторический рассказ'),'Миссия не начинает с рассказа');
+vm.runInContext("state.lessonUnlockedStages['MIS_REPUBLIC_06']=3;state.lessonStages['MIS_REPUBLIC_06']=1;render();",ctx);
+assert(app.innerHTML.includes('Хронология и развитие'),'В миссии нет хронологии');
+vm.runInContext("state.lessonStages['MIS_REPUBLIC_06']=2;render();",ctx);
+assert(app.innerHTML.includes('Как это работает'),'В миссии нет учебного разбора');
+vm.runInContext("state.lessonStages['MIS_REPUBLIC_06']=3;render();",ctx);
+assert(app.innerHTML.includes('Почему уход плебеев был эффективен?'),'Практика миссии не загружена');
+assert(app.innerHTML.includes('Карточки миссии'),'Карточки не переведены в архивную роль');
+
+vm.runInContext("state.currentMission='MIS_REPUBLIC_05';state.lessonUnlockedStages['MIS_REPUBLIC_05']=3;state.lessonStages['MIS_REPUBLIC_05']=3;render();",ctx);
+assert(app.innerHTML.includes('id="mission-map"'),'Карта не встроена в учебный поток');
+vm.runInContext("state.currentMission='MIS_REPUBLIC_09';state.lessonUnlockedStages['MIS_REPUBLIC_09']=3;state.lessonStages['MIS_REPUBLIC_09']=3;render();",ctx);
+assert(app.innerHTML.includes('СОБЕРИ ХРОНОЛОГИЮ'),'Хронология не встроена в учебный поток');
+vm.runInContext("state.currentMission='MIS_REPUBLIC_12';state.lessonUnlockedStages['MIS_REPUBLIC_12']=3;state.lessonStages['MIS_REPUBLIC_12']=3;render();",ctx);
+assert(app.innerHTML.includes('ИТОГОВОЕ ИСПЫТАНИЕ'),'Финал не встроен в учебный поток');
+console.log(`✓ v1.8 learning smoke: ${Object.keys(lessons).length} lessons, ${campaign.nodes.length} missions`);

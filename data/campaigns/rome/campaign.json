@@ -9,7 +9,7 @@
       "number": 1,
       "title": "Рождение Рима",
       "subtitle": "Мифы, цари и город",
-      "description": "Семь миссий о близнецах, Палатине, сабинянах, религии, этрусском городе и падении царской власти.",
+      "description": "Последовательный учебный маршрут: рассказ, хронология, разбор и практика.",
       "missionIds": [
         "MIS_BIRTH_01",
         "MIS_BIRTH_02",
@@ -25,7 +25,7 @@
       "number": 2,
       "title": "Рождение Республики",
       "subtitle": "Свобода, сословия и закон",
-      "description": "Двенадцать миссий от падения Тарквиниев до Законов XII таблиц.",
+      "description": "Последовательный учебный маршрут: рассказ, хронология, разбор и практика.",
       "missionIds": [
         "MIS_REPUBLIC_01",
         "MIS_REPUBLIC_02",
@@ -45,9 +45,9 @@
   "nodes": [
     {
       "id": "MIS_BIRTH_01",
-      "type": "READ",
+      "type": "LESSON",
       "title": "Легенда о близнецах",
-      "description": "Изучи Ромула, Рема и традиционное основание города.",
+      "description": "Как легенда и археология объясняют происхождение города.",
       "cards": [
         "PER_ROM_001",
         "PER_ROM_005",
@@ -60,32 +60,34 @@
       ],
       "xp": 90,
       "emoji": "🐺",
-      "chapterId": "ROME_CHAPTER_01"
+      "chapterId": "ROME_CHAPTER_01",
+      "lessonId": "MIS_BIRTH_01"
     },
     {
       "id": "MIS_BIRTH_02",
-      "type": "QUIZ",
+      "type": "SOURCE",
       "title": "Миф или хроника?",
-      "description": "Отдели римскую память от проверяемого исторического знания.",
+      "description": "Как отличать позднюю традицию от проверяемых данных.",
       "cards": [
         "PER_ROM_006",
         "ART_ROM_001",
         "LOC_ROM_001"
       ],
-      "quiz": "QUIZ_BIRTH_MYTH",
       "unlockCards": [
         "REG_ROM_001",
         "STATE_ROM_001"
       ],
       "xp": 110,
       "emoji": "📜",
-      "chapterId": "ROME_CHAPTER_01"
+      "chapterId": "ROME_CHAPTER_01",
+      "lessonId": "MIS_BIRTH_02",
+      "reviewQuiz": "QUIZ_BIRTH_MYTH"
     },
     {
       "id": "MIS_BIRTH_03",
       "type": "MAP",
       "title": "Где родился Рим",
-      "description": "Найди Лаций и Палатин на учебной карте.",
+      "description": "Почему Рим вырос именно у Тибра и Палатина.",
       "cards": [
         "REG_ROM_001",
         "LOC_ROM_001"
@@ -112,36 +114,37 @@
           "zoom": 15,
           "radius": 190
         }
-      ]
+      ],
+      "lessonId": "MIS_BIRTH_03"
     },
     {
       "id": "MIS_BIRTH_04",
-      "type": "QUIZ",
+      "type": "CAUSE_EFFECT",
       "title": "Рим и сабиняне",
-      "description": "Разбери тяжёлый миф о конфликте, женщинах и объединении общин.",
+      "description": "Насилие, война и объединение общин в сабинском мифе.",
       "cards": [
         "CUL_ROM_001",
         "EVT_ROM_005"
       ],
-      "quiz": "QUIZ_BIRTH_SABINES",
       "unlockCards": [
         "PER_ROM_007",
         "ORG_ROM_002"
       ],
       "xp": 120,
       "emoji": "⚔",
-      "chapterId": "ROME_CHAPTER_01"
+      "chapterId": "ROME_CHAPTER_01",
+      "lessonId": "MIS_BIRTH_04",
+      "reviewQuiz": "QUIZ_BIRTH_SABINES"
     },
     {
       "id": "MIS_BIRTH_05",
-      "type": "QUIZ",
+      "type": "MATCH",
       "title": "Царь мира и богов",
-      "description": "Изучи Нуму, весталок и роль религии в раннем государстве.",
+      "description": "Как религия организовывала раннее государство.",
       "cards": [
         "PER_ROM_007",
         "ORG_ROM_002"
       ],
-      "quiz": "QUIZ_BIRTH_NUMA",
       "unlockCards": [
         "CUL_ROM_002",
         "PER_ROM_008",
@@ -151,13 +154,15 @@
       ],
       "xp": 130,
       "emoji": "🔥",
-      "chapterId": "ROME_CHAPTER_01"
+      "chapterId": "ROME_CHAPTER_01",
+      "lessonId": "MIS_BIRTH_05",
+      "reviewQuiz": "QUIZ_BIRTH_NUMA"
     },
     {
       "id": "MIS_BIRTH_06",
       "type": "TIMELINE",
       "title": "Царская хронология",
-      "description": "Собери путь от основания к изгнанию последнего царя.",
+      "description": "От основания города к изгнанию последнего царя.",
       "cards": [
         "CUL_ROM_002",
         "PER_ROM_008",
@@ -192,13 +197,14 @@
           "numa",
           "tarquin"
         ]
-      }
+      },
+      "lessonId": "MIS_BIRTH_06"
     },
     {
       "id": "MIS_BIRTH_07",
       "type": "FINAL",
       "title": "Испытание первой главы",
-      "description": "Докажи, что понимаешь миф, географию, царей и переход к Республике.",
+      "description": "Итоговая модель царского Рима.",
       "cards": [
         "STATE_ROM_001",
         "EVT_ROM_002"
@@ -210,14 +216,15 @@
       ],
       "xp": 260,
       "emoji": "🏛",
-      "chapterId": "ROME_CHAPTER_01"
+      "chapterId": "ROME_CHAPTER_01",
+      "lessonId": "MIS_BIRTH_07"
     },
     {
       "id": "MIS_REPUBLIC_01",
       "chapterId": "ROME_CHAPTER_02",
-      "type": "READ",
+      "type": "LESSON",
       "title": "Последний дом Тарквиниев",
-      "description": "Изучи преступление Секста, историю Лукреции и раскол внутри царского рода.",
+      "description": "Почему династия Тарквиниев потеряла власть.",
       "cards": [
         "PER_ROM_009",
         "PER_REP_001",
@@ -229,33 +236,35 @@
         "PER_ARC_006"
       ],
       "xp": 120,
-      "emoji": "👑"
+      "emoji": "👑",
+      "lessonId": "MIS_REPUBLIC_01"
     },
     {
       "id": "MIS_REPUBLIC_02",
       "chapterId": "ROME_CHAPTER_02",
-      "type": "QUIZ",
+      "type": "SOURCE",
       "title": "Лукреция: память и политика",
-      "description": "Раздели традиционный рассказ, политический смысл и то, что нельзя подтвердить напрямую.",
+      "description": "Как читать историю Лукреции как политический источник.",
       "cards": [
         "PER_ARC_005",
         "PER_REP_001",
         "EVT_REP_001",
         "PER_ARC_006"
       ],
-      "quiz": "QUIZ_REP_LUCRETIA",
       "unlockCards": [
         "EVT_ROM_002"
       ],
       "xp": 140,
-      "emoji": "🗡"
+      "emoji": "🗡",
+      "lessonId": "MIS_REPUBLIC_02",
+      "reviewQuiz": "QUIZ_REP_LUCRETIA"
     },
     {
       "id": "MIS_REPUBLIC_03",
       "chapterId": "ROME_CHAPTER_02",
-      "type": "READ",
+      "type": "MATCH",
       "title": "Республика вместо царя",
-      "description": "Разбери изгнание царей, новую систему, сенат и коллегию консулов.",
+      "description": "Чем республика отличалась от царской власти.",
       "cards": [
         "EVT_ROM_002",
         "STATE_ROM_002",
@@ -267,34 +276,36 @@
         "BAT_REP_001"
       ],
       "xp": 140,
-      "emoji": "🏛"
+      "emoji": "🏛",
+      "lessonId": "MIS_REPUBLIC_03"
     },
     {
       "id": "MIS_REPUBLIC_04",
       "chapterId": "ROME_CHAPTER_02",
-      "type": "QUIZ",
+      "type": "MATCH",
       "title": "Кто управляет Республикой",
-      "description": "Пойми, как консулы, сенат и народные собрания делили власть.",
+      "description": "Как взаимодействовали консулы, сенат и собрания.",
       "cards": [
         "STATE_ROM_002",
         "ORG_ROM_001",
         "ORG_ARC_001",
         "PER_REP_003"
       ],
-      "quiz": "QUIZ_REP_GOVERNMENT",
       "unlockCards": [
         "CUL_REP_001",
         "CUL_REP_002"
       ],
       "xp": 150,
-      "emoji": "⚖"
+      "emoji": "⚖",
+      "lessonId": "MIS_REPUBLIC_04",
+      "reviewQuiz": "QUIZ_REP_GOVERNMENT"
     },
     {
       "id": "MIS_REPUBLIC_05",
       "chapterId": "ROME_CHAPTER_02",
       "type": "MAP",
       "title": "Город граждан",
-      "description": "Найди политический центр Республики, Авентин и место плебейской сецессии.",
+      "description": "География политического конфликта ранней Республики.",
       "cards": [
         "LOC_ROM_002",
         "CUL_REP_001",
@@ -328,33 +339,35 @@
         "ORG_REP_001"
       ],
       "xp": 150,
-      "emoji": "🗺"
+      "emoji": "🗺",
+      "lessonId": "MIS_REPUBLIC_05"
     },
     {
       "id": "MIS_REPUBLIC_06",
       "chapterId": "ROME_CHAPTER_02",
-      "type": "QUIZ",
+      "type": "CAUSE_EFFECT",
       "title": "Когда граждане уходят",
-      "description": "Разбери долги, военную службу, сецессию и появление народных трибунов.",
+      "description": "Почему плебеи покинули город и добились трибуната.",
       "cards": [
         "EVT_REP_002",
         "ORG_REP_001",
         "CUL_REP_001",
         "CUL_REP_002"
       ],
-      "quiz": "QUIZ_REP_SECESSION",
       "unlockCards": [
         "EVT_REP_003"
       ],
       "xp": 160,
-      "emoji": "✊"
+      "emoji": "✊",
+      "lessonId": "MIS_REPUBLIC_06",
+      "reviewQuiz": "QUIZ_REP_SECESSION"
     },
     {
       "id": "MIS_REPUBLIC_07",
       "chapterId": "ROME_CHAPTER_02",
-      "type": "READ",
+      "type": "LESSON",
       "title": "Долгая борьба сословий",
-      "description": "Увидь конфликт как цепь компромиссов, а не одну простую революцию.",
+      "description": "Два века конфликтов, уступок и новой элиты.",
       "cards": [
         "EVT_REP_003",
         "CUL_REP_001",
@@ -365,31 +378,33 @@
         "ORG_REP_002"
       ],
       "xp": 130,
-      "emoji": "⌁"
+      "emoji": "⌁",
+      "lessonId": "MIS_REPUBLIC_07"
     },
     {
       "id": "MIS_REPUBLIC_08",
       "chapterId": "ROME_CHAPTER_02",
-      "type": "QUIZ",
+      "type": "MATCH",
       "title": "Собери устройство Республики",
-      "description": "Свяжи консулов, сенат, трибунов и собрания с их реальными функциями.",
+      "description": "Собери институты Республики в одну систему.",
       "cards": [
         "ORG_ARC_001",
         "ORG_ROM_001",
         "ORG_REP_001",
         "ORG_REP_002"
       ],
-      "quiz": "QUIZ_REP_INSTITUTIONS",
       "unlockCards": [],
       "xp": 160,
-      "emoji": "▦"
+      "emoji": "▦",
+      "lessonId": "MIS_REPUBLIC_08",
+      "reviewQuiz": "QUIZ_REP_INSTITUTIONS"
     },
     {
       "id": "MIS_REPUBLIC_09",
       "chapterId": "ROME_CHAPTER_02",
       "type": "TIMELINE",
       "title": "От изгнания к письменному закону",
-      "description": "Собери путь от падения царей до кризиса децемвиров.",
+      "description": "Путь от изгнания царей к письменному праву.",
       "cards": [
         "EVT_ROM_002",
         "EVT_REP_002",
@@ -427,14 +442,15 @@
         "PER_REP_005"
       ],
       "xp": 170,
-      "emoji": "⏳"
+      "emoji": "⏳",
+      "lessonId": "MIS_REPUBLIC_09"
     },
     {
       "id": "MIS_REPUBLIC_10",
       "chapterId": "ROME_CHAPTER_02",
-      "type": "READ",
+      "type": "SOURCE",
       "title": "Десять мужей и Вергиния",
-      "description": "Изучи чрезвычайную коллегию, злоупотребление властью и повторение республиканского мифа.",
+      "description": "Чрезвычайная власть децемвиров и история Вергинии.",
       "cards": [
         "ORG_REP_002",
         "PER_REP_004",
@@ -444,32 +460,34 @@
         "EVT_REP_004"
       ],
       "xp": 140,
-      "emoji": "Ⅹ"
+      "emoji": "Ⅹ",
+      "lessonId": "MIS_REPUBLIC_10"
     },
     {
       "id": "MIS_REPUBLIC_11",
       "chapterId": "ROME_CHAPTER_02",
-      "type": "QUIZ",
+      "type": "CAUSE_EFFECT",
       "title": "Падение децемвиров",
-      "description": "Проверь, как история Вергинии, новая сецессия и восстановление магистратур связаны между собой.",
+      "description": "Как Республика сохранила законы и свергла комиссию.",
       "cards": [
         "PER_REP_004",
         "PER_REP_005",
         "EVT_REP_004"
       ],
-      "quiz": "QUIZ_REP_DECEMVIRS",
       "unlockCards": [
         "LAW_REP_001"
       ],
       "xp": 170,
-      "emoji": "§"
+      "emoji": "§",
+      "lessonId": "MIS_REPUBLIC_11",
+      "reviewQuiz": "QUIZ_REP_DECEMVIRS"
     },
     {
       "id": "MIS_REPUBLIC_12",
       "chapterId": "ROME_CHAPTER_02",
       "type": "FINAL",
       "title": "Испытание Республики",
-      "description": "Докажи, что понимаешь смену режима, институты, сословный конфликт и появление письменного права.",
+      "description": "Итоговое понимание власти, сословий и права.",
       "cards": [
         "STATE_ROM_002",
         "EVT_REP_003",
@@ -478,7 +496,8 @@
       "quiz": "QUIZ_REP_FINAL",
       "unlockCards": [],
       "xp": 320,
-      "emoji": "🏺"
+      "emoji": "🏺",
+      "lessonId": "MIS_REPUBLIC_12"
     }
   ]
 }

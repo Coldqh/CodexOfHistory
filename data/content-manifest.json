@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
+  "version": "1.8.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -20,7 +20,11 @@
     "packs": "data/core/packs.json",
     "collection": "data/core/collection.json",
     "maps": "data/maps/rome.json",
-    "daily": "data/core/daily-learning.json"
+    "daily": "data/core/daily-learning.json",
+    "lessons": [
+      "data/lessons/rome/chapter_01.json",
+      "data/lessons/rome/chapter_02.json"
+    ]
   },
   "scripts": [
     "js/maps/engine.js",
@@ -38,6 +42,7 @@
     "js/features/mobile-cleanup.js",
     "js/features/v1-5-polish.js",
     "js/features/v1-7-republic.js",
+    "js/features/v1-8-learning-missions.js",
     "js/core/start.js"
   ],
   "vendors": {

@@ -1,4 +1,4 @@
-/* Codex v1.7 — startup and local image cache warming */
+/* Codex v1.8 — startup and local image cache warming */
 (() => {
   syncDiscovery();
   save();

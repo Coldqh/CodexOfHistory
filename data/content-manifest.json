@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -31,6 +31,7 @@
     "js/features/pools-stories.js",
     "js/features/catalog.js",
     "js/features/daily-learning.js",
+    "js/features/settings.js",
     "js/core/start.js"
   ],
   "vendors": {

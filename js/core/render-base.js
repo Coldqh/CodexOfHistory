@@ -1,6 +1,6 @@
 /* Codex v1.1 — enhancement and base render loop */
 function initEnhancements(){
-  const prefersReduced=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const prefersReduced=window.matchMedia('(prefers-reduced-motion: reduce)').matches || document.documentElement.dataset.motion==='reduced';
   if(!prefersReduced){
     document.querySelectorAll('.tilt:not(.lock)').forEach(el=>{
       el.addEventListener('pointermove',e=>{
@@ -20,7 +20,7 @@ function initEnhancements(){
 function render(){
   applyTheme();
   destroyMaps();
-  document.getElementById('app').innerHTML=({home,campaign,mission:missionScreen,collection,detail,quiz,map:mapScreen,profile}[state.tab]||home)();
+  document.getElementById('app').innerHTML=({home,campaign,mission:missionScreen,collection,detail,quiz,map:mapScreen,profile,settings:settingsScreen}[state.tab]||home)();
   requestAnimationFrame(()=>{initEnhancements();initMapsForView();});
 }
 

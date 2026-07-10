@@ -33,6 +33,6 @@ req(daily.session?.review_cards>0,'Daily learning: review_cards должен б�
 req(daily.session?.pass_percent>=0&&daily.session?.pass_percent<=100,'Daily learning: некорректный pass_percent');
 const referenced=new Set([...relations.flatMap(r=>[r.source,r.target]),...campaign.nodes.flatMap(m=>[...(m.cards||[]),...(m.unlockCards||[])]),...pools.pools.flatMap(p=>p.cardIds)]);
 for(const c of cards)if(!referenced.has(c.id))warnings.push(`${c.id}: карточка не связана с кампанией, пулом или графом`);
-console.log(`Codex Content Validator v1.2`);console.log(`Карточки: ${cards.length}; связи: ${relations.length}; миссии: ${campaign.nodes.length}; пулы: ${pools.pools.length}; личные истории: ${Object.keys(stories).length}; интервалы: ${daily.interval_days.join('→')} дней`);
+console.log(`Codex Content Validator v${manifest.version}`);console.log(`Карточки: ${cards.length}; связи: ${relations.length}; миссии: ${campaign.nodes.length}; пулы: ${pools.pools.length}; личные истории: ${Object.keys(stories).length}; интервалы: ${daily.interval_days.join('→')} дней`);
 if(warnings.length){console.log(`\nПредупреждения (${warnings.length}):`);warnings.forEach(x=>console.log('  - '+x));}
 if(errors.length){console.error(`\nОшибки (${errors.length}):`);errors.forEach(x=>console.error('  - '+x));process.exit(1);}console.log('\n✓ Контент валиден');

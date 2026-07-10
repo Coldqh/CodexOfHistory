@@ -178,7 +178,8 @@ resetProgress=function(){
 };
 render=function(){
   dailySyncSchedule();syncDiscovery();applyTheme();destroyMaps();
-  document.getElementById('app').innerHTML=({home,daily:dailyScreen,campaign,mission:missionScreen,collection,detail,quiz,map:mapScreen,profile,storyline:storylineScreen}[state.tab]||home)();
+  applyPreferences?.();
+  document.getElementById('app').innerHTML=({home,daily:dailyScreen,campaign,mission:missionScreen,collection,detail,quiz,map:mapScreen,profile,storyline:storylineScreen,settings:settingsScreen}[state.tab]||home)();
   requestAnimationFrame(()=>{initEnhancements();initMapsForView();});
 };
 

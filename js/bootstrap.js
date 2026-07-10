@@ -1,27 +1,36 @@
-/* Codex of History v1.2 — data-first static bootstrap */
+/* Codex of History v1.3 — versioned static bootstrap and forced refresh support */
 (() => {
   const app = document.getElementById('app');
   const showBoot = (title, text, isError=false) => {
-    app.innerHTML = `<main class="boot-screen ${isError?'boot-error':''}"><div class="boot-mark">C</div><div><div class="eyebrow">Content Engine v1.2</div><h1>${title}</h1><p>${text}</p></div></main>`;
+    app.innerHTML = `<main class="boot-screen ${isError?'boot-error':''}"><div class="boot-mark">C</div><div><div class="eyebrow">Content Engine v1.3</div><h1>${title}</h1><p>${text}</p></div></main>`;
   };
-  const fetchJson = async path => {
-    const response = await fetch(path, {cache:'no-cache'});
+  const refreshToken=sessionStorage.getItem('codex_force_refresh')||'';
+  const addVersion=(path,version='')=>{
+    if(/^https?:/i.test(path)) return path;
+    const url=new URL(path,location.href);
+    if(version) url.searchParams.set('v',version);
+    if(refreshToken) url.searchParams.set('refresh',refreshToken);
+    return url.href;
+  };
+  const fetchJson = async (path,version='') => {
+    const response = await fetch(addVersion(path,version), {cache:'no-store'});
     if (!response.ok) throw new Error(`${path}: HTTP ${response.status}`);
     return response.json();
   };
-  const loadScript = path => new Promise((resolve,reject) => {
-    const script=document.createElement('script'); script.src=path; script.defer=false;
+  const loadScript = (path,version='') => new Promise((resolve,reject) => {
+    const script=document.createElement('script'); script.src=addVersion(path,version); script.defer=false;
     script.onload=resolve; script.onerror=()=>reject(new Error(`Не загружен модуль ${path}`)); document.body.appendChild(script);
   });
   async function boot(){
     try {
       showBoot('Открываем Codex','Загружаем карточки, кампанию и игровые системы…');
       const manifest=await fetchJson('data/content-manifest.json');
+      const version=manifest.version||'1.3.0';
       const d=manifest.datasets;
-      window.CODEX_VENDOR_READY={leaflet:manifest.vendors?.leaflet?loadScript(manifest.vendors.leaflet).catch(error=>{console.warn('[Codex vendor]',error);return false;}):Promise.resolve(false)};
+      window.CODEX_VENDOR_READY={leaflet:manifest.vendors?.leaflet?loadScript(manifest.vendors.leaflet,version).catch(error=>{console.warn('[Codex vendor]',error);return false;}):Promise.resolve(false)};
       const [cardSets,relations,campaign,pools,quizzes,stories,mastery,packs,collection,maps,daily]=await Promise.all([
-        Promise.all(d.cards.map(fetchJson)),fetchJson(d.relations),fetchJson(d.campaign),fetchJson(d.pools),fetchJson(d.quizzes),
-        fetchJson(d.stories),fetchJson(d.mastery),fetchJson(d.packs),fetchJson(d.collection),fetchJson(d.maps),fetchJson(d.daily)
+        Promise.all(d.cards.map(path=>fetchJson(path,version))),fetchJson(d.relations,version),fetchJson(d.campaign,version),fetchJson(d.pools,version),fetchJson(d.quizzes,version),
+        fetchJson(d.stories,version),fetchJson(d.mastery,version),fetchJson(d.packs,version),fetchJson(d.collection,version),fetchJson(d.maps,version),fetchJson(d.daily,version)
       ]);
       const cards=cardSets.flat();
       window.CODEX_MANIFEST=manifest;
@@ -34,7 +43,8 @@
         missionsById:new Map(campaign.nodes.map(x=>[x.id,x])),
         poolsById:new Map(pools.pools.map(x=>[x.id,x]))
       };
-      for(const path of manifest.scripts) await loadScript(path);
+      for(const path of manifest.scripts) await loadScript(path,version);
+      if(refreshToken) sessionStorage.removeItem('codex_force_refresh');
     } catch(error) {
       console.error('[Codex boot]',error);
       const hint=location.protocol==='file:'?'Открой проект через GitHub Pages или локальный HTTP-сервер, а не двойным кликом по index.html.':'Проверь, что все файлы патча распакованы в корень репозитория.';

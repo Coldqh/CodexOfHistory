@@ -1,4 +1,4 @@
-/* Codex v1.1 — runtime configuration, state and theme */
+/* Codex v1.3 — runtime configuration, state and theme */
 const STORE = 'codex_history_v02_ru';
 const TYPE_META = {
   PERSON:['♛','Личность'], EVENT:['✦','Событие'], BATTLE:['⚔','Битва'],
@@ -14,7 +14,8 @@ const NAV = [
 const PAGE_META = {
   home:['Обзор','Твой исторический мир'], campaign:['Кампания','Рождение Рима'], mission:['Миссия','Глава I'],
   collection:['Архив','Коллекция знаний'], detail:['Карточка','Историческое досье'],
-  quiz:['Испытание','Проверка знаний'], map:['Атлас','Карта кампании'], profile:['Профиль','Личный прогресс']
+  quiz:['Испытание','Проверка знаний'], map:['Атлас','Карта кампании'], profile:['Профиль','Личный прогресс'],
+  settings:['Система','Настройки приложения']
 };
 const PASS_PERCENT = 70;
 const initial = {

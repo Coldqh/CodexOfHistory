@@ -1,0 +1,137 @@
+[
+  {
+    "id": "ERA_DAWN",
+    "order": 1,
+    "title": "Рождение цивилизаций",
+    "subtitle": "Города, письменность и первые государства",
+    "dateLabel": "ок. 4500–2000 до н. э.",
+    "startYear": -4500,
+    "endYear": -2000,
+    "accent": "#c48b52",
+    "icon": "𒀭",
+    "cover": "assets/eras/dawn.svg",
+    "description": "Переход от крупных поселений к городам, храмовым хозяйствам, письменности и ранней царской власти.",
+    "campaignIds": [
+      "MESOPOTAMIA_DAWN",
+      "EGYPT_EARLY",
+      "INDUS",
+      "CHINA_EARLY"
+    ]
+  },
+  {
+    "id": "ERA_BRONZE",
+    "order": 2,
+    "title": "Царства бронзового века",
+    "subtitle": "Державы, дворцы и международный мир",
+    "dateLabel": "ок. 2000–1200 до н. э.",
+    "startYear": -2000,
+    "endYear": -1200,
+    "accent": "#b8734d",
+    "icon": "◇",
+    "cover": "assets/eras/bronze.svg",
+    "description": "Вавилон, Египет, хетты и Эгейский мир образуют связанную дипломатией и торговлей систему.",
+    "campaignIds": [
+      "BABYLON_OLD",
+      "EGYPT_MIDDLE_NEW",
+      "HITTITES",
+      "AEGEAN_BRONZE",
+      "BRONZE_INTERNATIONAL",
+      "BRONZE_COLLAPSE"
+    ]
+  },
+  {
+    "id": "ERA_IRON",
+    "order": 3,
+    "title": "Железный век",
+    "subtitle": "Новые народы, империи и религиозные традиции",
+    "dateLabel": "ок. 1200–550 до н. э.",
+    "startYear": -1200,
+    "endYear": -550,
+    "accent": "#8f7862",
+    "icon": "⚒",
+    "cover": "assets/eras/iron.svg",
+    "description": "После бронзового кризиса возникают новые державы, алфавиты, полисы и религиозные общины.",
+    "campaignIds": [
+      "ASSYRIA_BABYLON",
+      "PHOENICIANS",
+      "ISRAEL_JUDAH",
+      "GREECE_ARCHAIC",
+      "ZHOU_WARRING",
+      "INDIA_VEDIC"
+    ]
+  },
+  {
+    "id": "ERA_CLASSICAL",
+    "order": 4,
+    "title": "Классический мир",
+    "subtitle": "Персия, Греция и Македония",
+    "dateLabel": "ок. 550–323 до н. э.",
+    "startYear": -550,
+    "endYear": -323,
+    "accent": "#7b91a9",
+    "icon": "Ω",
+    "cover": "assets/eras/classical.svg",
+    "description": "Крупные империи и полисы сталкиваются, создавая политические, военные и философские модели классической эпохи.",
+    "campaignIds": [
+      "PERSIA",
+      "GREECE_CLASSICAL",
+      "ALEXANDER"
+    ]
+  },
+  {
+    "id": "ERA_HELLENISTIC_ROMAN",
+    "order": 5,
+    "title": "Эллинистический и римский мир",
+    "subtitle": "От диадохов к средиземноморской империи",
+    "dateLabel": "323 до н. э. – III век н. э.",
+    "startYear": -323,
+    "endYear": 250,
+    "accent": "#a26755",
+    "icon": "SPQR",
+    "cover": "assets/eras/hellenistic.svg",
+    "description": "Эллинистические царства, Рим, Маурьи, Хань и евразийские торговые сети сосуществуют и влияют друг на друга.",
+    "campaignIds": [
+      "HELLENISTIC",
+      "ROME_CAMPAIGN",
+      "INDIA_MAURYA",
+      "HAN",
+      "STEPPE_SILK"
+    ]
+  },
+  {
+    "id": "ERA_LATE_ANTIQUITY",
+    "order": 6,
+    "title": "Поздняя Античность",
+    "subtitle": "Религии, реформы и распад старых империй",
+    "dateLabel": "III–VII века н. э.",
+    "startYear": 250,
+    "endYear": 650,
+    "accent": "#75658d",
+    "icon": "☧",
+    "cover": "assets/eras/late.svg",
+    "description": "Рим и Иран меняются, христианство становится мировой религией, а Евразия входит в новую политическую эпоху.",
+    "campaignIds": [
+      "LATE_ANTIQUITY",
+      "SASANIAN",
+      "EARLY_CHRISTIANITY",
+      "GUPTA",
+      "CHINA_POST_HAN"
+    ]
+  },
+  {
+    "id": "ERA_TRANSITION",
+    "order": 7,
+    "title": "Переход к Средневековью",
+    "subtitle": "Новый мир VII–VIII веков",
+    "dateLabel": "ок. 600–750 годы н. э.",
+    "startYear": 600,
+    "endYear": 750,
+    "accent": "#5f7f72",
+    "icon": "☾",
+    "cover": "assets/eras/transition.svg",
+    "description": "Возникновение исламского мира завершает античный цикл и открывает средневековую глобальную историю.",
+    "campaignIds": [
+      "ISLAMIC_ORIGINS"
+    ]
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -26,7 +26,10 @@
       "data/lessons/rome/chapter_01.json",
       "data/lessons/rome/chapter_02.json",
       "data/lessons/rome/chapter_03.json"
-    ]
+    ],
+    "eras": "data/world/eras.json",
+    "campaignCatalog": "data/world/campaigns.json",
+    "worldTimeline": "data/world/timeline.json"
   },
   "scripts": [
     "js/maps/engine.js",
@@ -47,6 +50,7 @@
     "js/features/v1-8-learning-missions.js",
     "js/features/v1-9-theory.js",
     "js/features/v2-0-italy.js",
+    "js/features/v2-1-global-era.js",
     "js/core/start.js"
   ],
   "vendors": {

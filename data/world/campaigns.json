@@ -1,0 +1,1496 @@
+[
+  {
+    "id": "MESOPOTAMIA_DAWN",
+    "eraId": "ERA_DAWN",
+    "order": 1,
+    "title": "Месопотамия: первые города",
+    "subtitle": "От Убейда до Ура III",
+    "period": "ок. 4500–2000 до н. э.",
+    "chapterCount": 10,
+    "releasedChapters": 0,
+    "status": "NEXT",
+    "region": "Месопотамия",
+    "description": "Новая стартовая кампания проекта: происхождение города, государства, письма и царской власти.",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Земля между Тигром и Евфратом"
+      },
+      {
+        "number": 2,
+        "title": "Земледелие, каналы и поселения"
+      },
+      {
+        "number": 3,
+        "title": "Убейдский мир"
+      },
+      {
+        "number": 4,
+        "title": "Урукская городская революция"
+      },
+      {
+        "number": 5,
+        "title": "Храм, склад и управление"
+      },
+      {
+        "number": 6,
+        "title": "Рождение письменности"
+      },
+      {
+        "number": 7,
+        "title": "Мир шумерских городов"
+      },
+      {
+        "number": 8,
+        "title": "Цари, войны и ранние династии"
+      },
+      {
+        "number": 9,
+        "title": "Саргон и Аккадская держава"
+      },
+      {
+        "number": 10,
+        "title": "Ур III и конец первого цикла"
+      }
+    ]
+  },
+  {
+    "id": "EGYPT_EARLY",
+    "eraId": "ERA_DAWN",
+    "order": 2,
+    "title": "Египет: царство Нила",
+    "subtitle": "От додинастических культур до Первого переходного периода",
+    "period": "ок. 4500–2050 до н. э.",
+    "chapterCount": 10,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Египет",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Нил и пространство Египта"
+      },
+      {
+        "number": 2,
+        "title": "Додинастические культуры"
+      },
+      {
+        "number": 3,
+        "title": "Верхний и Нижний Египет"
+      },
+      {
+        "number": 4,
+        "title": "Объединение страны"
+      },
+      {
+        "number": 5,
+        "title": "Нармер и образ первого царя"
+      },
+      {
+        "number": 6,
+        "title": "Ранние династии"
+      },
+      {
+        "number": 7,
+        "title": "Джосер и ступенчатая пирамида"
+      },
+      {
+        "number": 8,
+        "title": "Великие пирамиды"
+      },
+      {
+        "number": 9,
+        "title": "Государство Древнего царства"
+      },
+      {
+        "number": 10,
+        "title": "Первый переходный период"
+      }
+    ]
+  },
+  {
+    "id": "INDUS",
+    "eraId": "ERA_DAWN",
+    "order": 3,
+    "title": "Индская цивилизация",
+    "subtitle": "Города, вода и нерасшифрованное письмо",
+    "period": "ок. 3300–1300 до н. э.",
+    "chapterCount": 7,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Южная Азия",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Поселения долины Инда"
+      },
+      {
+        "number": 2,
+        "title": "Возникновение городской системы"
+      },
+      {
+        "number": 3,
+        "title": "Хараппа и Мохенджо-Даро"
+      },
+      {
+        "number": 4,
+        "title": "Городское планирование и вода"
+      },
+      {
+        "number": 5,
+        "title": "Торговля, меры и печати"
+      },
+      {
+        "number": 6,
+        "title": "Общество и письменность"
+      },
+      {
+        "number": 7,
+        "title": "Упадок и преобразование городов"
+      }
+    ]
+  },
+  {
+    "id": "CHINA_EARLY",
+    "eraId": "ERA_DAWN",
+    "order": 4,
+    "title": "Ранний Китай",
+    "subtitle": "От региональных культур к Шан",
+    "period": "ок. 3000–1046 до н. э.",
+    "chapterCount": 8,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Китай",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Реки и региональные культуры"
+      },
+      {
+        "number": 2,
+        "title": "Первые укреплённые центры"
+      },
+      {
+        "number": 3,
+        "title": "Эрлитоу и вопрос Ся"
+      },
+      {
+        "number": 4,
+        "title": "Возникновение Шан"
+      },
+      {
+        "number": 5,
+        "title": "Столицы и царский двор"
+      },
+      {
+        "number": 6,
+        "title": "Бронза, война и ритуал"
+      },
+      {
+        "number": 7,
+        "title": "Гадательные кости"
+      },
+      {
+        "number": 8,
+        "title": "Падение Шан и приход Чжоу"
+      }
+    ]
+  },
+  {
+    "id": "BABYLON_OLD",
+    "eraId": "ERA_BRONZE",
+    "order": 5,
+    "title": "Вавилон и аморейские царства",
+    "subtitle": "Хаммурапи и старовавилонский мир",
+    "period": "ок. 2000–1595 до н. э.",
+    "chapterCount": 8,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Месопотамия",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "После падения Ура"
+      },
+      {
+        "number": 2,
+        "title": "Исин и Ларса"
+      },
+      {
+        "number": 3,
+        "title": "Аморейские династии"
+      },
+      {
+        "number": 4,
+        "title": "Возвышение Вавилона"
+      },
+      {
+        "number": 5,
+        "title": "Хаммурапи"
+      },
+      {
+        "number": 6,
+        "title": "Закон, суд и царская власть"
+      },
+      {
+        "number": 7,
+        "title": "Староассирийская торговля"
+      },
+      {
+        "number": 8,
+        "title": "Падение Старовавилонского царства"
+      }
+    ]
+  },
+  {
+    "id": "EGYPT_MIDDLE_NEW",
+    "eraId": "ERA_BRONZE",
+    "order": 6,
+    "title": "Египет: от Среднего к Новому царству",
+    "subtitle": "Империя фараонов",
+    "period": "ок. 2050–1070 до н. э.",
+    "chapterCount": 10,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Египет",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Новое объединение Египта"
+      },
+      {
+        "number": 2,
+        "title": "Среднее царство"
+      },
+      {
+        "number": 3,
+        "title": "Нубия и южная граница"
+      },
+      {
+        "number": 4,
+        "title": "Гиксосы и раскол"
+      },
+      {
+        "number": 5,
+        "title": "Изгнание гиксосов"
+      },
+      {
+        "number": 6,
+        "title": "Рождение империи"
+      },
+      {
+        "number": 7,
+        "title": "Хатшепсут"
+      },
+      {
+        "number": 8,
+        "title": "Тутмос III"
+      },
+      {
+        "number": 9,
+        "title": "Эхнатон"
+      },
+      {
+        "number": 10,
+        "title": "Рамсес II и позднее Новое царство"
+      }
+    ]
+  },
+  {
+    "id": "HITTITES",
+    "eraId": "ERA_BRONZE",
+    "order": 7,
+    "title": "Хетты и Анатолия",
+    "subtitle": "Империя Хаттусы",
+    "period": "ок. 1650–1200 до н. э.",
+    "chapterCount": 7,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Анатолия",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Народы и города Анатолии"
+      },
+      {
+        "number": 2,
+        "title": "Возникновение Хеттского царства"
+      },
+      {
+        "number": 3,
+        "title": "Хаттуса"
+      },
+      {
+        "number": 4,
+        "title": "Царь, знать и армия"
+      },
+      {
+        "number": 5,
+        "title": "Хеттская экспансия"
+      },
+      {
+        "number": 6,
+        "title": "Соперничество с Египтом"
+      },
+      {
+        "number": 7,
+        "title": "Распад державы"
+      }
+    ]
+  },
+  {
+    "id": "AEGEAN_BRONZE",
+    "eraId": "ERA_BRONZE",
+    "order": 8,
+    "title": "Минойцы и микенцы",
+    "subtitle": "Дворцы Эгейского мира",
+    "period": "ок. 2000–1100 до н. э.",
+    "chapterCount": 8,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Эгейский мир",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Крит и Эгейское море"
+      },
+      {
+        "number": 2,
+        "title": "Минойские дворцы"
+      },
+      {
+        "number": 3,
+        "title": "Кносс и хозяйство"
+      },
+      {
+        "number": 4,
+        "title": "Морская торговля"
+      },
+      {
+        "number": 5,
+        "title": "Возникновение микенского мира"
+      },
+      {
+        "number": 6,
+        "title": "Дворцы, воины и письмо Б"
+      },
+      {
+        "number": 7,
+        "title": "Троя и память"
+      },
+      {
+        "number": 8,
+        "title": "Разрушение дворцовой системы"
+      }
+    ]
+  },
+  {
+    "id": "BRONZE_INTERNATIONAL",
+    "eraId": "ERA_BRONZE",
+    "order": 9,
+    "title": "Международный мир бронзового века",
+    "subtitle": "Дипломатия великих царей",
+    "period": "ок. 1600–1200 до н. э.",
+    "chapterCount": 8,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Восточное Средиземноморье",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Великие державы"
+      },
+      {
+        "number": 2,
+        "title": "Дипломатия царских домов"
+      },
+      {
+        "number": 3,
+        "title": "Амарнские письма"
+      },
+      {
+        "number": 4,
+        "title": "Торговля металлами"
+      },
+      {
+        "number": 5,
+        "title": "Ханаанские города"
+      },
+      {
+        "number": 6,
+        "title": "Кипр и морские маршруты"
+      },
+      {
+        "number": 7,
+        "title": "Войны великих царей"
+      },
+      {
+        "number": 8,
+        "title": "Хрупкость системы"
+      }
+    ]
+  },
+  {
+    "id": "BRONZE_COLLAPSE",
+    "eraId": "ERA_BRONZE",
+    "order": 10,
+    "title": "Катастрофа бронзового века",
+    "subtitle": "Конец дворцового мира",
+    "period": "ок. 1250–1100 до н. э.",
+    "chapterCount": 7,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Восточное Средиземноморье",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Мир около 1200 года"
+      },
+      {
+        "number": 2,
+        "title": "Разрушение микенских дворцов"
+      },
+      {
+        "number": 3,
+        "title": "Падение хеттов"
+      },
+      {
+        "number": 4,
+        "title": "Кризис торговли"
+      },
+      {
+        "number": 5,
+        "title": "Народы моря"
+      },
+      {
+        "number": 6,
+        "title": "Египет перед кризисом"
+      },
+      {
+        "number": 7,
+        "title": "Почему бронзовый век закончился"
+      }
+    ]
+  },
+  {
+    "id": "ASSYRIA_BABYLON",
+    "eraId": "ERA_IRON",
+    "order": 11,
+    "title": "Ассирия и Вавилон",
+    "subtitle": "Империи железного века",
+    "period": "ок. 900–539 до н. э.",
+    "chapterCount": 10,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Месопотамия",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Мир после коллапса"
+      },
+      {
+        "number": 2,
+        "title": "Возрождение Ассирии"
+      },
+      {
+        "number": 3,
+        "title": "Армия и администрация"
+      },
+      {
+        "number": 4,
+        "title": "Завоевания и депортации"
+      },
+      {
+        "number": 5,
+        "title": "Ассирийские столицы"
+      },
+      {
+        "number": 6,
+        "title": "Ашшурбанапал"
+      },
+      {
+        "number": 7,
+        "title": "Сопротивление империи"
+      },
+      {
+        "number": 8,
+        "title": "Падение Ниневии"
+      },
+      {
+        "number": 9,
+        "title": "Нововавилонское царство"
+      },
+      {
+        "number": 10,
+        "title": "Навуходоносор и падение Вавилона"
+      }
+    ]
+  },
+  {
+    "id": "PHOENICIANS",
+    "eraId": "ERA_IRON",
+    "order": 12,
+    "title": "Финикийцы",
+    "subtitle": "Море, алфавит и колонии",
+    "period": "ок. 1200–500 до н. э.",
+    "chapterCount": 7,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Левант и Средиземноморье",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Города побережья"
+      },
+      {
+        "number": 2,
+        "title": "Тир, Сидон и Библ"
+      },
+      {
+        "number": 3,
+        "title": "Корабли и торговля"
+      },
+      {
+        "number": 4,
+        "title": "Финикийский алфавит"
+      },
+      {
+        "number": 5,
+        "title": "Колонии Запада"
+      },
+      {
+        "number": 6,
+        "title": "Возникновение Карфагена"
+      },
+      {
+        "number": 7,
+        "title": "Финикийское наследие"
+      }
+    ]
+  },
+  {
+    "id": "ISRAEL_JUDAH",
+    "eraId": "ERA_IRON",
+    "order": 13,
+    "title": "Израиль, Иудея и Левант",
+    "subtitle": "Царства, тексты и империи",
+    "period": "ок. 1200–332 до н. э.",
+    "chapterCount": 9,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Левант",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Ханаан после бронзового века"
+      },
+      {
+        "number": 2,
+        "title": "Ранние поселения"
+      },
+      {
+        "number": 3,
+        "title": "Саул, Давид и Соломон"
+      },
+      {
+        "number": 4,
+        "title": "Два царства"
+      },
+      {
+        "number": 5,
+        "title": "Религия и тексты"
+      },
+      {
+        "number": 6,
+        "title": "Ассирийское завоевание"
+      },
+      {
+        "number": 7,
+        "title": "Иудея между империями"
+      },
+      {
+        "number": 8,
+        "title": "Вавилонский плен"
+      },
+      {
+        "number": 9,
+        "title": "Возвращение и община"
+      }
+    ]
+  },
+  {
+    "id": "GREECE_ARCHAIC",
+    "eraId": "ERA_IRON",
+    "order": 14,
+    "title": "Архаическая Греция",
+    "subtitle": "Полисы, колонии и реформы",
+    "period": "ок. 1100–500 до н. э.",
+    "chapterCount": 9,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Греция",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "После микенского мира"
+      },
+      {
+        "number": 2,
+        "title": "Полисы"
+      },
+      {
+        "number": 3,
+        "title": "Великая колонизация"
+      },
+      {
+        "number": 4,
+        "title": "Спарта"
+      },
+      {
+        "number": 5,
+        "title": "Афины до демократии"
+      },
+      {
+        "number": 6,
+        "title": "Гоплиты и фаланга"
+      },
+      {
+        "number": 7,
+        "title": "Тираны и аристократия"
+      },
+      {
+        "number": 8,
+        "title": "Солон"
+      },
+      {
+        "number": 9,
+        "title": "Рождение демократии"
+      }
+    ]
+  },
+  {
+    "id": "ZHOU_WARRING",
+    "eraId": "ERA_IRON",
+    "order": 15,
+    "title": "Чжоу и Сражающиеся царства",
+    "subtitle": "Мандат Неба и эпоха философов",
+    "period": "1046–221 до н. э.",
+    "chapterCount": 10,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Китай",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Завоевание Шан"
+      },
+      {
+        "number": 2,
+        "title": "Небесный мандат"
+      },
+      {
+        "number": 3,
+        "title": "Западная Чжоу"
+      },
+      {
+        "number": 4,
+        "title": "Ослабление царской власти"
+      },
+      {
+        "number": 5,
+        "title": "Вёсны и Осени"
+      },
+      {
+        "number": 6,
+        "title": "Конфуций"
+      },
+      {
+        "number": 7,
+        "title": "Даосские традиции"
+      },
+      {
+        "number": 8,
+        "title": "Сражающиеся царства"
+      },
+      {
+        "number": 9,
+        "title": "Реформы и бюрократия"
+      },
+      {
+        "number": 10,
+        "title": "Возвышение Цинь"
+      }
+    ]
+  },
+  {
+    "id": "INDIA_VEDIC",
+    "eraId": "ERA_IRON",
+    "order": 16,
+    "title": "Ведийская Индия",
+    "subtitle": "От племенных обществ к махаджанападам",
+    "period": "ок. 1500–500 до н. э.",
+    "chapterCount": 8,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Южная Азия",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "После Индской цивилизации"
+      },
+      {
+        "number": 2,
+        "title": "Раннее ведийское общество"
+      },
+      {
+        "number": 3,
+        "title": "Веды и ритуал"
+      },
+      {
+        "number": 4,
+        "title": "Племена и цари"
+      },
+      {
+        "number": 5,
+        "title": "Долина Ганга"
+      },
+      {
+        "number": 6,
+        "title": "Варны"
+      },
+      {
+        "number": 7,
+        "title": "Упанишады"
+      },
+      {
+        "number": 8,
+        "title": "Махаджанапады"
+      }
+    ]
+  },
+  {
+    "id": "PERSIA",
+    "eraId": "ERA_CLASSICAL",
+    "order": 17,
+    "title": "Персидская империя",
+    "subtitle": "Ахемениды и управление огромной державой",
+    "period": "ок. 550–330 до н. э.",
+    "chapterCount": 9,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Иран и Передняя Азия",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Мидяне и персы"
+      },
+      {
+        "number": 2,
+        "title": "Кир Великий"
+      },
+      {
+        "number": 3,
+        "title": "Завоевание Вавилона"
+      },
+      {
+        "number": 4,
+        "title": "Камбис и Египет"
+      },
+      {
+        "number": 5,
+        "title": "Дарий I"
+      },
+      {
+        "number": 6,
+        "title": "Сатрапии, налоги и дороги"
+      },
+      {
+        "number": 7,
+        "title": "Религия и идеология"
+      },
+      {
+        "number": 8,
+        "title": "Греко-персидские войны"
+      },
+      {
+        "number": 9,
+        "title": "Жизнь империи"
+      }
+    ]
+  },
+  {
+    "id": "GREECE_CLASSICAL",
+    "eraId": "ERA_CLASSICAL",
+    "order": 18,
+    "title": "Классическая Греция",
+    "subtitle": "От Марафона до Македонии",
+    "period": "499–338 до н. э.",
+    "chapterCount": 12,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Греция",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Ионийское восстание"
+      },
+      {
+        "number": 2,
+        "title": "Марафон"
+      },
+      {
+        "number": 3,
+        "title": "Фермопилы и Саламин"
+      },
+      {
+        "number": 4,
+        "title": "Афинская морская держава"
+      },
+      {
+        "number": 5,
+        "title": "Афинская демократия"
+      },
+      {
+        "number": 6,
+        "title": "Спарта и союз"
+      },
+      {
+        "number": 7,
+        "title": "Перикл"
+      },
+      {
+        "number": 8,
+        "title": "Пелопоннесская война"
+      },
+      {
+        "number": 9,
+        "title": "Кризис полисов"
+      },
+      {
+        "number": 10,
+        "title": "Философия и образование"
+      },
+      {
+        "number": 11,
+        "title": "Фиванская гегемония"
+      },
+      {
+        "number": 12,
+        "title": "Возвышение Македонии"
+      }
+    ]
+  },
+  {
+    "id": "ALEXANDER",
+    "eraId": "ERA_CLASSICAL",
+    "order": 19,
+    "title": "Александр Македонский",
+    "subtitle": "Завоевание Персии и рождение нового мира",
+    "period": "336–323 до н. э.",
+    "chapterCount": 7,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Македония и Азия",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Филипп II"
+      },
+      {
+        "number": 2,
+        "title": "Молодой Александр"
+      },
+      {
+        "number": 3,
+        "title": "Поход против Персии"
+      },
+      {
+        "number": 4,
+        "title": "Исс и падение Дария"
+      },
+      {
+        "number": 5,
+        "title": "Египет и Александрия"
+      },
+      {
+        "number": 6,
+        "title": "Центральная Азия и Индия"
+      },
+      {
+        "number": 7,
+        "title": "Смерть и раздел империи"
+      }
+    ]
+  },
+  {
+    "id": "HELLENISTIC",
+    "eraId": "ERA_HELLENISTIC_ROMAN",
+    "order": 20,
+    "title": "Эллинистический мир",
+    "subtitle": "Царства наследников Александра",
+    "period": "323–30 до н. э.",
+    "chapterCount": 9,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Восточное Средиземноморье",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Войны диадохов"
+      },
+      {
+        "number": 2,
+        "title": "Птолемеевский Египет"
+      },
+      {
+        "number": 3,
+        "title": "Селевкиды"
+      },
+      {
+        "number": 4,
+        "title": "Антигониды"
+      },
+      {
+        "number": 5,
+        "title": "Новые города"
+      },
+      {
+        "number": 6,
+        "title": "Александрия и знания"
+      },
+      {
+        "number": 7,
+        "title": "Армии"
+      },
+      {
+        "number": 8,
+        "title": "Культуры и эллинизм"
+      },
+      {
+        "number": 9,
+        "title": "Приход Рима"
+      }
+    ]
+  },
+  {
+    "id": "ROME_CAMPAIGN",
+    "eraId": "ERA_HELLENISTIC_ROMAN",
+    "order": 21,
+    "title": "Рим",
+    "subtitle": "От легендарного города к мировой империи",
+    "period": "VIII век до н. э. – V век н. э.",
+    "chapterCount": 12,
+    "releasedChapters": 3,
+    "status": "PLAYABLE",
+    "region": "Италия и Средиземноморье",
+    "description": "Текущая рабочая кампания. Первые три главы уже доступны и сохраняют весь прежний прогресс.",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Рождение Рима"
+      },
+      {
+        "number": 2,
+        "title": "Рождение Республики"
+      },
+      {
+        "number": 3,
+        "title": "Борьба за Италию"
+      },
+      {
+        "number": 4,
+        "title": "Пунические войны"
+      },
+      {
+        "number": 5,
+        "title": "Завоевание эллинистического мира"
+      },
+      {
+        "number": 6,
+        "title": "Как работала Республика"
+      },
+      {
+        "number": 7,
+        "title": "Гракхи и социальный кризис"
+      },
+      {
+        "number": 8,
+        "title": "Марий и Сулла"
+      },
+      {
+        "number": 9,
+        "title": "Цезарь и гражданская война"
+      },
+      {
+        "number": 10,
+        "title": "Август и Империя"
+      },
+      {
+        "number": 11,
+        "title": "Расцвет Империи"
+      },
+      {
+        "number": 12,
+        "title": "Кризис и падение Запада"
+      }
+    ]
+  },
+  {
+    "id": "INDIA_MAURYA",
+    "eraId": "ERA_HELLENISTIC_ROMAN",
+    "order": 22,
+    "title": "Индия: от Будды до Маурьев",
+    "subtitle": "Новые религии и первая большая империя",
+    "period": "ок. 600–185 до н. э.",
+    "chapterCount": 9,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Южная Азия",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Махаджанапады"
+      },
+      {
+        "number": 2,
+        "title": "Города и экономика"
+      },
+      {
+        "number": 3,
+        "title": "Будда"
+      },
+      {
+        "number": 4,
+        "title": "Джайнизм"
+      },
+      {
+        "number": 5,
+        "title": "Магадха"
+      },
+      {
+        "number": 6,
+        "title": "Александр в Индии"
+      },
+      {
+        "number": 7,
+        "title": "Чандрагупта Маурья"
+      },
+      {
+        "number": 8,
+        "title": "Ашока"
+      },
+      {
+        "number": 9,
+        "title": "Распад Маурьев"
+      }
+    ]
+  },
+  {
+    "id": "HAN",
+    "eraId": "ERA_HELLENISTIC_ROMAN",
+    "order": 23,
+    "title": "Империя Хань",
+    "subtitle": "Бюрократия, степь и Шёлковый путь",
+    "period": "206 до н. э. – 220 н. э.",
+    "chapterCount": 9,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Китай",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Объединение Цинь"
+      },
+      {
+        "number": 2,
+        "title": "Первый император"
+      },
+      {
+        "number": 3,
+        "title": "Падение Цинь"
+      },
+      {
+        "number": 4,
+        "title": "Возникновение Хань"
+      },
+      {
+        "number": 5,
+        "title": "У-ди"
+      },
+      {
+        "number": 6,
+        "title": "Войны с сюнну"
+      },
+      {
+        "number": 7,
+        "title": "Бюрократия и конфуцианство"
+      },
+      {
+        "number": 8,
+        "title": "Шёлковые пути"
+      },
+      {
+        "number": 9,
+        "title": "Кризис и падение Хань"
+      }
+    ]
+  },
+  {
+    "id": "STEPPE_SILK",
+    "eraId": "ERA_HELLENISTIC_ROMAN",
+    "order": 24,
+    "title": "Степь и Шёлковые пути",
+    "subtitle": "Кочевые державы и евразийский обмен",
+    "period": "ок. 700 до н. э. – III век н. э.",
+    "chapterCount": 7,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Евразия",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Евразийские степи"
+      },
+      {
+        "number": 2,
+        "title": "Скифы"
+      },
+      {
+        "number": 3,
+        "title": "Сарматы"
+      },
+      {
+        "number": 4,
+        "title": "Сюнну"
+      },
+      {
+        "number": 5,
+        "title": "Караванные маршруты"
+      },
+      {
+        "number": 6,
+        "title": "Города Центральной Азии"
+      },
+      {
+        "number": 7,
+        "title": "Товары, религии и болезни"
+      }
+    ]
+  },
+  {
+    "id": "LATE_ANTIQUITY",
+    "eraId": "ERA_LATE_ANTIQUITY",
+    "order": 25,
+    "title": "Поздняя Античность",
+    "subtitle": "Перестройка Римского мира",
+    "period": "III–VI века",
+    "chapterCount": 10,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Средиземноморье",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Кризис III века"
+      },
+      {
+        "number": 2,
+        "title": "Диоклетиан"
+      },
+      {
+        "number": 3,
+        "title": "Константин"
+      },
+      {
+        "number": 4,
+        "title": "Христианизация"
+      },
+      {
+        "number": 5,
+        "title": "Константинополь"
+      },
+      {
+        "number": 6,
+        "title": "Раздел Империи"
+      },
+      {
+        "number": 7,
+        "title": "Переселения"
+      },
+      {
+        "number": 8,
+        "title": "Падение Запада"
+      },
+      {
+        "number": 9,
+        "title": "Юстиниан"
+      },
+      {
+        "number": 10,
+        "title": "Конец античного Средиземноморья"
+      }
+    ]
+  },
+  {
+    "id": "SASANIAN",
+    "eraId": "ERA_LATE_ANTIQUITY",
+    "order": 26,
+    "title": "Сасанидский Иран",
+    "subtitle": "Последняя великая держава древнего Ирана",
+    "period": "224–651 годы",
+    "chapterCount": 7,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Иран",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Падение Парфии"
+      },
+      {
+        "number": 2,
+        "title": "Возникновение Сасанидов"
+      },
+      {
+        "number": 3,
+        "title": "Шахиншах и управление"
+      },
+      {
+        "number": 4,
+        "title": "Зороастризм"
+      },
+      {
+        "number": 5,
+        "title": "Войны с Римом"
+      },
+      {
+        "number": 6,
+        "title": "Хосров I"
+      },
+      {
+        "number": 7,
+        "title": "Последняя война и падение"
+      }
+    ]
+  },
+  {
+    "id": "EARLY_CHRISTIANITY",
+    "eraId": "ERA_LATE_ANTIQUITY",
+    "order": 27,
+    "title": "Раннее христианство",
+    "subtitle": "От движения в Иудее к мировой церкви",
+    "period": "I–V века",
+    "chapterCount": 8,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Средиземноморье",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Иудея римской эпохи"
+      },
+      {
+        "number": 2,
+        "title": "Иисус и движение"
+      },
+      {
+        "number": 3,
+        "title": "Апостолы"
+      },
+      {
+        "number": 4,
+        "title": "Павел"
+      },
+      {
+        "number": 5,
+        "title": "Городские общины"
+      },
+      {
+        "number": 6,
+        "title": "Гонения"
+      },
+      {
+        "number": 7,
+        "title": "Соборы и догматы"
+      },
+      {
+        "number": 8,
+        "title": "Государственная церковь"
+      }
+    ]
+  },
+  {
+    "id": "GUPTA",
+    "eraId": "ERA_LATE_ANTIQUITY",
+    "order": 28,
+    "title": "Индия эпохи Гуптов",
+    "subtitle": "Государство, культура и наука",
+    "period": "IV–VI века",
+    "chapterCount": 7,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Южная Азия",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "После Маурьев"
+      },
+      {
+        "number": 2,
+        "title": "Индо-греческие и кушанские государства"
+      },
+      {
+        "number": 3,
+        "title": "Возникновение Гуптов"
+      },
+      {
+        "number": 4,
+        "title": "Государство и общество"
+      },
+      {
+        "number": 5,
+        "title": "Религия и культура"
+      },
+      {
+        "number": 6,
+        "title": "Наука и литература"
+      },
+      {
+        "number": 7,
+        "title": "Упадок державы"
+      }
+    ]
+  },
+  {
+    "id": "CHINA_POST_HAN",
+    "eraId": "ERA_LATE_ANTIQUITY",
+    "order": 29,
+    "title": "Китай между Хань и Тан",
+    "subtitle": "Раздробленность, буддизм и новое объединение",
+    "period": "III–VII века",
+    "chapterCount": 9,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Китай",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Падение Хань"
+      },
+      {
+        "number": 2,
+        "title": "Троецарствие"
+      },
+      {
+        "number": 3,
+        "title": "Династия Цзинь"
+      },
+      {
+        "number": 4,
+        "title": "Север и Юг"
+      },
+      {
+        "number": 5,
+        "title": "Буддизм"
+      },
+      {
+        "number": 6,
+        "title": "Степные государства"
+      },
+      {
+        "number": 7,
+        "title": "Объединение Суй"
+      },
+      {
+        "number": 8,
+        "title": "Возникновение Тан"
+      },
+      {
+        "number": 9,
+        "title": "Новая великая держава"
+      }
+    ]
+  },
+  {
+    "id": "ISLAMIC_ORIGINS",
+    "eraId": "ERA_TRANSITION",
+    "order": 30,
+    "title": "Возникновение исламского мира",
+    "subtitle": "От Аравии к халифату",
+    "period": "VI–VIII века",
+    "chapterCount": 10,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Аравия и Ближний Восток",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Аравия до ислама"
+      },
+      {
+        "number": 2,
+        "title": "Мекка"
+      },
+      {
+        "number": 3,
+        "title": "Мухаммед"
+      },
+      {
+        "number": 4,
+        "title": "Первые мусульмане"
+      },
+      {
+        "number": 5,
+        "title": "Хиджра"
+      },
+      {
+        "number": 6,
+        "title": "Объединение Аравии"
+      },
+      {
+        "number": 7,
+        "title": "Праведные халифы"
+      },
+      {
+        "number": 8,
+        "title": "Завоевание Византии и Ирана"
+      },
+      {
+        "number": 9,
+        "title": "Омейяды"
+      },
+      {
+        "number": 10,
+        "title": "Мир после Античности"
+      }
+    ]
+  }
+]

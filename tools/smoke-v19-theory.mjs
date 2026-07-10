@@ -16,7 +16,7 @@ Object.assign(context,{CODEX_MANIFEST:manifest,CODEX_CONFIG:{mastery:read(d.mast
 context.CODEX_REGISTRY={cardsById:new Map(cards.map(x=>[x.id,x])),relationsByCard:new Map(cards.map(c=>[c.id,relations.filter(r=>r.source===c.id||r.target===c.id)])),missionsById:new Map(campaign.nodes.map(x=>[x.id,x])),poolsById:new Map(pools.pools.map(x=>[x.id,x])),lessonsByMission:new Map(Object.entries(lessons))};
 const ctx=vm.createContext(context);for(const script of manifest.scripts)vm.runInContext(fs.readFileSync(path.join(root,script),'utf8'),ctx,{filename:script});
 const assert=(v,m)=>{if(!v)throw new Error(m)};
-assert(manifest.version==='2.0.0','Версия не 2.0.0');
+assert(manifest.version==='2.1.0','Версия не 2.1.0');
 assert(Object.keys(lessons).length===campaign.nodes.length,'Каждая миссия должна иметь теорию');
 for(const [id,l] of Object.entries(lessons)){
   assert(l.theory,`${id}: нет theory`);

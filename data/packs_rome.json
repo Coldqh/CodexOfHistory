@@ -1,0 +1,10 @@
+{
+  "version":"0.8",
+  "rules":{"campaign_cards_in_random_packs":false,"duplicates_to_fragments":true,"first_slot_guaranteed_new_while_available":true},
+  "fragment_values":{"RARE":10,"EPIC":18,"LEGENDARY":34,"MYTHIC":60},
+  "craft_costs":{"RARE":80,"EPIC":120,"LEGENDARY":180,"MYTHIC":260},
+  "packs":[
+    {"id":"DAILY","title":"Архивный пак дня","drops":3,"cost":0,"cooldown":"calendar_day"},
+    {"id":"ROMAN","title":"Римский коллекционный пак","drops":4,"cost":60,"currency":"fragments"}
+  ]
+}

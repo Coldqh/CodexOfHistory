@@ -22,3 +22,5 @@ jobs:
       - run: node tools/smoke-v19-theory.mjs
 
       - run: node tools/smoke-v21-global.mjs
+
+      - run: node tools/smoke-v211-rarity.mjs

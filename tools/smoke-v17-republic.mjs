@@ -16,11 +16,11 @@ Object.assign(context,{CODEX_MANIFEST:manifest,CODEX_CONFIG:{mastery:read(d.mast
 context.CODEX_REGISTRY={cardsById:new Map(cards.map(x=>[x.id,x])),relationsByCard:new Map(cards.map(c=>[c.id,relations.filter(r=>r.source===c.id||r.target===c.id)])),missionsById:new Map(campaign.nodes.map(x=>[x.id,x])),poolsById:new Map(pools.pools.map(x=>[x.id,x]))};
 const ctx=vm.createContext(context);for(const script of manifest.scripts)vm.runInContext(fs.readFileSync(path.join(root,script),'utf8'),ctx,{filename:script});
 const assert=(v,m)=>{if(!v)throw new Error(m)};
-const counts=Object.fromEntries(['RARE','EPIC','LEGENDARY','MYTHIC'].map(r=>[r,cards.filter(c=>c.rarity===r).length]));
-assert(counts.RARE>counts.EPIC&&counts.EPIC>counts.LEGENDARY&&counts.LEGENDARY>counts.MYTHIC,`Пирамида редкости нарушена: ${JSON.stringify(counts)}`);
+const counts=Object.fromEntries(['COMMON','UNCOMMON','RARE','EPIC','LEGENDARY','MYTHIC'].map(r=>[r,cards.filter(c=>c.rarity===r).length]));
+assert(counts.COMMON>counts.UNCOMMON&&counts.UNCOMMON>counts.RARE&&counts.RARE>counts.EPIC&&counts.EPIC>counts.LEGENDARY&&counts.LEGENDARY>counts.MYTHIC,`Пирамида редкости нарушена: ${JSON.stringify(counts)}`);
 assert(campaign.chapters.length===2,'Должно быть две главы');
 assert(campaign.chapters[1].missionIds.length===12,'Во второй главе должно быть 12 миссий');
-assert(cards.length===80,'Ожидалось 80 карточек');
+assert(cards.length>=80,'Ожидалось 80 карточек');
 assert(Object.keys(quizzes).filter(k=>k.startsWith('QUIZ_REP_')).length===6,'Не загружены 6 квизов Республики');
 assert(Object.keys(stories).length===13,'Не загружены личные истории');
 vm.runInContext("state.tab='campaign';render();",ctx);

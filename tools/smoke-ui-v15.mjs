@@ -17,7 +17,7 @@ context.CODEX_REGISTRY={cardsById:new Map(cards.map(x=>[x.id,x])),relationsByCar
 const ctx=vm.createContext(context);
 for(const script of manifest.scripts)vm.runInContext(fs.readFileSync(path.join(root,script),'utf8'),ctx,{filename:script});
 const assert=(v,m)=>{if(!v)throw new Error(m)};
-assert(manifest.version==='2.1.0','Версия не обновлена до 2.1.0');
+assert(manifest.version==='2.1.1','Версия не обновлена до 2.1.0');
 assert(cards.every(c=>c.source?.type==='wikipedia'&&c.source.url),'Не у всех карточек есть Wikipedia source');
 vm.runInContext("state.tab='home';render();",ctx);
 assert(!app.innerHTML.includes('title="Принудительно обновить"'),'Кнопка обновления осталась сверху');

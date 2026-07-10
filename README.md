@@ -1,4 +1,4 @@
-# Codex of History v2.1.0
+# Codex of History v2.1.1
 
 ## Global Era System
 
@@ -21,3 +21,12 @@ python -m http.server 8000
 ```
 
 Открой `http://localhost:8000`.
+
+
+## v2.1.1 — Common & Uncommon Rarity Expansion
+
+- Добавлены редкости Common и Uncommon.
+- Римский каталог расширен со 130 до 200 карточек.
+- Добавлено 70 локальных карт о топографии, семье, культах, праве, союзниках, дорогах, народах и армии.
+- Итоговая пирамида: 80 Common → 55 Uncommon → 36 Rare → 19 Epic → 8 Legendary → 2 Mythic.
+- Обновлены паки, фрагменты, крафт, pity-система, фильтры и валидатор.

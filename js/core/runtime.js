@@ -3,9 +3,11 @@ const STORE = 'codex_history_v02_ru';
 const TYPE_META = {
   PERSON:['♛','Личность'], EVENT:['✦','Событие'], BATTLE:['⚔','Битва'],
   STATE:['◈','Государство'], FACTION:['⌂','Институт'], CITY:['⌖','Место'],
-  CULTURE:['◌','Народ / культура'], ARTIFACT:['◇','Артефакт'], RELIGION:['✹','Религия']
+  CULTURE:['◌','Народ / культура'], PEOPLE:['◌','Народ'], REGION:['⌖','Регион'], ARTIFACT:['◇','Артефакт'], RELIGION:['✹','Религия'],
+  TERM:['§','Понятие'], OFFICE:['⌂','Должность'], ORGANIZATION:['⚑','Организация'], LAW:['¶','Закон'], ROAD:['⇢','Дорога'], SYSTEM:['◎','Система'], WAR:['⚔','Война']
 };
-const RARITY_META = {RARE:'Редкая', EPIC:'Эпическая', LEGENDARY:'Легендарная', MYTHIC:'Мифическая'};
+const RARITY_ORDER=['COMMON','UNCOMMON','RARE','EPIC','LEGENDARY','MYTHIC'];
+const RARITY_META = {COMMON:'Обычная',UNCOMMON:'Необычная',RARE:'Редкая',EPIC:'Эпическая',LEGENDARY:'Легендарная',MYTHIC:'Мифическая'};
 const STAT_LABELS = {influence:'Влияние', complexity:'Сложность', legacy:'Наследие', military:'Война', culture:'Культура', politics:'Политика', religion:'Религия', economy:'Экономика', connections:'Связи'};
 const NAV = [
   ['home','⌂','Главная'], ['campaign','♜','Кампания'], ['collection','▦','Коллекция'],

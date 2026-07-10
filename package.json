@@ -1,19 +1,20 @@
 {
   "name": "codex-of-history",
   "private": true,
-  "version": "2.1.0",
+  "version": "2.1.1",
   "type": "module",
   "scripts": {
     "validate": "node tools/validate-content.mjs",
     "smoke": "node tools/smoke-daily.mjs",
     "smoke:settings": "node tools/smoke-settings.mjs",
-    "test": "node tools/validate-content.mjs && node tools/smoke-daily.mjs && node tools/smoke-settings.mjs && node tools/smoke-ui-v15.mjs && node tools/smoke-ui-v16.mjs && node tools/smoke-v18-learning.mjs && node tools/smoke-catalog-v181.mjs && node tools/smoke-v19-theory.mjs && node tools/smoke-v20-italy.mjs && node tools/smoke-v21-global.mjs",
+    "test": "node tools/validate-content.mjs && node tools/smoke-daily.mjs && node tools/smoke-settings.mjs && node tools/smoke-ui-v15.mjs && node tools/smoke-ui-v16.mjs && node tools/smoke-v18-learning.mjs && node tools/smoke-catalog-v181.mjs && node tools/smoke-v19-theory.mjs && node tools/smoke-v20-italy.mjs && node tools/smoke-v21-global.mjs && node tools/smoke-v211-rarity.mjs",
     "smoke:ui": "node tools/smoke-ui-v15.mjs",
     "test:v16": "node tools/smoke-ui-v16.mjs",
     "test:v17": "node tools/smoke-v17-republic.mjs",
     "test:v18": "node tools/smoke-v18-learning.mjs && node tools/smoke-catalog-v181.mjs",
     "test:v19": "node tools/smoke-v19-theory.mjs",
     "test:v20": "node tools/smoke-v20-italy.mjs",
-    "test:v21": "node tools/smoke-v21-global.mjs"
+    "test:v21": "node tools/smoke-v21-global.mjs",
+    "test:v211": "node tools/smoke-v211-rarity.mjs"
   }
 }

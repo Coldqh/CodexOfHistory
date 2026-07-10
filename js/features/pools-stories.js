@@ -1,10 +1,10 @@
 /* Codex v1.6 — campaign pools and personal stories */
 const V09_RARITY_WEIGHTS=CODEX_CONFIG.packs.rarityWeights;
-const V09_RARITY_RANK={RARE:1,EPIC:2,LEGENDARY:3,MYTHIC:4};
+const V09_RARITY_RANK={COMMON:1,UNCOMMON:2,RARE:3,EPIC:4,LEGENDARY:5,MYTHIC:6};
 PAGE_META.storyline=['Личная история','Архивный квест'];
 state.activeCampaign=state.activeCampaign||'ROME';
 state.collectionMode=state.collectionMode||'ALL';
-state.packPity=state.packPity||{epic:0,legendary:0};
+state.packPity={uncommon:0,rare:0,epic:0,legendary:0,...(state.packPity||{})};
 state.personalStoryProgress=state.personalStoryProgress||{};
 state.activeStoryline=state.activeStoryline||null;
 state.poolUnlockModal=null;
@@ -38,7 +38,7 @@ function storylineForCard(id){return Object.values(PERSONAL_STORIES).find(s=>s.c
 function storyProgress(id){return state.personalStoryProgress[id]||{completed:[],finished:false};}
 function storyFinished(id){return !!storyProgress(id).finished;}
 function personalStoriesAvailable(){return Object.values(PERSONAL_STORIES).filter(s=>isUnlocked(s.cardId));}
-function rarityDepth(r){return ({RARE:'Короткая история',EPIC:'Цепочка заданий',LEGENDARY:'Большая личная линия',MYTHIC:'Боковая глава'})[r]||'Личная история';}
+function rarityDepth(r){return ({COMMON:'Архивная заметка',UNCOMMON:'Мини-задание',RARE:'Короткая история',EPIC:'Цепочка заданий',LEGENDARY:'Большая личная линия',MYTHIC:'Боковая глава'})[r]||'Личная история';}
 
 function syncDiscovery(){
   discover(state.unlocked);
@@ -55,7 +55,7 @@ function pickWeighted(items,minRank=1){
   for(const c of candidates){roll-=V09_RARITY_WEIGHTS[c.rarity]||1;if(roll<=0)return c;}return candidates[candidates.length-1];
 }
 function packPool(){return CARDS.filter(c=>isArchiveCard(c.id)&&archiveAvailable(c));}
-function pityMinimumRank(){if(state.packPity.legendary>=23)return 3;if(state.packPity.epic>=7)return 2;return 1;}
+function pityMinimumRank(){if(state.packPity.legendary>=49)return 5;if(state.packPity.epic>=19)return 4;if(state.packPity.rare>=7)return 3;if(state.packPity.uncommon>=2)return 2;return 1;}
 function claimPack(kind){
   const def=PACK_DEFS[kind];if(!def)return;
   if(!unlockedPools().length){showToast('Архив ещё закрыт','Заверши первую сюжетную миссию, чтобы открыть пул карточек.','♜');return;}
@@ -68,7 +68,7 @@ function claimPack(kind){
   if(locked.length)drops.push(pickWeighted(locked,pityMinimumRank()));
   while(drops.length<def.drops){const used=new Set(drops.map(c=>c.id));const unique=pool.filter(c=>!used.has(c.id));drops.push(pickWeighted(unique.length?unique:pool));}
   let gained=0;const result=drops.map(c=>{const fresh=!isUnlocked(c.id);if(fresh)unlock([c.id]);else{const value=fragmentValue(c);state.fragments+=value;gained+=value;}return{id:c.id,fresh,fragments:fresh?0:fragmentValue(c),storyId:storylineForCard(c.id)?.id||null};});
-  const best=Math.max(...drops.map(c=>V09_RARITY_RANK[c.rarity]||1));state.packPity.epic=best>=2?0:state.packPity.epic+1;state.packPity.legendary=best>=3?0:state.packPity.legendary+1;
+  const best=Math.max(...drops.map(c=>V09_RARITY_RANK[c.rarity]||1));state.packPity.uncommon=best>=2?0:state.packPity.uncommon+1;state.packPity.rare=best>=3?0:state.packPity.rare+1;state.packPity.epic=best>=4?0:state.packPity.epic+1;state.packPity.legendary=best>=5?0:state.packPity.legendary+1;
   if(kind==='DAILY')state.dailyPackDate=todayKey();
   state.packHistory.push({kind,date:new Date().toISOString(),campaign:state.activeCampaign,pools:unlockedPools().map(p=>p.id),drops:result});
   state.packModal={view:'result',kind,drops:result,gained};save();render();confetti();
@@ -159,7 +159,7 @@ profile=function(){let html=V09_profile();const finished=Object.values(PERSONAL_
 
 function resetProgress(){
   if(!confirm('Сбросить весь локальный прогресс?'))return;localStorage.removeItem(STORE);
-  state={...initial,quizResults:{},quizDone:[],missionsCompleted:[],mapTasks:{},timelineTasks:{},discovered:[...initial.unlocked],masteryChecks:{},fragments:0,packHistory:[],dailyPackDate:null,masteryFilter:'ALL',packModal:null,masterySession:null,activeCampaign:'ROME',collectionMode:'ALL',packPity:{epic:0,legendary:0},personalStoryProgress:{},activeStoryline:null,poolUnlockModal:null,storyChoice:null};
+  state={...initial,quizResults:{},quizDone:[],missionsCompleted:[],mapTasks:{},timelineTasks:{},discovered:[...initial.unlocked],masteryChecks:{},fragments:0,packHistory:[],dailyPackDate:null,masteryFilter:'ALL',packModal:null,masterySession:null,activeCampaign:'ROME',collectionMode:'ALL',packPity:{uncommon:0,rare:0,epic:0,legendary:0},personalStoryProgress:{},activeStoryline:null,poolUnlockModal:null,storyChoice:null};
   syncDiscovery();applyTheme();render();showToast('Прогресс сброшен','Можно начать кампанию заново','↺');
 }
 function render(){

@@ -59,14 +59,14 @@ req(worldCampaignIds.has('ROME_CAMPAIGN'),'Global world: отсутствует 
 req(worldCampaignIds.has('MESOPOTAMIA_DAWN'),'Global world: отсутствует Месопотамия');
 for(const m of worldTimeline)req(worldCampaignIds.has(m.campaignId),`Timeline: нет кампании ${m.campaignId}`);
 
-const rarityCounts=Object.fromEntries(['RARE','EPIC','LEGENDARY','MYTHIC'].map(r=>[r,cards.filter(c=>c.rarity===r).length]));
-req(rarityCounts.RARE>rarityCounts.EPIC&&rarityCounts.EPIC>rarityCounts.LEGENDARY&&rarityCounts.LEGENDARY>rarityCounts.MYTHIC,`Нарушена пирамида редкости: ${JSON.stringify(rarityCounts)}`);
+const rarityCounts=Object.fromEntries(['COMMON','UNCOMMON','RARE','EPIC','LEGENDARY','MYTHIC'].map(r=>[r,cards.filter(c=>c.rarity===r).length]));
+req(rarityCounts.COMMON>rarityCounts.UNCOMMON&&rarityCounts.UNCOMMON>rarityCounts.RARE&&rarityCounts.RARE>rarityCounts.EPIC&&rarityCounts.EPIC>rarityCounts.LEGENDARY&&rarityCounts.LEGENDARY>rarityCounts.MYTHIC,`Нарушена пирамида редкости: ${JSON.stringify(rarityCounts)}`);
 req(Array.isArray(daily.interval_days)&&daily.interval_days.length>0,'Daily learning: отсутствуют интервалы');
 req(daily.interval_days.every((x,i,a)=>Number.isInteger(x)&&x>0&&(i===0||x>a[i-1])),'Daily learning: интервалы должны быть положительными и возрастающими');
 req(daily.session?.review_cards>0,'Daily learning: review_cards должен быть больше нуля');
 req(daily.session?.pass_percent>=0&&daily.session?.pass_percent<=100,'Daily learning: некорректный pass_percent');
 const referenced=new Set([...relations.flatMap(r=>[r.source,r.target]),...campaign.nodes.flatMap(m=>[...(m.cards||[]),...(m.unlockCards||[])]),...pools.pools.flatMap(p=>p.cardIds)]);
 for(const c of cards)if(!referenced.has(c.id))warnings.push(`${c.id}: карточка не связана с кампанией, пулом или графом`);
-console.log(`Codex Content Validator v${manifest.version}`);console.log(`Эпохи: ${eras.length}; глобальные кампании: ${campaignCatalog.length}; мировые события: ${worldTimeline.length}`);console.log(`Карточки: ${cards.length}; связи: ${relations.length}; миссии: ${campaign.nodes.length}; пулы: ${pools.pools.length}; личные истории: ${Object.keys(stories).length}; уроки: ${Object.keys(lessons).length}; редкость R/E/L/M: ${rarityCounts.RARE}/${rarityCounts.EPIC}/${rarityCounts.LEGENDARY}/${rarityCounts.MYTHIC}; интервалы: ${daily.interval_days.join('→')} дней`);
+console.log(`Codex Content Validator v${manifest.version}`);console.log(`Эпохи: ${eras.length}; глобальные кампании: ${campaignCatalog.length}; мировые события: ${worldTimeline.length}`);console.log(`Карточки: ${cards.length}; связи: ${relations.length}; миссии: ${campaign.nodes.length}; пулы: ${pools.pools.length}; личные истории: ${Object.keys(stories).length}; уроки: ${Object.keys(lessons).length}; редкость C/U/R/E/L/M: ${rarityCounts.COMMON}/${rarityCounts.UNCOMMON}/${rarityCounts.RARE}/${rarityCounts.EPIC}/${rarityCounts.LEGENDARY}/${rarityCounts.MYTHIC}; интервалы: ${daily.interval_days.join('→')} дней`);
 if(warnings.length){console.log(`\nПредупреждения (${warnings.length}):`);warnings.forEach(x=>console.log('  - '+x));}
 if(errors.length){console.error(`\nОшибки (${errors.length}):`);errors.forEach(x=>console.error('  - '+x));process.exit(1);}console.log('\n✓ Контент валиден');

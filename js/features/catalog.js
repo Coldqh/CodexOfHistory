@@ -51,7 +51,7 @@ function catalogStatusBadge(c){
 }
 function catalogCard(c){
   const value=catalogState(c),story=storylineForCard(c.id);
-  return `<article class="catalog-card ${value.toLowerCase()} ${value==='OWNED'?'owned':''}" onclick="openCatalogCard('${c.id}')">
+  return `<article data-rarity="${c.rarity}" class="catalog-card ${value.toLowerCase()} ${value==='OWNED'?'owned':''}" onclick="openCatalogCard('${c.id}')">
     <div class="catalog-art">${imgTag(c)}<div class="catalog-shade"></div><span class="catalog-status">${catalogStatusBadge(c)}</span><span class="catalog-index">${cardNumber(c)}</span></div>
     <div class="catalog-copy">
       <div class="card-kicker"><span>${typeIcon(c.type)} ${typeLabel(c.type)}</span><span>${rarityLabel(c.rarity)}</span></div>
@@ -89,7 +89,7 @@ function catalogCardsForScope(scope=state.catalogScope){
 }
 function commonSearchControls(placeholder,withMastery=false){
   const types=['ALL',...new Set(CARDS.map(c=>c.type))];
-  const rarities=['ALL',...new Set(CARDS.map(c=>c.rarity))];
+  const rarities=['ALL',...RARITY_ORDER.filter(r=>CARDS.some(c=>c.rarity===r))];
   const mastery=withMastery?`<select onchange="setFilter('masteryFilter',this.value)"><option value="ALL">Все стадии</option>${MASTERY_FILTERS.slice(2).map(k=>`<option value="${k}" ${state.masteryFilter===k?'selected':''}>${MASTERY_META[k].label}</option>`).join('')}</select>`:'';
   return `<div class="search-row reveal"><div class="field-wrap"><input id="collection-search" placeholder="${placeholder}" value="${esc(state.search)}" oninput="updateSearch(this)"></div><select onchange="setFilter('filter',this.value)">${types.map(t=>`<option value="${t}" ${state.filter===t?'selected':''}>${t==='ALL'?'Все типы':typeLabel(t)}</option>`).join('')}</select><select onchange="setFilter('rarity',this.value)">${rarities.map(r=>`<option value="${r}" ${state.rarity===r?'selected':''}>${r==='ALL'?'Все редкости':rarityLabel(r)}</option>`).join('')}</select>${mastery}</div>`;
 }
@@ -150,7 +150,7 @@ profile=function(){
 function resetProgress(){
   if(!confirm('Сбросить весь локальный прогресс?'))return;
   localStorage.removeItem(STORE);
-  state={...initial,quizResults:{},quizDone:[],missionsCompleted:[],mapTasks:{},timelineTasks:{},discovered:[...initial.unlocked],masteryChecks:{},fragments:0,packHistory:[],dailyPackDate:null,masteryFilter:'ALL',packModal:null,masterySession:null,activeCampaign:'ROME',collectionMode:'ALL',collectionView:'ARCHIVE',catalogScope:'ALL',packPity:{epic:0,legendary:0},personalStoryProgress:{},activeStoryline:null,poolUnlockModal:null,storyChoice:null};
+  state={...initial,quizResults:{},quizDone:[],missionsCompleted:[],mapTasks:{},timelineTasks:{},discovered:[...initial.unlocked],masteryChecks:{},fragments:0,packHistory:[],dailyPackDate:null,masteryFilter:'ALL',packModal:null,masterySession:null,activeCampaign:'ROME',collectionMode:'ALL',collectionView:'ARCHIVE',catalogScope:'ALL',packPity:{uncommon:0,rare:0,epic:0,legendary:0},personalStoryProgress:{},activeStoryline:null,poolUnlockModal:null,storyChoice:null};
   syncDiscovery();applyTheme();render();showToast('Прогресс сброшен','Можно начать кампанию заново','↺');
 }
 

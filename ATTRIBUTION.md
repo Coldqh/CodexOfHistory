@@ -148,3 +148,7 @@
 
 ## Локальные обложки v1.7
 38 векторных обложек главы «Рождение Республики» созданы специально для Codex of History и хранятся в `assets/cards/rome/chapter_02/`.
+
+
+## v2.1.1 local rarity expansion
+70 новых учебных SVG-обложек созданы внутри проекта и хранятся локально в `assets/cards/rome/rarity_expansion/`.

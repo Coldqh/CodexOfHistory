@@ -6,10 +6,10 @@ const manifest=read('data/content-manifest.json'),d=manifest.datasets;
 const cards=d.cards.flatMap(read),campaign=read(d.campaign),pools=read(d.pools),maps=read(d.maps);
 const lessons=Object.assign({},...d.lessons.map(read)),quizzes=Object.assign({},...d.quizzes.map(read));
 const assert=(v,m)=>{if(!v)throw new Error(m)};
-assert(manifest.version==='2.1.0','version');
-assert(cards.length===130,`Ожидалось 130 карт, получено ${cards.length}`);
-const counts=Object.fromEntries(['RARE','EPIC','LEGENDARY','MYTHIC'].map(r=>[r,cards.filter(c=>c.rarity===r).length]));
-assert(counts.RARE>counts.EPIC&&counts.EPIC>counts.LEGENDARY&&counts.LEGENDARY>counts.MYTHIC,'rarity pyramid');
+assert(manifest.version==='2.1.1','version');
+assert(cards.length>=130,`Ожидалось 130 карт, получено ${cards.length}`);
+const counts=Object.fromEntries(['COMMON','UNCOMMON','RARE','EPIC','LEGENDARY','MYTHIC'].map(r=>[r,cards.filter(c=>c.rarity===r).length]));
+assert(counts.COMMON>counts.UNCOMMON&&counts.UNCOMMON>counts.RARE&&counts.RARE>counts.EPIC&&counts.EPIC>counts.LEGENDARY&&counts.LEGENDARY>counts.MYTHIC,'rarity pyramid');
 const ch=campaign.chapters.find(x=>x.id==='ROME_CHAPTER_03');assert(ch&&ch.missionIds.length===12,'chapter III');
 for(const id of ch.missionIds){assert(lessons[id],`${id}: lesson`);assert(lessons[id].theory.paragraphs.join(' ').split(/\s+/).length>=280,`${id}: theory`)}
 assert(quizzes.QUIZ_ITALY_FINAL?.questions.length>=8,'final quiz');

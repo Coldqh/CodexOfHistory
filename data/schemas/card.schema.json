@@ -48,6 +48,8 @@
     },
     "rarity": {
       "enum": [
+        "COMMON",
+        "UNCOMMON",
         "RARE",
         "EPIC",
         "LEGENDARY",

@@ -28,7 +28,16 @@
       "cardIds": [
         "CITY_ARC_001",
         "REG_ARC_001",
-        "REL_ARC_001"
+        "REL_ARC_001",
+        "LOC_LOW_001",
+        "LOC_LOW_002",
+        "LOC_LOW_003",
+        "REG_LOW_001",
+        "LOC_LOW_005",
+        "ART_LOW_001",
+        "ART_LOW_002",
+        "LOC_LOW_007",
+        "LOC_LOW_008"
       ]
     },
     {
@@ -40,7 +49,19 @@
         "PER_ARC_001",
         "PER_ARC_002",
         "LOC_ARC_001",
-        "REL_ARC_002"
+        "REL_ARC_002",
+        "ORG_LOW_001",
+        "TERM_LOW_001",
+        "TERM_LOW_002",
+        "ORG_LOW_002",
+        "TERM_LOW_003",
+        "TERM_LOW_004",
+        "REL_LOW_001",
+        "REL_LOW_002",
+        "EVT_LOW_001",
+        "ART_LOW_003",
+        "ART_LOW_004",
+        "LOC_LOW_006"
       ]
     },
     {
@@ -52,7 +73,12 @@
         "PER_ARC_003",
         "PER_ARC_004",
         "ART_ARC_001",
-        "ART_ARC_002"
+        "ART_ARC_002",
+        "LOC_LOW_004",
+        "REL_LOW_003",
+        "REL_LOW_004",
+        "TERM_LOW_005",
+        "LOC_LOW_012"
       ]
     },
     {
@@ -96,7 +122,9 @@
         "ART_ARC_003",
         "PER_AREP_001",
         "LOC_AREP_001",
-        "LOC_AREP_002"
+        "LOC_AREP_002",
+        "LOC_LOW_011",
+        "ORG_LOW_007"
       ]
     },
     {
@@ -110,7 +138,8 @@
         "PER_AREP_004",
         "PER_AREP_005",
         "LOC_AREP_003",
-        "BAT_AREP_001"
+        "BAT_AREP_001",
+        "REL_LOW_005"
       ]
     },
     {
@@ -124,7 +153,20 @@
         "ORG_AREP_003",
         "ORG_AREP_004",
         "ART_AREP_001",
-        "TERM_AREP_001"
+        "TERM_AREP_001",
+        "LOC_LOW_009",
+        "LOC_LOW_010",
+        "TERM_LOW_006",
+        "TERM_LOW_007",
+        "TERM_LOW_008",
+        "TERM_LOW_009",
+        "TERM_LOW_010",
+        "TERM_LOW_011",
+        "LAW_LOW_001",
+        "ORG_LOW_003",
+        "ORG_LOW_004",
+        "ORG_LOW_005",
+        "ORG_LOW_006"
       ]
     },
     {
@@ -138,7 +180,8 @@
         "ORG_AREP_005",
         "ORG_AREP_006",
         "LAW_AREP_001",
-        "TERM_AREP_002"
+        "TERM_AREP_002",
+        "LAW_LOW_002"
       ]
     },
     {
@@ -161,7 +204,14 @@
         "PEO_ITA_002",
         "PEO_ITA_003",
         "PEO_ITA_004",
-        "CITY_ITA_003"
+        "CITY_ITA_003",
+        "PEO_LOW_001",
+        "PEO_LOW_002",
+        "PEO_LOW_003",
+        "PEO_LOW_004",
+        "PEO_LOW_005",
+        "PEO_LOW_006",
+        "PEO_LOW_007"
       ]
     },
     {
@@ -177,7 +227,12 @@
         "REG_ITA_002",
         "TERM_ITA_001",
         "TERM_ITA_002",
-        "TERM_ITA_003"
+        "TERM_ITA_003",
+        "REG_LOW_002",
+        "TERM_LOW_012",
+        "TERM_LOW_013",
+        "TERM_LOW_014",
+        "PEO_LOW_008"
       ]
     },
     {
@@ -190,7 +245,14 @@
         "ORG_ITA_001",
         "ART_ITA_001",
         "PER_ITA_003",
-        "TERM_ITA_005"
+        "TERM_ITA_005",
+        "ORG_LOW_008",
+        "TERM_LOW_016",
+        "TERM_LOW_017",
+        "ART_LOW_005",
+        "ORG_LOW_009",
+        "ORG_LOW_010",
+        "ORG_LOW_011"
       ]
     },
     {
@@ -202,7 +264,15 @@
         "CITY_ITA_005",
         "CITY_ITA_006",
         "TERM_ITA_004",
-        "PER_ITA_005"
+        "PER_ITA_005",
+        "TERM_LOW_015",
+        "ROAD_LOW_001",
+        "ROAD_LOW_002",
+        "CITY_LOW_001",
+        "CITY_LOW_002",
+        "CITY_LOW_003",
+        "CITY_LOW_004",
+        "CITY_LOW_005"
       ]
     },
     {
@@ -871,6 +941,356 @@
       "kind": "ARCHIVE",
       "campaign": "ROME",
       "pool": "ROME_SOUTH_ITALY"
+    },
+    "LOC_LOW_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ORIGINS"
+    },
+    "LOC_LOW_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ORIGINS"
+    },
+    "LOC_LOW_003": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ORIGINS"
+    },
+    "LOC_LOW_004": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_KINGS"
+    },
+    "REG_LOW_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ORIGINS"
+    },
+    "LOC_LOW_005": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ORIGINS"
+    },
+    "ART_LOW_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ORIGINS"
+    },
+    "ART_LOW_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ORIGINS"
+    },
+    "ORG_LOW_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PEOPLES"
+    },
+    "TERM_LOW_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PEOPLES"
+    },
+    "TERM_LOW_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PEOPLES"
+    },
+    "ORG_LOW_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PEOPLES"
+    },
+    "TERM_LOW_003": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PEOPLES"
+    },
+    "TERM_LOW_004": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PEOPLES"
+    },
+    "REL_LOW_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PEOPLES"
+    },
+    "REL_LOW_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PEOPLES"
+    },
+    "REL_LOW_003": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_KINGS"
+    },
+    "REL_LOW_004": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_KINGS"
+    },
+    "EVT_LOW_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PEOPLES"
+    },
+    "TERM_LOW_005": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_KINGS"
+    },
+    "ART_LOW_003": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PEOPLES"
+    },
+    "ART_LOW_004": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PEOPLES"
+    },
+    "LOC_LOW_006": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PEOPLES"
+    },
+    "LOC_LOW_007": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ORIGINS"
+    },
+    "LOC_LOW_008": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ORIGINS"
+    },
+    "LOC_LOW_009": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_INSTITUTIONS"
+    },
+    "LOC_LOW_010": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_INSTITUTIONS"
+    },
+    "LOC_LOW_011": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_BIRTH"
+    },
+    "REL_LOW_005": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_DEFENDERS"
+    },
+    "LOC_LOW_012": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_KINGS"
+    },
+    "TERM_LOW_006": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_INSTITUTIONS"
+    },
+    "TERM_LOW_007": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_INSTITUTIONS"
+    },
+    "TERM_LOW_008": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_INSTITUTIONS"
+    },
+    "TERM_LOW_009": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_INSTITUTIONS"
+    },
+    "TERM_LOW_010": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_INSTITUTIONS"
+    },
+    "TERM_LOW_011": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_INSTITUTIONS"
+    },
+    "LAW_LOW_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_INSTITUTIONS"
+    },
+    "LAW_LOW_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_PLEBEIAN_MOVEMENT"
+    },
+    "ORG_LOW_003": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_INSTITUTIONS"
+    },
+    "ORG_LOW_004": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_INSTITUTIONS"
+    },
+    "ORG_LOW_005": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_INSTITUTIONS"
+    },
+    "ORG_LOW_006": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_INSTITUTIONS"
+    },
+    "ORG_LOW_007": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_REPUBLIC_BIRTH"
+    },
+    "REG_LOW_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_LATIN_ORDER"
+    },
+    "TERM_LOW_012": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_LATIN_ORDER"
+    },
+    "TERM_LOW_013": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_LATIN_ORDER"
+    },
+    "TERM_LOW_014": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_LATIN_ORDER"
+    },
+    "TERM_LOW_015": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ROADS_COLONIES"
+    },
+    "ROAD_LOW_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ROADS_COLONIES"
+    },
+    "ROAD_LOW_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ROADS_COLONIES"
+    },
+    "CITY_LOW_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ROADS_COLONIES"
+    },
+    "CITY_LOW_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ROADS_COLONIES"
+    },
+    "CITY_LOW_003": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ROADS_COLONIES"
+    },
+    "CITY_LOW_004": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ROADS_COLONIES"
+    },
+    "CITY_LOW_005": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ROADS_COLONIES"
+    },
+    "PEO_LOW_001": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ITALY_BORDERLANDS"
+    },
+    "PEO_LOW_002": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ITALY_BORDERLANDS"
+    },
+    "PEO_LOW_003": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ITALY_BORDERLANDS"
+    },
+    "PEO_LOW_004": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ITALY_BORDERLANDS"
+    },
+    "PEO_LOW_005": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ITALY_BORDERLANDS"
+    },
+    "PEO_LOW_006": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ITALY_BORDERLANDS"
+    },
+    "PEO_LOW_007": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_ITALY_BORDERLANDS"
+    },
+    "PEO_LOW_008": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_LATIN_ORDER"
+    },
+    "ORG_LOW_008": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_SAMNIUM"
+    },
+    "TERM_LOW_016": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_SAMNIUM"
+    },
+    "TERM_LOW_017": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_SAMNIUM"
+    },
+    "ART_LOW_005": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_SAMNIUM"
+    },
+    "ORG_LOW_009": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_SAMNIUM"
+    },
+    "ORG_LOW_010": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_SAMNIUM"
+    },
+    "ORG_LOW_011": {
+      "kind": "ARCHIVE",
+      "campaign": "ROME",
+      "pool": "ROME_SAMNIUM"
     }
   }
 }

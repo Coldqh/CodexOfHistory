@@ -2,7 +2,7 @@
 import fs from 'node:fs';import path from 'node:path';import assert from 'node:assert/strict';
 const root=path.resolve(path.dirname(new URL(import.meta.url).pathname),'..');
 const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
-const manifest=read('data/content-manifest.json');assert.equal(manifest.version,'2.1.0');
+const manifest=read('data/content-manifest.json');assert.equal(manifest.version,'2.1.1');
 const eras=read(manifest.datasets.eras),campaigns=read(manifest.datasets.campaignCatalog),timeline=read(manifest.datasets.worldTimeline);
 assert.equal(eras.length,7);assert.equal(campaigns.length,30);assert(timeline.length>=25);
 assert(campaigns.some(c=>c.id==='ROME_CAMPAIGN'&&c.status==='PLAYABLE'&&c.releasedChapters===3));

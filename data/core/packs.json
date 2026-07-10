@@ -1,21 +1,25 @@
 {
-  "version": "0.8",
+  "version": "2.1.1",
   "rules": {
     "campaign_cards_in_random_packs": false,
     "duplicates_to_fragments": true,
     "first_slot_guaranteed_new_while_available": true
   },
   "fragment_values": {
-    "RARE": 10,
-    "EPIC": 18,
-    "LEGENDARY": 34,
-    "MYTHIC": 60
+    "COMMON": 3,
+    "UNCOMMON": 7,
+    "RARE": 15,
+    "EPIC": 35,
+    "LEGENDARY": 80,
+    "MYTHIC": 180
   },
   "craft_costs": {
-    "RARE": 80,
-    "EPIC": 120,
-    "LEGENDARY": 180,
-    "MYTHIC": 260
+    "COMMON": 30,
+    "UNCOMMON": 75,
+    "RARE": 170,
+    "EPIC": 400,
+    "LEGENDARY": 900,
+    "MYTHIC": 2000
   },
   "packs": [
     {
@@ -34,14 +38,18 @@
     }
   ],
   "rarityWeights": {
-    "RARE": 64,
-    "EPIC": 25,
-    "LEGENDARY": 9,
-    "MYTHIC": 2
+    "COMMON": 55,
+    "UNCOMMON": 25,
+    "RARE": 12,
+    "EPIC": 5,
+    "LEGENDARY": 2.5,
+    "MYTHIC": 0.5
   },
   "pity": {
-    "EPIC": 8,
-    "LEGENDARY": 24
+    "UNCOMMON": 3,
+    "RARE": 8,
+    "EPIC": 20,
+    "LEGENDARY": 50
   },
   "activeCampaign": "ROME"
 }

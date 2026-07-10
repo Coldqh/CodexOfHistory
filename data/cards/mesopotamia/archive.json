@@ -1,0 +1,2578 @@
+[
+  {
+    "id": "REG_MESA_001",
+    "type": "REGION",
+    "title": "Верхняя Месопотамия",
+    "original": "Верхняя Месопотамия",
+    "subtitle": "северный дождевой пояс",
+    "era": "Земля между Тигром и Евфратом",
+    "region": "Месопотамия",
+    "date": "неолит — древность",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "summary": "Север региона, где земледелие чаще могло опираться на осадки.",
+    "importance": "Его природные условия отличались от южной ирригационной равнины.",
+    "facts": [
+      "Осадков здесь больше, чем на юге.",
+      "Рельеф более разнообразен.",
+      "Регион связывал Анатолию, Сирию и Ирак."
+    ],
+    "tags": [
+      "север",
+      "осадки",
+      "земледелие"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 3,
+      "legacy": 2,
+      "military": 1,
+      "culture": 4,
+      "politics": 3,
+      "religion": 2,
+      "economy": 4,
+      "connections": 4
+    },
+    "loc": {
+      "label": "Верхняя Месопотамия",
+      "lat": 36.0,
+      "lng": 42.0
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/reg_mesa_001.svg",
+      "caption": "Учебная обложка: Верхняя Месопотамия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "reg_mesa_001.svg"
+    },
+    "source": {
+      "title": "Верхняя Месопотамия — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D1%85%D0%BD%D1%8F%D1%8F_%D0%9C%D0%B5%D1%81%D0%BE%D0%BF%D0%BE%D1%82%D0%B0%D0%BC%D0%B8%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_01"
+  },
+  {
+    "id": "REG_MESA_002",
+    "type": "REGION",
+    "title": "Нижняя Месопотамия",
+    "original": "Нижняя Месопотамия",
+    "subtitle": "южное междуречье",
+    "era": "Земля между Тигром и Евфратом",
+    "region": "Месопотамия",
+    "date": "VI–II тыс. до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "summary": "Южная равнина, где сформировались Убейд, Урук и шумерские города.",
+    "importance": "Малое количество осадков делало воду, каналы и организацию труда центральными вопросами.",
+    "facts": [
+      "Регион включал Шумер и позднее Вавилонию.",
+      "Русла рек неоднократно менялись.",
+      "Глина и тростник были основными местными материалами."
+    ],
+    "tags": [
+      "юг",
+      "Шумер",
+      "равнина"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 3,
+      "legacy": 2,
+      "military": 1,
+      "culture": 4,
+      "politics": 3,
+      "religion": 2,
+      "economy": 4,
+      "connections": 4
+    },
+    "loc": {
+      "label": "Нижняя Месопотамия",
+      "lat": 31.0,
+      "lng": 46.0
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/reg_mesa_002.svg",
+      "caption": "Учебная обложка: Нижняя Месопотамия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "reg_mesa_002.svg"
+    },
+    "source": {
+      "title": "Нижняя Месопотамия — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B6%D0%BD%D1%8F%D1%8F_%D0%9C%D0%B5%D1%81%D0%BE%D0%BF%D0%BE%D1%82%D0%B0%D0%BC%D0%B8%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_01"
+  },
+  {
+    "id": "TERM_MESA_001",
+    "type": "TERM",
+    "title": "Тростниковые болота",
+    "original": "Тростниковые болота",
+    "subtitle": "водно-болотный ландшафт юга",
+    "era": "Земля между Тигром и Евфратом",
+    "region": "Месопотамия",
+    "date": "древность",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "summary": "Болота и заросли тростника давали пищу, строительный материал и пути для лодок.",
+    "importance": "Они были частью экономики юга, а не пустым пространством между городами.",
+    "facts": [
+      "Тростник использовали для домов и лодок.",
+      "В болотах ловили рыбу и птицу.",
+      "Ландшафт менялся вместе с реками и заливом."
+    ],
+    "tags": [
+      "болота",
+      "тростник",
+      "рыболовство"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 3,
+      "legacy": 2,
+      "military": 1,
+      "culture": 4,
+      "politics": 3,
+      "religion": 2,
+      "economy": 4,
+      "connections": 4
+    },
+    "loc": {
+      "label": "Тростниковые болота",
+      "lat": 30.8,
+      "lng": 47.0
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_001.svg",
+      "caption": "Учебная обложка: Тростниковые болота",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_001.svg"
+    },
+    "source": {
+      "title": "Тростниковые болота — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%81%D0%BE%D0%BF%D0%BE%D1%82%D0%B0%D0%BC%D1%81%D0%BA%D0%B8%D0%B5_%D0%B1%D0%BE%D0%BB%D0%BE%D1%82%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_01"
+  },
+  {
+    "id": "ART_MESA_001",
+    "type": "ARTIFACT",
+    "title": "Битум",
+    "original": "Битум",
+    "subtitle": "природный герметик",
+    "era": "Земля между Тигром и Евфратом",
+    "region": "Месопотамия",
+    "date": "древность",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "summary": "Природная смола использовалась для герметизации лодок, корзин и кирпичной кладки.",
+    "importance": "Битум компенсировал недостаток древесины и помогал строить в водной среде.",
+    "facts": [
+      "Источники битума находились в разных районах Месопотамии.",
+      "Им покрывали тростниковые лодки.",
+      "Материал участвовал в строительстве и ремесле."
+    ],
+    "tags": [
+      "материал",
+      "строительство",
+      "лодки"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 3,
+      "legacy": 2,
+      "military": 1,
+      "culture": 4,
+      "politics": 3,
+      "religion": 2,
+      "economy": 4,
+      "connections": 4
+    },
+    "loc": {
+      "label": "Битум",
+      "lat": 33.0,
+      "lng": 43.5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mesa_001.svg",
+      "caption": "Учебная обложка: Битум",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "art_mesa_001.svg"
+    },
+    "source": {
+      "title": "Битум — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D1%83%D0%BC",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_01"
+  },
+  {
+    "id": "ART_MESA_002",
+    "type": "ARTIFACT",
+    "title": "Глина",
+    "original": "Глина",
+    "subtitle": "главный материал равнины",
+    "era": "Земля между Тигром и Евфратом",
+    "region": "Месопотамия",
+    "date": "древность",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "summary": "Глина служила для кирпичей, сосудов, печатей и будущих табличек.",
+    "importance": "Её повсеместность во многом определила материальную культуру Месопотамии.",
+    "facts": [
+      "Сырцовый кирпич требовал постоянного ремонта.",
+      "Обожжённый кирпич был дороже.",
+      "На влажной глине удобно оставлять знаки и оттиски."
+    ],
+    "tags": [
+      "материал",
+      "кирпич",
+      "табличка"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 3,
+      "legacy": 2,
+      "military": 1,
+      "culture": 4,
+      "politics": 3,
+      "religion": 2,
+      "economy": 4,
+      "connections": 4
+    },
+    "loc": {
+      "label": "Глина",
+      "lat": 32.0,
+      "lng": 45.0
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mesa_002.svg",
+      "caption": "Учебная обложка: Глина",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "art_mesa_002.svg"
+    },
+    "source": {
+      "title": "Глина — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%BB%D0%B8%D0%BD%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_01"
+  },
+  {
+    "id": "TERM_MESA_002",
+    "type": "TERM",
+    "title": "Ячмень",
+    "original": "Ячмень",
+    "subtitle": "основная зерновая культура",
+    "era": "Земля между Тигром и Евфратом",
+    "region": "Месопотамия",
+    "date": "древность",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "summary": "Ячмень переносил засоление лучше многих других культур и широко выращивался на юге.",
+    "importance": "Он был пищей, сырьём для пива и единицей хозяйственного учёта.",
+    "facts": [
+      "Ячмень давал зерно и солому.",
+      "Пиво было важным продуктом рациона.",
+      "Урожайность зависела от воды и состояния почвы."
+    ],
+    "tags": [
+      "зерно",
+      "пиво",
+      "земледелие"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 3,
+      "legacy": 2,
+      "military": 1,
+      "culture": 4,
+      "politics": 3,
+      "religion": 2,
+      "economy": 4,
+      "connections": 4
+    },
+    "loc": {
+      "label": "Ячмень",
+      "lat": 31.5,
+      "lng": 45.5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_002.svg",
+      "caption": "Учебная обложка: Ячмень",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_002.svg"
+    },
+    "source": {
+      "title": "Ячмень — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%AF%D1%87%D0%BC%D0%B5%D0%BD%D1%8C_%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_01"
+  },
+  {
+    "id": "TERM_MESA_003",
+    "type": "TERM",
+    "title": "Овцы и козы",
+    "original": "Овцы и козы",
+    "subtitle": "стадное хозяйство",
+    "era": "Земля между Тигром и Евфратом",
+    "region": "Месопотамия",
+    "date": "древность",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "summary": "Мелкий рогатый скот давал шерсть, молоко, мясо и шкуры.",
+    "importance": "Стада связывали города с пастбищами и обеспечивали текстильное производство.",
+    "facts": [
+      "Шерсть стала важным товаром.",
+      "Пастухи перемещали стада между пастбищами.",
+      "Учёт животных был важной административной задачей."
+    ],
+    "tags": [
+      "скотоводство",
+      "шерсть",
+      "пастух"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 3,
+      "legacy": 2,
+      "military": 1,
+      "culture": 4,
+      "politics": 3,
+      "religion": 2,
+      "economy": 4,
+      "connections": 4
+    },
+    "loc": {
+      "label": "Овцы и козы",
+      "lat": 32.5,
+      "lng": 44.8
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_003.svg",
+      "caption": "Учебная обложка: Овцы и козы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_003.svg"
+    },
+    "source": {
+      "title": "Овцы и козы — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BB%D0%BA%D0%B8%D0%B9_%D1%80%D0%BE%D0%B3%D0%B0%D1%82%D1%8B%D0%B9_%D1%81%D0%BA%D0%BE%D1%82",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_01"
+  },
+  {
+    "id": "TERM_MESA_004",
+    "type": "TERM",
+    "title": "Дефицит сырья",
+    "original": "Дефицит сырья",
+    "subtitle": "каменя и леса почти нет",
+    "era": "Земля между Тигром и Евфратом",
+    "region": "Месопотамия",
+    "date": "древность",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "summary": "Южная равнина была бедна строительным камнем, металлом и качественной древесиной.",
+    "importance": "Это делало обмен с Загросом, Анатолией, Ираном и Персидским заливом необходимым.",
+    "facts": [
+      "Камень доставляли издалека.",
+      "Металлы не добывались на южной равнине.",
+      "Торговля поддерживала элитные и храмовые проекты."
+    ],
+    "tags": [
+      "торговля",
+      "сырьё",
+      "обмен"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 3,
+      "legacy": 3,
+      "military": 1,
+      "culture": 4,
+      "politics": 3,
+      "religion": 2,
+      "economy": 4,
+      "connections": 4
+    },
+    "loc": {
+      "label": "Дефицит сырья",
+      "lat": 31.8,
+      "lng": 45.1
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_004.svg",
+      "caption": "Учебная обложка: Дефицит сырья",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_004.svg"
+    },
+    "source": {
+      "title": "Дефицит сырья — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%BB%D1%8F_%D0%B2_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B9_%D0%9C%D0%B5%D1%81%D0%BE%D0%BF%D0%BE%D1%82%D0%B0%D0%BC%D0%B8%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_01"
+  },
+  {
+    "id": "ART_MESA_003",
+    "type": "ARTIFACT",
+    "title": "Кремнёвый серп",
+    "original": "Кремнёвый серп",
+    "subtitle": "орудие жатвы",
+    "era": "Земледелие, каналы и поселения",
+    "region": "Месопотамия",
+    "date": "неолит — бронзовый век",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "summary": "Вкладыши из кремня закреплялись в деревянной или костяной основе и использовались для срезания злаков.",
+    "importance": "Следы износа показывают практику регулярного земледелия.",
+    "facts": [
+      "Кремень сохранял острую кромку.",
+      "На лезвиях образовывался «серповый блеск».",
+      "Орудие использовали задолго до металла."
+    ],
+    "tags": [
+      "орудие",
+      "жатва",
+      "кремень"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 4,
+      "legacy": 2,
+      "military": 1,
+      "culture": 5,
+      "politics": 4,
+      "religion": 2,
+      "economy": 5,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Кремнёвый серп",
+      "lat": 32.0,
+      "lng": 44.5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mesa_003.svg",
+      "caption": "Учебная обложка: Кремнёвый серп",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "art_mesa_003.svg"
+    },
+    "source": {
+      "title": "Кремнёвый серп — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%BF",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_02"
+  },
+  {
+    "id": "ART_MESA_004",
+    "type": "ARTIFACT",
+    "title": "Зернотёрка",
+    "original": "Зернотёрка",
+    "subtitle": "камень для размола зерна",
+    "era": "Земледелие, каналы и поселения",
+    "region": "Месопотамия",
+    "date": "неолит — древность",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "summary": "Зерно растирали между каменными поверхностями, превращая его в крупу или муку.",
+    "importance": "Повседневный труд переработки пищи занимал много времени и оставил множество археологических находок.",
+    "facts": [
+      "Орудие состояло из нижнего и ручного камня.",
+      "Износ поверхности показывает интенсивность работы.",
+      "Помол выполнялся в домашних и коллективных хозяйствах."
+    ],
+    "tags": [
+      "еда",
+      "мука",
+      "дом"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 4,
+      "legacy": 2,
+      "military": 1,
+      "culture": 5,
+      "politics": 4,
+      "religion": 2,
+      "economy": 5,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Зернотёрка",
+      "lat": 32.0,
+      "lng": 44.5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mesa_004.svg",
+      "caption": "Учебная обложка: Зернотёрка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "art_mesa_004.svg"
+    },
+    "source": {
+      "title": "Зернотёрка — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D1%80%D0%BD%D0%BE%D1%82%D1%91%D1%80%D0%BA%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_02"
+  },
+  {
+    "id": "TERM_MESA_005",
+    "type": "TERM",
+    "title": "Финиковая пальма",
+    "original": "Финиковая пальма",
+    "subtitle": "садовая культура юга",
+    "era": "Земледелие, каналы и поселения",
+    "region": "Месопотамия",
+    "date": "древность",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "summary": "Пальма давала сладкие плоды, волокна, древесину и тень для других культур.",
+    "importance": "Садовое хозяйство дополняло зерновые поля и повышало разнообразие производства.",
+    "facts": [
+      "Финики хорошо хранятся.",
+      "Пальмовые материалы использовали в быту.",
+      "Сады требовали устойчивого водоснабжения."
+    ],
+    "tags": [
+      "сад",
+      "финики",
+      "ирригация"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 4,
+      "legacy": 2,
+      "military": 1,
+      "culture": 5,
+      "politics": 4,
+      "religion": 2,
+      "economy": 5,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Финиковая пальма",
+      "lat": 31.5,
+      "lng": 46.0
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_005.svg",
+      "caption": "Учебная обложка: Финиковая пальма",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_005.svg"
+    },
+    "source": {
+      "title": "Финиковая пальма — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D0%B0%D0%BB%D1%8C%D0%BC%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_02"
+  },
+  {
+    "id": "TERM_MESA_006",
+    "type": "TERM",
+    "title": "Засоление почв",
+    "original": "Засоление почв",
+    "subtitle": "накопление солей после орошения",
+    "era": "Земледелие, каналы и поселения",
+    "region": "Месопотамия",
+    "date": "древность",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "summary": "Испарение воды оставляло соли в верхнем слое почвы и постепенно снижало урожайность.",
+    "importance": "Проблема влияла на выбор культур, режим полива и долгосрочное использование земель.",
+    "facts": [
+      "Ячмень устойчивее пшеницы к соли.",
+      "Дренаж помогал выводить соли.",
+      "Засоление не объясняет все исторические кризисы."
+    ],
+    "tags": [
+      "почва",
+      "ирригация",
+      "риск"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 4,
+      "legacy": 3,
+      "military": 1,
+      "culture": 5,
+      "politics": 4,
+      "religion": 2,
+      "economy": 5,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Засоление почв",
+      "lat": 31.2,
+      "lng": 45.8
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_006.svg",
+      "caption": "Учебная обложка: Засоление почв",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_006.svg"
+    },
+    "source": {
+      "title": "Засоление почв — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D1%81%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D1%87%D0%B2%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_02"
+  },
+  {
+    "id": "TERM_MESA_007",
+    "type": "TERM",
+    "title": "Трудовая повинность",
+    "original": "Трудовая повинность",
+    "subtitle": "работа по решению общины или института",
+    "era": "Земледелие, каналы и поселения",
+    "region": "Месопотамия",
+    "date": "древность",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "summary": "Крупные каналы и здания требовали временного привлечения многих работников.",
+    "importance": "Такая организация могла опираться на обязанность, паёк, зависимость или сочетание разных механизмов.",
+    "facts": [
+      "Работа могла быть сезонной.",
+      "Рационы компенсировали труд.",
+      "Не вся коллективная работа была рабским трудом."
+    ],
+    "tags": [
+      "труд",
+      "канал",
+      "повинность"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 4,
+      "legacy": 3,
+      "military": 1,
+      "culture": 5,
+      "politics": 4,
+      "religion": 2,
+      "economy": 5,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Трудовая повинность",
+      "lat": 31.8,
+      "lng": 45.2
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_007.svg",
+      "caption": "Учебная обложка: Трудовая повинность",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_007.svg"
+    },
+    "source": {
+      "title": "Трудовая повинность — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_02"
+  },
+  {
+    "id": "TERM_MESA_008",
+    "type": "TERM",
+    "title": "Домохозяйство",
+    "original": "Домохозяйство",
+    "subtitle": "базовая производственная группа",
+    "era": "Земледелие, каналы и поселения",
+    "region": "Месопотамия",
+    "date": "древность",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "summary": "Семья и зависимые люди совместно выращивали пищу, держали животных и выполняли ремесленные работы.",
+    "importance": "Города не отменили домашнюю экономику: она сосуществовала с храмами и крупными учреждениями.",
+    "facts": [
+      "Домохозяйства различались по богатству.",
+      "Земля могла быть семейной или институциональной.",
+      "Часть продукции шла в обмен и выплаты."
+    ],
+    "tags": [
+      "семья",
+      "экономика",
+      "производство"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 4,
+      "legacy": 2,
+      "military": 1,
+      "culture": 5,
+      "politics": 4,
+      "religion": 2,
+      "economy": 5,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Домохозяйство",
+      "lat": 32.0,
+      "lng": 45.0
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_008.svg",
+      "caption": "Учебная обложка: Домохозяйство",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_008.svg"
+    },
+    "source": {
+      "title": "Домохозяйство — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC%D0%BE%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%BE",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_02"
+  },
+  {
+    "id": "ART_MESA_005",
+    "type": "ARTIFACT",
+    "title": "Тростниковая лодка",
+    "original": "Тростниковая лодка",
+    "subtitle": "судно каналов и болот",
+    "era": "Земледелие, каналы и поселения",
+    "region": "Месопотамия",
+    "date": "древность",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "summary": "Связанные пучки тростника покрывали битумом и использовали для перевозки людей и грузов.",
+    "importance": "Лодки превращали каналы и реки в транспортную сеть.",
+    "facts": [
+      "Тростник был местным и доступным материалом.",
+      "Битум защищал корпус от воды.",
+      "Крупные грузы могли перевозиться по течению."
+    ],
+    "tags": [
+      "лодка",
+      "тростник",
+      "транспорт"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 4,
+      "legacy": 2,
+      "military": 1,
+      "culture": 5,
+      "politics": 4,
+      "religion": 2,
+      "economy": 5,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Тростниковая лодка",
+      "lat": 31.2,
+      "lng": 47.0
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mesa_005.svg",
+      "caption": "Учебная обложка: Тростниковая лодка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "art_mesa_005.svg"
+    },
+    "source": {
+      "title": "Тростниковая лодка — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BB%D0%BE%D0%B4%D0%BA%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_02"
+  },
+  {
+    "id": "TERM_MESA_009",
+    "type": "TERM",
+    "title": "Полевой участок",
+    "original": "Полевой участок",
+    "subtitle": "единица земледельческого пространства",
+    "era": "Земледелие, каналы и поселения",
+    "region": "Месопотамия",
+    "date": "древность",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "summary": "Поля вытягивались вдоль каналов, чтобы получить доступ к воде.",
+    "importance": "Форма участков отражала сочетание гидрологии, труда и прав на землю.",
+    "facts": [
+      "Канал задавал фронт полива.",
+      "Границы требовали измерения.",
+      "Поля могли принадлежать разным хозяйствам."
+    ],
+    "tags": [
+      "поле",
+      "земля",
+      "измерение"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 4,
+      "legacy": 2,
+      "military": 1,
+      "culture": 5,
+      "politics": 4,
+      "religion": 2,
+      "economy": 5,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Полевой участок",
+      "lat": 31.7,
+      "lng": 45.4
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_009.svg",
+      "caption": "Учебная обложка: Полевой участок",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_009.svg"
+    },
+    "source": {
+      "title": "Полевой участок — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_02"
+  },
+  {
+    "id": "CITY_MESA_001",
+    "type": "CITY",
+    "title": "Телль-эль-Убейд",
+    "original": "Телль-эль-Убейд",
+    "subtitle": "памятник у древнего Ура",
+    "era": "Убейдский мир",
+    "region": "Месопотамия",
+    "date": "V–III тыс. до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "summary": "Археологический памятник дал название Убейдской культуре.",
+    "importance": "Находки помогли выделить период, существовавший задолго до шумерских династий.",
+    "facts": [
+      "Памятник расположен возле Ура.",
+      "Раскопки выявили расписную керамику.",
+      "Название периода является современным археологическим."
+    ],
+    "tags": [
+      "памятник",
+      "Убейд",
+      "раскопки"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 5,
+      "legacy": 2,
+      "military": 1,
+      "culture": 6,
+      "politics": 5,
+      "religion": 2,
+      "economy": 6,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Телль-эль-Убейд",
+      "lat": 30.97,
+      "lng": 46.04
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/city_mesa_001.svg",
+      "caption": "Учебная обложка: Телль-эль-Убейд",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "city_mesa_001.svg"
+    },
+    "source": {
+      "title": "Телль-эль-Убейд — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BB%D0%BB%D1%8C-%D1%8D%D0%BB%D1%8C-%D0%A3%D0%B1%D0%B5%D0%B9%D0%B4",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_03"
+  },
+  {
+    "id": "ART_MESA_006",
+    "type": "ARTIFACT",
+    "title": "Убейдские фигурки",
+    "original": "Убейдские фигурки",
+    "subtitle": "глиняные человеческие изображения",
+    "era": "Убейдский мир",
+    "region": "Месопотамия",
+    "date": "V тыс. до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "summary": "Небольшие фигурки с необычными лицами происходят из домов и погребений.",
+    "importance": "Их значение неизвестно, поэтому популярные фантазии о «рептилиях» не имеют научного основания.",
+    "facts": [
+      "Фигурки лепили из глины.",
+      "Контекст находки важнее внешнего сходства.",
+      "Функция могла различаться."
+    ],
+    "tags": [
+      "фигурка",
+      "дом",
+      "археология"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 5,
+      "legacy": 3,
+      "military": 1,
+      "culture": 6,
+      "politics": 5,
+      "religion": 2,
+      "economy": 6,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Убейдские фигурки",
+      "lat": 31.0,
+      "lng": 46.0
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mesa_006.svg",
+      "caption": "Учебная обложка: Убейдские фигурки",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "art_mesa_006.svg"
+    },
+    "source": {
+      "title": "Убейдские фигурки — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B1%D0%B5%D0%B9%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_03"
+  },
+  {
+    "id": "CITY_MESA_002",
+    "type": "CITY",
+    "title": "Тепе-Гавра",
+    "original": "Тепе-Гавра",
+    "subtitle": "северный центр с убейдскими связями",
+    "era": "Убейдский мир",
+    "region": "Месопотамия",
+    "date": "V–III тыс. до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "summary": "Многослойный памятник в северной Месопотамии показывает развитие сложных общин вне южной равнины.",
+    "importance": "Он предупреждает против идеи, что все изменения шли только с юга.",
+    "facts": [
+      "Памятник расположен возле Мосула.",
+      "Слои отражают долгую историю поселения.",
+      "Архитектура включает общественные комплексы."
+    ],
+    "tags": [
+      "север",
+      "памятник",
+      "обмен"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 5,
+      "legacy": 3,
+      "military": 1,
+      "culture": 6,
+      "politics": 5,
+      "religion": 2,
+      "economy": 6,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Тепе-Гавра",
+      "lat": 36.36,
+      "lng": 43.23
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/city_mesa_002.svg",
+      "caption": "Учебная обложка: Тепе-Гавра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "city_mesa_002.svg"
+    },
+    "source": {
+      "title": "Тепе-Гавра — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BF%D0%B5-%D0%93%D0%B0%D0%B2%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_03"
+  },
+  {
+    "id": "CITY_MESA_003",
+    "type": "CITY",
+    "title": "Хаджи-Мухаммад",
+    "original": "Хаджи-Мухаммад",
+    "subtitle": "раннее поселение юга",
+    "era": "Убейдский мир",
+    "region": "Месопотамия",
+    "date": "VI тыс. до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "summary": "Памятник возле Урука дал название одной из ранних фаз южной расписной керамики.",
+    "importance": "Он показывает местные этапы до классического Убейда.",
+    "facts": [
+      "Фаза старше позднего Убейда.",
+      "Керамика отличается сложной росписью.",
+      "Поселение находилось в южной равнине."
+    ],
+    "tags": [
+      "керамика",
+      "юг",
+      "периодизация"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 5,
+      "legacy": 2,
+      "military": 1,
+      "culture": 6,
+      "politics": 5,
+      "religion": 2,
+      "economy": 6,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Хаджи-Мухаммад",
+      "lat": 31.3,
+      "lng": 45.6
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/city_mesa_003.svg",
+      "caption": "Учебная обложка: Хаджи-Мухаммад",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "city_mesa_003.svg"
+    },
+    "source": {
+      "title": "Хаджи-Мухаммад — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B4%D0%B6%D0%B8-%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B0%D0%B4",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_03"
+  },
+  {
+    "id": "ART_MESA_007",
+    "type": "ARTIFACT",
+    "title": "Расписная чаша Убейда",
+    "original": "Расписная чаша Убейда",
+    "subtitle": "геометрический сосуд",
+    "era": "Убейдский мир",
+    "region": "Месопотамия",
+    "date": "V тыс. до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "summary": "Чаши покрывали тёмными линиями, сетками и волнистыми мотивами.",
+    "importance": "Орнамент был частью повседневной материальной культуры и регионального стиля.",
+    "facts": [
+      "Роспись наносили до обжига.",
+      "Формы менялись по фазам.",
+      "Сосуды встречаются в домах и погребениях."
+    ],
+    "tags": [
+      "сосуд",
+      "роспись",
+      "керамика"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 5,
+      "legacy": 2,
+      "military": 1,
+      "culture": 6,
+      "politics": 5,
+      "religion": 2,
+      "economy": 6,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Расписная чаша Убейда",
+      "lat": 30.95,
+      "lng": 46.0
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mesa_007.svg",
+      "caption": "Учебная обложка: Расписная чаша Убейда",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "art_mesa_007.svg"
+    },
+    "source": {
+      "title": "Расписная чаша Убейда — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B1%D0%B5%D0%B9%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_03"
+  },
+  {
+    "id": "TERM_MESA_010",
+    "type": "TERM",
+    "title": "Региональный стиль",
+    "original": "Региональный стиль",
+    "subtitle": "общие формы без единого государства",
+    "era": "Убейдский мир",
+    "region": "Месопотамия",
+    "date": "археологический термин",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "summary": "Сходные сосуды и здания могут распространяться через контакты, подражание и мобильность людей.",
+    "importance": "Общий стиль не равен общей этнической идентичности.",
+    "facts": [
+      "Материальная культура меняется постепенно.",
+      "Локальные варианты сохранялись.",
+      "Археологи сравнивают формы и технологии."
+    ],
+    "tags": [
+      "метод",
+      "археология",
+      "стиль"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 5,
+      "legacy": 2,
+      "military": 1,
+      "culture": 6,
+      "politics": 5,
+      "religion": 2,
+      "economy": 6,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Региональный стиль",
+      "lat": 32.0,
+      "lng": 44.5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_010.svg",
+      "caption": "Учебная обложка: Региональный стиль",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_010.svg"
+    },
+    "source": {
+      "title": "Региональный стиль — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_03"
+  },
+  {
+    "id": "TERM_MESA_011",
+    "type": "TERM",
+    "title": "Обмен по Персидскому заливу",
+    "original": "Обмен по Персидскому заливу",
+    "subtitle": "южные морские связи",
+    "era": "Убейдский мир",
+    "region": "Месопотамия",
+    "date": "V–III тыс. до н. э.",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "summary": "Поселения юга поддерживали контакты с побережьями Аравии и Ирана.",
+    "importance": "Морские связи приносили сырьё и расширяли хозяйственный горизонт ранних общин.",
+    "facts": [
+      "Маршруты менялись вместе с береговой линией.",
+      "Лодки перевозили грузы вдоль побережья.",
+      "Контакты не обязательно означали политический контроль."
+    ],
+    "tags": [
+      "море",
+      "торговля",
+      "залив"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 5,
+      "legacy": 4,
+      "military": 1,
+      "culture": 6,
+      "politics": 5,
+      "religion": 2,
+      "economy": 6,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Обмен по Персидскому заливу",
+      "lat": 29.5,
+      "lng": 48.0
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_011.svg",
+      "caption": "Учебная обложка: Обмен по Персидскому заливу",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_011.svg"
+    },
+    "source": {
+      "title": "Обмен по Персидскому заливу — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%81%D0%B8%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_03"
+  },
+  {
+    "id": "CITY_MESA_004",
+    "type": "CITY",
+    "title": "Сузы",
+    "original": "Сузы",
+    "subtitle": "центр соседнего Элама",
+    "era": "Убейдский мир",
+    "region": "Месопотамия",
+    "date": "V тыс. до н. э. — древность",
+    "rarity": "EPIC",
+    "difficulty": 4,
+    "summary": "Сузы находились восточнее Месопотамии и участвовали в обмене, конкуренции и культурных взаимодействиях.",
+    "importance": "Связи с Сузианой показывают, что ранняя урбанизация была межрегиональным процессом.",
+    "facts": [
+      "Памятник имеет глубокую стратиграфию.",
+      "Урукские административные практики достигали Суз.",
+      "Город позднее стал столицей Элама и Персии."
+    ],
+    "tags": [
+      "Элам",
+      "Сузы",
+      "обмен"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 6,
+      "politics": 5,
+      "religion": 2,
+      "economy": 6,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Сузы",
+      "lat": 32.19,
+      "lng": 48.26
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/city_mesa_004.svg",
+      "caption": "Учебная обложка: Сузы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "city_mesa_004.svg"
+    },
+    "source": {
+      "title": "Сузы — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B7%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_03"
+  },
+  {
+    "id": "ART_MESA_008",
+    "type": "ARTIFACT",
+    "title": "Варкаская ваза",
+    "original": "Варкаская ваза",
+    "subtitle": "ритуальный каменный сосуд",
+    "era": "Урукская городская революция",
+    "region": "Месопотамия",
+    "date": "ок. 3200–3000 до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 5,
+    "summary": "Рельефные регистры показывают растения, животных, людей и процесс подношения богине.",
+    "importance": "Памятник связывает хозяйство, ритуал и политическое представительство Урука.",
+    "facts": [
+      "Сосуд найден в Уруке.",
+      "Сцены расположены горизонтальными регистрами.",
+      "Ваза была повреждена и восстановлена."
+    ],
+    "tags": [
+      "искусство",
+      "Инанна",
+      "ритуал"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 1,
+      "culture": 7,
+      "politics": 6,
+      "religion": 2,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Варкаская ваза",
+      "lat": 31.322,
+      "lng": 45.637
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mesa_008.svg",
+      "caption": "Учебная обложка: Варкаская ваза",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "art_mesa_008.svg"
+    },
+    "source": {
+      "title": "Варкаская ваза — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%B7%D0%B0_%D0%B8%D0%B7_%D0%92%D0%B0%D1%80%D0%BA%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_04"
+  },
+  {
+    "id": "ART_MESA_009",
+    "type": "ARTIFACT",
+    "title": "Маска из Варки",
+    "original": "Маска из Варки",
+    "subtitle": "идеализированное женское лицо",
+    "era": "Урукская городская революция",
+    "region": "Месопотамия",
+    "date": "конец IV тыс. до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 4,
+    "summary": "Мраморная голова могла быть частью составной культовой статуи.",
+    "importance": "Редкий камень и высокая техника показывают ресурсы и мастерство городского центра.",
+    "facts": [
+      "Глаза и брови были инкрустированы.",
+      "Маска изготовлена из мрамора.",
+      "Её иногда связывают с Инанной, но это не доказано."
+    ],
+    "tags": [
+      "скульптура",
+      "Урук",
+      "мрамор"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 1,
+      "culture": 7,
+      "politics": 6,
+      "religion": 2,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Маска из Варки",
+      "lat": 31.322,
+      "lng": 45.637
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mesa_009.svg",
+      "caption": "Учебная обложка: Маска из Варки",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "art_mesa_009.svg"
+    },
+    "source": {
+      "title": "Маска из Варки — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BA%D0%B0_%D0%92%D0%B0%D1%80%D0%BA%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_04"
+  },
+  {
+    "id": "CITY_MESA_005",
+    "type": "CITY",
+    "title": "Хабуба-Кабира",
+    "original": "Хабуба-Кабира",
+    "subtitle": "урукский центр на Евфрате",
+    "era": "Урукская городская революция",
+    "region": "Месопотамия",
+    "date": "IV тыс. до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 4,
+    "summary": "Укреплённое поселение в Сирии демонстрирует перенос урукских архитектурных и административных практик.",
+    "importance": "Памятник важен для спора о колониях, торговых анклавов и сетях Урука.",
+    "facts": [
+      "Поселение имело стену и регулярную планировку.",
+      "Культура была тесно связана с южной Месопотамией.",
+      "Причины основания остаются предметом дискуссии."
+    ],
+    "tags": [
+      "Сирия",
+      "Урук",
+      "экспансия"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 1,
+      "culture": 7,
+      "politics": 6,
+      "religion": 2,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Хабуба-Кабира",
+      "lat": 35.99,
+      "lng": 38.08
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/city_mesa_005.svg",
+      "caption": "Учебная обложка: Хабуба-Кабира",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "city_mesa_005.svg"
+    },
+    "source": {
+      "title": "Хабуба-Кабира — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B1%D1%83%D0%B1%D0%B0-%D0%9A%D0%B0%D0%B1%D0%B8%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_04"
+  },
+  {
+    "id": "TERM_MESA_012",
+    "type": "TERM",
+    "title": "Урукская экспансия",
+    "original": "Урукская экспансия",
+    "subtitle": "распространение южных практик",
+    "era": "Урукская городская революция",
+    "region": "Месопотамия",
+    "date": "IV тыс. до н. э.",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "summary": "Материалы урукского типа появились в Иране, Сирии и Анатолии.",
+    "importance": "Это могло включать торговые поселения, миграцию специалистов, подражание и политическое влияние.",
+    "facts": [
+      "Модель не одинакова для всех памятников.",
+      "Местные общества сохраняли собственные традиции.",
+      "Обмен шёл в обоих направлениях."
+    ],
+    "tags": [
+      "контакты",
+      "колонии",
+      "обмен"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 6,
+      "legacy": 4,
+      "military": 1,
+      "culture": 7,
+      "politics": 6,
+      "religion": 2,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Урукская экспансия",
+      "lat": 34.5,
+      "lng": 40.0
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_012.svg",
+      "caption": "Учебная обложка: Урукская экспансия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_012.svg"
+    },
+    "source": {
+      "title": "Урукская экспансия — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A3%D1%80%D1%83%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_04"
+  },
+  {
+    "id": "TERM_MESA_013",
+    "type": "TERM",
+    "title": "Гончар Урука",
+    "original": "Гончар Урука",
+    "subtitle": "специализированное ремесло",
+    "era": "Урукская городская революция",
+    "region": "Месопотамия",
+    "date": "IV тыс. до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "summary": "Гончары производили бытовую посуду и массовые стандартные формы для большого населения.",
+    "importance": "Специализация снижала долю времени, которую ремесленник тратил на собственное земледелие.",
+    "facts": [
+      "Производство требовало глины и топлива.",
+      "Часть сосудов делалась на круге.",
+      "Стандартизация облегчала массовый выпуск."
+    ],
+    "tags": [
+      "профессия",
+      "керамика",
+      "город"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 6,
+      "legacy": 3,
+      "military": 1,
+      "culture": 7,
+      "politics": 6,
+      "religion": 2,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Гончар Урука",
+      "lat": 31.32,
+      "lng": 45.64
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_013.svg",
+      "caption": "Учебная обложка: Гончар Урука",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_013.svg"
+    },
+    "source": {
+      "title": "Гончар Урука — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BD%D1%87%D0%B0%D1%80%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D0%BB%D0%BE",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_04"
+  },
+  {
+    "id": "TERM_MESA_014",
+    "type": "TERM",
+    "title": "Ткачиха Урука",
+    "original": "Ткачиха Урука",
+    "subtitle": "работница текстильного хозяйства",
+    "era": "Урукская городская революция",
+    "region": "Месопотамия",
+    "date": "IV–III тыс. до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "summary": "Текстильное производство превращало шерсть в один из главных продуктов городской экономики.",
+    "importance": "Крупные мастерские могли объединять множество зависимых работниц.",
+    "facts": [
+      "Шерсть требовала очистки и прядения.",
+      "Ткани были трудоёмким товаром.",
+      "Поздние таблички фиксируют большие женские рабочие коллективы."
+    ],
+    "tags": [
+      "профессия",
+      "текстиль",
+      "шерсть"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 6,
+      "legacy": 3,
+      "military": 1,
+      "culture": 7,
+      "politics": 6,
+      "religion": 2,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Ткачиха Урука",
+      "lat": 31.32,
+      "lng": 45.64
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_014.svg",
+      "caption": "Учебная обложка: Ткачиха Урука",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_014.svg"
+    },
+    "source": {
+      "title": "Ткачиха Урука — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_04"
+  },
+  {
+    "id": "TERM_MESA_015",
+    "type": "TERM",
+    "title": "Металлург",
+    "original": "Металлург",
+    "subtitle": "специалист по привозному металлу",
+    "era": "Урукская городская революция",
+    "region": "Месопотамия",
+    "date": "IV тыс. до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "summary": "Медные изделия требовали сырья, топлива, литейных навыков и контроля температуры.",
+    "importance": "Металлургия связывала город с дальними источниками руды.",
+    "facts": [
+      "Медь доставляли из других регионов.",
+      "Каменные формы использовали для литья.",
+      "Металл оставался ценнее глины и тростника."
+    ],
+    "tags": [
+      "профессия",
+      "медь",
+      "ремесло"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 6,
+      "legacy": 3,
+      "military": 1,
+      "culture": 7,
+      "politics": 6,
+      "religion": 2,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Металлург",
+      "lat": 31.32,
+      "lng": 45.64
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_015.svg",
+      "caption": "Учебная обложка: Металлург",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_015.svg"
+    },
+    "source": {
+      "title": "Металлург — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D1%83%D1%80%D0%B3%D0%B8%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_04"
+  },
+  {
+    "id": "TERM_MESA_016",
+    "type": "TERM",
+    "title": "Специализация труда",
+    "original": "Специализация труда",
+    "subtitle": "устойчивая профессиональная деятельность",
+    "era": "Урукская городская революция",
+    "region": "Месопотамия",
+    "date": "IV тыс. до н. э.",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "summary": "Часть населения занималась ремеслом, управлением, транспортом или ритуалом вместо полного самообеспечения пищей.",
+    "importance": "Специализация требовала обмена и систем распределения.",
+    "facts": [
+      "Она существовала и до городов, но в городе вырос масштаб.",
+      "Профессии могли зависеть от учреждений.",
+      "Навыки передавались обучением."
+    ],
+    "tags": [
+      "труд",
+      "город",
+      "экономика"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 6,
+      "legacy": 4,
+      "military": 1,
+      "culture": 7,
+      "politics": 6,
+      "religion": 2,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Специализация труда",
+      "lat": 31.3,
+      "lng": 45.6
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_016.svg",
+      "caption": "Учебная обложка: Специализация труда",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_016.svg"
+    },
+    "source": {
+      "title": "Специализация труда — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%82%D1%80%D1%83%D0%B4%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_04"
+  },
+  {
+    "id": "TERM_MESA_017",
+    "type": "TERM",
+    "title": "Массовое производство",
+    "original": "Массовое производство",
+    "subtitle": "много однотипных изделий",
+    "era": "Урукская городская революция",
+    "region": "Месопотамия",
+    "date": "IV тыс. до н. э.",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "summary": "Формы, стандартизация и организация мастерских позволяли выпускать большие серии сосудов и других предметов.",
+    "importance": "Массовость связана с потребностями большого населения и учреждений.",
+    "facts": [
+      "Однотипность не означает современную фабрику.",
+      "Качество предметов могло быть намеренно низким.",
+      "Стандартные размеры облегчали распределение."
+    ],
+    "tags": [
+      "производство",
+      "стандарт",
+      "город"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 6,
+      "legacy": 4,
+      "military": 1,
+      "culture": 7,
+      "politics": 6,
+      "religion": 2,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Массовое производство",
+      "lat": 31.3,
+      "lng": 45.6
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_017.svg",
+      "caption": "Учебная обложка: Массовое производство",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_017.svg"
+    },
+    "source": {
+      "title": "Массовое производство — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_04"
+  },
+  {
+    "id": "TERM_MESA_018",
+    "type": "TERM",
+    "title": "Торговый анклав",
+    "original": "Торговый анклав",
+    "subtitle": "поселение в чужом регионе",
+    "era": "Урукская городская революция",
+    "region": "Месопотамия",
+    "date": "IV тыс. до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "summary": "Группа торговцев или администраторов могла жить у местного центра, сохраняя часть собственной материальной культуры.",
+    "importance": "Модель помогает объяснять некоторые урукские памятники, но не подходит ко всем.",
+    "facts": [
+      "Анклав не обязательно был военной колонией.",
+      "Местные и пришлые практики смешивались.",
+      "Археологические признаки требуют осторожной интерпретации."
+    ],
+    "tags": [
+      "торговля",
+      "поселение",
+      "контакты"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 6,
+      "legacy": 3,
+      "military": 1,
+      "culture": 7,
+      "politics": 6,
+      "religion": 2,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Торговый анклав",
+      "lat": 35.0,
+      "lng": 39.0
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_018.svg",
+      "caption": "Учебная обложка: Торговый анклав",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_018.svg"
+    },
+    "source": {
+      "title": "Торговый анклав — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_04"
+  },
+  {
+    "id": "TERM_MESA_019",
+    "type": "TERM",
+    "title": "Городская стена Урука",
+    "original": "Городская стена Урука",
+    "subtitle": "поздняя память и археология",
+    "era": "Урукская городская революция",
+    "region": "Месопотамия",
+    "date": "IV–III тыс. до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "summary": "Массивные укрепления стали частью образа Урука и поздней легенды о Гильгамеше.",
+    "importance": "Стены выражали защиту, масштаб труда и границу городской общины.",
+    "facts": [
+      "Поздние тексты приписывали стену Гильгамешу.",
+      "Археологические укрепления перестраивались.",
+      "Длина стены подчёркивалась в эпосе."
+    ],
+    "tags": [
+      "стена",
+      "город",
+      "Гильгамеш"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 6,
+      "legacy": 3,
+      "military": 1,
+      "culture": 7,
+      "politics": 6,
+      "religion": 2,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Городская стена Урука",
+      "lat": 31.32,
+      "lng": 45.64
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_019.svg",
+      "caption": "Учебная обложка: Городская стена Урука",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_019.svg"
+    },
+    "source": {
+      "title": "Городская стена Урука — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A3%D1%80%D1%83%D0%BA",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_04"
+  },
+  {
+    "id": "CITY_MESA_006",
+    "type": "CITY",
+    "title": "Зернохранилище",
+    "original": "Зернохранилище",
+    "subtitle": "место коллективного запаса",
+    "era": "Храм, склад и управление",
+    "region": "Месопотамия",
+    "date": "древность",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "summary": "Помещения и сосуды защищали зерно от влаги, животных и хищения.",
+    "importance": "Хранение превращало урожай в ресурс, доступный между сезонами.",
+    "facts": [
+      "Зерно нужно было сушить и проветривать.",
+      "Запасы регулярно измеряли.",
+      "Археологически функцию помещения не всегда легко определить."
+    ],
+    "tags": [
+      "зерно",
+      "склад",
+      "запас"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 7,
+      "legacy": 2,
+      "military": 1,
+      "culture": 8,
+      "politics": 7,
+      "religion": 2,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Зернохранилище",
+      "lat": 31.32,
+      "lng": 45.64
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/city_mesa_006.svg",
+      "caption": "Учебная обложка: Зернохранилище",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "city_mesa_006.svg"
+    },
+    "source": {
+      "title": "Зернохранилище — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D1%80%D0%BD%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_05"
+  },
+  {
+    "id": "TERM_MESA_020",
+    "type": "TERM",
+    "title": "Трудовой рацион",
+    "original": "Трудовой рацион",
+    "subtitle": "выдача продукта работнику",
+    "era": "Храм, склад и управление",
+    "region": "Месопотамия",
+    "date": "IV–III тыс. до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "summary": "Зерно, пиво или масло могли выдаваться людям за работу или как содержание.",
+    "importance": "Рацион был одновременно пищей и единицей административного расчёта.",
+    "facts": [
+      "Объём зависел от статуса и возраста.",
+      "Выдачи фиксировались документами.",
+      "Рацион не равен современной заработной плате."
+    ],
+    "tags": [
+      "рацион",
+      "труд",
+      "зерно"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 7,
+      "legacy": 2,
+      "military": 1,
+      "culture": 8,
+      "politics": 7,
+      "religion": 2,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Трудовой рацион",
+      "lat": 31.32,
+      "lng": 45.64
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_020.svg",
+      "caption": "Учебная обложка: Трудовой рацион",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_020.svg"
+    },
+    "source": {
+      "title": "Трудовой рацион — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%91%D0%BA",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_05"
+  },
+  {
+    "id": "TERM_MESA_021",
+    "type": "TERM",
+    "title": "Метрология",
+    "original": "Метрология",
+    "subtitle": "системы мер и весов",
+    "era": "Храм, склад и управление",
+    "region": "Месопотамия",
+    "date": "IV–III тыс. до н. э.",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "summary": "Стандартные единицы позволяли сравнивать объёмы, площадь, массу и труд.",
+    "importance": "Без мер невозможно было вести крупный учёт и распределение.",
+    "facts": [
+      "Разные товары могли иметь разные системы счёта.",
+      "Стандарты менялись по эпохам.",
+      "Меры связывались с формой сосудов и грузов."
+    ],
+    "tags": [
+      "мера",
+      "вес",
+      "учёт"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 7,
+      "legacy": 4,
+      "military": 1,
+      "culture": 8,
+      "politics": 7,
+      "religion": 2,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Метрология",
+      "lat": 31.32,
+      "lng": 45.64
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_021.svg",
+      "caption": "Учебная обложка: Метрология",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_021.svg"
+    },
+    "source": {
+      "title": "Метрология — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_05"
+  },
+  {
+    "id": "TERM_MESA_022",
+    "type": "TERM",
+    "title": "Хозяйственный учёт",
+    "original": "Хозяйственный учёт",
+    "subtitle": "фиксация движения ресурсов",
+    "era": "Храм, склад и управление",
+    "region": "Месопотамия",
+    "date": "IV тыс. до н. э.",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "summary": "Учёт отвечал на вопросы: сколько поступило, кому выдано, кто отвечает и что осталось.",
+    "importance": "Его развитие стало одним из главных стимулов раннего письма.",
+    "facts": [
+      "Документы часто кратки и формализованы.",
+      "Число и товар записывались разными знаками.",
+      "Архивы возникали внутри учреждений."
+    ],
+    "tags": [
+      "учёт",
+      "табличка",
+      "администрация"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 7,
+      "legacy": 4,
+      "military": 1,
+      "culture": 8,
+      "politics": 7,
+      "religion": 2,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Хозяйственный учёт",
+      "lat": 31.32,
+      "lng": 45.64
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_022.svg",
+      "caption": "Учебная обложка: Хозяйственный учёт",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_022.svg"
+    },
+    "source": {
+      "title": "Хозяйственный учёт — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D1%87%D1%91%D1%82",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_05"
+  },
+  {
+    "id": "ART_MESA_010",
+    "type": "ARTIFACT",
+    "title": "Глиняная булла",
+    "original": "Глиняная булла",
+    "subtitle": "полая оболочка с жетонами",
+    "era": "Храм, склад и управление",
+    "region": "Месопотамия",
+    "date": "V–IV тыс. до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "summary": "Внутрь глиняного шара помещали жетоны, а поверхность запечатывали и иногда маркировали.",
+    "importance": "Буллы связывают материальные счётные объекты с записью на поверхности глины.",
+    "facts": [
+      "Для проверки оболочку приходилось разбивать.",
+      "Оттиски печатей подтверждали закрытие.",
+      "Не все исследователи одинаково реконструируют развитие системы."
+    ],
+    "tags": [
+      "булла",
+      "жетон",
+      "печать"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 7,
+      "legacy": 3,
+      "military": 1,
+      "culture": 8,
+      "politics": 7,
+      "religion": 2,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Глиняная булла",
+      "lat": 32.0,
+      "lng": 44.5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mesa_010.svg",
+      "caption": "Учебная обложка: Глиняная булла",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "art_mesa_010.svg"
+    },
+    "source": {
+      "title": "Глиняная булла — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BB%D0%BB%D0%B0_(%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C)",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_05"
+  },
+  {
+    "id": "ART_MESA_011",
+    "type": "ARTIFACT",
+    "title": "Тростниковый стилус",
+    "original": "Тростниковый стилус",
+    "subtitle": "инструмент для знаков на глине",
+    "era": "Храм, склад и управление",
+    "region": "Месопотамия",
+    "date": "IV тыс. до н. э. — древность",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "summary": "Заострённый или срезанный тростник оставлял линии и вдавления на влажной табличке.",
+    "importance": "Материал был доступен и стал основным инструментом клинописной традиции.",
+    "facts": [
+      "Форма кончика влияла на знак.",
+      "Табличку можно было высушить или обжечь.",
+      "Письмо требовало обучения моторным навыкам."
+    ],
+    "tags": [
+      "письмо",
+      "тростник",
+      "табличка"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 7,
+      "legacy": 2,
+      "military": 1,
+      "culture": 8,
+      "politics": 7,
+      "religion": 2,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Тростниковый стилус",
+      "lat": 31.2,
+      "lng": 47.0
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mesa_011.svg",
+      "caption": "Учебная обложка: Тростниковый стилус",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "art_mesa_011.svg"
+    },
+    "source": {
+      "title": "Тростниковый стилус — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B8%D0%BB%D0%BE%D1%81",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_05"
+  },
+  {
+    "id": "TERM_MESA_023",
+    "type": "TERM",
+    "title": "Пивовар Урука",
+    "original": "Пивовар Урука",
+    "subtitle": "производитель напитка и пищи",
+    "era": "Храм, склад и управление",
+    "region": "Месопотамия",
+    "date": "IV–III тыс. до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "summary": "Пиво из зерна было частью рациона, ритуала и хозяйственных выдач.",
+    "importance": "Пивоварение требовало зерна, воды, топлива, сосудов и специализированного знания.",
+    "facts": [
+      "Пиво могло быть густым и питательным.",
+      "Выдачи пива фиксировались табличками.",
+      "Женщины играли важную роль в пивоварении."
+    ],
+    "tags": [
+      "профессия",
+      "пиво",
+      "рацион"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 7,
+      "legacy": 3,
+      "military": 1,
+      "culture": 8,
+      "politics": 7,
+      "religion": 2,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Пивовар Урука",
+      "lat": 31.32,
+      "lng": 45.64
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_023.svg",
+      "caption": "Учебная обложка: Пивовар Урука",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_023.svg"
+    },
+    "source": {
+      "title": "Пивовар Урука — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%B2%D0%BE_%D0%B2_%D0%9C%D0%B5%D1%81%D0%BE%D0%BF%D0%BE%D1%82%D0%B0%D0%BC%D0%B8%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_05"
+  },
+  {
+    "id": "TERM_MESA_024",
+    "type": "TERM",
+    "title": "Пастух учреждения",
+    "original": "Пастух учреждения",
+    "subtitle": "управляющий стадом",
+    "era": "Храм, склад и управление",
+    "region": "Месопотамия",
+    "date": "IV–III тыс. до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "summary": "Пастух отвечал за животных, приплод, шерсть и перемещение стад.",
+    "importance": "Его работа соединяла городские учреждения с пастбищной зоной.",
+    "facts": [
+      "Число животных регулярно сверяли.",
+      "Потери требовали объяснения.",
+      "Стада могли принадлежать храму или дворцу."
+    ],
+    "tags": [
+      "профессия",
+      "стадо",
+      "шерсть"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 7,
+      "legacy": 3,
+      "military": 1,
+      "culture": 8,
+      "politics": 7,
+      "religion": 2,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Пастух учреждения",
+      "lat": 32.5,
+      "lng": 44.8
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_024.svg",
+      "caption": "Учебная обложка: Пастух учреждения",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_024.svg"
+    },
+    "source": {
+      "title": "Пастух учреждения — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%81%D1%82%D1%83%D1%85",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_05"
+  },
+  {
+    "id": "TERM_MESA_025",
+    "type": "TERM",
+    "title": "Лодочник канала",
+    "original": "Лодочник канала",
+    "subtitle": "перевозчик по водной сети",
+    "era": "Храм, склад и управление",
+    "region": "Месопотамия",
+    "date": "IV–III тыс. до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "summary": "Лодочники перемещали зерно, тростник, кирпич и людей между полями, складами и городами.",
+    "importance": "Водный транспорт снижал стоимость тяжёлых перевозок.",
+    "facts": [
+      "Течение облегчало движение в одну сторону.",
+      "Лодки могли тянуть с берега.",
+      "Каналы соединяли хозяйственные участки."
+    ],
+    "tags": [
+      "профессия",
+      "лодка",
+      "канал"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 7,
+      "legacy": 3,
+      "military": 1,
+      "culture": 8,
+      "politics": 7,
+      "religion": 2,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Лодочник канала",
+      "lat": 31.8,
+      "lng": 45.2
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_025.svg",
+      "caption": "Учебная обложка: Лодочник канала",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_025.svg"
+    },
+    "source": {
+      "title": "Лодочник канала — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B4%D0%BE%D1%87%D0%BD%D0%B8%D0%BA",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_05"
+  },
+  {
+    "id": "TERM_MESA_026",
+    "type": "TERM",
+    "title": "Кладовщик",
+    "original": "Кладовщик",
+    "subtitle": "ответственный за приём и выдачу",
+    "era": "Храм, склад и управление",
+    "region": "Месопотамия",
+    "date": "IV–III тыс. до н. э.",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "summary": "Кладовщик следил за запасами, пломбами и выдачами из хранилища.",
+    "importance": "Такая роль показывает появление должностей, основанных на доверии и документировании.",
+    "facts": [
+      "Запасы требовали регулярной проверки.",
+      "Печать могла обозначать ответственность.",
+      "Ошибки и хищение создавали потребность в контроле."
+    ],
+    "tags": [
+      "профессия",
+      "склад",
+      "ответственность"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 7,
+      "legacy": 4,
+      "military": 1,
+      "culture": 8,
+      "politics": 7,
+      "religion": 2,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кладовщик",
+      "lat": 31.32,
+      "lng": 45.64
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_026.svg",
+      "caption": "Учебная обложка: Кладовщик",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_026.svg"
+    },
+    "source": {
+      "title": "Кладовщик — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%89%D0%B8%D0%BA",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_05"
+  },
+  {
+    "id": "TERM_MESA_027",
+    "type": "TERM",
+    "title": "Шерстяная мастерская",
+    "original": "Шерстяная мастерская",
+    "subtitle": "организованное текстильное производство",
+    "era": "Храм, склад и управление",
+    "region": "Месопотамия",
+    "date": "IV–III тыс. до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 4,
+    "summary": "Крупные коллективы перерабатывали шерсть в нити и ткани для внутреннего потребления и обмена.",
+    "importance": "Текстиль связывал стада, женский труд, управление и дальнюю торговлю.",
+    "facts": [
+      "Производство включало много последовательных операций.",
+      "Работники получали рационы.",
+      "Ткани могли быть ценным экспортом."
+    ],
+    "tags": [
+      "текстиль",
+      "мастерская",
+      "труд"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 1,
+      "culture": 8,
+      "politics": 7,
+      "religion": 2,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Шерстяная мастерская",
+      "lat": 31.32,
+      "lng": 45.64
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mesa_027.svg",
+      "caption": "Учебная обложка: Шерстяная мастерская",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "CC0-style project asset",
+      "focus": "50% 50%",
+      "file": "term_mesa_027.svg"
+    },
+    "source": {
+      "title": "Шерстяная мастерская — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_05"
+  }
+]

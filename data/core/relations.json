@@ -1313,5 +1313,775 @@
     "type": "ЧАСТЬ_КОНТЕКСТА",
     "description": "Карточка «Триарии» раскрывает локальный контекст темы «Самнитские войны».",
     "strength": 4
+  },
+  {
+    "id": "REL_MES_001",
+    "source": "REG_MES_002",
+    "target": "REG_MES_001",
+    "type": "PART_OF",
+    "description": "«Тигр» раскрывает тему главы «Земля между Тигром и Евфратом»."
+  },
+  {
+    "id": "REL_MES_002",
+    "source": "REG_MES_003",
+    "target": "REG_MES_001",
+    "type": "INFLUENCED",
+    "description": "«Евфрат» раскрывает тему главы «Земля между Тигром и Евфратом»."
+  },
+  {
+    "id": "REL_MES_003",
+    "source": "REG_MES_004",
+    "target": "REG_MES_001",
+    "type": "ECONOMIC_LINK",
+    "description": "«Южная аллювиальная равнина» раскрывает тему главы «Земля между Тигром и Евфратом»."
+  },
+  {
+    "id": "REL_MES_004",
+    "source": "TERM_MES_001",
+    "target": "REG_MES_001",
+    "type": "CULTURAL_LINK",
+    "description": "«Плодородный полумесяц» раскрывает тему главы «Земля между Тигром и Евфратом»."
+  },
+  {
+    "id": "REL_MES_005",
+    "source": "TERM_MES_002",
+    "target": "REG_MES_001",
+    "type": "LOCATED_IN",
+    "description": "«Аллювий» раскрывает тему главы «Земля между Тигром и Евфратом»."
+  },
+  {
+    "id": "REL_MES_006",
+    "source": "REG_MESA_001",
+    "target": "REG_MES_001",
+    "type": "PART_OF",
+    "description": "«Верхняя Месопотамия» раскрывает тему главы «Земля между Тигром и Евфратом»."
+  },
+  {
+    "id": "REL_MES_007",
+    "source": "REG_MESA_002",
+    "target": "REG_MES_001",
+    "type": "INFLUENCED",
+    "description": "«Нижняя Месопотамия» раскрывает тему главы «Земля между Тигром и Евфратом»."
+  },
+  {
+    "id": "REL_MES_008",
+    "source": "TERM_MESA_001",
+    "target": "REG_MES_001",
+    "type": "ECONOMIC_LINK",
+    "description": "«Тростниковые болота» раскрывает тему главы «Земля между Тигром и Евфратом»."
+  },
+  {
+    "id": "REL_MES_009",
+    "source": "ART_MESA_001",
+    "target": "REG_MES_001",
+    "type": "CULTURAL_LINK",
+    "description": "«Битум» раскрывает тему главы «Земля между Тигром и Евфратом»."
+  },
+  {
+    "id": "REL_MES_010",
+    "source": "ART_MESA_002",
+    "target": "REG_MES_001",
+    "type": "LOCATED_IN",
+    "description": "«Глина» раскрывает тему главы «Земля между Тигром и Евфратом»."
+  },
+  {
+    "id": "REL_MES_011",
+    "source": "TERM_MESA_002",
+    "target": "REG_MES_001",
+    "type": "PART_OF",
+    "description": "«Ячмень» раскрывает тему главы «Земля между Тигром и Евфратом»."
+  },
+  {
+    "id": "REL_MES_012",
+    "source": "TERM_MESA_003",
+    "target": "REG_MES_001",
+    "type": "INFLUENCED",
+    "description": "«Овцы и козы» раскрывает тему главы «Земля между Тигром и Евфратом»."
+  },
+  {
+    "id": "REL_MES_013",
+    "source": "TERM_MESA_004",
+    "target": "REG_MES_001",
+    "type": "ECONOMIC_LINK",
+    "description": "«Дефицит сырья» раскрывает тему главы «Земля между Тигром и Евфратом»."
+  },
+  {
+    "id": "REL_MES_014",
+    "source": "REG_MES_001",
+    "target": "REG_MES_002",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_015",
+    "source": "REG_MES_002",
+    "target": "REG_MES_003",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_016",
+    "source": "REG_MES_003",
+    "target": "REG_MES_004",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_017",
+    "source": "REG_MES_004",
+    "target": "TERM_MES_001",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_018",
+    "source": "TERM_MES_001",
+    "target": "TERM_MES_002",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_019",
+    "source": "TERM_MES_005",
+    "target": "SYS_MES_001",
+    "type": "PART_OF",
+    "description": "«Канал» раскрывает тему главы «Земледелие, каналы и поселения»."
+  },
+  {
+    "id": "REL_MES_020",
+    "source": "EVT_MES_001",
+    "target": "SYS_MES_001",
+    "type": "INFLUENCED",
+    "description": "«Рост земледельческих поселений» раскрывает тему главы «Земледелие, каналы и поселения»."
+  },
+  {
+    "id": "REL_MES_021",
+    "source": "TERM_MES_006",
+    "target": "SYS_MES_001",
+    "type": "ECONOMIC_LINK",
+    "description": "«Плуг-сеялка» раскрывает тему главы «Земледелие, каналы и поселения»."
+  },
+  {
+    "id": "REL_MES_022",
+    "source": "TERM_MES_007",
+    "target": "SYS_MES_001",
+    "type": "CULTURAL_LINK",
+    "description": "«Излишек продукта» раскрывает тему главы «Земледелие, каналы и поселения»."
+  },
+  {
+    "id": "REL_MES_023",
+    "source": "TERM_MES_008",
+    "target": "SYS_MES_001",
+    "type": "LOCATED_IN",
+    "description": "«Телль» раскрывает тему главы «Земледелие, каналы и поселения»."
+  },
+  {
+    "id": "REL_MES_024",
+    "source": "ART_MESA_003",
+    "target": "SYS_MES_001",
+    "type": "PART_OF",
+    "description": "«Кремнёвый серп» раскрывает тему главы «Земледелие, каналы и поселения»."
+  },
+  {
+    "id": "REL_MES_025",
+    "source": "ART_MESA_004",
+    "target": "SYS_MES_001",
+    "type": "INFLUENCED",
+    "description": "«Зернотёрка» раскрывает тему главы «Земледелие, каналы и поселения»."
+  },
+  {
+    "id": "REL_MES_026",
+    "source": "TERM_MESA_005",
+    "target": "SYS_MES_001",
+    "type": "ECONOMIC_LINK",
+    "description": "«Финиковая пальма» раскрывает тему главы «Земледелие, каналы и поселения»."
+  },
+  {
+    "id": "REL_MES_027",
+    "source": "TERM_MESA_006",
+    "target": "SYS_MES_001",
+    "type": "CULTURAL_LINK",
+    "description": "«Засоление почв» раскрывает тему главы «Земледелие, каналы и поселения»."
+  },
+  {
+    "id": "REL_MES_028",
+    "source": "TERM_MESA_007",
+    "target": "SYS_MES_001",
+    "type": "LOCATED_IN",
+    "description": "«Трудовая повинность» раскрывает тему главы «Земледелие, каналы и поселения»."
+  },
+  {
+    "id": "REL_MES_029",
+    "source": "TERM_MESA_008",
+    "target": "SYS_MES_001",
+    "type": "PART_OF",
+    "description": "«Домохозяйство» раскрывает тему главы «Земледелие, каналы и поселения»."
+  },
+  {
+    "id": "REL_MES_030",
+    "source": "ART_MESA_005",
+    "target": "SYS_MES_001",
+    "type": "INFLUENCED",
+    "description": "«Тростниковая лодка» раскрывает тему главы «Земледелие, каналы и поселения»."
+  },
+  {
+    "id": "REL_MES_031",
+    "source": "TERM_MESA_009",
+    "target": "SYS_MES_001",
+    "type": "ECONOMIC_LINK",
+    "description": "«Полевой участок» раскрывает тему главы «Земледелие, каналы и поселения»."
+  },
+  {
+    "id": "REL_MES_032",
+    "source": "SYS_MES_001",
+    "target": "TERM_MES_005",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_033",
+    "source": "TERM_MES_005",
+    "target": "EVT_MES_001",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_034",
+    "source": "EVT_MES_001",
+    "target": "TERM_MES_006",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_035",
+    "source": "TERM_MES_006",
+    "target": "TERM_MES_007",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_036",
+    "source": "TERM_MES_007",
+    "target": "TERM_MES_008",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_037",
+    "source": "CITY_MES_001",
+    "target": "EVT_MES_002",
+    "type": "PART_OF",
+    "description": "«Эриду» раскрывает тему главы «Убейдский мир»."
+  },
+  {
+    "id": "REL_MES_038",
+    "source": "ART_MES_001",
+    "target": "EVT_MES_002",
+    "type": "INFLUENCED",
+    "description": "«Убейдская керамика» раскрывает тему главы «Убейдский мир»."
+  },
+  {
+    "id": "REL_MES_039",
+    "source": "CITY_MES_002",
+    "target": "EVT_MES_002",
+    "type": "ECONOMIC_LINK",
+    "description": "«Трёхчастный храм» раскрывает тему главы «Убейдский мир»."
+  },
+  {
+    "id": "REL_MES_040",
+    "source": "SYSTEM_MES_002",
+    "target": "EVT_MES_002",
+    "type": "CULTURAL_LINK",
+    "description": "«Убейдская сеть поселений» раскрывает тему главы «Убейдский мир»."
+  },
+  {
+    "id": "REL_MES_041",
+    "source": "REL_MES_001",
+    "target": "EVT_MES_002",
+    "type": "LOCATED_IN",
+    "description": "«Культ Энки в Эриду» раскрывает тему главы «Убейдский мир»."
+  },
+  {
+    "id": "REL_MES_042",
+    "source": "CITY_MESA_001",
+    "target": "EVT_MES_002",
+    "type": "PART_OF",
+    "description": "«Телль-эль-Убейд» раскрывает тему главы «Убейдский мир»."
+  },
+  {
+    "id": "REL_MES_043",
+    "source": "ART_MESA_006",
+    "target": "EVT_MES_002",
+    "type": "INFLUENCED",
+    "description": "«Убейдские фигурки» раскрывает тему главы «Убейдский мир»."
+  },
+  {
+    "id": "REL_MES_044",
+    "source": "CITY_MESA_002",
+    "target": "EVT_MES_002",
+    "type": "ECONOMIC_LINK",
+    "description": "«Тепе-Гавра» раскрывает тему главы «Убейдский мир»."
+  },
+  {
+    "id": "REL_MES_045",
+    "source": "CITY_MESA_003",
+    "target": "EVT_MES_002",
+    "type": "CULTURAL_LINK",
+    "description": "«Хаджи-Мухаммад» раскрывает тему главы «Убейдский мир»."
+  },
+  {
+    "id": "REL_MES_046",
+    "source": "ART_MESA_007",
+    "target": "EVT_MES_002",
+    "type": "LOCATED_IN",
+    "description": "«Расписная чаша Убейда» раскрывает тему главы «Убейдский мир»."
+  },
+  {
+    "id": "REL_MES_047",
+    "source": "TERM_MESA_010",
+    "target": "EVT_MES_002",
+    "type": "PART_OF",
+    "description": "«Региональный стиль» раскрывает тему главы «Убейдский мир»."
+  },
+  {
+    "id": "REL_MES_048",
+    "source": "TERM_MESA_011",
+    "target": "EVT_MES_002",
+    "type": "INFLUENCED",
+    "description": "«Обмен по Персидскому заливу» раскрывает тему главы «Убейдский мир»."
+  },
+  {
+    "id": "REL_MES_049",
+    "source": "CITY_MESA_004",
+    "target": "EVT_MES_002",
+    "type": "ECONOMIC_LINK",
+    "description": "«Сузы» раскрывает тему главы «Убейдский мир»."
+  },
+  {
+    "id": "REL_MES_050",
+    "source": "EVT_MES_002",
+    "target": "CITY_MES_001",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_051",
+    "source": "CITY_MES_001",
+    "target": "ART_MES_001",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_052",
+    "source": "ART_MES_001",
+    "target": "CITY_MES_002",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_053",
+    "source": "CITY_MES_002",
+    "target": "SYSTEM_MES_002",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_054",
+    "source": "SYSTEM_MES_002",
+    "target": "REL_MES_001",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_055",
+    "source": "CITY_MES_003",
+    "target": "EVT_MES_003",
+    "type": "PART_OF",
+    "description": "«Урук» раскрывает тему главы «Урукская городская революция»."
+  },
+  {
+    "id": "REL_MES_056",
+    "source": "CITY_MES_004",
+    "target": "EVT_MES_003",
+    "type": "INFLUENCED",
+    "description": "«Эанна» раскрывает тему главы «Урукская городская революция»."
+  },
+  {
+    "id": "REL_MES_057",
+    "source": "CITY_MES_005",
+    "target": "EVT_MES_003",
+    "type": "ECONOMIC_LINK",
+    "description": "«Белый храм Урука» раскрывает тему главы «Урукская городская революция»."
+  },
+  {
+    "id": "REL_MES_058",
+    "source": "TERM_MES_009",
+    "target": "EVT_MES_003",
+    "type": "CULTURAL_LINK",
+    "description": "«Городская революция» раскрывает тему главы «Урукская городская революция»."
+  },
+  {
+    "id": "REL_MES_059",
+    "source": "ART_MES_002",
+    "target": "EVT_MES_003",
+    "type": "LOCATED_IN",
+    "description": "«Цилиндрическая печать» раскрывает тему главы «Урукская городская революция»."
+  },
+  {
+    "id": "REL_MES_060",
+    "source": "ART_MES_003",
+    "target": "EVT_MES_003",
+    "type": "PART_OF",
+    "description": "«Чаша со скошенным краем» раскрывает тему главы «Урукская городская революция»."
+  },
+  {
+    "id": "REL_MES_061",
+    "source": "TERM_MES_010",
+    "target": "EVT_MES_003",
+    "type": "INFLUENCED",
+    "description": "«Царь-жрец Урука» раскрывает тему главы «Урукская городская революция»."
+  },
+  {
+    "id": "REL_MES_062",
+    "source": "ART_MESA_008",
+    "target": "EVT_MES_003",
+    "type": "ECONOMIC_LINK",
+    "description": "«Варкаская ваза» раскрывает тему главы «Урукская городская революция»."
+  },
+  {
+    "id": "REL_MES_063",
+    "source": "ART_MESA_009",
+    "target": "EVT_MES_003",
+    "type": "CULTURAL_LINK",
+    "description": "«Маска из Варки» раскрывает тему главы «Урукская городская революция»."
+  },
+  {
+    "id": "REL_MES_064",
+    "source": "CITY_MESA_005",
+    "target": "EVT_MES_003",
+    "type": "LOCATED_IN",
+    "description": "«Хабуба-Кабира» раскрывает тему главы «Урукская городская революция»."
+  },
+  {
+    "id": "REL_MES_065",
+    "source": "TERM_MESA_012",
+    "target": "EVT_MES_003",
+    "type": "PART_OF",
+    "description": "«Урукская экспансия» раскрывает тему главы «Урукская городская революция»."
+  },
+  {
+    "id": "REL_MES_066",
+    "source": "TERM_MESA_013",
+    "target": "EVT_MES_003",
+    "type": "INFLUENCED",
+    "description": "«Гончар Урука» раскрывает тему главы «Урукская городская революция»."
+  },
+  {
+    "id": "REL_MES_067",
+    "source": "TERM_MESA_014",
+    "target": "EVT_MES_003",
+    "type": "ECONOMIC_LINK",
+    "description": "«Ткачиха Урука» раскрывает тему главы «Урукская городская революция»."
+  },
+  {
+    "id": "REL_MES_068",
+    "source": "TERM_MESA_015",
+    "target": "EVT_MES_003",
+    "type": "CULTURAL_LINK",
+    "description": "«Металлург» раскрывает тему главы «Урукская городская революция»."
+  },
+  {
+    "id": "REL_MES_069",
+    "source": "TERM_MESA_016",
+    "target": "EVT_MES_003",
+    "type": "LOCATED_IN",
+    "description": "«Специализация труда» раскрывает тему главы «Урукская городская революция»."
+  },
+  {
+    "id": "REL_MES_070",
+    "source": "TERM_MESA_017",
+    "target": "EVT_MES_003",
+    "type": "PART_OF",
+    "description": "«Массовое производство» раскрывает тему главы «Урукская городская революция»."
+  },
+  {
+    "id": "REL_MES_071",
+    "source": "TERM_MESA_018",
+    "target": "EVT_MES_003",
+    "type": "INFLUENCED",
+    "description": "«Торговый анклав» раскрывает тему главы «Урукская городская революция»."
+  },
+  {
+    "id": "REL_MES_072",
+    "source": "TERM_MESA_019",
+    "target": "EVT_MES_003",
+    "type": "ECONOMIC_LINK",
+    "description": "«Городская стена Урука» раскрывает тему главы «Урукская городская революция»."
+  },
+  {
+    "id": "REL_MES_073",
+    "source": "EVT_MES_003",
+    "target": "CITY_MES_003",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_074",
+    "source": "CITY_MES_003",
+    "target": "CITY_MES_004",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_075",
+    "source": "CITY_MES_004",
+    "target": "CITY_MES_005",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_076",
+    "source": "CITY_MES_005",
+    "target": "TERM_MES_009",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_077",
+    "source": "TERM_MES_009",
+    "target": "ART_MES_002",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_078",
+    "source": "ART_MES_002",
+    "target": "ART_MES_003",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_079",
+    "source": "ART_MES_003",
+    "target": "TERM_MES_010",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_080",
+    "source": "TERM_MES_011",
+    "target": "ORG_MES_001",
+    "type": "PART_OF",
+    "description": "«Администратор Урука» раскрывает тему главы «Храм, склад и управление»."
+  },
+  {
+    "id": "REL_MES_081",
+    "source": "TERM_MES_012",
+    "target": "ORG_MES_001",
+    "type": "INFLUENCED",
+    "description": "«Протописец» раскрывает тему главы «Храм, склад и управление»."
+  },
+  {
+    "id": "REL_MES_082",
+    "source": "SYS_MES_003",
+    "target": "ORG_MES_001",
+    "type": "ECONOMIC_LINK",
+    "description": "«Перераспределение» раскрывает тему главы «Храм, склад и управление»."
+  },
+  {
+    "id": "REL_MES_083",
+    "source": "SYS_MES_004",
+    "target": "ORG_MES_001",
+    "type": "CULTURAL_LINK",
+    "description": "«Складское хозяйство» раскрывает тему главы «Храм, склад и управление»."
+  },
+  {
+    "id": "REL_MES_084",
+    "source": "ART_MES_004",
+    "target": "ORG_MES_001",
+    "type": "LOCATED_IN",
+    "description": "«Счётный жетон» раскрывает тему главы «Храм, склад и управление»."
+  },
+  {
+    "id": "REL_MES_085",
+    "source": "ART_MES_005",
+    "target": "ORG_MES_001",
+    "type": "PART_OF",
+    "description": "«Числовая табличка Урука» раскрывает тему главы «Храм, склад и управление»."
+  },
+  {
+    "id": "REL_MES_086",
+    "source": "TERM_MES_013",
+    "target": "ORG_MES_001",
+    "type": "INFLUENCED",
+    "description": "«Оттиск печати» раскрывает тему главы «Храм, склад и управление»."
+  },
+  {
+    "id": "REL_MES_087",
+    "source": "CITY_MESA_006",
+    "target": "ORG_MES_001",
+    "type": "ECONOMIC_LINK",
+    "description": "«Зернохранилище» раскрывает тему главы «Храм, склад и управление»."
+  },
+  {
+    "id": "REL_MES_088",
+    "source": "TERM_MESA_020",
+    "target": "ORG_MES_001",
+    "type": "CULTURAL_LINK",
+    "description": "«Трудовой рацион» раскрывает тему главы «Храм, склад и управление»."
+  },
+  {
+    "id": "REL_MES_089",
+    "source": "TERM_MESA_021",
+    "target": "ORG_MES_001",
+    "type": "LOCATED_IN",
+    "description": "«Метрология» раскрывает тему главы «Храм, склад и управление»."
+  },
+  {
+    "id": "REL_MES_090",
+    "source": "TERM_MESA_022",
+    "target": "ORG_MES_001",
+    "type": "PART_OF",
+    "description": "«Хозяйственный учёт» раскрывает тему главы «Храм, склад и управление»."
+  },
+  {
+    "id": "REL_MES_091",
+    "source": "ART_MESA_010",
+    "target": "ORG_MES_001",
+    "type": "INFLUENCED",
+    "description": "«Глиняная булла» раскрывает тему главы «Храм, склад и управление»."
+  },
+  {
+    "id": "REL_MES_092",
+    "source": "ART_MESA_011",
+    "target": "ORG_MES_001",
+    "type": "ECONOMIC_LINK",
+    "description": "«Тростниковый стилус» раскрывает тему главы «Храм, склад и управление»."
+  },
+  {
+    "id": "REL_MES_093",
+    "source": "TERM_MESA_023",
+    "target": "ORG_MES_001",
+    "type": "CULTURAL_LINK",
+    "description": "«Пивовар Урука» раскрывает тему главы «Храм, склад и управление»."
+  },
+  {
+    "id": "REL_MES_094",
+    "source": "TERM_MESA_024",
+    "target": "ORG_MES_001",
+    "type": "LOCATED_IN",
+    "description": "«Пастух учреждения» раскрывает тему главы «Храм, склад и управление»."
+  },
+  {
+    "id": "REL_MES_095",
+    "source": "TERM_MESA_025",
+    "target": "ORG_MES_001",
+    "type": "PART_OF",
+    "description": "«Лодочник канала» раскрывает тему главы «Храм, склад и управление»."
+  },
+  {
+    "id": "REL_MES_096",
+    "source": "TERM_MESA_026",
+    "target": "ORG_MES_001",
+    "type": "INFLUENCED",
+    "description": "«Кладовщик» раскрывает тему главы «Храм, склад и управление»."
+  },
+  {
+    "id": "REL_MES_097",
+    "source": "TERM_MESA_027",
+    "target": "ORG_MES_001",
+    "type": "ECONOMIC_LINK",
+    "description": "«Шерстяная мастерская» раскрывает тему главы «Храм, склад и управление»."
+  },
+  {
+    "id": "REL_MES_098",
+    "source": "ORG_MES_001",
+    "target": "TERM_MES_011",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_099",
+    "source": "TERM_MES_011",
+    "target": "TERM_MES_012",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_100",
+    "source": "TERM_MES_012",
+    "target": "SYS_MES_003",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_101",
+    "source": "SYS_MES_003",
+    "target": "SYS_MES_004",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_102",
+    "source": "SYS_MES_004",
+    "target": "ART_MES_004",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_103",
+    "source": "ART_MES_004",
+    "target": "ART_MES_005",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_104",
+    "source": "ART_MES_005",
+    "target": "TERM_MES_013",
+    "type": "PRECEDES",
+    "description": "Связанные элементы одного исторического процесса."
+  },
+  {
+    "id": "REL_MES_105",
+    "source": "REG_MES_004",
+    "target": "SYS_MES_001",
+    "type": "INFLUENCED",
+    "description": "Связь между этапами развития ранней Месопотамии."
+  },
+  {
+    "id": "REL_MES_106",
+    "source": "SYS_MES_001",
+    "target": "EVT_MES_002",
+    "type": "PRECEDES",
+    "description": "Связь между этапами развития ранней Месопотамии."
+  },
+  {
+    "id": "REL_MES_107",
+    "source": "EVT_MES_002",
+    "target": "EVT_MES_003",
+    "type": "PRECEDES",
+    "description": "Связь между этапами развития ранней Месопотамии."
+  },
+  {
+    "id": "REL_MES_108",
+    "source": "EVT_MES_003",
+    "target": "ORG_MES_001",
+    "type": "INFLUENCED",
+    "description": "Связь между этапами развития ранней Месопотамии."
+  },
+  {
+    "id": "REL_MES_109",
+    "source": "ART_MES_002",
+    "target": "TERM_MES_013",
+    "type": "SOURCE_FOR",
+    "description": "Связь между этапами развития ранней Месопотамии."
+  },
+  {
+    "id": "REL_MES_110",
+    "source": "ART_MES_004",
+    "target": "ART_MES_005",
+    "type": "PRECEDES",
+    "description": "Связь между этапами развития ранней Месопотамии."
   }
 ]

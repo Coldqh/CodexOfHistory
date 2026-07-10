@@ -1,5 +1,5 @@
 {
-  "version": "2.1.1",
+  "version": "2.2.0",
   "rules": {
     "campaign_cards_in_random_packs": false,
     "duplicates_to_fragments": true,
@@ -31,7 +31,7 @@
     },
     {
       "id": "ROMAN",
-      "title": "Римский коллекционный пак",
+      "title": "Коллекционный пак кампании",
       "drops": 4,
       "cost": 60,
       "currency": "fragments"
@@ -51,5 +51,5 @@
     "EPIC": 20,
     "LEGENDARY": 50
   },
-  "activeCampaign": "ROME"
+  "activeCampaign": "DYNAMIC"
 }

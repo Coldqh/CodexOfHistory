@@ -1,4 +1,4 @@
-const VERSION='codex-v2.1.1';
+const VERSION='codex-v2.2.0';
 const APP_CACHE=`${VERSION}-app`;
 const IMAGE_CACHE=`${VERSION}-images`;
 const APP_SHELL=['./','./index.html','./styles.css','./manifest.webmanifest','./assets/ui/codex-mark.svg','./assets/ui/fallback-card.svg','./assets/ui/pack-daily.svg','./assets/ui/pack-rome.svg',

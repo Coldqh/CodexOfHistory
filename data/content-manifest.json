@@ -1,35 +1,51 @@
 {
-  "version": "2.1.1",
+  "version": "2.2.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
     "cards": [
       "data/cards/rome/story.json",
       "data/cards/rome/archive.json",
-      "data/cards/rome/future.json"
+      "data/cards/rome/future.json",
+      "data/cards/mesopotamia/story.json",
+      "data/cards/mesopotamia/archive.json"
     ],
     "relations": "data/core/relations.json",
-    "campaign": "data/campaigns/rome/campaign.json",
-    "pools": "data/campaigns/rome/pools.json",
+    "pools": [
+      "data/campaigns/rome/pools.json",
+      "data/campaigns/mesopotamia/pools.json"
+    ],
     "quizzes": [
       "data/quizzes/rome/chapter_01.json",
       "data/quizzes/rome/chapter_02.json",
-      "data/quizzes/rome/chapter_03.json"
+      "data/quizzes/rome/chapter_03.json",
+      "data/quizzes/mesopotamia/chapter_01_05.json"
     ],
-    "stories": "data/stories/rome/personal.json",
+    "stories": [
+      "data/stories/rome/personal.json",
+      "data/stories/mesopotamia/personal.json"
+    ],
     "mastery": "data/core/mastery.json",
     "packs": "data/core/packs.json",
     "collection": "data/core/collection.json",
-    "maps": "data/maps/rome.json",
+    "maps": {
+      "ROME_CAMPAIGN": "data/maps/rome.json",
+      "MESOPOTAMIA_DAWN": "data/maps/mesopotamia.json"
+    },
     "daily": "data/core/daily-learning.json",
     "lessons": [
       "data/lessons/rome/chapter_01.json",
       "data/lessons/rome/chapter_02.json",
-      "data/lessons/rome/chapter_03.json"
+      "data/lessons/rome/chapter_03.json",
+      "data/lessons/mesopotamia/chapter_01_05.json"
     ],
     "eras": "data/world/eras.json",
     "campaignCatalog": "data/world/campaigns.json",
-    "worldTimeline": "data/world/timeline.json"
+    "worldTimeline": "data/world/timeline.json",
+    "campaigns": [
+      "data/campaigns/rome/campaign.json",
+      "data/campaigns/mesopotamia/campaign.json"
+    ]
   },
   "scripts": [
     "js/maps/engine.js",
@@ -51,6 +67,7 @@
     "js/features/v1-9-theory.js",
     "js/features/v2-0-italy.js",
     "js/features/v2-1-global-era.js",
+    "js/features/v2-2-mesopotamia.js",
     "js/core/start.js"
   ],
   "vendors": {

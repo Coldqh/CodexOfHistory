@@ -1241,3 +1241,8 @@ html[data-text-size="small"]{font-size:14px}html[data-text-size="large"]{font-si
 .tier-common{border-color:#858b93}.tier-uncommon{border-color:#5fa874}.tier-rare{border-color:#4f8fc9}.tier-epic{border-color:#8b62c9}.tier-legendary{border-color:#d28a35}.tier-mythic{border-color:#d84a5a}
 .history-card[data-rarity="COMMON"] .rarity-flag,.catalog-card[data-rarity="COMMON"] .catalog-status{color:#d8dce2}
 .history-card[data-rarity="UNCOMMON"] .rarity-flag,.catalog-card[data-rarity="UNCOMMON"] .catalog-status{color:#9de0ae}
+/* v2.2 Mesopotamia */
+.mesopotamia-home .global-home-copy h2 span{color:#d8a75f}.mesopotamia-home .global-home-era{border-color:rgba(216,167,95,.28)}
+.pack-page-card.campaign-pack img{object-fit:cover;background:#21160d}
+[data-theme="parchment"] .mesopotamia-home .global-home-copy h2 span{color:#87551d}
+@media(max-width:700px){.mesopotamia-home .global-home-copy h2{font-size:clamp(1.55rem,8vw,2.3rem)}.world-breadcrumb{overflow:auto;white-space:nowrap}.pack-page-card.campaign-pack img{height:130px}}

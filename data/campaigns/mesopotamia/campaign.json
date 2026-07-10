@@ -1,0 +1,875 @@
+{
+  "id": "MESOPOTAMIA_DAWN",
+  "title": "Месопотамия: первые города",
+  "description": "Пять первых глав о том, как речная равнина, поселения, убейдские сети, Урук и административные учреждения создали городской мир.",
+  "difficulty": 4,
+  "chapters": [
+    {
+      "id": "MES_CHAPTER_01",
+      "number": 1,
+      "title": "Земля между Тигром и Евфратом",
+      "subtitle": "География, вода и ресурсы",
+      "description": "Полный учебный маршрут: рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "MES_01_01",
+        "MES_01_02",
+        "MES_01_03",
+        "MES_01_04",
+        "MES_01_05",
+        "MES_01_06"
+      ]
+    },
+    {
+      "id": "MES_CHAPTER_02",
+      "number": 2,
+      "title": "Земледелие, каналы и поселения",
+      "subtitle": "Как люди организовали речную равнину",
+      "description": "Полный учебный маршрут: рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "MES_02_01",
+        "MES_02_02",
+        "MES_02_03",
+        "MES_02_04",
+        "MES_02_05",
+        "MES_02_06"
+      ]
+    },
+    {
+      "id": "MES_CHAPTER_03",
+      "number": 3,
+      "title": "Убейдский мир",
+      "subtitle": "Региональные сети до первых мегаполисов",
+      "description": "Полный учебный маршрут: рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "MES_03_01",
+        "MES_03_02",
+        "MES_03_03",
+        "MES_03_04",
+        "MES_03_05",
+        "MES_03_06"
+      ]
+    },
+    {
+      "id": "MES_CHAPTER_04",
+      "number": 4,
+      "title": "Урукская городская революция",
+      "subtitle": "Первый великий городской мир",
+      "description": "Полный учебный маршрут: рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "MES_04_01",
+        "MES_04_02",
+        "MES_04_03",
+        "MES_04_04",
+        "MES_04_05",
+        "MES_04_06"
+      ]
+    },
+    {
+      "id": "MES_CHAPTER_05",
+      "number": 5,
+      "title": "Храм, склад и управление",
+      "subtitle": "Администрация до полноценной письменности",
+      "description": "Полный учебный маршрут: рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "MES_05_01",
+        "MES_05_02",
+        "MES_05_03",
+        "MES_05_04",
+        "MES_05_05",
+        "MES_05_06"
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "id": "MES_01_01",
+      "type": "LESSON",
+      "title": "Две реки и одна равнина",
+      "description": "Как Тигр, Евфрат и наносы создали пространство ранней цивилизации",
+      "cards": [
+        "REG_MES_001",
+        "REG_MES_002",
+        "REG_MES_003"
+      ],
+      "unlockCards": [
+        "REG_MES_004"
+      ],
+      "xp": 90,
+      "emoji": "🌊",
+      "chapterId": "MES_CHAPTER_01",
+      "lessonId": "MES_01_01"
+    },
+    {
+      "id": "MES_01_02",
+      "type": "CAUSE_EFFECT",
+      "title": "Вода как возможность и угроза",
+      "description": "Почему паводок не был простой ежегодной гарантией урожая",
+      "cards": [
+        "REG_MES_004",
+        "TERM_MES_002"
+      ],
+      "unlockCards": [
+        "TERM_MES_001",
+        "REG_MES_002"
+      ],
+      "xp": 100,
+      "emoji": "≋",
+      "chapterId": "MES_CHAPTER_01",
+      "lessonId": "MES_01_02"
+    },
+    {
+      "id": "MES_01_03",
+      "type": "MAP",
+      "title": "Где начинается Месопотамия",
+      "description": "Найди север, южную равнину и район будущего Урука",
+      "cards": [
+        "REG_MES_001",
+        "REG_MES_004"
+      ],
+      "unlockCards": [
+        "REG_MESA_001",
+        "REG_MESA_002",
+        "REG_MES_003"
+      ],
+      "xp": 110,
+      "emoji": "🗺",
+      "chapterId": "MES_CHAPTER_01",
+      "lessonId": "MES_01_03",
+      "mapTargets": [
+        {
+          "key": "north",
+          "label": "Верхняя Месопотамия",
+          "point": "MES_NORTH",
+          "zoom": 6,
+          "radius": 90000
+        },
+        {
+          "key": "south",
+          "label": "Южная равнина",
+          "point": "MES_SOUTH",
+          "zoom": 7,
+          "radius": 70000
+        },
+        {
+          "key": "uruk",
+          "label": "Урук",
+          "point": "URUK",
+          "zoom": 11,
+          "radius": 7000
+        }
+      ]
+    },
+    {
+      "id": "MES_01_04",
+      "type": "MATCH",
+      "title": "Ресурсы речной равнины",
+      "description": "Свяжи глину, тростник, битум и дальнюю торговлю с их функциями",
+      "cards": [
+        "TERM_MES_001",
+        "TERM_MES_002"
+      ],
+      "unlockCards": [
+        "ART_MESA_001",
+        "ART_MESA_002",
+        "TERM_MESA_004",
+        "REG_MES_004"
+      ],
+      "xp": 100,
+      "emoji": "◇",
+      "chapterId": "MES_CHAPTER_01",
+      "lessonId": "MES_01_04"
+    },
+    {
+      "id": "MES_01_05",
+      "type": "TIMELINE",
+      "title": "До первых городов",
+      "description": "Собери путь от земледельческих общин к сложной южной сети",
+      "cards": [
+        "REG_MES_001",
+        "REG_MES_004"
+      ],
+      "unlockCards": [
+        "TERM_MESA_002",
+        "TERM_MESA_003",
+        "TERM_MES_001"
+      ],
+      "xp": 110,
+      "emoji": "⌛",
+      "chapterId": "MES_CHAPTER_01",
+      "lessonId": "MES_01_05",
+      "timeline": {
+        "order": [
+          "villages",
+          "ubaid",
+          "uruk",
+          "writing"
+        ],
+        "labels": {
+          "villages": "VI тыс. до н. э. · устойчивые земледельческие поселения",
+          "ubaid": "V тыс. до н. э. · убейдские региональные сети",
+          "uruk": "IV тыс. до н. э. · рост Урука",
+          "writing": "ок. 3400–3200 до н. э. · ранние таблички"
+        },
+        "shuffle": [
+          "writing",
+          "uruk",
+          "ubaid",
+          "villages"
+        ]
+      }
+    },
+    {
+      "id": "MES_01_06",
+      "type": "FINAL",
+      "title": "Испытание Междуречья",
+      "description": "Проверь понимание географии, ресурсов и речных рисков",
+      "cards": [
+        "REG_MES_001",
+        "REG_MES_002",
+        "REG_MES_003",
+        "REG_MES_004"
+      ],
+      "unlockCards": [
+        "TERM_MESA_001",
+        "TERM_MES_002"
+      ],
+      "xp": 150,
+      "emoji": "🏺",
+      "chapterId": "MES_CHAPTER_01",
+      "lessonId": "MES_01_06",
+      "quiz": "QUIZ_MES_CH1"
+    },
+    {
+      "id": "MES_02_01",
+      "type": "LESSON",
+      "title": "Поле у канала",
+      "description": "Как вода превращалась в урожай и зависимость от инфраструктуры",
+      "cards": [
+        "SYS_MES_001",
+        "TERM_MES_005"
+      ],
+      "unlockCards": [
+        "TERM_MES_006"
+      ],
+      "xp": 90,
+      "emoji": "🌾",
+      "chapterId": "MES_CHAPTER_02",
+      "lessonId": "MES_02_01"
+    },
+    {
+      "id": "MES_02_02",
+      "type": "CAUSE_EFFECT",
+      "title": "Цена ирригации",
+      "description": "Почему канал требовал постоянной коллективной работы",
+      "cards": [
+        "SYS_MES_001",
+        "TERM_MES_005"
+      ],
+      "unlockCards": [
+        "TERM_MES_007"
+      ],
+      "xp": 100,
+      "emoji": "↠",
+      "chapterId": "MES_CHAPTER_02",
+      "lessonId": "MES_02_02"
+    },
+    {
+      "id": "MES_02_03",
+      "type": "MAP",
+      "title": "Поселения вдоль воды",
+      "description": "Найди Эриду, Урук и древние русла южной равнины",
+      "cards": [
+        "EVT_MES_001",
+        "TERM_MES_008"
+      ],
+      "unlockCards": [
+        "ART_MESA_005"
+      ],
+      "xp": 110,
+      "emoji": "🗺",
+      "chapterId": "MES_CHAPTER_02",
+      "lessonId": "MES_02_03",
+      "mapTargets": [
+        {
+          "key": "eridu",
+          "label": "Эриду",
+          "point": "ERIDU",
+          "zoom": 10,
+          "radius": 9000
+        },
+        {
+          "key": "uruk",
+          "label": "Урук",
+          "point": "URUK",
+          "zoom": 10,
+          "radius": 9000
+        },
+        {
+          "key": "euphrates",
+          "label": "Евфрат",
+          "point": "EUPHRATES_SOUTH",
+          "zoom": 7,
+          "radius": 80000
+        }
+      ]
+    },
+    {
+      "id": "MES_02_04",
+      "type": "MATCH",
+      "title": "Хозяйство поселения",
+      "description": "Распредели задачи между полем, стадом, домом и каналом",
+      "cards": [
+        "EVT_MES_001",
+        "TERM_MES_006",
+        "TERM_MES_007"
+      ],
+      "unlockCards": [
+        "ART_MESA_003",
+        "ART_MESA_004",
+        "TERM_MESA_008"
+      ],
+      "xp": 100,
+      "emoji": "⌂",
+      "chapterId": "MES_CHAPTER_02",
+      "lessonId": "MES_02_04"
+    },
+    {
+      "id": "MES_02_05",
+      "type": "TIMELINE",
+      "title": "От деревни к центру",
+      "description": "Собери развитие устойчивого поселения и запасов",
+      "cards": [
+        "EVT_MES_001",
+        "TERM_MES_008"
+      ],
+      "unlockCards": [
+        "TERM_MESA_006",
+        "TERM_MESA_009",
+        "TERM_MES_007"
+      ],
+      "xp": 110,
+      "emoji": "⌛",
+      "chapterId": "MES_CHAPTER_02",
+      "lessonId": "MES_02_05",
+      "timeline": {
+        "order": [
+          "settle",
+          "canals",
+          "surplus",
+          "city"
+        ],
+        "labels": {
+          "settle": "VI–V тыс. до н. э. · рост поселений",
+          "canals": "V–IV тыс. до н. э. · расширение каналов",
+          "surplus": "IV тыс. до н. э. · увеличение запасов",
+          "city": "конец IV тыс. до н. э. · крупные города"
+        },
+        "shuffle": [
+          "city",
+          "surplus",
+          "canals",
+          "settle"
+        ]
+      }
+    },
+    {
+      "id": "MES_02_06",
+      "type": "FINAL",
+      "title": "Испытание воды и труда",
+      "description": "Проверь понимание ирригации, поселений и излишка",
+      "cards": [
+        "SYS_MES_001",
+        "TERM_MES_005",
+        "TERM_MES_007"
+      ],
+      "unlockCards": [
+        "TERM_MESA_005",
+        "TERM_MES_008"
+      ],
+      "xp": 150,
+      "emoji": "✓",
+      "chapterId": "MES_CHAPTER_02",
+      "lessonId": "MES_02_06",
+      "quiz": "QUIZ_MES_CH2"
+    },
+    {
+      "id": "MES_03_01",
+      "type": "LESSON",
+      "title": "Мир до Урука",
+      "description": "Почему Убейдский период нельзя считать пустой прелюдией",
+      "cards": [
+        "EVT_MES_002",
+        "SYSTEM_MES_002"
+      ],
+      "unlockCards": [
+        "ART_MES_001"
+      ],
+      "xp": 90,
+      "emoji": "◌",
+      "chapterId": "MES_CHAPTER_03",
+      "lessonId": "MES_03_01"
+    },
+    {
+      "id": "MES_03_02",
+      "type": "SOURCE",
+      "title": "Эриду и глубина времени",
+      "description": "Как археологические слои создают историю священного места",
+      "cards": [
+        "CITY_MES_001",
+        "CITY_MES_002"
+      ],
+      "unlockCards": [
+        "REL_MES_001"
+      ],
+      "xp": 100,
+      "emoji": "▥",
+      "chapterId": "MES_CHAPTER_03",
+      "lessonId": "MES_03_02"
+    },
+    {
+      "id": "MES_03_03",
+      "type": "MAP",
+      "title": "Сеть Убейда",
+      "description": "Найди Эриду, Убейд, Сузы и северные центры",
+      "cards": [
+        "EVT_MES_002",
+        "SYSTEM_MES_002"
+      ],
+      "unlockCards": [
+        "CITY_MESA_001",
+        "CITY_MESA_002",
+        "CITY_MESA_004",
+        "ART_MES_001"
+      ],
+      "xp": 110,
+      "emoji": "🗺",
+      "chapterId": "MES_CHAPTER_03",
+      "lessonId": "MES_03_03",
+      "mapTargets": [
+        {
+          "key": "eridu",
+          "label": "Эриду",
+          "point": "ERIDU",
+          "zoom": 10,
+          "radius": 9000
+        },
+        {
+          "key": "ubaid",
+          "label": "Телль-эль-Убейд",
+          "point": "UBAID",
+          "zoom": 11,
+          "radius": 5000
+        },
+        {
+          "key": "susa",
+          "label": "Сузы",
+          "point": "SUSA",
+          "zoom": 9,
+          "radius": 12000
+        },
+        {
+          "key": "tepegawra",
+          "label": "Тепе-Гавра",
+          "point": "TEPE_GAWRA",
+          "zoom": 9,
+          "radius": 12000
+        }
+      ]
+    },
+    {
+      "id": "MES_03_04",
+      "type": "MATCH",
+      "title": "Что распространялось",
+      "description": "Отдели общий стиль, торговлю и политическое единство",
+      "cards": [
+        "ART_MES_001",
+        "SYSTEM_MES_002"
+      ],
+      "unlockCards": [
+        "TERM_MESA_010",
+        "TERM_MESA_011",
+        "CITY_MES_002"
+      ],
+      "xp": 100,
+      "emoji": "◆",
+      "chapterId": "MES_CHAPTER_03",
+      "lessonId": "MES_03_04"
+    },
+    {
+      "id": "MES_03_05",
+      "type": "TIMELINE",
+      "title": "Долгий Убейд",
+      "description": "Собери региональные фазы до роста Урука",
+      "cards": [
+        "EVT_MES_002",
+        "CITY_MES_001"
+      ],
+      "unlockCards": [
+        "CITY_MESA_003",
+        "ART_MESA_007",
+        "SYSTEM_MES_002"
+      ],
+      "xp": 110,
+      "emoji": "⌛",
+      "chapterId": "MES_CHAPTER_03",
+      "lessonId": "MES_03_05",
+      "timeline": {
+        "order": [
+          "early",
+          "ubaid",
+          "spread",
+          "uruk"
+        ],
+        "labels": {
+          "early": "VI тыс. до н. э. · ранние южные фазы",
+          "ubaid": "V тыс. до н. э. · зрелый Убейд",
+          "spread": "V–IV тыс. до н. э. · межрегиональное распространение",
+          "uruk": "ок. 4000 до н. э. · переход к Уруку"
+        },
+        "shuffle": [
+          "uruk",
+          "spread",
+          "ubaid",
+          "early"
+        ]
+      }
+    },
+    {
+      "id": "MES_03_06",
+      "type": "FINAL",
+      "title": "Испытание Убейдского мира",
+      "description": "Проверь архитектуру, керамику, сети и ограничения источников",
+      "cards": [
+        "EVT_MES_002",
+        "CITY_MES_001",
+        "ART_MES_001"
+      ],
+      "unlockCards": [
+        "ART_MESA_006",
+        "REL_MES_001"
+      ],
+      "xp": 150,
+      "emoji": "🏺",
+      "chapterId": "MES_CHAPTER_03",
+      "lessonId": "MES_03_06",
+      "quiz": "QUIZ_MES_CH3"
+    },
+    {
+      "id": "MES_04_01",
+      "type": "LESSON",
+      "title": "Город становится огромным",
+      "description": "Как Урук сосредоточил население, труд и монументальную архитектуру",
+      "cards": [
+        "EVT_MES_003",
+        "CITY_MES_003"
+      ],
+      "unlockCards": [
+        "TERM_MES_009",
+        "ART_MES_003"
+      ],
+      "xp": 100,
+      "emoji": "𒀭",
+      "chapterId": "MES_CHAPTER_04",
+      "lessonId": "MES_04_01"
+    },
+    {
+      "id": "MES_04_02",
+      "type": "SOURCE",
+      "title": "Эанна и Белый храм",
+      "description": "Как читать монументальное здание без готовой подписи",
+      "cards": [
+        "CITY_MES_004",
+        "CITY_MES_005"
+      ],
+      "unlockCards": [
+        "TERM_MES_010",
+        "CITY_MES_003"
+      ],
+      "xp": 100,
+      "emoji": "▤",
+      "chapterId": "MES_CHAPTER_04",
+      "lessonId": "MES_04_02"
+    },
+    {
+      "id": "MES_04_03",
+      "type": "MAP",
+      "title": "Урук и его дальние связи",
+      "description": "Найди Урук, Сузы и Хабуба-Кабиру",
+      "cards": [
+        "CITY_MES_003",
+        "TERM_MES_009"
+      ],
+      "unlockCards": [
+        "CITY_MESA_005",
+        "TERM_MESA_012",
+        "CITY_MES_004"
+      ],
+      "xp": 110,
+      "emoji": "🗺",
+      "chapterId": "MES_CHAPTER_04",
+      "lessonId": "MES_04_03",
+      "mapTargets": [
+        {
+          "key": "uruk",
+          "label": "Урук",
+          "point": "URUK",
+          "zoom": 10,
+          "radius": 9000
+        },
+        {
+          "key": "susa",
+          "label": "Сузы",
+          "point": "SUSA",
+          "zoom": 8,
+          "radius": 18000
+        },
+        {
+          "key": "habuba",
+          "label": "Хабуба-Кабира",
+          "point": "HABUBA",
+          "zoom": 9,
+          "radius": 12000
+        }
+      ]
+    },
+    {
+      "id": "MES_04_04",
+      "type": "MATCH",
+      "title": "Городские профессии",
+      "description": "Свяжи специализацию с ремеслом, сырьём и снабжением",
+      "cards": [
+        "TERM_MES_009",
+        "ART_MES_003"
+      ],
+      "unlockCards": [
+        "TERM_MESA_013",
+        "TERM_MESA_014",
+        "TERM_MESA_015",
+        "TERM_MESA_016",
+        "CITY_MES_005"
+      ],
+      "xp": 110,
+      "emoji": "⚒",
+      "chapterId": "MES_CHAPTER_04",
+      "lessonId": "MES_04_04"
+    },
+    {
+      "id": "MES_04_05",
+      "type": "TIMELINE",
+      "title": "Урукская урбанизация",
+      "description": "Собери рост центра, монументальные районы и административные инновации",
+      "cards": [
+        "EVT_MES_003",
+        "CITY_MES_003"
+      ],
+      "unlockCards": [
+        "ART_MES_002",
+        "TERM_MESA_017",
+        "TERM_MES_009"
+      ],
+      "xp": 110,
+      "emoji": "⌛",
+      "chapterId": "MES_CHAPTER_04",
+      "lessonId": "MES_04_05",
+      "timeline": {
+        "order": [
+          "growth",
+          "monument",
+          "admin",
+          "late"
+        ],
+        "labels": {
+          "growth": "ок. 4000–3600 до н. э. · рост Урука",
+          "monument": "ок. 3600–3400 до н. э. · монументальные комплексы",
+          "admin": "ок. 3400–3200 до н. э. · печати и массовый учёт",
+          "late": "ок. 3200–3000 до н. э. · поздний Урук"
+        },
+        "shuffle": [
+          "late",
+          "admin",
+          "monument",
+          "growth"
+        ]
+      }
+    },
+    {
+      "id": "MES_04_06",
+      "type": "FINAL",
+      "title": "Испытание первого города",
+      "description": "Проверь урбанизацию, массовое производство и влияние Урука",
+      "cards": [
+        "CITY_MES_003",
+        "CITY_MES_004",
+        "ART_MES_002"
+      ],
+      "unlockCards": [
+        "ART_MESA_008",
+        "ART_MESA_009"
+      ],
+      "xp": 160,
+      "emoji": "♛",
+      "chapterId": "MES_CHAPTER_04",
+      "lessonId": "MES_04_06",
+      "quiz": "QUIZ_MES_CH4"
+    },
+    {
+      "id": "MES_05_01",
+      "type": "LESSON",
+      "title": "Учреждение и дом",
+      "description": "Как храмовое хозяйство сосуществовало с домохозяйствами",
+      "cards": [
+        "ORG_MES_001",
+        "SYS_MES_003"
+      ],
+      "unlockCards": [
+        "SYS_MES_004",
+        "ART_MES_005"
+      ],
+      "xp": 100,
+      "emoji": "✹",
+      "chapterId": "MES_CHAPTER_05",
+      "lessonId": "MES_05_01"
+    },
+    {
+      "id": "MES_05_02",
+      "type": "CAUSE_EFFECT",
+      "title": "Склад превращает урожай во власть",
+      "description": "Почему измерение и выдача меняли общественные отношения",
+      "cards": [
+        "SYS_MES_004",
+        "TERM_MES_011"
+      ],
+      "unlockCards": [
+        "TERM_MES_012",
+        "TERM_MES_013"
+      ],
+      "xp": 110,
+      "emoji": "▦",
+      "chapterId": "MES_CHAPTER_05",
+      "lessonId": "MES_05_02"
+    },
+    {
+      "id": "MES_05_03",
+      "type": "MAP",
+      "title": "Потоки города",
+      "description": "Найди Эанну, Урук, Эриду и направления обмена",
+      "cards": [
+        "ORG_MES_001",
+        "SYS_MES_003"
+      ],
+      "unlockCards": [
+        "CITY_MESA_006",
+        "TERM_MES_012"
+      ],
+      "xp": 110,
+      "emoji": "🗺",
+      "chapterId": "MES_CHAPTER_05",
+      "lessonId": "MES_05_03",
+      "mapTargets": [
+        {
+          "key": "eanna",
+          "label": "Эанна",
+          "point": "EANNA",
+          "zoom": 14,
+          "radius": 600
+        },
+        {
+          "key": "uruk",
+          "label": "Урук",
+          "point": "URUK",
+          "zoom": 11,
+          "radius": 7000
+        },
+        {
+          "key": "eridu",
+          "label": "Эриду",
+          "point": "ERIDU",
+          "zoom": 10,
+          "radius": 9000
+        }
+      ]
+    },
+    {
+      "id": "MES_05_04",
+      "type": "MATCH",
+      "title": "Люди большой администрации",
+      "description": "Свяжи администратора, писца, пастуха, лодочника и кладовщика с задачами",
+      "cards": [
+        "TERM_MES_011",
+        "TERM_MES_012"
+      ],
+      "unlockCards": [
+        "TERM_MESA_024",
+        "TERM_MESA_025",
+        "TERM_MESA_026",
+        "SYS_MES_003"
+      ],
+      "xp": 110,
+      "emoji": "◆",
+      "chapterId": "MES_CHAPTER_05",
+      "lessonId": "MES_05_04"
+    },
+    {
+      "id": "MES_05_05",
+      "type": "TIMELINE",
+      "title": "От жетона к табличке",
+      "description": "Собери развитие учёта до протописьма",
+      "cards": [
+        "ART_MES_004",
+        "ART_MES_005",
+        "TERM_MES_013"
+      ],
+      "unlockCards": [
+        "ART_MESA_010",
+        "ART_MESA_011",
+        "TERM_MESA_021",
+        "SYS_MES_004"
+      ],
+      "xp": 120,
+      "emoji": "⌛",
+      "chapterId": "MES_CHAPTER_05",
+      "lessonId": "MES_05_05",
+      "timeline": {
+        "order": [
+          "tokens",
+          "bullae",
+          "tablets",
+          "proto"
+        ],
+        "labels": {
+          "tokens": "VIII–V тыс. до н. э. · счётные жетоны",
+          "bullae": "V–IV тыс. до н. э. · буллы и пломбы",
+          "tablets": "ок. 3400–3200 до н. э. · числовые таблички",
+          "proto": "ок. 3200–3000 до н. э. · протоклинопись"
+        },
+        "shuffle": [
+          "proto",
+          "tablets",
+          "bullae",
+          "tokens"
+        ]
+      }
+    },
+    {
+      "id": "MES_05_06",
+      "type": "FINAL",
+      "title": "Испытание управления",
+      "description": "Проверь храм, склад, рационы, печати и ранний учёт",
+      "cards": [
+        "ORG_MES_001",
+        "SYS_MES_003",
+        "ART_MES_005"
+      ],
+      "unlockCards": [
+        "TERM_MESA_022",
+        "TERM_MESA_027",
+        "ART_MES_004"
+      ],
+      "xp": 170,
+      "emoji": "𒄑",
+      "chapterId": "MES_CHAPTER_05",
+      "lessonId": "MES_05_06",
+      "quiz": "QUIZ_MES_CH5"
+    }
+  ]
+}

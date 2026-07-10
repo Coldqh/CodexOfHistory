@@ -1,0 +1,294 @@
+{
+  "points": {
+    "MES_NORTH": [
+      36.0,
+      42.0
+    ],
+    "MES_SOUTH": [
+      31.5,
+      45.5
+    ],
+    "TIGRIS": [
+      33.3,
+      44.3
+    ],
+    "EUPHRATES_SOUTH": [
+      31.8,
+      45.1
+    ],
+    "ERIDU": [
+      30.816,
+      45.994
+    ],
+    "URUK": [
+      31.322,
+      45.637
+    ],
+    "EANNA": [
+      31.322,
+      45.637
+    ],
+    "UBAID": [
+      30.97,
+      46.04
+    ],
+    "SUSA": [
+      32.19,
+      48.26
+    ],
+    "TEPE_GAWRA": [
+      36.36,
+      43.23
+    ],
+    "HABUBA": [
+      35.99,
+      38.08
+    ],
+    "PERSIAN_GULF": [
+      29.5,
+      48.0
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "REG_MES_001": "MES_SOUTH",
+    "REG_MES_002": "TIGRIS",
+    "REG_MES_003": "EUPHRATES_SOUTH",
+    "REG_MES_004": "MES_SOUTH",
+    "TERM_MES_001": "MES_SOUTH",
+    "TERM_MES_002": "MES_SOUTH",
+    "REG_MESA_001": "MES_SOUTH",
+    "REG_MESA_002": "MES_SOUTH",
+    "TERM_MESA_001": "MES_SOUTH",
+    "ART_MESA_001": "MES_SOUTH",
+    "ART_MESA_002": "MES_SOUTH",
+    "TERM_MESA_002": "MES_SOUTH",
+    "TERM_MESA_003": "MES_SOUTH",
+    "TERM_MESA_004": "MES_SOUTH",
+    "SYS_MES_001": [
+      31.7,
+      45.0
+    ],
+    "TERM_MES_005": [
+      31.9,
+      45.2
+    ],
+    "EVT_MES_001": [
+      32.1,
+      45.4
+    ],
+    "TERM_MES_006": [
+      31.6,
+      45.3
+    ],
+    "TERM_MES_007": [
+      31.8,
+      45.0
+    ],
+    "TERM_MES_008": [
+      33.0,
+      44.0
+    ],
+    "ART_MESA_003": [
+      32.0,
+      44.5
+    ],
+    "ART_MESA_004": [
+      32.0,
+      44.5
+    ],
+    "TERM_MESA_005": [
+      31.5,
+      46.0
+    ],
+    "TERM_MESA_006": [
+      31.2,
+      45.8
+    ],
+    "TERM_MESA_007": [
+      31.8,
+      45.2
+    ],
+    "TERM_MESA_008": [
+      32.0,
+      45.0
+    ],
+    "ART_MESA_005": [
+      31.2,
+      47.0
+    ],
+    "TERM_MESA_009": [
+      31.7,
+      45.4
+    ],
+    "EVT_MES_002": [
+      30.9,
+      46.0
+    ],
+    "CITY_MES_001": "ERIDU",
+    "ART_MES_001": [
+      30.9,
+      46.0
+    ],
+    "CITY_MES_002": [
+      30.82,
+      45.99
+    ],
+    "SYSTEM_MES_002": [
+      31.0,
+      45.8
+    ],
+    "REL_MES_001": "ERIDU",
+    "CITY_MESA_001": [
+      30.97,
+      46.04
+    ],
+    "ART_MESA_006": [
+      31.0,
+      46.0
+    ],
+    "CITY_MESA_002": "TEPE_GAWRA",
+    "CITY_MESA_003": [
+      31.3,
+      45.6
+    ],
+    "ART_MESA_007": [
+      30.95,
+      46.0
+    ],
+    "TERM_MESA_010": [
+      32.0,
+      44.5
+    ],
+    "TERM_MESA_011": [
+      29.5,
+      48.0
+    ],
+    "CITY_MESA_004": "SUSA",
+    "EVT_MES_003": "URUK",
+    "CITY_MES_003": "URUK",
+    "CITY_MES_004": "URUK",
+    "CITY_MES_005": "URUK",
+    "TERM_MES_009": "URUK",
+    "ART_MES_002": "URUK",
+    "ART_MES_003": "URUK",
+    "TERM_MES_010": "URUK",
+    "ART_MESA_008": [
+      31.322,
+      45.637
+    ],
+    "ART_MESA_009": [
+      31.322,
+      45.637
+    ],
+    "CITY_MESA_005": "HABUBA",
+    "TERM_MESA_012": [
+      34.5,
+      40.0
+    ],
+    "TERM_MESA_013": [
+      31.32,
+      45.64
+    ],
+    "TERM_MESA_014": [
+      31.32,
+      45.64
+    ],
+    "TERM_MESA_015": [
+      31.32,
+      45.64
+    ],
+    "TERM_MESA_016": [
+      31.3,
+      45.6
+    ],
+    "TERM_MESA_017": [
+      31.3,
+      45.6
+    ],
+    "TERM_MESA_018": [
+      35.0,
+      39.0
+    ],
+    "TERM_MESA_019": [
+      31.32,
+      45.64
+    ],
+    "ORG_MES_001": [
+      31.32,
+      45.64
+    ],
+    "TERM_MES_011": [
+      31.32,
+      45.64
+    ],
+    "TERM_MES_012": [
+      31.32,
+      45.64
+    ],
+    "SYS_MES_003": [
+      31.32,
+      45.64
+    ],
+    "SYS_MES_004": [
+      31.32,
+      45.64
+    ],
+    "ART_MES_004": [
+      32.0,
+      44.5
+    ],
+    "ART_MES_005": [
+      31.32,
+      45.64
+    ],
+    "TERM_MES_013": [
+      31.32,
+      45.64
+    ],
+    "CITY_MESA_006": [
+      31.32,
+      45.64
+    ],
+    "TERM_MESA_020": [
+      31.32,
+      45.64
+    ],
+    "TERM_MESA_021": [
+      31.32,
+      45.64
+    ],
+    "TERM_MESA_022": [
+      31.32,
+      45.64
+    ],
+    "ART_MESA_010": [
+      32.0,
+      44.5
+    ],
+    "ART_MESA_011": [
+      31.2,
+      47.0
+    ],
+    "TERM_MESA_023": [
+      31.32,
+      45.64
+    ],
+    "TERM_MESA_024": [
+      32.5,
+      44.8
+    ],
+    "TERM_MESA_025": [
+      31.8,
+      45.2
+    ],
+    "TERM_MESA_026": [
+      31.32,
+      45.64
+    ],
+    "TERM_MESA_027": [
+      31.32,
+      45.64
+    ]
+  }
+}

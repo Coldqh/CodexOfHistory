@@ -1,0 +1,501 @@
+{
+  "campaignId": "MESOPOTAMIA_DAWN",
+  "campaigns": {
+    "MESOPOTAMIA": {
+      "id": "MESOPOTAMIA",
+      "title": "Месопотамия",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "MES_POOL_01",
+      "campaign": "MESOPOTAMIA",
+      "title": "Земля между Тигром и Евфратом",
+      "unlockMission": "MES_01_02",
+      "cardIds": [
+        "REG_MESA_001",
+        "REG_MESA_002",
+        "TERM_MESA_001",
+        "ART_MESA_001",
+        "ART_MESA_002",
+        "TERM_MESA_002",
+        "TERM_MESA_003",
+        "TERM_MESA_004"
+      ]
+    },
+    {
+      "id": "MES_POOL_02",
+      "campaign": "MESOPOTAMIA",
+      "title": "Земледелие, каналы и поселения",
+      "unlockMission": "MES_02_02",
+      "cardIds": [
+        "ART_MESA_003",
+        "ART_MESA_004",
+        "TERM_MESA_005",
+        "TERM_MESA_006",
+        "TERM_MESA_007",
+        "TERM_MESA_008",
+        "ART_MESA_005",
+        "TERM_MESA_009"
+      ]
+    },
+    {
+      "id": "MES_POOL_03",
+      "campaign": "MESOPOTAMIA",
+      "title": "Убейдский мир",
+      "unlockMission": "MES_03_02",
+      "cardIds": [
+        "CITY_MESA_001",
+        "ART_MESA_006",
+        "CITY_MESA_002",
+        "CITY_MESA_003",
+        "ART_MESA_007",
+        "TERM_MESA_010",
+        "TERM_MESA_011",
+        "CITY_MESA_004"
+      ]
+    },
+    {
+      "id": "MES_POOL_04",
+      "campaign": "MESOPOTAMIA",
+      "title": "Урукская городская революция",
+      "unlockMission": "MES_04_02",
+      "cardIds": [
+        "ART_MESA_008",
+        "ART_MESA_009",
+        "CITY_MESA_005",
+        "TERM_MESA_012",
+        "TERM_MESA_013",
+        "TERM_MESA_014",
+        "TERM_MESA_015",
+        "TERM_MESA_016",
+        "TERM_MESA_017",
+        "TERM_MESA_018",
+        "TERM_MESA_019"
+      ]
+    },
+    {
+      "id": "MES_POOL_05",
+      "campaign": "MESOPOTAMIA",
+      "title": "Храм, склад и управление",
+      "unlockMission": "MES_05_02",
+      "cardIds": [
+        "CITY_MESA_006",
+        "TERM_MESA_020",
+        "TERM_MESA_021",
+        "TERM_MESA_022",
+        "ART_MESA_010",
+        "ART_MESA_011",
+        "TERM_MESA_023",
+        "TERM_MESA_024",
+        "TERM_MESA_025",
+        "TERM_MESA_026",
+        "TERM_MESA_027"
+      ]
+    }
+  ],
+  "acquisition": {
+    "REG_MES_001": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_01"
+    },
+    "REG_MES_002": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_01"
+    },
+    "REG_MES_003": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_01"
+    },
+    "REG_MES_004": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_01"
+    },
+    "TERM_MES_001": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_01"
+    },
+    "TERM_MES_002": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_01"
+    },
+    "REG_MESA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_01"
+    },
+    "REG_MESA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_01"
+    },
+    "TERM_MESA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_01"
+    },
+    "ART_MESA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_01"
+    },
+    "ART_MESA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_01"
+    },
+    "TERM_MESA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_01"
+    },
+    "TERM_MESA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_01"
+    },
+    "TERM_MESA_004": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_01"
+    },
+    "SYS_MES_001": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_02"
+    },
+    "TERM_MES_005": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_02"
+    },
+    "EVT_MES_001": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_02"
+    },
+    "TERM_MES_006": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_02"
+    },
+    "TERM_MES_007": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_02"
+    },
+    "TERM_MES_008": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_02"
+    },
+    "ART_MESA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_02"
+    },
+    "ART_MESA_004": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_02"
+    },
+    "TERM_MESA_005": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_02"
+    },
+    "TERM_MESA_006": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_02"
+    },
+    "TERM_MESA_007": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_02"
+    },
+    "TERM_MESA_008": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_02"
+    },
+    "ART_MESA_005": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_02"
+    },
+    "TERM_MESA_009": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_02"
+    },
+    "EVT_MES_002": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_03"
+    },
+    "CITY_MES_001": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_03"
+    },
+    "ART_MES_001": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_03"
+    },
+    "CITY_MES_002": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_03"
+    },
+    "SYSTEM_MES_002": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_03"
+    },
+    "REL_MES_001": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_03"
+    },
+    "CITY_MESA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_03"
+    },
+    "ART_MESA_006": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_03"
+    },
+    "CITY_MESA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_03"
+    },
+    "CITY_MESA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_03"
+    },
+    "ART_MESA_007": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_03"
+    },
+    "TERM_MESA_010": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_03"
+    },
+    "TERM_MESA_011": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_03"
+    },
+    "CITY_MESA_004": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_03"
+    },
+    "EVT_MES_003": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_04"
+    },
+    "CITY_MES_003": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_04"
+    },
+    "CITY_MES_004": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_04"
+    },
+    "CITY_MES_005": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_04"
+    },
+    "TERM_MES_009": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_04"
+    },
+    "ART_MES_002": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_04"
+    },
+    "ART_MES_003": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_04"
+    },
+    "TERM_MES_010": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_04"
+    },
+    "ART_MESA_008": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_04"
+    },
+    "ART_MESA_009": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_04"
+    },
+    "CITY_MESA_005": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_04"
+    },
+    "TERM_MESA_012": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_04"
+    },
+    "TERM_MESA_013": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_04"
+    },
+    "TERM_MESA_014": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_04"
+    },
+    "TERM_MESA_015": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_04"
+    },
+    "TERM_MESA_016": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_04"
+    },
+    "TERM_MESA_017": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_04"
+    },
+    "TERM_MESA_018": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_04"
+    },
+    "TERM_MESA_019": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_04"
+    },
+    "ORG_MES_001": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_05"
+    },
+    "TERM_MES_011": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_05"
+    },
+    "TERM_MES_012": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_05"
+    },
+    "SYS_MES_003": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_05"
+    },
+    "SYS_MES_004": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_05"
+    },
+    "ART_MES_004": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_05"
+    },
+    "ART_MES_005": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_05"
+    },
+    "TERM_MES_013": {
+      "kind": "STORY",
+      "campaign": "MESOPOTAMIA",
+      "chapter": "MES_CHAPTER_05"
+    },
+    "CITY_MESA_006": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_05"
+    },
+    "TERM_MESA_020": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_05"
+    },
+    "TERM_MESA_021": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_05"
+    },
+    "TERM_MESA_022": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_05"
+    },
+    "ART_MESA_010": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_05"
+    },
+    "ART_MESA_011": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_05"
+    },
+    "TERM_MESA_023": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_05"
+    },
+    "TERM_MESA_024": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_05"
+    },
+    "TERM_MESA_025": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_05"
+    },
+    "TERM_MESA_026": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_05"
+    },
+    "TERM_MESA_027": {
+      "kind": "ARCHIVE",
+      "campaign": "MESOPOTAMIA",
+      "pool": "MES_POOL_05"
+    }
+  }
+}

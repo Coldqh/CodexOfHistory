@@ -1137,3 +1137,21 @@ html[data-text-size="small"]{font-size:14px}html[data-text-size="large"]{font-si
   .profile-summary{padding:12px}.profile-summary h2{font-size:22px}.profile-avatar{width:50px;height:50px;font-size:21px}.profile-danger-zone .panel{align-items:flex-start;flex-direction:column}.profile-danger-zone .btn{width:100%}
   .compact-settings-hero{padding:15px!important;display:flex!important}.compact-settings-hero h2{font-size:27px!important}.version-medallion{min-width:105px!important;padding:13px!important}.version-medallion b{font-size:23px!important}.theme-choice-row{grid-template-columns:1fr}.settings-card{padding:14px!important}.settings-card-head{margin-bottom:12px}
 }
+
+/* v1.6 — compact fragment counter and map focus */
+.packs-page-head{justify-content:flex-start!important;align-items:flex-start!important}
+.packs-title-block{min-width:0;max-width:100%}
+.compact-fragment-balance{display:inline-flex!important;align-items:baseline!important;justify-content:flex-start!important;gap:8px!important;min-width:0!important;width:auto!important;margin-top:9px!important;padding:6px 10px!important;white-space:nowrap;overflow:visible}
+.compact-fragment-balance>span{font-size:13px;line-height:1}
+.compact-fragment-balance>b{font-size:15px!important;line-height:1;letter-spacing:.02em}
+.compact-fragment-balance>small{font-size:9px!important;margin-left:3px;line-height:1.1;color:var(--muted)}
+.compact-location-card{cursor:zoom-in}
+.compact-location-card:active{transform:scale(.985)}
+.map-popup small{display:block;margin-top:5px;color:var(--muted);font-size:10px}
+@media(max-width:720px){
+ .packs-page-head{display:block!important;margin-bottom:8px!important}
+ .packs-title-block h2{font-size:23px!important}
+ .packs-title-block p{max-width:92%;font-size:9.5px!important}
+ .compact-fragment-balance{margin-top:7px!important;padding:5px 8px!important;gap:6px!important;max-width:100%}
+ .compact-fragment-balance>b{font-size:13px!important}.compact-fragment-balance>small{font-size:8px!important;margin-left:5px}
+}

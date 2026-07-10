@@ -1,13 +1,14 @@
 {
   "name": "codex-of-history",
   "private": true,
-  "version": "1.5.0",
+  "version": "1.6.0",
   "type": "module",
   "scripts": {
     "validate": "node tools/validate-content.mjs",
     "smoke": "node tools/smoke-daily.mjs",
     "smoke:settings": "node tools/smoke-settings.mjs",
-    "test": "node tools/validate-content.mjs && node tools/smoke-daily.mjs && node tools/smoke-settings.mjs && node tools/smoke-ui-v15.mjs",
-    "smoke:ui": "node tools/smoke-ui-v15.mjs"
+    "test": "node tools/validate-content.mjs && node tools/smoke-daily.mjs && node tools/smoke-settings.mjs && node tools/smoke-ui-v15.mjs && npm run test:v16",
+    "smoke:ui": "node tools/smoke-ui-v15.mjs",
+    "test:v16": "node tools/smoke-ui-v16.mjs"
   }
 }

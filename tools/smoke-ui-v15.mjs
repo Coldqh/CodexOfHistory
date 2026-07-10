@@ -16,7 +16,7 @@ context.CODEX_REGISTRY={cardsById:new Map(cards.map(x=>[x.id,x])),relationsByCar
 const ctx=vm.createContext(context);
 for(const script of manifest.scripts)vm.runInContext(fs.readFileSync(path.join(root,script),'utf8'),ctx,{filename:script});
 const assert=(v,m)=>{if(!v)throw new Error(m)};
-assert(manifest.version==='1.5.0','Версия не обновлена до 1.5.0');
+assert(manifest.version==='1.6.0','Версия не обновлена до 1.6.0');
 assert(cards.every(c=>c.source?.type==='wikipedia'&&c.source.url),'Не у всех карточек есть Wikipedia source');
 vm.runInContext("state.tab='home';render();",ctx);
 assert(!app.innerHTML.includes('title="Принудительно обновить"'),'Кнопка обновления осталась сверху');
@@ -43,4 +43,4 @@ vm.runInContext("state.tab='settings';render();",ctx);
 assert(app.innerHTML.includes('Тёмная тема'),'Тема не переименована');
 assert(app.innerHTML.includes('Принудительно обновить'),'Обновление не перенесено в настройки');
 assert(!app.innerHTML.includes('Плотность мобильного интерфейса')&&!app.innerHTML.includes('Размер текста')&&!app.innerHTML.includes('Анимации'),'Лишние настройки остались');
-console.log('✓ UI v1.5 smoke: card, map, packs, profile and settings work');
+console.log('✓ UI v1.6 compatibility smoke: card, map, packs, profile and settings work');

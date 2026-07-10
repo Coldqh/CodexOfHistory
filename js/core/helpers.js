@@ -1,10 +1,11 @@
-/* Codex v1.5 — registries and shared helpers */
+/* Codex v1.6 — registries, responsive image URLs and shared helpers */
 function card(id){ return CODEX_REGISTRY.cardsById.get(id); }
 function isUnlocked(id){ return state.unlocked.includes(id); }
-function imgUrl(file){ return 'https://commons.wikimedia.org/wiki/Special:FilePath/' + encodeURIComponent(file); }
+function imgUrl(file){ return 'https://commons.wikimedia.org/wiki/Special:Redirect/file/' + encodeURIComponent(file) + '?width=900'; }
 function filePage(file){ return 'https://commons.wikimedia.org/wiki/File:' + file.replaceAll(' ','_'); }
 function imgTag(c, cls=''){
-  return `<img class="${cls}" src="${imgUrl(c.image.file)}" alt="${esc(c.title)}" loading="lazy" style="object-position:${c.image.focus || '50% 50%'}" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='assets/ui/fallback-card.svg'">`;
+  const source=c.image.local||imgUrl(c.image.file);
+  return `<img class="${cls}" src="${source}" alt="${esc(c.title)}" loading="lazy" decoding="async" style="object-position:${c.image.focus || '50% 50%'}" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='assets/ui/fallback-card.svg'">`;
 }
 function esc(s){ return String(s ?? '').replace(/[&<>"']/g, m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m])); }
 function typeLabel(t){ return TYPE_META[t]?.[1] || t; }

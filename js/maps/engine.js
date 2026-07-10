@@ -1,9 +1,10 @@
-/* Codex v1.5 — chapter-aware interactive map engine */
+/* Codex v1.6 — chapter-aware interactive map engine with focus controls */
 const GEO=CODEX_CONFIG.maps.points;
 const CARD_GEO=Object.fromEntries(Object.entries(CODEX_CONFIG.maps.cardPoints).map(([id,value])=>[id,typeof value==='string'?GEO[value]:value]));
 const MAP_CHAPTERS=CODEX_CONFIG.maps.chapters||{ROME_CHAPTER_01:{title:'Рождение Рима',center:GEO.ROME,zoom:9}};
 let activeMaps=[];
-function destroyMaps(){activeMaps.forEach(m=>{try{m.remove();}catch(_){}});activeMaps=[];}
+let atlasMarkers=new Map();
+function destroyMaps(){activeMaps.forEach(m=>{try{m.remove();}catch(_){}});activeMaps=[];atlasMarkers=new Map();}
 function geoForCard(c){return CARD_GEO[c.id]||GEO.ROME;}
 function mapColors(){return state.theme==='parchment'?{line:'#68421f',fill:'#9b682f',wine:'#7f2f37',soft:'#f6ead2',text:'#2b1f15'}:{line:'#e5c78e',fill:'#a8793d',wine:'#b74d5a',soft:'#14110d',text:'#f6f1e8'};}
 function markerIcon(c,target=false){return L.divIcon({className:'history-div-icon',html:`<div class="history-marker ${target?'mission-target':''}">${typeIcon(c.type)}</div>`,iconSize:[36,36],iconAnchor:[18,18],tooltipAnchor:[0,-21]});}
@@ -17,10 +18,20 @@ function createBaseMap(id,center,zoom){
 }
 function addCardMarkers(map,cards){
   cards.forEach(c=>{
-    const marker=L.marker(geoForCard(c),{icon:markerIcon(c)}).addTo(map);
+    const point=geoForCard(c);
+    const marker=L.marker(point,{icon:markerIcon(c)}).addTo(map);
     marker.bindTooltip(c.title,{direction:'top',className:'history-label',offset:[0,-2]});
-    marker.bindPopup(`<div class="map-popup"><b>${esc(c.title)}</b><span>${esc(c.date)} · ${esc(c.loc?.label||c.region)}</span><button onclick="openCard('${c.id}')">Открыть карточку</button></div>`);
+    marker.bindPopup(`<div class="map-popup"><b>${esc(c.title)}</b><span>${esc(c.date)} · ${esc(c.loc?.label||c.region)}</span><small>Точка активной главы</small></div>`);
+    marker.on('click',()=>map.flyTo(point,Math.max(map.getZoom(),14),{duration:.7}));
+    atlasMarkers.set(c.id,{marker,map,point});
   });
+}
+function focusAtlasCard(id){
+  const entry=atlasMarkers.get(id);if(!entry)return;
+  const mapEl=document.getElementById('atlas-map');
+  mapEl?.scrollIntoView({behavior:'smooth',block:'center'});
+  entry.map.flyTo(entry.point,15,{duration:.8});
+  setTimeout(()=>entry.marker.openPopup(),560);
 }
 function fitChapterMap(map,cards){
   const pts=cards.map(geoForCard);const cfg=MAP_CHAPTERS[state.mapChapter]||MAP_CHAPTERS.ROME_CHAPTER_01;

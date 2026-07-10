@@ -1,4 +1,4 @@
-/* Codex v1.5 — campaign pools and personal stories */
+/* Codex v1.6 — campaign pools and personal stories */
 const V09_RARITY_WEIGHTS=CODEX_CONFIG.packs.rarityWeights;
 const V09_RARITY_RANK={RARE:1,EPIC:2,LEGENDARY:3,MYTHIC:4};
 PAGE_META.storyline=['Личная история','Архивный квест'];
@@ -127,11 +127,7 @@ function poolCardsSection(){
 const V09_campaign=campaign;
 campaign=function(){let html=V09_campaign();return html.replace('</div></main><nav',`${poolCardsSection()}</div></main><nav`);};
 const V09_home=home;
-home=function(){
-  let html=V09_home();const pools=unlockedPools(),available=packPool().filter(c=>!isUnlocked(c.id)).length;
-  const extra=`<section class="archive-status reveal"><div><div class="eyebrow">Активная кампания · Рим</div><h3>${pools.length?pools.map(p=>p.title).join(' · '):'Архив пока закрыт'}</h3><p>${pools.length?`В доступных пулах осталось ${available} неоткрытых карточек.`:'Заверши первую миссию, чтобы архивные карты начали выпадать из паков.'}</p></div><button class="btn ${pools.length?'':'secondary'}" onclick="${pools.length?'openPackHub()':`openMission('MIS_BIRTH_01')`}">${pools.length?'✦ Открыть пак':'♜ Начать кампанию'}</button></section>`;
-  return html.replace('</div></main><nav',`${extra}</div></main><nav`);
-};
+home=function(){ return V09_home(); };
 
 function setCollectionMode(mode){state.collectionMode=mode;save();render();}
 collection=function(){

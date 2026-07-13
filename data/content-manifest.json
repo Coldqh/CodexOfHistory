@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
+  "version": "2.4.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -8,30 +8,36 @@
       "data/cards/rome/archive.json",
       "data/cards/rome/future.json",
       "data/cards/mesopotamia/story.json",
-      "data/cards/mesopotamia/archive.json"
+      "data/cards/mesopotamia/archive.json",
+      "data/cards/egypt/story.json",
+      "data/cards/egypt/archive.json"
     ],
     "relations": "data/core/relations.json",
     "pools": [
       "data/campaigns/rome/pools.json",
-      "data/campaigns/mesopotamia/pools.json"
+      "data/campaigns/mesopotamia/pools.json",
+      "data/campaigns/egypt/pools.json"
     ],
     "quizzes": [
       "data/quizzes/rome/chapter_01.json",
       "data/quizzes/rome/chapter_02.json",
       "data/quizzes/rome/chapter_03.json",
       "data/quizzes/mesopotamia/chapter_01_05.json",
-      "data/quizzes/mesopotamia/chapter_06_10.json"
+      "data/quizzes/mesopotamia/chapter_06_10.json",
+      "data/quizzes/egypt/chapter_01_05.json"
     ],
     "stories": [
       "data/stories/rome/personal.json",
-      "data/stories/mesopotamia/personal.json"
+      "data/stories/mesopotamia/personal.json",
+      "data/stories/egypt/personal.json"
     ],
     "mastery": "data/core/mastery.json",
     "packs": "data/core/packs.json",
     "collection": "data/core/collection.json",
     "maps": {
       "ROME_CAMPAIGN": "data/maps/rome.json",
-      "MESOPOTAMIA_DAWN": "data/maps/mesopotamia.json"
+      "MESOPOTAMIA_DAWN": "data/maps/mesopotamia.json",
+      "EGYPT_EARLY": "data/maps/egypt.json"
     },
     "daily": "data/core/daily-learning.json",
     "lessons": [
@@ -39,14 +45,16 @@
       "data/lessons/rome/chapter_02.json",
       "data/lessons/rome/chapter_03.json",
       "data/lessons/mesopotamia/chapter_01_05.json",
-      "data/lessons/mesopotamia/chapter_06_10.json"
+      "data/lessons/mesopotamia/chapter_06_10.json",
+      "data/lessons/egypt/chapter_01_05.json"
     ],
     "eras": "data/world/eras.json",
     "campaignCatalog": "data/world/campaigns.json",
     "worldTimeline": "data/world/timeline.json",
     "campaigns": [
       "data/campaigns/rome/campaign.json",
-      "data/campaigns/mesopotamia/campaign.json"
+      "data/campaigns/mesopotamia/campaign.json",
+      "data/campaigns/egypt/campaign.json"
     ]
   },
   "scripts": [
@@ -71,6 +79,7 @@
     "js/features/v2-1-global-era.js",
     "js/features/v2-2-mesopotamia.js",
     "js/features/v2-2-1-navigation-cleanup.js",
+    "js/features/v2-4-egypt.js",
     "js/core/start.js"
   ],
   "vendors": {

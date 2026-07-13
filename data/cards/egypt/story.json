@@ -1,0 +1,2089 @@
+[
+  {
+    "id": "REG_EGY_001",
+    "type": "REGION",
+    "title": "Древний Египет",
+    "original": "Древний Египет",
+    "subtitle": "цивилизация долины Нила",
+    "era": "EGY_CHAPTER_01",
+    "region": "Северо-Восточная Африка",
+    "date": "IV тысячелетие до н. э. — IV век н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Историческая цивилизация, сложившаяся вдоль Нила и объединявшая речную долину, дельту, пустыни и пограничные области.",
+    "importance": "Объясняет, почему египетская история сочетала географическую связанность с региональными различиями.",
+    "facts": [
+      "Население концентрировалось вдоль реки и каналов.",
+      "Пустыни ограничивали земледельческую полосу, но не изолировали страну.",
+      "Египет поддерживал связи с Нубией, Левантом и Красным морем."
+    ],
+    "tags": [
+      "география",
+      "цивилизация"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/reg_egy_001.svg",
+      "caption": "Учебная обложка: Древний Египет",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "reg_egy_001.svg"
+    },
+    "source": {
+      "title": "Древний Египет — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B8%D0%B9_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_01",
+    "loc": {
+      "label": "Древний Египет",
+      "lat": 26.5,
+      "lng": 30.5
+    }
+  },
+  {
+    "id": "RIV_EGY_001",
+    "type": "RIVER",
+    "title": "Нил",
+    "original": "Нил",
+    "subtitle": "главная речная ось Египта",
+    "era": "EGY_CHAPTER_01",
+    "region": "Египет и Нубия",
+    "date": "древность — настоящее время",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Река, чьи разливы, судоходство и долина определяли хозяйственную и политическую географию Египта.",
+    "importance": "Нил связывал удалённые области и создавал узкую полосу устойчивого земледелия.",
+    "facts": [
+      "Течение направлено с юга на север.",
+      "Разлив зависел от дождей в более южных регионах Африки.",
+      "Река была главным транспортным коридором древнего Египта."
+    ],
+    "tags": [
+      "река",
+      "земледелие",
+      "транспорт"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/riv_egy_001.svg",
+      "caption": "Учебная обложка: Нил",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "riv_egy_001.svg"
+    },
+    "source": {
+      "title": "Нил — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BB",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_01",
+    "loc": {
+      "label": "Нил",
+      "lat": 25.7,
+      "lng": 32.6
+    }
+  },
+  {
+    "id": "REG_EGY_002",
+    "type": "REGION",
+    "title": "Долина Нила",
+    "original": "Долина Нила",
+    "subtitle": "узкая земледельческая полоса",
+    "era": "EGY_CHAPTER_01",
+    "region": "Верхний Египет",
+    "date": "древность",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Плодородная зона между пустынными плато, где поселения располагались вдоль реки и поймы.",
+    "importance": "Форма долины способствовала линейным коммуникациям и концентрации населения.",
+    "facts": [
+      "Ширина обрабатываемой полосы менялась по участкам.",
+      "Поселения зависели от поймы и локальных каналов.",
+      "Долина связывала южные центры Верхнего Египта."
+    ],
+    "tags": [
+      "география",
+      "долина"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/reg_egy_002.svg",
+      "caption": "Учебная обложка: Долина Нила",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "reg_egy_002.svg"
+    },
+    "source": {
+      "title": "Долина Нила — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_01",
+    "loc": {
+      "label": "Долина Нила",
+      "lat": 25.0,
+      "lng": 32.7
+    }
+  },
+  {
+    "id": "REG_EGY_003",
+    "type": "REGION",
+    "title": "Дельта Нила",
+    "original": "Дельта Нила",
+    "subtitle": "разветвлённый север страны",
+    "era": "EGY_CHAPTER_01",
+    "region": "Нижний Египет",
+    "date": "древность",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Широкая низменность, где Нил разделялся на рукава перед впадением в Средиземное море.",
+    "importance": "Дельта имела иные условия поселения, торговли и археологической сохранности, чем южная долина.",
+    "facts": [
+      "Древнее число рукавов Нила было больше современного.",
+      "Влажная почва хуже сохраняет многие ранние памятники.",
+      "Дельта связывала Египет со Средиземноморьем и Левантом."
+    ],
+    "tags": [
+      "география",
+      "дельта",
+      "торговля"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/reg_egy_003.svg",
+      "caption": "Учебная обложка: Дельта Нила",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "reg_egy_003.svg"
+    },
+    "source": {
+      "title": "Дельта Нила — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BB%D1%8C%D1%82%D0%B0_%D0%9D%D0%B8%D0%BB%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_01",
+    "loc": {
+      "label": "Дельта Нила",
+      "lat": 30.7,
+      "lng": 31.2
+    }
+  },
+  {
+    "id": "TERM_EGY_001",
+    "type": "TERM",
+    "title": "Разлив Нила",
+    "original": "Разлив Нила",
+    "subtitle": "сезон подъёма воды",
+    "era": "EGY_CHAPTER_01",
+    "region": "Египет",
+    "date": "ежегодный цикл",
+    "rarity": "EPIC",
+    "difficulty": 6,
+    "summary": "Периодический подъём уровня Нила, оставлявший влагу и наносы на пойме до строительства современной системы плотин.",
+    "importance": "Разлив был основой сельскохозяйственного календаря, но различался по силе и последствиям.",
+    "facts": [
+      "Слишком слабый разлив угрожал урожаю.",
+      "Чрезмерная вода могла разрушать поселения и границы полей.",
+      "Хозяйство требовало измерения воды и распределения труда."
+    ],
+    "tags": [
+      "вода",
+      "земледелие",
+      "календарь"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/term_egy_001.svg",
+      "caption": "Учебная обложка: Разлив Нила",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_egy_001.svg"
+    },
+    "source": {
+      "title": "Разлив Нила — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%BB%D0%B8%D0%B2_%D0%9D%D0%B8%D0%BB%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_01"
+  },
+  {
+    "id": "TERM_EGY_002",
+    "type": "TERM",
+    "title": "Чёрная и Красная земля",
+    "original": "Чёрная и Красная земля",
+    "subtitle": "долина и пустыня",
+    "era": "EGY_CHAPTER_01",
+    "region": "Египет",
+    "date": "древность",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Условное противопоставление плодородной речной земли и окружающих пустынных пространств.",
+    "importance": "Помогает понять египетское восприятие хозяйственного центра и внешнего ландшафта.",
+    "facts": [
+      "Чёрная земля связывалась с илом и земледелием.",
+      "Красная земля включала пустыни и пути к ресурсам.",
+      "Пустыня не была пустой: там проходили дороги, добывали камень и хоронили умерших."
+    ],
+    "tags": [
+      "ландшафт",
+      "термин"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/term_egy_002.svg",
+      "caption": "Учебная обложка: Чёрная и Красная земля",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_egy_002.svg"
+    },
+    "source": {
+      "title": "Чёрная и Красная земля — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BC%D0%B5%D1%82",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_01"
+  },
+  {
+    "id": "CITY_EGY_001",
+    "type": "CITY",
+    "title": "Элефантина",
+    "original": "Элефантина",
+    "subtitle": "остров у первого порога",
+    "era": "EGY_CHAPTER_01",
+    "region": "Южный Египет",
+    "date": "додинастический период и позднее",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Островной центр у первого порога Нила, контролировавший южные пути и обмен с Нубией.",
+    "importance": "Показывает значение пограничных узлов и речных порогов.",
+    "facts": [
+      "Расположена у современного Асуана.",
+      "Район связывал Египет с Нубией.",
+      "Позднее город стал важным административным и культовым центром."
+    ],
+    "tags": [
+      "город",
+      "граница",
+      "торговля"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/city_egy_001.svg",
+      "caption": "Учебная обложка: Элефантина",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "city_egy_001.svg"
+    },
+    "source": {
+      "title": "Элефантина — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D1%84%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_01",
+    "loc": {
+      "label": "Элефантина",
+      "lat": 24.089,
+      "lng": 32.899
+    }
+  },
+  {
+    "id": "SYS_EGY_001",
+    "type": "SYSTEM",
+    "title": "Речной транспорт",
+    "original": "Речной транспорт",
+    "subtitle": "движение людей и грузов по Нилу",
+    "era": "EGY_CHAPTER_01",
+    "region": "Египет",
+    "date": "древность",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Система лодочных перевозок, использовавшая течение на север и преобладающие ветры для движения вверх по реке.",
+    "importance": "Речной транспорт облегчал обмен, управление и концентрацию ресурсов.",
+    "facts": [
+      "Лодки строили из дерева и связок тростника.",
+      "Течение помогало движению к северу.",
+      "Парус облегчал движение на юг при подходящем ветре."
+    ],
+    "tags": [
+      "транспорт",
+      "лодки"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 5,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egy_001.svg",
+      "caption": "Учебная обложка: Речной транспорт",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egy_001.svg"
+    },
+    "source": {
+      "title": "Речной транспорт — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82_%D0%B2_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%BC_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B5",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_01"
+  },
+  {
+    "id": "CULT_EGY_001",
+    "type": "CULTURE",
+    "title": "Бадарийская культура",
+    "original": "Бадарийская культура",
+    "subtitle": "ранние земледельцы Верхнего Египта",
+    "era": "EGY_CHAPTER_02",
+    "region": "Верхний Египет",
+    "date": "ок. 4400–4000 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 6,
+    "summary": "Археологическая культура, известная поселениями, погребениями, тонкой керамикой и ранним социальным различием.",
+    "importance": "Даёт раннюю основу для изучения культур, предшествовавших Накаде.",
+    "facts": [
+      "Название происходит от района Эль-Бадари.",
+      "Погребения содержат керамику, украшения и орудия.",
+      "Её нельзя считать готовым египетским государством."
+    ],
+    "tags": [
+      "археология",
+      "культура"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/cult_egy_001.svg",
+      "caption": "Учебная обложка: Бадарийская культура",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "cult_egy_001.svg"
+    },
+    "source": {
+      "title": "Бадарийская культура — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B4%D0%B0%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_02"
+  },
+  {
+    "id": "CULT_EGY_002",
+    "type": "CULTURE",
+    "title": "Накада I",
+    "original": "Накада I",
+    "subtitle": "амратский этап",
+    "era": "EGY_CHAPTER_02",
+    "region": "Верхний Египет",
+    "date": "ок. 3900–3650 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Ранний этап культуры Накада с характерной керамикой, погребениями и расширением поселений.",
+    "importance": "Показывает постепенную культурную консолидацию Верхнего Египта.",
+    "facts": [
+      "Даты приблизительны.",
+      "Известна красная керамика с белой росписью.",
+      "Социальные различия заметны по погребениям."
+    ],
+    "tags": [
+      "Накада",
+      "керамика"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/cult_egy_002.svg",
+      "caption": "Учебная обложка: Накада I",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "cult_egy_002.svg"
+    },
+    "source": {
+      "title": "Накада I — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BA%D0%B0%D0%B4%D0%B0_(%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0)",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_02"
+  },
+  {
+    "id": "CULT_EGY_003",
+    "type": "CULTURE",
+    "title": "Накада II",
+    "original": "Накада II",
+    "subtitle": "герзейский этап",
+    "era": "EGY_CHAPTER_02",
+    "region": "Египет",
+    "date": "ок. 3650–3300 до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Этап распространения накадской материальной культуры, роста центров и дальних контактов.",
+    "importance": "Связан с усилением Верхнего Египта и расширением сетей обмена.",
+    "facts": [
+      "Керамика часто украшалась лодками и символами.",
+      "Контакты достигали Леванта и Нубии.",
+      "Региональные различия не исчезли мгновенно."
+    ],
+    "tags": [
+      "Накада",
+      "торговля",
+      "элиты"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/cult_egy_003.svg",
+      "caption": "Учебная обложка: Накада II",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "cult_egy_003.svg"
+    },
+    "source": {
+      "title": "Накада II — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BA%D0%B0%D0%B4%D0%B0_(%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0)",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_02"
+  },
+  {
+    "id": "CULT_EGY_004",
+    "type": "CULTURE",
+    "title": "Накада III",
+    "original": "Накада III",
+    "subtitle": "протодинастический этап",
+    "era": "EGY_CHAPTER_02",
+    "region": "Египет",
+    "date": "ок. 3300–3000 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Поздний додинастический этап, когда появляются ранние царские имена, крупные центры и символы власти.",
+    "importance": "Непосредственно предшествует раннединастическому государству.",
+    "facts": [
+      "Иногда называется «нулевой династией».",
+      "Появляются серехи и ранние знаки письма.",
+      "Централизация происходила до традиционной даты объединения."
+    ],
+    "tags": [
+      "протодинастика",
+      "цари"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/cult_egy_004.svg",
+      "caption": "Учебная обложка: Накада III",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "cult_egy_004.svg"
+    },
+    "source": {
+      "title": "Накада III — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D1%83%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F_%D0%B4%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_02"
+  },
+  {
+    "id": "SITE_EGY_001",
+    "type": "SITE",
+    "title": "Накада",
+    "original": "Накада",
+    "subtitle": "центр и название археологической культуры",
+    "era": "EGY_CHAPTER_02",
+    "region": "Верхний Египет",
+    "date": "IV тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Крупный памятник и некрополь, давший название основной последовательности додинастического Египта.",
+    "importance": "Его материалы стали основой относительной хронологии эпохи.",
+    "facts": [
+      "Расположена близ древнего Нубта.",
+      "Петрии использовал местную керамику для sequence dating.",
+      "Политическая роль центра менялась."
+    ],
+    "tags": [
+      "город",
+      "археология"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/site_egy_001.svg",
+      "caption": "Учебная обложка: Накада",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "site_egy_001.svg"
+    },
+    "source": {
+      "title": "Накада — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BA%D0%B0%D0%B4%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_02",
+    "loc": {
+      "label": "Накада",
+      "lat": 25.9,
+      "lng": 32.72
+    }
+  },
+  {
+    "id": "SITE_EGY_002",
+    "type": "SITE",
+    "title": "Иераконполь",
+    "original": "Иераконполь",
+    "subtitle": "Нехен и ранняя власть",
+    "era": "EGY_CHAPTER_02",
+    "region": "Верхний Египет",
+    "date": "IV тысячелетие до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Один из важнейших центров позднего додинастического Верхнего Египта и место находки царских церемониальных предметов.",
+    "importance": "Связывает археологию поселения, культ Хора и формирование царской идеологии.",
+    "facts": [
+      "Древнее название — Нехен.",
+      "Здесь найден комплекс с палеткой Нармера.",
+      "Памятник включает поселения, кладбища и культовые зоны."
+    ],
+    "tags": [
+      "город",
+      "Хор",
+      "царская власть"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/site_egy_002.svg",
+      "caption": "Учебная обложка: Иераконполь",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "site_egy_002.svg"
+    },
+    "source": {
+      "title": "Иераконполь — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%85%D0%B5%D0%BD",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_02",
+    "loc": {
+      "label": "Иераконполь",
+      "lat": 25.1,
+      "lng": 32.78
+    }
+  },
+  {
+    "id": "SITE_EGY_003",
+    "type": "SITE",
+    "title": "Маади",
+    "original": "Маади",
+    "subtitle": "северная додинастическая культура",
+    "era": "EGY_CHAPTER_02",
+    "region": "Нижний Египет",
+    "date": "IV тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Поселение в районе современного Каира, связанное с хозяйством Дельты и обменом с Левантом.",
+    "importance": "Напоминает, что север Египта имел собственные культурные траектории.",
+    "facts": [
+      "Дома и погребения отличались от Верхнего Египта.",
+      "Находки отражают обмен с Южным Левантом.",
+      "Культура Маади позднее уступила место накадскому комплексу."
+    ],
+    "tags": [
+      "Дельта",
+      "торговля"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/site_egy_003.svg",
+      "caption": "Учебная обложка: Маади",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "site_egy_003.svg"
+    },
+    "source": {
+      "title": "Маади — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B0%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_02",
+    "loc": {
+      "label": "Маади",
+      "lat": 29.96,
+      "lng": 31.25
+    }
+  },
+  {
+    "id": "SYS_EGY_002",
+    "type": "SYSTEM",
+    "title": "Относительная хронология Питри",
+    "original": "Относительная хронология Питри",
+    "subtitle": "датировка по последовательности вещей",
+    "era": "EGY_CHAPTER_02",
+    "region": "Египетология",
+    "date": "создана в конце XIX века",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Метод упорядочивания додинастических погребений по изменениям форм и орнамента керамики.",
+    "importance": "Стал важным инструментом до широкого применения радиоуглеродных дат.",
+    "facts": [
+      "Метод не даёт абсолютный календарный год сам по себе.",
+      "Основан на серийных изменениях комплектов вещей.",
+      "Позднее схема уточнялась новыми методами."
+    ],
+    "tags": [
+      "археология",
+      "метод"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 5,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egy_002.svg",
+      "caption": "Учебная обложка: Относительная хронология Питри",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egy_002.svg"
+    },
+    "source": {
+      "title": "Относительная хронология Питри — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BB%D0%B8%D0%BD%D0%B4%D0%B5%D1%80%D1%81_%D0%9F%D0%B8%D1%82%D1%80%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_02"
+  },
+  {
+    "id": "SYS_EGY_003",
+    "type": "SYSTEM",
+    "title": "Две земли",
+    "original": "Две земли",
+    "subtitle": "Верхний и Нижний Египет",
+    "era": "EGY_CHAPTER_03",
+    "region": "Египет",
+    "date": "позднее IV тысячелетие до н. э. и позднее",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Политическая и символическая модель, представлявшая Египет как единство южной долины и северной дельты.",
+    "importance": "Стала основой царской идеологии объединённого государства.",
+    "facts": [
+      "«Верхний» означает направление вверх по течению, то есть юг.",
+      "Нижний Египет расположен в дельте на севере.",
+      "Двойственность сохранялась в коронах, титулах и ритуалах."
+    ],
+    "tags": [
+      "политика",
+      "символы"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 1,
+      "culture": 5,
+      "politics": 5,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egy_003.svg",
+      "caption": "Учебная обложка: Две земли",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egy_003.svg"
+    },
+    "source": {
+      "title": "Две земли — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D1%85%D0%BD%D0%B8%D0%B9_%D0%B8_%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_03"
+  },
+  {
+    "id": "REG_EGY_004",
+    "type": "REGION",
+    "title": "Верхний Египет",
+    "original": "Верхний Египет",
+    "subtitle": "южная речная долина",
+    "era": "EGY_CHAPTER_03",
+    "region": "Египет",
+    "date": "древность",
+    "rarity": "EPIC",
+    "difficulty": 6,
+    "summary": "Регион от района первого порога к северу до условной границы с дельтой.",
+    "importance": "Здесь находились важные центры Накады, Нехена и Абидоса.",
+    "facts": [
+      "Регион линейно вытянут вдоль реки.",
+      "Белая корона стала его символом.",
+      "Ранние южные центры играли ведущую роль в консолидации."
+    ],
+    "tags": [
+      "регион",
+      "юг"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/reg_egy_004.svg",
+      "caption": "Учебная обложка: Верхний Египет",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "reg_egy_004.svg"
+    },
+    "source": {
+      "title": "Верхний Египет — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D1%85%D0%BD%D0%B8%D0%B9_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_03",
+    "loc": {
+      "label": "Верхний Египет",
+      "lat": 25.7,
+      "lng": 32.7
+    }
+  },
+  {
+    "id": "REG_EGY_005",
+    "type": "REGION",
+    "title": "Нижний Египет",
+    "original": "Нижний Египет",
+    "subtitle": "северная дельта",
+    "era": "EGY_CHAPTER_03",
+    "region": "Египет",
+    "date": "древность",
+    "rarity": "EPIC",
+    "difficulty": 6,
+    "summary": "Северный регион Египта, включавший дельту и её многочисленные поселения и водные пути.",
+    "importance": "Имел собственные центры и археологическую традицию, хуже сохранившуюся из-за влажности.",
+    "facts": [
+      "Красная корона стала символом региона.",
+      "Дельта связывала Египет с Левантом.",
+      "Не все северные центры известны одинаково хорошо."
+    ],
+    "tags": [
+      "регион",
+      "север"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/reg_egy_005.svg",
+      "caption": "Учебная обложка: Нижний Египет",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "reg_egy_005.svg"
+    },
+    "source": {
+      "title": "Нижний Египет — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_03",
+    "loc": {
+      "label": "Нижний Египет",
+      "lat": 30.8,
+      "lng": 31.1
+    }
+  },
+  {
+    "id": "ART_EGY_001",
+    "type": "ARTIFACT",
+    "title": "Белая корона",
+    "original": "Белая корона",
+    "subtitle": "символ Верхнего Египта",
+    "era": "EGY_CHAPTER_03",
+    "region": "Египет",
+    "date": "поздний додинастический период и позднее",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Высокая белая корона, связанная с южной частью страны и царской властью.",
+    "importance": "Вместе с Красной короной выражала двойное царство.",
+    "facts": [
+      "Древние оригиналы корон не сохранились.",
+      "Известна по изображениям.",
+      "Её современное название — хеджет."
+    ],
+    "tags": [
+      "корона",
+      "власть"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egy_001.svg",
+      "caption": "Учебная обложка: Белая корона",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egy_001.svg"
+    },
+    "source": {
+      "title": "Белая корона — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%B4%D0%B6%D0%B5%D1%82",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_03"
+  },
+  {
+    "id": "ART_EGY_002",
+    "type": "ARTIFACT",
+    "title": "Красная корона",
+    "original": "Красная корона",
+    "subtitle": "символ Нижнего Египта",
+    "era": "EGY_CHAPTER_03",
+    "region": "Египет",
+    "date": "поздний додинастический период и позднее",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Корона с характерным выступом и спиралью, связанная с дельтой и севером страны.",
+    "importance": "Стала частью визуальной формулы объединённой царской власти.",
+    "facts": [
+      "Современное египтологическое название — дешрет.",
+      "Физические короны не сохранились.",
+      "На палетке Нармера царь показан в обеих коронах."
+    ],
+    "tags": [
+      "корона",
+      "власть"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egy_002.svg",
+      "caption": "Учебная обложка: Красная корона",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egy_002.svg"
+    },
+    "source": {
+      "title": "Красная корона — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%88%D1%80%D0%B5%D1%82",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_03"
+  },
+  {
+    "id": "SITE_EGY_004",
+    "type": "SITE",
+    "title": "Буто",
+    "original": "Буто",
+    "subtitle": "северный центр дельты",
+    "era": "EGY_CHAPTER_03",
+    "region": "Нижний Египет",
+    "date": "IV тысячелетие до н. э. и позднее",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Древний город в западной дельте, связанный с северными культами и ранней государственностью.",
+    "importance": "Служит важным археологическим противовесом южным центрам.",
+    "facts": [
+      "Египетское название включало Пе и Деп.",
+      "Город связывали с богиней Уаджит.",
+      "Слои показывают контакты с югом и Левантом."
+    ],
+    "tags": [
+      "город",
+      "дельта"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/site_egy_004.svg",
+      "caption": "Учебная обложка: Буто",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "site_egy_004.svg"
+    },
+    "source": {
+      "title": "Буто — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%82%D0%BE",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_03",
+    "loc": {
+      "label": "Буто",
+      "lat": 31.2,
+      "lng": 30.75
+    }
+  },
+  {
+    "id": "SITE_EGY_005",
+    "type": "SITE",
+    "title": "Абидос",
+    "original": "Абидос",
+    "subtitle": "царский некрополь и культовый центр",
+    "era": "EGY_CHAPTER_03",
+    "region": "Верхний Египет",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Район ранних царских погребений у Умм-эль-Кааба и позднейшего культа Осириса.",
+    "importance": "Его гробницы и метки являются ключевыми источниками по формированию первых династий.",
+    "facts": [
+      "Здесь хоронили правителей позднего додинастического и раннединастического времени.",
+      "Некоторые комплексы включали многочисленные дополнительные погребения.",
+      "Позднее Абидос стал главным центром культа Осириса."
+    ],
+    "tags": [
+      "некрополь",
+      "цари"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/site_egy_005.svg",
+      "caption": "Учебная обложка: Абидос",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "site_egy_005.svg"
+    },
+    "source": {
+      "title": "Абидос — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%B8%D0%B4%D0%BE%D1%81",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_03",
+    "loc": {
+      "label": "Абидос",
+      "lat": 26.18,
+      "lng": 31.92
+    }
+  },
+  {
+    "id": "SYS_EGY_004",
+    "type": "SYSTEM",
+    "title": "Протогосударственные центры",
+    "original": "Протогосударственные центры",
+    "subtitle": "конкурирующие узлы власти",
+    "era": "EGY_CHAPTER_03",
+    "region": "Египет",
+    "date": "IV тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Крупные поселения, некрополи и культовые центры, объединявшие производство, обмен и политическую власть до устойчивой династической монархии.",
+    "importance": "Помогают объяснить объединение как длительный процесс, а не один поход.",
+    "facts": [
+      "Центры различались по масштабу и функциям.",
+      "Южные элиты усиливали контроль над торговыми маршрутами.",
+      "Археология не всегда позволяет восстановить границы политий."
+    ],
+    "tags": [
+      "государство",
+      "централизация"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 5,
+      "politics": 5,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egy_004.svg",
+      "caption": "Учебная обложка: Протогосударственные центры",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egy_004.svg"
+    },
+    "source": {
+      "title": "Протогосударственные центры — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_03"
+  },
+  {
+    "id": "EVENT_EGY_001",
+    "type": "EVENT",
+    "title": "Объединение Египта",
+    "original": "Объединение Египта",
+    "subtitle": "формирование единой царской власти",
+    "era": "EGY_CHAPTER_04",
+    "region": "Египет",
+    "date": "ок. 3100 до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 9,
+    "summary": "Длительный процесс политической консолидации долины и дельты, традиционно связанный с Нармером и началом I династии.",
+    "importance": "Создал основу одного из самых устойчивых государств древнего мира.",
+    "facts": [
+      "Объединение не обязательно было одним сражением.",
+      "Централизация началась до Нармера.",
+      "Поздняя традиция связывала начало династий с Менесом."
+    ],
+    "tags": [
+      "объединение",
+      "государство"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 9,
+      "legacy": 10,
+      "military": 3,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/event_egy_001.svg",
+      "caption": "Учебная обложка: Объединение Египта",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "event_egy_001.svg"
+    },
+    "source": {
+      "title": "Объединение Египта — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D0%BE_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_04"
+  },
+  {
+    "id": "PER_EGY_001",
+    "type": "PERSON",
+    "title": "Ири-Хор",
+    "original": "Ири-Хор",
+    "subtitle": "ранний правитель Верхнего Египта",
+    "era": "EGY_CHAPTER_04",
+    "region": "Верхний Египет",
+    "date": "ок. XXXII век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Протодинастический правитель, известный по ранним надписям и погребению в Абидосе.",
+    "importance": "Показывает существование царской последовательности до Нармера.",
+    "facts": [
+      "Чтение имени долго обсуждалось.",
+      "Свидетельства найдены в Абидосе и других местах.",
+      "Территория его власти реконструируется приблизительно."
+    ],
+    "tags": [
+      "царь",
+      "Абидос"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 3,
+      "culture": 5,
+      "politics": 5,
+      "religion": 4,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy_001.svg",
+      "caption": "Учебная обложка: Ири-Хор",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy_001.svg"
+    },
+    "source": {
+      "title": "Ири-Хор — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%B8-%D0%A5%D0%BE%D1%80",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_04"
+  },
+  {
+    "id": "PER_EGY_002",
+    "type": "PERSON",
+    "title": "Ка",
+    "original": "Ка",
+    "subtitle": "царь перед Нармером",
+    "era": "EGY_CHAPTER_04",
+    "region": "Верхний Египет",
+    "date": "ок. XXXII–XXXI века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 6,
+    "summary": "Протодинастический правитель, чьё имя в серехе известно по меткам и сосудам.",
+    "importance": "Его материалы отражают рост царского контроля и обмена.",
+    "facts": [
+      "Погребение связывают с Умм-эль-Каабом.",
+      "Имя записано знаком поднятых рук.",
+      "Находки распространяются за пределами Абидоса."
+    ],
+    "tags": [
+      "царь",
+      "серех"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 3,
+      "culture": 5,
+      "politics": 5,
+      "religion": 4,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy_002.svg",
+      "caption": "Учебная обложка: Ка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy_002.svg"
+    },
+    "source": {
+      "title": "Ка — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0_(%D1%84%D0%B0%D1%80%D0%B0%D0%BE%D0%BD)",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_04"
+  },
+  {
+    "id": "PER_EGY_003",
+    "type": "PERSON",
+    "title": "Скорпион II",
+    "original": "Скорпион II",
+    "subtitle": "поздний протодинастический царь",
+    "era": "EGY_CHAPTER_04",
+    "region": "Верхний Египет",
+    "date": "ок. 3200–3100 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Условное имя правителя, известного прежде всего по церемониальной булаве с изображением царя.",
+    "importance": "Показывает сложность царской последовательности непосредственно перед Нармером.",
+    "facts": [
+      "Его отождествления спорны.",
+      "Изображение связано с ирригацией или ритуалом.",
+      "Нельзя уверенно восстановить масштаб его власти."
+    ],
+    "tags": [
+      "царь",
+      "булава"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 3,
+      "culture": 5,
+      "politics": 5,
+      "religion": 4,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy_003.svg",
+      "caption": "Учебная обложка: Скорпион II",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy_003.svg"
+    },
+    "source": {
+      "title": "Скорпион II — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%BE%D1%80%D0%BF%D0%B8%D0%BE%D0%BD_II",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_04"
+  },
+  {
+    "id": "SYS_EGY_005",
+    "type": "SYSTEM",
+    "title": "Царская идеология объединения",
+    "original": "Царская идеология объединения",
+    "subtitle": "победа, порядок и две земли",
+    "era": "EGY_CHAPTER_04",
+    "region": "Египет",
+    "date": "ок. 3200–3000 до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Система изображений и ритуалов, представлявшая царя победителем врагов, защитником порядка и правителем обеих частей страны.",
+    "importance": "Сделала политическое объединение культурно воспроизводимой моделью.",
+    "facts": [
+      "Сцены победы не являются нейтральными хрониками.",
+      "Повторяющиеся мотивы создавали идеальный образ власти.",
+      "Идеология не доказывает полный административный контроль над каждой областью."
+    ],
+    "tags": [
+      "идеология",
+      "царь"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 1,
+      "culture": 5,
+      "politics": 5,
+      "religion": 4,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egy_005.svg",
+      "caption": "Учебная обложка: Царская идеология объединения",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egy_005.svg"
+    },
+    "source": {
+      "title": "Царская идеология объединения — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D1%80%D0%B0%D0%BE%D0%BD",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_04"
+  },
+  {
+    "id": "SITE_EGY_006",
+    "type": "SITE",
+    "title": "Умм-эль-Кааб",
+    "original": "Умм-эль-Кааб",
+    "subtitle": "царское кладбище Абидоса",
+    "era": "EGY_CHAPTER_04",
+    "region": "Верхний Египет",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Некрополь поздних додинастических и раннединастических царей близ Абидоса.",
+    "importance": "Сохранил важнейшие метки, печати, сосуды и погребальные комплексы периода объединения.",
+    "facts": [
+      "Название означает «мать черепков».",
+      "Гробницы многократно разграблялись и переосмыслялись.",
+      "Позднее место связывали с гробницей Осириса."
+    ],
+    "tags": [
+      "некрополь",
+      "цари"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/site_egy_006.svg",
+      "caption": "Учебная обложка: Умм-эль-Кааб",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "site_egy_006.svg"
+    },
+    "source": {
+      "title": "Умм-эль-Кааб — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BC%D0%BC-%D1%8D%D0%BB%D1%8C-%D0%9A%D0%B0%D0%B0%D0%B1",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_04",
+    "loc": {
+      "label": "Умм-эль-Кааб",
+      "lat": 26.18,
+      "lng": 31.91
+    }
+  },
+  {
+    "id": "ART_EGY_003",
+    "type": "ARTIFACT",
+    "title": "Булавa Скорпиона",
+    "original": "Булавa Скорпиона",
+    "subtitle": "царь с мотыгой и штандартами",
+    "era": "EGY_CHAPTER_04",
+    "region": "Иераконполь",
+    "date": "ок. 3100 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Фрагмент крупной церемониальной булавы, показывающий царя в короне Верхнего Египта.",
+    "importance": "Даёт ранний пример царя как организатора ритуала и хозяйственного порядка.",
+    "facts": [
+      "Сцена может относиться к открытию канала или земледельческому ритуалу.",
+      "Имя читают по знаку скорпиона.",
+      "Сохранность предмета неполная."
+    ],
+    "tags": [
+      "источник",
+      "царь"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 4,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egy_003.svg",
+      "caption": "Учебная обложка: Булавa Скорпиона",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egy_003.svg"
+    },
+    "source": {
+      "title": "Булавa Скорпиона — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BB%D0%B0%D0%B2%D0%B0_%D1%86%D0%B0%D1%80%D1%8F_%D0%A1%D0%BA%D0%BE%D1%80%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_04"
+  },
+  {
+    "id": "SYS_EGY_006",
+    "type": "SYSTEM",
+    "title": "Раннее налогообложение и печати",
+    "original": "Раннее налогообложение и печати",
+    "subtitle": "контроль сосудов и поставок",
+    "era": "EGY_CHAPTER_04",
+    "region": "Египет",
+    "date": "конец IV тысячелетия до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Практики маркировки товаров, сосудов, помещений и поставок царскими или институциональными знаками.",
+    "importance": "Показывают материальную сторону централизации до больших текстовых архивов.",
+    "facts": [
+      "Использовались печати и метки.",
+      "Точные налоговые правила раннего периода неизвестны.",
+      "Контроль ресурсов связан с погребальными и придворными комплексами."
+    ],
+    "tags": [
+      "учёт",
+      "печати"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 5,
+      "politics": 5,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egy_006.svg",
+      "caption": "Учебная обложка: Раннее налогообложение и печати",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egy_006.svg"
+    },
+    "source": {
+      "title": "Раннее налогообложение и печати — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D0%BE_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_04"
+  },
+  {
+    "id": "PER_EGY_004",
+    "type": "PERSON",
+    "title": "Нармер",
+    "original": "Нармер",
+    "subtitle": "ранний царь объединённого Египта",
+    "era": "EGY_CHAPTER_05",
+    "region": "Египет",
+    "date": "ок. 3100 до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 9,
+    "summary": "Царь конца протодинастического и начала раннединастического периода, широко связанный с политическим объединением Египта.",
+    "importance": "Его имя и изображения дают центральный узел между археологией и поздней традицией.",
+    "facts": [
+      "Его имя записано в серехе знаком сома и резца.",
+      "Палетка показывает его в двух коронах.",
+      "Вопрос тождества Нармера и Менеса остаётся дискуссионным."
+    ],
+    "tags": [
+      "царь",
+      "объединение"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 9,
+      "legacy": 10,
+      "military": 3,
+      "culture": 5,
+      "politics": 5,
+      "religion": 4,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy_004.svg",
+      "caption": "Учебная обложка: Нармер",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy_004.svg"
+    },
+    "source": {
+      "title": "Нармер — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%BC%D0%B5%D1%80",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_05",
+    "loc": {
+      "label": "Нармер",
+      "lat": 26.0,
+      "lng": 31.0
+    }
+  },
+  {
+    "id": "ART_EGY_004",
+    "type": "ARTIFACT",
+    "title": "Палетка Нармера",
+    "original": "Палетка Нармера",
+    "subtitle": "церемониальный образ царской победы",
+    "era": "EGY_CHAPTER_05",
+    "region": "Иераконполь",
+    "date": "ок. 3100 до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 9,
+    "summary": "Крупная резная каменная палетка, изображающая Нармера, врагов, процессии, стандарты и символы двух частей страны.",
+    "importance": "Один из важнейших источников по ранней царской идеологии и изобразительным формулам Египта.",
+    "facts": [
+      "Найдена в храмовом комплексе Нехена.",
+      "Не является простым репортажем одного сражения.",
+      "Содержит ранние иероглифические знаки."
+    ],
+    "tags": [
+      "источник",
+      "палетка",
+      "Нармер"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 9,
+      "legacy": 10,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egy_004.svg",
+      "caption": "Учебная обложка: Палетка Нармера",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egy_004.svg"
+    },
+    "source": {
+      "title": "Палетка Нармера — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D1%82%D0%BA%D0%B0_%D0%9D%D0%B0%D1%80%D0%BC%D0%B5%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_05",
+    "loc": {
+      "label": "Палетка Нармера",
+      "lat": 25.1,
+      "lng": 32.78
+    }
+  },
+  {
+    "id": "SYS_EGY_007",
+    "type": "SYSTEM",
+    "title": "Сцена поражения врага",
+    "original": "Сцена поражения врага",
+    "subtitle": "царская формула насилия",
+    "era": "EGY_CHAPTER_05",
+    "region": "Египет",
+    "date": "ок. 3100 до н. э. и позднее",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Иконографическая схема, где царь поднимает оружие над поверженным противником.",
+    "importance": "Стала долговечным выражением победы порядка над врагом и хаосом.",
+    "facts": [
+      "Формула повторялась тысячелетиями.",
+      "Не каждая сцена фиксирует конкретную битву.",
+      "Размер царя подчёркивает иерархию."
+    ],
+    "tags": [
+      "идеология",
+      "искусство"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 5,
+      "politics": 5,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egy_007.svg",
+      "caption": "Учебная обложка: Сцена поражения врага",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egy_007.svg"
+    },
+    "source": {
+      "title": "Сцена поражения врага — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D1%82%D0%BA%D0%B0_%D0%9D%D0%B0%D1%80%D0%BC%D0%B5%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_05"
+  },
+  {
+    "id": "TERM_EGY_003",
+    "type": "TERM",
+    "title": "Менес",
+    "original": "Менес",
+    "subtitle": "традиционный первый царь",
+    "era": "EGY_CHAPTER_05",
+    "region": "Египет",
+    "date": "поздняя традиция о XXXI веке до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Имя первого объединителя в более поздних царских и античных традициях.",
+    "importance": "Проблема его отождествления показывает разрыв между современными источниками и поздней памятью.",
+    "facts": [
+      "Менеса связывали с Нармером или Хор-Ахой.",
+      "Прямых современных надписей с ясным Менесом нет.",
+      "Поздние списки упрощали сложный процесс объединения."
+    ],
+    "tags": [
+      "традиция",
+      "цари"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/term_egy_003.svg",
+      "caption": "Учебная обложка: Менес",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_egy_003.svg"
+    },
+    "source": {
+      "title": "Менес — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BD%D0%B5%D1%81",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_05"
+  },
+  {
+    "id": "CITY_EGY_002",
+    "type": "CITY",
+    "title": "Мемфис",
+    "original": "Мемфис",
+    "subtitle": "столица у вершины дельты",
+    "era": "EGY_CHAPTER_05",
+    "region": "Нижний Египет",
+    "date": "основание традиционно связывают с ранними династиями",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Городской и административный центр в стратегическом месте между долиной и дельтой.",
+    "importance": "Его положение подходило для управления объединёнными двумя землями.",
+    "facts": [
+      "Древнее название менялось по эпохам.",
+      "Археология раннего Мемфиса сложна из-за наносов и поздней застройки.",
+      "Традиция связывает основание с Менесом."
+    ],
+    "tags": [
+      "город",
+      "столица"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/city_egy_002.svg",
+      "caption": "Учебная обложка: Мемфис",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "city_egy_002.svg"
+    },
+    "source": {
+      "title": "Мемфис — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BC%D1%84%D0%B8%D1%81_(%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82)",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_05",
+    "loc": {
+      "label": "Мемфис",
+      "lat": 29.85,
+      "lng": 31.25
+    }
+  },
+  {
+    "id": "SYS_EGY_008",
+    "type": "SYSTEM",
+    "title": "Раннее царское титулование",
+    "original": "Раннее царское титулование",
+    "subtitle": "имя Хора и две владычицы",
+    "era": "EGY_CHAPTER_05",
+    "region": "Египет",
+    "date": "конец IV–III тысячелетия до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Набор имён и эпитетов, через которые царь связывался с Хором, богинями двух земель и единством страны.",
+    "importance": "Позволял воспроизводить политический порядок в письме и ритуале.",
+    "facts": [
+      "Полная пятичастная титулатура сложилась позднее.",
+      "Серех фиксировал имя Хора.",
+      "Титулы менялись по династиям."
+    ],
+    "tags": [
+      "титул",
+      "царь"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 5,
+      "politics": 5,
+      "religion": 4,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egy_008.svg",
+      "caption": "Учебная обложка: Раннее царское титулование",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egy_008.svg"
+    },
+    "source": {
+      "title": "Раннее царское титулование — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%82%D1%83%D0%BB%D0%B0%D1%82%D1%83%D1%80%D0%B0_%D1%84%D0%B0%D1%80%D0%B0%D0%BE%D0%BD%D0%BE%D0%B2",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_05"
+  },
+  {
+    "id": "PER_EGY_005",
+    "type": "PERSON",
+    "title": "Хор-Аха",
+    "original": "Хор-Аха",
+    "subtitle": "ранний царь I династии",
+    "era": "EGY_CHAPTER_05",
+    "region": "Египет",
+    "date": "ок. XXXI век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Правитель, следовавший за Нармером в ранней династической последовательности.",
+    "importance": "Его памятники помогают перейти от символического объединения к устойчивой династии.",
+    "facts": [
+      "Имя означает «Хор-боец».",
+      "Известен по меткам и погребальному комплексу.",
+      "Иногда связывается с традиционным Менесом."
+    ],
+    "tags": [
+      "царь",
+      "I династия"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 3,
+      "culture": 5,
+      "politics": 5,
+      "religion": 4,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy_005.svg",
+      "caption": "Учебная обложка: Хор-Аха",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy_005.svg"
+    },
+    "source": {
+      "title": "Хор-Аха — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%80-%D0%90%D1%85%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_05"
+  },
+  {
+    "id": "STATE_EGY_001",
+    "type": "STATE",
+    "title": "Первая династия",
+    "original": "Первая династия",
+    "subtitle": "ранняя наследственная монархия",
+    "era": "EGY_CHAPTER_05",
+    "region": "Египет",
+    "date": "ок. 3100–2890 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Группа ранних царей после периода объединения, управлявших страной через двор, центры и региональные сети.",
+    "importance": "Закрепила многие формы царской власти, письма и погребального ритуала.",
+    "facts": [
+      "Даты приблизительны.",
+      "Цари хоронились главным образом в Абидосе, а элитные гробницы известны в Саккаре.",
+      "Последовательность реконструируется по меткам, печатям и спискам."
+    ],
+    "tags": [
+      "династия",
+      "государство"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 3,
+      "culture": 5,
+      "politics": 5,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/state_egy_001.svg",
+      "caption": "Учебная обложка: Первая династия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "state_egy_001.svg"
+    },
+    "source": {
+      "title": "Первая династия — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D0%B4%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%8F_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_05"
+  }
+]

@@ -1,0 +1,798 @@
+{
+  "id": "EGYPT_EARLY",
+  "title": "Египет: царство Нила",
+  "description": "Первые пять глав: от географии Нила до Нармера и начала раннединастического государства.",
+  "difficulty": 4,
+  "chapters": [
+    {
+      "id": "EGY_CHAPTER_01",
+      "number": 1,
+      "title": "Нил и пространство Египта",
+      "subtitle": "Река, долина, дельта и пустыни",
+      "description": "Рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "EGY_01_01",
+        "EGY_01_02",
+        "EGY_01_03",
+        "EGY_01_04",
+        "EGY_01_05",
+        "EGY_01_06"
+      ]
+    },
+    {
+      "id": "EGY_CHAPTER_02",
+      "number": 2,
+      "title": "Додинастические культуры",
+      "subtitle": "Бадарийская культура и этапы Накады",
+      "description": "Рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "EGY_02_01",
+        "EGY_02_02",
+        "EGY_02_03",
+        "EGY_02_04",
+        "EGY_02_05",
+        "EGY_02_06"
+      ]
+    },
+    {
+      "id": "EGY_CHAPTER_03",
+      "number": 3,
+      "title": "Верхний и Нижний Египет",
+      "subtitle": "Две земли, центры и сети обмена",
+      "description": "Рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "EGY_03_01",
+        "EGY_03_02",
+        "EGY_03_03",
+        "EGY_03_04",
+        "EGY_03_05",
+        "EGY_03_06"
+      ]
+    },
+    {
+      "id": "EGY_CHAPTER_04",
+      "number": 4,
+      "title": "Объединение страны",
+      "subtitle": "Цари до Нармера и политическая консолидация",
+      "description": "Рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "EGY_04_01",
+        "EGY_04_02",
+        "EGY_04_03",
+        "EGY_04_04",
+        "EGY_04_05",
+        "EGY_04_06"
+      ]
+    },
+    {
+      "id": "EGY_CHAPTER_05",
+      "number": 5,
+      "title": "Нармер и образ первого царя",
+      "subtitle": "Палетка, титулы и начало династии",
+      "description": "Рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "EGY_05_01",
+        "EGY_05_02",
+        "EGY_05_03",
+        "EGY_05_04",
+        "EGY_05_05",
+        "EGY_05_06"
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "id": "EGY_01_01",
+      "type": "LESSON",
+      "title": "Нил как ось страны",
+      "description": "Почему река связывала страну, но не гарантировала одинаковые условия",
+      "cards": [
+        "REG_EGY_001",
+        "RIV_EGY_001",
+        "REG_EGY_002"
+      ],
+      "unlockCards": [
+        "ART_EGYA_001"
+      ],
+      "xp": 104,
+      "emoji": "≋",
+      "chapterId": "EGY_CHAPTER_01",
+      "lessonId": "EGY_01_01"
+    },
+    {
+      "id": "EGY_01_02",
+      "type": "CAUSE_EFFECT",
+      "title": "Разлив: ресурс и риск",
+      "description": "Как разные уровни воды влияли на хозяйство и риск",
+      "cards": [
+        "REG_EGY_002",
+        "REG_EGY_003",
+        "TERM_EGY_001"
+      ],
+      "unlockCards": [
+        "REG_EGYA_001"
+      ],
+      "xp": 116,
+      "emoji": "◉",
+      "chapterId": "EGY_CHAPTER_01",
+      "lessonId": "EGY_01_02"
+    },
+    {
+      "id": "EGY_01_03",
+      "type": "MAP",
+      "title": "Долина, дельта и пустыни",
+      "description": "Где находятся долина, дельта, пороги и пустынные пути",
+      "cards": [
+        "TERM_EGY_001",
+        "TERM_EGY_002",
+        "CITY_EGY_001"
+      ],
+      "unlockCards": [
+        "REG_EGYA_002"
+      ],
+      "xp": 128,
+      "emoji": "⌖",
+      "chapterId": "EGY_CHAPTER_01",
+      "lessonId": "EGY_01_03",
+      "mapTargets": [
+        {
+          "key": "nile",
+          "label": "Нил",
+          "point": "NILE_MIDDLE",
+          "zoom": 6,
+          "radius": 300000
+        },
+        {
+          "key": "delta",
+          "label": "Дельта Нила",
+          "point": "DELTA",
+          "zoom": 7,
+          "radius": 150000
+        },
+        {
+          "key": "elephantine",
+          "label": "Элефантина",
+          "point": "ELEPHANTINE",
+          "zoom": 9,
+          "radius": 18000
+        }
+      ]
+    },
+    {
+      "id": "EGY_01_04",
+      "type": "SYSTEM",
+      "title": "Река как дорога",
+      "description": "Как течение и ветры организовали движение",
+      "cards": [
+        "CITY_EGY_001",
+        "SYS_EGY_001",
+        "ART_EGYA_001"
+      ],
+      "unlockCards": [
+        "TERM_EGYA_001"
+      ],
+      "xp": 140,
+      "emoji": "≈",
+      "chapterId": "EGY_CHAPTER_01",
+      "lessonId": "EGY_01_04"
+    },
+    {
+      "id": "EGY_01_05",
+      "type": "TIMELINE",
+      "title": "География раннего государства",
+      "description": "Как природная среда стала политическим пространством",
+      "cards": [
+        "ART_EGYA_001",
+        "REG_EGYA_001",
+        "REG_EGYA_002"
+      ],
+      "unlockCards": [
+        "TERM_EGYA_002"
+      ],
+      "xp": 152,
+      "emoji": "⌛",
+      "chapterId": "EGY_CHAPTER_01",
+      "lessonId": "EGY_01_05",
+      "timeline": {
+        "order": [
+          "e1_0",
+          "e1_1",
+          "e1_2",
+          "e1_3"
+        ],
+        "labels": {
+          "e1_0": "ок. 5000–4000 до н. э. · Ранние земледельческие культуры",
+          "e1_1": "IV тысячелетие до н. э. · Рост поселений вдоль долины и дельты",
+          "e1_2": "ок. 3300–3100 до н. э. · Речная сеть связывает крупные центры",
+          "e1_3": "ок. 3100 до н. э. · География включается в единую царскую систему"
+        },
+        "shuffle": [
+          "e1_2",
+          "e1_0",
+          "e1_3",
+          "e1_1"
+        ]
+      }
+    },
+    {
+      "id": "EGY_01_06",
+      "type": "FINAL",
+      "title": "Итог: пространство Египта",
+      "description": "Проверка географии, ресурсов и транспорта",
+      "cards": [
+        "REG_EGYA_002",
+        "TERM_EGYA_001",
+        "TERM_EGYA_002"
+      ],
+      "unlockCards": [
+        "SYS_EGYA_001"
+      ],
+      "xp": 164,
+      "emoji": "◆",
+      "chapterId": "EGY_CHAPTER_01",
+      "lessonId": "EGY_01_06",
+      "quiz": "QUIZ_EGY_CH1"
+    },
+    {
+      "id": "EGY_02_01",
+      "type": "SOURCE",
+      "title": "Как археологи видят дописьменный Египет",
+      "description": "Как датируют эпоху без царских хроник",
+      "cards": [
+        "CULT_EGY_001",
+        "CULT_EGY_002",
+        "CULT_EGY_003"
+      ],
+      "unlockCards": [
+        "ART_EGYA_002"
+      ],
+      "xp": 104,
+      "emoji": "◇",
+      "chapterId": "EGY_CHAPTER_02",
+      "lessonId": "EGY_02_01"
+    },
+    {
+      "id": "EGY_02_02",
+      "type": "LESSON",
+      "title": "Бадарийская культура",
+      "description": "Что известно о ранних земледельцах Верхнего Египта",
+      "cards": [
+        "CULT_EGY_003",
+        "CULT_EGY_004",
+        "SITE_EGY_001"
+      ],
+      "unlockCards": [
+        "ART_EGYA_003"
+      ],
+      "xp": 116,
+      "emoji": "◌",
+      "chapterId": "EGY_CHAPTER_02",
+      "lessonId": "EGY_02_02"
+    },
+    {
+      "id": "EGY_02_03",
+      "type": "TIMELINE",
+      "title": "Накада I–III",
+      "description": "Как менялись Накада I, II и III",
+      "cards": [
+        "SITE_EGY_001",
+        "SITE_EGY_002",
+        "SITE_EGY_003"
+      ],
+      "unlockCards": [
+        "ART_EGYA_004"
+      ],
+      "xp": 128,
+      "emoji": "⌛",
+      "chapterId": "EGY_CHAPTER_02",
+      "lessonId": "EGY_02_03",
+      "timeline": {
+        "order": [
+          "e2_0",
+          "e2_1",
+          "e2_2",
+          "e2_3"
+        ],
+        "labels": {
+          "e2_0": "ок. 4400–4000 до н. э. · Бадарийская культура",
+          "e2_1": "ок. 3900–3650 до н. э. · Накада I",
+          "e2_2": "ок. 3650–3300 до н. э. · Накада II",
+          "e2_3": "ок. 3300–3000 до н. э. · Накада III"
+        },
+        "shuffle": [
+          "e2_2",
+          "e2_0",
+          "e2_3",
+          "e2_1"
+        ]
+      }
+    },
+    {
+      "id": "EGY_02_04",
+      "type": "CAUSE_EFFECT",
+      "title": "Погребения и социальное различие",
+      "description": "Что погребения говорят и чего не говорят об обществе",
+      "cards": [
+        "SITE_EGY_003",
+        "SYS_EGY_002",
+        "ART_EGYA_002"
+      ],
+      "unlockCards": [
+        "ART_EGYA_005"
+      ],
+      "xp": 140,
+      "emoji": "▤",
+      "chapterId": "EGY_CHAPTER_02",
+      "lessonId": "EGY_02_04"
+    },
+    {
+      "id": "EGY_02_05",
+      "type": "MAP",
+      "title": "Центры и дальний обмен",
+      "description": "Как росли Нехен, Накада и связи с соседями",
+      "cards": [
+        "ART_EGYA_002",
+        "ART_EGYA_003",
+        "ART_EGYA_004"
+      ],
+      "unlockCards": [
+        "TERM_EGYA_003"
+      ],
+      "xp": 152,
+      "emoji": "⌖",
+      "chapterId": "EGY_CHAPTER_02",
+      "lessonId": "EGY_02_05",
+      "mapTargets": [
+        {
+          "key": "badari",
+          "label": "Эль-Бадари",
+          "point": "BADARI",
+          "zoom": 9,
+          "radius": 18000
+        },
+        {
+          "key": "naqada",
+          "label": "Накада",
+          "point": "NAQADA",
+          "zoom": 9,
+          "radius": 18000
+        },
+        {
+          "key": "hierakonpolis",
+          "label": "Иераконполь",
+          "point": "HIERAKONPOLIS",
+          "zoom": 9,
+          "radius": 18000
+        }
+      ]
+    },
+    {
+      "id": "EGY_02_06",
+      "type": "FINAL",
+      "title": "Итог: додинастический мир",
+      "description": "Проверка археологии и периодизации",
+      "cards": [
+        "ART_EGYA_004",
+        "ART_EGYA_005",
+        "TERM_EGYA_003"
+      ],
+      "unlockCards": [
+        "PER_EGYA_002"
+      ],
+      "xp": 164,
+      "emoji": "◆",
+      "chapterId": "EGY_CHAPTER_02",
+      "lessonId": "EGY_02_06",
+      "quiz": "QUIZ_EGY_CH2"
+    },
+    {
+      "id": "EGY_03_01",
+      "type": "LESSON",
+      "title": "Почему юг называется Верхним",
+      "description": "Почему географические названия кажутся перевёрнутыми",
+      "cards": [
+        "SYS_EGY_003",
+        "REG_EGY_004",
+        "REG_EGY_005"
+      ],
+      "unlockCards": [
+        "ART_EGYA_008"
+      ],
+      "xp": 104,
+      "emoji": "⇅",
+      "chapterId": "EGY_CHAPTER_03",
+      "lessonId": "EGY_03_01"
+    },
+    {
+      "id": "EGY_03_02",
+      "type": "MATCH",
+      "title": "Две короны и две земли",
+      "description": "Как короны и богини выражали двойную структуру",
+      "cards": [
+        "REG_EGY_005",
+        "ART_EGY_001",
+        "ART_EGY_002"
+      ],
+      "unlockCards": [
+        "REL_EGYA_001"
+      ],
+      "xp": 116,
+      "emoji": "♜",
+      "chapterId": "EGY_CHAPTER_03",
+      "lessonId": "EGY_03_02"
+    },
+    {
+      "id": "EGY_03_03",
+      "type": "MAP",
+      "title": "Нехен, Абидос и Буто",
+      "description": "Как соотносились Нехен, Абидос и Буто",
+      "cards": [
+        "ART_EGY_002",
+        "SITE_EGY_004",
+        "SITE_EGY_005"
+      ],
+      "unlockCards": [
+        "REL_EGYA_002"
+      ],
+      "xp": 128,
+      "emoji": "⌖",
+      "chapterId": "EGY_CHAPTER_03",
+      "lessonId": "EGY_03_03",
+      "mapTargets": [
+        {
+          "key": "hierakonpolis",
+          "label": "Нехен",
+          "point": "HIERAKONPOLIS",
+          "zoom": 9,
+          "radius": 18000
+        },
+        {
+          "key": "abydos",
+          "label": "Абидос",
+          "point": "ABYDOS",
+          "zoom": 9,
+          "radius": 18000
+        },
+        {
+          "key": "buto",
+          "label": "Буто",
+          "point": "BUTO",
+          "zoom": 9,
+          "radius": 20000
+        }
+      ]
+    },
+    {
+      "id": "EGY_03_04",
+      "type": "CAUSE_EFFECT",
+      "title": "Обмен с Нубией и Левантом",
+      "description": "Как обмен влиял на усиление региональных центров",
+      "cards": [
+        "SITE_EGY_005",
+        "SYS_EGY_004",
+        "ART_EGYA_008"
+      ],
+      "unlockCards": [
+        "TERM_EGYA_004"
+      ],
+      "xp": 140,
+      "emoji": "⇄",
+      "chapterId": "EGY_CHAPTER_03",
+      "lessonId": "EGY_03_04"
+    },
+    {
+      "id": "EGY_03_05",
+      "type": "SOURCE",
+      "title": "Протогосударственные центры",
+      "description": "Что можно называть протогосударством",
+      "cards": [
+        "ART_EGYA_008",
+        "REL_EGYA_001",
+        "REL_EGYA_002"
+      ],
+      "unlockCards": [
+        "ART_EGYA_009"
+      ],
+      "xp": 152,
+      "emoji": "▦",
+      "chapterId": "EGY_CHAPTER_03",
+      "lessonId": "EGY_03_05"
+    },
+    {
+      "id": "EGY_03_06",
+      "type": "FINAL",
+      "title": "Итог: Верхний и Нижний Египет",
+      "description": "Проверка регионов, символов и центров",
+      "cards": [
+        "REL_EGYA_002",
+        "TERM_EGYA_004",
+        "ART_EGYA_009"
+      ],
+      "unlockCards": [
+        "SYS_EGYA_003"
+      ],
+      "xp": 164,
+      "emoji": "◆",
+      "chapterId": "EGY_CHAPTER_03",
+      "lessonId": "EGY_03_06",
+      "quiz": "QUIZ_EGY_CH3"
+    },
+    {
+      "id": "EGY_04_01",
+      "type": "TIMELINE",
+      "title": "Цари до Нармера",
+      "description": "Какие правители известны перед Нармером",
+      "cards": [
+        "EVENT_EGY_001",
+        "PER_EGY_001",
+        "PER_EGY_002"
+      ],
+      "unlockCards": [
+        "ART_EGYA_011"
+      ],
+      "xp": 104,
+      "emoji": "⌛",
+      "chapterId": "EGY_CHAPTER_04",
+      "lessonId": "EGY_04_01",
+      "timeline": {
+        "order": [
+          "e4_0",
+          "e4_1",
+          "e4_2",
+          "e4_3"
+        ],
+        "labels": {
+          "e4_0": "ок. 3200 до н. э. · Ири-Хор и ранняя последовательность царей",
+          "e4_1": "ок. 3150 до н. э. · Ка и расширение царских сетей",
+          "e4_2": "ок. 3100 до н. э. · Скорпион II и поздняя протодинастика",
+          "e4_3": "ок. 3100 до н. э. · Нармер и начало раннединастического периода"
+        },
+        "shuffle": [
+          "e4_2",
+          "e4_0",
+          "e4_3",
+          "e4_1"
+        ]
+      }
+    },
+    {
+      "id": "EGY_04_02",
+      "type": "CAUSE_EFFECT",
+      "title": "Что означает объединение",
+      "description": "Почему объединение нельзя свести к одному сражению",
+      "cards": [
+        "PER_EGY_002",
+        "PER_EGY_003",
+        "SYS_EGY_005"
+      ],
+      "unlockCards": [
+        "ART_EGYA_012"
+      ],
+      "xp": 116,
+      "emoji": "≋",
+      "chapterId": "EGY_CHAPTER_04",
+      "lessonId": "EGY_04_02"
+    },
+    {
+      "id": "EGY_04_03",
+      "type": "SOURCE",
+      "title": "Церемониальные палетки как источник",
+      "description": "Как отличать пропаганду палетки от события",
+      "cards": [
+        "SYS_EGY_005",
+        "SITE_EGY_006",
+        "ART_EGY_003"
+      ],
+      "unlockCards": [
+        "ART_EGYA_013"
+      ],
+      "xp": 128,
+      "emoji": "◇",
+      "chapterId": "EGY_CHAPTER_04",
+      "lessonId": "EGY_04_03"
+    },
+    {
+      "id": "EGY_04_04",
+      "type": "MAP",
+      "title": "Абидос и царское погребение",
+      "description": "Почему Абидос важен для царской последовательности",
+      "cards": [
+        "ART_EGY_003",
+        "SYS_EGY_006",
+        "ART_EGYA_011"
+      ],
+      "unlockCards": [
+        "ART_EGYA_014"
+      ],
+      "xp": 140,
+      "emoji": "⌖",
+      "chapterId": "EGY_CHAPTER_04",
+      "lessonId": "EGY_04_04",
+      "mapTargets": [
+        {
+          "key": "abydos",
+          "label": "Умм-эль-Кааб",
+          "point": "ABYDOS",
+          "zoom": 10,
+          "radius": 10000
+        },
+        {
+          "key": "hierakonpolis",
+          "label": "Иераконполь",
+          "point": "HIERAKONPOLIS",
+          "zoom": 9,
+          "radius": 18000
+        }
+      ]
+    },
+    {
+      "id": "EGY_04_05",
+      "type": "SYSTEM",
+      "title": "Печати, метки и раннее управление",
+      "description": "Как небольшие метки показывают раннюю администрацию",
+      "cards": [
+        "ART_EGYA_011",
+        "ART_EGYA_012",
+        "ART_EGYA_013"
+      ],
+      "unlockCards": [
+        "SYS_EGYA_005"
+      ],
+      "xp": 152,
+      "emoji": "▦",
+      "chapterId": "EGY_CHAPTER_04",
+      "lessonId": "EGY_04_05"
+    },
+    {
+      "id": "EGY_04_06",
+      "type": "FINAL",
+      "title": "Итог: формирование государства",
+      "description": "Проверка процесса консолидации",
+      "cards": [
+        "ART_EGYA_013",
+        "ART_EGYA_014",
+        "SYS_EGYA_005"
+      ],
+      "unlockCards": [
+        "PER_EGYA_004"
+      ],
+      "xp": 164,
+      "emoji": "◆",
+      "chapterId": "EGY_CHAPTER_04",
+      "lessonId": "EGY_04_06",
+      "quiz": "QUIZ_EGY_CH4"
+    },
+    {
+      "id": "EGY_05_01",
+      "type": "SOURCE",
+      "title": "Как читать палетку Нармера",
+      "description": "Что действительно изображено на обеих сторонах палетки",
+      "cards": [
+        "PER_EGY_004",
+        "ART_EGY_004",
+        "SYS_EGY_007"
+      ],
+      "unlockCards": [
+        "PER_EGYA_005"
+      ],
+      "xp": 104,
+      "emoji": "𓂀",
+      "chapterId": "EGY_CHAPTER_05",
+      "lessonId": "EGY_05_01"
+    },
+    {
+      "id": "EGY_05_02",
+      "type": "MATCH",
+      "title": "Две короны одного царя",
+      "description": "Как две короны создают образ общей власти",
+      "cards": [
+        "SYS_EGY_007",
+        "TERM_EGY_003",
+        "CITY_EGY_002"
+      ],
+      "unlockCards": [
+        "ART_EGYA_015"
+      ],
+      "xp": 116,
+      "emoji": "♜",
+      "chapterId": "EGY_CHAPTER_05",
+      "lessonId": "EGY_05_02"
+    },
+    {
+      "id": "EGY_05_03",
+      "type": "CAUSE_EFFECT",
+      "title": "Нармер и Менес",
+      "description": "Почему Менес не является простой второй фамилией Нармера",
+      "cards": [
+        "CITY_EGY_002",
+        "SYS_EGY_008",
+        "PER_EGY_005"
+      ],
+      "unlockCards": [
+        "TERM_EGYA_006"
+      ],
+      "xp": 128,
+      "emoji": "?",
+      "chapterId": "EGY_CHAPTER_05",
+      "lessonId": "EGY_05_03"
+    },
+    {
+      "id": "EGY_05_04",
+      "type": "MAP",
+      "title": "Мемфис между долиной и дельтой",
+      "description": "Почему район Мемфиса был стратегическим",
+      "cards": [
+        "PER_EGY_005",
+        "STATE_EGY_001",
+        "PER_EGYA_005"
+      ],
+      "unlockCards": [
+        "REL_EGYA_003"
+      ],
+      "xp": 140,
+      "emoji": "⌖",
+      "chapterId": "EGY_CHAPTER_05",
+      "lessonId": "EGY_05_04",
+      "mapTargets": [
+        {
+          "key": "hierakonpolis",
+          "label": "Иераконполь",
+          "point": "HIERAKONPOLIS",
+          "zoom": 9,
+          "radius": 18000
+        },
+        {
+          "key": "memphis",
+          "label": "Мемфис",
+          "point": "MEMPHIS",
+          "zoom": 9,
+          "radius": 20000
+        },
+        {
+          "key": "saqqara",
+          "label": "Саккара",
+          "point": "SAQQARA",
+          "zoom": 10,
+          "radius": 10000
+        }
+      ]
+    },
+    {
+      "id": "EGY_05_05",
+      "type": "SYSTEM",
+      "title": "Имя, серех и царский титул",
+      "description": "Как имя царя превращалось в институт",
+      "cards": [
+        "PER_EGYA_005",
+        "ART_EGYA_015",
+        "TERM_EGYA_006"
+      ],
+      "unlockCards": [
+        "ART_EGYA_016"
+      ],
+      "xp": 152,
+      "emoji": "𓅓",
+      "chapterId": "EGY_CHAPTER_05",
+      "lessonId": "EGY_05_05"
+    },
+    {
+      "id": "EGY_05_06",
+      "type": "FINAL",
+      "title": "Итог: первый царь",
+      "description": "Проверка Нармера, источников и ранней династии",
+      "cards": [
+        "TERM_EGYA_006",
+        "REL_EGYA_003",
+        "ART_EGYA_016"
+      ],
+      "unlockCards": [
+        "SYS_EGYA_007"
+      ],
+      "xp": 164,
+      "emoji": "◆",
+      "chapterId": "EGY_CHAPTER_05",
+      "lessonId": "EGY_05_06",
+      "quiz": "QUIZ_EGY_CH5"
+    }
+  ]
+}

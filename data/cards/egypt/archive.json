@@ -1,0 +1,2052 @@
+[
+  {
+    "id": "ART_EGYA_001",
+    "type": "ARTIFACT",
+    "title": "Папирус",
+    "original": "Папирус",
+    "subtitle": "растение долины и материал",
+    "era": "EGY_CHAPTER_01",
+    "region": "Нильская долина",
+    "date": "древность",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Болотное растение, использовавшееся для изготовления лодок, корзин, верёвок и позднее писчего материала.",
+    "importance": "Показывает многофункциональность местных речных ресурсов.",
+    "facts": [
+      "Папирус рос в заболоченных участках.",
+      "Из стеблей делали лёгкие конструкции.",
+      "Письменный папирус широко известен по династическим эпохам."
+    ],
+    "tags": [
+      "растение",
+      "ремесло"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egya_001.svg",
+      "caption": "Учебная обложка: Папирус",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egya_001.svg"
+    },
+    "source": {
+      "title": "Папирус — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D0%B8%D1%80%D1%83%D1%81",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_01",
+    "pool": "EGY_POOL_01"
+  },
+  {
+    "id": "REG_EGYA_001",
+    "type": "REGION",
+    "title": "Восточная пустыня",
+    "original": "Восточная пустыня",
+    "subtitle": "дороги к камню и Красному морю",
+    "era": "EGY_CHAPTER_01",
+    "region": "Восточный Египет",
+    "date": "древность",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Пустынная область между Нилом и Красным морем с рудниками, каменоломнями и караванными путями.",
+    "importance": "Опровергает представление, что египетское хозяйство ограничивалось только поймой.",
+    "facts": [
+      "Здесь добывали камень и минералы.",
+      "Вади связывали долину с Красным морем.",
+      "Экспедиции требовали снабжения и охраны."
+    ],
+    "tags": [
+      "пустыня",
+      "ресурсы"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/reg_egya_001.svg",
+      "caption": "Учебная обложка: Восточная пустыня",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "reg_egya_001.svg"
+    },
+    "source": {
+      "title": "Восточная пустыня — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_01",
+    "pool": "EGY_POOL_01"
+  },
+  {
+    "id": "REG_EGYA_002",
+    "type": "REGION",
+    "title": "Западная пустыня",
+    "original": "Западная пустыня",
+    "subtitle": "оазисы и пограничные пространства",
+    "era": "EGY_CHAPTER_01",
+    "region": "Западный Египет",
+    "date": "древность",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Обширная пустынная зона с оазисами, путями и редкими поселениями.",
+    "importance": "Была не только барьером, но и пространством обмена и движения.",
+    "facts": [
+      "Оазисы поддерживали постоянные поселения.",
+      "Пустынные дороги соединяли долину с Ливией.",
+      "Археологическая сохранность органики здесь часто высока."
+    ],
+    "tags": [
+      "пустыня",
+      "оазисы"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/reg_egya_002.svg",
+      "caption": "Учебная обложка: Западная пустыня",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "reg_egya_002.svg"
+    },
+    "source": {
+      "title": "Западная пустыня — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_01",
+    "pool": "EGY_POOL_01"
+  },
+  {
+    "id": "TERM_EGYA_001",
+    "type": "TERM",
+    "title": "Нильский ил",
+    "original": "Нильский ил",
+    "subtitle": "речные наносы поймы",
+    "era": "EGY_CHAPTER_01",
+    "region": "Египет",
+    "date": "древность",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Минеральные и органические отложения, остававшиеся на пойме после разлива.",
+    "importance": "Поддерживал плодородие до изменения гидрологического режима.",
+    "facts": [
+      "Ил распределялся неравномерно.",
+      "Поля требовали восстановления границ.",
+      "Наносы влияли на рельеф и русла."
+    ],
+    "tags": [
+      "земледелие",
+      "река"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/term_egya_001.svg",
+      "caption": "Учебная обложка: Нильский ил",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_egya_001.svg"
+    },
+    "source": {
+      "title": "Нильский ил — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%98%D0%BB",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_01",
+    "pool": "EGY_POOL_01"
+  },
+  {
+    "id": "TERM_EGYA_002",
+    "type": "TERM",
+    "title": "Первый порог Нила",
+    "original": "Первый порог Нила",
+    "subtitle": "естественный рубеж у Асуана",
+    "era": "EGY_CHAPTER_01",
+    "region": "Египет и Нубия",
+    "date": "древность",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Участок скал и быстрых течений, ограничивавший судоходство и формировавший южную границу Египта.",
+    "importance": "Показывает, как география превращалась в политическую границу и торговый узел.",
+    "facts": [
+      "Порог не был непроходимой стеной.",
+      "Грузы переносили и перевозили локальными маршрутами.",
+      "Рядом развивались Элефантина и Асуан."
+    ],
+    "tags": [
+      "граница",
+      "река"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/term_egya_002.svg",
+      "caption": "Учебная обложка: Первый порог Нила",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_egya_002.svg"
+    },
+    "source": {
+      "title": "Первый порог Нила — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D0%BE%D0%B3%D0%B8_%D0%9D%D0%B8%D0%BB%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_01",
+    "pool": "EGY_POOL_01"
+  },
+  {
+    "id": "SYS_EGYA_001",
+    "type": "SYSTEM",
+    "title": "Бассейновое орошение",
+    "original": "Бассейновое орошение",
+    "subtitle": "удержание воды на полях",
+    "era": "EGY_CHAPTER_01",
+    "region": "Египет",
+    "date": "древность",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Управление паводковой водой через земляные валы, каналы и участки, где влага задерживалась после разлива.",
+    "importance": "Объясняет коллективные работы без преувеличения единой централизованной системы на самых ранних этапах.",
+    "facts": [
+      "Система развивалась исторически.",
+      "Локальные общины могли управлять участками независимо.",
+      "Позднее государство участвовало в крупных работах и учёте."
+    ],
+    "tags": [
+      "ирригация",
+      "земледелие"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 5,
+      "politics": 5,
+      "religion": 1,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egya_001.svg",
+      "caption": "Учебная обложка: Бассейновое орошение",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egya_001.svg"
+    },
+    "source": {
+      "title": "Бассейновое орошение — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%98%D1%80%D1%80%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F_%D0%B2_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%BC_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B5",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_01",
+    "pool": "EGY_POOL_01"
+  },
+  {
+    "id": "PER_EGYA_001",
+    "type": "PERSON",
+    "title": "Нильский лодочник",
+    "original": "Нильский лодочник",
+    "subtitle": "реконструированная профессия",
+    "era": "EGY_CHAPTER_01",
+    "region": "Нильская долина",
+    "date": "IV тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Обобщённый образ человека, перевозившего людей, зерно, сосуды и сырьё по реке.",
+    "importance": "Позволяет увидеть речную систему через повседневный труд, а не только через царскую историю.",
+    "facts": [
+      "Лодочники знали течения, ветры и причалы.",
+      "Ранние изображения показывают разные типы лодок.",
+      "Это реконструкция профессии, а не конкретная биография."
+    ],
+    "tags": [
+      "профессия",
+      "лодки"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 3,
+      "culture": 5,
+      "politics": 5,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egya_001.svg",
+      "caption": "Учебная обложка: Нильский лодочник",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egya_001.svg"
+    },
+    "source": {
+      "title": "Нильский лодочник — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B4%D0%BA%D0%B8_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D0%BE_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_01",
+    "pool": "EGY_POOL_01"
+  },
+  {
+    "id": "SITE_EGYA_001",
+    "type": "SITE",
+    "title": "Файюмская впадина",
+    "original": "Файюмская впадина",
+    "subtitle": "озеро и ранние земледельцы",
+    "era": "EGY_CHAPTER_01",
+    "region": "Средний Египет",
+    "date": "V–IV тысячелетия до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Регион у озера Карун с памятниками раннего земледелия, рыболовства и поселений.",
+    "importance": "Показывает, что развитие долины Нила включало разные локальные экологические зоны.",
+    "facts": [
+      "Уровень озера менялся.",
+      "Находки включают зерно, орудия и рыболовные материалы.",
+      "Файюмская культура не была ранним единым Египтом."
+    ],
+    "tags": [
+      "археология",
+      "земледелие"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/site_egya_001.svg",
+      "caption": "Учебная обложка: Файюмская впадина",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "site_egya_001.svg"
+    },
+    "source": {
+      "title": "Файюмская впадина — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D1%8E%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_01",
+    "pool": "EGY_POOL_01",
+    "loc": {
+      "label": "Файюмская впадина",
+      "lat": 29.3,
+      "lng": 30.5
+    }
+  },
+  {
+    "id": "ART_EGYA_002",
+    "type": "ARTIFACT",
+    "title": "Черноверхая керамика",
+    "original": "Черноверхая керамика",
+    "subtitle": "сосуды с тёмным краем",
+    "era": "EGY_CHAPTER_02",
+    "region": "Верхний Египет",
+    "date": "V–IV тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Полированные красные сосуды с почерневшей верхней частью, характерные для Бадарийского и ранненакадского времени.",
+    "importance": "Служат важным маркером материальной культуры.",
+    "facts": [
+      "Чёрный цвет получали особым режимом обжига.",
+      "Сосуды встречаются в погребениях.",
+      "Форма и качество менялись по времени."
+    ],
+    "tags": [
+      "керамика",
+      "погребения"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egya_002.svg",
+      "caption": "Учебная обложка: Черноверхая керамика",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egya_002.svg"
+    },
+    "source": {
+      "title": "Черноверхая керамика — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B4%D0%B0%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_02",
+    "pool": "EGY_POOL_02"
+  },
+  {
+    "id": "ART_EGYA_003",
+    "type": "ARTIFACT",
+    "title": "Керамика с белой росписью",
+    "original": "Керамика с белой росписью",
+    "subtitle": "образы Накады I",
+    "era": "EGY_CHAPTER_02",
+    "region": "Верхний Египет",
+    "date": "IV тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Красные сосуды с белыми геометрическими, животными и человеческими мотивами.",
+    "importance": "Помогают изучать визуальную культуру до письменных текстов.",
+    "facts": [
+      "Роспись не является прямой иллюстрацией мифов.",
+      "Сюжеты включают охоту и движение.",
+      "Контекст находки важнее отдельного изображения."
+    ],
+    "tags": [
+      "керамика",
+      "искусство"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egya_003.svg",
+      "caption": "Учебная обложка: Керамика с белой росписью",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egya_003.svg"
+    },
+    "source": {
+      "title": "Керамика с белой росписью — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BA%D0%B0%D0%B4%D0%B0_(%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0)",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_02",
+    "pool": "EGY_POOL_02"
+  },
+  {
+    "id": "ART_EGYA_004",
+    "type": "ARTIFACT",
+    "title": "Расписной сосуд с лодками",
+    "original": "Расписной сосуд с лодками",
+    "subtitle": "визуальный мир Накады II",
+    "era": "EGY_CHAPTER_02",
+    "region": "Египет",
+    "date": "ок. 3500–3200 до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Светлая керамика с красно-коричневыми изображениями лодок, знаков, животных и ландшафта.",
+    "importance": "Показывает значение речного движения и символической коммуникации.",
+    "facts": [
+      "Лодки могли иметь церемониальное значение.",
+      "Знаки не обязательно являются письмом.",
+      "Большинство сосудов происходит из погребений."
+    ],
+    "tags": [
+      "керамика",
+      "лодки"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egya_004.svg",
+      "caption": "Учебная обложка: Расписной сосуд с лодками",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egya_004.svg"
+    },
+    "source": {
+      "title": "Расписной сосуд с лодками — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BA%D0%B0%D0%B4%D0%B0_(%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0)",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_02",
+    "pool": "EGY_POOL_02"
+  },
+  {
+    "id": "ART_EGYA_005",
+    "type": "ARTIFACT",
+    "title": "Кремнёвый нож",
+    "original": "Кремнёвый нож",
+    "subtitle": "высокое мастерство обработки камня",
+    "era": "EGY_CHAPTER_02",
+    "region": "Египет",
+    "date": "IV тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Тонко обработанное кремнёвое лезвие, иногда с декоративной рукоятью.",
+    "importance": "Показывает, что развитие медных изделий не отменило сложных каменных технологий.",
+    "facts": [
+      "Кремень обрабатывали давлением и ретушью.",
+      "Некоторые ножи были церемониальными.",
+      "Рукояти могли быть из слоновой кости."
+    ],
+    "tags": [
+      "орудие",
+      "ремесло"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egya_005.svg",
+      "caption": "Учебная обложка: Кремнёвый нож",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egya_005.svg"
+    },
+    "source": {
+      "title": "Кремнёвый нож — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D0%BC%D0%BD%D1%91%D0%B2%D1%8B%D0%B9_%D0%BD%D0%BE%D0%B6",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_02",
+    "pool": "EGY_POOL_02"
+  },
+  {
+    "id": "TERM_EGYA_003",
+    "type": "TERM",
+    "title": "Додинастический некрополь",
+    "original": "Додинастический некрополь",
+    "subtitle": "кладбище до эпохи фараонов",
+    "era": "EGY_CHAPTER_02",
+    "region": "Египет",
+    "date": "V–IV тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Группа погребений, по которой археологи изучают вещи, питание, здоровье и социальное различие.",
+    "importance": "Некрополи дают больше данных, чем многие ранние поселения, но создают погребальный перекос.",
+    "facts": [
+      "Не все жители хоронились одинаково.",
+      "Богатство могилы не точно измеряет политическую власть.",
+      "Сухой климат сохраняет органические материалы."
+    ],
+    "tags": [
+      "погребение",
+      "археология"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/term_egya_003.svg",
+      "caption": "Учебная обложка: Додинастический некрополь",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_egya_003.svg"
+    },
+    "source": {
+      "title": "Додинастический некрополь — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_02",
+    "pool": "EGY_POOL_02"
+  },
+  {
+    "id": "PER_EGYA_002",
+    "type": "PERSON",
+    "title": "Додинастический гончар",
+    "original": "Додинастический гончар",
+    "subtitle": "реконструированная профессия",
+    "era": "EGY_CHAPTER_02",
+    "region": "Верхний Египет",
+    "date": "IV тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Обобщённый образ мастера, подготавливавшего глину, формовавшего и обжигавшего сосуды.",
+    "importance": "Показывает передачу навыков и рост специализированного производства.",
+    "facts": [
+      "Часть сосудов делали вручную.",
+      "Качество обжига зависело от топлива и контроля температуры.",
+      "Это реконструкция, а не известное по имени лицо."
+    ],
+    "tags": [
+      "профессия",
+      "керамика"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 3,
+      "culture": 5,
+      "politics": 5,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egya_002.svg",
+      "caption": "Учебная обложка: Додинастический гончар",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egya_002.svg"
+    },
+    "source": {
+      "title": "Додинастический гончар — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%D0%BA%D0%B0_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D0%BE_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_02",
+    "pool": "EGY_POOL_02"
+  },
+  {
+    "id": "ART_EGYA_006",
+    "type": "ARTIFACT",
+    "title": "Косметическая палетка",
+    "original": "Косметическая палетка",
+    "subtitle": "камень для растирания пигмента",
+    "era": "EGY_CHAPTER_02",
+    "region": "Египет",
+    "date": "IV тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Плоский каменный предмет, первоначально связанный с приготовлением косметических веществ, позднее ставший церемониальным носителем изображений.",
+    "importance": "Показывает переход бытового типа предмета в политическое искусство.",
+    "facts": [
+      "Ранние палетки имеют формы животных.",
+      "Поздние церемониальные образцы слишком велики для обычного использования.",
+      "Символические сцены требуют осторожного толкования."
+    ],
+    "tags": [
+      "артефакт",
+      "ритуал"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 4,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egya_006.svg",
+      "caption": "Учебная обложка: Косметическая палетка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egya_006.svg"
+    },
+    "source": {
+      "title": "Косметическая палетка — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B0%D0%BB%D0%B5%D1%82%D0%BA%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_02",
+    "pool": "EGY_POOL_02"
+  },
+  {
+    "id": "SYS_EGYA_002",
+    "type": "SYSTEM",
+    "title": "Дальний обмен Накады",
+    "original": "Дальний обмен Накады",
+    "subtitle": "сети сырья и престижных вещей",
+    "era": "EGY_CHAPTER_02",
+    "region": "Северо-Восточная Африка и Левант",
+    "date": "IV тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Обмен обсидианом, медью, древесиной, раковинами, камнем и идеями между долиной Нила и соседними регионами.",
+    "importance": "Поддерживал элитное потребление и рост центров.",
+    "facts": [
+      "Материалы поступали из разных направлений.",
+      "Обмен не обязательно контролировался единым царём.",
+      "Предметы могли многократно переходить между посредниками."
+    ],
+    "tags": [
+      "торговля",
+      "сырьё"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 5,
+      "religion": 1,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egya_002.svg",
+      "caption": "Учебная обложка: Дальний обмен Накады",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egya_002.svg"
+    },
+    "source": {
+      "title": "Дальний обмен Накады — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_02",
+    "pool": "EGY_POOL_02"
+  },
+  {
+    "id": "ART_EGYA_008",
+    "type": "ARTIFACT",
+    "title": "Двойная корона",
+    "original": "Двойная корона",
+    "subtitle": "объединённый царский символ",
+    "era": "EGY_CHAPTER_03",
+    "region": "Египет",
+    "date": "раннединастический период и позднее",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Комбинация Белой и Красной корон, представлявшая власть над двумя землями.",
+    "importance": "Выражала идеал политического единства при сохранении двойной структуры.",
+    "facts": [
+      "Египетское название — пшент.",
+      "На палетке Нармера две короны показаны раздельно.",
+      "Комбинированный образ стал обычным позднее."
+    ],
+    "tags": [
+      "корона",
+      "единство"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egya_008.svg",
+      "caption": "Учебная обложка: Двойная корона",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egya_008.svg"
+    },
+    "source": {
+      "title": "Двойная корона — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%88%D0%B5%D0%BD%D1%82",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_03",
+    "pool": "EGY_POOL_03"
+  },
+  {
+    "id": "REL_EGYA_001",
+    "type": "RELIGION",
+    "title": "Уаджит",
+    "original": "Уаджит",
+    "subtitle": "богиня-кобра Нижнего Египта",
+    "era": "EGY_CHAPTER_03",
+    "region": "Дельта",
+    "date": "древность",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Божество, связанное с Буто, царской защитой и северной частью страны.",
+    "importance": "Вместе с Нехбет участвовала в символике двойной монархии.",
+    "facts": [
+      "Её образом была кобра.",
+      "Урей стал царским защитным знаком.",
+      "Культ развивался на протяжении династической истории."
+    ],
+    "tags": [
+      "религия",
+      "дельта"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 4,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/rel_egya_001.svg",
+      "caption": "Учебная обложка: Уаджит",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rel_egya_001.svg"
+    },
+    "source": {
+      "title": "Уаджит — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B0%D0%B4%D0%B6%D0%B8%D1%82",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_03",
+    "pool": "EGY_POOL_03"
+  },
+  {
+    "id": "REL_EGYA_002",
+    "type": "RELIGION",
+    "title": "Нехбет",
+    "original": "Нехбет",
+    "subtitle": "богиня-стервятник Верхнего Египта",
+    "era": "EGY_CHAPTER_03",
+    "region": "Верхний Египет",
+    "date": "древность",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Божество города Нехеб, связанное с защитой царя и южной частью страны.",
+    "importance": "В паре с Уаджит выражала власть над двумя землями.",
+    "facts": [
+      "Её изображали в виде стервятника.",
+      "Нехеб находился рядом с Нехеном.",
+      "Титул «Две владычицы» включал Нехбет и Уаджит."
+    ],
+    "tags": [
+      "религия",
+      "юг"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 4,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/rel_egya_002.svg",
+      "caption": "Учебная обложка: Нехбет",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rel_egya_002.svg"
+    },
+    "source": {
+      "title": "Нехбет — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%85%D0%B1%D0%B5%D1%82",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_03",
+    "pool": "EGY_POOL_03"
+  },
+  {
+    "id": "TERM_EGYA_004",
+    "type": "TERM",
+    "title": "Серех",
+    "original": "Серех",
+    "subtitle": "рамка раннего царского имени",
+    "era": "EGY_CHAPTER_03",
+    "region": "Египет",
+    "date": "позднее IV тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Прямоугольный знак с фасадом дворца и соколом Хора, внутри которого писали имя царя.",
+    "importance": "Один из ранних инструментов фиксации царской идентичности.",
+    "facts": [
+      "Предшествует позднему картушу.",
+      "Встречается на сосудах, метках и печатях.",
+      "Не все ранние серехи читаются однозначно."
+    ],
+    "tags": [
+      "письмо",
+      "царь"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 4,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/term_egya_004.svg",
+      "caption": "Учебная обложка: Серех",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_egya_004.svg"
+    },
+    "source": {
+      "title": "Серех — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B5%D1%85",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_03",
+    "pool": "EGY_POOL_03"
+  },
+  {
+    "id": "ART_EGYA_009",
+    "type": "ARTIFACT",
+    "title": "Штандарт нома",
+    "original": "Штандарт нома",
+    "subtitle": "знак области или группы",
+    "era": "EGY_CHAPTER_03",
+    "region": "Египет",
+    "date": "поздний додинастический период",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Изображение символа на древке, встречающееся в процессиях и военной иконографии.",
+    "importance": "Может отражать области, культы или организованные группы, но точное чтение спорно.",
+    "facts": [
+      "Позднейшие номы имели устойчивые эмблемы.",
+      "Ранние стандарты нельзя всегда прямо отождествить с поздними областями.",
+      "На палетке Нармера стандарты участвуют в процессии."
+    ],
+    "tags": [
+      "символ",
+      "область"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egya_009.svg",
+      "caption": "Учебная обложка: Штандарт нома",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egya_009.svg"
+    },
+    "source": {
+      "title": "Штандарт нома — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%BC%D1%8B_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D0%BE_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_03",
+    "pool": "EGY_POOL_03"
+  },
+  {
+    "id": "SYS_EGYA_003",
+    "type": "SYSTEM",
+    "title": "Обмен с Нубией",
+    "original": "Обмен с Нубией",
+    "subtitle": "южные сети золота и престижных материалов",
+    "era": "EGY_CHAPTER_03",
+    "region": "Египет и Нубия",
+    "date": "IV тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Контакты долины Нила с южными обществами, включавшие сырьё, изделия, скот и политическое соперничество.",
+    "importance": "Южные маршруты усиливали значение Верхнего Египта.",
+    "facts": [
+      "Нубия не была пассивной периферией.",
+      "Археологические культуры юга имели собственную историю.",
+      "Золото, камень и слоновая кость повышали ценность маршрутов."
+    ],
+    "tags": [
+      "торговля",
+      "Нубия"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 5,
+      "religion": 1,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egya_003.svg",
+      "caption": "Учебная обложка: Обмен с Нубией",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egya_003.svg"
+    },
+    "source": {
+      "title": "Обмен с Нубией — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%9D%D1%83%D0%B1%D0%B8%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_03",
+    "pool": "EGY_POOL_03"
+  },
+  {
+    "id": "SYS_EGYA_004",
+    "type": "SYSTEM",
+    "title": "Обмен с Левантом",
+    "original": "Обмен с Левантом",
+    "subtitle": "северо-восточные контакты",
+    "era": "EGY_CHAPTER_03",
+    "region": "Египет и Южный Левант",
+    "date": "IV тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Сеть перемещения сосудов, древесины, масла, меди и технологических идей между Египтом и Левантом.",
+    "importance": "Показывает международный контекст раннего египетского государства.",
+    "facts": [
+      "Особенно заметна в Дельте и на южнолевантийских памятниках.",
+      "Часть египетских сосудов находят за пределами Египта.",
+      "Формы контакта включали обмен и присутствие групп."
+    ],
+    "tags": [
+      "торговля",
+      "Левант"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 5,
+      "religion": 1,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egya_004.svg",
+      "caption": "Учебная обложка: Обмен с Левантом",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egya_004.svg"
+    },
+    "source": {
+      "title": "Обмен с Левантом — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_03",
+    "pool": "EGY_POOL_03"
+  },
+  {
+    "id": "PER_EGYA_003",
+    "type": "PERSON",
+    "title": "Ранний носитель штандарта",
+    "original": "Ранний носитель штандарта",
+    "subtitle": "реконструированная придворная роль",
+    "era": "EGY_CHAPTER_03",
+    "region": "Египет",
+    "date": "ок. 3100 до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Обобщённый образ участника царской процессии, несущего знак области, божества или военной группы.",
+    "importance": "Позволяет рассмотреть коллективную организацию за пределами фигуры царя.",
+    "facts": [
+      "Известен по изображениям, а не по именам.",
+      "Стандарты могли маркировать разные типы групп.",
+      "Это реконструированный персонаж."
+    ],
+    "tags": [
+      "двор",
+      "символ"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 3,
+      "culture": 5,
+      "politics": 5,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egya_003.svg",
+      "caption": "Учебная обложка: Ранний носитель штандарта",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egya_003.svg"
+    },
+    "source": {
+      "title": "Ранний носитель штандарта — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D1%82%D0%BA%D0%B0_%D0%9D%D0%B0%D1%80%D0%BC%D0%B5%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_03",
+    "pool": "EGY_POOL_03"
+  },
+  {
+    "id": "ART_EGYA_011",
+    "type": "ARTIFACT",
+    "title": "Палетка поля битвы",
+    "original": "Палетка поля битвы",
+    "subtitle": "насилие и царская символика",
+    "era": "EGY_CHAPTER_04",
+    "region": "Египет",
+    "date": "ок. 3200–3100 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Церемониальная палетка с пленниками, телами и животными, участвующими в сцене победы.",
+    "importance": "Показывает развитие визуального языка организованного насилия до палетки Нармера.",
+    "facts": [
+      "Предмет сохранился фрагментарно.",
+      "Личность победителя не указана ясно.",
+      "Животные могут символизировать власть или хаос."
+    ],
+    "tags": [
+      "палетка",
+      "война"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egya_011.svg",
+      "caption": "Учебная обложка: Палетка поля битвы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egya_011.svg"
+    },
+    "source": {
+      "title": "Палетка поля битвы — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D1%82%D0%BA%D0%B0_%D0%BF%D0%BE%D0%BB%D1%8F_%D0%B1%D0%B8%D1%82%D0%B2%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_04",
+    "pool": "EGY_POOL_04"
+  },
+  {
+    "id": "ART_EGYA_012",
+    "type": "ARTIFACT",
+    "title": "Палетка городов",
+    "original": "Палетка городов",
+    "subtitle": "укреплённые поселения и животные",
+    "era": "EGY_CHAPTER_04",
+    "region": "Египет",
+    "date": "ок. 3200–3000 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Фрагментарный церемониальный предмет, где животные разрушают или обозначают укреплённые города.",
+    "importance": "Используется для обсуждения победы и политической символики эпохи объединения.",
+    "facts": [
+      "Интерпретация сцен спорна.",
+      "Названия некоторых городов могут быть записаны знаками.",
+      "Предмет не является картой завоеваний."
+    ],
+    "tags": [
+      "палетка",
+      "города"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egya_012.svg",
+      "caption": "Учебная обложка: Палетка городов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egya_012.svg"
+    },
+    "source": {
+      "title": "Палетка городов — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D1%82%D0%BA%D0%B0_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_04",
+    "pool": "EGY_POOL_04"
+  },
+  {
+    "id": "ART_EGYA_013",
+    "type": "ARTIFACT",
+    "title": "Ливийская палетка",
+    "original": "Ливийская палетка",
+    "subtitle": "города, скот и растения",
+    "era": "EGY_CHAPTER_04",
+    "region": "Египет",
+    "date": "ок. 3100 до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Фрагмент церемониальной палетки с изображениями укреплений, животных и растений.",
+    "importance": "Отражает царский язык территорий, богатства и победы.",
+    "facts": [
+      "Название «Ливийская» условно.",
+      "Сохранилась только часть предмета.",
+      "Знаки требуют осторожного прочтения."
+    ],
+    "tags": [
+      "палетка",
+      "символика"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egya_013.svg",
+      "caption": "Учебная обложка: Ливийская палетка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egya_013.svg"
+    },
+    "source": {
+      "title": "Ливийская палетка — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B0%D0%BB%D0%B5%D1%82%D0%BA%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_04",
+    "pool": "EGY_POOL_04"
+  },
+  {
+    "id": "ART_EGYA_014",
+    "type": "ARTIFACT",
+    "title": "Костяная метка",
+    "original": "Костяная метка",
+    "subtitle": "малый документ раннего двора",
+    "era": "EGY_CHAPTER_04",
+    "region": "Абидос",
+    "date": "ок. 3200–3000 до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Небольшая пластинка с знаками, привязанная к товару или погребальному вложению.",
+    "importance": "Показывает раннюю связь письма, учёта и царского хозяйства.",
+    "facts": [
+      "Метки делали из кости, слоновой кости или дерева.",
+      "Знаки часто кратки и трудны для чтения.",
+      "Контекст гробницы помогает интерпретации."
+    ],
+    "tags": [
+      "письмо",
+      "учёт"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egya_014.svg",
+      "caption": "Учебная обложка: Костяная метка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egya_014.svg"
+    },
+    "source": {
+      "title": "Костяная метка — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D0%B5%D1%80%D0%BE%D0%B3%D0%BB%D0%B8%D1%84%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_04",
+    "pool": "EGY_POOL_04"
+  },
+  {
+    "id": "SYS_EGYA_005",
+    "type": "SYSTEM",
+    "title": "Царские погребальные комплексы",
+    "original": "Царские погребальные комплексы",
+    "subtitle": "гробница, склады и ритуал",
+    "era": "EGY_CHAPTER_04",
+    "region": "Абидос",
+    "date": "ок. 3200–2900 до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Комплексы, включавшие погребальную камеру, кладовые, сосуды, метки и иногда дополнительные захоронения.",
+    "importance": "Мобилизация ресурсов для гробницы отражала рост двора и власти.",
+    "facts": [
+      "Размеры комплексов менялись.",
+      "Дополнительные погребения интерпретируются по-разному.",
+      "Погребение не показывает всю административную систему."
+    ],
+    "tags": [
+      "гробница",
+      "двор"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 5,
+      "politics": 5,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egya_005.svg",
+      "caption": "Учебная обложка: Царские погребальные комплексы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egya_005.svg"
+    },
+    "source": {
+      "title": "Царские погребальные комплексы — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BD%D0%BD%D0%B5%D0%B5_%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_(%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B8%D0%B9_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82)",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_04",
+    "pool": "EGY_POOL_04"
+  },
+  {
+    "id": "PER_EGYA_004",
+    "type": "PERSON",
+    "title": "Царский резчик меток",
+    "original": "Царский резчик меток",
+    "subtitle": "реконструированная профессия",
+    "era": "EGY_CHAPTER_04",
+    "region": "Абидос",
+    "date": "ок. 3100 до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Обобщённый образ мастера, вырезавшего знаки на небольших костяных и деревянных табличках.",
+    "importance": "Позволяет увидеть материальную работу за ранним письмом.",
+    "facts": [
+      "Инструменты и навыки требовали подготовки.",
+      "Метки могли обозначать товар, место или событие.",
+      "Это реконструированная фигура."
+    ],
+    "tags": [
+      "профессия",
+      "письмо"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 3,
+      "culture": 5,
+      "politics": 5,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egya_004.svg",
+      "caption": "Учебная обложка: Царский резчик меток",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egya_004.svg"
+    },
+    "source": {
+      "title": "Царский резчик меток — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D0%B5%D1%80%D0%BE%D0%B3%D0%BB%D0%B8%D1%84%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_04",
+    "pool": "EGY_POOL_04"
+  },
+  {
+    "id": "TERM_EGYA_005",
+    "type": "TERM",
+    "title": "Нулевая династия",
+    "original": "Нулевая династия",
+    "subtitle": "современное обозначение ранних царей",
+    "era": "EGY_CHAPTER_04",
+    "region": "Египет",
+    "date": "ок. 3200–3000 до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Условный термин для правителей непосредственно перед I династией, чьи имена известны не полностью.",
+    "importance": "Помогает группировать материал, но не отражает древнюю официальную династию.",
+    "facts": [
+      "Термин создан египтологами.",
+      "Состав списка различается у исследователей.",
+      "Границы с I династией условны."
+    ],
+    "tags": [
+      "хронология",
+      "цари"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/term_egya_005.svg",
+      "caption": "Учебная обложка: Нулевая династия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_egya_005.svg"
+    },
+    "source": {
+      "title": "Нулевая династия — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D1%83%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F_%D0%B4%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_04",
+    "pool": "EGY_POOL_04"
+  },
+  {
+    "id": "SYS_EGYA_006",
+    "type": "SYSTEM",
+    "title": "Династическая хронология",
+    "original": "Династическая хронология",
+    "subtitle": "группировка царей в династии",
+    "era": "EGY_CHAPTER_04",
+    "region": "Египтология",
+    "date": "античность — современность",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Система деления истории Египта на династии, восходящая к труду Манефона и уточняемая археологией.",
+    "importance": "Удобна для курса, но может скрывать постепенность политических изменений.",
+    "facts": [
+      "Манефон писал спустя тысячелетия.",
+      "Древние царские списки выборочны.",
+      "Современные даты используют археологию и радиоуглеродный анализ."
+    ],
+    "tags": [
+      "хронология",
+      "источники"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 5,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egya_006.svg",
+      "caption": "Учебная обложка: Династическая хронология",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egya_006.svg"
+    },
+    "source": {
+      "title": "Династическая хронология — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B5%D1%84%D0%BE%D0%BD",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_04",
+    "pool": "EGY_POOL_04"
+  },
+  {
+    "id": "PER_EGYA_005",
+    "type": "PERSON",
+    "title": "Нейтхотеп",
+    "original": "Нейтхотеп",
+    "subtitle": "ранняя царица и элитная фигура",
+    "era": "EGY_CHAPTER_05",
+    "region": "Египет",
+    "date": "ок. XXXI век до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Женщина раннединастической эпохи, известная по крупной гробнице и царским контекстам.",
+    "importance": "Её статус показывает роль династических связей и высокое положение женщин при формировании государства.",
+    "facts": [
+      "Точное родство с Нармером и Хор-Ахой обсуждается.",
+      "Гробница в Накаде была исключительно крупной.",
+      "Имя связано с богиней Нейт."
+    ],
+    "tags": [
+      "царица",
+      "династия"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 5,
+      "politics": 5,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egya_005.svg",
+      "caption": "Учебная обложка: Нейтхотеп",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egya_005.svg"
+    },
+    "source": {
+      "title": "Нейтхотеп — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B9%D1%82%D1%85%D0%BE%D1%82%D0%B5%D0%BF",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_05",
+    "pool": "EGY_POOL_05"
+  },
+  {
+    "id": "ART_EGYA_015",
+    "type": "ARTIFACT",
+    "title": "Нармерова булава",
+    "original": "Нармерова булава",
+    "subtitle": "царская церемония и пленники",
+    "era": "EGY_CHAPTER_05",
+    "region": "Иераконполь",
+    "date": "ок. 3100 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Фрагментированная церемониальная головка булавы со сценой сидящего царя, процессии и учёта.",
+    "importance": "Дополняет палетку, показывая другой тип царского ритуала.",
+    "facts": [
+      "Сцена интерпретируется как праздник, брак или демонстрация добычи.",
+      "Числа могут обозначать трофеи или людей.",
+      "Предмет найден в том же общем комплексе, что палетка."
+    ],
+    "tags": [
+      "булава",
+      "источник"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egya_015.svg",
+      "caption": "Учебная обложка: Нармерова булава",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egya_015.svg"
+    },
+    "source": {
+      "title": "Нармерова булава — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BB%D0%B0%D0%B2%D0%B0_%D0%9D%D0%B0%D1%80%D0%BC%D0%B5%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_05",
+    "pool": "EGY_POOL_05"
+  },
+  {
+    "id": "TERM_EGYA_006",
+    "type": "TERM",
+    "title": "Сом и резец",
+    "original": "Сом и резец",
+    "subtitle": "знаки имени Нармера",
+    "era": "EGY_CHAPTER_05",
+    "region": "Египет",
+    "date": "ок. 3100 до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Иероглифы, которые читаются как имя Нармер внутри сереха.",
+    "importance": "Показывают раннее использование письма для идентификации царя.",
+    "facts": [
+      "Знак сома передаёт nꜥr.",
+      "Резец передаёт mr.",
+      "Произношение реконструировано египтологами."
+    ],
+    "tags": [
+      "письмо",
+      "имя"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/term_egya_006.svg",
+      "caption": "Учебная обложка: Сом и резец",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_egya_006.svg"
+    },
+    "source": {
+      "title": "Сом и резец — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%BC%D0%B5%D1%80",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_05",
+    "pool": "EGY_POOL_05"
+  },
+  {
+    "id": "REL_EGYA_003",
+    "type": "RELIGION",
+    "title": "Хор царя",
+    "original": "Хор царя",
+    "subtitle": "сокол и монархия",
+    "era": "EGY_CHAPTER_05",
+    "region": "Египет",
+    "date": "древность",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Связь живого царя с богом Хором, выраженная серехом, соколом и ритуальной идеологией.",
+    "importance": "Стала одной из основ египетского понимания царской власти.",
+    "facts": [
+      "Хор имел разные местные формы.",
+      "Имя Хора было одним из царских имён.",
+      "Религиозная формула менялась со временем."
+    ],
+    "tags": [
+      "религия",
+      "Хор"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 4,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/rel_egya_003.svg",
+      "caption": "Учебная обложка: Хор царя",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rel_egya_003.svg"
+    },
+    "source": {
+      "title": "Хор царя — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%80_(%D0%B1%D0%BE%D0%B3)",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_05",
+    "pool": "EGY_POOL_05"
+  },
+  {
+    "id": "ART_EGYA_016",
+    "type": "ARTIFACT",
+    "title": "Переплетённые серпопарды",
+    "original": "Переплетённые серпопарды",
+    "subtitle": "центральная сцена палетки",
+    "era": "EGY_CHAPTER_05",
+    "region": "Иераконполь",
+    "date": "ок. 3100 до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Два фантастических длинношеих животных, удерживаемых людьми вокруг круга для растирания.",
+    "importance": "Образ связывают с контролем хаоса или соединением противоположностей, но смысл не установлен.",
+    "facts": [
+      "Мотив имеет параллели в искусстве Передней Азии.",
+      "Животных называют серпопардами современно.",
+      "Не следует считать сцену прямой картой объединения."
+    ],
+    "tags": [
+      "искусство",
+      "палетка"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egya_016.svg",
+      "caption": "Учебная обложка: Переплетённые серпопарды",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egya_016.svg"
+    },
+    "source": {
+      "title": "Переплетённые серпопарды — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D1%82%D0%BA%D0%B0_%D0%9D%D0%B0%D1%80%D0%BC%D0%B5%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_05",
+    "pool": "EGY_POOL_05"
+  },
+  {
+    "id": "SYS_EGYA_007",
+    "type": "SYSTEM",
+    "title": "Царский двор",
+    "original": "Царский двор",
+    "subtitle": "дом царя и служба управления",
+    "era": "EGY_CHAPTER_05",
+    "region": "Египет",
+    "date": "раннединастический период",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Сеть родственников, должностных лиц, ремесленников, писцов и хозяйств вокруг царя.",
+    "importance": "Был практическим механизмом власти за символическими изображениями.",
+    "facts": [
+      "Ранние титулы известны по меткам и печатям.",
+      "Двор перемещал ресурсы между регионами.",
+      "Полная структура восстанавливается фрагментарно."
+    ],
+    "tags": [
+      "двор",
+      "управление"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 5,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egya_007.svg",
+      "caption": "Учебная обложка: Царский двор",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egya_007.svg"
+    },
+    "source": {
+      "title": "Царский двор — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BD%D0%BD%D0%B5%D0%B5_%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_(%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B8%D0%B9_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82)",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_05",
+    "pool": "EGY_POOL_05"
+  },
+  {
+    "id": "SITE_EGYA_002",
+    "type": "SITE",
+    "title": "Саккара",
+    "original": "Саккара",
+    "subtitle": "некрополь у Мемфиса",
+    "era": "EGY_CHAPTER_05",
+    "region": "Нижний Египет",
+    "date": "I династия и позднее",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Крупный некрополь, где известны элитные мастабы раннединастического периода.",
+    "importance": "Связывает столичную область с погребениями высших служащих и возможными царскими памятниками.",
+    "facts": [
+      "Расположена западнее Мемфиса.",
+      "Ранние мастабы долго обсуждались как возможные царские гробницы.",
+      "Позднее здесь построили комплекс Джосера."
+    ],
+    "tags": [
+      "некрополь",
+      "Мемфис"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/site_egya_002.svg",
+      "caption": "Учебная обложка: Саккара",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "site_egya_002.svg"
+    },
+    "source": {
+      "title": "Саккара — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BA%D0%BA%D0%B0%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_05",
+    "pool": "EGY_POOL_05",
+    "loc": {
+      "label": "Саккара",
+      "lat": 29.87,
+      "lng": 31.22
+    }
+  },
+  {
+    "id": "PER_EGYA_006",
+    "type": "PERSON",
+    "title": "Царский хранитель печати",
+    "original": "Царский хранитель печати",
+    "subtitle": "ранний придворный служащий",
+    "era": "EGY_CHAPTER_05",
+    "region": "Египет",
+    "date": "I династия",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Обобщённый образ должностного лица, связанного с маркировкой помещений, сосудов и поставок.",
+    "importance": "Показывает административную повседневность ранней монархии.",
+    "facts": [
+      "Титулы ранних служащих известны неполно.",
+      "Печать обеспечивала контроль доступа.",
+      "Это реконструированный персонаж."
+    ],
+    "tags": [
+      "профессия",
+      "печати"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 3,
+      "culture": 5,
+      "politics": 5,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egya_006.svg",
+      "caption": "Учебная обложка: Царский хранитель печати",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egya_006.svg"
+    },
+    "source": {
+      "title": "Царский хранитель печати — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D0%BE_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_05",
+    "pool": "EGY_POOL_05"
+  }
+]

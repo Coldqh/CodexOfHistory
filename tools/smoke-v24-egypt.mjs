@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+import fs from 'node:fs';import path from 'node:path';const root=path.resolve(process.cwd());const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
+const c=read('data/campaigns/egypt/campaign.json'),s=read('data/cards/egypt/story.json'),a=read('data/cards/egypt/archive.json'),l=read('data/lessons/egypt/chapter_01_05.json'),q=read('data/quizzes/egypt/chapter_01_05.json'),m=read('data/maps/egypt.json');
+const fail=x=>{console.error('FAIL',x);process.exit(1)};if(c.chapters.length!==5)fail('chapters');if(c.nodes.length!==30)fail('missions');if(s.length+a.length!==80)fail('cards');if(Object.keys(l).length!==30)fail('lessons');if(Object.keys(q).length!==5)fail('quizzes');if(!m.points.MEMPHIS)fail('map');for(const x of Object.values(l)){if((x.theory?.paragraphs||[]).join(' ').split(/\s+/).length<250)fail(x.missionId+' theory');}console.log('✓ Egypt v2.4 smoke',c.chapters.length,c.nodes.length,s.length+a.length);

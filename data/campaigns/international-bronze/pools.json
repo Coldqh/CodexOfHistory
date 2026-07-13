@@ -1,0 +1,335 @@
+{
+  "campaignId": "BRONZE_INTERNATIONAL",
+  "campaigns": {
+    "BRONZE_INTERNATIONAL": {
+      "id": "BRONZE_INTERNATIONAL",
+      "title": "Международный мир бронзового века",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "INT_POOL_01",
+      "campaign": "BRONZE_INTERNATIONAL",
+      "title": "Мир великих царей",
+      "unlockMission": "INT_01_02",
+      "cardIds": [
+        "INT_A_01_01",
+        "INT_A_01_02",
+        "INT_A_01_03",
+        "INT_A_01_04"
+      ]
+    },
+    {
+      "id": "INT_POOL_02",
+      "campaign": "BRONZE_INTERNATIONAL",
+      "title": "Амарнский архив",
+      "unlockMission": "INT_02_02",
+      "cardIds": [
+        "INT_A_02_01",
+        "INT_A_02_02",
+        "INT_A_02_03",
+        "INT_A_02_04"
+      ]
+    },
+    {
+      "id": "INT_POOL_03",
+      "campaign": "BRONZE_INTERNATIONAL",
+      "title": "Писцы, язык и послы",
+      "unlockMission": "INT_03_02",
+      "cardIds": [
+        "INT_A_03_01",
+        "INT_A_03_02",
+        "INT_A_03_03",
+        "INT_A_03_04"
+      ]
+    },
+    {
+      "id": "INT_POOL_04",
+      "campaign": "BRONZE_INTERNATIONAL",
+      "title": "Дары, золото и престиж",
+      "unlockMission": "INT_04_02",
+      "cardIds": [
+        "INT_A_04_01",
+        "INT_A_04_02",
+        "INT_A_04_03",
+        "INT_A_04_04"
+      ]
+    },
+    {
+      "id": "INT_POOL_05",
+      "campaign": "BRONZE_INTERNATIONAL",
+      "title": "Династические браки",
+      "unlockMission": "INT_05_02",
+      "cardIds": [
+        "INT_A_05_01",
+        "INT_A_05_02",
+        "INT_A_05_03",
+        "INT_A_05_04"
+      ]
+    },
+    {
+      "id": "INT_POOL_06",
+      "campaign": "BRONZE_INTERNATIONAL",
+      "title": "Вассальные царства Леванта",
+      "unlockMission": "INT_06_02",
+      "cardIds": [
+        "INT_A_06_01",
+        "INT_A_06_02",
+        "INT_A_06_03",
+        "INT_A_06_04"
+      ]
+    },
+    {
+      "id": "INT_POOL_07",
+      "campaign": "BRONZE_INTERNATIONAL",
+      "title": "Угарит — порт и архив",
+      "unlockMission": "INT_07_02",
+      "cardIds": [
+        "INT_A_07_01",
+        "INT_A_07_02",
+        "INT_A_07_03",
+        "INT_A_07_04"
+      ]
+    },
+    {
+      "id": "INT_POOL_08",
+      "campaign": "BRONZE_INTERNATIONAL",
+      "title": "Алашия и медь Кипра",
+      "unlockMission": "INT_08_02",
+      "cardIds": [
+        "INT_A_08_01",
+        "INT_A_08_02",
+        "INT_A_08_03",
+        "INT_A_08_04"
+      ]
+    },
+    {
+      "id": "INT_POOL_09",
+      "campaign": "BRONZE_INTERNATIONAL",
+      "title": "Улубурун и морская торговля",
+      "unlockMission": "INT_09_02",
+      "cardIds": [
+        "INT_A_09_01",
+        "INT_A_09_02",
+        "INT_A_09_03",
+        "INT_A_09_04"
+      ]
+    },
+    {
+      "id": "INT_POOL_10",
+      "campaign": "BRONZE_INTERNATIONAL",
+      "title": "Система под давлением",
+      "unlockMission": "INT_10_02",
+      "cardIds": [
+        "INT_A_10_01",
+        "INT_A_10_02",
+        "INT_A_10_03",
+        "INT_A_10_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "INT_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_01",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_01",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_01",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_01",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_02",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_02",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_02",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_02",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_03",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_03",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_03",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_03",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_04",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_04",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_04",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_04",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_05",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_05",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_05",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_05",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_06",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_06",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_06",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_06",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_07",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_07",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_07",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_07",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_08",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_08",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_08",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_08",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_09",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_09",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_09",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_09",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_10",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_10",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_10",
+      "campaign": "BRONZE_INTERNATIONAL"
+    },
+    "INT_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "INT_POOL_10",
+      "campaign": "BRONZE_INTERNATIONAL"
+    }
+  }
+}

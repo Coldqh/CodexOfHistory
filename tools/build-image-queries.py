@@ -8,7 +8,7 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "3.4.0"
+VERSION = "3.5.0"
 
 GROUP_CONTEXT = {
     "ROME": {
@@ -42,6 +42,10 @@ GROUP_CONTEXT = {
     "AEGEAN_BRONZE": {
         "terms": ["миной", "minoan", "микен", "mycenaean", "эгей", "aegean", "crete", "крит", "knossos", "mycenae", "bronze age"],
         "base": [("ru", "Эгейская цивилизация"), ("en", "Aegean civilization")],
+    },
+    "BRONZE_INTERNATIONAL": {
+        "terms": ["бронз", "bronze age", "амарн", "amarna", "угарит", "ugarit", "алаш", "alashiya", "кипр", "cyprus", "хетт", "hittite", "егип", "egypt", "дипломат", "trade"],
+        "base": [("ru", "Амарнские письма"), ("en", "Late Bronze Age collapse")],
     },
     "MIXED": {
         "terms": ["древн", "ancient", "цивилизац", "civilization", "archaeolog", "археолог", "river", "река", "письмен"],
@@ -151,6 +155,16 @@ TYPE_FALLBACK = {
         "RELIGION": [("en", "Minoan religion"), ("en", "Mycenaean religion")],
         "BATTLE": [("en", "Mycenaean Greece"), ("en", "Trojan War")],
         "WAR": [("en", "Mycenaean Greece"), ("en", "Mycenaean military")],
+    },
+    "BRONZE_INTERNATIONAL": {
+        "ARTIFACT": [("en", "Uluburun shipwreck"), ("en", "Oxhide ingot")],
+        "TEXT": [("en", "Amarna letters"), ("en", "Ugaritic texts")],
+        "BUILDING": [("en", "Royal Palace of Ugarit"), ("en", "Amarna")],
+        "RELIGION": [("en", "Baal Cycle"), ("en", "Ancient Near Eastern religion")],
+        "STATE": [("en", "Late Bronze Age"), ("en", "Amarna letters")],
+        "SYSTEM": [("en", "Amarna letters"), ("en", "Bronze Age trade")],
+        "RESOURCE": [("en", "Oxhide ingot"), ("en", "Uluburun shipwreck")],
+        "ROUTE": [("en", "Bronze Age trade"), ("en", "Eastern Mediterranean")],
     },
     "MIXED": {
         "ARTIFACT": [("ru", "Археологический артефакт"), ("en", "Archaeological artifact")],
@@ -316,7 +330,7 @@ def group_for(path: Path, card: dict) -> str:
     p = path.as_posix()
     for token, group in [
         ("/rome/", "ROME"), ("/mesopotamia/", "MESOPOTAMIA"), ("/egypt/", "EGYPT"),
-        ("/indus/", "INDUS"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"), ("/aegean/", "AEGEAN_BRONZE"),
+        ("/indus/", "INDUS"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"), ("/aegean/", "AEGEAN_BRONZE"), ("/international-bronze/", "BRONZE_INTERNATIONAL"),
     ]:
         if token in p:
             return group

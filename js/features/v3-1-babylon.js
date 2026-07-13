@@ -1,6 +1,6 @@
-/* Codex v3.4.0 — Babylon and early Bronze Age */
+/* Codex v3.5.0 — Babylon and early Bronze Age */
 (()=>{
-  const V='3.4.0';
+  const V='3.5.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.BABYLON_OLD='BABYLON';
   state.bronzeMapMode=state.bronzeMapMode==='ERA'?'ERA':'CAMPAIGN';
@@ -87,7 +87,7 @@
   worldScreen=function(){
     let html=oldWorld();
     if(state.worldEra!=='ERA_BRONZE'||state.worldView==='TIMELINE')return html;
-    const block=`<section class="bronze-world-summary reveal"><div><small>ЭПОХА II</small><h2>Четыре кампании доступны</h2><p>Открыты Вавилон, Египет Среднего и Нового царства, Хетты и Анатолия, а также Минойцы и микенцы. Международная система и кризис около 1200 года остаются в плане.</p></div><div class="hero-actions"><button class="btn" onclick="startWorldCampaign('BABYLON_OLD')">Вавилон</button><button class="btn secondary" onclick="startWorldCampaign('EGYPT_MIDDLE_NEW')">Египет</button><button class="btn secondary" onclick="startWorldCampaign('HITTITES')">Хетты</button><button class="btn secondary" onclick="startWorldCampaign('AEGEAN_BRONZE')">Эгейский мир</button></div></section>`;
+    const block=`<section class="bronze-world-summary reveal"><div><small>ЭПОХА II</small><h2>Пять кампаний доступны</h2><p>Открыты Вавилон, Египет Среднего и Нового царства, Хетты и Анатолия, Минойцы и микенцы, а также общий международный мир позднего бронзового века. Катастрофа около 1200 года остаётся следующим этапом.</p></div><div class="hero-actions"><button class="btn" onclick="startWorldCampaign('BABYLON_OLD')">Вавилон</button><button class="btn secondary" onclick="startWorldCampaign('EGYPT_MIDDLE_NEW')">Египет</button><button class="btn secondary" onclick="startWorldCampaign('HITTITES')">Хетты</button><button class="btn secondary" onclick="startWorldCampaign('AEGEAN_BRONZE')">Эгейский мир</button><button class="btn secondary" onclick="startWorldCampaign('BRONZE_INTERNATIONAL')">Международный мир</button></div></section>`;
     if(html.includes('<div class="study-campaign-grid')) return html.replace('<div class="study-campaign-grid',block+'<div class="study-campaign-grid');
     return html.replace('<div class="world-campaign-grid',block+'<div class="world-campaign-grid');
   };

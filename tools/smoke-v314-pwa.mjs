@@ -14,7 +14,7 @@ const visuals=readText('js/features/v3-1-3-visual-semantics.js');
 const index=readText('index.html');
 const styles=readText('styles.css');
 
-assert.equal(manifest.version,'3.4.0');
+assert.equal(manifest.version,'3.5.0');
 assert.match(sw,/IMAGE_LIMIT=48/);
 assert.match(sw,/TILE_LIMIT=72/);
 assert.match(sw,/trim\(cacheName,limit\)/);
@@ -38,4 +38,4 @@ assert.match(styles,/iOS\/standalone safety mode/);
 assert.equal(webmanifest.icons.filter(x=>x.type==='image/png').length,3);
 for(const size of [180,192,512])assert.ok(fs.existsSync(path.join(root,`assets/ui/codex-icon-${size}.png`)),`missing ${size}px icon`);
 
-console.log('✓ v3.4.0 mobile PWA uses lazy visuals, session cache and PNG icons');
+console.log('✓ v3.5.0 mobile PWA uses lazy visuals, session cache and PNG icons');

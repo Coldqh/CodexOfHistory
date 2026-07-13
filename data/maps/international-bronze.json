@@ -1,0 +1,322 @@
+{
+  "points": {
+    "AMARNA": [
+      27.645,
+      30.897
+    ],
+    "THEBES": [
+      25.718,
+      32.657
+    ],
+    "EGYPT": [
+      27.0,
+      30.5
+    ],
+    "HATTUSA": [
+      40.019,
+      34.615
+    ],
+    "ANATOLIA": [
+      39.0,
+      33.0
+    ],
+    "KADESH": [
+      34.56,
+      36.52
+    ],
+    "BABYLON": [
+      32.536,
+      44.421
+    ],
+    "ASSUR": [
+      35.456,
+      43.262
+    ],
+    "MITANNI": [
+      36.5,
+      40.5
+    ],
+    "UGARIT": [
+      35.602,
+      35.785
+    ],
+    "MINET": [
+      35.59,
+      35.77
+    ],
+    "BYBLOS": [
+      34.123,
+      35.651
+    ],
+    "JERUSALEM": [
+      31.778,
+      35.235
+    ],
+    "MEGIDDO": [
+      32.584,
+      35.184
+    ],
+    "CANAAN": [
+      32.2,
+      35.2
+    ],
+    "CYPRUS": [
+      35.0,
+      33.2
+    ],
+    "ENKOMI": [
+      35.125,
+      33.887
+    ],
+    "TROODOS": [
+      34.92,
+      32.87
+    ],
+    "ULUBURUN": [
+      36.13,
+      29.69
+    ],
+    "MEDITERRANEAN": [
+      34.8,
+      32.0
+    ],
+    "LEVANT": [
+      34.4,
+      35.7
+    ],
+    "MYCENAE": [
+      37.731,
+      22.756
+    ],
+    "CRETE": [
+      35.24,
+      24.81
+    ],
+    "TROY": [
+      39.957,
+      26.239
+    ],
+    "QATNA": [
+      34.84,
+      36.87
+    ],
+    "CARCHEMISH": [
+      36.83,
+      38.0
+    ],
+    "NUBIA": [
+      22.5,
+      31.0
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "INT_S_01_01": "MEDITERRANEAN",
+    "INT_S_01_02": "HATTUSA",
+    "INT_S_01_03": "EGYPT",
+    "INT_S_01_04": "HATTUSA",
+    "INT_S_01_05": "MITANNI",
+    "INT_S_01_06": "BABYLON",
+    "INT_S_01_07": "ASSUR",
+    "INT_S_01_08": "AMARNA",
+    "INT_A_01_01": "MEDITERRANEAN",
+    "INT_A_01_02": "HATTUSA",
+    "INT_A_01_03": "AMARNA",
+    "INT_A_01_04": "BABYLON",
+    "INT_S_02_01": "AMARNA",
+    "INT_S_02_02": "AMARNA",
+    "INT_S_02_03": "AMARNA",
+    "INT_S_02_04": "BABYLON",
+    "INT_S_02_05": "AMARNA",
+    "INT_S_02_06": "AMARNA",
+    "INT_S_02_07": "AMARNA",
+    "INT_S_02_08": "AMARNA",
+    "INT_A_02_01": "ASSUR",
+    "INT_A_02_02": "MITANNI",
+    "INT_A_02_03": "CYPRUS",
+    "INT_A_02_04": "AMARNA",
+    "INT_S_03_01": "AMARNA",
+    "INT_S_03_02": "UGARIT",
+    "INT_S_03_03": "MEDITERRANEAN",
+    "INT_S_03_04": "AMARNA",
+    "INT_S_03_05": "AMARNA",
+    "INT_S_03_06": "UGARIT",
+    "INT_S_03_07": "LEVANT",
+    "INT_S_03_08": "AMARNA",
+    "INT_A_03_01": "AMARNA",
+    "INT_A_03_02": "HATTUSA",
+    "INT_A_03_03": "UGARIT",
+    "INT_A_03_04": "MEDITERRANEAN",
+    "INT_S_04_01": "AMARNA",
+    "INT_S_04_02": "NUBIA",
+    "INT_S_04_03": "BABYLON",
+    "INT_S_04_04": "ULUBURUN",
+    "INT_S_04_05": "LEVANT",
+    "INT_S_04_06": "MITANNI",
+    "INT_S_04_07": "AMARNA",
+    "INT_S_04_08": "AMARNA",
+    "INT_A_04_01": "MITANNI",
+    "INT_A_04_02": "ULUBURUN",
+    "INT_A_04_03": "UGARIT",
+    "INT_A_04_04": "EGYPT",
+    "INT_S_05_01": "MEDITERRANEAN",
+    "INT_S_05_02": "MITANNI",
+    "INT_S_05_03": "MITANNI",
+    "INT_S_05_04": "AMARNA",
+    "INT_S_05_05": "AMARNA",
+    "INT_S_05_06": "EGYPT",
+    "INT_S_05_07": "AMARNA",
+    "INT_S_05_08": "KADESH",
+    "INT_A_05_01": "LEVANT",
+    "INT_A_05_02": "BABYLON",
+    "INT_A_05_03": "MEDITERRANEAN",
+    "INT_A_05_04": "EGYPT",
+    "INT_S_06_01": "CANAAN",
+    "INT_S_06_02": "CANAAN",
+    "INT_S_06_03": "BYBLOS",
+    "INT_S_06_04": "BYBLOS",
+    "INT_S_06_05": "JERUSALEM",
+    "INT_S_06_06": "CANAAN",
+    "INT_S_06_07": "CANAAN",
+    "INT_S_06_08": "AMARNA",
+    "INT_A_06_01": "JERUSALEM",
+    "INT_A_06_02": "BYBLOS",
+    "INT_A_06_03": "CANAAN",
+    "INT_A_06_04": "MEGIDDO",
+    "INT_S_07_01": "UGARIT",
+    "INT_S_07_02": "MINET",
+    "INT_S_07_03": "UGARIT",
+    "INT_S_07_04": "UGARIT",
+    "INT_S_07_05": "UGARIT",
+    "INT_S_07_06": "UGARIT",
+    "INT_S_07_07": "HATTUSA",
+    "INT_S_07_08": "MINET",
+    "INT_A_07_01": "UGARIT",
+    "INT_A_07_02": "UGARIT",
+    "INT_A_07_03": "UGARIT",
+    "INT_A_07_04": "MINET",
+    "INT_S_08_01": "CYPRUS",
+    "INT_S_08_02": "CYPRUS",
+    "INT_S_08_03": "CYPRUS",
+    "INT_S_08_04": "ENKOMI",
+    "INT_S_08_05": "TROODOS",
+    "INT_S_08_06": "CYPRUS",
+    "INT_S_08_07": "CYPRUS",
+    "INT_S_08_08": "MEDITERRANEAN",
+    "INT_A_08_01": "CYPRUS",
+    "INT_A_08_02": "ULUBURUN",
+    "INT_A_08_03": "CYPRUS",
+    "INT_A_08_04": "ENKOMI",
+    "INT_S_09_01": "ULUBURUN",
+    "INT_S_09_02": "ULUBURUN",
+    "INT_S_09_03": "ULUBURUN",
+    "INT_S_09_04": "ULUBURUN",
+    "INT_S_09_05": "ULUBURUN",
+    "INT_S_09_06": "ULUBURUN",
+    "INT_S_09_07": "ULUBURUN",
+    "INT_S_09_08": "ULUBURUN",
+    "INT_A_09_01": "ULUBURUN",
+    "INT_A_09_02": "ULUBURUN",
+    "INT_A_09_03": "ULUBURUN",
+    "INT_A_09_04": "ULUBURUN",
+    "INT_S_10_01": "MEDITERRANEAN",
+    "INT_S_10_02": "MEDITERRANEAN",
+    "INT_S_10_03": "HATTUSA",
+    "INT_S_10_04": "UGARIT",
+    "INT_S_10_05": "MEDITERRANEAN",
+    "INT_S_10_06": "MEDITERRANEAN",
+    "INT_S_10_07": "LEVANT",
+    "INT_S_10_08": "MEDITERRANEAN",
+    "INT_A_10_01": "UGARIT",
+    "INT_A_10_02": "ANATOLIA",
+    "INT_A_10_03": "HATTUSA",
+    "INT_A_10_04": "MEDITERRANEAN"
+  },
+  "chapters": {
+    "INT_CHAPTER_01": {
+      "title": "Мир великих царей",
+      "center": [
+        27.0,
+        30.5
+      ],
+      "zoom": 5
+    },
+    "INT_CHAPTER_02": {
+      "title": "Амарнский архив",
+      "center": [
+        27.645,
+        30.897
+      ],
+      "zoom": 5
+    },
+    "INT_CHAPTER_03": {
+      "title": "Писцы, язык и послы",
+      "center": [
+        27.645,
+        30.897
+      ],
+      "zoom": 5
+    },
+    "INT_CHAPTER_04": {
+      "title": "Дары, золото и престиж",
+      "center": [
+        27.0,
+        30.5
+      ],
+      "zoom": 5
+    },
+    "INT_CHAPTER_05": {
+      "title": "Династические браки",
+      "center": [
+        36.5,
+        40.5
+      ],
+      "zoom": 5
+    },
+    "INT_CHAPTER_06": {
+      "title": "Вассальные царства Леванта",
+      "center": [
+        34.123,
+        35.651
+      ],
+      "zoom": 5
+    },
+    "INT_CHAPTER_07": {
+      "title": "Угарит — порт и архив",
+      "center": [
+        35.602,
+        35.785
+      ],
+      "zoom": 5
+    },
+    "INT_CHAPTER_08": {
+      "title": "Алашия и медь Кипра",
+      "center": [
+        35.0,
+        33.2
+      ],
+      "zoom": 5
+    },
+    "INT_CHAPTER_09": {
+      "title": "Улубурун и морская торговля",
+      "center": [
+        36.13,
+        29.69
+      ],
+      "zoom": 5
+    },
+    "INT_CHAPTER_10": {
+      "title": "Система под давлением",
+      "center": [
+        35.602,
+        35.785
+      ],
+      "zoom": 5
+    }
+  },
+  "missionCenter": [
+    34.5,
+    34.0
+  ],
+  "missionZoom": 4
+}

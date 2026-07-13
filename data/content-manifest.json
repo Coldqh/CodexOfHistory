@@ -1,5 +1,5 @@
 {
-  "version": "3.4.0",
+  "version": "3.5.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -26,7 +26,9 @@
       "data/cards/hittites/story.json",
       "data/cards/hittites/archive.json",
       "data/cards/aegean/story.json",
-      "data/cards/aegean/archive.json"
+      "data/cards/aegean/archive.json",
+      "data/cards/international-bronze/story.json",
+      "data/cards/international-bronze/archive.json"
     ],
     "relations": "data/core/relations.json",
     "pools": [
@@ -40,7 +42,8 @@
       "data/campaigns/babylon/pools.json",
       "data/campaigns/egypt-middle-new/pools.json",
       "data/campaigns/hittites/pools.json",
-      "data/campaigns/aegean/pools.json"
+      "data/campaigns/aegean/pools.json",
+      "data/campaigns/international-bronze/pools.json"
     ],
     "quizzes": [
       "data/quizzes/rome/chapter_01.json",
@@ -57,7 +60,8 @@
       "data/quizzes/babylon/campaign.json",
       "data/quizzes/egypt-middle-new/campaign.json",
       "data/quizzes/hittites/campaign.json",
-      "data/quizzes/aegean/campaign.json"
+      "data/quizzes/aegean/campaign.json",
+      "data/quizzes/international-bronze/campaign.json"
     ],
     "stories": [
       "data/stories/rome/personal.json",
@@ -70,7 +74,8 @@
       "data/stories/babylon/personal.json",
       "data/stories/egypt-middle-new/personal.json",
       "data/stories/hittites/personal.json",
-      "data/stories/aegean/personal.json"
+      "data/stories/aegean/personal.json",
+      "data/stories/international-bronze/personal.json"
     ],
     "mastery": "data/core/mastery.json",
     "packs": "data/core/packs.json",
@@ -87,7 +92,8 @@
       "BRONZE_WORLD": "data/maps/bronze-world.json",
       "EGYPT_MIDDLE_NEW": "data/maps/egypt-middle-new.json",
       "HITTITES": "data/maps/hittites.json",
-      "AEGEAN_BRONZE": "data/maps/aegean.json"
+      "AEGEAN_BRONZE": "data/maps/aegean.json",
+      "BRONZE_INTERNATIONAL": "data/maps/international-bronze.json"
     },
     "daily": "data/core/daily-learning.json",
     "lessons": [
@@ -105,7 +111,8 @@
       "data/lessons/babylon/campaign.json",
       "data/lessons/egypt-middle-new/campaign.json",
       "data/lessons/hittites/campaign.json",
-      "data/lessons/aegean/campaign.json"
+      "data/lessons/aegean/campaign.json",
+      "data/lessons/international-bronze/campaign.json"
     ],
     "eras": "data/world/eras.json",
     "campaignCatalog": "data/world/campaigns.json",
@@ -121,7 +128,8 @@
       "data/campaigns/babylon/campaign.json",
       "data/campaigns/egypt-middle-new/campaign.json",
       "data/campaigns/hittites/campaign.json",
-      "data/campaigns/aegean/campaign.json"
+      "data/campaigns/aegean/campaign.json",
+      "data/campaigns/international-bronze/campaign.json"
     ],
     "imageQueries": "data/image_queries.json"
   },
@@ -158,6 +166,7 @@
     "js/features/v3-2-egypt-middle-new.js",
     "js/features/v3-3-hittites.js",
     "js/features/v3-4-aegean.js",
+    "js/features/v3-5-international.js",
     "js/features/v3-1-1-hotfix.js",
     "js/features/v3-1-3-visual-semantics.js",
     "js/core/start.js"

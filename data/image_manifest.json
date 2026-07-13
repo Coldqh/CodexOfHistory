@@ -1,5 +1,5 @@
 {
-  "version": "3.1.2",
+  "version": "3.1.3",
   "generatedAt": "2026-07-13",
   "count": 899,
   "historicalImageCount": 42,
@@ -9897,6 +9897,6 @@
   ],
   "staticHistoricalImageCount": 42,
   "dynamicQueryCount": 857,
-  "resolver": "data/image_queries.json + js/features/v3-1-2-visual-archive.js",
-  "strategy": "Wikimedia PageImages and Commons extmetadata with browser cache and unique local SVG fallback"
+  "resolver": "data/image_queries.json + js/features/v3-1-3-visual-semantics.js",
+  "strategy": "Semantically validated Wikipedia PageImages and Commons extmetadata with browser cache and local SVG fallback"
 }

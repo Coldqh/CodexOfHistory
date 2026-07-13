@@ -88,6 +88,91 @@
         "SITE_EGYA_002",
         "PER_EGYA_006"
       ]
+    },
+    {
+      "id": "EGY_POOL_06",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_06",
+      "title": "Первые династии и двор",
+      "unlockMission": "EGY_06_01",
+      "cardIds": [
+        "SITE_EGYA2_001",
+        "BUILD_EGYA2_001",
+        "ART_EGYA2_001",
+        "ART_EGYA2_002",
+        "SYS_EGYA2_001",
+        "BUILD_EGYA2_002",
+        "TERM_EGYA2_001",
+        "SYS_EGYA2_002"
+      ]
+    },
+    {
+      "id": "EGY_POOL_07",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_07",
+      "title": "Саккара и каменная архитектура",
+      "unlockMission": "EGY_07_01",
+      "cardIds": [
+        "BUILD_EGYA2_003",
+        "BUILD_EGYA2_004",
+        "BUILD_EGYA2_005",
+        "ART_EGYA2_003",
+        "BUILD_EGYA2_006",
+        "BUILD_EGYA2_007",
+        "SITE_EGYA2_003",
+        "BUILD_EGYA2_008"
+      ]
+    },
+    {
+      "id": "EGY_POOL_08",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_08",
+      "title": "Гиза и строители пирамид",
+      "unlockMission": "EGY_08_01",
+      "cardIds": [
+        "PER_EGYA2_006",
+        "SITE_EGYA2_004",
+        "SITE_EGYA2_005",
+        "ART_EGYA2_004",
+        "TERM_EGYA2_002",
+        "BUILD_EGYA2_009",
+        "BUILD_EGYA2_010",
+        "SYS_EGYA2_004"
+      ]
+    },
+    {
+      "id": "EGY_POOL_09",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_09",
+      "title": "Администрация Древнего царства",
+      "unlockMission": "EGY_09_01",
+      "cardIds": [
+        "OFF_EGYA2_001",
+        "OFF_EGYA2_002",
+        "TEXT_EGYA2_001",
+        "SYS_EGYA2_005",
+        "SYS_EGYA2_006",
+        "REL_EGYA2_001",
+        "SYS_EGYA2_007",
+        "TEXT_EGYA2_002"
+      ]
+    },
+    {
+      "id": "EGY_POOL_10",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_10",
+      "title": "Региональные царства",
+      "unlockMission": "EGY_10_01",
+      "cardIds": [
+        "PER_EGYA2_007",
+        "TEXT_EGYA2_003",
+        "TEXT_EGYA2_004",
+        "CULT_EGYA2_001",
+        "SITE_EGYA2_006",
+        "TERM_EGYA2_004",
+        "CITY_EGYA2_001",
+        "SITE_EGYA2_007"
+      ]
     }
   ],
   "acquisition": {
@@ -490,6 +575,406 @@
       "campaign": "EGYPT",
       "chapter": "EGY_CHAPTER_05",
       "kind": "STORY"
+    },
+    "SITE_EGYA2_001": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_06"
+    },
+    "BUILD_EGYA2_001": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_06"
+    },
+    "ART_EGYA2_001": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_06"
+    },
+    "ART_EGYA2_002": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_06"
+    },
+    "SYS_EGYA2_001": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_06"
+    },
+    "BUILD_EGYA2_002": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_06"
+    },
+    "TERM_EGYA2_001": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_06"
+    },
+    "SYS_EGYA2_002": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_06"
+    },
+    "BUILD_EGYA2_003": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_07"
+    },
+    "BUILD_EGYA2_004": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_07"
+    },
+    "BUILD_EGYA2_005": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_07"
+    },
+    "ART_EGYA2_003": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_07"
+    },
+    "BUILD_EGYA2_006": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_07"
+    },
+    "BUILD_EGYA2_007": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_07"
+    },
+    "SITE_EGYA2_003": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_07"
+    },
+    "BUILD_EGYA2_008": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_07"
+    },
+    "PER_EGYA2_006": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_08"
+    },
+    "SITE_EGYA2_004": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_08"
+    },
+    "SITE_EGYA2_005": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_08"
+    },
+    "ART_EGYA2_004": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_08"
+    },
+    "TERM_EGYA2_002": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_08"
+    },
+    "BUILD_EGYA2_009": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_08"
+    },
+    "BUILD_EGYA2_010": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_08"
+    },
+    "SYS_EGYA2_004": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_08"
+    },
+    "OFF_EGYA2_001": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_09"
+    },
+    "OFF_EGYA2_002": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_09"
+    },
+    "TEXT_EGYA2_001": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_09"
+    },
+    "SYS_EGYA2_005": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_09"
+    },
+    "SYS_EGYA2_006": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_09"
+    },
+    "REL_EGYA2_001": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_09"
+    },
+    "SYS_EGYA2_007": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_09"
+    },
+    "TEXT_EGYA2_002": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_09"
+    },
+    "PER_EGYA2_007": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_10"
+    },
+    "TEXT_EGYA2_003": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_10"
+    },
+    "TEXT_EGYA2_004": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_10"
+    },
+    "CULT_EGYA2_001": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_10"
+    },
+    "SITE_EGYA2_006": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_10"
+    },
+    "TERM_EGYA2_004": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_10"
+    },
+    "CITY_EGYA2_001": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_10"
+    },
+    "SITE_EGYA2_007": {
+      "type": "PACK",
+      "campaign": "EGYPT",
+      "pool": "EGY_POOL_10"
+    },
+    "PERIOD_EGY2_001": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_06"
+    },
+    "DYN_EGY2_001": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_06"
+    },
+    "DYN_EGY2_002": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_06"
+    },
+    "PER_EGY2_001": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_06"
+    },
+    "PER_EGY2_002": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_06"
+    },
+    "PER_EGY2_003": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_06"
+    },
+    "PER_EGY2_004": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_06"
+    },
+    "PER_EGY2_005": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_06"
+    },
+    "PER_EGY2_006": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_07"
+    },
+    "PER_EGY2_007": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_07"
+    },
+    "DYN_EGY2_003": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_07"
+    },
+    "BUILD_EGY2_001": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_07"
+    },
+    "SITE_EGY2_001": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_07"
+    },
+    "SYS_EGY2_003": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_07"
+    },
+    "SITE_EGY2_002": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_07"
+    },
+    "TERM_EGY2_001": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_07"
+    },
+    "PER_EGY2_008": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_08"
+    },
+    "BUILD_EGY2_002": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_08"
+    },
+    "BUILD_EGY2_003": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_08"
+    },
+    "BUILD_EGY2_004": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_08"
+    },
+    "PER_EGY2_009": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_08"
+    },
+    "BUILD_EGY2_005": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_08"
+    },
+    "PER_EGY2_010": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_08"
+    },
+    "ART_EGY2_001": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_08"
+    },
+    "PERIOD_EGY2_002": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_09"
+    },
+    "DYN_EGY2_004": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_09"
+    },
+    "DYN_EGY2_005": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_09"
+    },
+    "PER_EGY2_011": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_09"
+    },
+    "PER_EGY2_012": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_09"
+    },
+    "PER_EGY2_013": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_09"
+    },
+    "PER_EGY2_014": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_09"
+    },
+    "PER_EGY2_015": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_09"
+    },
+    "EVENT_EGY2_001": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_10"
+    },
+    "PERIOD_EGY2_003": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_10"
+    },
+    "STATE_EGY2_001": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_10"
+    },
+    "STATE_EGY2_002": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_10"
+    },
+    "PER_EGY2_016": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_10"
+    },
+    "PER_EGY2_017": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_10"
+    },
+    "TERM_EGY2_003": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_10"
+    },
+    "SYS_EGY2_008": {
+      "type": "CAMPAIGN",
+      "campaign": "EGYPT",
+      "chapter": "EGY_CHAPTER_10"
     }
   }
 }

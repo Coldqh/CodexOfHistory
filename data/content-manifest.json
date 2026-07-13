@@ -1,5 +1,5 @@
 {
-  "version": "2.4.0",
+  "version": "2.5.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -24,7 +24,8 @@
       "data/quizzes/rome/chapter_03.json",
       "data/quizzes/mesopotamia/chapter_01_05.json",
       "data/quizzes/mesopotamia/chapter_06_10.json",
-      "data/quizzes/egypt/chapter_01_05.json"
+      "data/quizzes/egypt/chapter_01_05.json",
+      "data/quizzes/egypt/chapter_06_10.json"
     ],
     "stories": [
       "data/stories/rome/personal.json",
@@ -46,7 +47,8 @@
       "data/lessons/rome/chapter_03.json",
       "data/lessons/mesopotamia/chapter_01_05.json",
       "data/lessons/mesopotamia/chapter_06_10.json",
-      "data/lessons/egypt/chapter_01_05.json"
+      "data/lessons/egypt/chapter_01_05.json",
+      "data/lessons/egypt/chapter_06_10.json"
     ],
     "eras": "data/world/eras.json",
     "campaignCatalog": "data/world/campaigns.json",
@@ -80,6 +82,7 @@
     "js/features/v2-2-mesopotamia.js",
     "js/features/v2-2-1-navigation-cleanup.js",
     "js/features/v2-4-egypt.js",
+    "js/features/v2-5-egypt-learning.js",
     "js/core/start.js"
   ],
   "vendors": {

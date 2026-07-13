@@ -3427,5 +3427,645 @@
     "type": "СИМВОЛ",
     "description": "Тематическая связь раннего Египта.",
     "strength": 8
+  },
+  {
+    "id": "REL_0448",
+    "source": "PERIOD_EGY2_001",
+    "target": "DYN_EGY2_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Ранние династии».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0449",
+    "source": "DYN_EGY2_001",
+    "target": "DYN_EGY2_002",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Ранние династии».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0450",
+    "source": "DYN_EGY2_002",
+    "target": "PER_EGY2_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Ранние династии».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0451",
+    "source": "PER_EGY2_001",
+    "target": "PER_EGY2_002",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Ранние династии».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0452",
+    "source": "PER_EGY2_002",
+    "target": "PER_EGY2_003",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Ранние династии».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0453",
+    "source": "PER_EGY2_003",
+    "target": "PER_EGY2_004",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Ранние династии».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0454",
+    "source": "PER_EGY2_004",
+    "target": "PER_EGY2_005",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Ранние династии».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0455",
+    "source": "PER_EGY2_005",
+    "target": "SITE_EGYA2_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Ранние династии».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0456",
+    "source": "SITE_EGYA2_001",
+    "target": "BUILD_EGYA2_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Ранние династии».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0457",
+    "source": "BUILD_EGYA2_001",
+    "target": "ART_EGYA2_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Ранние династии».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0458",
+    "source": "ART_EGYA2_001",
+    "target": "ART_EGYA2_002",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Ранние династии».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0459",
+    "source": "ART_EGYA2_002",
+    "target": "SYS_EGYA2_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Ранние династии».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0460",
+    "source": "SYS_EGYA2_001",
+    "target": "BUILD_EGYA2_002",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Ранние династии».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0461",
+    "source": "BUILD_EGYA2_002",
+    "target": "TERM_EGYA2_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Ранние династии».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0462",
+    "source": "TERM_EGYA2_001",
+    "target": "SYS_EGYA2_002",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Ранние династии».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0463",
+    "source": "PER_EGY2_006",
+    "target": "PER_EGY2_007",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Джосер и ступенчатая пирамида».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0464",
+    "source": "PER_EGY2_007",
+    "target": "DYN_EGY2_003",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Джосер и ступенчатая пирамида».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0465",
+    "source": "DYN_EGY2_003",
+    "target": "BUILD_EGY2_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Джосер и ступенчатая пирамида».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0466",
+    "source": "BUILD_EGY2_001",
+    "target": "SITE_EGY2_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Джосер и ступенчатая пирамида».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0467",
+    "source": "SITE_EGY2_001",
+    "target": "SYS_EGY2_003",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Джосер и ступенчатая пирамида».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0468",
+    "source": "SYS_EGY2_003",
+    "target": "SITE_EGY2_002",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Джосер и ступенчатая пирамида».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0469",
+    "source": "SITE_EGY2_002",
+    "target": "TERM_EGY2_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Джосер и ступенчатая пирамида».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0470",
+    "source": "TERM_EGY2_001",
+    "target": "BUILD_EGYA2_003",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Джосер и ступенчатая пирамида».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0471",
+    "source": "BUILD_EGYA2_003",
+    "target": "BUILD_EGYA2_004",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Джосер и ступенчатая пирамида».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0472",
+    "source": "BUILD_EGYA2_004",
+    "target": "BUILD_EGYA2_005",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Джосер и ступенчатая пирамида».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0473",
+    "source": "BUILD_EGYA2_005",
+    "target": "ART_EGYA2_003",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Джосер и ступенчатая пирамида».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0474",
+    "source": "ART_EGYA2_003",
+    "target": "BUILD_EGYA2_006",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Джосер и ступенчатая пирамида».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0475",
+    "source": "BUILD_EGYA2_006",
+    "target": "BUILD_EGYA2_007",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Джосер и ступенчатая пирамида».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0476",
+    "source": "BUILD_EGYA2_007",
+    "target": "SITE_EGYA2_003",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Джосер и ступенчатая пирамида».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0477",
+    "source": "SITE_EGYA2_003",
+    "target": "BUILD_EGYA2_008",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Джосер и ступенчатая пирамида».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0478",
+    "source": "PER_EGY2_008",
+    "target": "BUILD_EGY2_002",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Великие пирамиды».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0479",
+    "source": "BUILD_EGY2_002",
+    "target": "BUILD_EGY2_003",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Великие пирамиды».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0480",
+    "source": "BUILD_EGY2_003",
+    "target": "BUILD_EGY2_004",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Великие пирамиды».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0481",
+    "source": "BUILD_EGY2_004",
+    "target": "PER_EGY2_009",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Великие пирамиды».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0482",
+    "source": "PER_EGY2_009",
+    "target": "BUILD_EGY2_005",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Великие пирамиды».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0483",
+    "source": "BUILD_EGY2_005",
+    "target": "PER_EGY2_010",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Великие пирамиды».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0484",
+    "source": "PER_EGY2_010",
+    "target": "ART_EGY2_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Великие пирамиды».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0485",
+    "source": "ART_EGY2_001",
+    "target": "PER_EGYA2_006",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Великие пирамиды».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0486",
+    "source": "PER_EGYA2_006",
+    "target": "SITE_EGYA2_004",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Великие пирамиды».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0487",
+    "source": "SITE_EGYA2_004",
+    "target": "SITE_EGYA2_005",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Великие пирамиды».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0488",
+    "source": "SITE_EGYA2_005",
+    "target": "ART_EGYA2_004",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Великие пирамиды».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0489",
+    "source": "ART_EGYA2_004",
+    "target": "TERM_EGYA2_002",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Великие пирамиды».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0490",
+    "source": "TERM_EGYA2_002",
+    "target": "BUILD_EGYA2_009",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Великие пирамиды».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0491",
+    "source": "BUILD_EGYA2_009",
+    "target": "BUILD_EGYA2_010",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Великие пирамиды».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0492",
+    "source": "BUILD_EGYA2_010",
+    "target": "SYS_EGYA2_004",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Великие пирамиды».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0493",
+    "source": "PERIOD_EGY2_002",
+    "target": "DYN_EGY2_004",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Государство Древнего царства».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0494",
+    "source": "DYN_EGY2_004",
+    "target": "DYN_EGY2_005",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Государство Древнего царства».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0495",
+    "source": "DYN_EGY2_005",
+    "target": "PER_EGY2_011",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Государство Древнего царства».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0496",
+    "source": "PER_EGY2_011",
+    "target": "PER_EGY2_012",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Государство Древнего царства».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0497",
+    "source": "PER_EGY2_012",
+    "target": "PER_EGY2_013",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Государство Древнего царства».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0498",
+    "source": "PER_EGY2_013",
+    "target": "PER_EGY2_014",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Государство Древнего царства».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0499",
+    "source": "PER_EGY2_014",
+    "target": "PER_EGY2_015",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Государство Древнего царства».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0500",
+    "source": "PER_EGY2_015",
+    "target": "OFF_EGYA2_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Государство Древнего царства».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0501",
+    "source": "OFF_EGYA2_001",
+    "target": "OFF_EGYA2_002",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Государство Древнего царства».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0502",
+    "source": "OFF_EGYA2_002",
+    "target": "TEXT_EGYA2_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Государство Древнего царства».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0503",
+    "source": "TEXT_EGYA2_001",
+    "target": "SYS_EGYA2_005",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Государство Древнего царства».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0504",
+    "source": "SYS_EGYA2_005",
+    "target": "SYS_EGYA2_006",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Государство Древнего царства».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0505",
+    "source": "SYS_EGYA2_006",
+    "target": "REL_EGYA2_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Государство Древнего царства».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0506",
+    "source": "REL_EGYA2_001",
+    "target": "SYS_EGYA2_007",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Государство Древнего царства».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0507",
+    "source": "SYS_EGYA2_007",
+    "target": "TEXT_EGYA2_002",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Государство Древнего царства».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0508",
+    "source": "EVENT_EGY2_001",
+    "target": "PERIOD_EGY2_003",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Первый переходный период».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0509",
+    "source": "PERIOD_EGY2_003",
+    "target": "STATE_EGY2_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Первый переходный период».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0510",
+    "source": "STATE_EGY2_001",
+    "target": "STATE_EGY2_002",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Первый переходный период».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0511",
+    "source": "STATE_EGY2_002",
+    "target": "PER_EGY2_016",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Первый переходный период».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0512",
+    "source": "PER_EGY2_016",
+    "target": "PER_EGY2_017",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Первый переходный период».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0513",
+    "source": "PER_EGY2_017",
+    "target": "TERM_EGY2_003",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Первый переходный период».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0514",
+    "source": "TERM_EGY2_003",
+    "target": "SYS_EGY2_008",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Первый переходный период».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0515",
+    "source": "SYS_EGY2_008",
+    "target": "PER_EGYA2_007",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Первый переходный период».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0516",
+    "source": "PER_EGYA2_007",
+    "target": "TEXT_EGYA2_003",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Первый переходный период».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0517",
+    "source": "TEXT_EGYA2_003",
+    "target": "TEXT_EGYA2_004",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Первый переходный период».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0518",
+    "source": "TEXT_EGYA2_004",
+    "target": "CULT_EGYA2_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Первый переходный период».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0519",
+    "source": "CULT_EGYA2_001",
+    "target": "SITE_EGYA2_006",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Первый переходный период».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0520",
+    "source": "SITE_EGYA2_006",
+    "target": "TERM_EGYA2_004",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Первый переходный период».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0521",
+    "source": "TERM_EGYA2_004",
+    "target": "CITY_EGYA2_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Первый переходный период».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0522",
+    "source": "CITY_EGYA2_001",
+    "target": "SITE_EGYA2_007",
+    "type": "СВЯЗАНО_С",
+    "description": "Тематическая связь главы «Первый переходный период».",
+    "strength": 7
+  },
+  {
+    "id": "REL_0523",
+    "source": "PER_EGY2_005",
+    "target": "PER_EGY2_006",
+    "type": "ПРЕДШЕСТВУЕТ",
+    "description": "Связь внутри египетской кампании.",
+    "strength": 9
+  },
+  {
+    "id": "REL_0524",
+    "source": "BUILD_EGY2_001",
+    "target": "BUILD_EGY2_005",
+    "type": "РАЗВИВАЕТСЯ_В",
+    "description": "Связь внутри египетской кампании.",
+    "strength": 9
+  },
+  {
+    "id": "REL_0525",
+    "source": "PER_EGY2_008",
+    "target": "PER_EGY2_009",
+    "type": "ДИНАСТИЧЕСКАЯ_СВЯЗЬ",
+    "description": "Связь внутри египетской кампании.",
+    "strength": 9
+  },
+  {
+    "id": "REL_0526",
+    "source": "TEXT_EGYA2_002",
+    "target": "TEXT_EGYA2_004",
+    "type": "ВЛИЯЕТ",
+    "description": "Связь внутри египетской кампании.",
+    "strength": 9
+  },
+  {
+    "id": "REL_0527",
+    "source": "PER_EGY2_017",
+    "target": "PERIOD_EGY2_003",
+    "type": "ЗАВЕРШАЕТ",
+    "description": "Связь внутри египетской кампании.",
+    "strength": 9
   }
 ]

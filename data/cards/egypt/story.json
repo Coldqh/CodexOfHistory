@@ -2085,5 +2085,2056 @@
     "acquisition": "CAMPAIGN",
     "campaign": "EGYPT",
     "chapter": "EGY_CHAPTER_05"
+  },
+  {
+    "id": "PERIOD_EGY2_001",
+    "type": "PERIOD",
+    "title": "Раннединастический период",
+    "original": "Раннединастический период",
+    "subtitle": "I–II династии Египта",
+    "era": "EGY_CHAPTER_06",
+    "region": "Древний Египет",
+    "date": "ок. 3100–2686 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 4,
+    "summary": "Период после политического объединения, когда царский двор закреплял административные, ритуальные и погребальные формы государства.",
+    "importance": "Связывает символическое объединение Нармера с устойчивой династической системой.",
+    "facts": [
+      "Период после политического объединения, когда царский двор закреплял административные, ритуальные и погребальные формы государства.",
+      "Связывает символическое объединение Нармера с устойчивой династической системой.",
+      "Карточка относится к теме «I–II династии Египта» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "династия",
+      "государство"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/period_egy2_001.svg",
+      "caption": "Учебная обложка: Раннединастический период",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "period_egy2_001.svg"
+    },
+    "source": {
+      "title": "Раннединастический период — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BD%D0%BD%D0%B5%D0%B5_%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_(%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B8%D0%B9_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82)",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_06"
+  },
+  {
+    "id": "DYN_EGY2_001",
+    "type": "DYNASTY",
+    "title": "I династия",
+    "original": "I династия",
+    "subtitle": "первые цари объединённого Египта",
+    "era": "EGY_CHAPTER_06",
+    "region": "Древний Египет",
+    "date": "ок. 3100–2890 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Династия, чьи правители известны по царским именам, печатям, меткам и погребальным комплексам Абидоса и Саккары.",
+    "importance": "Показывает, как раннее государство соединяло двор, провинции и ритуал.",
+    "facts": [
+      "Династия, чьи правители известны по царским именам, печатям, меткам и погребальным комплексам Абидоса и Саккары.",
+      "Показывает, как раннее государство соединяло двор, провинции и ритуал.",
+      "Карточка относится к теме «первые цари объединённого Египта» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "династия",
+      "власть"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/dyn_egy2_001.svg",
+      "caption": "Учебная обложка: I династия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "dyn_egy2_001.svg"
+    },
+    "source": {
+      "title": "I династия — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/I_%D0%B4%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%8F_(%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B8%D0%B9_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82)",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_06"
+  },
+  {
+    "id": "DYN_EGY2_002",
+    "type": "DYNASTY",
+    "title": "II династия",
+    "original": "II династия",
+    "subtitle": "царская власть перед Древним царством",
+    "era": "EGY_CHAPTER_06",
+    "region": "Древний Египет",
+    "date": "ок. 2890–2686 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Династия, внутри которой заметны изменения царских имён, политические напряжения и последующее восстановление единства.",
+    "importance": "Объясняет, почему ранняя монархия не была полностью стабильной.",
+    "facts": [
+      "Династия, внутри которой заметны изменения царских имён, политические напряжения и последующее восстановление единства.",
+      "Объясняет, почему ранняя монархия не была полностью стабильной.",
+      "Карточка относится к теме «царская власть перед Древним царством» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "династия",
+      "кризис"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/dyn_egy2_002.svg",
+      "caption": "Учебная обложка: II династия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "dyn_egy2_002.svg"
+    },
+    "source": {
+      "title": "II династия — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/II_%D0%B4%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%8F_(%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B8%D0%B9_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82)",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_06"
+  },
+  {
+    "id": "PER_EGY2_001",
+    "type": "PERSON",
+    "title": "Хор-Аха",
+    "original": "Хор-Аха",
+    "subtitle": "ранний царь I династии",
+    "era": "EGY_CHAPTER_06",
+    "region": "Древний Египет",
+    "date": "ок. XXXI век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Правитель начала I династии, известный по серехам, меткам и погребальному комплексу в Абидосе.",
+    "importance": "Даёт пример того, как биография раннего царя реконструируется по коротким надписям и археологии.",
+    "facts": [
+      "Правитель начала I династии, известный по серехам, меткам и погребальному комплексу в Абидосе.",
+      "Даёт пример того, как биография раннего царя реконструируется по коротким надписям и археологии.",
+      "Карточка относится к теме «ранний царь I династии» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "царь",
+      "Абидос"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy2_001.svg",
+      "caption": "Учебная обложка: Хор-Аха",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy2_001.svg"
+    },
+    "source": {
+      "title": "Хор-Аха — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%80-%D0%90%D1%85%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_06"
+  },
+  {
+    "id": "PER_EGY2_002",
+    "type": "PERSON",
+    "title": "Джер",
+    "original": "Джер",
+    "subtitle": "царь I династии",
+    "era": "EGY_CHAPTER_06",
+    "region": "Древний Египет",
+    "date": "ок. XXXI–XXX век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Правитель I династии, чья крупная гробница в Абидосе позднее была включена в религиозную память об Осирисе.",
+    "importance": "Показывает долговременную переработку ранних царских памятников.",
+    "facts": [
+      "Правитель I династии, чья крупная гробница в Абидосе позднее была включена в религиозную память об Осирисе.",
+      "Показывает долговременную переработку ранних царских памятников.",
+      "Карточка относится к теме «царь I династии» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "царь",
+      "гробница"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy2_002.svg",
+      "caption": "Учебная обложка: Джер",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy2_002.svg"
+    },
+    "source": {
+      "title": "Джер — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D1%80",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_06"
+  },
+  {
+    "id": "PER_EGY2_003",
+    "type": "PERSON",
+    "title": "Ден",
+    "original": "Ден",
+    "subtitle": "царь I династии",
+    "era": "EGY_CHAPTER_06",
+    "region": "Древний Египет",
+    "date": "ок. XXX век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 4,
+    "summary": "Правитель, при котором источники фиксируют развитую царскую титулатуру, административные метки и образы победы.",
+    "importance": "Показывает усложнение идеологии и управления ранней монархии.",
+    "facts": [
+      "Правитель, при котором источники фиксируют развитую царскую титулатуру, административные метки и образы победы.",
+      "Показывает усложнение идеологии и управления ранней монархии.",
+      "Карточка относится к теме «царь I династии» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "царь",
+      "администрация"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy2_003.svg",
+      "caption": "Учебная обложка: Ден",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy2_003.svg"
+    },
+    "source": {
+      "title": "Ден — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD_(%D1%84%D0%B0%D1%80%D0%B0%D0%BE%D0%BD)",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_06"
+  },
+  {
+    "id": "PER_EGY2_004",
+    "type": "PERSON",
+    "title": "Мернейт",
+    "original": "Мернейт",
+    "subtitle": "высокостатусная женщина I династии",
+    "era": "EGY_CHAPTER_06",
+    "region": "Древний Египет",
+    "date": "ок. XXX век до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 4,
+    "summary": "Фигура ранней династии с монументальным погребением и собственными царскими атрибутами, чья точная роль остаётся предметом обсуждения.",
+    "importance": "Позволяет изучать власть женщин без упрощённого объявления её бесспорным фараоном.",
+    "facts": [
+      "Фигура ранней династии с монументальным погребением и собственными царскими атрибутами, чья точная роль остаётся предметом обсуждения.",
+      "Позволяет изучать власть женщин без упрощённого объявления её бесспорным фараоном.",
+      "Карточка относится к теме «высокостатусная женщина I династии» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "царь",
+      "женщины",
+      "гробница"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy2_004.svg",
+      "caption": "Учебная обложка: Мернейт",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy2_004.svg"
+    },
+    "source": {
+      "title": "Мернейт — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D0%BD%D0%B5%D0%B9%D1%82",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_06"
+  },
+  {
+    "id": "PER_EGY2_005",
+    "type": "PERSON",
+    "title": "Хасехемуи",
+    "original": "Хасехемуи",
+    "subtitle": "последний царь II династии",
+    "era": "EGY_CHAPTER_06",
+    "region": "Древний Египет",
+    "date": "ок. XXVII век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Правитель, чьи памятники связывают с восстановлением единства после внутренних конфликтов и переходом к III династии.",
+    "importance": "Закрывает раннединастический цикл и подготавливает эпоху Джосера.",
+    "facts": [
+      "Правитель, чьи памятники связывают с восстановлением единства после внутренних конфликтов и переходом к III династии.",
+      "Закрывает раннединастический цикл и подготавливает эпоху Джосера.",
+      "Карточка относится к теме «последний царь II династии» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "царь",
+      "объединение"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy2_005.svg",
+      "caption": "Учебная обложка: Хасехемуи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy2_005.svg"
+    },
+    "source": {
+      "title": "Хасехемуи — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%81%D0%B5%D1%85%D0%B5%D0%BC%D1%83%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_06"
+  },
+  {
+    "id": "PER_EGY2_006",
+    "type": "PERSON",
+    "title": "Джосер",
+    "original": "Джосер",
+    "subtitle": "царь III династии",
+    "era": "EGY_CHAPTER_07",
+    "region": "Древний Египет",
+    "date": "ок. XXVII век до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 4,
+    "summary": "Правитель, связанный со ступенчатой пирамидой и первым сохранившимся масштабным ансамблем каменной архитектуры Египта.",
+    "importance": "Его комплекс показывает новый масштаб царского погребального проекта.",
+    "facts": [
+      "Правитель, связанный со ступенчатой пирамидой и первым сохранившимся масштабным ансамблем каменной архитектуры Египта.",
+      "Его комплекс показывает новый масштаб царского погребального проекта.",
+      "Карточка относится к теме «царь III династии» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "царь",
+      "пирамида"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 6,
+      "religion": 5,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy2_006.svg",
+      "caption": "Учебная обложка: Джосер",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy2_006.svg"
+    },
+    "source": {
+      "title": "Джосер — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D1%81%D0%B5%D1%80",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_07",
+    "loc": {
+      "label": "Джосер",
+      "lat": 29.87,
+      "lng": 31.22
+    }
+  },
+  {
+    "id": "PER_EGY2_007",
+    "type": "PERSON",
+    "title": "Имхотеп",
+    "original": "Имхотеп",
+    "subtitle": "сановник и архитектор Джосера",
+    "era": "EGY_CHAPTER_07",
+    "region": "Древний Египет",
+    "date": "XXVII век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 4,
+    "summary": "Высокопоставленный чиновник, поздняя традиция которого связывает с проектированием ступенчатой пирамиды; спустя века он был обожествлён.",
+    "importance": "Показывает превращение исторического сановника в культурного героя.",
+    "facts": [
+      "Высокопоставленный чиновник, поздняя традиция которого связывает с проектированием ступенчатой пирамиды; спустя века он был обожествлён.",
+      "Показывает превращение исторического сановника в культурного героя.",
+      "Карточка относится к теме «сановник и архитектор Джосера» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "архитектор",
+      "сановник"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy2_007.svg",
+      "caption": "Учебная обложка: Имхотеп",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy2_007.svg"
+    },
+    "source": {
+      "title": "Имхотеп — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%98%D0%BC%D1%85%D0%BE%D1%82%D0%B5%D0%BF",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_07"
+  },
+  {
+    "id": "DYN_EGY2_003",
+    "type": "DYNASTY",
+    "title": "III династия",
+    "original": "III династия",
+    "subtitle": "начало Древнего царства",
+    "era": "EGY_CHAPTER_07",
+    "region": "Древний Египет",
+    "date": "ок. 2686–2613 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Период перехода к крупным каменным царским комплексам и новым формам монументального представления власти.",
+    "importance": "Связывает ранние династии с эпохой пирамид.",
+    "facts": [
+      "Период перехода к крупным каменным царским комплексам и новым формам монументального представления власти.",
+      "Связывает ранние династии с эпохой пирамид.",
+      "Карточка относится к теме «начало Древнего царства» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "династия",
+      "Древнее царство"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/dyn_egy2_003.svg",
+      "caption": "Учебная обложка: III династия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "dyn_egy2_003.svg"
+    },
+    "source": {
+      "title": "III династия — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/III_%D0%B4%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%8F_(%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B8%D0%B9_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82)",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_07"
+  },
+  {
+    "id": "BUILD_EGY2_001",
+    "type": "BUILDING",
+    "title": "Ступенчатая пирамида",
+    "original": "Ступенчатая пирамида",
+    "subtitle": "пирамида Джосера в Саккаре",
+    "era": "EGY_CHAPTER_07",
+    "region": "Древний Египет",
+    "date": "ок. 2650 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 4,
+    "summary": "Шестиступенчатое сооружение, возникшее через последовательное расширение и наращивание первоначальной мастабы.",
+    "importance": "Это первый сохранившийся египетский пирамидальный комплекс и рубеж в каменном строительстве.",
+    "facts": [
+      "Шестиступенчатое сооружение, возникшее через последовательное расширение и наращивание первоначальной мастабы.",
+      "Это первый сохранившийся египетский пирамидальный комплекс и рубеж в каменном строительстве.",
+      "Карточка относится к теме «пирамида Джосера в Саккаре» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "пирамида",
+      "архитектура"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 5,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/build_egy2_001.svg",
+      "caption": "Учебная обложка: Ступенчатая пирамида",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "build_egy2_001.svg"
+    },
+    "source": {
+      "title": "Ступенчатая пирамида — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0_%D0%94%D0%B6%D0%BE%D1%81%D0%B5%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_07",
+    "loc": {
+      "label": "Ступенчатая пирамида",
+      "lat": 29.871,
+      "lng": 31.216
+    }
+  },
+  {
+    "id": "SITE_EGY2_001",
+    "type": "SITE",
+    "title": "Комплекс Джосера",
+    "original": "Комплекс Джосера",
+    "subtitle": "погребальный ансамбль Саккары",
+    "era": "EGY_CHAPTER_07",
+    "region": "Древний Египет",
+    "date": "III династия",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Ограждённый ансамбль с пирамидой, дворами, храмами, галереями и символическими зданиями.",
+    "importance": "Показывает, что пирамида была частью ритуальной системы, а не отдельной гробницей.",
+    "facts": [
+      "Ограждённый ансамбль с пирамидой, дворами, храмами, галереями и символическими зданиями.",
+      "Показывает, что пирамида была частью ритуальной системы, а не отдельной гробницей.",
+      "Карточка относится к теме «погребальный ансамбль Саккары» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "Саккара",
+      "ритуал"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/site_egy2_001.svg",
+      "caption": "Учебная обложка: Комплекс Джосера",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "site_egy2_001.svg"
+    },
+    "source": {
+      "title": "Комплекс Джосера — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0_%D0%94%D0%B6%D0%BE%D1%81%D0%B5%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_07",
+    "loc": {
+      "label": "Комплекс Джосера",
+      "lat": 29.871,
+      "lng": 31.216
+    }
+  },
+  {
+    "id": "SYS_EGY2_003",
+    "type": "SYSTEM",
+    "title": "Монументальное каменное строительство",
+    "original": "Монументальное каменное строительство",
+    "subtitle": "организация труда и ресурсов",
+    "era": "EGY_CHAPTER_07",
+    "region": "Древний Египет",
+    "date": "III династия",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Переход к массовому использованию обработанного известняка в царских проектах требовал специалистов, снабжения и управления.",
+    "importance": "Связывает архитектурную инновацию с возможностями государства.",
+    "facts": [
+      "Переход к массовому использованию обработанного известняка в царских проектах требовал специалистов, снабжения и управления.",
+      "Связывает архитектурную инновацию с возможностями государства.",
+      "Карточка относится к теме «организация труда и ресурсов» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "архитектура",
+      "труд"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 5,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egy2_003.svg",
+      "caption": "Учебная обложка: Монументальное каменное строительство",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egy2_003.svg"
+    },
+    "source": {
+      "title": "Монументальное каменное строительство — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D0%BE_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_07"
+  },
+  {
+    "id": "SITE_EGY2_002",
+    "type": "SITE",
+    "title": "Двор праздника хеб-сед",
+    "original": "Двор праздника хеб-сед",
+    "subtitle": "ритуальное пространство комплекса",
+    "era": "EGY_CHAPTER_07",
+    "region": "Древний Египет",
+    "date": "III династия",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Двор с символическими часовнями, предназначенный для воспроизведения царского юбилейного ритуала.",
+    "importance": "Показывает идею вечного обновления царской силы в погребальном комплексе.",
+    "facts": [
+      "Двор с символическими часовнями, предназначенный для воспроизведения царского юбилейного ритуала.",
+      "Показывает идею вечного обновления царской силы в погребальном комплексе.",
+      "Карточка относится к теме «ритуальное пространство комплекса» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "ритуал",
+      "царь"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/site_egy2_002.svg",
+      "caption": "Учебная обложка: Двор праздника хеб-сед",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "site_egy2_002.svg"
+    },
+    "source": {
+      "title": "Двор праздника хеб-сед — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%B1-%D1%81%D0%B5%D0%B4",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_07"
+  },
+  {
+    "id": "TERM_EGY2_001",
+    "type": "TERM",
+    "title": "Эволюция пирамиды",
+    "original": "Эволюция пирамиды",
+    "subtitle": "от мастабы к ступеням",
+    "era": "EGY_CHAPTER_07",
+    "region": "Древний Египет",
+    "date": "III династия",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Последовательное изменение проекта Джосера от прямоугольной мастабы к многоступенчатой пирамиде.",
+    "importance": "Показывает экспериментальный характер ранней монументальной архитектуры.",
+    "facts": [
+      "Последовательное изменение проекта Джосера от прямоугольной мастабы к многоступенчатой пирамиде.",
+      "Показывает экспериментальный характер ранней монументальной архитектуры.",
+      "Карточка относится к теме «от мастабы к ступеням» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "архитектура",
+      "пирамида"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 5,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/term_egy2_001.svg",
+      "caption": "Учебная обложка: Эволюция пирамиды",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_egy2_001.svg"
+    },
+    "source": {
+      "title": "Эволюция пирамиды — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0_%D0%94%D0%B6%D0%BE%D1%81%D0%B5%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_07"
+  },
+  {
+    "id": "PER_EGY2_008",
+    "type": "PERSON",
+    "title": "Снофру",
+    "original": "Снофру",
+    "subtitle": "основатель IV династии",
+    "era": "EGY_CHAPTER_08",
+    "region": "Древний Египет",
+    "date": "ок. 2613–2589 до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 4,
+    "summary": "Царь, при котором были построены несколько крупных пирамид и отработан переход к правильной геометрической форме.",
+    "importance": "Его проекты показывают длительные инженерные эксперименты перед Гизой.",
+    "facts": [
+      "Царь, при котором были построены несколько крупных пирамид и отработан переход к правильной геометрической форме.",
+      "Его проекты показывают длительные инженерные эксперименты перед Гизой.",
+      "Карточка относится к теме «основатель IV династии» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "царь",
+      "пирамида"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 6,
+      "religion": 5,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy2_008.svg",
+      "caption": "Учебная обложка: Снофру",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy2_008.svg"
+    },
+    "source": {
+      "title": "Снофру — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BD%D0%BE%D1%84%D1%80%D1%83",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_08"
+  },
+  {
+    "id": "BUILD_EGY2_002",
+    "type": "BUILDING",
+    "title": "Пирамида в Мейдуме",
+    "original": "Пирамида в Мейдуме",
+    "subtitle": "ранний проект правильной пирамиды",
+    "era": "EGY_CHAPTER_08",
+    "region": "Древний Египет",
+    "date": "конец III — начало IV династии",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Сооружение, начатое как ступенчатая пирамида и позднее преобразованное внешней облицовкой.",
+    "importance": "Показывает риски изменения проекта и сложную историю строительства.",
+    "facts": [
+      "Сооружение, начатое как ступенчатая пирамида и позднее преобразованное внешней облицовкой.",
+      "Показывает риски изменения проекта и сложную историю строительства.",
+      "Карточка относится к теме «ранний проект правильной пирамиды» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "пирамида",
+      "эксперимент"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 5,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/build_egy2_002.svg",
+      "caption": "Учебная обложка: Пирамида в Мейдуме",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "build_egy2_002.svg"
+    },
+    "source": {
+      "title": "Пирамида в Мейдуме — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0_%D0%B2_%D0%9C%D0%B5%D0%B9%D0%B4%D1%83%D0%BC%D0%B5",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_08",
+    "loc": {
+      "label": "Пирамида в Мейдуме",
+      "lat": 29.388,
+      "lng": 31.157
+    }
+  },
+  {
+    "id": "BUILD_EGY2_003",
+    "type": "BUILDING",
+    "title": "Ломаная пирамида",
+    "original": "Ломаная пирамида",
+    "subtitle": "пирамида с изменённым углом",
+    "era": "EGY_CHAPTER_08",
+    "region": "Древний Египет",
+    "date": "IV династия",
+    "rarity": "EPIC",
+    "difficulty": 4,
+    "summary": "Пирамида Снофру в Дахшуре, у которой угол наклона был уменьшен во время строительства.",
+    "importance": "Это прямое свидетельство инженерной адаптации в ходе проекта.",
+    "facts": [
+      "Пирамида Снофру в Дахшуре, у которой угол наклона был уменьшен во время строительства.",
+      "Это прямое свидетельство инженерной адаптации в ходе проекта.",
+      "Карточка относится к теме «пирамида с изменённым углом» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "пирамида",
+      "инженерия"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 5,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/build_egy2_003.svg",
+      "caption": "Учебная обложка: Ломаная пирамида",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "build_egy2_003.svg"
+    },
+    "source": {
+      "title": "Ломаная пирамида — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BC%D0%B0%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_08",
+    "loc": {
+      "label": "Ломаная пирамида",
+      "lat": 29.79,
+      "lng": 31.209
+    }
+  },
+  {
+    "id": "BUILD_EGY2_004",
+    "type": "BUILDING",
+    "title": "Красная пирамида",
+    "original": "Красная пирамида",
+    "subtitle": "ранняя успешная правильная пирамида",
+    "era": "EGY_CHAPTER_08",
+    "region": "Древний Египет",
+    "date": "IV династия",
+    "rarity": "EPIC",
+    "difficulty": 4,
+    "summary": "Пирамида Снофру в Дахшуре с единым пологим углом и полноценной геометрической формой.",
+    "importance": "Стала непосредственным архитектурным предшественником комплекса Хуфу.",
+    "facts": [
+      "Пирамида Снофру в Дахшуре с единым пологим углом и полноценной геометрической формой.",
+      "Стала непосредственным архитектурным предшественником комплекса Хуфу.",
+      "Карточка относится к теме «ранняя успешная правильная пирамида» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "пирамида",
+      "архитектура"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 5,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/build_egy2_004.svg",
+      "caption": "Учебная обложка: Красная пирамида",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "build_egy2_004.svg"
+    },
+    "source": {
+      "title": "Красная пирамида — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_08",
+    "loc": {
+      "label": "Красная пирамида",
+      "lat": 29.808,
+      "lng": 31.206
+    }
+  },
+  {
+    "id": "PER_EGY2_009",
+    "type": "PERSON",
+    "title": "Хуфу",
+    "original": "Хуфу",
+    "subtitle": "строитель Великой пирамиды",
+    "era": "EGY_CHAPTER_08",
+    "region": "Древний Египет",
+    "date": "ок. 2589–2566 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Царь IV династии, известный прежде всего через крупнейший пирамидальный комплекс Гизы и ограниченное число других изображений.",
+    "importance": "Показывает разрыв между масштабом монумента и бедностью биографических сведений.",
+    "facts": [
+      "Царь IV династии, известный прежде всего через крупнейший пирамидальный комплекс Гизы и ограниченное число других изображений.",
+      "Показывает разрыв между масштабом монумента и бедностью биографических сведений.",
+      "Карточка относится к теме «строитель Великой пирамиды» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "царь",
+      "Гиза"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy2_009.svg",
+      "caption": "Учебная обложка: Хуфу",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy2_009.svg"
+    },
+    "source": {
+      "title": "Хуфу — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%BE%D0%BF%D1%81",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_08"
+  },
+  {
+    "id": "BUILD_EGY2_005",
+    "type": "BUILDING",
+    "title": "Великая пирамида",
+    "original": "Великая пирамида",
+    "subtitle": "пирамида Хуфу в Гизе",
+    "era": "EGY_CHAPTER_08",
+    "region": "Древний Египет",
+    "date": "XXVI век до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 4,
+    "summary": "Крупнейшая египетская пирамида, построенная из миллионов каменных блоков в составе царского погребального комплекса.",
+    "importance": "Стала одним из самых узнаваемых памятников древнего мира и вершиной IV династии.",
+    "facts": [
+      "Крупнейшая египетская пирамида, построенная из миллионов каменных блоков в составе царского погребального комплекса.",
+      "Стала одним из самых узнаваемых памятников древнего мира и вершиной IV династии.",
+      "Карточка относится к теме «пирамида Хуфу в Гизе» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "пирамида",
+      "Гиза"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 5,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/build_egy2_005.svg",
+      "caption": "Учебная обложка: Великая пирамида",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "build_egy2_005.svg"
+    },
+    "source": {
+      "title": "Великая пирамида — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0_%D0%A5%D0%B5%D0%BE%D0%BF%D1%81%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_08",
+    "loc": {
+      "label": "Великая пирамида",
+      "lat": 29.9792,
+      "lng": 31.1342
+    }
+  },
+  {
+    "id": "PER_EGY2_010",
+    "type": "PERSON",
+    "title": "Хафра",
+    "original": "Хафра",
+    "subtitle": "царь IV династии",
+    "era": "EGY_CHAPTER_08",
+    "region": "Древний Египет",
+    "date": "ок. 2558–2532 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Правитель, чей комплекс включает вторую крупную пирамиду Гизы, долинный храм и традиционно связываемый с ним Большой сфинкс.",
+    "importance": "Показывает развитие целостного царского ландшафта Гизы.",
+    "facts": [
+      "Правитель, чей комплекс включает вторую крупную пирамиду Гизы, долинный храм и традиционно связываемый с ним Большой сфинкс.",
+      "Показывает развитие целостного царского ландшафта Гизы.",
+      "Карточка относится к теме «царь IV династии» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "царь",
+      "Гиза"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy2_010.svg",
+      "caption": "Учебная обложка: Хафра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy2_010.svg"
+    },
+    "source": {
+      "title": "Хафра — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D1%84%D1%80%D0%B5%D0%BD",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_08"
+  },
+  {
+    "id": "ART_EGY2_001",
+    "type": "ARTIFACT",
+    "title": "Большой сфинкс",
+    "original": "Большой сфинкс",
+    "subtitle": "монументальный лев с человеческой головой",
+    "era": "EGY_CHAPTER_08",
+    "region": "Древний Египет",
+    "date": "IV династия",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Высеченный из скалы монумент у комплекса Хафры, интерпретируемый как образ царской силы и охраны священного пространства.",
+    "importance": "Соединяет царскую и солнечную символику в ландшафте Гизы.",
+    "facts": [
+      "Высеченный из скалы монумент у комплекса Хафры, интерпретируемый как образ царской силы и охраны священного пространства.",
+      "Соединяет царскую и солнечную символику в ландшафте Гизы.",
+      "Карточка относится к теме «монументальный лев с человеческой головой» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "монумент",
+      "Гиза"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egy2_001.svg",
+      "caption": "Учебная обложка: Большой сфинкс",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egy2_001.svg"
+    },
+    "source": {
+      "title": "Большой сфинкс — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D1%81%D1%84%D0%B8%D0%BD%D0%BA%D1%81",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_08",
+    "loc": {
+      "label": "Большой сфинкс",
+      "lat": 29.9753,
+      "lng": 31.1376
+    }
+  },
+  {
+    "id": "PERIOD_EGY2_002",
+    "type": "PERIOD",
+    "title": "Древнее царство",
+    "original": "Древнее царство",
+    "subtitle": "эпоха пирамид и централизованной монархии",
+    "era": "EGY_CHAPTER_09",
+    "region": "Древний Египет",
+    "date": "ок. 2686–2181 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 4,
+    "summary": "Период III–VI династий, характеризующийся царскими монументами, развитой администрацией и крупными храмовыми хозяйствами.",
+    "importance": "Даёт системное понимание общества за пределами отдельных пирамид.",
+    "facts": [
+      "Период III–VI династий, характеризующийся царскими монументами, развитой администрацией и крупными храмовыми хозяйствами.",
+      "Даёт системное понимание общества за пределами отдельных пирамид.",
+      "Карточка относится к теме «эпоха пирамид и централизованной монархии» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "государство",
+      "пирамида"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 5,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/period_egy2_002.svg",
+      "caption": "Учебная обложка: Древнее царство",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "period_egy2_002.svg"
+    },
+    "source": {
+      "title": "Древнее царство — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B5_%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_09"
+  },
+  {
+    "id": "DYN_EGY2_004",
+    "type": "DYNASTY",
+    "title": "V династия",
+    "original": "V династия",
+    "subtitle": "солнечные храмы и Абусир",
+    "era": "EGY_CHAPTER_09",
+    "region": "Древний Египет",
+    "date": "ок. 2494–2345 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Династия, при которой царские комплексы уменьшились по размеру, а культ Ра и храмовые хозяйства получили новое развитие.",
+    "importance": "Показывает изменение царской идеологии без исчезновения сильного государства.",
+    "facts": [
+      "Династия, при которой царские комплексы уменьшились по размеру, а культ Ра и храмовые хозяйства получили новое развитие.",
+      "Показывает изменение царской идеологии без исчезновения сильного государства.",
+      "Карточка относится к теме «солнечные храмы и Абусир» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "династия",
+      "Ра"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/dyn_egy2_004.svg",
+      "caption": "Учебная обложка: V династия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "dyn_egy2_004.svg"
+    },
+    "source": {
+      "title": "V династия — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/V_%D0%B4%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%8F_(%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B8%D0%B9_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82)",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_09"
+  },
+  {
+    "id": "DYN_EGY2_005",
+    "type": "DYNASTY",
+    "title": "VI династия",
+    "original": "VI династия",
+    "subtitle": "последняя крупная династия Древнего царства",
+    "era": "EGY_CHAPTER_09",
+    "region": "Древний Египет",
+    "date": "ок. 2345–2181 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Династия с активными экспедициями, развитыми провинциальными элитами и постепенным ослаблением центра.",
+    "importance": "Связывает расцвет административной системы с её будущей фрагментацией.",
+    "facts": [
+      "Династия с активными экспедициями, развитыми провинциальными элитами и постепенным ослаблением центра.",
+      "Связывает расцвет административной системы с её будущей фрагментацией.",
+      "Карточка относится к теме «последняя крупная династия Древнего царства» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "династия",
+      "кризис"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/dyn_egy2_005.svg",
+      "caption": "Учебная обложка: VI династия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "dyn_egy2_005.svg"
+    },
+    "source": {
+      "title": "VI династия — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/VI_%D0%B4%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%8F_(%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B8%D0%B9_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82)",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_09"
+  },
+  {
+    "id": "PER_EGY2_011",
+    "type": "PERSON",
+    "title": "Усеркаф",
+    "original": "Усеркаф",
+    "subtitle": "основатель V династии",
+    "era": "EGY_CHAPTER_09",
+    "region": "Древний Египет",
+    "date": "XXV век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Царь, связанный с первым известным солнечным храмом и изменением монументальной политики после IV династии.",
+    "importance": "Показывает рост солнечного компонента царской идеологии.",
+    "facts": [
+      "Царь, связанный с первым известным солнечным храмом и изменением монументальной политики после IV династии.",
+      "Показывает рост солнечного компонента царской идеологии.",
+      "Карточка относится к теме «основатель V династии» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "царь",
+      "солнечный культ"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy2_011.svg",
+      "caption": "Учебная обложка: Усеркаф",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy2_011.svg"
+    },
+    "source": {
+      "title": "Усеркаф — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D0%B5%D1%80%D0%BA%D0%B0%D1%84",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_09"
+  },
+  {
+    "id": "PER_EGY2_012",
+    "type": "PERSON",
+    "title": "Сахура",
+    "original": "Сахура",
+    "subtitle": "царь V династии",
+    "era": "EGY_CHAPTER_09",
+    "region": "Древний Египет",
+    "date": "XXV век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Правитель, чьи рельефы и комплекс в Абусире фиксируют экспедиции, иностранные связи и храмовую экономику.",
+    "importance": "Даёт богатый визуальный материал о государстве и обмене.",
+    "facts": [
+      "Правитель, чьи рельефы и комплекс в Абусире фиксируют экспедиции, иностранные связи и храмовую экономику.",
+      "Даёт богатый визуальный материал о государстве и обмене.",
+      "Карточка относится к теме «царь V династии» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "царь",
+      "торговля"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 5,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy2_012.svg",
+      "caption": "Учебная обложка: Сахура",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy2_012.svg"
+    },
+    "source": {
+      "title": "Сахура — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%85%D1%83%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_09"
+  },
+  {
+    "id": "PER_EGY2_013",
+    "type": "PERSON",
+    "title": "Унас",
+    "original": "Унас",
+    "subtitle": "последний царь V династии",
+    "era": "EGY_CHAPTER_09",
+    "region": "Древний Египет",
+    "date": "XXIV век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Правитель, в пирамиде которого впервые сохранился большой корпус Текстов пирамид.",
+    "importance": "Отмечает новый этап письменной фиксации царских погребальных формул.",
+    "facts": [
+      "Правитель, в пирамиде которого впервые сохранился большой корпус Текстов пирамид.",
+      "Отмечает новый этап письменной фиксации царских погребальных формул.",
+      "Карточка относится к теме «последний царь V династии» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "царь",
+      "Тексты пирамид"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy2_013.svg",
+      "caption": "Учебная обложка: Унас",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy2_013.svg"
+    },
+    "source": {
+      "title": "Унас — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B0%D1%81",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_09"
+  },
+  {
+    "id": "PER_EGY2_014",
+    "type": "PERSON",
+    "title": "Пепи I",
+    "original": "Пепи I",
+    "subtitle": "царь VI династии",
+    "era": "EGY_CHAPTER_09",
+    "region": "Древний Египет",
+    "date": "XXIV–XXIII века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Правитель, при котором известны военные походы, провинциальные союзы и карьера сановника Уни.",
+    "importance": "Показывает активность центра и растущую роль региональной знати.",
+    "facts": [
+      "Правитель, при котором известны военные походы, провинциальные союзы и карьера сановника Уни.",
+      "Показывает активность центра и растущую роль региональной знати.",
+      "Карточка относится к теме «царь VI династии» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "царь",
+      "провинции"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy2_014.svg",
+      "caption": "Учебная обложка: Пепи I",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy2_014.svg"
+    },
+    "source": {
+      "title": "Пепи I — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BE%D0%BF%D0%B8_I",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_09"
+  },
+  {
+    "id": "PER_EGY2_015",
+    "type": "PERSON",
+    "title": "Пепи II",
+    "original": "Пепи II",
+    "subtitle": "долгое правление конца Древнего царства",
+    "era": "EGY_CHAPTER_09",
+    "region": "Древний Египет",
+    "date": "ок. XXIII–XXII века до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 4,
+    "summary": "Царь VI династии, традиционно известный чрезвычайно долгим правлением, в конце которого государственная структура испытывала сильное напряжение.",
+    "importance": "Его эпоха используется для анализа сложного перехода к политической фрагментации.",
+    "facts": [
+      "Царь VI династии, традиционно известный чрезвычайно долгим правлением, в конце которого государственная структура испытывала сильное напряжение.",
+      "Его эпоха используется для анализа сложного перехода к политической фрагментации.",
+      "Карточка относится к теме «долгое правление конца Древнего царства» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "царь",
+      "кризис"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy2_015.svg",
+      "caption": "Учебная обложка: Пепи II",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy2_015.svg"
+    },
+    "source": {
+      "title": "Пепи II — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BE%D0%BF%D0%B8_II",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_09"
+  },
+  {
+    "id": "EVENT_EGY2_001",
+    "type": "EVENT",
+    "title": "Конец Древнего царства",
+    "original": "Конец Древнего царства",
+    "subtitle": "ослабление единого политического центра",
+    "era": "EGY_CHAPTER_10",
+    "region": "Древний Египет",
+    "date": "ок. 2181 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 4,
+    "summary": "Длительный переход, связанный с изменением ресурсов, усилением региональных элит, династическими проблемами и возможными экологическими стрессами.",
+    "importance": "Не позволяет сводить распад к одному слабому царю или одному засушливому году.",
+    "facts": [
+      "Длительный переход, связанный с изменением ресурсов, усилением региональных элит, династическими проблемами и возможными экологическими стрессами.",
+      "Не позволяет сводить распад к одному слабому царю или одному засушливому году.",
+      "Карточка относится к теме «ослабление единого политического центра» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "кризис",
+      "государство"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/event_egy2_001.svg",
+      "caption": "Учебная обложка: Конец Древнего царства",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "event_egy2_001.svg"
+    },
+    "source": {
+      "title": "Конец Древнего царства — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B5_%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_10"
+  },
+  {
+    "id": "PERIOD_EGY2_003",
+    "type": "PERIOD",
+    "title": "Первый переходный период",
+    "original": "Первый переходный период",
+    "subtitle": "эпоха региональных центров",
+    "era": "EGY_CHAPTER_10",
+    "region": "Древний Египет",
+    "date": "ок. 2181–2055 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 4,
+    "summary": "Период между Древним и Средним царствами, когда власть была разделена между региональными династиями и местными элитами.",
+    "importance": "Показывает, что политическая раздробленность не равна исчезновению общества и культуры.",
+    "facts": [
+      "Период между Древним и Средним царствами, когда власть была разделена между региональными династиями и местными элитами.",
+      "Показывает, что политическая раздробленность не равна исчезновению общества и культуры.",
+      "Карточка относится к теме «эпоха региональных центров» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "период",
+      "раздробленность"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/period_egy2_003.svg",
+      "caption": "Учебная обложка: Первый переходный период",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "period_egy2_003.svg"
+    },
+    "source": {
+      "title": "Первый переходный период — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_10"
+  },
+  {
+    "id": "STATE_EGY2_001",
+    "type": "STATE",
+    "title": "Гераклеопольское царство",
+    "original": "Гераклеопольское царство",
+    "subtitle": "северная власть переходного периода",
+    "era": "EGY_CHAPTER_10",
+    "region": "Древний Египет",
+    "date": "XXII–XXI века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Царство IX–X династий с центром в Гераклеополе, контролировавшее значительную часть Среднего и Нижнего Египта.",
+    "importance": "Было главным соперником фиванских правителей в борьбе за страну.",
+    "facts": [
+      "Царство IX–X династий с центром в Гераклеополе, контролировавшее значительную часть Среднего и Нижнего Египта.",
+      "Было главным соперником фиванских правителей в борьбе за страну.",
+      "Карточка относится к теме «северная власть переходного периода» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "царство",
+      "север"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/state_egy2_001.svg",
+      "caption": "Учебная обложка: Гераклеопольское царство",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "state_egy2_001.svg"
+    },
+    "source": {
+      "title": "Гераклеопольское царство — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%B0%D0%BA%D0%BB%D0%B5%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_10",
+    "loc": {
+      "label": "Гераклеопольское царство",
+      "lat": 29.08,
+      "lng": 30.93
+    }
+  },
+  {
+    "id": "STATE_EGY2_002",
+    "type": "STATE",
+    "title": "Фиванское царство",
+    "original": "Фиванское царство",
+    "subtitle": "южная династия Интефов",
+    "era": "EGY_CHAPTER_10",
+    "region": "Древний Египет",
+    "date": "XXII–XXI века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Региональная власть Верхнего Египта, постепенно расширявшая контроль на север из района Фив.",
+    "importance": "Стало политической основой будущего Среднего царства.",
+    "facts": [
+      "Региональная власть Верхнего Египта, постепенно расширявшая контроль на север из района Фив.",
+      "Стало политической основой будущего Среднего царства.",
+      "Карточка относится к теме «южная династия Интефов» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "царство",
+      "Фивы"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/state_egy2_002.svg",
+      "caption": "Учебная обложка: Фиванское царство",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "state_egy2_002.svg"
+    },
+    "source": {
+      "title": "Фиванское царство — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B2%D1%8B_(%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82)",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_10",
+    "loc": {
+      "label": "Фиванское царство",
+      "lat": 25.72,
+      "lng": 32.65
+    }
+  },
+  {
+    "id": "PER_EGY2_016",
+    "type": "PERSON",
+    "title": "Интеф II",
+    "original": "Интеф II",
+    "subtitle": "фиванский правитель XI династии",
+    "era": "EGY_CHAPTER_10",
+    "region": "Древний Египет",
+    "date": "ок. XXI век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 4,
+    "summary": "Царь, при котором фиванское государство расширило влияние и закрепилось как главный противник Гераклеополя.",
+    "importance": "Показывает длительный характер повторного объединения.",
+    "facts": [
+      "Царь, при котором фиванское государство расширило влияние и закрепилось как главный противник Гераклеополя.",
+      "Показывает длительный характер повторного объединения.",
+      "Карточка относится к теме «фиванский правитель XI династии» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "царь",
+      "Фивы"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy2_016.svg",
+      "caption": "Учебная обложка: Интеф II",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy2_016.svg"
+    },
+    "source": {
+      "title": "Интеф II — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B8%D0%BE%D1%82%D0%B5%D1%84_II",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_10"
+  },
+  {
+    "id": "PER_EGY2_017",
+    "type": "PERSON",
+    "title": "Ментухотеп II",
+    "original": "Ментухотеп II",
+    "subtitle": "объединитель Среднего царства",
+    "era": "EGY_CHAPTER_10",
+    "region": "Древний Египет",
+    "date": "ок. 2061–2010 до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 4,
+    "summary": "Фиванский царь XI династии, разгромивший северных соперников и восстановивший единую монархию.",
+    "importance": "Завершает кампанию переходом от раздробленности к новому государственному циклу.",
+    "facts": [
+      "Фиванский царь XI династии, разгромивший северных соперников и восстановивший единую монархию.",
+      "Завершает кампанию переходом от раздробленности к новому государственному циклу.",
+      "Карточка относится к теме «объединитель Среднего царства» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "царь",
+      "объединение"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egy2_017.svg",
+      "caption": "Учебная обложка: Ментухотеп II",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egy2_017.svg"
+    },
+    "source": {
+      "title": "Ментухотеп II — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BD%D1%82%D1%83%D1%85%D0%BE%D1%82%D0%B5%D0%BF_II",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_10"
+  },
+  {
+    "id": "TERM_EGY2_003",
+    "type": "TERM",
+    "title": "Наследие Пепи II",
+    "original": "Наследие Пепи II",
+    "subtitle": "проблема долгого правления",
+    "era": "EGY_CHAPTER_10",
+    "region": "Древний Египет",
+    "date": "конец VI династии",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Историографическая тема о том, как затяжное правление и преемственность могли усилить напряжение в конце VI династии.",
+    "importance": "Учит отличать удобное персональное объяснение от комплекса структурных причин.",
+    "facts": [
+      "Историографическая тема о том, как затяжное правление и преемственность могли усилить напряжение в конце VI династии.",
+      "Учит отличать удобное персональное объяснение от комплекса структурных причин.",
+      "Карточка относится к теме «проблема долгого правления» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "кризис",
+      "историография"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/term_egy2_003.svg",
+      "caption": "Учебная обложка: Наследие Пепи II",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_egy2_003.svg"
+    },
+    "source": {
+      "title": "Наследие Пепи II — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BE%D0%BF%D0%B8_II",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_10"
+  },
+  {
+    "id": "SYS_EGY2_008",
+    "type": "SYSTEM",
+    "title": "Региональная автономия",
+    "original": "Региональная автономия",
+    "subtitle": "рост самостоятельности номов",
+    "era": "EGY_CHAPTER_10",
+    "region": "Древний Египет",
+    "date": "конец Древнего царства — Первый переходный период",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Усиление местных правителей, хозяйств и погребальных центров при снижении контроля центрального двора.",
+    "importance": "Объясняет одновременно распад единства и сохранение региональной организации.",
+    "facts": [
+      "Усиление местных правителей, хозяйств и погребальных центров при снижении контроля центрального двора.",
+      "Объясняет одновременно распад единства и сохранение региональной организации.",
+      "Карточка относится к теме «рост самостоятельности номов» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "провинции",
+      "власть"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egy2_008.svg",
+      "caption": "Учебная обложка: Региональная автономия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egy2_008.svg"
+    },
+    "source": {
+      "title": "Региональная автономия — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_10"
   }
 ]

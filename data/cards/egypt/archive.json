@@ -2048,5 +2048,2075 @@
     "campaign": "EGYPT",
     "chapter": "EGY_CHAPTER_05",
     "pool": "EGY_POOL_05"
+  },
+  {
+    "id": "SITE_EGYA2_001",
+    "type": "SITE",
+    "title": "Умм эль-Кааб",
+    "original": "Умм эль-Кааб",
+    "subtitle": "царский некрополь Абидоса",
+    "era": "EGY_CHAPTER_06",
+    "region": "Древний Египет",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Некрополь, где располагались гробницы правителей додинастического и раннединастического Египта.",
+    "importance": "Даёт основной археологический массив для изучения первых династий.",
+    "facts": [
+      "Некрополь, где располагались гробницы правителей додинастического и раннединастического Египта.",
+      "Даёт основной археологический массив для изучения первых династий.",
+      "Карточка относится к теме «царский некрополь Абидоса» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "археология",
+      "гробница"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/site_egya2_001.svg",
+      "caption": "Учебная обложка: Умм эль-Кааб",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "site_egya2_001.svg"
+    },
+    "source": {
+      "title": "Умм эль-Кааб — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BC%D0%BC_%D1%8D%D0%BB%D1%8C-%D0%9A%D0%B0%D0%B0%D0%B1",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_06",
+    "pool": "EGY_POOL_06",
+    "loc": {
+      "label": "Умм эль-Кааб",
+      "lat": 26.184,
+      "lng": 31.919
+    }
+  },
+  {
+    "id": "BUILD_EGYA2_001",
+    "type": "BUILDING",
+    "title": "Мастаба ранних династий",
+    "original": "Мастаба ранних династий",
+    "subtitle": "прямоугольная надземная гробница",
+    "era": "EGY_CHAPTER_06",
+    "region": "Древний Египет",
+    "date": "Раннединастический период",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Погребальное сооружение с наклонными стенами, надземной частью и подземными помещениями.",
+    "importance": "Стало архитектурной основой, из которой позднее развивались пирамидальные комплексы.",
+    "facts": [
+      "Погребальное сооружение с наклонными стенами, надземной частью и подземными помещениями.",
+      "Стало архитектурной основой, из которой позднее развивались пирамидальные комплексы.",
+      "Карточка относится к теме «прямоугольная надземная гробница» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "погребение",
+      "архитектура"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 5,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/build_egya2_001.svg",
+      "caption": "Учебная обложка: Мастаба ранних династий",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "build_egya2_001.svg"
+    },
+    "source": {
+      "title": "Мастаба ранних династий — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%82%D0%B0%D0%B1%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_06",
+    "pool": "EGY_POOL_06"
+  },
+  {
+    "id": "ART_EGYA2_001",
+    "type": "ARTIFACT",
+    "title": "Царская печать",
+    "original": "Царская печать",
+    "subtitle": "оттиск административного контроля",
+    "era": "EGY_CHAPTER_06",
+    "region": "Древний Египет",
+    "date": "I–II династии",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Печати фиксировали имена, учреждения и движение имущества через дворцово-хозяйственные системы.",
+    "importance": "Показывают управление через маркировку и контроль, а не только через монументы.",
+    "facts": [
+      "Печати фиксировали имена, учреждения и движение имущества через дворцово-хозяйственные системы.",
+      "Показывают управление через маркировку и контроль, а не только через монументы.",
+      "Карточка относится к теме «оттиск административного контроля» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "администрация",
+      "печать"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egya2_001.svg",
+      "caption": "Учебная обложка: Царская печать",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egya2_001.svg"
+    },
+    "source": {
+      "title": "Царская печать — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_(%D0%B0%D1%80%D1%85%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_06",
+    "pool": "EGY_POOL_06"
+  },
+  {
+    "id": "ART_EGYA2_002",
+    "type": "ARTIFACT",
+    "title": "Костяная метка",
+    "original": "Костяная метка",
+    "subtitle": "короткая запись о товаре или событии",
+    "era": "EGY_CHAPTER_06",
+    "region": "Древний Египет",
+    "date": "I династия",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Небольшие пластинки с изображениями и ранними знаками сопровождали поставки, сосуды и погребальный инвентарь.",
+    "importance": "Дают редкие современные эпохе сведения о царском хозяйстве.",
+    "facts": [
+      "Небольшие пластинки с изображениями и ранними знаками сопровождали поставки, сосуды и погребальный инвентарь.",
+      "Дают редкие современные эпохе сведения о царском хозяйстве.",
+      "Карточка относится к теме «короткая запись о товаре или событии» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "письмо",
+      "учёт"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egya2_002.svg",
+      "caption": "Учебная обложка: Костяная метка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egya2_002.svg"
+    },
+    "source": {
+      "title": "Костяная метка — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%98%D0%B5%D1%80%D0%BE%D0%B3%D0%BB%D0%B8%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_06",
+    "pool": "EGY_POOL_06"
+  },
+  {
+    "id": "SYS_EGYA2_001",
+    "type": "SYSTEM",
+    "title": "Царское владение",
+    "original": "Царское владение",
+    "subtitle": "земля и хозяйство двора",
+    "era": "EGY_CHAPTER_06",
+    "region": "Древний Египет",
+    "date": "Раннединастический период",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Хозяйственная единица, связанная с царским именем, поставками и обслуживанием двора или культа.",
+    "importance": "Показывает материальную основу ранней монархии.",
+    "facts": [
+      "Хозяйственная единица, связанная с царским именем, поставками и обслуживанием двора или культа.",
+      "Показывает материальную основу ранней монархии.",
+      "Карточка относится к теме «земля и хозяйство двора» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "хозяйство",
+      "царь"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 5,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egya2_001.svg",
+      "caption": "Учебная обложка: Царское владение",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egya2_001.svg"
+    },
+    "source": {
+      "title": "Царское владение — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D0%BE_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_06",
+    "pool": "EGY_POOL_06"
+  },
+  {
+    "id": "BUILD_EGYA2_002",
+    "type": "BUILDING",
+    "title": "Погребальная ограда",
+    "original": "Погребальная ограда",
+    "subtitle": "ритуальный комплекс у Абидоса",
+    "era": "EGY_CHAPTER_06",
+    "region": "Древний Египет",
+    "date": "I–II династии",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Монументальная ограждённая площадка, отделённая от самой царской гробницы.",
+    "importance": "Показывает, что погребальный культ включал отдельные пространства для церемоний.",
+    "facts": [
+      "Монументальная ограждённая площадка, отделённая от самой царской гробницы.",
+      "Показывает, что погребальный культ включал отдельные пространства для церемоний.",
+      "Карточка относится к теме «ритуальный комплекс у Абидоса» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "погребение",
+      "ритуал"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 5,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/build_egya2_002.svg",
+      "caption": "Учебная обложка: Погребальная ограда",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "build_egya2_002.svg"
+    },
+    "source": {
+      "title": "Погребальная ограда — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%B8%D0%B4%D0%BE%D1%81_(%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82)",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_06",
+    "pool": "EGY_POOL_06"
+  },
+  {
+    "id": "TERM_EGYA2_001",
+    "type": "TERM",
+    "title": "Серех",
+    "original": "Серех",
+    "subtitle": "рамка царского имени",
+    "era": "EGY_CHAPTER_06",
+    "region": "Древний Египет",
+    "date": "Раннединастический период",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Изображение фасада дворца, внутри которого записывалось раннее царское имя, обычно под знаком сокола Хора.",
+    "importance": "Соединял личность царя, дворец и божественную легитимность.",
+    "facts": [
+      "Изображение фасада дворца, внутри которого записывалось раннее царское имя, обычно под знаком сокола Хора.",
+      "Соединял личность царя, дворец и божественную легитимность.",
+      "Карточка относится к теме «рамка царского имени» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "титулатура",
+      "царь"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/term_egya2_001.svg",
+      "caption": "Учебная обложка: Серех",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_egya2_001.svg"
+    },
+    "source": {
+      "title": "Серех — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B5%D1%85",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_06",
+    "pool": "EGY_POOL_06"
+  },
+  {
+    "id": "SYS_EGYA2_002",
+    "type": "SYSTEM",
+    "title": "Мемфисская администрация",
+    "original": "Мемфисская администрация",
+    "subtitle": "северный центр управления",
+    "era": "EGY_CHAPTER_06",
+    "region": "Древний Египет",
+    "date": "I–II династии",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Система царских хозяйств и должностей в районе Мемфиса, выгодно расположенном между долиной и дельтой.",
+    "importance": "Объясняет, как государство связывало две большие зоны страны.",
+    "facts": [
+      "Система царских хозяйств и должностей в районе Мемфиса, выгодно расположенном между долиной и дельтой.",
+      "Объясняет, как государство связывало две большие зоны страны.",
+      "Карточка относится к теме «северный центр управления» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "администрация",
+      "Мемфис"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egya2_002.svg",
+      "caption": "Учебная обложка: Мемфисская администрация",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egya2_002.svg"
+    },
+    "source": {
+      "title": "Мемфисская администрация — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BC%D1%84%D0%B8%D1%81_(%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82)",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_06",
+    "pool": "EGY_POOL_06",
+    "loc": {
+      "label": "Мемфисская администрация",
+      "lat": 29.85,
+      "lng": 31.25
+    }
+  },
+  {
+    "id": "BUILD_EGYA2_003",
+    "type": "BUILDING",
+    "title": "Мастаба",
+    "original": "Мастаба",
+    "subtitle": "предшественник пирамиды",
+    "era": "EGY_CHAPTER_07",
+    "region": "Древний Египет",
+    "date": "Раннее царство — Древнее царство",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Прямоугольное погребальное сооружение, на основе которого был разработан проект ступенчатой пирамиды.",
+    "importance": "Позволяет увидеть архитектурную преемственность, а не внезапное появление пирамиды.",
+    "facts": [
+      "Прямоугольное погребальное сооружение, на основе которого был разработан проект ступенчатой пирамиды.",
+      "Позволяет увидеть архитектурную преемственность, а не внезапное появление пирамиды.",
+      "Карточка относится к теме «предшественник пирамиды» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "архитектура",
+      "погребение"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 5,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/build_egya2_003.svg",
+      "caption": "Учебная обложка: Мастаба",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "build_egya2_003.svg"
+    },
+    "source": {
+      "title": "Мастаба — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%82%D0%B0%D0%B1%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_07",
+    "pool": "EGY_POOL_07"
+  },
+  {
+    "id": "BUILD_EGYA2_004",
+    "type": "BUILDING",
+    "title": "Сердаб",
+    "original": "Сердаб",
+    "subtitle": "закрытая камера статуи",
+    "era": "EGY_CHAPTER_07",
+    "region": "Древний Египет",
+    "date": "Древнее царство",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Небольшое помещение в погребальном комплексе, где помещалась статуя умершего и оставлялись отверстия для ритуального контакта.",
+    "importance": "Показывает роль изображения как заместителя тела в культе.",
+    "facts": [
+      "Небольшое помещение в погребальном комплексе, где помещалась статуя умершего и оставлялись отверстия для ритуального контакта.",
+      "Показывает роль изображения как заместителя тела в культе.",
+      "Карточка относится к теме «закрытая камера статуи» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "погребение",
+      "статуя"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 5,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/build_egya2_004.svg",
+      "caption": "Учебная обложка: Сердаб",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "build_egya2_004.svg"
+    },
+    "source": {
+      "title": "Сердаб — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B4%D0%B0%D0%B1",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_07",
+    "pool": "EGY_POOL_07"
+  },
+  {
+    "id": "BUILD_EGYA2_005",
+    "type": "BUILDING",
+    "title": "Ложная дверь",
+    "original": "Ложная дверь",
+    "subtitle": "ритуальная граница гробницы",
+    "era": "EGY_CHAPTER_07",
+    "region": "Древний Египет",
+    "date": "Древнее царство",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Изображённый дверной проём, через который умерший символически принимал подношения.",
+    "importance": "Связывает архитектуру гробницы и ежедневный погребальный культ.",
+    "facts": [
+      "Изображённый дверной проём, через который умерший символически принимал подношения.",
+      "Связывает архитектуру гробницы и ежедневный погребальный культ.",
+      "Карточка относится к теме «ритуальная граница гробницы» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "погребение",
+      "культ"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 5,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/build_egya2_005.svg",
+      "caption": "Учебная обложка: Ложная дверь",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "build_egya2_005.svg"
+    },
+    "source": {
+      "title": "Ложная дверь — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B6%D0%BD%D0%B0%D1%8F_%D0%B4%D0%B2%D0%B5%D1%80%D1%8C",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_07",
+    "pool": "EGY_POOL_07"
+  },
+  {
+    "id": "ART_EGYA2_003",
+    "type": "ARTIFACT",
+    "title": "Голубые фаянсовые плитки",
+    "original": "Голубые фаянсовые плитки",
+    "subtitle": "облицовка подземных помещений",
+    "era": "EGY_CHAPTER_07",
+    "region": "Древний Египет",
+    "date": "III династия",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Плитки из египетского фаянса имитировали циновки или тростниковые стены в подземных камерах Джосера.",
+    "importance": "Показывают перенос привычных материалов в долговечную царскую архитектуру.",
+    "facts": [
+      "Плитки из египетского фаянса имитировали циновки или тростниковые стены в подземных камерах Джосера.",
+      "Показывают перенос привычных материалов в долговечную царскую архитектуру.",
+      "Карточка относится к теме «облицовка подземных помещений» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "фаянс",
+      "архитектура"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egya2_003.svg",
+      "caption": "Учебная обложка: Голубые фаянсовые плитки",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egya2_003.svg"
+    },
+    "source": {
+      "title": "Голубые фаянсовые плитки — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%B0%D1%8F%D0%BD%D1%81",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_07",
+    "pool": "EGY_POOL_07"
+  },
+  {
+    "id": "BUILD_EGYA2_006",
+    "type": "BUILDING",
+    "title": "Ограда комплекса Джосера",
+    "original": "Ограда комплекса Джосера",
+    "subtitle": "каменная стена с ложными проходами",
+    "era": "EGY_CHAPTER_07",
+    "region": "Древний Египет",
+    "date": "III династия",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Высокая стена окружала огромный комплекс и включала множество ложных дверей при одном действующем входе.",
+    "importance": "Создавала сакрально контролируемое пространство.",
+    "facts": [
+      "Высокая стена окружала огромный комплекс и включала множество ложных дверей при одном действующем входе.",
+      "Создавала сакрально контролируемое пространство.",
+      "Карточка относится к теме «каменная стена с ложными проходами» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "архитектура",
+      "ограда"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/build_egya2_006.svg",
+      "caption": "Учебная обложка: Ограда комплекса Джосера",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "build_egya2_006.svg"
+    },
+    "source": {
+      "title": "Ограда комплекса Джосера — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0_%D0%94%D0%B6%D0%BE%D1%81%D0%B5%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_07",
+    "pool": "EGY_POOL_07"
+  },
+  {
+    "id": "BUILD_EGYA2_007",
+    "type": "BUILDING",
+    "title": "Колоннада входа",
+    "original": "Колоннада входа",
+    "subtitle": "каменный проход в комплекс",
+    "era": "EGY_CHAPTER_07",
+    "region": "Древний Египет",
+    "date": "III династия",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Ряд связанных с боковыми стенами каменных колонн воспроизводил формы растительной и деревянной архитектуры.",
+    "importance": "Показывает, как камень имитировал более ранние строительные традиции.",
+    "facts": [
+      "Ряд связанных с боковыми стенами каменных колонн воспроизводил формы растительной и деревянной архитектуры.",
+      "Показывает, как камень имитировал более ранние строительные традиции.",
+      "Карточка относится к теме «каменный проход в комплекс» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "колонна",
+      "камень"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/build_egya2_007.svg",
+      "caption": "Учебная обложка: Колоннада входа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "build_egya2_007.svg"
+    },
+    "source": {
+      "title": "Колоннада входа — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0_%D0%94%D0%B6%D0%BE%D1%81%D0%B5%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_07",
+    "pool": "EGY_POOL_07"
+  },
+  {
+    "id": "SITE_EGYA2_003",
+    "type": "SITE",
+    "title": "Подземные галереи Джосера",
+    "original": "Подземные галереи Джосера",
+    "subtitle": "лабиринт под пирамидой",
+    "era": "EGY_CHAPTER_07",
+    "region": "Древний Египет",
+    "date": "III династия",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Система шахт, коридоров и помещений под пирамидой, включавшая погребальную камеру и склады.",
+    "importance": "Раскрывает скрытую часть комплекса, намного более сложную, чем видимый монумент.",
+    "facts": [
+      "Система шахт, коридоров и помещений под пирамидой, включавшая погребальную камеру и склады.",
+      "Раскрывает скрытую часть комплекса, намного более сложную, чем видимый монумент.",
+      "Карточка относится к теме «лабиринт под пирамидой» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "подземелье",
+      "гробница"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/site_egya2_003.svg",
+      "caption": "Учебная обложка: Подземные галереи Джосера",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "site_egya2_003.svg"
+    },
+    "source": {
+      "title": "Подземные галереи Джосера — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0_%D0%94%D0%B6%D0%BE%D1%81%D0%B5%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_07",
+    "pool": "EGY_POOL_07"
+  },
+  {
+    "id": "BUILD_EGYA2_008",
+    "type": "BUILDING",
+    "title": "Погребальный храм",
+    "original": "Погребальный храм",
+    "subtitle": "место царского культа",
+    "era": "EGY_CHAPTER_07",
+    "region": "Древний Египет",
+    "date": "Древнее царство",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Храмовое пространство у пирамиды для подношений и обслуживания культа умершего царя.",
+    "importance": "Сделало погребение долгосрочным институтом с людьми и ресурсами.",
+    "facts": [
+      "Храмовое пространство у пирамиды для подношений и обслуживания культа умершего царя.",
+      "Сделало погребение долгосрочным институтом с людьми и ресурсами.",
+      "Карточка относится к теме «место царского культа» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "храм",
+      "культ"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 5,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/build_egya2_008.svg",
+      "caption": "Учебная обложка: Погребальный храм",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "build_egya2_008.svg"
+    },
+    "source": {
+      "title": "Погребальный храм — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0_%D0%94%D0%B6%D0%BE%D1%81%D0%B5%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_07",
+    "pool": "EGY_POOL_07"
+  },
+  {
+    "id": "PER_EGYA2_006",
+    "type": "PERSON",
+    "title": "Менкаура",
+    "original": "Менкаура",
+    "subtitle": "царь третьего крупного комплекса Гизы",
+    "era": "EGY_CHAPTER_08",
+    "region": "Древний Египет",
+    "date": "ок. 2532–2503 до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Правитель IV династии, чья пирамида меньше двух соседних, но сопровождалась богатой скульптурной программой.",
+    "importance": "Показывает, что значение комплекса не определяется одной высотой пирамиды.",
+    "facts": [
+      "Правитель IV династии, чья пирамида меньше двух соседних, но сопровождалась богатой скульптурной программой.",
+      "Показывает, что значение комплекса не определяется одной высотой пирамиды.",
+      "Карточка относится к теме «царь третьего крупного комплекса Гизы» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "царь",
+      "Гиза"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egya2_006.svg",
+      "caption": "Учебная обложка: Менкаура",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egya2_006.svg"
+    },
+    "source": {
+      "title": "Менкаура — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D0%B5%D1%80%D0%B8%D0%BD",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_08",
+    "pool": "EGY_POOL_08"
+  },
+  {
+    "id": "SITE_EGYA2_004",
+    "type": "SITE",
+    "title": "Плато Гиза",
+    "original": "Плато Гиза",
+    "subtitle": "царский некрополь IV династии",
+    "era": "EGY_CHAPTER_08",
+    "region": "Древний Египет",
+    "date": "IV династия",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Пустынное плато с пирамидами, храмами, дорогами, поселениями работников и кладбищами элиты.",
+    "importance": "Позволяет изучать пирамиды как целый социальный и ритуальный ландшафт.",
+    "facts": [
+      "Пустынное плато с пирамидами, храмами, дорогами, поселениями работников и кладбищами элиты.",
+      "Позволяет изучать пирамиды как целый социальный и ритуальный ландшафт.",
+      "Карточка относится к теме «царский некрополь IV династии» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "Гиза",
+      "некрополь"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/site_egya2_004.svg",
+      "caption": "Учебная обложка: Плато Гиза",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "site_egya2_004.svg"
+    },
+    "source": {
+      "title": "Плато Гиза — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D1%8B_%D0%93%D0%B8%D0%B7%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_08",
+    "pool": "EGY_POOL_08",
+    "loc": {
+      "label": "Плато Гиза",
+      "lat": 29.976,
+      "lng": 31.132
+    }
+  },
+  {
+    "id": "SITE_EGYA2_005",
+    "type": "SITE",
+    "title": "Поселение строителей Гизы",
+    "original": "Поселение строителей Гизы",
+    "subtitle": "городок работников и администрации",
+    "era": "EGY_CHAPTER_08",
+    "region": "Древний Египет",
+    "date": "IV династия",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Археологический комплекс с жильём, пекарнями, складами и административными зонами у плато Гиза.",
+    "importance": "Опровергает образ строительства как труда безымянной массы вне организованной системы.",
+    "facts": [
+      "Археологический комплекс с жильём, пекарнями, складами и административными зонами у плато Гиза.",
+      "Опровергает образ строительства как труда безымянной массы вне организованной системы.",
+      "Карточка относится к теме «городок работников и администрации» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "труд",
+      "поселение"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 5,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/site_egya2_005.svg",
+      "caption": "Учебная обложка: Поселение строителей Гизы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "site_egya2_005.svg"
+    },
+    "source": {
+      "title": "Поселение строителей Гизы — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%B9%D1%82-%D1%8D%D0%BB%D1%8C-%D0%93%D1%83%D1%80%D0%B0%D0%B1",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_08",
+    "pool": "EGY_POOL_08",
+    "loc": {
+      "label": "Поселение строителей Гизы",
+      "lat": 29.972,
+      "lng": 31.139
+    }
+  },
+  {
+    "id": "ART_EGYA2_004",
+    "type": "ARTIFACT",
+    "title": "Солнечная ладья Хуфу",
+    "original": "Солнечная ладья Хуфу",
+    "subtitle": "разобранное судно у пирамиды",
+    "era": "EGY_CHAPTER_08",
+    "region": "Древний Египет",
+    "date": "IV династия",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Крупное деревянное судно, помещённое в яму у Великой пирамиды и собранное археологами в XX веке.",
+    "importance": "Связывает погребальный комплекс с ритуальной идеей царского путешествия.",
+    "facts": [
+      "Крупное деревянное судно, помещённое в яму у Великой пирамиды и собранное археологами в XX веке.",
+      "Связывает погребальный комплекс с ритуальной идеей царского путешествия.",
+      "Карточка относится к теме «разобранное судно у пирамиды» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "корабль",
+      "ритуал"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/art_egya2_004.svg",
+      "caption": "Учебная обложка: Солнечная ладья Хуфу",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_egya2_004.svg"
+    },
+    "source": {
+      "title": "Солнечная ладья Хуфу — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B5_%D0%BB%D0%B0%D0%B4%D1%8C%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_08",
+    "pool": "EGY_POOL_08"
+  },
+  {
+    "id": "TERM_EGYA2_002",
+    "type": "TERM",
+    "title": "Карьерные метки",
+    "original": "Карьерные метки",
+    "subtitle": "надписи рабочих бригад",
+    "era": "EGY_CHAPTER_08",
+    "region": "Древний Египет",
+    "date": "IV династия",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Короткие надписи краской на блоках и внутренних поверхностях фиксировали рабочие команды и этапы строительства.",
+    "importance": "Дают редкий взгляд на организацию труда за монументальным фасадом.",
+    "facts": [
+      "Короткие надписи краской на блоках и внутренних поверхностях фиксировали рабочие команды и этапы строительства.",
+      "Дают редкий взгляд на организацию труда за монументальным фасадом.",
+      "Карточка относится к теме «надписи рабочих бригад» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "труд",
+      "надпись"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 5,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/term_egya2_002.svg",
+      "caption": "Учебная обложка: Карьерные метки",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_egya2_002.svg"
+    },
+    "source": {
+      "title": "Карьерные метки — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0_%D0%A5%D0%B5%D0%BE%D0%BF%D1%81%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_08",
+    "pool": "EGY_POOL_08"
+  },
+  {
+    "id": "BUILD_EGYA2_009",
+    "type": "BUILDING",
+    "title": "Процессуальная дорога",
+    "original": "Процессуальная дорога",
+    "subtitle": "связь долинного и верхнего храмов",
+    "era": "EGY_CHAPTER_08",
+    "region": "Древний Египет",
+    "date": "Древнее царство",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Крытый или оформленный путь между долинным храмом у поймы и погребальным храмом возле пирамиды.",
+    "importance": "Соединял речной подход, ритуал и царскую гробницу.",
+    "facts": [
+      "Крытый или оформленный путь между долинным храмом у поймы и погребальным храмом возле пирамиды.",
+      "Соединял речной подход, ритуал и царскую гробницу.",
+      "Карточка относится к теме «связь долинного и верхнего храмов» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "дорога",
+      "ритуал"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/build_egya2_009.svg",
+      "caption": "Учебная обложка: Процессуальная дорога",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "build_egya2_009.svg"
+    },
+    "source": {
+      "title": "Процессуальная дорога — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_08",
+    "pool": "EGY_POOL_08"
+  },
+  {
+    "id": "BUILD_EGYA2_010",
+    "type": "BUILDING",
+    "title": "Долинный храм",
+    "original": "Долинный храм",
+    "subtitle": "нижняя часть пирамидального комплекса",
+    "era": "EGY_CHAPTER_08",
+    "region": "Древний Египет",
+    "date": "Древнее царство",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Храм у границы возделанной земли, связанный с приёмом процессии и переходом к пирамиде.",
+    "importance": "Показывает связь Нила, транспортировки и погребального ритуала.",
+    "facts": [
+      "Храм у границы возделанной земли, связанный с приёмом процессии и переходом к пирамиде.",
+      "Показывает связь Нила, транспортировки и погребального ритуала.",
+      "Карточка относится к теме «нижняя часть пирамидального комплекса» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "храм",
+      "погребение"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 5,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/build_egya2_010.svg",
+      "caption": "Учебная обложка: Долинный храм",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "build_egya2_010.svg"
+    },
+    "source": {
+      "title": "Долинный храм — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D1%8B_%D0%93%D0%B8%D0%B7%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_08",
+    "pool": "EGY_POOL_08"
+  },
+  {
+    "id": "SYS_EGYA2_004",
+    "type": "SYSTEM",
+    "title": "Пирамидальный комплекс",
+    "original": "Пирамидальный комплекс",
+    "subtitle": "единая система царского культа",
+    "era": "EGY_CHAPTER_08",
+    "region": "Древний Египет",
+    "date": "Древнее царство",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Совокупность пирамиды, храмов, дороги, малых пирамид, лодочных ям и обслуживающих учреждений.",
+    "importance": "Позволяет понимать монумент как институт, а не отдельную геометрическую форму.",
+    "facts": [
+      "Совокупность пирамиды, храмов, дороги, малых пирамид, лодочных ям и обслуживающих учреждений.",
+      "Позволяет понимать монумент как институт, а не отдельную геометрическую форму.",
+      "Карточка относится к теме «единая система царского культа» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "пирамида",
+      "культ"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 6,
+      "religion": 5,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egya2_004.svg",
+      "caption": "Учебная обложка: Пирамидальный комплекс",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egya2_004.svg"
+    },
+    "source": {
+      "title": "Пирамидальный комплекс — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_08",
+    "pool": "EGY_POOL_08"
+  },
+  {
+    "id": "OFF_EGYA2_001",
+    "type": "OFFICE",
+    "title": "Визирь",
+    "original": "Визирь",
+    "subtitle": "главный сановник царской администрации",
+    "era": "EGY_CHAPTER_09",
+    "region": "Древний Египет",
+    "date": "Древнее царство",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Высокопоставленный чиновник, координировавший суд, архивы, хозяйство и другие направления управления.",
+    "importance": "Показывает, что царская власть действовала через иерархию должностей.",
+    "facts": [
+      "Высокопоставленный чиновник, координировавший суд, архивы, хозяйство и другие направления управления.",
+      "Показывает, что царская власть действовала через иерархию должностей.",
+      "Карточка относится к теме «главный сановник царской администрации» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "должность",
+      "администрация"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/off_egya2_001.svg",
+      "caption": "Учебная обложка: Визирь",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "off_egya2_001.svg"
+    },
+    "source": {
+      "title": "Визирь — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D1%82%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_09",
+    "pool": "EGY_POOL_09"
+  },
+  {
+    "id": "OFF_EGYA2_002",
+    "type": "OFFICE",
+    "title": "Номарх",
+    "original": "Номарх",
+    "subtitle": "правитель египетской области",
+    "era": "EGY_CHAPTER_09",
+    "region": "Древний Египет",
+    "date": "Древнее царство",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Региональный администратор нома, сочетавший хозяйственные, судебные и культовые функции.",
+    "importance": "Его усиление важно для понимания позднего Древнего царства.",
+    "facts": [
+      "Региональный администратор нома, сочетавший хозяйственные, судебные и культовые функции.",
+      "Его усиление важно для понимания позднего Древнего царства.",
+      "Карточка относится к теме «правитель египетской области» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "провинция",
+      "должность"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/off_egya2_002.svg",
+      "caption": "Учебная обложка: Номарх",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "off_egya2_002.svg"
+    },
+    "source": {
+      "title": "Номарх — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%BC%D0%B0%D1%80%D1%85",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_09",
+    "pool": "EGY_POOL_09"
+  },
+  {
+    "id": "TEXT_EGYA2_001",
+    "type": "TEXT",
+    "title": "Царский декрет",
+    "original": "Царский декрет",
+    "subtitle": "письменное распоряжение власти",
+    "era": "EGY_CHAPTER_09",
+    "region": "Древний Египет",
+    "date": "Древнее царство",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Документ, предоставлявший храму или учреждению привилегии, освобождения и защиту имущества.",
+    "importance": "Показывает работу власти через формализованные распоряжения.",
+    "facts": [
+      "Документ, предоставлявший храму или учреждению привилегии, освобождения и защиту имущества.",
+      "Показывает работу власти через формализованные распоряжения.",
+      "Карточка относится к теме «письменное распоряжение власти» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "право",
+      "текст"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/text_egya2_001.svg",
+      "caption": "Учебная обложка: Царский декрет",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "text_egya2_001.svg"
+    },
+    "source": {
+      "title": "Царский декрет — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BF%D1%82%D0%BE%D1%81%D1%81%D0%BA%D0%B8%D0%B5_%D0%B4%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_09",
+    "pool": "EGY_POOL_09"
+  },
+  {
+    "id": "SYS_EGYA2_005",
+    "type": "SYSTEM",
+    "title": "Зерновые налоги",
+    "original": "Зерновые налоги",
+    "subtitle": "сбор и перераспределение урожая",
+    "era": "EGY_CHAPTER_09",
+    "region": "Древний Египет",
+    "date": "Древнее царство",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Часть продукции поступала в государственные и храмовые хозяйства для снабжения работников, культов и экспедиций.",
+    "importance": "Объясняет материальную основу монументальных и административных проектов.",
+    "facts": [
+      "Часть продукции поступала в государственные и храмовые хозяйства для снабжения работников, культов и экспедиций.",
+      "Объясняет материальную основу монументальных и административных проектов.",
+      "Карточка относится к теме «сбор и перераспределение урожая» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "налоги",
+      "хозяйство"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 5,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egya2_005.svg",
+      "caption": "Учебная обложка: Зерновые налоги",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egya2_005.svg"
+    },
+    "source": {
+      "title": "Зерновые налоги — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D0%BE_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_09",
+    "pool": "EGY_POOL_09"
+  },
+  {
+    "id": "SYS_EGYA2_006",
+    "type": "SYSTEM",
+    "title": "Трудовая повинность",
+    "original": "Трудовая повинность",
+    "subtitle": "мобилизация работников государством",
+    "era": "EGY_CHAPTER_09",
+    "region": "Древний Египет",
+    "date": "Древнее царство",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Домохозяйства могли предоставлять труд для строительства, перевозок, каналов и других проектов в определённые периоды.",
+    "importance": "Помогает уйти от ложной альтернативы между рабством и полностью свободной наёмной работой.",
+    "facts": [
+      "Домохозяйства могли предоставлять труд для строительства, перевозок, каналов и других проектов в определённые периоды.",
+      "Помогает уйти от ложной альтернативы между рабством и полностью свободной наёмной работой.",
+      "Карточка относится к теме «мобилизация работников государством» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "труд",
+      "государство"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 5,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egya2_006.svg",
+      "caption": "Учебная обложка: Трудовая повинность",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egya2_006.svg"
+    },
+    "source": {
+      "title": "Трудовая повинность — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D0%B4_%D0%B2_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%BC_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B5",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_09",
+    "pool": "EGY_POOL_09"
+  },
+  {
+    "id": "REL_EGYA2_001",
+    "type": "RELIGION",
+    "title": "Погребальный культ царя",
+    "original": "Погребальный культ царя",
+    "subtitle": "долговременное обслуживание комплекса",
+    "era": "EGY_CHAPTER_09",
+    "region": "Древний Египет",
+    "date": "Древнее царство",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Система жрецов, подношений, земель и хозяйств, поддерживавшая память и ритуалы умершего царя.",
+    "importance": "Показывает экономическую жизнь пирамид после завершения строительства.",
+    "facts": [
+      "Система жрецов, подношений, земель и хозяйств, поддерживавшая память и ритуалы умершего царя.",
+      "Показывает экономическую жизнь пирамид после завершения строительства.",
+      "Карточка относится к теме «долговременное обслуживание комплекса» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "культ",
+      "хозяйство"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 5,
+      "economy": 5,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/rel_egya2_001.svg",
+      "caption": "Учебная обложка: Погребальный культ царя",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rel_egya2_001.svg"
+    },
+    "source": {
+      "title": "Погребальный культ царя — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B3%D1%80%D0%B5%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D0%BB%D1%8C%D1%82",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_09",
+    "pool": "EGY_POOL_09"
+  },
+  {
+    "id": "SYS_EGYA2_007",
+    "type": "SYSTEM",
+    "title": "Экспедиции Древнего царства",
+    "original": "Экспедиции Древнего царства",
+    "subtitle": "походы за ресурсами и связями",
+    "era": "EGY_CHAPTER_09",
+    "region": "Древний Египет",
+    "date": "Древнее царство",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Организованные предприятия в Нубию, Синай, Восточную пустыню и Левант для добычи, торговли и контроля путей.",
+    "importance": "Раскрывают Египет как участника широких региональных сетей.",
+    "facts": [
+      "Организованные предприятия в Нубию, Синай, Восточную пустыню и Левант для добычи, торговли и контроля путей.",
+      "Раскрывают Египет как участника широких региональных сетей.",
+      "Карточка относится к теме «походы за ресурсами и связями» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "экспедиция",
+      "торговля"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 5,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/sys_egya2_007.svg",
+      "caption": "Учебная обложка: Экспедиции Древнего царства",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_egya2_007.svg"
+    },
+    "source": {
+      "title": "Экспедиции Древнего царства — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B8%D0%B9_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_09",
+    "pool": "EGY_POOL_09"
+  },
+  {
+    "id": "TEXT_EGYA2_002",
+    "type": "TEXT",
+    "title": "Тексты пирамид",
+    "original": "Тексты пирамид",
+    "subtitle": "царские погребальные формулы",
+    "era": "EGY_CHAPTER_09",
+    "region": "Древний Египет",
+    "date": "конец V–VI династии",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Корпус ритуальных текстов, впервые сохранившийся на стенах пирамиды Унаса и продолженный в VI династии.",
+    "importance": "Даёт прямой письменный материал о царском посмертии и ритуальном языке.",
+    "facts": [
+      "Корпус ритуальных текстов, впервые сохранившийся на стенах пирамиды Унаса и продолженный в VI династии.",
+      "Даёт прямой письменный материал о царском посмертии и ритуальном языке.",
+      "Карточка относится к теме «царские погребальные формулы» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "письмо",
+      "религия"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 5,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/text_egya2_002.svg",
+      "caption": "Учебная обложка: Тексты пирамид",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "text_egya2_002.svg"
+    },
+    "source": {
+      "title": "Тексты пирамид — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D1%8B_%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_09",
+    "pool": "EGY_POOL_09"
+  },
+  {
+    "id": "PER_EGYA2_007",
+    "type": "PERSON",
+    "title": "Анхтифи",
+    "original": "Анхтифи",
+    "subtitle": "номарх Верхнего Египта",
+    "era": "EGY_CHAPTER_10",
+    "region": "Древний Египет",
+    "date": "XXII век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Региональный правитель, чья автобиографическая надпись описывает власть, снабжение и конфликты переходного периода.",
+    "importance": "Даёт важный, но самопрославляющий источник о местной элите.",
+    "facts": [
+      "Региональный правитель, чья автобиографическая надпись описывает власть, снабжение и конфликты переходного периода.",
+      "Даёт важный, но самопрославляющий источник о местной элите.",
+      "Карточка относится к теме «номарх Верхнего Египта» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "номарх",
+      "источник"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 4,
+      "culture": 4,
+      "politics": 6,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/per_egya2_007.svg",
+      "caption": "Учебная обложка: Анхтифи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_egya2_007.svg"
+    },
+    "source": {
+      "title": "Анхтифи — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%85%D1%82%D0%B8%D1%84%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_10",
+    "pool": "EGY_POOL_10"
+  },
+  {
+    "id": "TEXT_EGYA2_003",
+    "type": "TEXT",
+    "title": "Автобиография в гробнице",
+    "original": "Автобиография в гробнице",
+    "subtitle": "самопрезентация египетского чиновника",
+    "era": "EGY_CHAPTER_10",
+    "region": "Древний Египет",
+    "date": "Древнее царство — Первый переходный период",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Надпись, в которой владелец гробницы перечислял должности, заслуги и моральные качества.",
+    "importance": "Требует чтения как политической самопрезентации, а не нейтрального отчёта.",
+    "facts": [
+      "Надпись, в которой владелец гробницы перечислял должности, заслуги и моральные качества.",
+      "Требует чтения как политической самопрезентации, а не нейтрального отчёта.",
+      "Карточка относится к теме «самопрезентация египетского чиновника» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "текст",
+      "элита"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/text_egya2_003.svg",
+      "caption": "Учебная обложка: Автобиография в гробнице",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "text_egya2_003.svg"
+    },
+    "source": {
+      "title": "Автобиография в гробнице — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%B1%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_(%D0%B6%D0%B0%D0%BD%D1%80)",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_10",
+    "pool": "EGY_POOL_10"
+  },
+  {
+    "id": "TEXT_EGYA2_004",
+    "type": "TEXT",
+    "title": "Тексты саркофагов",
+    "original": "Тексты саркофагов",
+    "subtitle": "погребальные формулы более широких элит",
+    "era": "EGY_CHAPTER_10",
+    "region": "Древний Египет",
+    "date": "Первый переходный период — Среднее царство",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Корпус заклинаний на гробах и погребальном инвентаре, активно развивавшийся после Древнего царства.",
+    "importance": "Показывает расширение доступа к письменным формам посмертного ритуала.",
+    "facts": [
+      "Корпус заклинаний на гробах и погребальном инвентаре, активно развивавшийся после Древнего царства.",
+      "Показывает расширение доступа к письменным формам посмертного ритуала.",
+      "Карточка относится к теме «погребальные формулы более широких элит» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "религия",
+      "письмо"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 2,
+      "religion": 5,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/text_egya2_004.svg",
+      "caption": "Учебная обложка: Тексты саркофагов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "text_egya2_004.svg"
+    },
+    "source": {
+      "title": "Тексты саркофагов — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D1%8B_%D1%81%D0%B0%D1%80%D0%BA%D0%BE%D1%84%D0%B0%D0%B3%D0%BE%D0%B2",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_10",
+    "pool": "EGY_POOL_10"
+  },
+  {
+    "id": "CULT_EGYA2_001",
+    "type": "CULTURE",
+    "title": "Региональное искусство",
+    "original": "Региональное искусство",
+    "subtitle": "местные стили переходного периода",
+    "era": "EGY_CHAPTER_10",
+    "region": "Древний Египет",
+    "date": "Первый переходный период",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Скульптура и росписи разных областей демонстрируют неодинаковое качество, приёмы и местные художественные предпочтения.",
+    "importance": "Опровергают представление о периоде как исключительно культурном упадке.",
+    "facts": [
+      "Скульптура и росписи разных областей демонстрируют неодинаковое качество, приёмы и местные художественные предпочтения.",
+      "Опровергают представление о периоде как исключительно культурном упадке.",
+      "Карточка относится к теме «местные стили переходного периода» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "искусство",
+      "регионы"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/cult_egya2_001.svg",
+      "caption": "Учебная обложка: Региональное искусство",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "cult_egya2_001.svg"
+    },
+    "source": {
+      "title": "Региональное искусство — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D0%BE_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_10",
+    "pool": "EGY_POOL_10"
+  },
+  {
+    "id": "SITE_EGYA2_006",
+    "type": "SITE",
+    "title": "Провинциальные некрополи",
+    "original": "Провинциальные некрополи",
+    "subtitle": "местные центры памяти и власти",
+    "era": "EGY_CHAPTER_10",
+    "region": "Древний Египет",
+    "date": "Первый переходный период",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Кладбища и скальные гробницы региональной знати стали важными памятниками вне прежних царских столиц.",
+    "importance": "Показывают перераспределение ресурсов и статуса в пользу местных элит.",
+    "facts": [
+      "Кладбища и скальные гробницы региональной знати стали важными памятниками вне прежних царских столиц.",
+      "Показывают перераспределение ресурсов и статуса в пользу местных элит.",
+      "Карточка относится к теме «местные центры памяти и власти» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "гробница",
+      "провинции"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/site_egya2_006.svg",
+      "caption": "Учебная обложка: Провинциальные некрополи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "site_egya2_006.svg"
+    },
+    "source": {
+      "title": "Провинциальные некрополи — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BA%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_10",
+    "pool": "EGY_POOL_10"
+  },
+  {
+    "id": "TERM_EGYA2_004",
+    "type": "TERM",
+    "title": "Климатическая гипотеза",
+    "original": "Климатическая гипотеза",
+    "subtitle": "роль засухи в кризисе",
+    "era": "EGY_CHAPTER_10",
+    "region": "Древний Египет",
+    "date": "конец III тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Гипотеза связывает снижение нильских разливов и аридизацию около 2200 года до н. э. с хозяйственным стрессом.",
+    "importance": "Полезна только как часть многофакторного объяснения, а не единственная причина распада.",
+    "facts": [
+      "Гипотеза связывает снижение нильских разливов и аридизацию около 2200 года до н. э. с хозяйственным стрессом.",
+      "Полезна только как часть многофакторного объяснения, а не единственная причина распада.",
+      "Карточка относится к теме «роль засухи в кризисе» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "климат",
+      "кризис"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/term_egya2_004.svg",
+      "caption": "Учебная обложка: Климатическая гипотеза",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_egya2_004.svg"
+    },
+    "source": {
+      "title": "Климатическая гипотеза — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B5_4%2C2_%D0%BA%D0%B8%D0%BB%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0_%D0%BD%D0%B0%D0%B7%D0%B0%D0%B4",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_10",
+    "pool": "EGY_POOL_10"
+  },
+  {
+    "id": "CITY_EGYA2_001",
+    "type": "CITY",
+    "title": "Гераклеополь",
+    "original": "Гераклеополь",
+    "subtitle": "центр северной династии",
+    "era": "EGY_CHAPTER_10",
+    "region": "Древний Египет",
+    "date": "Первый переходный период",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Город в районе Файюма, ставший столицей IX–X династий переходного периода.",
+    "importance": "Обозначает альтернативный центр царской власти до победы Фив.",
+    "facts": [
+      "Город в районе Файюма, ставший столицей IX–X династий переходного периода.",
+      "Обозначает альтернативный центр царской власти до победы Фив.",
+      "Карточка относится к теме «центр северной династии» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "город",
+      "царство"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/city_egya2_001.svg",
+      "caption": "Учебная обложка: Гераклеополь",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "city_egya2_001.svg"
+    },
+    "source": {
+      "title": "Гераклеополь — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%B0%D0%BA%D0%BB%D0%B5%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_10",
+    "pool": "EGY_POOL_10",
+    "loc": {
+      "label": "Гераклеополь",
+      "lat": 29.08,
+      "lng": 30.93
+    }
+  },
+  {
+    "id": "SITE_EGYA2_007",
+    "type": "SITE",
+    "title": "Дейр-эль-Берша",
+    "original": "Дейр-эль-Берша",
+    "subtitle": "некрополь Среднего Египта",
+    "era": "EGY_CHAPTER_10",
+    "region": "Древний Египет",
+    "date": "Первый переходный период — Среднее царство",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Район скальных гробниц местной знати, важный для изучения переходного периода и Среднего царства.",
+    "importance": "Показывает региональные элиты между северным и южным центрами.",
+    "facts": [
+      "Район скальных гробниц местной знати, важный для изучения переходного периода и Среднего царства.",
+      "Показывает региональные элиты между северным и южным центрами.",
+      "Карточка относится к теме «некрополь Среднего Египта» и изучается в контексте Древнего Египта."
+    ],
+    "tags": [
+      "некрополь",
+      "провинции"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/egypt/site_egya2_007.svg",
+      "caption": "Учебная обложка: Дейр-эль-Берша",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "site_egya2_007.svg"
+    },
+    "source": {
+      "title": "Дейр-эль-Берша — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B9%D1%80-%D1%8D%D0%BB%D1%8C-%D0%91%D0%B5%D1%80%D1%88%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "EGYPT",
+    "chapter": "EGY_CHAPTER_10",
+    "pool": "EGY_POOL_10",
+    "loc": {
+      "label": "Дейр-эль-Берша",
+      "lat": 27.75,
+      "lng": 30.88
+    }
   }
 ]

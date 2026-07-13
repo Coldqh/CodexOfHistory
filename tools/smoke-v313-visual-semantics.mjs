@@ -10,7 +10,7 @@ const cards=manifest.datasets.cards.flatMap(read);
 const queries=read(manifest.datasets.imageQueries);
 const images=read('data/image_manifest.json');
 
-assert.equal(manifest.version,'3.2.1');
+assert.equal(manifest.version,'3.2.2');
 assert.equal(queries.version,manifest.version);
 assert.equal(queries.count,cards.length);
 assert.equal(Object.keys(queries.cards).length,cards.length);
@@ -57,14 +57,14 @@ assert.notEqual(queries.cards.REG_MES_002.candidates[0].title,'Тигр');
 assert.notEqual(queries.cards.CITY_LOW_005.candidates[0].title,'Коза');
 
 const module=fs.readFileSync(path.join(root,'js/features/v3-1-3-visual-semantics.js'),'utf8');
-for(const token of ['pageterms','extracts','categories','semanticDecision','wrong-history-context','forbidden-context','MAX_CONTEXT_REUSE=8','codex_history_visual_archive_session_v321','sessionStorage']){
+for(const token of ['pageterms','extracts','categories','semanticDecision','wrong-history-context','forbidden-context','MAX_CONTEXT_REUSE=8','codex_history_visual_archive_session_v322','sessionStorage']){
   assert.ok(module.includes(token),`missing ${token}`);
 }
 const manifestText=fs.readFileSync(path.join(root,'data/content-manifest.json'),'utf8');
 assert.match(manifestText,/v3-1-3-visual-semantics\.js/);
 assert.doesNotMatch(manifestText,/v3-1-2-visual-archive\.js/);
 const sw=fs.readFileSync(path.join(root,'sw.js'),'utf8');
-assert.match(sw,/codex-v3\.2\.1/);
+assert.match(sw,/codex-v3\.2\.2/);
 assert.match(sw,/v3-1-3-visual-semantics\.js/);
 
-console.log(`✓ v3.2.1 semantic visual catalog: ${cards.length} profiles, ${staticHistorical.length} fixed, ${dynamic.length} validated dynamically`);
+console.log(`✓ v3.2.2 semantic visual catalog: ${cards.length} profiles, ${staticHistorical.length} fixed, ${dynamic.length} validated dynamically`);

@@ -1,6 +1,6 @@
-/* Codex v3.2.1 — Babylon and early Bronze Age */
+/* Codex v3.2.2 — Babylon and early Bronze Age */
 (()=>{
-  const V='3.2.1';
+  const V='3.2.2';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.BABYLON_OLD='BABYLON';
   state.bronzeMapMode=state.bronzeMapMode==='ERA'?'ERA':'CAMPAIGN';

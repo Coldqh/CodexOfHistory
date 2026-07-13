@@ -325,7 +325,7 @@ function shell(inner){
   const [section,title]=pageTitle();
   return `<div class="app-layout">
     <aside class="side-nav">
-      <div class="brand-mark"><div class="seal">C</div><div class="brand-title"><small>Codex of History</small><h1>История</h1></div></div>
+      <div class="brand-mark"><img class="brand-logo" src="assets/ui/codex-logo-mark.png" alt="Codex of History"><div class="brand-title"><small>Codex of History</small><h1>История</h1></div></div>
       <div class="nav-kicker">Навигация</div>
       <div class="nav-list">${navButtons('nav-btn')}</div>
       <div class="side-card">
@@ -340,7 +340,7 @@ function shell(inner){
         <div class="command-title"><span>${section}</span><span>·</span><b>${title}</b></div>
         <div class="command-actions">${themeToggle()}<div class="command-pill">${state.level} уровень</div><div class="command-pill">${state.xp} XP</div><button class="command-icon" onclick="openPack()" title="Открыть пак">✦</button></div>
       </header>
-      <div class="top-mobile"><div class="mobile-brand"><img src="assets/ui/codex-mark.svg" alt=""><b>Codex</b></div><div class="mobile-tools">${themeToggle()}<div class="mobile-level">${state.level} ур. · ${state.xp} XP</div></div></div>
+      <div class="top-mobile"><div class="mobile-brand"><img src="assets/ui/codex-logo-mark.png" alt=""><b>Codex</b></div><div class="mobile-tools">${themeToggle()}<div class="mobile-level">${state.level} ур. · ${state.xp} XP</div></div></div>
       <div class="view">${inner}</div>
     </main>
     <nav class="mobile-tabs">${navButtons('')}</nav>

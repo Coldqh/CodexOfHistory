@@ -1,6 +1,6 @@
 /* Codex v2.6 — cinematic onboarding for new players */
 (function(){
-  const V='3.2.1';
+  const V='3.2.2';
   window.CODEX_VERSION=V;
   state.onboardingV26Done=!!state.onboardingV26Done;
   state.onboardingV26Step=Number.isInteger(state.onboardingV26Step)?state.onboardingV26Step:0;
@@ -45,7 +45,7 @@
     return `<div class="onboarding-choice-head"><button onclick="onboardingBackToEras()">← Эпохи</button><div><small>${era.dateLabel}</small><h3>${era.title}</h3></div></div><div class="onboarding-campaign-grid">${campaigns.map(c=>{const playable=c.status==='PLAYABLE';return `<button class="onboarding-campaign ${playable?'playable':'planned'}" onclick="${playable?`finishOnboarding('${c.id}')`:`showToast('Кампания в разработке','Выбери доступный маршрут','○')`}"><img src="${campaignCover(c)}" alt=""><div><small>${c.period}</small><h3>${c.title}</h3><span>${playable?`${c.releasedChapters} глав доступно`:'Запланирована'}</span></div><b>${playable?'Начать →':'○'}</b></button>`;}).join('')}</div>`;
   }
   function stepVisual(k){
-    if(k==='welcome')return `<div class="onboarding-codex-mark"><div>C</div><i></i><i></i><i></i></div>`;
+    if(k==='welcome')return `<div class="onboarding-codex-mark"><img src="assets/ui/codex-logo-mark.png" alt="Codex of History"><i></i><i></i><i></i></div>`;
     if(k==='navigation')return onboardingNavPreview();
     if(k==='learning')return onboardingLearningPreview();
     if(k==='cards')return onboardingCardPreview();
@@ -59,7 +59,7 @@
     const s=steps[index];
     const isChoice=s.k==='era'||s.k==='campaign';
     const nextDisabled=s.k==='era'&&!state.onboardingV26Era;
-    return `<main class="onboarding-v26" data-step="${s.k}"><div class="onboarding-ambient"><i></i><i></i><i></i></div><header class="onboarding-top"><div class="onboarding-brand"><img src="assets/ui/codex-mark.svg" alt=""><div><b>Codex of History</b><small>Первое знакомство</small></div></div><div class="onboarding-version">v${appVersion()}</div></header><section class="onboarding-frame"><div class="onboarding-copy"><div class="onboarding-step-label"><span>${s.n}</span><i></i><b>${String(steps.length).padStart(2,'0')}</b></div><div class="eyebrow">${index===0?'ДОБРО ПОЖАЛОВАТЬ':'КАК РАБОТАЕТ CODEX'}</div><h1>${s.title}</h1><p>${s.text}</p>${!isChoice?`<div class="onboarding-tip"><span>✦</span><p>${index===0?'Прогресс сохраняется автоматически в браузере.':index===1?'На телефоне разделы находятся в боковом меню.':index===2?'Основной материал находится до практики: в рассказе, хронологии, разборе и теории.':index===3?'Редкость влияет на шанс выпадения и объём дополнительного задания.':'Пропуск дня не сбрасывает прогресс.'}</p></div>`:''}</div><div class="onboarding-visual">${stepVisual(s.k)}</div></section><footer class="onboarding-footer"><div class="onboarding-dots">${steps.map((_,i)=>`<i class="${i===index?'active':''} ${i<index?'done':''}"></i>`).join('')}</div><div class="onboarding-actions">${index>0?`<button class="onboarding-back" onclick="onboardingPrev()">← Назад</button>`:'<span></span>'}${index<steps.length-1?`<button class="onboarding-next" onclick="onboardingNext()" ${nextDisabled?'disabled':''}>${s.k==='era'?'К кампаниям':'Дальше'} <span>→</span></button>`:'<span></span>'}</div></footer></main>`;
+    return `<main class="onboarding-v26" data-step="${s.k}"><div class="onboarding-ambient"><i></i><i></i><i></i></div><header class="onboarding-top"><div class="onboarding-brand"><img src="assets/ui/codex-logo-mark.png" alt=""><div><b>Codex of History</b><small>Первое знакомство</small></div></div><div class="onboarding-version">v${appVersion()}</div></header><section class="onboarding-frame"><div class="onboarding-copy"><div class="onboarding-step-label"><span>${s.n}</span><i></i><b>${String(steps.length).padStart(2,'0')}</b></div><div class="eyebrow">${index===0?'ДОБРО ПОЖАЛОВАТЬ':'КАК РАБОТАЕТ CODEX'}</div><h1>${s.title}</h1><p>${s.text}</p>${!isChoice?`<div class="onboarding-tip"><span>✦</span><p>${index===0?'Прогресс сохраняется автоматически в браузере.':index===1?'На телефоне разделы находятся в боковом меню.':index===2?'Основной материал находится до практики: в рассказе, хронологии, разборе и теории.':index===3?'Редкость влияет на шанс выпадения и объём дополнительного задания.':'Пропуск дня не сбрасывает прогресс.'}</p></div>`:''}</div><div class="onboarding-visual">${stepVisual(s.k)}</div></section><footer class="onboarding-footer"><div class="onboarding-dots">${steps.map((_,i)=>`<i class="${i===index?'active':''} ${i<index?'done':''}"></i>`).join('')}</div><div class="onboarding-actions">${index>0?`<button class="onboarding-back" onclick="onboardingPrev()">← Назад</button>`:'<span></span>'}${index<steps.length-1?`<button class="onboarding-next" onclick="onboardingNext()" ${nextDisabled?'disabled':''}>${s.k==='era'?'К кампаниям':'Дальше'} <span>→</span></button>`:'<span></span>'}</div></footer></main>`;
   }
   window.selectOnboardingEra=function(id){state.onboardingV26Era=id;save();render();};
   window.onboardingNext=function(){

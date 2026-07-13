@@ -8,7 +8,7 @@ const river={id:'REG_MES_002',title:'Тигр',type:'RIVER',image:{local:'assets
 const city={id:'CITY_LOW_005',title:'Коза',type:'CITY',image:{local:'assets/cosa.svg',caption:'fallback',credit:'Codex',license:'Project asset',focus:'50% 50%'}};
 const fixed={id:'FIXED',title:'Рим',type:'CITY',image:{local:'assets/fixed.svg',prefer_remote:true,file:'Fixed.jpg',source_url:'https://commons.wikimedia.org/wiki/File:Fixed.jpg',caption:'fixed',credit:'Author',license:'PD'}};
 const cards=[river,city,fixed],byId=new Map(cards.map(c=>[c.id,c]));
-const queryPayload={version:'3.2.1',count:3,cards:{
+const queryPayload={version:'3.2.2',count:3,cards:{
   REG_MES_002:{type:'RIVER',semantic:{subject_terms:['тигр'],group_terms:['месопот','iraq'],required_any:['река','river'],forbidden:['животн','млекопита','animal','mammal','танк','tank'],strict_context:true},candidates:[{lang:'ru',title:'Тигр',scope:'exact',min_score:5},{lang:'ru',title:'Тигр (река)',scope:'exact',trusted:true,min_score:2},{lang:'ru',title:'Месопотамия',scope:'context',trusted:true,min_score:2}]},
   CITY_LOW_005:{type:'CITY',semantic:{subject_terms:['коза'],group_terms:['рим','roman','italy'],required_any:['город','city','ancient'],forbidden:['животн','species','mammal'],strict_context:true},candidates:[{lang:'ru',title:'Коза',scope:'exact',min_score:5},{lang:'en',title:'Cosa',scope:'exact',trusted:true,min_score:2},{lang:'en',title:'Ancient Rome',scope:'context',trusted:true,min_score:2}]},
   FIXED:{type:'CITY',semantic:{subject_terms:['рим'],group_terms:['рим'],required_any:['город'],forbidden:[],strict_context:true},candidates:[{lang:'ru',title:'Рим',scope:'exact'}]}
@@ -48,7 +48,7 @@ const fakeFetch=async input=>{
 const app={querySelectorAll(){return[];}};
 const context={
   console,URL,Date,Intl,Promise,Map,Set,JSON,Math,CARDS:cards,
-  CODEX_MANIFEST:{version:'3.2.1',datasets:{imageQueries:'data/image_queries.json'}},
+  CODEX_MANIFEST:{version:'3.2.2',datasets:{imageQueries:'data/image_queries.json'}},
   localStorage:{getItem:k=>localStore.get(k)||null,setItem:(k,v)=>localStore.set(k,v),removeItem:k=>localStore.delete(k)},
   sessionStorage:{getItem:k=>sessionStore.get(k)||null,setItem:(k,v)=>sessionStore.set(k,v),removeItem:k=>sessionStore.delete(k)},
   location:{href:'https://example.test/'},
@@ -82,6 +82,6 @@ assert.doesNotMatch(vm.runInContext("cardImageSource(CARDS[0])",context),/Tiger\
 assert.doesNotMatch(vm.runInContext("cardImageSource(CARDS[1])",context),/Goat\.jpg/);
 assert.equal(vm.runInContext("cardImageCredit(CARDS[0])",context),'Test Museum');
 assert.match(vm.runInContext('settingsScreen()',context),/отклонено/);
-assert.ok(sessionStore.has('codex_history_visual_archive_session_v321'));
-assert.ok(!localStore.has('codex_history_visual_archive_session_v321'));
-console.log('✓ v3.2.1 keeps validated visuals only in session storage and rejects tiger/goat pages');
+assert.ok(sessionStore.has('codex_history_visual_archive_session_v322'));
+assert.ok(!localStore.has('codex_history_visual_archive_session_v322'));
+console.log('✓ v3.2.2 keeps validated visuals only in session storage and rejects tiger/goat pages');

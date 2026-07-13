@@ -15,7 +15,7 @@ function shell(inner){
   const [section,title]=pageTitle();
   return `<div class="app-layout">
     <aside class="side-nav">
-      <div class="brand-mark"><div class="seal">C</div><div class="brand-title"><small>Codex of History</small><h1>История</h1></div></div>
+      <div class="brand-mark"><img class="brand-logo" src="assets/ui/codex-logo-mark.png" alt="Codex of History"><div class="brand-title"><small>Codex of History</small><h1>История</h1></div></div>
       <div class="nav-kicker">Навигация</div>
       <div class="nav-list">${navButtons('nav-btn')}</div>
       <div class="side-card compact-side-card">
@@ -32,13 +32,13 @@ function shell(inner){
       </header>
       <div class="top-mobile">
         <button class="mobile-menu-button" onclick="toggleMobileMenu()" aria-label="Открыть меню">☰</button>
-        <div class="mobile-brand"><img src="assets/ui/codex-mark.svg" alt=""><div><b>Codex</b><small>v${appVersion()}</small></div></div>
+        <div class="mobile-brand"><img src="assets/ui/codex-logo-mark.png" alt=""><div><b>Codex</b><small>v${appVersion()}</small></div></div>
         <button class="mobile-command" onclick="go('settings')" title="Настройки">⚙</button>
       </div>
       <div class="view">${inner}</div></main><nav class="mobile-tabs legacy-mobile-tabs" aria-hidden="true"></nav>
     <button class="mobile-drawer-backdrop" onclick="closeMobileMenu()" aria-label="Закрыть меню"></button>
     <aside class="mobile-drawer" aria-label="Мобильная навигация">
-      <div class="mobile-drawer-head"><div class="mobile-brand"><img src="assets/ui/codex-mark.svg" alt=""><div><b>Codex of History</b><small>v${appVersion()}</small></div></div><button onclick="closeMobileMenu()">×</button></div>
+      <div class="mobile-drawer-head"><div class="mobile-brand"><img src="assets/ui/codex-logo-mark.png" alt=""><div><b>Codex of History</b><small>v${appVersion()}</small></div></div><button onclick="closeMobileMenu()">×</button></div>
       <div class="mobile-drawer-progress"><span>Уровень ${state.level}</span><b>${state.xp} XP</b><div class="progress"><i style="width:${levelProgress()}%"></i></div></div>
       <nav class="mobile-drawer-nav">${mobileDrawerNav()}</nav>
       <div class="mobile-drawer-actions"><button onclick="closeMobileMenu();toggleTheme()">${state.theme==='parchment'?'☀ Пергамент':'☾ Чёрная тема'}</button><button onclick="closeMobileMenu();go('settings')">⚙ Настройки</button></div>

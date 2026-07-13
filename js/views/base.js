@@ -10,7 +10,7 @@ function shell(inner){
   const [section,title]=pageTitle();
   return `<div class="app-layout">
     <aside class="side-nav">
-      <div class="brand-mark"><div class="seal">C</div><div class="brand-title"><small>Codex of History</small><h1>История</h1></div></div>
+      <div class="brand-mark"><img class="brand-logo" src="assets/ui/codex-logo-mark.png" alt="Codex of History"><div class="brand-title"><small>Codex of History</small><h1>История</h1></div></div>
       <div class="nav-kicker">Навигация</div>
       <div class="nav-list">${navButtons('nav-btn')}</div>
       <div class="side-card">
@@ -26,7 +26,7 @@ function shell(inner){
         <div class="command-title"><span>${section}</span><span>·</span><b>${title}</b></div>
         <div class="command-actions">${themeToggle()}<div class="command-pill version-pill">v${appVersion()}</div><div class="command-pill">${state.level} уровень</div><div class="command-pill">${state.xp} XP</div><button class="command-icon" onclick="go('settings')" title="Настройки">⚙</button><button class="command-icon" onclick="openPack()" title="Открыть пак">✦</button></div>
       </header>
-      <div class="top-mobile"><div class="mobile-brand"><img src="assets/ui/codex-mark.svg" alt=""><div><b>Codex</b><small>v${appVersion()}</small></div></div><div class="mobile-tools"><button class="mobile-command" onclick="toggleTheme()" title="Сменить тему">${state.theme==='parchment'?'☀':'☾'}</button><button class="mobile-command" onclick="go('settings')" title="Настройки">⚙</button></div></div>
+      <div class="top-mobile"><div class="mobile-brand"><img src="assets/ui/codex-logo-mark.png" alt=""><div><b>Codex</b><small>v${appVersion()}</small></div></div><div class="mobile-tools"><button class="mobile-command" onclick="toggleTheme()" title="Сменить тему">${state.theme==='parchment'?'☀':'☾'}</button><button class="mobile-command" onclick="go('settings')" title="Настройки">⚙</button></div></div>
       <div class="view">${inner}</div>
     </main>
     <nav class="mobile-tabs">${navButtons('')}</nav>

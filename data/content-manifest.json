@@ -1,5 +1,5 @@
 {
-  "version": "2.5.0",
+  "version": "2.6.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -83,6 +83,7 @@
     "js/features/v2-2-1-navigation-cleanup.js",
     "js/features/v2-4-egypt.js",
     "js/features/v2-5-egypt-learning.js",
+    "js/features/v2-6-onboarding.js",
     "js/core/start.js"
   ],
   "vendors": {

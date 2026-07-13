@@ -1,6 +1,7 @@
-/* Codex of History v3.2.0 — semantic historical image resolver with mobile-safe lazy loading */
+/* Codex of History v3.2.1 — semantic historical image resolver with session-only lazy loading */
 (() => {
-  const CACHE_KEY='codex_history_visual_archive_v314';
+  const CACHE_KEY='codex_history_visual_archive_session_v321';
+  const VISUAL_STORAGE=(()=>{try{return sessionStorage;}catch{return null;}})();
   const QUERY_PATH=CODEX_MANIFEST?.datasets?.imageQueries||'data/image_queries.json';
   const STATIC_COUNT=CARDS.filter(c=>c.image?.prefer_remote&&c.image?.file).length;
   const MAX_CONTEXT_REUSE=8;
@@ -8,7 +9,7 @@
   const AUTO_BATCH_LIMIT=IS_STANDALONE?4:10;
   const MANUAL_BATCH_LIMIT=IS_STANDALONE?12:36;
   const MAX_STORED_RECORDS=IS_STANDALONE?72:180;
-  const stateVisual={queries:null,records:{},running:false,resolved:0,failed:0,rejectedCandidates:0,total:CARDS.length,lastRun:null,error:null};
+  const stateVisual={queries:null,records:{},running:false,resolved:0,failed:0,rejectedCandidates:0,total:CARDS.length,lastRun:null,error:null,storage:'session'};
 
   // v3.1.2 cached unverified matches (including animal/name collisions) must never be reused.
   try{
@@ -17,8 +18,8 @@
   }catch{}
 
   try{
-    const saved=JSON.parse(localStorage.getItem(CACHE_KEY)||'{}');
-    if(saved&&saved.version==='3.2.0'&&saved.records&&typeof saved.records==='object'){
+    const saved=JSON.parse(VISUAL_STORAGE?.getItem(CACHE_KEY)||'{}');
+    if(saved&&saved.version==='3.2.1'&&saved.records&&typeof saved.records==='object'){
       stateVisual.records=saved.records;
       stateVisual.lastRun=saved.lastRun||null;
       stateVisual.rejectedCandidates=Number(saved.rejectedCandidates)||0;
@@ -62,8 +63,8 @@
         .sort((a,b)=>String(b[1]?.resolvedAt||'').localeCompare(String(a[1]?.resolvedAt||'')))
         .slice(0,MAX_STORED_RECORDS);
       stateVisual.records=Object.fromEntries(recent);
-      localStorage.setItem(CACHE_KEY,JSON.stringify({
-        version:'3.2.0',lastRun:stateVisual.lastRun,records:stateVisual.records,rejectedCandidates:stateVisual.rejectedCandidates
+      VISUAL_STORAGE?.setItem(CACHE_KEY,JSON.stringify({
+        version:'3.2.1',lastRun:stateVisual.lastRun,records:stateVisual.records,rejectedCandidates:stateVisual.rejectedCandidates
       }));
     }catch(error){console.warn('[Codex visuals] cache write failed',error);}
   };
@@ -129,11 +130,11 @@
   async function loadQueries(force=false){
     if(stateVisual.queries&&!force)return stateVisual.queries;
     if(typeof fetch!=='function')return null;
-    const url=new URL(QUERY_PATH,location.href);url.searchParams.set('v',CODEX_MANIFEST?.version||'3.2.0');
+    const url=new URL(QUERY_PATH,location.href);url.searchParams.set('v',CODEX_MANIFEST?.version||'3.2.1');
     const response=await fetch(url.href,{cache:'no-store'});
     if(!response.ok)throw new Error(`image queries HTTP ${response.status}`);
     const payload=await response.json();
-    if(payload.version!=='3.2.0')throw new Error(`image queries version ${payload.version||'unknown'}`);
+    if(payload.version!==CODEX_MANIFEST?.version)throw new Error(`image queries version ${payload.version||'unknown'}`);
     if(payload.count!==CARDS.length)throw new Error(`image queries ${payload.count}/${CARDS.length}`);
     stateVisual.queries=payload.cards;return stateVisual.queries;
   }
@@ -317,9 +318,10 @@
     try{render();}catch{}
   };
   window.clearHistoricalImageCache=function(){
-    if(!confirm('Очистить кэш найденных изображений? Локальные обложки останутся.'))return;
+    if(!confirm('Очистить сессию найденных изображений? Локальные обложки останутся.'))return;
     stateVisual.records={};stateVisual.lastRun=null;stateVisual.failed=CARDS.length-STATIC_COUNT;stateVisual.rejectedCandidates=0;
-    localStorage.removeItem(CACHE_KEY);render();showToast('Кэш изображений очищен','Картинки будут подбираться только для открываемых карточек','↺');
+    try{VISUAL_STORAGE?.removeItem(CACHE_KEY);}catch{}
+    render();showToast('Кэш текущей сессии очищен','Картинки будут подбираться заново только для видимых карточек','↺');
   };
   window.resolveHistoricalImages=resolveHistoricalImages;
 
@@ -327,7 +329,7 @@
   settingsScreen=function(){
     let html=previousSettings(),s=status();
     const last=s.lastRun?new Intl.DateTimeFormat('ru-RU',{day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'}).format(new Date(s.lastRun)):'ещё не запускалось';
-    const block=`<article class="settings-card settings-wide visual-archive-settings"><div class="settings-card-head"><span>▧</span><div><h3>Исторические изображения</h3><p>Изображения загружаются только для открытых карточек. Это защищает мобильное приложение от перегрузки.</p></div></div><div class="visual-archive-meter"><div><b>${s.resolved}/${s.total}</b><span>карточек с подтверждённым изображением</span></div><div class="progress"><span style="width:${Math.round(s.resolved/s.total*100)}%"></span></div><small>${s.running?'Идёт проверка…':`Последняя проверка: ${last}${s.failed?` · ожидают ${s.failed}`:''}${s.rejectedCandidates?` · отклонено ${s.rejectedCandidates}`:''}`}</small></div><div class="settings-actions"><button class="btn" onclick="refreshHistoricalImages()" ${s.running?'disabled':''}>${s.running?'Проверка…':'Загрузить следующую часть'}</button><button class="btn ghost" onclick="clearHistoricalImageCache()">Очистить кэш</button></div><p class="settings-note">Полный каталог больше не загружается при запуске. На телефоне обработка идёт небольшими партиями.</p></article>`;
+    const block=`<article class="settings-card settings-wide visual-archive-settings"><div class="settings-card-head"><span>▧</span><div><h3>Исторические изображения</h3><p>Изображения загружаются только для карточек, которые реально видит игрок. Найденные результаты живут только до конца текущей сессии.</p></div></div><div class="visual-archive-meter"><div><b>${s.resolved}/${s.total}</b><span>карточек подтверждено в этой сессии</span></div><div class="progress"><span style="width:${Math.round(s.resolved/s.total*100)}%"></span></div><small>${s.running?'Идёт проверка…':`Последняя проверка в сессии: ${last}${s.failed?` · ожидают ${s.failed}`:''}${s.rejectedCandidates?` · отклонено ${s.rejectedCandidates}`:''}`}</small></div><div class="settings-actions"><button class="btn" onclick="refreshHistoricalImages()" ${s.running?'disabled':''}>${s.running?'Проверка…':'Загрузить следующую часть'}</button><button class="btn ghost" onclick="clearHistoricalImageCache()">Очистить сессию</button></div><p class="settings-note">При закрытии приложения этот кэш исчезает. Это уменьшает постоянную нагрузку на PWA и память устройства.</p></article>`;
     const pos=html.lastIndexOf('</section>');return pos>=0?html.slice(0,pos)+block+html.slice(pos):html;
   };
 
@@ -370,5 +372,6 @@
     const target=document.getElementById?.('app');if(target)mutationObserver.observe(target,{childList:true,subtree:true});
   }
   const launch=()=>{hydrateMountedImages();observeImages();};
+  if(typeof window.addEventListener==='function')window.addEventListener('pagehide',()=>{try{VISUAL_STORAGE?.removeItem(CACHE_KEY);}catch{};},{capture:false});
   if(typeof window.addEventListener==='function')window.addEventListener('codex:ready',launch,{once:true});
 })();

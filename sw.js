@@ -1,5 +1,5 @@
-/* Codex of History v3.2.0 — bounded GitHub Pages service worker */
-const VERSION='codex-v3.2.0';
+/* Codex of History v3.2.1 — bounded GitHub Pages service worker with session-only remote card images */
+const VERSION='codex-v3.2.1';
 const APP_CACHE=`${VERSION}-app`;
 const IMAGE_CACHE=`${VERSION}-images`;
 const TILE_CACHE=`${VERSION}-tiles`;
@@ -79,7 +79,24 @@ self.addEventListener('fetch',event=>{
 
   if(req.destination==='image'){
     const isTile=url.hostname==='tile.openstreetmap.org';
-    event.respondWith(boundedImage(req,isTile?TILE_CACHE:IMAGE_CACHE,isTile?TILE_LIMIT:IMAGE_LIMIT));
+    if(isTile){
+      event.respondWith(boundedImage(req,TILE_CACHE,TILE_LIMIT));
+      return;
+    }
+
+    // Remote historical card images are session-only: do not persist them in Cache Storage.
+    const isWikimediaImage=['upload.wikimedia.org','commons.wikimedia.org'].includes(url.hostname);
+    if(isWikimediaImage){
+      event.respondWith(fetch(req).catch(async()=> (await caches.match('./assets/ui/fallback-card.svg'))||Response.error()));
+      return;
+    }
+
+    if(url.origin===self.location.origin){
+      event.respondWith(networkFirst(req));
+      return;
+    }
+
+    event.respondWith(fetch(req).catch(()=>Response.error()));
     return;
   }
 

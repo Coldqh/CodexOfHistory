@@ -1,0 +1,261 @@
+{
+  "campaignId": "DAWN_PARALLEL",
+  "campaigns": {
+    "COMPARISON": {
+      "id": "COMPARISON",
+      "title": "Первые цивилизации",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "CMP_POOL_01",
+      "campaign": "COMPARISON",
+      "title": "Реки и природная среда",
+      "unlockMission": "CMP_01_02",
+      "cardIds": [
+        "TERM_CMPA_001",
+        "TERM_CMPA_002",
+        "TERM_CMPA_003"
+      ]
+    },
+    {
+      "id": "CMP_POOL_02",
+      "campaign": "COMPARISON",
+      "title": "Город и территория",
+      "unlockMission": "CMP_02_02",
+      "cardIds": [
+        "TERM_CMPA_004",
+        "TERM_CMPA_005",
+        "TERM_CMPA_006"
+      ]
+    },
+    {
+      "id": "CMP_POOL_03",
+      "campaign": "COMPARISON",
+      "title": "Власть и священный порядок",
+      "unlockMission": "CMP_03_02",
+      "cardIds": [
+        "TERM_CMPA_007",
+        "TERM_CMPA_008",
+        "TERM_CMPA_009"
+      ]
+    },
+    {
+      "id": "CMP_POOL_04",
+      "campaign": "COMPARISON",
+      "title": "Письмо и управление",
+      "unlockMission": "CMP_04_02",
+      "cardIds": [
+        "TERM_CMPA_010",
+        "TERM_CMPA_011",
+        "TERM_CMPA_012"
+      ]
+    },
+    {
+      "id": "CMP_POOL_05",
+      "campaign": "COMPARISON",
+      "title": "Труд, налоги и монументы",
+      "unlockMission": "CMP_05_02",
+      "cardIds": [
+        "TERM_CMPA_013",
+        "TERM_CMPA_014",
+        "TERM_CMPA_015"
+      ]
+    },
+    {
+      "id": "CMP_POOL_06",
+      "campaign": "COMPARISON",
+      "title": "Кризис и историческая реконструкция",
+      "unlockMission": "CMP_06_02",
+      "cardIds": [
+        "TERM_CMPA_016",
+        "TERM_CMPA_017",
+        "TERM_CMPA_018"
+      ]
+    }
+  ],
+  "acquisition": {
+    "TERM_CMPA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "COMPARISON",
+      "pool": "CMP_POOL_01"
+    },
+    "TERM_CMPA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "COMPARISON",
+      "pool": "CMP_POOL_01"
+    },
+    "TERM_CMPA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "COMPARISON",
+      "pool": "CMP_POOL_01"
+    },
+    "TERM_CMPA_004": {
+      "kind": "ARCHIVE",
+      "campaign": "COMPARISON",
+      "pool": "CMP_POOL_02"
+    },
+    "TERM_CMPA_005": {
+      "kind": "ARCHIVE",
+      "campaign": "COMPARISON",
+      "pool": "CMP_POOL_02"
+    },
+    "TERM_CMPA_006": {
+      "kind": "ARCHIVE",
+      "campaign": "COMPARISON",
+      "pool": "CMP_POOL_02"
+    },
+    "TERM_CMPA_007": {
+      "kind": "ARCHIVE",
+      "campaign": "COMPARISON",
+      "pool": "CMP_POOL_03"
+    },
+    "TERM_CMPA_008": {
+      "kind": "ARCHIVE",
+      "campaign": "COMPARISON",
+      "pool": "CMP_POOL_03"
+    },
+    "TERM_CMPA_009": {
+      "kind": "ARCHIVE",
+      "campaign": "COMPARISON",
+      "pool": "CMP_POOL_03"
+    },
+    "TERM_CMPA_010": {
+      "kind": "ARCHIVE",
+      "campaign": "COMPARISON",
+      "pool": "CMP_POOL_04"
+    },
+    "TERM_CMPA_011": {
+      "kind": "ARCHIVE",
+      "campaign": "COMPARISON",
+      "pool": "CMP_POOL_04"
+    },
+    "TERM_CMPA_012": {
+      "kind": "ARCHIVE",
+      "campaign": "COMPARISON",
+      "pool": "CMP_POOL_04"
+    },
+    "TERM_CMPA_013": {
+      "kind": "ARCHIVE",
+      "campaign": "COMPARISON",
+      "pool": "CMP_POOL_05"
+    },
+    "TERM_CMPA_014": {
+      "kind": "ARCHIVE",
+      "campaign": "COMPARISON",
+      "pool": "CMP_POOL_05"
+    },
+    "TERM_CMPA_015": {
+      "kind": "ARCHIVE",
+      "campaign": "COMPARISON",
+      "pool": "CMP_POOL_05"
+    },
+    "TERM_CMPA_016": {
+      "kind": "ARCHIVE",
+      "campaign": "COMPARISON",
+      "pool": "CMP_POOL_06"
+    },
+    "TERM_CMPA_017": {
+      "kind": "ARCHIVE",
+      "campaign": "COMPARISON",
+      "pool": "CMP_POOL_06"
+    },
+    "TERM_CMPA_018": {
+      "kind": "ARCHIVE",
+      "campaign": "COMPARISON",
+      "pool": "CMP_POOL_06"
+    },
+    "SYS_CMP_001": {
+      "kind": "STORY",
+      "campaign": "COMPARISON",
+      "chapter": "CMP_CHAPTER_01"
+    },
+    "REG_CMP_001": {
+      "kind": "STORY",
+      "campaign": "COMPARISON",
+      "chapter": "CMP_CHAPTER_01"
+    },
+    "SYS_CMP_002": {
+      "kind": "STORY",
+      "campaign": "COMPARISON",
+      "chapter": "CMP_CHAPTER_01"
+    },
+    "SYS_CMP_003": {
+      "kind": "STORY",
+      "campaign": "COMPARISON",
+      "chapter": "CMP_CHAPTER_02"
+    },
+    "IDEA_CMP_001": {
+      "kind": "STORY",
+      "campaign": "COMPARISON",
+      "chapter": "CMP_CHAPTER_02"
+    },
+    "SYS_CMP_004": {
+      "kind": "STORY",
+      "campaign": "COMPARISON",
+      "chapter": "CMP_CHAPTER_02"
+    },
+    "SYS_CMP_005": {
+      "kind": "STORY",
+      "campaign": "COMPARISON",
+      "chapter": "CMP_CHAPTER_03"
+    },
+    "TEXT_CMP_001": {
+      "kind": "STORY",
+      "campaign": "COMPARISON",
+      "chapter": "CMP_CHAPTER_03"
+    },
+    "PER_CMP_001": {
+      "kind": "STORY",
+      "campaign": "COMPARISON",
+      "chapter": "CMP_CHAPTER_03"
+    },
+    "SYS_CMP_006": {
+      "kind": "STORY",
+      "campaign": "COMPARISON",
+      "chapter": "CMP_CHAPTER_04"
+    },
+    "BUILD_CMP_001": {
+      "kind": "STORY",
+      "campaign": "COMPARISON",
+      "chapter": "CMP_CHAPTER_04"
+    },
+    "SYS_CMP_007": {
+      "kind": "STORY",
+      "campaign": "COMPARISON",
+      "chapter": "CMP_CHAPTER_04"
+    },
+    "SYS_CMP_008": {
+      "kind": "STORY",
+      "campaign": "COMPARISON",
+      "chapter": "CMP_CHAPTER_05"
+    },
+    "SYS_CMP_009": {
+      "kind": "STORY",
+      "campaign": "COMPARISON",
+      "chapter": "CMP_CHAPTER_05"
+    },
+    "SYS_CMP_010": {
+      "kind": "STORY",
+      "campaign": "COMPARISON",
+      "chapter": "CMP_CHAPTER_05"
+    },
+    "TERM_CMP_001": {
+      "kind": "STORY",
+      "campaign": "COMPARISON",
+      "chapter": "CMP_CHAPTER_06"
+    },
+    "TERM_CMP_002": {
+      "kind": "STORY",
+      "campaign": "COMPARISON",
+      "chapter": "CMP_CHAPTER_06"
+    },
+    "TERM_CMP_003": {
+      "kind": "STORY",
+      "campaign": "COMPARISON",
+      "chapter": "CMP_CHAPTER_06"
+    }
+  }
+}

@@ -1,0 +1,632 @@
+{
+  "id": "DAWN_PARALLEL",
+  "title": "Первые цивилизации: параллельная история",
+  "description": "Сравнительная кампания по Египту и Месопотамии: реки, города, власть, письмо, хозяйство и кризисы.",
+  "difficulty": 6,
+  "chapters": [
+    {
+      "id": "CMP_CHAPTER_01",
+      "number": 1,
+      "title": "Реки и природная среда",
+      "subtitle": "Нил, Тигр и Евфрат как разные хозяйственные системы",
+      "description": "Сравнительный учебный модуль.",
+      "missionIds": [
+        "CMP_01_01",
+        "CMP_01_02",
+        "CMP_01_03",
+        "CMP_01_04"
+      ]
+    },
+    {
+      "id": "CMP_CHAPTER_02",
+      "number": 2,
+      "title": "Город и территория",
+      "subtitle": "Городские государства Месопотамии и объединённая долина Египта",
+      "description": "Сравнительный учебный модуль.",
+      "missionIds": [
+        "CMP_02_01",
+        "CMP_02_02",
+        "CMP_02_03",
+        "CMP_02_04"
+      ]
+    },
+    {
+      "id": "CMP_CHAPTER_03",
+      "number": 3,
+      "title": "Власть и священный порядок",
+      "subtitle": "Храм, двор, царская идеология и местные центры",
+      "description": "Сравнительный учебный модуль.",
+      "missionIds": [
+        "CMP_03_01",
+        "CMP_03_02",
+        "CMP_03_03",
+        "CMP_03_04"
+      ]
+    },
+    {
+      "id": "CMP_CHAPTER_04",
+      "number": 4,
+      "title": "Письмо и управление",
+      "subtitle": "Клинопись, иероглифы, документы и специалисты",
+      "description": "Сравнительный учебный модуль.",
+      "missionIds": [
+        "CMP_04_01",
+        "CMP_04_02",
+        "CMP_04_03",
+        "CMP_04_04"
+      ]
+    },
+    {
+      "id": "CMP_CHAPTER_05",
+      "number": 5,
+      "title": "Труд, налоги и монументы",
+      "subtitle": "Как государство собирало и направляло ресурсы",
+      "description": "Сравнительный учебный модуль.",
+      "missionIds": [
+        "CMP_05_01",
+        "CMP_05_02",
+        "CMP_05_03",
+        "CMP_05_04"
+      ]
+    },
+    {
+      "id": "CMP_CHAPTER_06",
+      "number": 6,
+      "title": "Кризис и историческая реконструкция",
+      "subtitle": "Распад центров, региональная власть и пределы наших знаний",
+      "description": "Сравнительный учебный модуль.",
+      "missionIds": [
+        "CMP_06_01",
+        "CMP_06_02",
+        "CMP_06_03",
+        "CMP_06_04"
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "id": "CMP_01_01",
+      "type": "LESSON",
+      "title": "Природный цикл рек",
+      "description": "Нил, Тигр и Евфрат как разные хозяйственные системы. Природный цикл рек.",
+      "cards": [
+        "RIV_EGY_001",
+        "REG_MES_003",
+        "SYS_CMP_001"
+      ],
+      "unlockCards": [
+        "SYS_CMP_001"
+      ],
+      "xp": 137,
+      "emoji": "≋",
+      "chapterId": "CMP_CHAPTER_01",
+      "lessonId": "CMP_01_01"
+    },
+    {
+      "id": "CMP_01_02",
+      "type": "CAUSE_EFFECT",
+      "title": "Риск, урожай и организация",
+      "description": "Нил, Тигр и Евфрат как разные хозяйственные системы. Риск, урожай и организация.",
+      "cards": [
+        "TERM_EGY_001",
+        "REG_MES_004",
+        "REG_CMP_001"
+      ],
+      "unlockCards": [
+        "REG_CMP_001"
+      ],
+      "xp": 142,
+      "emoji": "◆",
+      "chapterId": "CMP_CHAPTER_01",
+      "lessonId": "CMP_01_02"
+    },
+    {
+      "id": "CMP_01_03",
+      "type": "MAP",
+      "title": "Карта двух речных долин",
+      "description": "Нил, Тигр и Евфрат как разные хозяйственные системы. Карта двух речных долин.",
+      "cards": [
+        "REG_EGY_002",
+        "REG_MES_001",
+        "SYS_CMP_007"
+      ],
+      "unlockCards": [
+        "SYS_CMP_002"
+      ],
+      "xp": 147,
+      "emoji": "⌖",
+      "chapterId": "CMP_CHAPTER_01",
+      "lessonId": "CMP_01_03",
+      "mapTargets": [
+        {
+          "key": "mesopotamia",
+          "label": "Южная Месопотамия",
+          "point": "MESOPOTAMIA",
+          "zoom": 5,
+          "radius": 450000
+        },
+        {
+          "key": "egypt",
+          "label": "Долина Нила",
+          "point": "EGYPT",
+          "zoom": 5,
+          "radius": 400000
+        },
+        {
+          "key": "uruk",
+          "label": "Урук",
+          "point": "URUK",
+          "zoom": 8,
+          "radius": 35000
+        }
+      ]
+    },
+    {
+      "id": "CMP_01_04",
+      "type": "FINAL",
+      "title": "Итог: природа не диктует один путь",
+      "description": "Нил, Тигр и Евфрат как разные хозяйственные системы. Итог: природа не диктует один путь.",
+      "cards": [
+        "SYS_CMP_001",
+        "REG_CMP_001",
+        "TERM_CMP_003"
+      ],
+      "unlockCards": [
+        "SYS_CMP_003"
+      ],
+      "xp": 152,
+      "emoji": "◎",
+      "chapterId": "CMP_CHAPTER_01",
+      "lessonId": "CMP_01_04",
+      "quiz": "QUIZ_CMP_CH1"
+    },
+    {
+      "id": "CMP_02_01",
+      "type": "LESSON",
+      "title": "От поселения к политическому центру",
+      "description": "Городские государства Месопотамии и объединённая долина Египта. От поселения к политическому центру.",
+      "cards": [
+        "CITY_MES_003",
+        "REG_EGY_001",
+        "SYS_CMP_002"
+      ],
+      "unlockCards": [
+        "SYS_CMP_003"
+      ],
+      "xp": 149,
+      "emoji": "≋",
+      "chapterId": "CMP_CHAPTER_02",
+      "lessonId": "CMP_02_01"
+    },
+    {
+      "id": "CMP_02_02",
+      "type": "CAUSE_EFFECT",
+      "title": "Город-государство и территориальное царство",
+      "description": "Городские государства Месопотамии и объединённая долина Египта. Город-государство и территориальное царство.",
+      "cards": [
+        "SYS_CMP_002",
+        "SYS_CMP_003",
+        "TERM_CMP_001"
+      ],
+      "unlockCards": [
+        "IDEA_CMP_001"
+      ],
+      "xp": 154,
+      "emoji": "◆",
+      "chapterId": "CMP_CHAPTER_02",
+      "lessonId": "CMP_02_02"
+    },
+    {
+      "id": "CMP_02_03",
+      "type": "MAP",
+      "title": "Сеть центров на карте",
+      "description": "Городские государства Месопотамии и объединённая долина Египта. Сеть центров на карте.",
+      "cards": [
+        "CITY_MES_001",
+        "CITY_EGY_001",
+        "SYS_CMP_008"
+      ],
+      "unlockCards": [
+        "SYS_CMP_004"
+      ],
+      "xp": 159,
+      "emoji": "⌖",
+      "chapterId": "CMP_CHAPTER_02",
+      "lessonId": "CMP_02_03",
+      "mapTargets": [
+        {
+          "key": "mesopotamia",
+          "label": "Южная Месопотамия",
+          "point": "MESOPOTAMIA",
+          "zoom": 5,
+          "radius": 450000
+        },
+        {
+          "key": "egypt",
+          "label": "Долина Нила",
+          "point": "EGYPT",
+          "zoom": 5,
+          "radius": 400000
+        },
+        {
+          "key": "memphis",
+          "label": "Мемфис",
+          "point": "MEMPHIS",
+          "zoom": 8,
+          "radius": 35000
+        }
+      ]
+    },
+    {
+      "id": "CMP_02_04",
+      "type": "FINAL",
+      "title": "Итог: разные масштабы государства",
+      "description": "Городские государства Месопотамии и объединённая долина Египта. Итог: разные масштабы государства.",
+      "cards": [
+        "SYS_CMP_003",
+        "SYS_CMP_009",
+        "TERM_CMP_002"
+      ],
+      "unlockCards": [
+        "SYS_CMP_005"
+      ],
+      "xp": 164,
+      "emoji": "◎",
+      "chapterId": "CMP_CHAPTER_02",
+      "lessonId": "CMP_02_04",
+      "quiz": "QUIZ_CMP_CH2"
+    },
+    {
+      "id": "CMP_03_01",
+      "type": "SOURCE",
+      "title": "Власть и религия",
+      "description": "Храм, двор, царская идеология и местные центры. Власть и религия.",
+      "cards": [
+        "ORG_MES_001",
+        "PER_EGY_004",
+        "IDEA_CMP_001"
+      ],
+      "unlockCards": [
+        "SYS_CMP_005"
+      ],
+      "xp": 161,
+      "emoji": "≋",
+      "chapterId": "CMP_CHAPTER_03",
+      "lessonId": "CMP_03_01"
+    },
+    {
+      "id": "CMP_03_02",
+      "type": "MATCH",
+      "title": "Храмовое учреждение и царский двор",
+      "description": "Храм, двор, царская идеология и местные центры. Храмовое учреждение и царский двор.",
+      "cards": [
+        "SYS_CMP_004",
+        "SYS_CMP_005",
+        "SYS_CMP_010"
+      ],
+      "unlockCards": [
+        "TEXT_CMP_001"
+      ],
+      "xp": 166,
+      "emoji": "◆",
+      "chapterId": "CMP_CHAPTER_03",
+      "lessonId": "CMP_03_02"
+    },
+    {
+      "id": "CMP_03_03",
+      "type": "TIMELINE",
+      "title": "Символы правителя",
+      "description": "Храм, двор, царская идеология и местные центры. Символы правителя.",
+      "cards": [
+        "ART_EGY_004",
+        "TEXT_MES_A030",
+        "IDEA_CMP_001"
+      ],
+      "unlockCards": [
+        "PER_CMP_001"
+      ],
+      "xp": 171,
+      "emoji": "⌖",
+      "chapterId": "CMP_CHAPTER_03",
+      "lessonId": "CMP_03_03",
+      "timeline": {
+        "order": [
+          "c3_0",
+          "c3_1",
+          "c3_2",
+          "c3_3"
+        ],
+        "labels": {
+          "c3_0": "конец IV тысячелетия до н. э. · ранние записи и царские образы",
+          "c3_1": "ок. 3100–2700 до н. э. · укрепление государств",
+          "c3_2": "ок. 2350–2200 до н. э. · крупные территориальные системы",
+          "c3_3": "ок. 2200–2000 до н. э. · кризисы и региональная перестройка"
+        },
+        "shuffle": [
+          "c3_2",
+          "c3_0",
+          "c3_3",
+          "c3_1"
+        ]
+      }
+    },
+    {
+      "id": "CMP_03_04",
+      "type": "FINAL",
+      "title": "Итог: как власть объясняла себя",
+      "description": "Храм, двор, царская идеология и местные центры. Итог: как власть объясняла себя.",
+      "cards": [
+        "IDEA_CMP_001",
+        "TERM_CMP_001",
+        "TERM_CMP_002"
+      ],
+      "unlockCards": [
+        "SYS_CMP_006"
+      ],
+      "xp": 176,
+      "emoji": "◎",
+      "chapterId": "CMP_CHAPTER_03",
+      "lessonId": "CMP_03_04",
+      "quiz": "QUIZ_CMP_CH3"
+    },
+    {
+      "id": "CMP_04_01",
+      "type": "SOURCE",
+      "title": "Почему возникла запись",
+      "description": "Клинопись, иероглифы, документы и специалисты. Почему возникла запись.",
+      "cards": [
+        "TERM_MES_014",
+        "TERM_EGYA_006",
+        "TEXT_CMP_001"
+      ],
+      "unlockCards": [
+        "SYS_CMP_006"
+      ],
+      "xp": 173,
+      "emoji": "≋",
+      "chapterId": "CMP_CHAPTER_04",
+      "lessonId": "CMP_04_01"
+    },
+    {
+      "id": "CMP_04_02",
+      "type": "MATCH",
+      "title": "Две системы письма",
+      "description": "Клинопись, иероглифы, документы и специалисты. Две системы письма.",
+      "cards": [
+        "TEXT_CMP_001",
+        "ART_MES_005",
+        "ART_EGY_004"
+      ],
+      "unlockCards": [
+        "BUILD_CMP_001"
+      ],
+      "xp": 178,
+      "emoji": "◆",
+      "chapterId": "CMP_CHAPTER_04",
+      "lessonId": "CMP_04_02"
+    },
+    {
+      "id": "CMP_04_03",
+      "type": "TIMELINE",
+      "title": "Писцы и административный труд",
+      "description": "Клинопись, иероглифы, документы и специалисты. Писцы и административный труд.",
+      "cards": [
+        "PER_MES_001",
+        "PER_EGY2_003",
+        "PER_CMP_001"
+      ],
+      "unlockCards": [
+        "SYS_CMP_007"
+      ],
+      "xp": 183,
+      "emoji": "⌖",
+      "chapterId": "CMP_CHAPTER_04",
+      "lessonId": "CMP_04_03",
+      "timeline": {
+        "order": [
+          "c4_0",
+          "c4_1",
+          "c4_2",
+          "c4_3"
+        ],
+        "labels": {
+          "c4_0": "конец IV тысячелетия до н. э. · ранние записи и царские образы",
+          "c4_1": "ок. 3100–2700 до н. э. · укрепление государств",
+          "c4_2": "ок. 2350–2200 до н. э. · крупные территориальные системы",
+          "c4_3": "ок. 2200–2000 до н. э. · кризисы и региональная перестройка"
+        },
+        "shuffle": [
+          "c4_2",
+          "c4_0",
+          "c4_3",
+          "c4_1"
+        ]
+      }
+    },
+    {
+      "id": "CMP_04_04",
+      "type": "FINAL",
+      "title": "Итог: документ и изображение",
+      "description": "Клинопись, иероглифы, документы и специалисты. Итог: документ и изображение.",
+      "cards": [
+        "TEXT_CMP_001",
+        "PER_CMP_001",
+        "TERM_CMP_003"
+      ],
+      "unlockCards": [
+        "SYS_CMP_008"
+      ],
+      "xp": 188,
+      "emoji": "◎",
+      "chapterId": "CMP_CHAPTER_04",
+      "lessonId": "CMP_04_04",
+      "quiz": "QUIZ_CMP_CH4"
+    },
+    {
+      "id": "CMP_05_01",
+      "type": "LESSON",
+      "title": "Труд и продуктовые сборы",
+      "description": "Как государство собирало и направляло ресурсы. Труд и продуктовые сборы.",
+      "cards": [
+        "SYS_EGY_006",
+        "CITY_MESA_006",
+        "SYS_CMP_006"
+      ],
+      "unlockCards": [
+        "SYS_CMP_008"
+      ],
+      "xp": 185,
+      "emoji": "≋",
+      "chapterId": "CMP_CHAPTER_05",
+      "lessonId": "CMP_05_01"
+    },
+    {
+      "id": "CMP_05_02",
+      "type": "CAUSE_EFFECT",
+      "title": "Рационы, налоги и склады",
+      "description": "Как государство собирало и направляло ресурсы. Рационы, налоги и склады.",
+      "cards": [
+        "SYS_CMP_006",
+        "SYS_EGYA2_005",
+        "ART_MES_A041"
+      ],
+      "unlockCards": [
+        "SYS_CMP_009"
+      ],
+      "xp": 190,
+      "emoji": "◆",
+      "chapterId": "CMP_CHAPTER_05",
+      "lessonId": "CMP_05_02"
+    },
+    {
+      "id": "CMP_05_03",
+      "type": "MATCH",
+      "title": "Монумент как организационный проект",
+      "description": "Как государство собирало и направляло ресурсы. Монумент как организационный проект.",
+      "cards": [
+        "BUILD_EGY2_005",
+        "CITY_MES_005",
+        "BUILD_CMP_001"
+      ],
+      "unlockCards": [
+        "SYS_CMP_010"
+      ],
+      "xp": 195,
+      "emoji": "⌖",
+      "chapterId": "CMP_CHAPTER_05",
+      "lessonId": "CMP_05_03"
+    },
+    {
+      "id": "CMP_05_04",
+      "type": "FINAL",
+      "title": "Итог: экономика раннего государства",
+      "description": "Как государство собирало и направляло ресурсы. Итог: экономика раннего государства.",
+      "cards": [
+        "BUILD_CMP_001",
+        "SYS_CMP_006",
+        "TERM_CMP_001"
+      ],
+      "unlockCards": [
+        "TERM_CMP_001"
+      ],
+      "xp": 200,
+      "emoji": "◎",
+      "chapterId": "CMP_CHAPTER_05",
+      "lessonId": "CMP_05_04",
+      "quiz": "QUIZ_CMP_CH5"
+    },
+    {
+      "id": "CMP_06_01",
+      "type": "SOURCE",
+      "title": "Аккад, Ур III и египетская децентрализация",
+      "description": "Распад центров, региональная власть и пределы наших знаний. Аккад, Ур III и египетская децентрализация.",
+      "cards": [
+        "STATE_MES_002",
+        "DYN_EGY2_005",
+        "TERM_CMP_002"
+      ],
+      "unlockCards": [
+        "TERM_CMP_001"
+      ],
+      "xp": 197,
+      "emoji": "≋",
+      "chapterId": "CMP_CHAPTER_06",
+      "lessonId": "CMP_06_01"
+    },
+    {
+      "id": "CMP_06_02",
+      "type": "MATCH",
+      "title": "Параллельная хронология",
+      "description": "Распад центров, региональная власть и пределы наших знаний. Параллельная хронология.",
+      "cards": [
+        "EVT_MES_006",
+        "PERIOD_EGY2_003",
+        "TERM_CMP_002"
+      ],
+      "unlockCards": [
+        "TERM_CMP_002"
+      ],
+      "xp": 202,
+      "emoji": "◆",
+      "chapterId": "CMP_CHAPTER_06",
+      "lessonId": "CMP_06_02"
+    },
+    {
+      "id": "CMP_06_03",
+      "type": "TIMELINE",
+      "title": "Как читать неполные источники",
+      "description": "Распад центров, региональная власть и пределы наших знаний. Как читать неполные источники.",
+      "cards": [
+        "TERM_CMP_003",
+        "TEXT_MES_A032",
+        "TEXT_EGYA2_002"
+      ],
+      "unlockCards": [
+        "TERM_CMP_003"
+      ],
+      "xp": 207,
+      "emoji": "⌖",
+      "chapterId": "CMP_CHAPTER_06",
+      "lessonId": "CMP_06_03",
+      "timeline": {
+        "order": [
+          "c6_0",
+          "c6_1",
+          "c6_2",
+          "c6_3"
+        ],
+        "labels": {
+          "c6_0": "конец IV тысячелетия до н. э. · ранние записи и царские образы",
+          "c6_1": "ок. 3100–2700 до н. э. · укрепление государств",
+          "c6_2": "ок. 2350–2200 до н. э. · крупные территориальные системы",
+          "c6_3": "ок. 2200–2000 до н. э. · кризисы и региональная перестройка"
+        },
+        "shuffle": [
+          "c6_2",
+          "c6_0",
+          "c6_3",
+          "c6_1"
+        ]
+      }
+    },
+    {
+      "id": "CMP_06_04",
+      "type": "FINAL",
+      "title": "Финальный экзамен эпохи",
+      "description": "Распад центров, региональная власть и пределы наших знаний. Финальный экзамен эпохи.",
+      "cards": [
+        "SYS_CMP_001",
+        "TEXT_CMP_001",
+        "TERM_CMP_003"
+      ],
+      "unlockCards": [
+        "TERM_CMP_003"
+      ],
+      "xp": 212,
+      "emoji": "◎",
+      "chapterId": "CMP_CHAPTER_06",
+      "lessonId": "CMP_06_04",
+      "quiz": "QUIZ_CMP_CH6"
+    }
+  ]
+}

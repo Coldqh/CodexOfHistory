@@ -1,5 +1,5 @@
 {
-  "version": "2.6.0",
+  "version": "2.7.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -10,13 +10,16 @@
       "data/cards/mesopotamia/story.json",
       "data/cards/mesopotamia/archive.json",
       "data/cards/egypt/story.json",
-      "data/cards/egypt/archive.json"
+      "data/cards/egypt/archive.json",
+      "data/cards/comparison/story.json",
+      "data/cards/comparison/archive.json"
     ],
     "relations": "data/core/relations.json",
     "pools": [
       "data/campaigns/rome/pools.json",
       "data/campaigns/mesopotamia/pools.json",
-      "data/campaigns/egypt/pools.json"
+      "data/campaigns/egypt/pools.json",
+      "data/campaigns/comparison/pools.json"
     ],
     "quizzes": [
       "data/quizzes/rome/chapter_01.json",
@@ -25,12 +28,14 @@
       "data/quizzes/mesopotamia/chapter_01_05.json",
       "data/quizzes/mesopotamia/chapter_06_10.json",
       "data/quizzes/egypt/chapter_01_05.json",
-      "data/quizzes/egypt/chapter_06_10.json"
+      "data/quizzes/egypt/chapter_06_10.json",
+      "data/quizzes/comparison/campaign.json"
     ],
     "stories": [
       "data/stories/rome/personal.json",
       "data/stories/mesopotamia/personal.json",
-      "data/stories/egypt/personal.json"
+      "data/stories/egypt/personal.json",
+      "data/stories/comparison/personal.json"
     ],
     "mastery": "data/core/mastery.json",
     "packs": "data/core/packs.json",
@@ -38,7 +43,8 @@
     "maps": {
       "ROME_CAMPAIGN": "data/maps/rome.json",
       "MESOPOTAMIA_DAWN": "data/maps/mesopotamia.json",
-      "EGYPT_EARLY": "data/maps/egypt.json"
+      "EGYPT_EARLY": "data/maps/egypt.json",
+      "DAWN_PARALLEL": "data/maps/comparison.json"
     },
     "daily": "data/core/daily-learning.json",
     "lessons": [
@@ -48,7 +54,8 @@
       "data/lessons/mesopotamia/chapter_01_05.json",
       "data/lessons/mesopotamia/chapter_06_10.json",
       "data/lessons/egypt/chapter_01_05.json",
-      "data/lessons/egypt/chapter_06_10.json"
+      "data/lessons/egypt/chapter_06_10.json",
+      "data/lessons/comparison/campaign.json"
     ],
     "eras": "data/world/eras.json",
     "campaignCatalog": "data/world/campaigns.json",
@@ -56,7 +63,8 @@
     "campaigns": [
       "data/campaigns/rome/campaign.json",
       "data/campaigns/mesopotamia/campaign.json",
-      "data/campaigns/egypt/campaign.json"
+      "data/campaigns/egypt/campaign.json",
+      "data/campaigns/comparison/campaign.json"
     ]
   },
   "scripts": [
@@ -84,6 +92,7 @@
     "js/features/v2-4-egypt.js",
     "js/features/v2-5-egypt-learning.js",
     "js/features/v2-6-onboarding.js",
+    "js/features/v2-7-parallel-civilizations.js",
     "js/core/start.js"
   ],
   "vendors": {

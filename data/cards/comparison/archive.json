@@ -1,0 +1,920 @@
+[
+  {
+    "id": "TERM_CMPA_001",
+    "type": "TERM",
+    "title": "Аллювий",
+    "original": "Аллювий",
+    "subtitle": "речные наносы",
+    "era": "ERA_DAWN",
+    "region": "Египет и Месопотамия",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Аллювий — локальное понятие, которое помогает точнее разбирать хозяйство и управление ранних государств.",
+    "importance": "Низкоранговая архивная карточка добавляет конкретную деталь к сравнительной кампании.",
+    "facts": [
+      "Аллювий связано с практической организацией ресурсов и труда.",
+      "Конкретная форма различалась между Египтом и Месопотамией.",
+      "Термин полезен при чтении хозяйственных и археологических источников."
+    ],
+    "tags": [
+      "архив",
+      "сравнение",
+      "хозяйство"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 1,
+      "legacy": 2,
+      "military": 3,
+      "culture": 1,
+      "politics": 2,
+      "religion": 3,
+      "economy": 1,
+      "connections": 2
+    },
+    "image": {
+      "local": "assets/cards/comparison/term_cmpa_001.svg",
+      "caption": "Учебная обложка: Аллювий",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_cmpa_001.svg"
+    },
+    "source": {
+      "title": "Аллювий — обзор темы",
+      "url": "https://ru.wikipedia.org/wiki/Месопотамия",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "COMPARISON",
+    "pool": "CMP_POOL_01"
+  },
+  {
+    "id": "TERM_CMPA_002",
+    "type": "TERM",
+    "title": "Паводковый риск",
+    "original": "Паводковый риск",
+    "subtitle": "избыток или нехватка воды",
+    "era": "ERA_DAWN",
+    "region": "Египет и Месопотамия",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 3,
+    "summary": "Паводковый риск — локальное понятие, которое помогает точнее разбирать хозяйство и управление ранних государств.",
+    "importance": "Низкоранговая архивная карточка добавляет конкретную деталь к сравнительной кампании.",
+    "facts": [
+      "Паводковый риск связано с практической организацией ресурсов и труда.",
+      "Конкретная форма различалась между Египтом и Месопотамией.",
+      "Термин полезен при чтении хозяйственных и археологических источников."
+    ],
+    "tags": [
+      "архив",
+      "сравнение",
+      "хозяйство"
+    ],
+    "stats": {
+      "influence": 1,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 1,
+      "culture": 2,
+      "politics": 3,
+      "religion": 1,
+      "economy": 2,
+      "connections": 3
+    },
+    "image": {
+      "local": "assets/cards/comparison/term_cmpa_002.svg",
+      "caption": "Учебная обложка: Паводковый риск",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_cmpa_002.svg"
+    },
+    "source": {
+      "title": "Паводковый риск — обзор темы",
+      "url": "https://ru.wikipedia.org/wiki/Месопотамия",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "COMPARISON",
+    "pool": "CMP_POOL_01"
+  },
+  {
+    "id": "TERM_CMPA_003",
+    "type": "TERM",
+    "title": "Сезонный календарь",
+    "original": "Сезонный календарь",
+    "subtitle": "работы по циклу реки",
+    "era": "ERA_DAWN",
+    "region": "Египет и Месопотамия",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Сезонный календарь — локальное понятие, которое помогает точнее разбирать хозяйство и управление ранних государств.",
+    "importance": "Низкоранговая архивная карточка добавляет конкретную деталь к сравнительной кампании.",
+    "facts": [
+      "Сезонный календарь связано с практической организацией ресурсов и труда.",
+      "Конкретная форма различалась между Египтом и Месопотамией.",
+      "Термин полезен при чтении хозяйственных и археологических источников."
+    ],
+    "tags": [
+      "архив",
+      "сравнение",
+      "хозяйство"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 3,
+      "legacy": 1,
+      "military": 2,
+      "culture": 3,
+      "politics": 1,
+      "religion": 2,
+      "economy": 3,
+      "connections": 1
+    },
+    "image": {
+      "local": "assets/cards/comparison/term_cmpa_003.svg",
+      "caption": "Учебная обложка: Сезонный календарь",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_cmpa_003.svg"
+    },
+    "source": {
+      "title": "Сезонный календарь — обзор темы",
+      "url": "https://ru.wikipedia.org/wiki/Месопотамия",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "COMPARISON",
+    "pool": "CMP_POOL_01"
+  },
+  {
+    "id": "TERM_CMPA_004",
+    "type": "TERM",
+    "title": "Речной транспорт",
+    "original": "Речной транспорт",
+    "subtitle": "перевозка грузов по воде",
+    "era": "ERA_DAWN",
+    "region": "Египет и Месопотамия",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 5,
+    "summary": "Речной транспорт — локальное понятие, которое помогает точнее разбирать хозяйство и управление ранних государств.",
+    "importance": "Низкоранговая архивная карточка добавляет конкретную деталь к сравнительной кампании.",
+    "facts": [
+      "Речной транспорт связано с практической организацией ресурсов и труда.",
+      "Конкретная форма различалась между Египтом и Месопотамией.",
+      "Термин полезен при чтении хозяйственных и археологических источников."
+    ],
+    "tags": [
+      "архив",
+      "сравнение",
+      "хозяйство"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 1,
+      "legacy": 2,
+      "military": 3,
+      "culture": 1,
+      "politics": 2,
+      "religion": 3,
+      "economy": 1,
+      "connections": 2
+    },
+    "image": {
+      "local": "assets/cards/comparison/term_cmpa_004.svg",
+      "caption": "Учебная обложка: Речной транспорт",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_cmpa_004.svg"
+    },
+    "source": {
+      "title": "Речной транспорт — обзор темы",
+      "url": "https://ru.wikipedia.org/wiki/Месопотамия",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "COMPARISON",
+    "pool": "CMP_POOL_02"
+  },
+  {
+    "id": "TERM_CMPA_005",
+    "type": "TERM",
+    "title": "Земельный участок",
+    "original": "Земельный участок",
+    "subtitle": "единица хозяйственного учёта",
+    "era": "ERA_DAWN",
+    "region": "Египет и Месопотамия",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Земельный участок — локальное понятие, которое помогает точнее разбирать хозяйство и управление ранних государств.",
+    "importance": "Низкоранговая архивная карточка добавляет конкретную деталь к сравнительной кампании.",
+    "facts": [
+      "Земельный участок связано с практической организацией ресурсов и труда.",
+      "Конкретная форма различалась между Египтом и Месопотамией.",
+      "Термин полезен при чтении хозяйственных и археологических источников."
+    ],
+    "tags": [
+      "архив",
+      "сравнение",
+      "хозяйство"
+    ],
+    "stats": {
+      "influence": 1,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 1,
+      "culture": 2,
+      "politics": 3,
+      "religion": 1,
+      "economy": 2,
+      "connections": 3
+    },
+    "image": {
+      "local": "assets/cards/comparison/term_cmpa_005.svg",
+      "caption": "Учебная обложка: Земельный участок",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_cmpa_005.svg"
+    },
+    "source": {
+      "title": "Земельный участок — обзор темы",
+      "url": "https://ru.wikipedia.org/wiki/Месопотамия",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "COMPARISON",
+    "pool": "CMP_POOL_02"
+  },
+  {
+    "id": "TERM_CMPA_006",
+    "type": "TERM",
+    "title": "Трудовая повинность",
+    "original": "Трудовая повинность",
+    "subtitle": "организованный труд для государства",
+    "era": "ERA_DAWN",
+    "region": "Египет и Месопотамия",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 3,
+    "summary": "Трудовая повинность — локальное понятие, которое помогает точнее разбирать хозяйство и управление ранних государств.",
+    "importance": "Низкоранговая архивная карточка добавляет конкретную деталь к сравнительной кампании.",
+    "facts": [
+      "Трудовая повинность связано с практической организацией ресурсов и труда.",
+      "Конкретная форма различалась между Египтом и Месопотамией.",
+      "Термин полезен при чтении хозяйственных и археологических источников."
+    ],
+    "tags": [
+      "архив",
+      "сравнение",
+      "хозяйство"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 3,
+      "legacy": 1,
+      "military": 2,
+      "culture": 3,
+      "politics": 1,
+      "religion": 2,
+      "economy": 3,
+      "connections": 1
+    },
+    "image": {
+      "local": "assets/cards/comparison/term_cmpa_006.svg",
+      "caption": "Учебная обложка: Трудовая повинность",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_cmpa_006.svg"
+    },
+    "source": {
+      "title": "Трудовая повинность — обзор темы",
+      "url": "https://ru.wikipedia.org/wiki/Месопотамия",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "COMPARISON",
+    "pool": "CMP_POOL_02"
+  },
+  {
+    "id": "TERM_CMPA_007",
+    "type": "TERM",
+    "title": "Продуктовый паёк",
+    "original": "Продуктовый паёк",
+    "subtitle": "выдача зерна, масла или пива",
+    "era": "ERA_DAWN",
+    "region": "Египет и Месопотамия",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Продуктовый паёк — локальное понятие, которое помогает точнее разбирать хозяйство и управление ранних государств.",
+    "importance": "Низкоранговая архивная карточка добавляет конкретную деталь к сравнительной кампании.",
+    "facts": [
+      "Продуктовый паёк связано с практической организацией ресурсов и труда.",
+      "Конкретная форма различалась между Египтом и Месопотамией.",
+      "Термин полезен при чтении хозяйственных и археологических источников."
+    ],
+    "tags": [
+      "архив",
+      "сравнение",
+      "хозяйство"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 1,
+      "legacy": 2,
+      "military": 3,
+      "culture": 1,
+      "politics": 2,
+      "religion": 3,
+      "economy": 1,
+      "connections": 2
+    },
+    "image": {
+      "local": "assets/cards/comparison/term_cmpa_007.svg",
+      "caption": "Учебная обложка: Продуктовый паёк",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_cmpa_007.svg"
+    },
+    "source": {
+      "title": "Продуктовый паёк — обзор темы",
+      "url": "https://ru.wikipedia.org/wiki/Месопотамия",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "COMPARISON",
+    "pool": "CMP_POOL_03"
+  },
+  {
+    "id": "TERM_CMPA_008",
+    "type": "TERM",
+    "title": "Складская печать",
+    "original": "Складская печать",
+    "subtitle": "контроль доступа и поставок",
+    "era": "ERA_DAWN",
+    "region": "Египет и Месопотамия",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 5,
+    "summary": "Складская печать — локальное понятие, которое помогает точнее разбирать хозяйство и управление ранних государств.",
+    "importance": "Низкоранговая архивная карточка добавляет конкретную деталь к сравнительной кампании.",
+    "facts": [
+      "Складская печать связано с практической организацией ресурсов и труда.",
+      "Конкретная форма различалась между Египтом и Месопотамией.",
+      "Термин полезен при чтении хозяйственных и археологических источников."
+    ],
+    "tags": [
+      "архив",
+      "сравнение",
+      "хозяйство"
+    ],
+    "stats": {
+      "influence": 1,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 1,
+      "culture": 2,
+      "politics": 3,
+      "religion": 1,
+      "economy": 2,
+      "connections": 3
+    },
+    "image": {
+      "local": "assets/cards/comparison/term_cmpa_008.svg",
+      "caption": "Учебная обложка: Складская печать",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_cmpa_008.svg"
+    },
+    "source": {
+      "title": "Складская печать — обзор темы",
+      "url": "https://ru.wikipedia.org/wiki/Месопотамия",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "COMPARISON",
+    "pool": "CMP_POOL_03"
+  },
+  {
+    "id": "TERM_CMPA_009",
+    "type": "TERM",
+    "title": "Мера зерна",
+    "original": "Мера зерна",
+    "subtitle": "стандартизация учёта",
+    "era": "ERA_DAWN",
+    "region": "Египет и Месопотамия",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Мера зерна — локальное понятие, которое помогает точнее разбирать хозяйство и управление ранних государств.",
+    "importance": "Низкоранговая архивная карточка добавляет конкретную деталь к сравнительной кампании.",
+    "facts": [
+      "Мера зерна связано с практической организацией ресурсов и труда.",
+      "Конкретная форма различалась между Египтом и Месопотамией.",
+      "Термин полезен при чтении хозяйственных и археологических источников."
+    ],
+    "tags": [
+      "архив",
+      "сравнение",
+      "хозяйство"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 3,
+      "legacy": 1,
+      "military": 2,
+      "culture": 3,
+      "politics": 1,
+      "religion": 2,
+      "economy": 3,
+      "connections": 1
+    },
+    "image": {
+      "local": "assets/cards/comparison/term_cmpa_009.svg",
+      "caption": "Учебная обложка: Мера зерна",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_cmpa_009.svg"
+    },
+    "source": {
+      "title": "Мера зерна — обзор темы",
+      "url": "https://ru.wikipedia.org/wiki/Месопотамия",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "COMPARISON",
+    "pool": "CMP_POOL_03"
+  },
+  {
+    "id": "TERM_CMPA_010",
+    "type": "TERM",
+    "title": "Погребальная экономика",
+    "original": "Погребальная экономика",
+    "subtitle": "ресурсы для культа умершего",
+    "era": "ERA_DAWN",
+    "region": "Египет и Месопотамия",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 3,
+    "summary": "Погребальная экономика — локальное понятие, которое помогает точнее разбирать хозяйство и управление ранних государств.",
+    "importance": "Низкоранговая архивная карточка добавляет конкретную деталь к сравнительной кампании.",
+    "facts": [
+      "Погребальная экономика связано с практической организацией ресурсов и труда.",
+      "Конкретная форма различалась между Египтом и Месопотамией.",
+      "Термин полезен при чтении хозяйственных и археологических источников."
+    ],
+    "tags": [
+      "архив",
+      "сравнение",
+      "хозяйство"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 1,
+      "legacy": 2,
+      "military": 3,
+      "culture": 1,
+      "politics": 2,
+      "religion": 3,
+      "economy": 1,
+      "connections": 2
+    },
+    "image": {
+      "local": "assets/cards/comparison/term_cmpa_010.svg",
+      "caption": "Учебная обложка: Погребальная экономика",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_cmpa_010.svg"
+    },
+    "source": {
+      "title": "Погребальная экономика — обзор темы",
+      "url": "https://ru.wikipedia.org/wiki/Месопотамия",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "COMPARISON",
+    "pool": "CMP_POOL_04"
+  },
+  {
+    "id": "TERM_CMPA_011",
+    "type": "TERM",
+    "title": "Храмовый участок",
+    "original": "Храмовый участок",
+    "subtitle": "земля учреждения",
+    "era": "ERA_DAWN",
+    "region": "Египет и Месопотамия",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 4,
+    "summary": "Храмовый участок — локальное понятие, которое помогает точнее разбирать хозяйство и управление ранних государств.",
+    "importance": "Низкоранговая архивная карточка добавляет конкретную деталь к сравнительной кампании.",
+    "facts": [
+      "Храмовый участок связано с практической организацией ресурсов и труда.",
+      "Конкретная форма различалась между Египтом и Месопотамией.",
+      "Термин полезен при чтении хозяйственных и археологических источников."
+    ],
+    "tags": [
+      "архив",
+      "сравнение",
+      "хозяйство"
+    ],
+    "stats": {
+      "influence": 1,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 1,
+      "culture": 2,
+      "politics": 3,
+      "religion": 1,
+      "economy": 2,
+      "connections": 3
+    },
+    "image": {
+      "local": "assets/cards/comparison/term_cmpa_011.svg",
+      "caption": "Учебная обложка: Храмовый участок",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_cmpa_011.svg"
+    },
+    "source": {
+      "title": "Храмовый участок — обзор темы",
+      "url": "https://ru.wikipedia.org/wiki/Месопотамия",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "COMPARISON",
+    "pool": "CMP_POOL_04"
+  },
+  {
+    "id": "TERM_CMPA_012",
+    "type": "TERM",
+    "title": "Царский домен",
+    "original": "Царский домен",
+    "subtitle": "ресурсы двора",
+    "era": "ERA_DAWN",
+    "region": "Египет и Месопотамия",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 5,
+    "summary": "Царский домен — локальное понятие, которое помогает точнее разбирать хозяйство и управление ранних государств.",
+    "importance": "Низкоранговая архивная карточка добавляет конкретную деталь к сравнительной кампании.",
+    "facts": [
+      "Царский домен связано с практической организацией ресурсов и труда.",
+      "Конкретная форма различалась между Египтом и Месопотамией.",
+      "Термин полезен при чтении хозяйственных и археологических источников."
+    ],
+    "tags": [
+      "архив",
+      "сравнение",
+      "хозяйство"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 3,
+      "legacy": 1,
+      "military": 2,
+      "culture": 3,
+      "politics": 1,
+      "religion": 2,
+      "economy": 3,
+      "connections": 1
+    },
+    "image": {
+      "local": "assets/cards/comparison/term_cmpa_012.svg",
+      "caption": "Учебная обложка: Царский домен",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_cmpa_012.svg"
+    },
+    "source": {
+      "title": "Царский домен — обзор темы",
+      "url": "https://ru.wikipedia.org/wiki/Месопотамия",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "COMPARISON",
+    "pool": "CMP_POOL_04"
+  },
+  {
+    "id": "TERM_CMPA_013",
+    "type": "TERM",
+    "title": "Местный чиновник",
+    "original": "Местный чиновник",
+    "subtitle": "посредник между центром и областью",
+    "era": "ERA_DAWN",
+    "region": "Египет и Месопотамия",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Местный чиновник — локальное понятие, которое помогает точнее разбирать хозяйство и управление ранних государств.",
+    "importance": "Низкоранговая архивная карточка добавляет конкретную деталь к сравнительной кампании.",
+    "facts": [
+      "Местный чиновник связано с практической организацией ресурсов и труда.",
+      "Конкретная форма различалась между Египтом и Месопотамией.",
+      "Термин полезен при чтении хозяйственных и археологических источников."
+    ],
+    "tags": [
+      "архив",
+      "сравнение",
+      "хозяйство"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 1,
+      "legacy": 2,
+      "military": 3,
+      "culture": 1,
+      "politics": 2,
+      "religion": 3,
+      "economy": 1,
+      "connections": 2
+    },
+    "image": {
+      "local": "assets/cards/comparison/term_cmpa_013.svg",
+      "caption": "Учебная обложка: Местный чиновник",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_cmpa_013.svg"
+    },
+    "source": {
+      "title": "Местный чиновник — обзор темы",
+      "url": "https://ru.wikipedia.org/wiki/Месопотамия",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "COMPARISON",
+    "pool": "CMP_POOL_05"
+  },
+  {
+    "id": "TERM_CMPA_014",
+    "type": "TERM",
+    "title": "Ритуальная процессия",
+    "original": "Ритуальная процессия",
+    "subtitle": "публичное действие власти",
+    "era": "ERA_DAWN",
+    "region": "Египет и Месопотамия",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Ритуальная процессия — локальное понятие, которое помогает точнее разбирать хозяйство и управление ранних государств.",
+    "importance": "Низкоранговая архивная карточка добавляет конкретную деталь к сравнительной кампании.",
+    "facts": [
+      "Ритуальная процессия связано с практической организацией ресурсов и труда.",
+      "Конкретная форма различалась между Египтом и Месопотамией.",
+      "Термин полезен при чтении хозяйственных и археологических источников."
+    ],
+    "tags": [
+      "архив",
+      "сравнение",
+      "хозяйство"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 2,
+      "culture": 3,
+      "politics": 4,
+      "religion": 2,
+      "economy": 3,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/comparison/term_cmpa_014.svg",
+      "caption": "Учебная обложка: Ритуальная процессия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_cmpa_014.svg"
+    },
+    "source": {
+      "title": "Ритуальная процессия — обзор темы",
+      "url": "https://ru.wikipedia.org/wiki/Месопотамия",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "COMPARISON",
+    "pool": "CMP_POOL_05"
+  },
+  {
+    "id": "TERM_CMPA_015",
+    "type": "TERM",
+    "title": "Царская титулатура",
+    "original": "Царская титулатура",
+    "subtitle": "официальные имена и роли правителя",
+    "era": "ERA_DAWN",
+    "region": "Египет и Месопотамия",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 4,
+    "summary": "Царская титулатура — локальное понятие, которое помогает точнее разбирать хозяйство и управление ранних государств.",
+    "importance": "Низкоранговая архивная карточка добавляет конкретную деталь к сравнительной кампании.",
+    "facts": [
+      "Царская титулатура связано с практической организацией ресурсов и труда.",
+      "Конкретная форма различалась между Египтом и Месопотамией.",
+      "Термин полезен при чтении хозяйственных и археологических источников."
+    ],
+    "tags": [
+      "архив",
+      "сравнение",
+      "хозяйство"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 4,
+      "legacy": 2,
+      "military": 3,
+      "culture": 4,
+      "politics": 2,
+      "religion": 3,
+      "economy": 4,
+      "connections": 2
+    },
+    "image": {
+      "local": "assets/cards/comparison/term_cmpa_015.svg",
+      "caption": "Учебная обложка: Царская титулатура",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_cmpa_015.svg"
+    },
+    "source": {
+      "title": "Царская титулатура — обзор темы",
+      "url": "https://ru.wikipedia.org/wiki/Месопотамия",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "COMPARISON",
+    "pool": "CMP_POOL_05"
+  },
+  {
+    "id": "TERM_CMPA_016",
+    "type": "TERM",
+    "title": "Хозяйственный документ",
+    "original": "Хозяйственный документ",
+    "subtitle": "запись поставки или выдачи",
+    "era": "ERA_DAWN",
+    "region": "Египет и Месопотамия",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 5,
+    "summary": "Хозяйственный документ — локальное понятие, которое помогает точнее разбирать хозяйство и управление ранних государств.",
+    "importance": "Низкоранговая архивная карточка добавляет конкретную деталь к сравнительной кампании.",
+    "facts": [
+      "Хозяйственный документ связано с практической организацией ресурсов и труда.",
+      "Конкретная форма различалась между Египтом и Месопотамией.",
+      "Термин полезен при чтении хозяйственных и археологических источников."
+    ],
+    "tags": [
+      "архив",
+      "сравнение",
+      "хозяйство"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 4,
+      "culture": 2,
+      "politics": 3,
+      "religion": 4,
+      "economy": 2,
+      "connections": 3
+    },
+    "image": {
+      "local": "assets/cards/comparison/term_cmpa_016.svg",
+      "caption": "Учебная обложка: Хозяйственный документ",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_cmpa_016.svg"
+    },
+    "source": {
+      "title": "Хозяйственный документ — обзор темы",
+      "url": "https://ru.wikipedia.org/wiki/Месопотамия",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "COMPARISON",
+    "pool": "CMP_POOL_06"
+  },
+  {
+    "id": "TERM_CMPA_017",
+    "type": "TERM",
+    "title": "Церемониальный источник",
+    "original": "Церемониальный источник",
+    "subtitle": "образ, созданный для ритуала",
+    "era": "ERA_DAWN",
+    "region": "Египет и Месопотамия",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "summary": "Церемониальный источник — локальное понятие, которое помогает точнее разбирать хозяйство и управление ранних государств.",
+    "importance": "Низкоранговая архивная карточка добавляет конкретную деталь к сравнительной кампании.",
+    "facts": [
+      "Церемониальный источник связано с практической организацией ресурсов и труда.",
+      "Конкретная форма различалась между Египтом и Месопотамией.",
+      "Термин полезен при чтении хозяйственных и археологических источников."
+    ],
+    "tags": [
+      "архив",
+      "сравнение",
+      "хозяйство"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 2,
+      "culture": 3,
+      "politics": 4,
+      "religion": 2,
+      "economy": 3,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/comparison/term_cmpa_017.svg",
+      "caption": "Учебная обложка: Церемониальный источник",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_cmpa_017.svg"
+    },
+    "source": {
+      "title": "Церемониальный источник — обзор темы",
+      "url": "https://ru.wikipedia.org/wiki/Месопотамия",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "COMPARISON",
+    "pool": "CMP_POOL_06"
+  },
+  {
+    "id": "TERM_CMPA_018",
+    "type": "TERM",
+    "title": "Параллельная хронология",
+    "original": "Параллельная хронология",
+    "subtitle": "сопоставление одновременных процессов",
+    "era": "ERA_DAWN",
+    "region": "Египет и Месопотамия",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Параллельная хронология — локальное понятие, которое помогает точнее разбирать хозяйство и управление ранних государств.",
+    "importance": "Низкоранговая архивная карточка добавляет конкретную деталь к сравнительной кампании.",
+    "facts": [
+      "Параллельная хронология связано с практической организацией ресурсов и труда.",
+      "Конкретная форма различалась между Египтом и Месопотамией.",
+      "Термин полезен при чтении хозяйственных и археологических источников."
+    ],
+    "tags": [
+      "архив",
+      "сравнение",
+      "хозяйство"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 4,
+      "legacy": 2,
+      "military": 3,
+      "culture": 4,
+      "politics": 2,
+      "religion": 3,
+      "economy": 4,
+      "connections": 2
+    },
+    "image": {
+      "local": "assets/cards/comparison/term_cmpa_018.svg",
+      "caption": "Учебная обложка: Параллельная хронология",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_cmpa_018.svg"
+    },
+    "source": {
+      "title": "Параллельная хронология — обзор темы",
+      "url": "https://ru.wikipedia.org/wiki/Месопотамия",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "COMPARISON",
+    "pool": "CMP_POOL_06"
+  }
+]

@@ -4067,5 +4067,333 @@
     "type": "ЗАВЕРШАЕТ",
     "description": "Связь внутри египетской кампании.",
     "strength": 9
+  },
+  {
+    "id": "REL_CMP_001",
+    "source": "SYS_CMP_001",
+    "target": "REG_CMP_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CMP_002",
+    "source": "REG_CMP_001",
+    "target": "SYS_CMP_002",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 6
+  },
+  {
+    "id": "REL_CMP_003",
+    "source": "SYS_CMP_002",
+    "target": "SYS_CMP_003",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 7
+  },
+  {
+    "id": "REL_CMP_004",
+    "source": "SYS_CMP_003",
+    "target": "IDEA_CMP_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 8
+  },
+  {
+    "id": "REL_CMP_005",
+    "source": "IDEA_CMP_001",
+    "target": "SYS_CMP_004",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CMP_006",
+    "source": "SYS_CMP_004",
+    "target": "SYS_CMP_005",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 6
+  },
+  {
+    "id": "REL_CMP_007",
+    "source": "SYS_CMP_005",
+    "target": "TEXT_CMP_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 7
+  },
+  {
+    "id": "REL_CMP_008",
+    "source": "TEXT_CMP_001",
+    "target": "PER_CMP_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 8
+  },
+  {
+    "id": "REL_CMP_009",
+    "source": "PER_CMP_001",
+    "target": "SYS_CMP_006",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CMP_010",
+    "source": "SYS_CMP_006",
+    "target": "BUILD_CMP_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 6
+  },
+  {
+    "id": "REL_CMP_011",
+    "source": "BUILD_CMP_001",
+    "target": "SYS_CMP_007",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 7
+  },
+  {
+    "id": "REL_CMP_012",
+    "source": "SYS_CMP_007",
+    "target": "SYS_CMP_008",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 8
+  },
+  {
+    "id": "REL_CMP_013",
+    "source": "SYS_CMP_008",
+    "target": "SYS_CMP_009",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CMP_014",
+    "source": "SYS_CMP_009",
+    "target": "SYS_CMP_010",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 6
+  },
+  {
+    "id": "REL_CMP_015",
+    "source": "SYS_CMP_010",
+    "target": "TERM_CMP_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 7
+  },
+  {
+    "id": "REL_CMP_016",
+    "source": "TERM_CMP_001",
+    "target": "TERM_CMP_002",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 8
+  },
+  {
+    "id": "REL_CMP_017",
+    "source": "TERM_CMP_002",
+    "target": "TERM_CMP_003",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CMP_018",
+    "source": "TERM_CMP_003",
+    "target": "TERM_CMPA_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 6
+  },
+  {
+    "id": "REL_CMP_019",
+    "source": "TERM_CMPA_001",
+    "target": "TERM_CMPA_002",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 7
+  },
+  {
+    "id": "REL_CMP_020",
+    "source": "TERM_CMPA_002",
+    "target": "TERM_CMPA_003",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 8
+  },
+  {
+    "id": "REL_CMP_021",
+    "source": "TERM_CMPA_003",
+    "target": "TERM_CMPA_004",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CMP_022",
+    "source": "TERM_CMPA_004",
+    "target": "TERM_CMPA_005",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 6
+  },
+  {
+    "id": "REL_CMP_023",
+    "source": "TERM_CMPA_005",
+    "target": "TERM_CMPA_006",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 7
+  },
+  {
+    "id": "REL_CMP_024",
+    "source": "TERM_CMPA_006",
+    "target": "TERM_CMPA_007",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 8
+  },
+  {
+    "id": "REL_CMP_025",
+    "source": "TERM_CMPA_007",
+    "target": "TERM_CMPA_008",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CMP_026",
+    "source": "TERM_CMPA_008",
+    "target": "TERM_CMPA_009",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 6
+  },
+  {
+    "id": "REL_CMP_027",
+    "source": "TERM_CMPA_009",
+    "target": "TERM_CMPA_010",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 7
+  },
+  {
+    "id": "REL_CMP_028",
+    "source": "TERM_CMPA_010",
+    "target": "TERM_CMPA_011",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 8
+  },
+  {
+    "id": "REL_CMP_029",
+    "source": "TERM_CMPA_011",
+    "target": "TERM_CMPA_012",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CMP_030",
+    "source": "TERM_CMPA_012",
+    "target": "TERM_CMPA_013",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 6
+  },
+  {
+    "id": "REL_CMP_031",
+    "source": "TERM_CMPA_013",
+    "target": "TERM_CMPA_014",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 7
+  },
+  {
+    "id": "REL_CMP_032",
+    "source": "TERM_CMPA_014",
+    "target": "TERM_CMPA_015",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 8
+  },
+  {
+    "id": "REL_CMP_033",
+    "source": "TERM_CMPA_015",
+    "target": "TERM_CMPA_016",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CMP_034",
+    "source": "TERM_CMPA_016",
+    "target": "TERM_CMPA_017",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 6
+  },
+  {
+    "id": "REL_CMP_035",
+    "source": "TERM_CMPA_017",
+    "target": "TERM_CMPA_018",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 7
+  },
+  {
+    "id": "REL_CMP_036",
+    "source": "TERM_CMPA_018",
+    "target": "SYS_CMP_001",
+    "type": "СВЯЗАНО_С",
+    "description": "Сравнительная связь внутри кампании первых цивилизаций.",
+    "strength": 8
+  },
+  {
+    "id": "REL_CMP_EXT_563",
+    "source": "REG_CMP_001",
+    "target": "RIV_EGY_001",
+    "type": "СРАВНЕНИЕ",
+    "description": "Сравнение включает Нил.",
+    "strength": 8
+  },
+  {
+    "id": "REL_CMP_EXT_564",
+    "source": "REG_CMP_001",
+    "target": "REG_MES_003",
+    "type": "СРАВНЕНИЕ",
+    "description": "Сравнение включает Евфрат.",
+    "strength": 8
+  },
+  {
+    "id": "REL_CMP_EXT_565",
+    "source": "TEXT_CMP_001",
+    "target": "TERM_MES_014",
+    "type": "СРАВНЕНИЕ",
+    "description": "Клинопись входит в сравнение письменности.",
+    "strength": 8
+  },
+  {
+    "id": "REL_CMP_EXT_566",
+    "source": "SYS_CMP_003",
+    "target": "PER_EGY_004",
+    "type": "СРАВНЕНИЕ",
+    "description": "Нармер связан с ранней территориальной монархией.",
+    "strength": 8
+  },
+  {
+    "id": "REL_CMP_EXT_567",
+    "source": "SYS_CMP_002",
+    "target": "CITY_MES_003",
+    "type": "СРАВНЕНИЕ",
+    "description": "Урук представляет городское государство.",
+    "strength": 8
   }
 ]

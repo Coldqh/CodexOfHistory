@@ -5131,5 +5131,773 @@
     "type": "ТОРГОВЛЯ",
     "description": "Индские печати найдены в Уре и других западных центрах.",
     "strength": 8
+  },
+  {
+    "id": "REL_CHN_001",
+    "source": "STATE_CHN_001",
+    "target": "RIV_CHN_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_002",
+    "source": "RIV_CHN_001",
+    "target": "RIV_CHN_002",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_003",
+    "source": "RIV_CHN_002",
+    "target": "REG_CHN_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_004",
+    "source": "REG_CHN_001",
+    "target": "CULT_CHN_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_005",
+    "source": "CULT_CHN_001",
+    "target": "CULT_CHN_002",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_006",
+    "source": "CULT_CHN_002",
+    "target": "CULT_CHN_003",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_007",
+    "source": "CULT_CHN_003",
+    "target": "CULT_CHN_004",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_008",
+    "source": "CULT_CHN_004",
+    "target": "SITE_CHN_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_009",
+    "source": "SITE_CHN_001",
+    "target": "SITE_CHN_002",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_010",
+    "source": "SITE_CHN_002",
+    "target": "TERM_CHN_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_011",
+    "source": "TERM_CHN_001",
+    "target": "TERM_CHN_002",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_012",
+    "source": "TERM_CHN_002",
+    "target": "CULT_CHN_005",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_013",
+    "source": "CULT_CHN_005",
+    "target": "SITE_CHN_003",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_014",
+    "source": "SITE_CHN_003",
+    "target": "TERM_CHN_003",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_015",
+    "source": "TERM_CHN_003",
+    "target": "BUILD_CHN_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_016",
+    "source": "BUILD_CHN_001",
+    "target": "ART_CHN_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_017",
+    "source": "ART_CHN_001",
+    "target": "ART_CHN_002",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_018",
+    "source": "ART_CHN_002",
+    "target": "STATE_CHN_002",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_019",
+    "source": "STATE_CHN_002",
+    "target": "CULT_CHN_006",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_020",
+    "source": "CULT_CHN_006",
+    "target": "CITY_CHN_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_021",
+    "source": "CITY_CHN_001",
+    "target": "PER_CHN_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_022",
+    "source": "PER_CHN_001",
+    "target": "EVENT_CHN_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_023",
+    "source": "EVENT_CHN_001",
+    "target": "TERM_CHN_004",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_024",
+    "source": "TERM_CHN_004",
+    "target": "SITE_CHN_004",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_025",
+    "source": "SITE_CHN_004",
+    "target": "PER_CHN_002",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_026",
+    "source": "PER_CHN_002",
+    "target": "PER_CHN_003",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_027",
+    "source": "PER_CHN_003",
+    "target": "PER_CHN_004",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_028",
+    "source": "PER_CHN_004",
+    "target": "TERM_CHN_005",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_029",
+    "source": "TERM_CHN_005",
+    "target": "TERM_CHN_006",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_030",
+    "source": "TERM_CHN_006",
+    "target": "ART_CHN_003",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_031",
+    "source": "ART_CHN_003",
+    "target": "TERM_CHN_007",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_032",
+    "source": "TERM_CHN_007",
+    "target": "ART_CHN_004",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_033",
+    "source": "ART_CHN_004",
+    "target": "ART_CHN_005",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_034",
+    "source": "ART_CHN_005",
+    "target": "TERM_CHN_008",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_035",
+    "source": "TERM_CHN_008",
+    "target": "FACTION_CHN_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_036",
+    "source": "FACTION_CHN_001",
+    "target": "TEXT_CHN_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_037",
+    "source": "TEXT_CHN_001",
+    "target": "TERM_CHN_009",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_038",
+    "source": "TERM_CHN_009",
+    "target": "REL_CHN_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_039",
+    "source": "REL_CHN_001",
+    "target": "TERM_CHN_010",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_040",
+    "source": "TERM_CHN_010",
+    "target": "TERM_CHN_011",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_041",
+    "source": "TERM_CHN_011",
+    "target": "REL_CHN_002",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_042",
+    "source": "REL_CHN_002",
+    "target": "PER_CHN_005",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_043",
+    "source": "PER_CHN_005",
+    "target": "EVENT_CHN_002",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_044",
+    "source": "EVENT_CHN_002",
+    "target": "PER_CHN_006",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_045",
+    "source": "PER_CHN_006",
+    "target": "EVENT_CHN_003",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_046",
+    "source": "EVENT_CHN_003",
+    "target": "TERM_CHN_012",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_047",
+    "source": "TERM_CHN_012",
+    "target": "STATE_CHN_003",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_048",
+    "source": "STATE_CHN_003",
+    "target": "TERM_CHNA_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_049",
+    "source": "TERM_CHNA_001",
+    "target": "TERM_CHNA_002",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_050",
+    "source": "TERM_CHNA_002",
+    "target": "ART_CHNA_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_051",
+    "source": "ART_CHNA_001",
+    "target": "ART_CHNA_002",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_052",
+    "source": "ART_CHNA_002",
+    "target": "REG_CHNA_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_053",
+    "source": "REG_CHNA_001",
+    "target": "TERM_CHNA_003",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_054",
+    "source": "TERM_CHNA_003",
+    "target": "TERM_CHNA_004",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_055",
+    "source": "TERM_CHNA_004",
+    "target": "ART_CHNA_003",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_056",
+    "source": "ART_CHNA_003",
+    "target": "ART_CHNA_004",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_057",
+    "source": "ART_CHNA_004",
+    "target": "TERM_CHNA_005",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_058",
+    "source": "TERM_CHNA_005",
+    "target": "BUILD_CHNA_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_059",
+    "source": "BUILD_CHNA_001",
+    "target": "ART_CHNA_005",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_060",
+    "source": "ART_CHNA_005",
+    "target": "REG_CHNA_002",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_061",
+    "source": "REG_CHNA_002",
+    "target": "CITY_CHNA_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_062",
+    "source": "CITY_CHNA_001",
+    "target": "ROAD_CHNA_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_063",
+    "source": "ROAD_CHNA_001",
+    "target": "TERM_CHNA_006",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_064",
+    "source": "TERM_CHNA_006",
+    "target": "ART_CHNA_006",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_065",
+    "source": "ART_CHNA_006",
+    "target": "TERM_CHNA_007",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_066",
+    "source": "TERM_CHNA_007",
+    "target": "CITY_CHNA_002",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_067",
+    "source": "CITY_CHNA_002",
+    "target": "CITY_CHNA_003",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_068",
+    "source": "CITY_CHNA_003",
+    "target": "FACTION_CHNA_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_069",
+    "source": "FACTION_CHNA_001",
+    "target": "SYSTEM_CHNA_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_070",
+    "source": "SYSTEM_CHNA_001",
+    "target": "SYSTEM_CHNA_002",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_071",
+    "source": "SYSTEM_CHNA_002",
+    "target": "BUILD_CHNA_002",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_072",
+    "source": "BUILD_CHNA_002",
+    "target": "BUILD_CHNA_003",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_073",
+    "source": "BUILD_CHNA_003",
+    "target": "SITE_CHNA_004",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_074",
+    "source": "SITE_CHNA_004",
+    "target": "SITE_CHNA_005",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_075",
+    "source": "SITE_CHNA_005",
+    "target": "SYSTEM_CHNA_003",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_076",
+    "source": "SYSTEM_CHNA_003",
+    "target": "RIV_CHNA_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_077",
+    "source": "RIV_CHNA_001",
+    "target": "TERM_CHNA_008",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_078",
+    "source": "TERM_CHNA_008",
+    "target": "ART_CHNA_007",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_079",
+    "source": "ART_CHNA_007",
+    "target": "ART_CHNA_008",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_080",
+    "source": "ART_CHNA_008",
+    "target": "SYSTEM_CHNA_004",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_081",
+    "source": "SYSTEM_CHNA_004",
+    "target": "ART_CHNA_009",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_082",
+    "source": "ART_CHNA_009",
+    "target": "ART_CHNA_010",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_083",
+    "source": "ART_CHNA_010",
+    "target": "TERM_CHNA_009",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_084",
+    "source": "TERM_CHNA_009",
+    "target": "TERM_CHNA_010",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_085",
+    "source": "TERM_CHNA_010",
+    "target": "OFF_CHNA_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_086",
+    "source": "OFF_CHNA_001",
+    "target": "TERM_CHNA_011",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_087",
+    "source": "TERM_CHNA_011",
+    "target": "ART_CHNA_011",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_088",
+    "source": "ART_CHNA_011",
+    "target": "ART_CHNA_012",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_089",
+    "source": "ART_CHNA_012",
+    "target": "TERM_CHNA_012",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_090",
+    "source": "TERM_CHNA_012",
+    "target": "PER_CHNA_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_091",
+    "source": "PER_CHNA_001",
+    "target": "FACTION_CHNA_002",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_092",
+    "source": "FACTION_CHNA_002",
+    "target": "TERM_CHNA_013",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_093",
+    "source": "TERM_CHNA_013",
+    "target": "STATE_CHNA_001",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_094",
+    "source": "STATE_CHNA_001",
+    "target": "ART_CHNA_013",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_095",
+    "source": "ART_CHNA_013",
+    "target": "TERM_CHNA_014",
+    "type": "СВЯЗАНО",
+    "description": "Карточки входят в последовательное изучение раннего Китая.",
+    "strength": 5
+  },
+  {
+    "id": "REL_CHN_X_755",
+    "source": "STATE_CHN_002",
+    "target": "STATE_IND_001",
+    "type": "ПАРАЛЛЕЛЬ",
+    "description": "Шан и Индская цивилизация относятся к разным региональным моделям бронзового века.",
+    "strength": 7
   }
 ]

@@ -1,0 +1,607 @@
+{
+  "campaignId": "CHINA_EARLY",
+  "campaigns": {
+    "CHINA": {
+      "id": "CHINA",
+      "title": "Ранний Китай",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "CHN_POOL_01",
+      "campaign": "CHINA",
+      "title": "Реки и региональные культуры",
+      "unlockMission": "CHN_01_02",
+      "cardIds": [
+        "TERM_CHNA_001",
+        "TERM_CHNA_002",
+        "ART_CHNA_001",
+        "ART_CHNA_002",
+        "REG_CHNA_001",
+        "TERM_CHNA_003"
+      ]
+    },
+    {
+      "id": "CHN_POOL_02",
+      "campaign": "CHINA",
+      "title": "Первые укреплённые центры",
+      "unlockMission": "CHN_02_02",
+      "cardIds": [
+        "TERM_CHNA_004",
+        "ART_CHNA_003",
+        "ART_CHNA_004",
+        "TERM_CHNA_005",
+        "BUILD_CHNA_001",
+        "ART_CHNA_005"
+      ]
+    },
+    {
+      "id": "CHN_POOL_03",
+      "campaign": "CHINA",
+      "title": "Эрлитоу и вопрос Ся",
+      "unlockMission": "CHN_03_02",
+      "cardIds": [
+        "REG_CHNA_002",
+        "CITY_CHNA_001",
+        "ROAD_CHNA_001",
+        "TERM_CHNA_006",
+        "ART_CHNA_006",
+        "TERM_CHNA_007"
+      ]
+    },
+    {
+      "id": "CHN_POOL_04",
+      "campaign": "CHINA",
+      "title": "Возникновение Шан",
+      "unlockMission": "CHN_04_02",
+      "cardIds": [
+        "CITY_CHNA_002",
+        "CITY_CHNA_003",
+        "FACTION_CHNA_001",
+        "SYSTEM_CHNA_001",
+        "SYSTEM_CHNA_002",
+        "BUILD_CHNA_002"
+      ]
+    },
+    {
+      "id": "CHN_POOL_05",
+      "campaign": "CHINA",
+      "title": "Столицы и царский двор",
+      "unlockMission": "CHN_05_02",
+      "cardIds": [
+        "BUILD_CHNA_003",
+        "SITE_CHNA_004",
+        "SITE_CHNA_005",
+        "SYSTEM_CHNA_003",
+        "RIV_CHNA_001",
+        "TERM_CHNA_008"
+      ]
+    },
+    {
+      "id": "CHN_POOL_06",
+      "campaign": "CHINA",
+      "title": "Бронза, война и ритуал",
+      "unlockMission": "CHN_06_02",
+      "cardIds": [
+        "ART_CHNA_007",
+        "ART_CHNA_008",
+        "SYSTEM_CHNA_004",
+        "ART_CHNA_009",
+        "ART_CHNA_010",
+        "TERM_CHNA_009"
+      ]
+    },
+    {
+      "id": "CHN_POOL_07",
+      "campaign": "CHINA",
+      "title": "Гадательные кости и письменность",
+      "unlockMission": "CHN_07_02",
+      "cardIds": [
+        "TERM_CHNA_010",
+        "OFF_CHNA_001",
+        "TERM_CHNA_011",
+        "ART_CHNA_011",
+        "ART_CHNA_012",
+        "TERM_CHNA_012"
+      ]
+    },
+    {
+      "id": "CHN_POOL_08",
+      "campaign": "CHINA",
+      "title": "Падение Шан и приход Чжоу",
+      "unlockMission": "CHN_08_02",
+      "cardIds": [
+        "PER_CHNA_001",
+        "FACTION_CHNA_002",
+        "TERM_CHNA_013",
+        "STATE_CHNA_001",
+        "ART_CHNA_013",
+        "TERM_CHNA_014"
+      ]
+    }
+  ],
+  "acquisition": {
+    "TERM_CHNA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_01"
+    },
+    "TERM_CHNA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_01"
+    },
+    "ART_CHNA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_01"
+    },
+    "ART_CHNA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_01"
+    },
+    "REG_CHNA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_01"
+    },
+    "TERM_CHNA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_01"
+    },
+    "STATE_CHN_001": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_01"
+    },
+    "RIV_CHN_001": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_01"
+    },
+    "RIV_CHN_002": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_01"
+    },
+    "REG_CHN_001": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_01"
+    },
+    "CULT_CHN_001": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_01"
+    },
+    "CULT_CHN_002": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_01"
+    },
+    "TERM_CHNA_004": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_02"
+    },
+    "ART_CHNA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_02"
+    },
+    "ART_CHNA_004": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_02"
+    },
+    "TERM_CHNA_005": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_02"
+    },
+    "BUILD_CHNA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_02"
+    },
+    "ART_CHNA_005": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_02"
+    },
+    "CULT_CHN_003": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_02"
+    },
+    "CULT_CHN_004": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_02"
+    },
+    "SITE_CHN_001": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_02"
+    },
+    "SITE_CHN_002": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_02"
+    },
+    "TERM_CHN_001": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_02"
+    },
+    "TERM_CHN_002": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_02"
+    },
+    "REG_CHNA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_03"
+    },
+    "CITY_CHNA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_03"
+    },
+    "ROAD_CHNA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_03"
+    },
+    "TERM_CHNA_006": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_03"
+    },
+    "ART_CHNA_006": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_03"
+    },
+    "TERM_CHNA_007": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_03"
+    },
+    "CULT_CHN_005": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_03"
+    },
+    "SITE_CHN_003": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_03"
+    },
+    "TERM_CHN_003": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_03"
+    },
+    "BUILD_CHN_001": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_03"
+    },
+    "ART_CHN_001": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_03"
+    },
+    "ART_CHN_002": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_03"
+    },
+    "CITY_CHNA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_04"
+    },
+    "CITY_CHNA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_04"
+    },
+    "FACTION_CHNA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_04"
+    },
+    "SYSTEM_CHNA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_04"
+    },
+    "SYSTEM_CHNA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_04"
+    },
+    "BUILD_CHNA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_04"
+    },
+    "STATE_CHN_002": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_04"
+    },
+    "CULT_CHN_006": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_04"
+    },
+    "CITY_CHN_001": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_04"
+    },
+    "PER_CHN_001": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_04"
+    },
+    "EVENT_CHN_001": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_04"
+    },
+    "TERM_CHN_004": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_04"
+    },
+    "BUILD_CHNA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_05"
+    },
+    "SITE_CHNA_004": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_05"
+    },
+    "SITE_CHNA_005": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_05"
+    },
+    "SYSTEM_CHNA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_05"
+    },
+    "RIV_CHNA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_05"
+    },
+    "TERM_CHNA_008": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_05"
+    },
+    "SITE_CHN_004": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_05"
+    },
+    "PER_CHN_002": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_05"
+    },
+    "PER_CHN_003": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_05"
+    },
+    "PER_CHN_004": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_05"
+    },
+    "TERM_CHN_005": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_05"
+    },
+    "TERM_CHN_006": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_05"
+    },
+    "ART_CHNA_007": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_06"
+    },
+    "ART_CHNA_008": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_06"
+    },
+    "SYSTEM_CHNA_004": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_06"
+    },
+    "ART_CHNA_009": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_06"
+    },
+    "ART_CHNA_010": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_06"
+    },
+    "TERM_CHNA_009": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_06"
+    },
+    "ART_CHN_003": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_06"
+    },
+    "TERM_CHN_007": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_06"
+    },
+    "ART_CHN_004": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_06"
+    },
+    "ART_CHN_005": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_06"
+    },
+    "TERM_CHN_008": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_06"
+    },
+    "FACTION_CHN_001": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_06"
+    },
+    "TERM_CHNA_010": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_07"
+    },
+    "OFF_CHNA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_07"
+    },
+    "TERM_CHNA_011": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_07"
+    },
+    "ART_CHNA_011": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_07"
+    },
+    "ART_CHNA_012": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_07"
+    },
+    "TERM_CHNA_012": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_07"
+    },
+    "TEXT_CHN_001": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_07"
+    },
+    "TERM_CHN_009": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_07"
+    },
+    "REL_CHN_001": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_07"
+    },
+    "TERM_CHN_010": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_07"
+    },
+    "TERM_CHN_011": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_07"
+    },
+    "REL_CHN_002": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_07"
+    },
+    "PER_CHNA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_08"
+    },
+    "FACTION_CHNA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_08"
+    },
+    "TERM_CHNA_013": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_08"
+    },
+    "STATE_CHNA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_08"
+    },
+    "ART_CHNA_013": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_08"
+    },
+    "TERM_CHNA_014": {
+      "kind": "ARCHIVE",
+      "campaign": "CHINA",
+      "pool": "CHN_POOL_08"
+    },
+    "PER_CHN_005": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_08"
+    },
+    "EVENT_CHN_002": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_08"
+    },
+    "PER_CHN_006": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_08"
+    },
+    "EVENT_CHN_003": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_08"
+    },
+    "TERM_CHN_012": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_08"
+    },
+    "STATE_CHN_003": {
+      "kind": "STORY",
+      "campaign": "CHINA",
+      "chapter": "CHN_CHAPTER_08"
+    }
+  }
+}

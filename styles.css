@@ -1292,3 +1292,8 @@ body.onboarding-active{overflow-x:hidden}.onboarding-v26{position:relative;min-h
 .indus-home{background:radial-gradient(circle at 85% 20%,rgba(86,190,169,.22),transparent 34%),linear-gradient(135deg,rgba(20,64,63,.95),rgba(6,13,14,.98));}
 .indus-home-symbol{display:flex;align-items:center;justify-content:center;gap:18px;min-height:180px;font-size:74px;color:#7bd2bd}.indus-home-symbol i{width:70px;height:2px;background:linear-gradient(90deg,transparent,#7bd2bd,transparent)}
 [data-theme="parchment"] .indus-home{background:linear-gradient(135deg,#d9c9a7,#f1e8d6)}[data-theme="parchment"] .indus-home-symbol{color:#23635d}
+
+/* v2.9 China */
+.china-home{background:radial-gradient(circle at 84% 18%,rgba(219,160,87,.22),transparent 34%),linear-gradient(135deg,rgba(62,43,28,.97),rgba(6,7,7,.99));}
+.china-home-symbol{display:flex;align-items:center;justify-content:center;gap:18px;min-height:180px;font-size:82px;color:#e2b66f}.china-home-symbol i{width:70px;height:2px;background:linear-gradient(90deg,transparent,#e2b66f,transparent)}
+[data-theme="parchment"] .china-home{background:linear-gradient(135deg,#d9c4a1,#f2e6cf)}[data-theme="parchment"] .china-home-symbol{color:#6b4325}

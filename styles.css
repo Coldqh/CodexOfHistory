@@ -1405,7 +1405,7 @@ body.onboarding-active{overflow-x:hidden}.onboarding-v26{position:relative;min-h
   .panel,.history-card,.mission-node,.achievement-card,.side-card{box-shadow:0 10px 28px rgba(0,0,0,.28)!important}
 }
 
-/* v3.3.0 — Egypt: Middle and New Kingdom */
+/* v3.4.0 — Egypt: Middle and New Kingdom */
 .egypt-bronze-home{background:radial-gradient(circle at 78% 18%,rgba(202,159,91,.18),transparent 34%),linear-gradient(145deg,#0b0907,#19130d 56%,#090807)}
 .egypt-bronze-seal{min-width:230px;min-height:230px;border:1px solid rgba(213,177,111,.35);border-radius:50%;display:flex;flex-direction:column;align-items:center;justify-content:center;box-shadow:inset 0 0 60px rgba(192,145,75,.08)}
 .egypt-bronze-seal span{font-family:serif;font-size:92px;line-height:.9;color:#d5b16f}.egypt-bronze-seal b{font-family:Georgia,serif;font-size:24px;margin-top:18px}.egypt-bronze-seal small{color:var(--muted);letter-spacing:.18em;text-transform:uppercase}
@@ -1420,3 +1420,11 @@ body.onboarding-active{overflow-x:hidden}.onboarding-v26{position:relative;min-h
 .hittite-phases{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:14px 0 18px}.hittite-phases button{text-align:left;padding:14px 16px;border:1px solid var(--line);border-radius:14px;background:var(--panel);color:var(--text)}.hittite-phases button.active{border-color:#c78f4c;box-shadow:inset 0 0 0 1px rgba(199,143,76,.24)}.hittite-phases small,.hittite-phases b{display:block}.hittite-phases small{color:var(--muted);font-size:11px}.hittite-phases b{margin:5px 0 10px}.hittite-phases i{display:block;height:3px;background:rgba(255,255,255,.08);border-radius:3px;overflow:hidden}.hittite-phases i span{display:block;height:100%;background:#c78f4c}
 .hittite-exam header{background:linear-gradient(130deg,rgba(194,137,70,.14),transparent)}
 @media(max-width:760px){.hittite-seal{min-width:150px;min-height:150px}.hittite-seal span{font-size:58px}.hittite-phases{grid-template-columns:1fr}.hittite-phases button{padding:12px 14px}}
+
+/* v3.4 — Aegean Bronze Age campaign */
+.aegean-home{background:radial-gradient(circle at 80% 18%,rgba(75,154,184,.22),transparent 34%),linear-gradient(145deg,#061015,#12242d 56%,#080706)}
+.aegean-seal{min-width:230px;min-height:230px;border:1px solid rgba(212,165,95,.42);clip-path:polygon(18% 0,82% 0,100% 18%,100% 82%,82% 100%,18% 100%,0 82%,0 18%);display:flex;flex-direction:column;align-items:center;justify-content:center;box-shadow:inset 0 0 76px rgba(72,151,181,.13)}
+.aegean-seal span{font-family:Georgia,serif;font-size:82px;line-height:.9;color:#78b8cf}.aegean-seal b{font-family:Georgia,serif;font-size:24px;margin-top:18px}.aegean-seal small{color:var(--muted);letter-spacing:.18em;text-transform:uppercase}
+.aegean-phases{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:14px 0 18px}.aegean-phases button{text-align:left;padding:14px 16px;border:1px solid var(--line);border-radius:14px;background:var(--panel);color:var(--text)}.aegean-phases button.active{border-color:#70acc2;box-shadow:inset 0 0 0 1px rgba(112,172,194,.26)}.aegean-phases small,.aegean-phases b{display:block}.aegean-phases small{color:var(--muted);font-size:11px}.aegean-phases b{margin:5px 0 10px}.aegean-phases i{display:block;height:3px;background:rgba(255,255,255,.08);border-radius:3px;overflow:hidden}.aegean-phases i span{display:block;height:100%;background:linear-gradient(90deg,#70acc2,#d4a55f)}
+.aegean-exam header{background:linear-gradient(130deg,rgba(76,153,182,.15),rgba(212,165,95,.06),transparent)}
+@media(max-width:760px){.aegean-seal{min-width:150px;min-height:150px}.aegean-seal span{font-size:58px}.aegean-phases{grid-template-columns:1fr}.aegean-phases button{padding:12px 14px}}

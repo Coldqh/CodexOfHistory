@@ -4,7 +4,7 @@ import json, html
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]
-VERSION='3.3.0'
+VERSION='3.4.0'
 CHECKED='2026-07-13'
 SRC_MET={'title':'The Met: The Hittites','url':'https://www.metmuseum.org/essays/the-hittites','type':'museum'}
 SRC_UNESCO={'title':'UNESCO: Hattusha, the Hittite Capital','url':'https://whc.unesco.org/en/list/377/','type':'heritage'}

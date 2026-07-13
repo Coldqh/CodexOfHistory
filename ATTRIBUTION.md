@@ -229,3 +229,19 @@
 - Опорные материалы кампании: The Metropolitan Museum of Art, UNESCO World Heritage Centre и British Museum.
 - Основные ссылки: `https://www.metmuseum.org/essays/the-hittites`, `https://whc.unesco.org/en/list/377/`, `https://www.metmuseum.org/essays/ugarit`, `https://www.britishmuseum.org/collection/term/x13949`.
 - Исторические изображения подбираются семантически через Wikipedia PageImages и Wikimedia Commons; при сомнении остаётся локальная обложка.
+
+## v3.4 — Минойцы и микенцы
+
+Локальные SVG-обложки 120 карточек созданы специально для Codex of History и распространяются вместе с проектом как `Project asset`.
+
+Основные исторические источники кампании:
+
+- Metropolitan Museum of Art — *Southern Europe, 2000–1000 B.C.*
+- British Museum — *Greece: Minoans and Mycenaeans*.
+- British Museum — Linear B tablet from Knossos, museum no. 1910,0423.1.
+- UNESCO World Heritage Centre — *Minoan Palatial Centres*.
+- UNESCO World Heritage Centre — *Archaeological Sites of Mycenae and Tiryns*.
+- Ashmolean Museum — *Aegean World Gallery*.
+- UNESCO World Heritage Centre — *Archaeological Site of Troy*.
+
+Динамические исторические изображения продолжают подбираться через Wikimedia только для видимых карточек и хранятся до конца текущей сессии.

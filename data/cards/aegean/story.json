@@ -1,0 +1,4722 @@
+[
+  {
+    "id": "AEG_S_01_01",
+    "type": "REGION",
+    "title": "Эгейское море",
+    "original": "Aegean Sea",
+    "subtitle": "пространство островов и побережий между Балканами, Анатолией и Критом",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 5,
+    "summary": "Эгейское море — пространство островов и побережий между Балканами, Анатолией и Критом.",
+    "importance": "Карточка раскрывает главу «Эгейское море до дворцов» через конкретный регион и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: III–II тысячелетия до н. э..",
+      "Основной смысл: пространство островов и побережий между Балканами, Анатолией и Критом.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Эгейское море до дворцов",
+      "region"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 5,
+      "military": 5,
+      "culture": 7,
+      "politics": 6,
+      "religion": 6,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Эгейское море",
+      "lat": 37.4,
+      "lon": 25.2
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-01/aeg_s_01_01.svg",
+      "caption": "Локальная учебная обложка: Эгейское море",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.ashmolean.org/aegean-world-gallery",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_01_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Ashmolean Museum: Aegean World Gallery",
+      "url": "https://www.ashmolean.org/aegean-world-gallery",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_01"
+  },
+  {
+    "id": "AEG_S_01_02",
+    "type": "REGION",
+    "title": "Крит",
+    "original": "Crete",
+    "subtitle": "крупный остров, где позже возникли минойские дворцовые центры",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "бронзовый век",
+    "rarity": "COMMON",
+    "difficulty": 5,
+    "summary": "Крит — крупный остров, где позже возникли минойские дворцовые центры.",
+    "importance": "Карточка раскрывает главу «Эгейское море до дворцов» через конкретный регион и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: бронзовый век.",
+      "Основной смысл: крупный остров, где позже возникли минойские дворцовые центры.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Эгейское море до дворцов",
+      "region"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 5,
+      "military": 7,
+      "culture": 8,
+      "politics": 7,
+      "religion": 2,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Крит",
+      "lat": 35.24,
+      "lon": 24.81
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-01/aeg_s_01_02.svg",
+      "caption": "Локальная учебная обложка: Крит",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.ashmolean.org/aegean-world-gallery",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_01_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Ashmolean Museum: Aegean World Gallery",
+      "url": "https://www.ashmolean.org/aegean-world-gallery",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_01"
+  },
+  {
+    "id": "AEG_S_01_03",
+    "type": "REGION",
+    "title": "Киклады",
+    "original": "Cyclades",
+    "subtitle": "архипелаг центральной части Эгейского моря",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 5,
+    "summary": "Киклады — архипелаг центральной части Эгейского моря.",
+    "importance": "Карточка раскрывает главу «Эгейское море до дворцов» через конкретный регион и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: III тысячелетие до н. э..",
+      "Основной смысл: архипелаг центральной части Эгейского моря.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Эгейское море до дворцов",
+      "region"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 5,
+      "military": 2,
+      "culture": 9,
+      "politics": 8,
+      "religion": 5,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Киклады",
+      "lat": 37.0,
+      "lon": 25.0
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-01/aeg_s_01_03.svg",
+      "caption": "Локальная учебная обложка: Киклады",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.ashmolean.org/aegean-world-gallery",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_01_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Ashmolean Museum: Aegean World Gallery",
+      "url": "https://www.ashmolean.org/aegean-world-gallery",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_01"
+  },
+  {
+    "id": "AEG_S_01_04",
+    "type": "CULTURE",
+    "title": "Раннекикладская культура",
+    "original": "Cycladic culture",
+    "subtitle": "группа островных культур с характерной пластикой и погребениями",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "ок. 3200–2300 до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 5,
+    "summary": "Раннекикладская культура — группа островных культур с характерной пластикой и погребениями.",
+    "importance": "Карточка раскрывает главу «Эгейское море до дворцов» через конкретный культура и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: ок. 3200–2300 до н. э..",
+      "Основной смысл: группа островных культур с характерной пластикой и погребениями.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Эгейское море до дворцов",
+      "culture"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 5,
+      "legacy": 5,
+      "military": 4,
+      "culture": 5,
+      "politics": 3,
+      "religion": 8,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Киклады",
+      "lat": 37.0,
+      "lon": 25.0
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-01/aeg_s_01_04.svg",
+      "caption": "Локальная учебная обложка: Раннекикладская культура",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.ashmolean.org/aegean-world-gallery",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_01_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Ashmolean Museum: Aegean World Gallery",
+      "url": "https://www.ashmolean.org/aegean-world-gallery",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_01"
+  },
+  {
+    "id": "AEG_S_01_05",
+    "type": "RESOURCE",
+    "title": "Мелосский обсидиан",
+    "original": "Obsidian trade",
+    "subtitle": "вулканическое стекло, распространявшееся по Эгейскому миру",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "неолит — бронзовый век",
+    "rarity": "UNCOMMON",
+    "difficulty": 5,
+    "summary": "Мелосский обсидиан — вулканическое стекло, распространявшееся по Эгейскому миру.",
+    "importance": "Карточка раскрывает главу «Эгейское море до дворцов» через конкретный ресурс и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: неолит — бронзовый век.",
+      "Основной смысл: вулканическое стекло, распространявшееся по Эгейскому миру.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Эгейское море до дворцов",
+      "resource"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 5,
+      "military": 6,
+      "culture": 6,
+      "politics": 4,
+      "religion": 4,
+      "economy": 5,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Мелос",
+      "lat": 36.72,
+      "lon": 24.43
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-01/aeg_s_01_05.svg",
+      "caption": "Локальная учебная обложка: Мелосский обсидиан",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.ashmolean.org/aegean-world-gallery",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_01_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Ashmolean Museum: Aegean World Gallery",
+      "url": "https://www.ashmolean.org/aegean-world-gallery",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_01"
+  },
+  {
+    "id": "AEG_S_01_06",
+    "type": "ROUTE",
+    "title": "Морские маршруты Эгейского мира",
+    "original": "Aegean trade",
+    "subtitle": "цепи коротких переходов между островами и побережьями",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Морские маршруты Эгейского мира — цепи коротких переходов между островами и побережьями.",
+    "importance": "Карточка раскрывает главу «Эгейское море до дворцов» через конкретный маршрут и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: III–II тысячелетия до н. э..",
+      "Основной смысл: цепи коротких переходов между островами и побережьями.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Эгейское море до дворцов",
+      "route"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 5,
+      "military": 8,
+      "culture": 7,
+      "politics": 5,
+      "religion": 7,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Эгейское море",
+      "lat": 37.4,
+      "lon": 25.2
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-01/aeg_s_01_06.svg",
+      "caption": "Локальная учебная обложка: Морские маршруты Эгейского мира",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.ashmolean.org/aegean-world-gallery",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_01_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Ashmolean Museum: Aegean World Gallery",
+      "url": "https://www.ashmolean.org/aegean-world-gallery",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_01"
+  },
+  {
+    "id": "AEG_S_01_07",
+    "type": "CITY",
+    "title": "Филакопи",
+    "original": "Phylakopi",
+    "subtitle": "поселение на Мелосе с длительной историей и внешними связями",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Филакопи — поселение на Мелосе с длительной историей и внешними связями.",
+    "importance": "Карточка раскрывает главу «Эгейское море до дворцов» через конкретный город и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: III–II тысячелетия до н. э..",
+      "Основной смысл: поселение на Мелосе с длительной историей и внешними связями.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Эгейское море до дворцов",
+      "city"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 5,
+      "military": 3,
+      "culture": 8,
+      "politics": 6,
+      "religion": 3,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Филакопи",
+      "lat": 36.75,
+      "lon": 24.45
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-01/aeg_s_01_07.svg",
+      "caption": "Локальная учебная обложка: Филакопи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.ashmolean.org/aegean-world-gallery",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_01_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Ashmolean Museum: Aegean World Gallery",
+      "url": "https://www.ashmolean.org/aegean-world-gallery",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_01"
+  },
+  {
+    "id": "AEG_S_01_08",
+    "type": "SYSTEM",
+    "title": "Эгейская хронология",
+    "original": "Helladic chronology",
+    "subtitle": "археологические периоды Минойский, Кикладский и Элладский",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "бронзовый век",
+    "rarity": "EPIC",
+    "difficulty": 5,
+    "summary": "Эгейская хронология — археологические периоды Минойский, Кикладский и Элладский.",
+    "importance": "Карточка раскрывает главу «Эгейское море до дворцов» через конкретный система и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: бронзовый век.",
+      "Основной смысл: археологические периоды Минойский, Кикладский и Элладский.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Эгейское море до дворцов",
+      "system"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 5,
+      "legacy": 5,
+      "military": 5,
+      "culture": 9,
+      "politics": 7,
+      "religion": 6,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Эгейское море",
+      "lat": 37.4,
+      "lon": 25.2
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-01/aeg_s_01_08.svg",
+      "caption": "Локальная учебная обложка: Эгейская хронология",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.ashmolean.org/aegean-world-gallery",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_01_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Ashmolean Museum: Aegean World Gallery",
+      "url": "https://www.ashmolean.org/aegean-world-gallery",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_01"
+  },
+  {
+    "id": "AEG_S_02_01",
+    "type": "CITY",
+    "title": "Кносс",
+    "original": "Knossos",
+    "subtitle": "крупнейший дворцовый центр северного Крита",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 5,
+    "summary": "Кносс — крупнейший дворцовый центр северного Крита.",
+    "importance": "Карточка раскрывает главу «Первые минойские дворцовые центры» через конкретный город и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: крупнейший дворцовый центр северного Крита.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Первые минойские дворцовые центры",
+      "city"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 6,
+      "culture": 8,
+      "politics": 8,
+      "religion": 7,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кносс",
+      "lat": 35.298,
+      "lon": 25.163
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-02/aeg_s_02_01.svg",
+      "caption": "Локальная учебная обложка: Кносс",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1733/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_02_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Minoan Palatial Centres",
+      "url": "https://whc.unesco.org/en/list/1733/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_02"
+  },
+  {
+    "id": "AEG_S_02_02",
+    "type": "CITY",
+    "title": "Фест",
+    "original": "Phaistos",
+    "subtitle": "дворцовый центр юга Крита над равниной Месара",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 5,
+    "summary": "Фест — дворцовый центр юга Крита над равниной Месара.",
+    "importance": "Карточка раскрывает главу «Первые минойские дворцовые центры» через конкретный город и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: дворцовый центр юга Крита над равниной Месара.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Первые минойские дворцовые центры",
+      "city"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 8,
+      "culture": 9,
+      "politics": 3,
+      "religion": 3,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Фест",
+      "lat": 35.051,
+      "lon": 24.814
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-02/aeg_s_02_02.svg",
+      "caption": "Локальная учебная обложка: Фест",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1733/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_02_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Minoan Palatial Centres",
+      "url": "https://whc.unesco.org/en/list/1733/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_02"
+  },
+  {
+    "id": "AEG_S_02_03",
+    "type": "CITY",
+    "title": "Маллия",
+    "original": "Malia Palace",
+    "subtitle": "дворцовый центр восточной части центрального Крита",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 5,
+    "summary": "Маллия — дворцовый центр восточной части центрального Крита.",
+    "importance": "Карточка раскрывает главу «Первые минойские дворцовые центры» через конкретный город и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: дворцовый центр восточной части центрального Крита.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Первые минойские дворцовые центры",
+      "city"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 3,
+      "culture": 5,
+      "politics": 4,
+      "religion": 6,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Маллия",
+      "lat": 35.293,
+      "lon": 25.462
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-02/aeg_s_02_03.svg",
+      "caption": "Локальная учебная обложка: Маллия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1733/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_02_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Minoan Palatial Centres",
+      "url": "https://whc.unesco.org/en/list/1733/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_02"
+  },
+  {
+    "id": "AEG_S_02_04",
+    "type": "BUILDING",
+    "title": "Центральный двор",
+    "original": "Minoan palace",
+    "subtitle": "открытое пространство, вокруг которого строился дворцовый комплекс",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 5,
+    "summary": "Центральный двор — открытое пространство, вокруг которого строился дворцовый комплекс.",
+    "importance": "Карточка раскрывает главу «Первые минойские дворцовые центры» через конкретный сооружение и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: открытое пространство, вокруг которого строился дворцовый комплекс.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Первые минойские дворцовые центры",
+      "building"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 5,
+      "culture": 6,
+      "politics": 5,
+      "religion": 2,
+      "economy": 5,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Кносс",
+      "lat": 35.298,
+      "lon": 25.163
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-02/aeg_s_02_04.svg",
+      "caption": "Локальная учебная обложка: Центральный двор",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1733/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_02_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Minoan Palatial Centres",
+      "url": "https://whc.unesco.org/en/list/1733/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_02"
+  },
+  {
+    "id": "AEG_S_02_05",
+    "type": "SYSTEM",
+    "title": "Дворцовые склады",
+    "original": "Minoan palace",
+    "subtitle": "магазины, сосуды и помещения для запасов",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 5,
+    "summary": "Дворцовые склады — магазины, сосуды и помещения для запасов.",
+    "importance": "Карточка раскрывает главу «Первые минойские дворцовые центры» через конкретный система и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: магазины, сосуды и помещения для запасов.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Первые минойские дворцовые центры",
+      "system"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 7,
+      "culture": 7,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Кносс",
+      "lat": 35.298,
+      "lon": 25.163
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-02/aeg_s_02_05.svg",
+      "caption": "Локальная учебная обложка: Дворцовые склады",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1733/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_02_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Minoan Palatial Centres",
+      "url": "https://whc.unesco.org/en/list/1733/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_02"
+  },
+  {
+    "id": "AEG_S_02_06",
+    "type": "SYSTEM",
+    "title": "Печатный контроль",
+    "original": "Minoan sealstone",
+    "subtitle": "учёт доступа к товарам через печати и пломбы",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Печатный контроль — учёт доступа к товарам через печати и пломбы.",
+    "importance": "Карточка раскрывает главу «Первые минойские дворцовые центры» через конкретный система и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: учёт доступа к товарам через печати и пломбы.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Первые минойские дворцовые центры",
+      "system"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 2,
+      "culture": 8,
+      "politics": 7,
+      "religion": 8,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Фест",
+      "lat": 35.051,
+      "lon": 24.814
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-02/aeg_s_02_06.svg",
+      "caption": "Локальная учебная обложка: Печатный контроль",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1733/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_02_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Minoan Palatial Centres",
+      "url": "https://whc.unesco.org/en/list/1733/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_02"
+  },
+  {
+    "id": "AEG_S_02_07",
+    "type": "TEXT",
+    "title": "Критская иероглифика",
+    "original": "Cretan hieroglyphs",
+    "subtitle": "ранняя система письма дворцового Крита",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "ок. 1900–1600 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Критская иероглифика — ранняя система письма дворцового Крита.",
+    "importance": "Карточка раскрывает главу «Первые минойские дворцовые центры» через конкретный текст и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: ок. 1900–1600 до н. э..",
+      "Основной смысл: ранняя система письма дворцового Крита.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Первые минойские дворцовые центры",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 4,
+      "culture": 9,
+      "politics": 8,
+      "religion": 4,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Маллия",
+      "lat": 35.293,
+      "lon": 25.462
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-02/aeg_s_02_07.svg",
+      "caption": "Локальная учебная обложка: Критская иероглифика",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1733/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_02_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Minoan Palatial Centres",
+      "url": "https://whc.unesco.org/en/list/1733/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_02"
+  },
+  {
+    "id": "AEG_S_02_08",
+    "type": "CONCEPT",
+    "title": "Понятие «минойский дворец»",
+    "original": "Minoan palace",
+    "subtitle": "современный термин для многофункционального центра",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 5,
+    "summary": "Понятие «минойский дворец» — современный термин для многофункционального центра.",
+    "importance": "Карточка раскрывает главу «Первые минойские дворцовые центры» через конкретный понятие и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: современный термин для многофункционального центра.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Первые минойские дворцовые центры",
+      "concept"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 6,
+      "culture": 5,
+      "politics": 3,
+      "religion": 7,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Кносс",
+      "lat": 35.298,
+      "lon": 25.163
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-02/aeg_s_02_08.svg",
+      "caption": "Локальная учебная обложка: Понятие «минойский дворец»",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1733/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_02_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Minoan Palatial Centres",
+      "url": "https://whc.unesco.org/en/list/1733/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_02"
+  },
+  {
+    "id": "AEG_S_03_01",
+    "type": "ARTIFACT",
+    "title": "Пифосы",
+    "original": "Pithos",
+    "subtitle": "крупные сосуды для хранения масла, зерна и других продуктов",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 6,
+    "summary": "Пифосы — крупные сосуды для хранения масла, зерна и других продуктов.",
+    "importance": "Карточка раскрывает главу «Хозяйство дворцов и морские сети» через конкретный артефакт и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: крупные сосуды для хранения масла, зерна и других продуктов.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Хозяйство дворцов и морские сети",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 7,
+      "culture": 9,
+      "politics": 4,
+      "religion": 8,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Кносс",
+      "lat": 35.298,
+      "lon": 25.163
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-03/aeg_s_03_01.svg",
+      "caption": "Локальная учебная обложка: Пифосы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_03_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Southern Europe, 2000–1000 B.C.",
+      "url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_03"
+  },
+  {
+    "id": "AEG_S_03_02",
+    "type": "SYSTEM",
+    "title": "Дворцовые мастерские",
+    "original": "Minoan palace",
+    "subtitle": "производство тканей, металла, каменных сосудов и украшений",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 6,
+    "summary": "Дворцовые мастерские — производство тканей, металла, каменных сосудов и украшений.",
+    "importance": "Карточка раскрывает главу «Хозяйство дворцов и морские сети» через конкретный система и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: производство тканей, металла, каменных сосудов и украшений.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Хозяйство дворцов и морские сети",
+      "system"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 2,
+      "culture": 5,
+      "politics": 5,
+      "religion": 4,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Кносс",
+      "lat": 35.298,
+      "lon": 25.163
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-03/aeg_s_03_02.svg",
+      "caption": "Локальная учебная обложка: Дворцовые мастерские",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_03_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Southern Europe, 2000–1000 B.C.",
+      "url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_03"
+  },
+  {
+    "id": "AEG_S_03_03",
+    "type": "SITE",
+    "title": "Коммос",
+    "original": "Kommos archaeological site",
+    "subtitle": "южнокритский портовый центр с дальними связями",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 6,
+    "summary": "Коммос — южнокритский портовый центр с дальними связями.",
+    "importance": "Карточка раскрывает главу «Хозяйство дворцов и морские сети» через конкретный место и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: южнокритский портовый центр с дальними связями.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Хозяйство дворцов и морские сети",
+      "site"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 6,
+      "politics": 6,
+      "religion": 7,
+      "economy": 5,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Коммос",
+      "lat": 35.016,
+      "lon": 24.761
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-03/aeg_s_03_03.svg",
+      "caption": "Локальная учебная обложка: Коммос",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_03_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Southern Europe, 2000–1000 B.C.",
+      "url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_03"
+  },
+  {
+    "id": "AEG_S_03_04",
+    "type": "CITY",
+    "title": "Закрос",
+    "original": "Zakros",
+    "subtitle": "восточнокритский дворцовый и портовый центр",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "ок. 1700–1450 до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 6,
+    "summary": "Закрос — восточнокритский дворцовый и портовый центр.",
+    "importance": "Карточка раскрывает главу «Хозяйство дворцов и морские сети» через конкретный город и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: ок. 1700–1450 до н. э..",
+      "Основной смысл: восточнокритский дворцовый и портовый центр.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Хозяйство дворцов и морские сети",
+      "city"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 7,
+      "religion": 3,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Закрос",
+      "lat": 35.099,
+      "lon": 26.261
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-03/aeg_s_03_04.svg",
+      "caption": "Локальная учебная обложка: Закрос",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_03_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Southern Europe, 2000–1000 B.C.",
+      "url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_03"
+  },
+  {
+    "id": "AEG_S_03_05",
+    "type": "RESOURCE",
+    "title": "Медные слитки",
+    "original": "Oxhide ingot",
+    "subtitle": "сырьё международной бронзовой экономики",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 6,
+    "summary": "Медные слитки — сырьё международной бронзовой экономики.",
+    "importance": "Карточка раскрывает главу «Хозяйство дворцов и морские сети» через конкретный ресурс и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: сырьё международной бронзовой экономики.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Хозяйство дворцов и морские сети",
+      "resource"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 8,
+      "culture": 8,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кипр",
+      "lat": 35.0,
+      "lon": 33.2
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-03/aeg_s_03_05.svg",
+      "caption": "Локальная учебная обложка: Медные слитки",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_03_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Southern Europe, 2000–1000 B.C.",
+      "url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_03"
+  },
+  {
+    "id": "AEG_S_03_06",
+    "type": "ARTIFACT",
+    "title": "Минойская керамика в обмене",
+    "original": "Minoan pottery",
+    "subtitle": "сосуды, найденные за пределами Крита",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 6,
+    "summary": "Минойская керамика в обмене — сосуды, найденные за пределами Крита.",
+    "importance": "Карточка раскрывает главу «Хозяйство дворцов и морские сети» через конкретный артефакт и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: сосуды, найденные за пределами Крита.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Хозяйство дворцов и морские сети",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 3,
+      "culture": 9,
+      "politics": 3,
+      "religion": 2,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Эгейское море",
+      "lat": 37.4,
+      "lon": 25.2
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-03/aeg_s_03_06.svg",
+      "caption": "Локальная учебная обложка: Минойская керамика в обмене",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_03_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Southern Europe, 2000–1000 B.C.",
+      "url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_03"
+  },
+  {
+    "id": "AEG_S_03_07",
+    "type": "SYSTEM",
+    "title": "Система мер и весов",
+    "original": "Minoan weights",
+    "subtitle": "средства сопоставления количества и стоимости товаров",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 6,
+    "summary": "Система мер и весов — средства сопоставления количества и стоимости товаров.",
+    "importance": "Карточка раскрывает главу «Хозяйство дворцов и морские сети» через конкретный система и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: средства сопоставления количества и стоимости товаров.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Хозяйство дворцов и морские сети",
+      "system"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 5,
+      "culture": 5,
+      "politics": 4,
+      "religion": 5,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Кносс",
+      "lat": 35.298,
+      "lon": 25.163
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-03/aeg_s_03_07.svg",
+      "caption": "Локальная учебная обложка: Система мер и весов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_03_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Southern Europe, 2000–1000 B.C.",
+      "url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_03"
+  },
+  {
+    "id": "AEG_S_03_08",
+    "type": "CONCEPT",
+    "title": "Минойская талассократия",
+    "original": "Minoan civilization",
+    "subtitle": "поздняя идея о морском господстве, требующая осторожной проверки",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 6,
+    "summary": "Минойская талассократия — поздняя идея о морском господстве, требующая осторожной проверки.",
+    "importance": "Карточка раскрывает главу «Хозяйство дворцов и морские сети» через конкретный понятие и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: поздняя идея о морском господстве, требующая осторожной проверки.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Хозяйство дворцов и морские сети",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 5,
+      "legacy": 7,
+      "military": 7,
+      "culture": 6,
+      "politics": 5,
+      "religion": 8,
+      "economy": 5,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Эгейское море",
+      "lat": 37.4,
+      "lon": 25.2
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-03/aeg_s_03_08.svg",
+      "caption": "Локальная учебная обложка: Минойская талассократия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_03_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Southern Europe, 2000–1000 B.C.",
+      "url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_03"
+  },
+  {
+    "id": "AEG_S_04_01",
+    "type": "TEXT",
+    "title": "Линейное письмо А",
+    "original": "Linear A",
+    "subtitle": "нерасшифрованная система письма минойского Крита",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "ок. 1800–1450 до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 6,
+    "summary": "Линейное письмо А — нерасшифрованная система письма минойского Крита.",
+    "importance": "Карточка раскрывает главу «Ритуал, искусство и линейное письмо А» через конкретный текст и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: ок. 1800–1450 до н. э..",
+      "Основной смысл: нерасшифрованная система письма минойского Крита.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Ритуал, искусство и линейное письмо А",
+      "text"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 8,
+      "culture": 5,
+      "politics": 6,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Крит",
+      "lat": 35.24,
+      "lon": 24.81
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-04/aeg_s_04_01.svg",
+      "caption": "Локальная учебная обложка: Линейное письмо А",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.ashmolean.org/aegean-world-gallery",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Ashmolean Museum: Aegean World Gallery",
+      "url": "https://www.ashmolean.org/aegean-world-gallery",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_04"
+  },
+  {
+    "id": "AEG_S_04_02",
+    "type": "ARTIFACT",
+    "title": "Фрески Кносса",
+    "original": "Knossos frescoes",
+    "subtitle": "настенные изображения дворцового комплекса",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 6,
+    "summary": "Фрески Кносса — настенные изображения дворцового комплекса.",
+    "importance": "Карточка раскрывает главу «Ритуал, искусство и линейное письмо А» через конкретный артефакт и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: настенные изображения дворцового комплекса.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Ритуал, искусство и линейное письмо А",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 3,
+      "culture": 6,
+      "politics": 7,
+      "religion": 5,
+      "economy": 5,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Кносс",
+      "lat": 35.298,
+      "lon": 25.163
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-04/aeg_s_04_02.svg",
+      "caption": "Локальная учебная обложка: Фрески Кносса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.ashmolean.org/aegean-world-gallery",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Ashmolean Museum: Aegean World Gallery",
+      "url": "https://www.ashmolean.org/aegean-world-gallery",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_04"
+  },
+  {
+    "id": "AEG_S_04_03",
+    "type": "SITE",
+    "title": "Горные святилища",
+    "original": "Minoan peak sanctuary",
+    "subtitle": "культовые места на вершинах и высоких точках Крита",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 6,
+    "summary": "Горные святилища — культовые места на вершинах и высоких точках Крита.",
+    "importance": "Карточка раскрывает главу «Ритуал, искусство и линейное письмо А» через конкретный место и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: культовые места на вершинах и высоких точках Крита.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Ритуал, искусство и линейное письмо А",
+      "site"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 7,
+      "politics": 8,
+      "religion": 8,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Зоминтос",
+      "lat": 35.31,
+      "lon": 24.89
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-04/aeg_s_04_03.svg",
+      "caption": "Локальная учебная обложка: Горные святилища",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.ashmolean.org/aegean-world-gallery",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Ashmolean Museum: Aegean World Gallery",
+      "url": "https://www.ashmolean.org/aegean-world-gallery",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_04"
+  },
+  {
+    "id": "AEG_S_04_04",
+    "type": "SITE",
+    "title": "Священные пещеры Крита",
+    "original": "Minoan religion",
+    "subtitle": "пещерные пространства с приношениями и ритуалами",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 6,
+    "summary": "Священные пещеры Крита — пещерные пространства с приношениями и ритуалами.",
+    "importance": "Карточка раскрывает главу «Ритуал, искусство и линейное письмо А» через конкретный место и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: пещерные пространства с приношениями и ритуалами.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Ритуал, искусство и линейное письмо А",
+      "site"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 5,
+      "legacy": 8,
+      "military": 7,
+      "culture": 8,
+      "politics": 3,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Крит",
+      "lat": 35.24,
+      "lon": 24.81
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-04/aeg_s_04_04.svg",
+      "caption": "Локальная учебная обложка: Священные пещеры Крита",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.ashmolean.org/aegean-world-gallery",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_04_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Ashmolean Museum: Aegean World Gallery",
+      "url": "https://www.ashmolean.org/aegean-world-gallery",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_04"
+  },
+  {
+    "id": "AEG_S_04_05",
+    "type": "ARTIFACT",
+    "title": "Двойной топор",
+    "original": "Labrys",
+    "subtitle": "ритуальный и художественный символ минойского мира",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 6,
+    "summary": "Двойной топор — ритуальный и художественный символ минойского мира.",
+    "importance": "Карточка раскрывает главу «Ритуал, искусство и линейное письмо А» через конкретный артефакт и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: ритуальный и художественный символ минойского мира.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Ритуал, искусство и линейное письмо А",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 2,
+      "culture": 9,
+      "politics": 4,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Кносс",
+      "lat": 35.298,
+      "lon": 25.163
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-04/aeg_s_04_05.svg",
+      "caption": "Локальная учебная обложка: Двойной топор",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.ashmolean.org/aegean-world-gallery",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_04_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Ashmolean Museum: Aegean World Gallery",
+      "url": "https://www.ashmolean.org/aegean-world-gallery",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_04"
+  },
+  {
+    "id": "AEG_S_04_06",
+    "type": "ARTIFACT",
+    "title": "Рога посвящения",
+    "original": "Horns of Consecration",
+    "subtitle": "архитектурный и ритуальный знак минойских центров",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 6,
+    "summary": "Рога посвящения — архитектурный и ритуальный знак минойских центров.",
+    "importance": "Карточка раскрывает главу «Ритуал, искусство и линейное письмо А» через конкретный артефакт и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: архитектурный и ритуальный знак минойских центров.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Ритуал, искусство и линейное письмо А",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 4,
+      "culture": 5,
+      "politics": 5,
+      "religion": 3,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Кносс",
+      "lat": 35.298,
+      "lon": 25.163
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-04/aeg_s_04_06.svg",
+      "caption": "Локальная учебная обложка: Рога посвящения",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.ashmolean.org/aegean-world-gallery",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_04_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Ashmolean Museum: Aegean World Gallery",
+      "url": "https://www.ashmolean.org/aegean-world-gallery",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_04"
+  },
+  {
+    "id": "AEG_S_04_07",
+    "type": "RITUAL",
+    "title": "Прыжки через быка",
+    "original": "Bull-leaping",
+    "subtitle": "изображённая на фресках и печатях практика с быком",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 6,
+    "summary": "Прыжки через быка — изображённая на фресках и печатях практика с быком.",
+    "importance": "Карточка раскрывает главу «Ритуал, искусство и линейное письмо А» через конкретный ритуал и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: изображённая на фресках и печатях практика с быком.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Ритуал, искусство и линейное письмо А",
+      "ritual"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 6,
+      "culture": 6,
+      "politics": 6,
+      "religion": 6,
+      "economy": 5,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Кносс",
+      "lat": 35.298,
+      "lon": 25.163
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-04/aeg_s_04_07.svg",
+      "caption": "Локальная учебная обложка: Прыжки через быка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.ashmolean.org/aegean-world-gallery",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_04_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Ashmolean Museum: Aegean World Gallery",
+      "url": "https://www.ashmolean.org/aegean-world-gallery",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_04"
+  },
+  {
+    "id": "AEG_S_04_08",
+    "type": "RELIGION",
+    "title": "Минойская религия",
+    "original": "Minoan religion",
+    "subtitle": "современная реконструкция культов по материальным данным",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 6,
+    "summary": "Минойская религия — современная реконструкция культов по материальным данным.",
+    "importance": "Карточка раскрывает главу «Ритуал, искусство и линейное письмо А» через конкретный религия и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: современная реконструкция культов по материальным данным.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Ритуал, искусство и линейное письмо А",
+      "religion"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 8,
+      "military": 8,
+      "culture": 7,
+      "politics": 7,
+      "religion": 2,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Крит",
+      "lat": 35.24,
+      "lon": 24.81
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-04/aeg_s_04_08.svg",
+      "caption": "Локальная учебная обложка: Минойская религия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.ashmolean.org/aegean-world-gallery",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_04_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Ashmolean Museum: Aegean World Gallery",
+      "url": "https://www.ashmolean.org/aegean-world-gallery",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_04"
+  },
+  {
+    "id": "AEG_S_05_01",
+    "type": "EVENT",
+    "title": "Извержение Феры",
+    "original": "Minoan eruption",
+    "subtitle": "одно из крупнейших извержений бронзового века в Эгейском регионе",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XVII или XVI век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 6,
+    "summary": "Извержение Феры — одно из крупнейших извержений бронзового века в Эгейском регионе.",
+    "importance": "Карточка раскрывает главу «Фера, Акротири и перелом на Крите» через конкретный событие и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XVII или XVI век до н. э..",
+      "Основной смысл: одно из крупнейших извержений бронзового века в Эгейском регионе.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Фера, Акротири и перелом на Крите",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 2,
+      "culture": 6,
+      "politics": 8,
+      "religion": 3,
+      "economy": 5,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Фера / Санторин",
+      "lat": 36.393,
+      "lon": 25.461
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-05/aeg_s_05_01.svg",
+      "caption": "Локальная учебная обложка: Извержение Феры",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Southern Europe, 2000–1000 B.C.",
+      "url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_05"
+  },
+  {
+    "id": "AEG_S_05_02",
+    "type": "CITY",
+    "title": "Акротири",
+    "original": "Akrotiri (prehistoric city)",
+    "subtitle": "город на Фере, законсервированный вулканическим пеплом",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 6,
+    "summary": "Акротири — город на Фере, законсервированный вулканическим пеплом.",
+    "importance": "Карточка раскрывает главу «Фера, Акротири и перелом на Крите» через конкретный город и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: город на Фере, законсервированный вулканическим пеплом.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Фера, Акротири и перелом на Крите",
+      "city"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 4,
+      "culture": 7,
+      "politics": 3,
+      "religion": 6,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Акротири",
+      "lat": 36.351,
+      "lon": 25.403
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-05/aeg_s_05_02.svg",
+      "caption": "Локальная учебная обложка: Акротири",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Southern Europe, 2000–1000 B.C.",
+      "url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_05"
+  },
+  {
+    "id": "AEG_S_05_03",
+    "type": "ARTIFACT",
+    "title": "Фрески Акротири",
+    "original": "Akrotiri frescoes",
+    "subtitle": "настенные изображения городской и природной среды",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "до извержения Феры",
+    "rarity": "UNCOMMON",
+    "difficulty": 6,
+    "summary": "Фрески Акротири — настенные изображения городской и природной среды.",
+    "importance": "Карточка раскрывает главу «Фера, Акротири и перелом на Крите» через конкретный артефакт и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: до извержения Феры.",
+      "Основной смысл: настенные изображения городской и природной среды.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Фера, Акротири и перелом на Крите",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 8,
+      "politics": 4,
+      "religion": 2,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Акротири",
+      "lat": 36.351,
+      "lon": 25.403
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-05/aeg_s_05_03.svg",
+      "caption": "Локальная учебная обложка: Фрески Акротири",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Southern Europe, 2000–1000 B.C.",
+      "url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_05"
+  },
+  {
+    "id": "AEG_S_05_04",
+    "type": "CONCEPT",
+    "title": "Датировка извержения",
+    "original": "Minoan eruption dating",
+    "subtitle": "спор между радиоуглеродными и историческими шкалами",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XVII–XVI века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 6,
+    "summary": "Датировка извержения — спор между радиоуглеродными и историческими шкалами.",
+    "importance": "Карточка раскрывает главу «Фера, Акротири и перелом на Крите» через конкретный понятие и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XVII–XVI века до н. э..",
+      "Основной смысл: спор между радиоуглеродными и историческими шкалами.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Фера, Акротири и перелом на Крите",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 5,
+      "legacy": 9,
+      "military": 8,
+      "culture": 9,
+      "politics": 5,
+      "religion": 5,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Фера / Санторин",
+      "lat": 36.393,
+      "lon": 25.461
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-05/aeg_s_05_04.svg",
+      "caption": "Локальная учебная обложка: Датировка извержения",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Southern Europe, 2000–1000 B.C.",
+      "url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_05"
+  },
+  {
+    "id": "AEG_S_05_05",
+    "type": "SITE",
+    "title": "Пепловый горизонт Феры",
+    "original": "Minoan eruption",
+    "subtitle": "слой вулканического материала в Эгейском регионе",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XVII–XVI века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 6,
+    "summary": "Пепловый горизонт Феры — слой вулканического материала в Эгейском регионе.",
+    "importance": "Карточка раскрывает главу «Фера, Акротири и перелом на Крите» через конкретный место и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XVII–XVI века до н. э..",
+      "Основной смысл: слой вулканического материала в Эгейском регионе.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Фера, Акротири и перелом на Крите",
+      "site"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 3,
+      "culture": 5,
+      "politics": 6,
+      "religion": 8,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Фера / Санторин",
+      "lat": 36.393,
+      "lon": 25.461
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-05/aeg_s_05_05.svg",
+      "caption": "Локальная учебная обложка: Пепловый горизонт Феры",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_05_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Southern Europe, 2000–1000 B.C.",
+      "url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_05"
+  },
+  {
+    "id": "AEG_S_05_06",
+    "type": "EVENT",
+    "title": "Цунами и побережья Крита",
+    "original": "Minoan eruption",
+    "subtitle": "возможные морские последствия извержения для отдельных берегов",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XVII–XVI века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 6,
+    "summary": "Цунами и побережья Крита — возможные морские последствия извержения для отдельных берегов.",
+    "importance": "Карточка раскрывает главу «Фера, Акротири и перелом на Крите» через конкретный событие и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XVII–XVI века до н. э..",
+      "Основной смысл: возможные морские последствия извержения для отдельных берегов.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Фера, Акротири и перелом на Крите",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 5,
+      "culture": 6,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Крит",
+      "lat": 35.24,
+      "lon": 24.81
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-05/aeg_s_05_06.svg",
+      "caption": "Локальная учебная обложка: Цунами и побережья Крита",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_05_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Southern Europe, 2000–1000 B.C.",
+      "url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_05"
+  },
+  {
+    "id": "AEG_S_05_07",
+    "type": "EVENT",
+    "title": "Разрушения около 1450 года",
+    "original": "Minoan chronology",
+    "subtitle": "гибель большинства дворцовых центров Крита",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "ок. 1450 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 6,
+    "summary": "Разрушения около 1450 года — гибель большинства дворцовых центров Крита.",
+    "importance": "Карточка раскрывает главу «Фера, Акротири и перелом на Крите» через конкретный событие и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: ок. 1450 до н. э..",
+      "Основной смысл: гибель большинства дворцовых центров Крита.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Фера, Акротири и перелом на Крите",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 7,
+      "culture": 7,
+      "politics": 8,
+      "religion": 7,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Крит",
+      "lat": 35.24,
+      "lon": 24.81
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-05/aeg_s_05_07.svg",
+      "caption": "Локальная учебная обложка: Разрушения около 1450 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_05_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Southern Europe, 2000–1000 B.C.",
+      "url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_05"
+  },
+  {
+    "id": "AEG_S_05_08",
+    "type": "CITY",
+    "title": "Кносс после 1450 года",
+    "original": "Knossos",
+    "subtitle": "центр, где административная деятельность продолжилась дольше",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XV–XIV века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 6,
+    "summary": "Кносс после 1450 года — центр, где административная деятельность продолжилась дольше.",
+    "importance": "Карточка раскрывает главу «Фера, Акротири и перелом на Крите» через конкретный город и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XV–XIV века до н. э..",
+      "Основной смысл: центр, где административная деятельность продолжилась дольше.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Фера, Акротири и перелом на Крите",
+      "city"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 5,
+      "legacy": 9,
+      "military": 2,
+      "culture": 8,
+      "politics": 3,
+      "religion": 3,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кносс",
+      "lat": 35.298,
+      "lon": 25.163
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-05/aeg_s_05_08.svg",
+      "caption": "Локальная учебная обложка: Кносс после 1450 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_05_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Southern Europe, 2000–1000 B.C.",
+      "url": "https://www.metmuseum.org/toah/ht/03/eus.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_05"
+  },
+  {
+    "id": "AEG_S_06_01",
+    "type": "CULTURE",
+    "title": "Микенская цивилизация",
+    "original": "Mycenaean Greece",
+    "subtitle": "культура позднего бронзового века материковой Греции",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "ок. 1600–1100 до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Микенская цивилизация — культура позднего бронзового века материковой Греции.",
+    "importance": "Карточка раскрывает главу «Возникновение микенского мира» через конкретный культура и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: ок. 1600–1100 до н. э..",
+      "Основной смысл: культура позднего бронзового века материковой Греции.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Возникновение микенского мира",
+      "culture"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 4,
+      "military": 3,
+      "culture": 7,
+      "politics": 4,
+      "religion": 4,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Микены",
+      "lat": 37.731,
+      "lon": 22.756
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-06/aeg_s_06_01.svg",
+      "caption": "Локальная учебная обложка: Микенская цивилизация",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_06"
+  },
+  {
+    "id": "AEG_S_06_02",
+    "type": "CITY",
+    "title": "Микены",
+    "original": "Mycenae",
+    "subtitle": "богатый центр Арголиды, давший имя микенской культуре",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Микены — богатый центр Арголиды, давший имя микенской культуре.",
+    "importance": "Карточка раскрывает главу «Возникновение микенского мира» через конкретный город и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: богатый центр Арголиды, давший имя микенской культуре.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Возникновение микенского мира",
+      "city"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 4,
+      "military": 5,
+      "culture": 8,
+      "politics": 5,
+      "religion": 7,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Микены",
+      "lat": 37.731,
+      "lon": 22.756
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-06/aeg_s_06_02.svg",
+      "caption": "Локальная учебная обложка: Микены",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_06"
+  },
+  {
+    "id": "AEG_S_06_03",
+    "type": "SITE",
+    "title": "Шахтовые гробницы",
+    "original": "Shaft grave",
+    "subtitle": "глубокие элитные погребения раннего микенского периода",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XVI век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Шахтовые гробницы — глубокие элитные погребения раннего микенского периода.",
+    "importance": "Карточка раскрывает главу «Возникновение микенского мира» через конкретный место и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XVI век до н. э..",
+      "Основной смысл: глубокие элитные погребения раннего микенского периода.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Возникновение микенского мира",
+      "site"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 4,
+      "military": 7,
+      "culture": 9,
+      "politics": 6,
+      "religion": 3,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Микены",
+      "lat": 37.731,
+      "lon": 22.756
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-06/aeg_s_06_03.svg",
+      "caption": "Локальная учебная обложка: Шахтовые гробницы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_06"
+  },
+  {
+    "id": "AEG_S_06_04",
+    "type": "SITE",
+    "title": "Круг могил А",
+    "original": "Grave Circle A, Mycenae",
+    "subtitle": "комплекс богатых погребений внутри поздней цитадели",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XVI век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Круг могил А — комплекс богатых погребений внутри поздней цитадели.",
+    "importance": "Карточка раскрывает главу «Возникновение микенского мира» через конкретный место и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XVI век до н. э..",
+      "Основной смысл: комплекс богатых погребений внутри поздней цитадели.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Возникновение микенского мира",
+      "site"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 5,
+      "legacy": 4,
+      "military": 2,
+      "culture": 5,
+      "politics": 7,
+      "religion": 6,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Микены",
+      "lat": 37.731,
+      "lon": 22.756
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-06/aeg_s_06_04.svg",
+      "caption": "Локальная учебная обложка: Круг могил А",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_06"
+  },
+  {
+    "id": "AEG_S_06_05",
+    "type": "SITE",
+    "title": "Круг могил Б",
+    "original": "Grave Circle B, Mycenae",
+    "subtitle": "более ранний комплекс погребений за пределами цитадели",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XVII–XVI века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Круг могил Б — более ранний комплекс погребений за пределами цитадели.",
+    "importance": "Карточка раскрывает главу «Возникновение микенского мира» через конкретный место и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XVII–XVI века до н. э..",
+      "Основной смысл: более ранний комплекс погребений за пределами цитадели.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Возникновение микенского мира",
+      "site"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 4,
+      "military": 4,
+      "culture": 6,
+      "politics": 8,
+      "religion": 2,
+      "economy": 5,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Микены",
+      "lat": 37.731,
+      "lon": 22.756
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-06/aeg_s_06_05.svg",
+      "caption": "Локальная учебная обложка: Круг могил Б",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_06_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_06"
+  },
+  {
+    "id": "AEG_S_06_06",
+    "type": "PEOPLE",
+    "title": "Воинская элита",
+    "original": "Mycenaean society",
+    "subtitle": "группы, подчёркивавшие статус оружием, охотой и колесницами",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XVI–XV века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Воинская элита — группы, подчёркивавшие статус оружием, охотой и колесницами.",
+    "importance": "Карточка раскрывает главу «Возникновение микенского мира» через конкретный народ и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XVI–XV века до н. э..",
+      "Основной смысл: группы, подчёркивавшие статус оружием, охотой и колесницами.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Возникновение микенского мира",
+      "people"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 4,
+      "military": 6,
+      "culture": 7,
+      "politics": 3,
+      "religion": 5,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Микены",
+      "lat": 37.731,
+      "lon": 22.756
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-06/aeg_s_06_06.svg",
+      "caption": "Локальная учебная обложка: Воинская элита",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_06_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_06"
+  },
+  {
+    "id": "AEG_S_06_07",
+    "type": "CONCEPT",
+    "title": "Минойское влияние на материке",
+    "original": "Mycenaean art",
+    "subtitle": "заимствование техник и образов Крита материковыми элитами",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XVI–XV века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Минойское влияние на материке — заимствование техник и образов Крита материковыми элитами.",
+    "importance": "Карточка раскрывает главу «Возникновение микенского мира» через конкретный понятие и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XVI–XV века до н. э..",
+      "Основной смысл: заимствование техник и образов Крита материковыми элитами.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Возникновение микенского мира",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 4,
+      "military": 8,
+      "culture": 8,
+      "politics": 4,
+      "religion": 8,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Микены",
+      "lat": 37.731,
+      "lon": 22.756
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-06/aeg_s_06_07.svg",
+      "caption": "Локальная учебная обложка: Минойское влияние на материке",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_06_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_06"
+  },
+  {
+    "id": "AEG_S_06_08",
+    "type": "SYSTEM",
+    "title": "Региональные центры материка",
+    "original": "Mycenaean Greece",
+    "subtitle": "несколько конкурирующих центров, а не единая столица",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Региональные центры материка — несколько конкурирующих центров, а не единая столица.",
+    "importance": "Карточка раскрывает главу «Возникновение микенского мира» через конкретный система и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: несколько конкурирующих центров, а не единая столица.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Возникновение микенского мира",
+      "system"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 5,
+      "legacy": 4,
+      "military": 3,
+      "culture": 9,
+      "politics": 5,
+      "religion": 4,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Эгейское море",
+      "lat": 37.4,
+      "lon": 25.2
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-06/aeg_s_06_08.svg",
+      "caption": "Локальная учебная обложка: Региональные центры материка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_06_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_06"
+  },
+  {
+    "id": "AEG_S_07_01",
+    "type": "BUILDING",
+    "title": "Цитадель Микен",
+    "original": "Mycenae",
+    "subtitle": "укреплённый комплекс с дворцом и элитными памятниками",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XIV–XIII века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Цитадель Микен — укреплённый комплекс с дворцом и элитными памятниками.",
+    "importance": "Карточка раскрывает главу «Дворцы, цитадели и монументальная власть» через конкретный сооружение и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XIV–XIII века до н. э..",
+      "Основной смысл: укреплённый комплекс с дворцом и элитными памятниками.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Дворцы, цитадели и монументальная власть",
+      "building"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 5,
+      "military": 4,
+      "culture": 8,
+      "politics": 6,
+      "religion": 5,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Микены",
+      "lat": 37.731,
+      "lon": 22.756
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-07/aeg_s_07_01.svg",
+      "caption": "Локальная учебная обложка: Цитадель Микен",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_07"
+  },
+  {
+    "id": "AEG_S_07_02",
+    "type": "CITY",
+    "title": "Тиринф",
+    "original": "Tiryns",
+    "subtitle": "укреплённый дворцовый центр Арголиды",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Тиринф — укреплённый дворцовый центр Арголиды.",
+    "importance": "Карточка раскрывает главу «Дворцы, цитадели и монументальная власть» через конкретный город и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: укреплённый дворцовый центр Арголиды.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Дворцы, цитадели и монументальная власть",
+      "city"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 5,
+      "military": 6,
+      "culture": 9,
+      "politics": 7,
+      "religion": 8,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Тиринф",
+      "lat": 37.6,
+      "lon": 22.8
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-07/aeg_s_07_02.svg",
+      "caption": "Локальная учебная обложка: Тиринф",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_07"
+  },
+  {
+    "id": "AEG_S_07_03",
+    "type": "BUILDING",
+    "title": "Дворец Нестора в Пилосе",
+    "original": "Palace of Nestor",
+    "subtitle": "дворцовый центр Мессении с большим архивом табличек",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XIII век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Дворец Нестора в Пилосе — дворцовый центр Мессении с большим архивом табличек.",
+    "importance": "Карточка раскрывает главу «Дворцы, цитадели и монументальная власть» через конкретный сооружение и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XIII век до н. э..",
+      "Основной смысл: дворцовый центр Мессении с большим архивом табличек.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Дворцы, цитадели и монументальная власть",
+      "building"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 5,
+      "military": 8,
+      "culture": 5,
+      "politics": 8,
+      "religion": 4,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Пилос",
+      "lat": 36.952,
+      "lon": 21.695
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-07/aeg_s_07_03.svg",
+      "caption": "Локальная учебная обложка: Дворец Нестора в Пилосе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_07"
+  },
+  {
+    "id": "AEG_S_07_04",
+    "type": "BUILDING",
+    "title": "Мегарон",
+    "original": "Megaron",
+    "subtitle": "центральный зал микенского дворца с очагом и престолом",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Мегарон — центральный зал микенского дворца с очагом и престолом.",
+    "importance": "Карточка раскрывает главу «Дворцы, цитадели и монументальная власть» через конкретный сооружение и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: центральный зал микенского дворца с очагом и престолом.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Дворцы, цитадели и монументальная власть",
+      "building"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 5,
+      "legacy": 5,
+      "military": 3,
+      "culture": 6,
+      "politics": 3,
+      "religion": 7,
+      "economy": 5,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Микены",
+      "lat": 37.731,
+      "lon": 22.756
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-07/aeg_s_07_04.svg",
+      "caption": "Локальная учебная обложка: Мегарон",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_07_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_07"
+  },
+  {
+    "id": "AEG_S_07_05",
+    "type": "BUILDING",
+    "title": "Циклопическая кладка",
+    "original": "Cyclopean masonry",
+    "subtitle": "массивные стены из крупных каменных блоков",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XIV–XIII века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Циклопическая кладка — массивные стены из крупных каменных блоков.",
+    "importance": "Карточка раскрывает главу «Дворцы, цитадели и монументальная власть» через конкретный сооружение и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XIV–XIII века до н. э..",
+      "Основной смысл: массивные стены из крупных каменных блоков.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Дворцы, цитадели и монументальная власть",
+      "building"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 5,
+      "military": 5,
+      "culture": 7,
+      "politics": 4,
+      "religion": 3,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Тиринф",
+      "lat": 37.6,
+      "lon": 22.8
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-07/aeg_s_07_05.svg",
+      "caption": "Локальная учебная обложка: Циклопическая кладка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_07_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_07"
+  },
+  {
+    "id": "AEG_S_07_06",
+    "type": "BUILDING",
+    "title": "Львиные ворота",
+    "original": "Lion Gate",
+    "subtitle": "монументальный вход в цитадель Микен",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "ок. 1250 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Львиные ворота — монументальный вход в цитадель Микен.",
+    "importance": "Карточка раскрывает главу «Дворцы, цитадели и монументальная власть» через конкретный сооружение и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: ок. 1250 до н. э..",
+      "Основной смысл: монументальный вход в цитадель Микен.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Дворцы, цитадели и монументальная власть",
+      "building"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 5,
+      "military": 7,
+      "culture": 8,
+      "politics": 5,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Микены",
+      "lat": 37.731,
+      "lon": 22.756
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-07/aeg_s_07_06.svg",
+      "caption": "Локальная учебная обложка: Львиные ворота",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_07_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_07"
+  },
+  {
+    "id": "AEG_S_07_07",
+    "type": "BUILDING",
+    "title": "Толосные гробницы",
+    "original": "Tholos tomb",
+    "subtitle": "купольные элитные погребения с длинным проходом",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Толосные гробницы — купольные элитные погребения с длинным проходом.",
+    "importance": "Карточка раскрывает главу «Дворцы, цитадели и монументальная власть» через конкретный сооружение и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: купольные элитные погребения с длинным проходом.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Дворцы, цитадели и монументальная власть",
+      "building"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 5,
+      "military": 2,
+      "culture": 9,
+      "politics": 6,
+      "religion": 2,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Микены",
+      "lat": 37.731,
+      "lon": 22.756
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-07/aeg_s_07_07.svg",
+      "caption": "Локальная учебная обложка: Толосные гробницы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_07_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_07"
+  },
+  {
+    "id": "AEG_S_07_08",
+    "type": "SYSTEM",
+    "title": "Дворцовые территории",
+    "original": "Mycenaean Greece",
+    "subtitle": "области, подчинённые отдельным административным центрам",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XIV–XIII века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Дворцовые территории — области, подчинённые отдельным административным центрам.",
+    "importance": "Карточка раскрывает главу «Дворцы, цитадели и монументальная власть» через конкретный система и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XIV–XIII века до н. э..",
+      "Основной смысл: области, подчинённые отдельным административным центрам.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Дворцы, цитадели и монументальная власть",
+      "system"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 5,
+      "legacy": 5,
+      "military": 4,
+      "culture": 5,
+      "politics": 7,
+      "religion": 5,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Эгейское море",
+      "lat": 37.4,
+      "lon": 25.2
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-07/aeg_s_07_08.svg",
+      "caption": "Локальная учебная обложка: Дворцовые территории",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_07_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_07"
+  },
+  {
+    "id": "AEG_S_08_01",
+    "type": "TEXT",
+    "title": "Линейное письмо Б",
+    "original": "Linear B",
+    "subtitle": "слоговая система записи микенского греческого языка",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "ок. 1450–1200 до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Линейное письмо Б — слоговая система записи микенского греческого языка.",
+    "importance": "Карточка раскрывает главу «Линейное письмо Б и дворцовая администрация» через конкретный текст и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: ок. 1450–1200 до н. э..",
+      "Основной смысл: слоговая система записи микенского греческого языка.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Линейное письмо Б и дворцовая администрация",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 5,
+      "culture": 9,
+      "politics": 8,
+      "religion": 6,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Кносс",
+      "lat": 35.298,
+      "lon": 25.163
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-08/aeg_s_08_01.svg",
+      "caption": "Локальная учебная обложка: Линейное письмо Б",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/G_1910-0423-1",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Linear B tablet from Knossos",
+      "url": "https://www.britishmuseum.org/collection/object/G_1910-0423-1",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_08"
+  },
+  {
+    "id": "AEG_S_08_02",
+    "type": "TEXT",
+    "title": "Микенский греческий язык",
+    "original": "Mycenaean Greek",
+    "subtitle": "самая ранняя письменно засвидетельствованная форма греческого",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Микенский греческий язык — самая ранняя письменно засвидетельствованная форма греческого.",
+    "importance": "Карточка раскрывает главу «Линейное письмо Б и дворцовая администрация» через конкретный текст и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: самая ранняя письменно засвидетельствованная форма греческого.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Линейное письмо Б и дворцовая администрация",
+      "text"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 7,
+      "culture": 5,
+      "politics": 3,
+      "religion": 2,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Пилос",
+      "lat": 36.952,
+      "lon": 21.695
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-08/aeg_s_08_02.svg",
+      "caption": "Локальная учебная обложка: Микенский греческий язык",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/G_1910-0423-1",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Linear B tablet from Knossos",
+      "url": "https://www.britishmuseum.org/collection/object/G_1910-0423-1",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_08"
+  },
+  {
+    "id": "AEG_S_08_03",
+    "type": "OFFICE",
+    "title": "Ванакс",
+    "original": "Wanax",
+    "subtitle": "верховный правитель в терминологии табличек",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XIII век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Ванакс — верховный правитель в терминологии табличек.",
+    "importance": "Карточка раскрывает главу «Линейное письмо Б и дворцовая администрация» через конкретный должность и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XIII век до н. э..",
+      "Основной смысл: верховный правитель в терминологии табличек.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Линейное письмо Б и дворцовая администрация",
+      "office"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 2,
+      "culture": 6,
+      "politics": 4,
+      "religion": 5,
+      "economy": 5,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Пилос",
+      "lat": 36.952,
+      "lon": 21.695
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-08/aeg_s_08_03.svg",
+      "caption": "Локальная учебная обложка: Ванакс",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/G_1910-0423-1",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Linear B tablet from Knossos",
+      "url": "https://www.britishmuseum.org/collection/object/G_1910-0423-1",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_08"
+  },
+  {
+    "id": "AEG_S_08_04",
+    "type": "OFFICE",
+    "title": "Лавагет",
+    "original": "Lawagetas",
+    "subtitle": "высокий должностной титул микенской администрации",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XIII век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Лавагет — высокий должностной титул микенской администрации.",
+    "importance": "Карточка раскрывает главу «Линейное письмо Б и дворцовая администрация» через конкретный должность и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XIII век до н. э..",
+      "Основной смысл: высокий должностной титул микенской администрации.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Линейное письмо Б и дворцовая администрация",
+      "office"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 4,
+      "culture": 7,
+      "politics": 5,
+      "religion": 8,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Пилос",
+      "lat": 36.952,
+      "lon": 21.695
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-08/aeg_s_08_04.svg",
+      "caption": "Локальная учебная обложка: Лавагет",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/G_1910-0423-1",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_08_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Linear B tablet from Knossos",
+      "url": "https://www.britishmuseum.org/collection/object/G_1910-0423-1",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_08"
+  },
+  {
+    "id": "AEG_S_08_05",
+    "type": "SYSTEM",
+    "title": "Дамос",
+    "original": "Damos",
+    "subtitle": "община или территориальный коллектив в табличках",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XIII век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Дамос — община или территориальный коллектив в табличках.",
+    "importance": "Карточка раскрывает главу «Линейное письмо Б и дворцовая администрация» через конкретный система и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XIII век до н. э..",
+      "Основной смысл: община или территориальный коллектив в табличках.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Линейное письмо Б и дворцовая администрация",
+      "system"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 6,
+      "culture": 8,
+      "politics": 6,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Пилос",
+      "lat": 36.952,
+      "lon": 21.695
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-08/aeg_s_08_05.svg",
+      "caption": "Локальная учебная обложка: Дамос",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/G_1910-0423-1",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_08_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Linear B tablet from Knossos",
+      "url": "https://www.britishmuseum.org/collection/object/G_1910-0423-1",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_08"
+  },
+  {
+    "id": "AEG_S_08_06",
+    "type": "PEOPLE",
+    "title": "Дворцовые писцы",
+    "original": "Linear B",
+    "subtitle": "специалисты, составлявшие административные записи",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XIII век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Дворцовые писцы — специалисты, составлявшие административные записи.",
+    "importance": "Карточка раскрывает главу «Линейное письмо Б и дворцовая администрация» через конкретный народ и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XIII век до н. э..",
+      "Основной смысл: специалисты, составлявшие административные записи.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Линейное письмо Б и дворцовая администрация",
+      "people"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 8,
+      "culture": 9,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Пилос",
+      "lat": 36.952,
+      "lon": 21.695
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-08/aeg_s_08_06.svg",
+      "caption": "Локальная учебная обложка: Дворцовые писцы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/G_1910-0423-1",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_08_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Linear B tablet from Knossos",
+      "url": "https://www.britishmuseum.org/collection/object/G_1910-0423-1",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_08"
+  },
+  {
+    "id": "AEG_S_08_07",
+    "type": "SYSTEM",
+    "title": "Учёт шерсти, масла и стад",
+    "original": "Linear B",
+    "subtitle": "серии табличек о производстве и распределении",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XIII век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Учёт шерсти, масла и стад — серии табличек о производстве и распределении.",
+    "importance": "Карточка раскрывает главу «Линейное письмо Б и дворцовая администрация» через конкретный система и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XIII век до н. э..",
+      "Основной смысл: серии табличек о производстве и распределении.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Линейное письмо Б и дворцовая администрация",
+      "system"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 3,
+      "culture": 5,
+      "politics": 8,
+      "religion": 3,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Кносс",
+      "lat": 35.298,
+      "lon": 25.163
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-08/aeg_s_08_07.svg",
+      "caption": "Локальная учебная обложка: Учёт шерсти, масла и стад",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/G_1910-0423-1",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_08_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Linear B tablet from Knossos",
+      "url": "https://www.britishmuseum.org/collection/object/G_1910-0423-1",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_08"
+  },
+  {
+    "id": "AEG_S_08_08",
+    "type": "TEXT",
+    "title": "Архивы Пилоса",
+    "original": "Pylos tablets",
+    "subtitle": "крупный комплекс табличек последнего года дворца",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "ок. 1200 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Архивы Пилоса — крупный комплекс табличек последнего года дворца.",
+    "importance": "Карточка раскрывает главу «Линейное письмо Б и дворцовая администрация» через конкретный текст и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: ок. 1200 до н. э..",
+      "Основной смысл: крупный комплекс табличек последнего года дворца.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Линейное письмо Б и дворцовая администрация",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 5,
+      "culture": 6,
+      "politics": 3,
+      "religion": 6,
+      "economy": 5,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Пилос",
+      "lat": 36.952,
+      "lon": 21.695
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-08/aeg_s_08_08.svg",
+      "caption": "Локальная учебная обложка: Архивы Пилоса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/G_1910-0423-1",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_08_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Linear B tablet from Knossos",
+      "url": "https://www.britishmuseum.org/collection/object/G_1910-0423-1",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_08"
+  },
+  {
+    "id": "AEG_S_09_01",
+    "type": "ARTIFACT",
+    "title": "Микенская керамика за рубежом",
+    "original": "Mycenaean pottery",
+    "subtitle": "экспортные сосуды, найденные на Кипре и в Леванте",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XIV–XIII века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Микенская керамика за рубежом — экспортные сосуды, найденные на Кипре и в Леванте.",
+    "importance": "Карточка раскрывает главу «Эгейский мир в международной системе» через конкретный артефакт и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XIV–XIII века до н. э..",
+      "Основной смысл: экспортные сосуды, найденные на Кипре и в Леванте.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Эгейский мир в международной системе",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 6,
+      "culture": 5,
+      "politics": 4,
+      "religion": 7,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Левант",
+      "lat": 34.7,
+      "lon": 35.8
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-09/aeg_s_09_01.svg",
+      "caption": "Локальная учебная обложка: Микенская керамика за рубежом",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/greece-minoans-and-mycenaeans",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_09_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Greece — Minoans and Mycenaeans",
+      "url": "https://www.britishmuseum.org/collection/galleries/greece-minoans-and-mycenaeans",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_09"
+  },
+  {
+    "id": "AEG_S_09_02",
+    "type": "STATE",
+    "title": "Аххиява",
+    "original": "Ahhiyawa",
+    "subtitle": "земля в хеттских текстах, часто связываемая с микенским миром",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XIV–XIII века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Аххиява — земля в хеттских текстах, часто связываемая с микенским миром.",
+    "importance": "Карточка раскрывает главу «Эгейский мир в международной системе» через конкретный государство и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XIV–XIII века до н. э..",
+      "Основной смысл: земля в хеттских текстах, часто связываемая с микенским миром.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Эгейский мир в международной системе",
+      "state"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 8,
+      "culture": 6,
+      "politics": 5,
+      "religion": 3,
+      "economy": 5,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Эгейское море",
+      "lat": 37.4,
+      "lon": 25.2
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-09/aeg_s_09_02.svg",
+      "caption": "Локальная учебная обложка: Аххиява",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/greece-minoans-and-mycenaeans",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_09_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Greece — Minoans and Mycenaeans",
+      "url": "https://www.britishmuseum.org/collection/galleries/greece-minoans-and-mycenaeans",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_09"
+  },
+  {
+    "id": "AEG_S_09_03",
+    "type": "STATE",
+    "title": "Вилуса",
+    "original": "Wilusa",
+    "subtitle": "западноанатолийское царство, связываемое с Троадой",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XIII век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Вилуса — западноанатолийское царство, связываемое с Троадой.",
+    "importance": "Карточка раскрывает главу «Эгейский мир в международной системе» через конкретный государство и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XIII век до н. э..",
+      "Основной смысл: западноанатолийское царство, связываемое с Троадой.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Эгейский мир в международной системе",
+      "state"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 3,
+      "culture": 7,
+      "politics": 6,
+      "religion": 6,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Троя / Вилуса",
+      "lat": 39.957,
+      "lon": 26.239
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-09/aeg_s_09_03.svg",
+      "caption": "Локальная учебная обложка: Вилуса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/greece-minoans-and-mycenaeans",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_09_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Greece — Minoans and Mycenaeans",
+      "url": "https://www.britishmuseum.org/collection/galleries/greece-minoans-and-mycenaeans",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_09"
+  },
+  {
+    "id": "AEG_S_09_04",
+    "type": "CITY",
+    "title": "Троя VI–VII",
+    "original": "Troy VI and VII",
+    "subtitle": "слои позднего бронзового века в Троаде",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XVII–XII века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Троя VI–VII — слои позднего бронзового века в Троаде.",
+    "importance": "Карточка раскрывает главу «Эгейский мир в международной системе» через конкретный город и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XVII–XII века до н. э..",
+      "Основной смысл: слои позднего бронзового века в Троаде.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Эгейский мир в международной системе",
+      "city"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 5,
+      "legacy": 7,
+      "military": 5,
+      "culture": 8,
+      "politics": 7,
+      "religion": 2,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Троя / Вилуса",
+      "lat": 39.957,
+      "lon": 26.239
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-09/aeg_s_09_04.svg",
+      "caption": "Локальная учебная обложка: Троя VI–VII",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/greece-minoans-and-mycenaeans",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_09_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Greece — Minoans and Mycenaeans",
+      "url": "https://www.britishmuseum.org/collection/galleries/greece-minoans-and-mycenaeans",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_09"
+  },
+  {
+    "id": "AEG_S_09_05",
+    "type": "SITE",
+    "title": "Кораблекрушение Улубурун",
+    "original": "Uluburun shipwreck",
+    "subtitle": "затонувший корабль с международным грузом",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "ок. 1300 до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Кораблекрушение Улубурун — затонувший корабль с международным грузом.",
+    "importance": "Карточка раскрывает главу «Эгейский мир в международной системе» через конкретный место и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: ок. 1300 до н. э..",
+      "Основной смысл: затонувший корабль с международным грузом.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Эгейский мир в международной системе",
+      "site"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 7,
+      "culture": 9,
+      "politics": 8,
+      "religion": 5,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Улубурун",
+      "lat": 36.13,
+      "lon": 29.69
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-09/aeg_s_09_05.svg",
+      "caption": "Локальная учебная обложка: Кораблекрушение Улубурун",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/greece-minoans-and-mycenaeans",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_09_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Greece — Minoans and Mycenaeans",
+      "url": "https://www.britishmuseum.org/collection/galleries/greece-minoans-and-mycenaeans",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_09"
+  },
+  {
+    "id": "AEG_S_09_06",
+    "type": "RESOURCE",
+    "title": "Кипрская медь",
+    "original": "Cyprus in antiquity",
+    "subtitle": "ключевой источник меди позднего бронзового века",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Кипрская медь — ключевой источник меди позднего бронзового века.",
+    "importance": "Карточка раскрывает главу «Эгейский мир в международной системе» через конкретный ресурс и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: ключевой источник меди позднего бронзового века.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Эгейский мир в международной системе",
+      "resource"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 2,
+      "culture": 5,
+      "politics": 3,
+      "religion": 8,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Кипр",
+      "lat": 35.0,
+      "lon": 33.2
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-09/aeg_s_09_06.svg",
+      "caption": "Локальная учебная обложка: Кипрская медь",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/greece-minoans-and-mycenaeans",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_09_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Greece — Minoans and Mycenaeans",
+      "url": "https://www.britishmuseum.org/collection/galleries/greece-minoans-and-mycenaeans",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_09"
+  },
+  {
+    "id": "AEG_S_09_07",
+    "type": "ROUTE",
+    "title": "Эгейско-египетские контакты",
+    "original": "Aegean Egypt relations",
+    "subtitle": "обмен предметами, изображениями и посольскими дарами",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Эгейско-египетские контакты — обмен предметами, изображениями и посольскими дарами.",
+    "importance": "Карточка раскрывает главу «Эгейский мир в международной системе» через конкретный маршрут и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной смысл: обмен предметами, изображениями и посольскими дарами.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Эгейский мир в международной системе",
+      "route"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 6,
+      "politics": 4,
+      "religion": 4,
+      "economy": 5,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Египет",
+      "lat": 29.98,
+      "lon": 31.13
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-09/aeg_s_09_07.svg",
+      "caption": "Локальная учебная обложка: Эгейско-египетские контакты",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/greece-minoans-and-mycenaeans",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_09_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Greece — Minoans and Mycenaeans",
+      "url": "https://www.britishmuseum.org/collection/galleries/greece-minoans-and-mycenaeans",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_09"
+  },
+  {
+    "id": "AEG_S_09_08",
+    "type": "SYSTEM",
+    "title": "Дипломатия дворцовых держав",
+    "original": "Late Bronze Age diplomacy",
+    "subtitle": "контакты правителей, посланников и вассалов",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XIV–XIII века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Дипломатия дворцовых держав — контакты правителей, посланников и вассалов.",
+    "importance": "Карточка раскрывает главу «Эгейский мир в международной системе» через конкретный система и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XIV–XIII века до н. э..",
+      "Основной смысл: контакты правителей, посланников и вассалов.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Эгейский мир в международной системе",
+      "system"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 5,
+      "religion": 7,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Хаттуса",
+      "lat": 40.019,
+      "lon": 34.615
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-09/aeg_s_09_08.svg",
+      "caption": "Локальная учебная обложка: Дипломатия дворцовых держав",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/greece-minoans-and-mycenaeans",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_09_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Greece — Minoans and Mycenaeans",
+      "url": "https://www.britishmuseum.org/collection/galleries/greece-minoans-and-mycenaeans",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_09"
+  },
+  {
+    "id": "AEG_S_10_01",
+    "type": "EVENT",
+    "title": "Разрушение Пилоса",
+    "original": "Palace of Nestor",
+    "subtitle": "пожар, уничтоживший дворец и сохранивший таблички",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "ок. 1200 до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Разрушение Пилоса — пожар, уничтоживший дворец и сохранивший таблички.",
+    "importance": "Карточка раскрывает главу «Кризис дворцов и историческая реконструкция» через конкретный событие и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: ок. 1200 до н. э..",
+      "Основной смысл: пожар, уничтоживший дворец и сохранивший таблички.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Кризис дворцов и историческая реконструкция",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 6,
+      "religion": 8,
+      "economy": 5,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Пилос",
+      "lat": 36.952,
+      "lon": 21.695
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-10/aeg_s_10_01.svg",
+      "caption": "Локальная учебная обложка: Разрушение Пилоса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_10_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_10"
+  },
+  {
+    "id": "AEG_S_10_02",
+    "type": "EVENT",
+    "title": "Кризис микенских дворцов",
+    "original": "Late Bronze Age collapse",
+    "subtitle": "серия разрушений и прекращение дворцовой администрации",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "ок. 1200 до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Кризис микенских дворцов — серия разрушений и прекращение дворцовой администрации.",
+    "importance": "Карточка раскрывает главу «Кризис дворцов и историческая реконструкция» через конкретный событие и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: ок. 1200 до н. э..",
+      "Основной смысл: серия разрушений и прекращение дворцовой администрации.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Кризис дворцов и историческая реконструкция",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 2,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Эгейское море",
+      "lat": 37.4,
+      "lon": 25.2
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-10/aeg_s_10_02.svg",
+      "caption": "Локальная учебная обложка: Кризис микенских дворцов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_10_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_10"
+  },
+  {
+    "id": "AEG_S_10_03",
+    "type": "PERIOD",
+    "title": "Позднеэлладский IIIC",
+    "original": "Late Helladic IIIC",
+    "subtitle": "археологический период после гибели дворцов",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XII век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Позднеэлладский IIIC — археологический период после гибели дворцов.",
+    "importance": "Карточка раскрывает главу «Кризис дворцов и историческая реконструкция» через конкретный период и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XII век до н. э..",
+      "Основной смысл: археологический период после гибели дворцов.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Кризис дворцов и историческая реконструкция",
+      "period"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 4,
+      "culture": 8,
+      "politics": 8,
+      "religion": 7,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Эгейское море",
+      "lat": 37.4,
+      "lon": 25.2
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-10/aeg_s_10_03.svg",
+      "caption": "Локальная учебная обложка: Позднеэлладский IIIC",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_10_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_10"
+  },
+  {
+    "id": "AEG_S_10_04",
+    "type": "CITY",
+    "title": "Продолжение жизни в Тиринфе",
+    "original": "Tiryns",
+    "subtitle": "поселение сохранялось после разрушения дворца",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XII век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Продолжение жизни в Тиринфе — поселение сохранялось после разрушения дворца.",
+    "importance": "Карточка раскрывает главу «Кризис дворцов и историческая реконструкция» через конкретный город и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XII век до н. э..",
+      "Основной смысл: поселение сохранялось после разрушения дворца.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Кризис дворцов и историческая реконструкция",
+      "city"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 5,
+      "legacy": 8,
+      "military": 6,
+      "culture": 9,
+      "politics": 3,
+      "religion": 3,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Тиринф",
+      "lat": 37.6,
+      "lon": 22.8
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-10/aeg_s_10_04.svg",
+      "caption": "Локальная учебная обложка: Продолжение жизни в Тиринфе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_10_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_10"
+  },
+  {
+    "id": "AEG_S_10_05",
+    "type": "PEOPLE",
+    "title": "Перемещения населения",
+    "original": "Late Bronze Age collapse",
+    "subtitle": "изменения расселения внутри Эгейского мира",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XII век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Перемещения населения — изменения расселения внутри Эгейского мира.",
+    "importance": "Карточка раскрывает главу «Кризис дворцов и историческая реконструкция» через конкретный народ и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XII век до н. э..",
+      "Основной смысл: изменения расселения внутри Эгейского мира.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Кризис дворцов и историческая реконструкция",
+      "people"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 8,
+      "culture": 5,
+      "politics": 4,
+      "religion": 6,
+      "economy": 4,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Эгейское море",
+      "lat": 37.4,
+      "lon": 25.2
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-10/aeg_s_10_05.svg",
+      "caption": "Локальная учебная обложка: Перемещения населения",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_10_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_10"
+  },
+  {
+    "id": "AEG_S_10_06",
+    "type": "RESOURCE",
+    "title": "Постепенное распространение железа",
+    "original": "Iron Age Greece",
+    "subtitle": "переход к железным технологиям, не происходивший мгновенно",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "XI–X века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Постепенное распространение железа — переход к железным технологиям, не происходивший мгновенно.",
+    "importance": "Карточка раскрывает главу «Кризис дворцов и историческая реконструкция» через конкретный ресурс и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: XI–X века до н. э..",
+      "Основной смысл: переход к железным технологиям, не происходивший мгновенно.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Кризис дворцов и историческая реконструкция",
+      "resource"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 3,
+      "culture": 6,
+      "politics": 5,
+      "religion": 2,
+      "economy": 5,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Эгейское море",
+      "lat": 37.4,
+      "lon": 25.2
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-10/aeg_s_10_06.svg",
+      "caption": "Локальная учебная обложка: Постепенное распространение железа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_10_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_10"
+  },
+  {
+    "id": "AEG_S_10_07",
+    "type": "TEXT",
+    "title": "Гомеровская память",
+    "original": "Homeric Question",
+    "subtitle": "поздняя эпическая традиция с отдельными следами более раннего мира",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Гомеровская память — поздняя эпическая традиция с отдельными следами более раннего мира.",
+    "importance": "Карточка раскрывает главу «Кризис дворцов и историческая реконструкция» через конкретный текст и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Основной смысл: поздняя эпическая традиция с отдельными следами более раннего мира.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Кризис дворцов и историческая реконструкция",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 7,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Эгейское море",
+      "lat": 37.4,
+      "lon": 25.2
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-10/aeg_s_10_07.svg",
+      "caption": "Локальная учебная обложка: Гомеровская память",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_10_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_10"
+  },
+  {
+    "id": "AEG_S_10_08",
+    "type": "CONCEPT",
+    "title": "Археология и Троянская война",
+    "original": "Trojan War archaeology",
+    "subtitle": "сопоставление эпоса, хеттских текстов и слоёв Трои",
+    "era": "Царства бронзового века",
+    "region": "Крит, Эгейское море и материковая Греция",
+    "date": "современная реконструкция",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Археология и Троянская война — сопоставление эпоса, хеттских текстов и слоёв Трои.",
+    "importance": "Карточка раскрывает главу «Кризис дворцов и историческая реконструкция» через конкретный понятие и связывает его с географией, археологией и устройством Эгейского мира.",
+    "facts": [
+      "Датировка: современная реконструкция.",
+      "Основной смысл: сопоставление эпоса, хеттских текстов и слоёв Трои.",
+      "Выводы проверяются по месту находки, археологическому слою, жанру текста и степени сохранности материала."
+    ],
+    "tags": [
+      "Эгейский мир",
+      "бронзовый век",
+      "Кризис дворцов и историческая реконструкция",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 5,
+      "legacy": 8,
+      "military": 7,
+      "culture": 8,
+      "politics": 7,
+      "religion": 8,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Троя / Вилуса",
+      "lat": 39.957,
+      "lon": 26.239
+    },
+    "image": {
+      "local": "assets/cards/aegean/chapter-10/aeg_s_10_08.svg",
+      "caption": "Локальная учебная обложка: Археология и Троянская война",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/941/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "aeg_s_10_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Sites of Mycenae and Tiryns",
+      "url": "https://whc.unesco.org/en/list/941/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AEGEAN_BRONZE",
+    "chapter": "AEG_CHAPTER_10"
+  }
+]

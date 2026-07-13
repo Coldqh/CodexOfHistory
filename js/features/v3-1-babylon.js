@@ -1,6 +1,6 @@
-/* Codex v3.3.0 — Babylon and early Bronze Age */
+/* Codex v3.4.0 — Babylon and early Bronze Age */
 (()=>{
-  const V='3.3.0';
+  const V='3.4.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.BABYLON_OLD='BABYLON';
   state.bronzeMapMode=state.bronzeMapMode==='ERA'?'ERA':'CAMPAIGN';
@@ -87,7 +87,7 @@
   worldScreen=function(){
     let html=oldWorld();
     if(state.worldEra!=='ERA_BRONZE'||state.worldView==='TIMELINE')return html;
-    const block=`<section class="bronze-world-summary reveal"><div><small>ЭПОХА II</small><h2>Три кампании доступны</h2><p>Открыты Вавилон, Египет Среднего и Нового царства, а также Хетты и Анатолия. Эгейский мир, международная система и кризис около 1200 года остаются в плане.</p></div><div class="hero-actions"><button class="btn" onclick="startWorldCampaign('BABYLON_OLD')">Вавилон</button><button class="btn secondary" onclick="startWorldCampaign('EGYPT_MIDDLE_NEW')">Египет</button><button class="btn secondary" onclick="startWorldCampaign('HITTITES')">Хетты</button></div></section>`;
+    const block=`<section class="bronze-world-summary reveal"><div><small>ЭПОХА II</small><h2>Четыре кампании доступны</h2><p>Открыты Вавилон, Египет Среднего и Нового царства, Хетты и Анатолия, а также Минойцы и микенцы. Международная система и кризис около 1200 года остаются в плане.</p></div><div class="hero-actions"><button class="btn" onclick="startWorldCampaign('BABYLON_OLD')">Вавилон</button><button class="btn secondary" onclick="startWorldCampaign('EGYPT_MIDDLE_NEW')">Египет</button><button class="btn secondary" onclick="startWorldCampaign('HITTITES')">Хетты</button><button class="btn secondary" onclick="startWorldCampaign('AEGEAN_BRONZE')">Эгейский мир</button></div></section>`;
     if(html.includes('<div class="study-campaign-grid')) return html.replace('<div class="study-campaign-grid',block+'<div class="study-campaign-grid');
     return html.replace('<div class="world-campaign-grid',block+'<div class="world-campaign-grid');
   };

@@ -1,5 +1,5 @@
 {
-  "version": "3.3.0",
+  "version": "3.4.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -24,7 +24,9 @@
       "data/cards/egypt/middle-new-story.json",
       "data/cards/egypt/middle-new-archive.json",
       "data/cards/hittites/story.json",
-      "data/cards/hittites/archive.json"
+      "data/cards/hittites/archive.json",
+      "data/cards/aegean/story.json",
+      "data/cards/aegean/archive.json"
     ],
     "relations": "data/core/relations.json",
     "pools": [
@@ -37,7 +39,8 @@
       "data/campaigns/civilizations/pools.json",
       "data/campaigns/babylon/pools.json",
       "data/campaigns/egypt-middle-new/pools.json",
-      "data/campaigns/hittites/pools.json"
+      "data/campaigns/hittites/pools.json",
+      "data/campaigns/aegean/pools.json"
     ],
     "quizzes": [
       "data/quizzes/rome/chapter_01.json",
@@ -53,7 +56,8 @@
       "data/quizzes/civilizations/campaign.json",
       "data/quizzes/babylon/campaign.json",
       "data/quizzes/egypt-middle-new/campaign.json",
-      "data/quizzes/hittites/campaign.json"
+      "data/quizzes/hittites/campaign.json",
+      "data/quizzes/aegean/campaign.json"
     ],
     "stories": [
       "data/stories/rome/personal.json",
@@ -65,7 +69,8 @@
       "data/stories/civilizations/personal.json",
       "data/stories/babylon/personal.json",
       "data/stories/egypt-middle-new/personal.json",
-      "data/stories/hittites/personal.json"
+      "data/stories/hittites/personal.json",
+      "data/stories/aegean/personal.json"
     ],
     "mastery": "data/core/mastery.json",
     "packs": "data/core/packs.json",
@@ -81,7 +86,8 @@
       "BABYLON_OLD": "data/maps/babylon.json",
       "BRONZE_WORLD": "data/maps/bronze-world.json",
       "EGYPT_MIDDLE_NEW": "data/maps/egypt-middle-new.json",
-      "HITTITES": "data/maps/hittites.json"
+      "HITTITES": "data/maps/hittites.json",
+      "AEGEAN_BRONZE": "data/maps/aegean.json"
     },
     "daily": "data/core/daily-learning.json",
     "lessons": [
@@ -98,7 +104,8 @@
       "data/lessons/civilizations/campaign.json",
       "data/lessons/babylon/campaign.json",
       "data/lessons/egypt-middle-new/campaign.json",
-      "data/lessons/hittites/campaign.json"
+      "data/lessons/hittites/campaign.json",
+      "data/lessons/aegean/campaign.json"
     ],
     "eras": "data/world/eras.json",
     "campaignCatalog": "data/world/campaigns.json",
@@ -113,7 +120,8 @@
       "data/campaigns/civilizations/campaign.json",
       "data/campaigns/babylon/campaign.json",
       "data/campaigns/egypt-middle-new/campaign.json",
-      "data/campaigns/hittites/campaign.json"
+      "data/campaigns/hittites/campaign.json",
+      "data/campaigns/aegean/campaign.json"
     ],
     "imageQueries": "data/image_queries.json"
   },
@@ -149,6 +157,7 @@
     "js/features/v3-1-babylon.js",
     "js/features/v3-2-egypt-middle-new.js",
     "js/features/v3-3-hittites.js",
+    "js/features/v3-4-aegean.js",
     "js/features/v3-1-1-hotfix.js",
     "js/features/v3-1-3-visual-semantics.js",
     "js/core/start.js"

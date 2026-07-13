@@ -1,0 +1,330 @@
+{
+  "points": {
+    "AEGEAN": [
+      37.4,
+      25.2
+    ],
+    "CRETE": [
+      35.24,
+      24.81
+    ],
+    "CYCLADES": [
+      37.0,
+      25.0
+    ],
+    "KNOSSOS": [
+      35.298,
+      25.163
+    ],
+    "PHAISTOS": [
+      35.051,
+      24.814
+    ],
+    "MALIA": [
+      35.293,
+      25.462
+    ],
+    "ZAKROS": [
+      35.099,
+      26.261
+    ],
+    "KYDONIA": [
+      35.513,
+      24.018
+    ],
+    "ZOMINTHOS": [
+      35.31,
+      24.89
+    ],
+    "AKROTIRI": [
+      36.351,
+      25.403
+    ],
+    "THERA": [
+      36.393,
+      25.461
+    ],
+    "MELOS": [
+      36.72,
+      24.43
+    ],
+    "PHYLAKOPI": [
+      36.75,
+      24.45
+    ],
+    "KOMMOS": [
+      35.016,
+      24.761
+    ],
+    "MYCENAE": [
+      37.731,
+      22.756
+    ],
+    "TIRYNS": [
+      37.6,
+      22.8
+    ],
+    "PYLOS": [
+      36.952,
+      21.695
+    ],
+    "THEBES": [
+      38.321,
+      23.318
+    ],
+    "ATHENS": [
+      37.972,
+      23.726
+    ],
+    "ORCHOMENOS": [
+      38.493,
+      22.979
+    ],
+    "IOLKOS": [
+      39.36,
+      22.95
+    ],
+    "RHODES": [
+      36.16,
+      28.0
+    ],
+    "MILETUS": [
+      37.53,
+      27.28
+    ],
+    "TROY": [
+      39.957,
+      26.239
+    ],
+    "HATTUSA": [
+      40.019,
+      34.615
+    ],
+    "EGYPT": [
+      29.98,
+      31.13
+    ],
+    "ULUBURUN": [
+      36.13,
+      29.69
+    ],
+    "CYPRUS": [
+      35.0,
+      33.2
+    ],
+    "LEVANT": [
+      34.7,
+      35.8
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "AEG_S_01_01": "AEGEAN",
+    "AEG_S_01_02": "CRETE",
+    "AEG_S_01_03": "CYCLADES",
+    "AEG_S_01_04": "CYCLADES",
+    "AEG_S_01_05": "MELOS",
+    "AEG_S_01_06": "AEGEAN",
+    "AEG_S_01_07": "PHYLAKOPI",
+    "AEG_S_01_08": "AEGEAN",
+    "AEG_A_01_01": "CYCLADES",
+    "AEG_A_01_02": "CYCLADES",
+    "AEG_A_01_03": "CYCLADES",
+    "AEG_A_01_04": "MELOS",
+    "AEG_S_02_01": "KNOSSOS",
+    "AEG_S_02_02": "PHAISTOS",
+    "AEG_S_02_03": "MALIA",
+    "AEG_S_02_04": "KNOSSOS",
+    "AEG_S_02_05": "KNOSSOS",
+    "AEG_S_02_06": "PHAISTOS",
+    "AEG_S_02_07": "MALIA",
+    "AEG_S_02_08": "KNOSSOS",
+    "AEG_A_02_01": "PHAISTOS",
+    "AEG_A_02_02": "PHAISTOS",
+    "AEG_A_02_03": "MALIA",
+    "AEG_A_02_04": "CRETE",
+    "AEG_S_03_01": "KNOSSOS",
+    "AEG_S_03_02": "KNOSSOS",
+    "AEG_S_03_03": "KOMMOS",
+    "AEG_S_03_04": "ZAKROS",
+    "AEG_S_03_05": "CYPRUS",
+    "AEG_S_03_06": "AEGEAN",
+    "AEG_S_03_07": "KNOSSOS",
+    "AEG_S_03_08": "AEGEAN",
+    "AEG_A_03_01": "ZAKROS",
+    "AEG_A_03_02": "CYPRUS",
+    "AEG_A_03_03": "AEGEAN",
+    "AEG_A_03_04": "EGYPT",
+    "AEG_S_04_01": "CRETE",
+    "AEG_S_04_02": "KNOSSOS",
+    "AEG_S_04_03": "ZOMINTHOS",
+    "AEG_S_04_04": "CRETE",
+    "AEG_S_04_05": "KNOSSOS",
+    "AEG_S_04_06": "KNOSSOS",
+    "AEG_S_04_07": "KNOSSOS",
+    "AEG_S_04_08": "CRETE",
+    "AEG_A_04_01": "KNOSSOS",
+    "AEG_A_04_02": "PHAISTOS",
+    "AEG_A_04_03": "CRETE",
+    "AEG_A_04_04": "CRETE",
+    "AEG_S_05_01": "THERA",
+    "AEG_S_05_02": "AKROTIRI",
+    "AEG_S_05_03": "AKROTIRI",
+    "AEG_S_05_04": "THERA",
+    "AEG_S_05_05": "THERA",
+    "AEG_S_05_06": "CRETE",
+    "AEG_S_05_07": "CRETE",
+    "AEG_S_05_08": "KNOSSOS",
+    "AEG_A_05_01": "AKROTIRI",
+    "AEG_A_05_02": "AKROTIRI",
+    "AEG_A_05_03": "THERA",
+    "AEG_A_05_04": "CRETE",
+    "AEG_S_06_01": "MYCENAE",
+    "AEG_S_06_02": "MYCENAE",
+    "AEG_S_06_03": "MYCENAE",
+    "AEG_S_06_04": "MYCENAE",
+    "AEG_S_06_05": "MYCENAE",
+    "AEG_S_06_06": "MYCENAE",
+    "AEG_S_06_07": "MYCENAE",
+    "AEG_S_06_08": "AEGEAN",
+    "AEG_A_06_01": "MYCENAE",
+    "AEG_A_06_02": "PYLOS",
+    "AEG_A_06_03": "MYCENAE",
+    "AEG_A_06_04": "MYCENAE",
+    "AEG_S_07_01": "MYCENAE",
+    "AEG_S_07_02": "TIRYNS",
+    "AEG_S_07_03": "PYLOS",
+    "AEG_S_07_04": "MYCENAE",
+    "AEG_S_07_05": "TIRYNS",
+    "AEG_S_07_06": "MYCENAE",
+    "AEG_S_07_07": "MYCENAE",
+    "AEG_S_07_08": "AEGEAN",
+    "AEG_A_07_01": "MYCENAE",
+    "AEG_A_07_02": "TIRYNS",
+    "AEG_A_07_03": "PYLOS",
+    "AEG_A_07_04": "MYCENAE",
+    "AEG_S_08_01": "KNOSSOS",
+    "AEG_S_08_02": "PYLOS",
+    "AEG_S_08_03": "PYLOS",
+    "AEG_S_08_04": "PYLOS",
+    "AEG_S_08_05": "PYLOS",
+    "AEG_S_08_06": "PYLOS",
+    "AEG_S_08_07": "KNOSSOS",
+    "AEG_S_08_08": "PYLOS",
+    "AEG_A_08_01": "KNOSSOS",
+    "AEG_A_08_02": "PYLOS",
+    "AEG_A_08_03": "AEGEAN",
+    "AEG_A_08_04": "PYLOS",
+    "AEG_S_09_01": "LEVANT",
+    "AEG_S_09_02": "AEGEAN",
+    "AEG_S_09_03": "TROY",
+    "AEG_S_09_04": "TROY",
+    "AEG_S_09_05": "ULUBURUN",
+    "AEG_S_09_06": "CYPRUS",
+    "AEG_S_09_07": "EGYPT",
+    "AEG_S_09_08": "HATTUSA",
+    "AEG_A_09_01": "EGYPT",
+    "AEG_A_09_02": "HATTUSA",
+    "AEG_A_09_03": "ULUBURUN",
+    "AEG_A_09_04": "LEVANT",
+    "AEG_S_10_01": "PYLOS",
+    "AEG_S_10_02": "AEGEAN",
+    "AEG_S_10_03": "AEGEAN",
+    "AEG_S_10_04": "TIRYNS",
+    "AEG_S_10_05": "AEGEAN",
+    "AEG_S_10_06": "AEGEAN",
+    "AEG_S_10_07": "AEGEAN",
+    "AEG_S_10_08": "TROY",
+    "AEG_A_10_01": "PYLOS",
+    "AEG_A_10_02": "MYCENAE",
+    "AEG_A_10_03": "ATHENS",
+    "AEG_A_10_04": "MYCENAE"
+  },
+  "chapters": {
+    "AEG_CHAPTER_01": {
+      "title": "Эгейское море до дворцов",
+      "center": [
+        37.0,
+        25.0
+      ],
+      "zoom": 5
+    },
+    "AEG_CHAPTER_02": {
+      "title": "Первые минойские дворцовые центры",
+      "center": [
+        35.298,
+        25.163
+      ],
+      "zoom": 5
+    },
+    "AEG_CHAPTER_03": {
+      "title": "Хозяйство дворцов и морские сети",
+      "center": [
+        35.298,
+        25.163
+      ],
+      "zoom": 5
+    },
+    "AEG_CHAPTER_04": {
+      "title": "Ритуал, искусство и линейное письмо А",
+      "center": [
+        35.298,
+        25.163
+      ],
+      "zoom": 5
+    },
+    "AEG_CHAPTER_05": {
+      "title": "Фера, Акротири и перелом на Крите",
+      "center": [
+        36.393,
+        25.461
+      ],
+      "zoom": 5
+    },
+    "AEG_CHAPTER_06": {
+      "title": "Возникновение микенского мира",
+      "center": [
+        37.731,
+        22.756
+      ],
+      "zoom": 5
+    },
+    "AEG_CHAPTER_07": {
+      "title": "Дворцы, цитадели и монументальная власть",
+      "center": [
+        37.731,
+        22.756
+      ],
+      "zoom": 5
+    },
+    "AEG_CHAPTER_08": {
+      "title": "Линейное письмо Б и дворцовая администрация",
+      "center": [
+        35.298,
+        25.163
+      ],
+      "zoom": 5
+    },
+    "AEG_CHAPTER_09": {
+      "title": "Эгейский мир в международной системе",
+      "center": [
+        36.13,
+        29.69
+      ],
+      "zoom": 5
+    },
+    "AEG_CHAPTER_10": {
+      "title": "Кризис дворцов и историческая реконструкция",
+      "center": [
+        36.952,
+        21.695
+      ],
+      "zoom": 5
+    }
+  },
+  "missionCenter": [
+    36.8,
+    24.6
+  ],
+  "missionZoom": 5
+}

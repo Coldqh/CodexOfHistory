@@ -1,0 +1,335 @@
+{
+  "campaignId": "AEGEAN_BRONZE",
+  "campaigns": {
+    "AEGEAN_BRONZE": {
+      "id": "AEGEAN_BRONZE",
+      "title": "Минойцы и микенцы",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "AEG_POOL_01",
+      "campaign": "AEGEAN_BRONZE",
+      "title": "Эгейское море до дворцов",
+      "unlockMission": "AEG_01_02",
+      "cardIds": [
+        "AEG_A_01_01",
+        "AEG_A_01_02",
+        "AEG_A_01_03",
+        "AEG_A_01_04"
+      ]
+    },
+    {
+      "id": "AEG_POOL_02",
+      "campaign": "AEGEAN_BRONZE",
+      "title": "Первые минойские дворцовые центры",
+      "unlockMission": "AEG_02_02",
+      "cardIds": [
+        "AEG_A_02_01",
+        "AEG_A_02_02",
+        "AEG_A_02_03",
+        "AEG_A_02_04"
+      ]
+    },
+    {
+      "id": "AEG_POOL_03",
+      "campaign": "AEGEAN_BRONZE",
+      "title": "Хозяйство дворцов и морские сети",
+      "unlockMission": "AEG_03_02",
+      "cardIds": [
+        "AEG_A_03_01",
+        "AEG_A_03_02",
+        "AEG_A_03_03",
+        "AEG_A_03_04"
+      ]
+    },
+    {
+      "id": "AEG_POOL_04",
+      "campaign": "AEGEAN_BRONZE",
+      "title": "Ритуал, искусство и линейное письмо А",
+      "unlockMission": "AEG_04_02",
+      "cardIds": [
+        "AEG_A_04_01",
+        "AEG_A_04_02",
+        "AEG_A_04_03",
+        "AEG_A_04_04"
+      ]
+    },
+    {
+      "id": "AEG_POOL_05",
+      "campaign": "AEGEAN_BRONZE",
+      "title": "Фера, Акротири и перелом на Крите",
+      "unlockMission": "AEG_05_02",
+      "cardIds": [
+        "AEG_A_05_01",
+        "AEG_A_05_02",
+        "AEG_A_05_03",
+        "AEG_A_05_04"
+      ]
+    },
+    {
+      "id": "AEG_POOL_06",
+      "campaign": "AEGEAN_BRONZE",
+      "title": "Возникновение микенского мира",
+      "unlockMission": "AEG_06_02",
+      "cardIds": [
+        "AEG_A_06_01",
+        "AEG_A_06_02",
+        "AEG_A_06_03",
+        "AEG_A_06_04"
+      ]
+    },
+    {
+      "id": "AEG_POOL_07",
+      "campaign": "AEGEAN_BRONZE",
+      "title": "Дворцы, цитадели и монументальная власть",
+      "unlockMission": "AEG_07_02",
+      "cardIds": [
+        "AEG_A_07_01",
+        "AEG_A_07_02",
+        "AEG_A_07_03",
+        "AEG_A_07_04"
+      ]
+    },
+    {
+      "id": "AEG_POOL_08",
+      "campaign": "AEGEAN_BRONZE",
+      "title": "Линейное письмо Б и дворцовая администрация",
+      "unlockMission": "AEG_08_02",
+      "cardIds": [
+        "AEG_A_08_01",
+        "AEG_A_08_02",
+        "AEG_A_08_03",
+        "AEG_A_08_04"
+      ]
+    },
+    {
+      "id": "AEG_POOL_09",
+      "campaign": "AEGEAN_BRONZE",
+      "title": "Эгейский мир в международной системе",
+      "unlockMission": "AEG_09_02",
+      "cardIds": [
+        "AEG_A_09_01",
+        "AEG_A_09_02",
+        "AEG_A_09_03",
+        "AEG_A_09_04"
+      ]
+    },
+    {
+      "id": "AEG_POOL_10",
+      "campaign": "AEGEAN_BRONZE",
+      "title": "Кризис дворцов и историческая реконструкция",
+      "unlockMission": "AEG_10_02",
+      "cardIds": [
+        "AEG_A_10_01",
+        "AEG_A_10_02",
+        "AEG_A_10_03",
+        "AEG_A_10_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "AEG_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_01",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_01",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_01",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_01",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_02",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_02",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_02",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_02",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_03",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_03",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_03",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_03",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_04",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_04",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_04",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_04",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_05",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_05",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_05",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_05",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_06",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_06",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_06",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_06",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_07",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_07",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_07",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_07",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_08",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_08",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_08",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_08",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_09",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_09",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_09",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_09",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_10",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_10",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_10",
+      "campaign": "AEGEAN_BRONZE"
+    },
+    "AEG_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "AEG_POOL_10",
+      "campaign": "AEGEAN_BRONZE"
+    }
+  }
+}

@@ -8,7 +8,7 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "3.3.0"
+VERSION = "3.4.0"
 
 GROUP_CONTEXT = {
     "ROME": {
@@ -38,6 +38,10 @@ GROUP_CONTEXT = {
     "HITTITES": {
         "terms": ["хетт", "hittite", "хатт", "hatti", "анатол", "anatolia", "hattusa", "сирия", "syria", "клинопис"],
         "base": [("ru", "Хетты"), ("en", "Hittites")],
+    },
+    "AEGEAN_BRONZE": {
+        "terms": ["миной", "minoan", "микен", "mycenaean", "эгей", "aegean", "crete", "крит", "knossos", "mycenae", "bronze age"],
+        "base": [("ru", "Эгейская цивилизация"), ("en", "Aegean civilization")],
     },
     "MIXED": {
         "terms": ["древн", "ancient", "цивилизац", "civilization", "archaeolog", "археолог", "river", "река", "письмен"],
@@ -139,6 +143,14 @@ TYPE_FALLBACK = {
         "RELIGION": [("en", "Hittite mythology"), ("en", "Hittite religion")],
         "BATTLE": [("en", "Battle of Kadesh"), ("en", "Hittite military")],
         "WAR": [("en", "Hittite military"), ("en", "Hittite Empire")],
+    },
+    "AEGEAN_BRONZE": {
+        "ARTIFACT": [("en", "Minoan art"), ("en", "Mycenaean art")],
+        "TEXT": [("en", "Linear A"), ("en", "Linear B")],
+        "BUILDING": [("en", "Minoan palace"), ("en", "Mycenae")],
+        "RELIGION": [("en", "Minoan religion"), ("en", "Mycenaean religion")],
+        "BATTLE": [("en", "Mycenaean Greece"), ("en", "Trojan War")],
+        "WAR": [("en", "Mycenaean Greece"), ("en", "Mycenaean military")],
     },
     "MIXED": {
         "ARTIFACT": [("ru", "Археологический артефакт"), ("en", "Archaeological artifact")],
@@ -304,7 +316,7 @@ def group_for(path: Path, card: dict) -> str:
     p = path.as_posix()
     for token, group in [
         ("/rome/", "ROME"), ("/mesopotamia/", "MESOPOTAMIA"), ("/egypt/", "EGYPT"),
-        ("/indus/", "INDUS"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"),
+        ("/indus/", "INDUS"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"), ("/aegean/", "AEGEAN_BRONZE"),
     ]:
         if token in p:
             return group

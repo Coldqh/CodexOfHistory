@@ -8,7 +8,7 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "3.2.0"
+VERSION = "3.3.0"
 
 GROUP_CONTEXT = {
     "ROME": {
@@ -34,6 +34,10 @@ GROUP_CONTEXT = {
     "BABYLON": {
         "terms": ["вавилон", "babylon", "месопот", "mesopot", "амор", "old babylon", "сирия", "syria", "клинопис"],
         "base": [("ru", "Старовавилонский период"), ("en", "Old Babylonian period")],
+    },
+    "HITTITES": {
+        "terms": ["хетт", "hittite", "хатт", "hatti", "анатол", "anatolia", "hattusa", "сирия", "syria", "клинопис"],
+        "base": [("ru", "Хетты"), ("en", "Hittites")],
     },
     "MIXED": {
         "terms": ["древн", "ancient", "цивилизац", "civilization", "archaeolog", "археолог", "river", "река", "письмен"],
@@ -122,6 +126,19 @@ TYPE_FALLBACK = {
         "TEXT": [("ru", "Гадательные кости"), ("en", "Oracle bone")],
         "BUILDING": [("ru", "Эрлитоу"), ("en", "Erlitou culture")],
         "RELIGION": [("ru", "Религия Китая"), ("en", "Chinese folk religion")],
+    },
+    "HITTITES": {
+        "terms": ["хетт", "hittite", "хатт", "hatti", "анатол", "anatolia", "hattusa", "сирия", "syria", "клинопис"],
+        "base": [("ru", "Хетты"), ("en", "Hittites")],
+    },
+    "HITTITES": {
+        "ARTIFACT": [("en", "Hittite art"), ("en", "Hittites")],
+        "TEXT": [("en", "Hittite texts"), ("en", "Hittite cuneiform")],
+        "LAW": [("en", "Hittite laws"), ("en", "Edict of Telipinu")],
+        "BUILDING": [("en", "Hattusa"), ("en", "Yazılıkaya")],
+        "RELIGION": [("en", "Hittite mythology"), ("en", "Hittite religion")],
+        "BATTLE": [("en", "Battle of Kadesh"), ("en", "Hittite military")],
+        "WAR": [("en", "Hittite military"), ("en", "Hittite Empire")],
     },
     "MIXED": {
         "ARTIFACT": [("ru", "Археологический артефакт"), ("en", "Archaeological artifact")],
@@ -252,6 +269,25 @@ MANUAL_BY_TITLE = {
     "Дейр-эль-Медина": [("en", "Deir el-Medina")],
     "Битва при Кадеше": [("en", "Battle of Kadesh")],
     "Египетско-хеттский договор": [("en", "Egyptian–Hittite peace treaty")],
+    "Хаттуса": [("en", "Hattusa")],
+    "Каниш": [("en", "Kültepe")],
+    "Карум Каниш": [("en", "Karum")],
+    "Хатты": [("en", "Hattians")],
+    "Земля Хатти": [("en", "Hatti")],
+    "Анитта": [("en", "Anitta")],
+    "Хаттусили I": [("en", "Hattusili I")],
+    "Мурсили I": [("en", "Mursili I")],
+    "Телепину": [("en", "Telipinu")],
+    "Указ Телепину": [("en", "Edict of Telipinu")],
+    "Тавананна": [("en", "Tawananna")],
+    "Язылыкая": [("en", "Yazılıkaya")],
+    "Суппилулиума I": [("en", "Šuppiluliuma I")],
+    "Пудухепа": [("en", "Puduḫepa")],
+    "Муваталли II": [("en", "Muwatalli II")],
+    "Хаттусили III": [("en", "Hattusili III")],
+    "Тудхалия IV": [("en", "Tudḫaliya IV")],
+    "Тархунтасса": [("en", "Tarhuntassa")],
+    "Курунта": [("en", "Kurunta")],
 }
 
 STOPWORDS = {
@@ -268,7 +304,7 @@ def group_for(path: Path, card: dict) -> str:
     p = path.as_posix()
     for token, group in [
         ("/rome/", "ROME"), ("/mesopotamia/", "MESOPOTAMIA"), ("/egypt/", "EGYPT"),
-        ("/indus/", "INDUS"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"),
+        ("/indus/", "INDUS"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"),
     ]:
         if token in p:
             return group

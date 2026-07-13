@@ -1,6 +1,6 @@
 /* Codex v2.6 — cinematic onboarding for new players */
 (function(){
-  const V='3.2.3';
+  const V='3.3.0';
   window.CODEX_VERSION=V;
   state.onboardingV26Done=!!state.onboardingV26Done;
   state.onboardingV26Step=Number.isInteger(state.onboardingV26Step)?state.onboardingV26Step:0;

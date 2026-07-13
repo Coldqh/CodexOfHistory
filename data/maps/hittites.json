@@ -1,0 +1,310 @@
+{
+  "points": {
+    "HATTUSA": [
+      40.019,
+      34.615
+    ],
+    "YAZILIKAYA": [
+      40.026,
+      34.621
+    ],
+    "ALACA": [
+      40.234,
+      34.695
+    ],
+    "KANESH": [
+      38.85,
+      35.635
+    ],
+    "ASSUR": [
+      35.456,
+      43.262
+    ],
+    "KUSSARA": [
+      38.5,
+      35.0
+    ],
+    "ALEPPO": [
+      36.202,
+      37.134
+    ],
+    "BABYLON": [
+      32.536,
+      44.421
+    ],
+    "CARCHEMISH": [
+      36.829,
+      38.016
+    ],
+    "UGARIT": [
+      35.602,
+      35.785
+    ],
+    "KADESH": [
+      34.557,
+      36.519
+    ],
+    "AMARNA": [
+      27.644,
+      30.896
+    ],
+    "ARINNA": [
+      39.9,
+      34.5
+    ],
+    "TARHUNTASSA": [
+      37.2,
+      33.0
+    ],
+    "TROY": [
+      39.957,
+      26.239
+    ],
+    "WASHUKANNI": [
+      36.8,
+      40.0
+    ],
+    "AMURRU": [
+      34.6,
+      36.1
+    ],
+    "MALATYA": [
+      38.355,
+      38.309
+    ],
+    "KIZZUWATNA": [
+      37.0,
+      35.4
+    ],
+    "NERIK": [
+      41.1,
+      35.5
+    ],
+    "SAPINUWA": [
+      40.17,
+      35.48
+    ],
+    "SARISSA": [
+      39.31,
+      36.86
+    ],
+    "ALALAKH": [
+      36.236,
+      36.383
+    ],
+    "TARSUS": [
+      36.918,
+      34.891
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "HIT_S_01_01": "HATTUSA",
+    "HIT_S_01_02": "HATTUSA",
+    "HIT_S_01_03": "ALACA",
+    "HIT_S_01_04": "HATTUSA",
+    "HIT_S_01_05": "TARHUNTASSA",
+    "HIT_S_01_06": "WASHUKANNI",
+    "HIT_S_01_07": "ALACA",
+    "HIT_S_01_08": "HATTUSA",
+    "HIT_A_01_01": "ALACA",
+    "HIT_A_01_02": "ALACA",
+    "HIT_A_01_03": "ALACA",
+    "HIT_A_01_04": "HATTUSA",
+    "HIT_S_02_01": "KANESH",
+    "HIT_S_02_02": "KANESH",
+    "HIT_S_02_03": "ASSUR",
+    "HIT_S_02_04": "KANESH",
+    "HIT_S_02_05": "KANESH",
+    "HIT_S_02_06": "ASSUR",
+    "HIT_S_02_07": "KANESH",
+    "HIT_S_02_08": "KUSSARA",
+    "HIT_A_02_01": "KANESH",
+    "HIT_A_02_02": "ASSUR",
+    "HIT_A_02_03": "KANESH",
+    "HIT_A_02_04": "KANESH",
+    "HIT_S_03_01": "HATTUSA",
+    "HIT_S_03_02": "HATTUSA",
+    "HIT_S_03_03": "HATTUSA",
+    "HIT_S_03_04": "HATTUSA",
+    "HIT_S_03_05": "ALALAKH",
+    "HIT_S_03_06": "ALALAKH",
+    "HIT_S_03_07": "ALEPPO",
+    "HIT_S_03_08": "HATTUSA",
+    "HIT_A_03_01": "KUSSARA",
+    "HIT_A_03_02": "HATTUSA",
+    "HIT_A_03_03": "HATTUSA",
+    "HIT_A_03_04": "HATTUSA",
+    "HIT_S_04_01": "HATTUSA",
+    "HIT_S_04_02": "ALEPPO",
+    "HIT_S_04_03": "BABYLON",
+    "HIT_S_04_04": "HATTUSA",
+    "HIT_S_04_05": "HATTUSA",
+    "HIT_S_04_06": "HATTUSA",
+    "HIT_S_04_07": "HATTUSA",
+    "HIT_S_04_08": "HATTUSA",
+    "HIT_A_04_01": "BABYLON",
+    "HIT_A_04_02": "HATTUSA",
+    "HIT_A_04_03": "HATTUSA",
+    "HIT_A_04_04": "BABYLON",
+    "HIT_S_05_01": "HATTUSA",
+    "HIT_S_05_02": "HATTUSA",
+    "HIT_S_05_03": "HATTUSA",
+    "HIT_S_05_04": "HATTUSA",
+    "HIT_S_05_05": "HATTUSA",
+    "HIT_S_05_06": "HATTUSA",
+    "HIT_S_05_07": "HATTUSA",
+    "HIT_S_05_08": "CARCHEMISH",
+    "HIT_A_05_01": "HATTUSA",
+    "HIT_A_05_02": "HATTUSA",
+    "HIT_A_05_03": "HATTUSA",
+    "HIT_A_05_04": "HATTUSA",
+    "HIT_S_06_01": "HATTUSA",
+    "HIT_S_06_02": "HATTUSA",
+    "HIT_S_06_03": "ARINNA",
+    "HIT_S_06_04": "KIZZUWATNA",
+    "HIT_S_06_05": "HATTUSA",
+    "HIT_S_06_06": "HATTUSA",
+    "HIT_S_06_07": "HATTUSA",
+    "HIT_S_06_08": "YAZILIKAYA",
+    "HIT_A_06_01": "HATTUSA",
+    "HIT_A_06_02": "HATTUSA",
+    "HIT_A_06_03": "NERIK",
+    "HIT_A_06_04": "YAZILIKAYA",
+    "HIT_S_07_01": "HATTUSA",
+    "HIT_S_07_02": "WASHUKANNI",
+    "HIT_S_07_03": "CARCHEMISH",
+    "HIT_S_07_04": "UGARIT",
+    "HIT_S_07_05": "AMURRU",
+    "HIT_S_07_06": "WASHUKANNI",
+    "HIT_S_07_07": "HATTUSA",
+    "HIT_S_07_08": "AMARNA",
+    "HIT_A_07_01": "HATTUSA",
+    "HIT_A_07_02": "WASHUKANNI",
+    "HIT_A_07_03": "CARCHEMISH",
+    "HIT_A_07_04": "HATTUSA",
+    "HIT_S_08_01": "HATTUSA",
+    "HIT_S_08_02": "HATTUSA",
+    "HIT_S_08_03": "AMARNA",
+    "HIT_S_08_04": "HATTUSA",
+    "HIT_S_08_05": "UGARIT",
+    "HIT_S_08_06": "AMARNA",
+    "HIT_S_08_07": "UGARIT",
+    "HIT_S_08_08": "TROY",
+    "HIT_A_08_01": "AMURRU",
+    "HIT_A_08_02": "HATTUSA",
+    "HIT_A_08_03": "UGARIT",
+    "HIT_A_08_04": "HATTUSA",
+    "HIT_S_09_01": "TARHUNTASSA",
+    "HIT_S_09_02": "TARHUNTASSA",
+    "HIT_S_09_03": "KADESH",
+    "HIT_S_09_04": "KADESH",
+    "HIT_S_09_05": "KADESH",
+    "HIT_S_09_06": "HATTUSA",
+    "HIT_S_09_07": "HATTUSA",
+    "HIT_S_09_08": "HATTUSA",
+    "HIT_A_09_01": "KADESH",
+    "HIT_A_09_02": "HATTUSA",
+    "HIT_A_09_03": "AMARNA",
+    "HIT_A_09_04": "HATTUSA",
+    "HIT_S_10_01": "HATTUSA",
+    "HIT_S_10_02": "TARHUNTASSA",
+    "HIT_S_10_03": "TARHUNTASSA",
+    "HIT_S_10_04": "UGARIT",
+    "HIT_S_10_05": "UGARIT",
+    "HIT_S_10_06": "UGARIT",
+    "HIT_S_10_07": "HATTUSA",
+    "HIT_S_10_08": "CARCHEMISH",
+    "HIT_A_10_01": "HATTUSA",
+    "HIT_A_10_02": "HATTUSA",
+    "HIT_A_10_03": "HATTUSA",
+    "HIT_A_10_04": "CARCHEMISH"
+  },
+  "chapters": {
+    "HIT_CHAPTER_01": {
+      "title": "Плато, народы и языки Анатолии",
+      "center": [
+        40.019,
+        34.615
+      ],
+      "zoom": 5
+    },
+    "HIT_CHAPTER_02": {
+      "title": "Каниш и староассирийская торговля",
+      "center": [
+        38.85,
+        35.635
+      ],
+      "zoom": 5
+    },
+    "HIT_CHAPTER_03": {
+      "title": "Возникновение Старого царства",
+      "center": [
+        40.019,
+        34.615
+      ],
+      "zoom": 5
+    },
+    "HIT_CHAPTER_04": {
+      "title": "Мурсили I, Вавилон и дворцовые кризисы",
+      "center": [
+        36.202,
+        37.134
+      ],
+      "zoom": 5
+    },
+    "HIT_CHAPTER_05": {
+      "title": "Царь, двор и архив Хаттусы",
+      "center": [
+        40.019,
+        34.615
+      ],
+      "zoom": 5
+    },
+    "HIT_CHAPTER_06": {
+      "title": "Тысяча богов Хатти",
+      "center": [
+        39.9,
+        34.5
+      ],
+      "zoom": 5
+    },
+    "HIT_CHAPTER_07": {
+      "title": "Суппилулиума I и хеттская империя",
+      "center": [
+        40.019,
+        34.615
+      ],
+      "zoom": 5
+    },
+    "HIT_CHAPTER_08": {
+      "title": "Договоры и международный порядок",
+      "center": [
+        40.019,
+        34.615
+      ],
+      "zoom": 5
+    },
+    "HIT_CHAPTER_09": {
+      "title": "Кадеш и мир с Египтом",
+      "center": [
+        37.2,
+        33.0
+      ],
+      "zoom": 5
+    },
+    "HIT_CHAPTER_10": {
+      "title": "Последний век и распад державы",
+      "center": [
+        40.019,
+        34.615
+      ],
+      "zoom": 5
+    }
+  },
+  "missionCenter": [
+    38.7,
+    35.2
+  ],
+  "missionZoom": 5
+}

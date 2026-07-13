@@ -1,6 +1,6 @@
 /* Codex v2.7 — parallel civilizations campaign */
 (function(){
- const V='3.2.3';window.CODEX_VERSION=V;
+ const V='3.3.0';window.CODEX_VERSION=V;
  V22_CAMPAIGN_CODES.DAWN_PARALLEL='COMPARISON';
  const oldNoun=activeCampaignNoun;activeCampaignNoun=function(){return activeCampaignId()==='DAWN_PARALLEL'?'СРАВНЕНИЕ':oldNoun();};
  const oldTitle=activeCampaignPackTitle;activeCampaignPackTitle=function(){return activeCampaignId()==='DAWN_PARALLEL'?'Сравнительный архивный пак':oldTitle();};

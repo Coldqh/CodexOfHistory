@@ -1405,10 +1405,18 @@ body.onboarding-active{overflow-x:hidden}.onboarding-v26{position:relative;min-h
   .panel,.history-card,.mission-node,.achievement-card,.side-card{box-shadow:0 10px 28px rgba(0,0,0,.28)!important}
 }
 
-/* v3.2.3 — Egypt: Middle and New Kingdom */
+/* v3.3.0 — Egypt: Middle and New Kingdom */
 .egypt-bronze-home{background:radial-gradient(circle at 78% 18%,rgba(202,159,91,.18),transparent 34%),linear-gradient(145deg,#0b0907,#19130d 56%,#090807)}
 .egypt-bronze-seal{min-width:230px;min-height:230px;border:1px solid rgba(213,177,111,.35);border-radius:50%;display:flex;flex-direction:column;align-items:center;justify-content:center;box-shadow:inset 0 0 60px rgba(192,145,75,.08)}
 .egypt-bronze-seal span{font-family:serif;font-size:92px;line-height:.9;color:#d5b16f}.egypt-bronze-seal b{font-family:Georgia,serif;font-size:24px;margin-top:18px}.egypt-bronze-seal small{color:var(--muted);letter-spacing:.18em;text-transform:uppercase}
 .egypt-bronze-phases{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:14px 0 18px}.egypt-bronze-phases button{text-align:left;padding:14px 16px;border:1px solid var(--line);border-radius:14px;background:var(--panel);color:var(--text)}.egypt-bronze-phases button.active{border-color:#c99d5d;box-shadow:inset 0 0 0 1px rgba(201,157,93,.22)}.egypt-bronze-phases small,.egypt-bronze-phases b{display:block}.egypt-bronze-phases small{color:var(--muted);font-size:11px}.egypt-bronze-phases b{margin:5px 0 10px}.egypt-bronze-phases i{display:block;height:3px;background:rgba(255,255,255,.08);border-radius:3px;overflow:hidden}.egypt-bronze-phases i span{display:block;height:100%;background:#c99d5d}
 .egypt-bronze-exam header{background:linear-gradient(130deg,rgba(190,145,78,.12),transparent)}
 @media(max-width:760px){.egypt-bronze-seal{min-width:150px;min-height:150px}.egypt-bronze-seal span{font-size:64px}.egypt-bronze-phases{grid-template-columns:1fr}.egypt-bronze-phases button{padding:12px 14px}}
+
+/* v3.3 — Hittites and Anatolia */
+.hittite-home{background:radial-gradient(circle at 80% 18%,rgba(199,145,76,.2),transparent 34%),linear-gradient(145deg,#080a08,#171c14 56%,#080806)}
+.hittite-seal{min-width:230px;min-height:230px;border:1px solid rgba(211,163,95,.38);clip-path:polygon(18% 0,82% 0,100% 18%,100% 82%,82% 100%,18% 100%,0 82%,0 18%);display:flex;flex-direction:column;align-items:center;justify-content:center;box-shadow:inset 0 0 70px rgba(194,137,70,.1)}
+.hittite-seal span{font-family:Georgia,serif;font-size:82px;line-height:.9;color:#d2a45f}.hittite-seal b{font-family:Georgia,serif;font-size:24px;margin-top:18px}.hittite-seal small{color:var(--muted);letter-spacing:.18em;text-transform:uppercase}
+.hittite-phases{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:14px 0 18px}.hittite-phases button{text-align:left;padding:14px 16px;border:1px solid var(--line);border-radius:14px;background:var(--panel);color:var(--text)}.hittite-phases button.active{border-color:#c78f4c;box-shadow:inset 0 0 0 1px rgba(199,143,76,.24)}.hittite-phases small,.hittite-phases b{display:block}.hittite-phases small{color:var(--muted);font-size:11px}.hittite-phases b{margin:5px 0 10px}.hittite-phases i{display:block;height:3px;background:rgba(255,255,255,.08);border-radius:3px;overflow:hidden}.hittite-phases i span{display:block;height:100%;background:#c78f4c}
+.hittite-exam header{background:linear-gradient(130deg,rgba(194,137,70,.14),transparent)}
+@media(max-width:760px){.hittite-seal{min-width:150px;min-height:150px}.hittite-seal span{font-size:58px}.hittite-phases{grid-template-columns:1fr}.hittite-phases button{padding:12px 14px}}

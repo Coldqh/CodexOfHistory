@@ -1,5 +1,5 @@
 {
-  "version": "3.2.3",
+  "version": "3.3.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -22,7 +22,9 @@
       "data/cards/babylon/story.json",
       "data/cards/babylon/archive.json",
       "data/cards/egypt/middle-new-story.json",
-      "data/cards/egypt/middle-new-archive.json"
+      "data/cards/egypt/middle-new-archive.json",
+      "data/cards/hittites/story.json",
+      "data/cards/hittites/archive.json"
     ],
     "relations": "data/core/relations.json",
     "pools": [
@@ -34,7 +36,8 @@
       "data/campaigns/china/pools.json",
       "data/campaigns/civilizations/pools.json",
       "data/campaigns/babylon/pools.json",
-      "data/campaigns/egypt-middle-new/pools.json"
+      "data/campaigns/egypt-middle-new/pools.json",
+      "data/campaigns/hittites/pools.json"
     ],
     "quizzes": [
       "data/quizzes/rome/chapter_01.json",
@@ -49,7 +52,8 @@
       "data/quizzes/china/campaign.json",
       "data/quizzes/civilizations/campaign.json",
       "data/quizzes/babylon/campaign.json",
-      "data/quizzes/egypt-middle-new/campaign.json"
+      "data/quizzes/egypt-middle-new/campaign.json",
+      "data/quizzes/hittites/campaign.json"
     ],
     "stories": [
       "data/stories/rome/personal.json",
@@ -60,7 +64,8 @@
       "data/stories/china/personal.json",
       "data/stories/civilizations/personal.json",
       "data/stories/babylon/personal.json",
-      "data/stories/egypt-middle-new/personal.json"
+      "data/stories/egypt-middle-new/personal.json",
+      "data/stories/hittites/personal.json"
     ],
     "mastery": "data/core/mastery.json",
     "packs": "data/core/packs.json",
@@ -75,7 +80,8 @@
       "DAWN_WORLD": "data/maps/civilizations.json",
       "BABYLON_OLD": "data/maps/babylon.json",
       "BRONZE_WORLD": "data/maps/bronze-world.json",
-      "EGYPT_MIDDLE_NEW": "data/maps/egypt-middle-new.json"
+      "EGYPT_MIDDLE_NEW": "data/maps/egypt-middle-new.json",
+      "HITTITES": "data/maps/hittites.json"
     },
     "daily": "data/core/daily-learning.json",
     "lessons": [
@@ -91,7 +97,8 @@
       "data/lessons/china/campaign.json",
       "data/lessons/civilizations/campaign.json",
       "data/lessons/babylon/campaign.json",
-      "data/lessons/egypt-middle-new/campaign.json"
+      "data/lessons/egypt-middle-new/campaign.json",
+      "data/lessons/hittites/campaign.json"
     ],
     "eras": "data/world/eras.json",
     "campaignCatalog": "data/world/campaigns.json",
@@ -105,7 +112,8 @@
       "data/campaigns/china/campaign.json",
       "data/campaigns/civilizations/campaign.json",
       "data/campaigns/babylon/campaign.json",
-      "data/campaigns/egypt-middle-new/campaign.json"
+      "data/campaigns/egypt-middle-new/campaign.json",
+      "data/campaigns/hittites/campaign.json"
     ],
     "imageQueries": "data/image_queries.json"
   },
@@ -140,6 +148,7 @@
     "js/features/v3-0-dawn-world.js",
     "js/features/v3-1-babylon.js",
     "js/features/v3-2-egypt-middle-new.js",
+    "js/features/v3-3-hittites.js",
     "js/features/v3-1-1-hotfix.js",
     "js/features/v3-1-3-visual-semantics.js",
     "js/core/start.js"

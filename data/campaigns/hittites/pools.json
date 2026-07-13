@@ -1,0 +1,335 @@
+{
+  "campaignId": "HITTITES",
+  "campaigns": {
+    "HITTITES": {
+      "id": "HITTITES",
+      "title": "Хетты и Анатолия",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "HIT_POOL_01",
+      "campaign": "HITTITES",
+      "title": "Плато, народы и языки Анатолии",
+      "unlockMission": "HIT_01_02",
+      "cardIds": [
+        "HIT_A_01_01",
+        "HIT_A_01_02",
+        "HIT_A_01_03",
+        "HIT_A_01_04"
+      ]
+    },
+    {
+      "id": "HIT_POOL_02",
+      "campaign": "HITTITES",
+      "title": "Каниш и староассирийская торговля",
+      "unlockMission": "HIT_02_02",
+      "cardIds": [
+        "HIT_A_02_01",
+        "HIT_A_02_02",
+        "HIT_A_02_03",
+        "HIT_A_02_04"
+      ]
+    },
+    {
+      "id": "HIT_POOL_03",
+      "campaign": "HITTITES",
+      "title": "Возникновение Старого царства",
+      "unlockMission": "HIT_03_02",
+      "cardIds": [
+        "HIT_A_03_01",
+        "HIT_A_03_02",
+        "HIT_A_03_03",
+        "HIT_A_03_04"
+      ]
+    },
+    {
+      "id": "HIT_POOL_04",
+      "campaign": "HITTITES",
+      "title": "Мурсили I, Вавилон и дворцовые кризисы",
+      "unlockMission": "HIT_04_02",
+      "cardIds": [
+        "HIT_A_04_01",
+        "HIT_A_04_02",
+        "HIT_A_04_03",
+        "HIT_A_04_04"
+      ]
+    },
+    {
+      "id": "HIT_POOL_05",
+      "campaign": "HITTITES",
+      "title": "Царь, двор и архив Хаттусы",
+      "unlockMission": "HIT_05_02",
+      "cardIds": [
+        "HIT_A_05_01",
+        "HIT_A_05_02",
+        "HIT_A_05_03",
+        "HIT_A_05_04"
+      ]
+    },
+    {
+      "id": "HIT_POOL_06",
+      "campaign": "HITTITES",
+      "title": "Тысяча богов Хатти",
+      "unlockMission": "HIT_06_02",
+      "cardIds": [
+        "HIT_A_06_01",
+        "HIT_A_06_02",
+        "HIT_A_06_03",
+        "HIT_A_06_04"
+      ]
+    },
+    {
+      "id": "HIT_POOL_07",
+      "campaign": "HITTITES",
+      "title": "Суппилулиума I и хеттская империя",
+      "unlockMission": "HIT_07_02",
+      "cardIds": [
+        "HIT_A_07_01",
+        "HIT_A_07_02",
+        "HIT_A_07_03",
+        "HIT_A_07_04"
+      ]
+    },
+    {
+      "id": "HIT_POOL_08",
+      "campaign": "HITTITES",
+      "title": "Договоры и международный порядок",
+      "unlockMission": "HIT_08_02",
+      "cardIds": [
+        "HIT_A_08_01",
+        "HIT_A_08_02",
+        "HIT_A_08_03",
+        "HIT_A_08_04"
+      ]
+    },
+    {
+      "id": "HIT_POOL_09",
+      "campaign": "HITTITES",
+      "title": "Кадеш и мир с Египтом",
+      "unlockMission": "HIT_09_02",
+      "cardIds": [
+        "HIT_A_09_01",
+        "HIT_A_09_02",
+        "HIT_A_09_03",
+        "HIT_A_09_04"
+      ]
+    },
+    {
+      "id": "HIT_POOL_10",
+      "campaign": "HITTITES",
+      "title": "Последний век и распад державы",
+      "unlockMission": "HIT_10_02",
+      "cardIds": [
+        "HIT_A_10_01",
+        "HIT_A_10_02",
+        "HIT_A_10_03",
+        "HIT_A_10_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "HIT_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_01",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_01",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_01",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_01",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_02",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_02",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_02",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_02",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_03",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_03",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_03",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_03",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_04",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_04",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_04",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_04",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_05",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_05",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_05",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_05",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_06",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_06",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_06",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_06",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_07",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_07",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_07",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_07",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_08",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_08",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_08",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_08",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_09",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_09",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_09",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_09",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_10",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_10",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_10",
+      "campaign": "HITTITES"
+    },
+    "HIT_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "HIT_POOL_10",
+      "campaign": "HITTITES"
+    }
+  }
+}

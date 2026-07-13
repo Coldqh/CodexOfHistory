@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4dc9a"/><stop offset=".4" stop-color="#d5a14a"/><stop offset="1" stop-color="#8e541f"/></linearGradient>
+    <linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4a2912"/><stop offset="1" stop-color="#190e07"/></linearGradient>
+    <filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#000" flood-opacity=".42"/></filter>
+  </defs>
+  <g filter="url(#s)" transform="rotate(-8 520 500)">
+    <path d="M252 327 698 263 792 646 344 717Z" fill="#ead29a" stroke="url(#g)" stroke-width="22" stroke-linejoin="round"/>
+    <path d="M231 289 694 220 809 610 343 687Z" fill="url(#c)" stroke="url(#g)" stroke-width="27" stroke-linejoin="round"/>
+    <path d="M276 321 661 264 758 577 371 638Z" fill="none" stroke="#d9aa5c" stroke-width="12" opacity=".82"/>
+    <path d="M231 289 343 687 391 679 279 282Z" fill="#261308" stroke="url(#g)" stroke-width="18"/>
+    <path d="M266 405 346 391M290 499 369 484M316 592 393 576" stroke="#d39d48" stroke-width="15" stroke-linecap="round" opacity=".78"/>
+    <g transform="rotate(-22 521 456)">
+      <circle cx="629" cy="405" r="59" fill="none" stroke="url(#g)" stroke-width="25"/>
+      <circle cx="629" cy="405" r="18" fill="none" stroke="#f5de9b" stroke-width="9"/>
+      <path d="M575 433 381 532" fill="none" stroke="url(#g)" stroke-width="28" stroke-linecap="round"/>
+      <path d="M419 514 382 476M453 496 417 458" fill="none" stroke="url(#g)" stroke-width="23" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>

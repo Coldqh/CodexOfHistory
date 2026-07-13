@@ -1,6 +1,6 @@
-/* Codex v3.2.2 — Egypt from Middle to New Kingdom */
+/* Codex v3.2.3 — Egypt from Middle to New Kingdom */
 (()=>{
-  const V='3.2.2';
+  const V='3.2.3';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.EGYPT_MIDDLE_NEW='EGYPT_BRONZE';
   state.egyptBronzePhase=state.egyptBronzePhase||'MIDDLE';

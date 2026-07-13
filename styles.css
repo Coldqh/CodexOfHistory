@@ -1374,7 +1374,7 @@ body.onboarding-active{overflow-x:hidden}.onboarding-v26{position:relative;min-h
 @media(max-width:900px){.bronze-region-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.babylon-gate{width:220px;min-height:210px}.babylon-gate span{font-size:58px}.bronze-atlas,.babylon-atlas,.bronze-atlas .leaflet-map,.babylon-atlas .leaflet-map{min-height:450px}}
 @media(max-width:620px){.babylon-home .hero-layout{display:block}.babylon-gate{width:100%;min-height:150px;margin-top:18px;clip-path:none;border-radius:16px}.babylon-gate:before,.babylon-gate:after{display:none}.babylon-gate span{font-size:48px}.babylon-gate i{margin:12px 0 8px}.bronze-map-tabs{width:100%;display:grid;grid-template-columns:1fr 1fr}.bronze-map-tabs button{padding:9px 7px;font-size:12px}.bronze-region-panel{padding:13px}.bronze-region-panel .section-head{align-items:flex-start}.bronze-region-grid{grid-template-columns:1fr}.bronze-region-grid button{grid-template-columns:40px 1fr;padding:11px}.bronze-region-grid button>span{width:38px;height:38px}.bronze-world-summary{align-items:flex-start;flex-direction:column;padding:16px}.bronze-world-summary .btn{width:100%}.bronze-atlas,.babylon-atlas,.bronze-atlas .leaflet-map,.babylon-atlas .leaflet-map{min-height:390px}.bronze-parallel .section-head{align-items:flex-start}.bronze-parallel table{min-width:960px}.bronze-parallel th,.bronze-parallel td{padding:11px;font-size:13px}}
 
-/* v3.1.3 — historical visual archive */
+/* v3.1.4 — historical visual archive and mobile PWA stability */
 .codex-card-visual{transition:opacity .22s ease,filter .22s ease;object-fit:cover;background:#16130f}
 .codex-card-visual[data-visual-kind="historical"]{animation:codexHistoricalImageIn .28s ease both}
 .codex-card-visual[data-visual-failed="true"]{filter:saturate(.72)}
@@ -1388,3 +1388,15 @@ body.onboarding-active{overflow-x:hidden}.onboarding-v26{position:relative;min-h
 .visual-archive-meter .progress span{background:linear-gradient(90deg,#8f5b2c,#d6a25d)}
 @keyframes codexHistoricalImageIn{from{opacity:.35}to{opacity:1}}
 @media(max-width:700px){.visual-archive-meter>div:first-child{align-items:flex-start;flex-direction:column;gap:4px}.visual-archive-settings .settings-actions{grid-template-columns:1fr}.visual-archive-meter b{font-size:22px}}
+
+
+/* v3.1.4 — iOS/standalone safety mode */
+.pwa-standalone .ambient{display:none!important}
+@media (display-mode:standalone) and (max-width:820px){
+  .ambient{display:none!important}
+  .side-nav,.topbar,.campaign-progress-card,.rarity-flag,.card-number,.map-toolbar,.map-toolbar button,.history-label,.toast,.orbit-chip{
+    -webkit-backdrop-filter:none!important;backdrop-filter:none!important
+  }
+  .orbit-core:before,.orbit-core:after,.orbit-chip,.history-marker:after,.geo-point i,.command-icon.pack-ready:after{animation:none!important}
+  .panel,.history-card,.mission-node,.achievement-card,.side-card{box-shadow:0 10px 28px rgba(0,0,0,.28)!important}
+}

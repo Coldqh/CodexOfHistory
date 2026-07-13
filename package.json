@@ -1,13 +1,13 @@
 {
   "name": "codex-of-history",
   "private": true,
-  "version": "3.1.3",
+  "version": "3.1.4",
   "type": "module",
   "scripts": {
     "validate": "node tools/validate-content.mjs",
     "smoke": "node tools/smoke-daily.mjs",
     "smoke:settings": "node tools/smoke-settings.mjs",
-    "test": "node tools/validate-content.mjs && node tools/smoke-v31-babylon.mjs && node tools/runtime-v31.mjs && node tools/runtime-v311-hotfix.mjs && node tools/smoke-v313-visual-semantics.mjs && node tools/runtime-v313-visual-semantics.mjs",
+    "test": "node tools/validate-content.mjs && node tools/smoke-v31-babylon.mjs && node tools/runtime-v31.mjs && node tools/runtime-v311-hotfix.mjs && node tools/smoke-v313-visual-semantics.mjs && node tools/runtime-v313-visual-semantics.mjs && node tools/smoke-v314-pwa.mjs",
     "smoke:ui": "node tools/smoke-ui-v15.mjs",
     "test:v16": "node tools/smoke-ui-v16.mjs",
     "test:v17": "node tools/smoke-v17-republic.mjs",

@@ -1,22 +1,27 @@
-/* Codex v1.8 — startup and local image cache warming */
+/* Codex v3.1.4 — stable startup without full-catalog image prefetch */
 (() => {
   syncDiscovery();
   save();
   render();
-  const warmImages=async()=>{
-    if(typeof navigator==='undefined'||!('serviceWorker' in navigator)||navigator.connection?.saveData)return;
+
+  const standalone=window.matchMedia?.('(display-mode: standalone)').matches||navigator.standalone===true;
+  const warmVisibleImages=()=>{
+    if(typeof navigator==='undefined'||!('serviceWorker' in navigator)||navigator.connection?.saveData||standalone)return;
     const run=async()=>{
-      const urls=[...new Set(CARDS.map(c=>cardImageSource(c)).filter(Boolean))];
-      for(let i=0;i<urls.length;i+=4){
-        await Promise.allSettled(urls.slice(i,i+4).map(url=>fetch(url,{mode:'no-cors',cache:'force-cache'})));
-        await new Promise(resolve=>setTimeout(resolve,80));
+      const urls=[...new Set([...document.querySelectorAll('img[data-card-image]')]
+        .filter(img=>img.getBoundingClientRect().top<innerHeight*1.5)
+        .map(img=>img.currentSrc||img.src)
+        .filter(Boolean))].slice(0,8);
+      for(const url of urls){
+        try{await fetch(url,{cache:'force-cache'});}catch{}
       }
-      console.info(`[Codex] cached ${urls.length} card images locally`);
+      if(urls.length)console.info(`[Codex] warmed ${urls.length} visible card images`);
     };
-    if(navigator.serviceWorker.controller) setTimeout(run,900);
-    else if(typeof navigator.serviceWorker.addEventListener==='function') navigator.serviceWorker.addEventListener('controllerchange',()=>setTimeout(run,400),{once:true});
+    const schedule=()=>('requestIdleCallback'in window?requestIdleCallback(run,{timeout:1800}):setTimeout(run,1200));
+    if(navigator.serviceWorker.controller)schedule();
+    else navigator.serviceWorker.addEventListener?.('controllerchange',schedule,{once:true});
   };
-  warmImages();
+  warmVisibleImages();
   window.dispatchEvent(new CustomEvent('codex:ready',{detail:{version:CODEX_MANIFEST.version,cards:CARDS.length}}));
   console.info(`[Codex] v${CODEX_MANIFEST.version}: ${CARDS.length} cards, ${RELATIONS.length} relations, ${CAMPAIGN.nodes.length} missions`);
 })();

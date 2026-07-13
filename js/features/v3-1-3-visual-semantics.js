@@ -1,17 +1,24 @@
-/* Codex of History v3.1.3 — semantic historical image resolver */
+/* Codex of History v3.1.4 — semantic historical image resolver with mobile-safe lazy loading */
 (() => {
-  const CACHE_KEY='codex_history_visual_archive_v313';
+  const CACHE_KEY='codex_history_visual_archive_v314';
   const QUERY_PATH=CODEX_MANIFEST?.datasets?.imageQueries||'data/image_queries.json';
   const STATIC_COUNT=CARDS.filter(c=>c.image?.prefer_remote&&c.image?.file).length;
   const MAX_CONTEXT_REUSE=8;
+  const IS_STANDALONE=window.matchMedia?.('(display-mode: standalone)').matches||navigator.standalone===true;
+  const AUTO_BATCH_LIMIT=IS_STANDALONE?4:10;
+  const MANUAL_BATCH_LIMIT=IS_STANDALONE?12:36;
+  const MAX_STORED_RECORDS=IS_STANDALONE?72:180;
   const stateVisual={queries:null,records:{},running:false,resolved:0,failed:0,rejectedCandidates:0,total:CARDS.length,lastRun:null,error:null};
 
   // v3.1.2 cached unverified matches (including animal/name collisions) must never be reused.
-  try{localStorage.removeItem('codex_history_visual_archive_v312');}catch{}
+  try{
+    localStorage.removeItem('codex_history_visual_archive_v312');
+    localStorage.removeItem('codex_history_visual_archive_v313');
+  }catch{}
 
   try{
     const saved=JSON.parse(localStorage.getItem(CACHE_KEY)||'{}');
-    if(saved&&saved.version==='3.1.3'&&saved.records&&typeof saved.records==='object'){
+    if(saved&&saved.version==='3.1.4'&&saved.records&&typeof saved.records==='object'){
       stateVisual.records=saved.records;
       stateVisual.lastRun=saved.lastRun||null;
       stateVisual.rejectedCandidates=Number(saved.rejectedCandidates)||0;
@@ -51,8 +58,12 @@
 
   const saveVisualCache=()=>{
     try{
+      const recent=Object.entries(stateVisual.records)
+        .sort((a,b)=>String(b[1]?.resolvedAt||'').localeCompare(String(a[1]?.resolvedAt||'')))
+        .slice(0,MAX_STORED_RECORDS);
+      stateVisual.records=Object.fromEntries(recent);
       localStorage.setItem(CACHE_KEY,JSON.stringify({
-        version:'3.1.3',lastRun:stateVisual.lastRun,records:stateVisual.records,rejectedCandidates:stateVisual.rejectedCandidates
+        version:'3.1.4',lastRun:stateVisual.lastRun,records:stateVisual.records,rejectedCandidates:stateVisual.rejectedCandidates
       }));
     }catch(error){console.warn('[Codex visuals] cache write failed',error);}
   };
@@ -79,7 +90,7 @@
     return {
       static:STATIC_COUNT,dynamic,total:CARDS.length,
       resolved:Math.min(CARDS.length,STATIC_COUNT+dynamic),
-      running:stateVisual.running,failed:stateVisual.failed,
+      running:stateVisual.running,failed:CARDS.filter(c=>!c.image?.prefer_remote&&!stateVisual.records[c.id]).length,
       rejectedCandidates:stateVisual.rejectedCandidates,
       lastRun:stateVisual.lastRun,error:stateVisual.error,
     };
@@ -118,11 +129,11 @@
   async function loadQueries(force=false){
     if(stateVisual.queries&&!force)return stateVisual.queries;
     if(typeof fetch!=='function')return null;
-    const url=new URL(QUERY_PATH,location.href);url.searchParams.set('v',CODEX_MANIFEST?.version||'3.1.3');
+    const url=new URL(QUERY_PATH,location.href);url.searchParams.set('v',CODEX_MANIFEST?.version||'3.1.4');
     const response=await fetch(url.href,{cache:'no-store'});
     if(!response.ok)throw new Error(`image queries HTTP ${response.status}`);
     const payload=await response.json();
-    if(payload.version!=='3.1.3')throw new Error(`image queries version ${payload.version||'unknown'}`);
+    if(payload.version!=='3.1.4')throw new Error(`image queries version ${payload.version||'unknown'}`);
     if(payload.count!==CARDS.length)throw new Error(`image queries ${payload.count}/${CARDS.length}`);
     stateVisual.queries=payload.cards;return stateVisual.queries;
   }
@@ -267,35 +278,48 @@
     }
     return pending.filter(id=>!resolvedIds.has(id));
   }
-  async function resolveHistoricalImages({force=false}={}){
+  async function resolveHistoricalImages({force=false,ids=null,limit=null}={}){
     if(stateVisual.running||typeof fetch!=='function')return status();
     if(navigator?.onLine===false){stateVisual.error='Нет подключения к сети';return status();}
-    stateVisual.running=true;stateVisual.error=null;stateVisual.failed=0;stateVisual.rejectedCandidates=0;
+    stateVisual.running=true;stateVisual.error=null;
     try{
-      await loadQueries(force);
-      if(force){stateVisual.records={};saveVisualCache();}
-      let pending=CARDS.filter(c=>!c.image?.prefer_remote&&!stateVisual.records[c.id]).map(c=>c.id);
+      await loadQueries(false);
+      let pending=(Array.isArray(ids)&&ids.length?ids:CARDS.map(c=>c.id))
+        .filter((id,index,list)=>list.indexOf(id)===index)
+        .filter(id=>{const c=card(id);return c&&!c.image?.prefer_remote&&(force||!stateVisual.records[id]);});
+      if(limit)pending=pending.slice(0,limit);
+      if(force)for(const id of pending)delete stateVisual.records[id];
       const visible=new Set([...document.querySelectorAll?.('img[data-card-image]')||[]].map(el=>el.dataset.cardImage).filter(Boolean));
       pending.sort((a,b)=>(visible.has(b)?1:0)-(visible.has(a)?1:0));
       const usage=imageUsage();
       const maxPass=Math.max(1,...Object.values(stateVisual.queries||{}).map(x=>x.candidates?.length||0));
-      for(let pass=0;pass<maxPass&&pending.length;pass++)pending=await resolvePass(pending,pass,usage);
-      stateVisual.failed=pending.length;stateVisual.lastRun=new Date().toISOString();saveVisualCache();hydrateMountedImages();
+      let unresolved=pending;
+      for(let pass=0;pass<maxPass&&unresolved.length;pass++)unresolved=await resolvePass(unresolved,pass,usage);
+      stateVisual.failed=CARDS.filter(c=>!c.image?.prefer_remote&&!stateVisual.records[c.id]).length;
+      stateVisual.lastRun=new Date().toISOString();saveVisualCache();hydrateMountedImages();
     }catch(error){stateVisual.error=error.message||String(error);console.warn('[Codex visuals]',error);}
-    finally{stateVisual.running=false;try{render();}catch{}}
+    finally{stateVisual.running=false;try{window.dispatchEvent(new CustomEvent('codex:visual-progress',{detail:status()}));}catch{}}
     return status();
   }
+  const mountedIds=()=>[...document.querySelectorAll?.('img[data-card-image]')||[]]
+    .map(el=>el.dataset.cardImage).filter(Boolean);
+
   window.refreshHistoricalImages=async function(){
     if(stateVisual.running)return;
-    showToast('Проверка изображений','Ищем только совпадения с историческим контекстом','▧');
-    await resolveHistoricalImages({force:true});
+    const visible=mountedIds();
+    const unresolved=CARDS.filter(c=>!c.image?.prefer_remote&&!stateVisual.records[c.id]).map(c=>c.id);
+    const ids=[...new Set([...visible,...unresolved])].slice(0,MANUAL_BATCH_LIMIT);
+    if(!ids.length){showToast('Изображения уже загружены','Для открытых карточек есть подтверждённые изображения','✓');return;}
+    showToast('Загрузка изображений',`Проверяем до ${ids.length} карточек без перегрузки телефона`,'▧');
+    await resolveHistoricalImages({ids,limit:MANUAL_BATCH_LIMIT});
     const s=status();
-    showToast('Изображения проверены',`${s.resolved}/${s.total} карточек · отклонено неверных совпадений ${s.rejectedCandidates}`,'✓');
+    showToast('Часть изображений проверена',`${s.resolved}/${s.total} карточек · осталось ${s.failed}`,'✓');
+    try{render();}catch{}
   };
   window.clearHistoricalImageCache=function(){
     if(!confirm('Очистить кэш найденных изображений? Локальные обложки останутся.'))return;
-    stateVisual.records={};stateVisual.lastRun=null;stateVisual.failed=0;stateVisual.rejectedCandidates=0;
-    localStorage.removeItem(CACHE_KEY);render();showToast('Кэш изображений очищен','При следующем запуске источники будут проверены заново','↺');
+    stateVisual.records={};stateVisual.lastRun=null;stateVisual.failed=CARDS.length-STATIC_COUNT;stateVisual.rejectedCandidates=0;
+    localStorage.removeItem(CACHE_KEY);render();showToast('Кэш изображений очищен','Картинки будут подбираться только для открываемых карточек','↺');
   };
   window.resolveHistoricalImages=resolveHistoricalImages;
 
@@ -303,20 +327,48 @@
   settingsScreen=function(){
     let html=previousSettings(),s=status();
     const last=s.lastRun?new Intl.DateTimeFormat('ru-RU',{day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'}).format(new Date(s.lastRun)):'ещё не запускалось';
-    const block=`<article class="settings-card settings-wide visual-archive-settings"><div class="settings-card-head"><span>▧</span><div><h3>Исторические изображения</h3><p>Совпадение проверяется по теме, региону и типу карточки.</p></div></div><div class="visual-archive-meter"><div><b>${s.resolved}/${s.total}</b><span>карточек с подтверждённым изображением</span></div><div class="progress"><span style="width:${Math.round(s.resolved/s.total*100)}%"></span></div><small>${s.running?'Идёт проверка…':`Последняя проверка: ${last}${s.failed?` · локальная обложка ${s.failed}`:''}${s.rejectedCandidates?` · отклонено ${s.rejectedCandidates}`:''}`}</small></div><div class="settings-actions"><button class="btn" onclick="refreshHistoricalImages()" ${s.running?'disabled':''}>${s.running?'Проверка…':'Проверить изображения'}</button><button class="btn ghost" onclick="clearHistoricalImageCache()">Очистить кэш</button></div><p class="settings-note">Если уверенного совпадения нет, остаётся локальная обложка. Случайная фотография больше не подставляется.</p></article>`;
+    const block=`<article class="settings-card settings-wide visual-archive-settings"><div class="settings-card-head"><span>▧</span><div><h3>Исторические изображения</h3><p>Изображения загружаются только для открытых карточек. Это защищает мобильное приложение от перегрузки.</p></div></div><div class="visual-archive-meter"><div><b>${s.resolved}/${s.total}</b><span>карточек с подтверждённым изображением</span></div><div class="progress"><span style="width:${Math.round(s.resolved/s.total*100)}%"></span></div><small>${s.running?'Идёт проверка…':`Последняя проверка: ${last}${s.failed?` · ожидают ${s.failed}`:''}${s.rejectedCandidates?` · отклонено ${s.rejectedCandidates}`:''}`}</small></div><div class="settings-actions"><button class="btn" onclick="refreshHistoricalImages()" ${s.running?'disabled':''}>${s.running?'Проверка…':'Загрузить следующую часть'}</button><button class="btn ghost" onclick="clearHistoricalImageCache()">Очистить кэш</button></div><p class="settings-note">Полный каталог больше не загружается при запуске. На телефоне обработка идёт небольшими партиями.</p></article>`;
     const pos=html.lastIndexOf('</section>');return pos>=0?html.slice(0,pos)+block+html.slice(pos):html;
   };
+
+  let observer=null,queueTimer=0;
+  const queued=new Set();
+  const flushQueue=async()=>{
+    queueTimer=0;if(!queued.size)return;if(stateVisual.running){queueTimer=setTimeout(flushQueue,900);return;}
+    const ids=[...queued].slice(0,AUTO_BATCH_LIMIT);ids.forEach(id=>queued.delete(id));
+    await resolveHistoricalImages({ids,limit:AUTO_BATCH_LIMIT});
+    if(queued.size)queueTimer=setTimeout(flushQueue,900);
+  };
+  const queueCard=id=>{
+    const c=card(id);if(!c||c.image?.prefer_remote||stateVisual.records[id])return;
+    queued.add(id);if(!queueTimer)queueTimer=setTimeout(flushQueue,IS_STANDALONE?900:450);
+  };
+  if(typeof IntersectionObserver!=='undefined'){
+    observer=new IntersectionObserver(entries=>{
+      for(const entry of entries)if(entry.isIntersecting){queueCard(entry.target.dataset.cardImage);observer.unobserve(entry.target);}
+    },{rootMargin:'240px 0px'});
+  }
+  const observeImages=(root=document)=>{
+    if(!root?.querySelectorAll)return;
+    const elements=[...(root.matches?.('img[data-card-image]')?[root]:[]),...root.querySelectorAll('img[data-card-image]')];
+    for(const el of elements){
+      const id=el.dataset.cardImage,c=card(id);if(!c||effectiveRecord(c))continue;
+      if(observer&&!el.dataset.visualObserved){el.dataset.visualObserved='1';observer.observe(el);}
+      else if(!observer)queueCard(id);
+    }
+  };
+
   const previousRender=render;
-  render=function(){previousRender();requestAnimationFrame(()=>hydrateMountedImages());};
+  render=function(){previousRender();requestAnimationFrame(()=>{hydrateMountedImages();observeImages();});};
 
   if(typeof MutationObserver!=='undefined'){
-    const observer=new MutationObserver(()=>hydrateMountedImages());
-    const target=document.getElementById?.('app');if(target)observer.observe(target,{childList:true,subtree:true});
+    let scheduled=false;
+    const mutationObserver=new MutationObserver(()=>{
+      if(scheduled)return;scheduled=true;
+      requestAnimationFrame(()=>{scheduled=false;hydrateMountedImages();observeImages();});
+    });
+    const target=document.getElementById?.('app');if(target)mutationObserver.observe(target,{childList:true,subtree:true});
   }
-  const launch=()=>{
-    hydrateMountedImages();
-    if(navigator?.connection?.saveData)return;
-    setTimeout(()=>resolveHistoricalImages(),700);
-  };
+  const launch=()=>{hydrateMountedImages();observeImages();};
   if(typeof window.addEventListener==='function')window.addEventListener('codex:ready',launch,{once:true});
 })();

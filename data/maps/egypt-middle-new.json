@@ -1,0 +1,326 @@
+{
+  "points": {
+    "THEBES": [
+      25.7188,
+      32.6573
+    ],
+    "DEIR_BAHRI": [
+      25.7382,
+      32.6066
+    ],
+    "HERAKLEOPOLIS": [
+      29.086,
+      30.934
+    ],
+    "ABYDOS": [
+      26.185,
+      31.918
+    ],
+    "LISHT": [
+      29.57,
+      31.23
+    ],
+    "ITJTAWY": [
+      29.55,
+      31.15
+    ],
+    "BENI_HASAN": [
+      27.93,
+      30.877
+    ],
+    "LAHUN": [
+      29.238,
+      30.97
+    ],
+    "FAIYUM": [
+      29.308,
+      30.842
+    ],
+    "SEMNA": [
+      21.483,
+      30.97
+    ],
+    "BUHEN": [
+      21.917,
+      31.283
+    ],
+    "ELEPHANTINE": [
+      24.089,
+      32.889
+    ],
+    "AVARIS": [
+      30.787,
+      31.821
+    ],
+    "THEBES_NORTH": [
+      25.7188,
+      32.6573
+    ],
+    "SHARUHEN": [
+      31.25,
+      34.3
+    ],
+    "KARNAK": [
+      25.7188,
+      32.6573
+    ],
+    "KUMMA": [
+      21.56,
+      30.96
+    ],
+    "GEBEL_BARKAL": [
+      18.537,
+      31.838
+    ],
+    "DEIR_MEDINA": [
+      25.728,
+      32.601
+    ],
+    "PUNT": [
+      13.5,
+      42.5
+    ],
+    "MEGIDDO": [
+      32.584,
+      35.184
+    ],
+    "KADESH": [
+      34.557,
+      36.519
+    ],
+    "JOPPA": [
+      32.055,
+      34.752
+    ],
+    "AMARNA": [
+      27.644,
+      30.896
+    ],
+    "MEMPHIS": [
+      29.849,
+      31.254
+    ],
+    "PI_RAMESSES": [
+      30.8,
+      31.84
+    ],
+    "ABU_SIMBEL": [
+      22.337,
+      31.626
+    ],
+    "MEDINET_HABU": [
+      25.719,
+      32.601
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "EMN_S_01_01": "DEIR_BAHRI",
+    "EMN_S_01_02": "THEBES",
+    "EMN_S_01_03": "HERAKLEOPOLIS",
+    "EMN_S_01_04": "THEBES",
+    "EMN_S_01_05": "THEBES",
+    "EMN_S_01_06": "DEIR_BAHRI",
+    "EMN_S_01_07": "BENI_HASAN",
+    "EMN_S_01_08": "THEBES",
+    "EMN_A_01_01": "THEBES",
+    "EMN_A_01_02": "THEBES",
+    "EMN_A_01_03": "THEBES",
+    "EMN_A_01_04": "THEBES",
+    "EMN_S_02_01": "LISHT",
+    "EMN_S_02_02": "ITJTAWY",
+    "EMN_S_02_03": "LISHT",
+    "EMN_S_02_04": "LISHT",
+    "EMN_S_02_05": "ITJTAWY",
+    "EMN_S_02_06": "BENI_HASAN",
+    "EMN_S_02_07": "LISHT",
+    "EMN_S_02_08": "ITJTAWY",
+    "EMN_A_02_01": "LISHT",
+    "EMN_A_02_02": "KARNAK",
+    "EMN_A_02_03": "BENI_HASAN",
+    "EMN_A_02_04": "LAHUN",
+    "EMN_S_03_01": "SEMNA",
+    "EMN_S_03_02": "SEMNA",
+    "EMN_S_03_03": "BUHEN",
+    "EMN_S_03_04": "BUHEN",
+    "EMN_S_03_05": "SEMNA",
+    "EMN_S_03_06": "FAIYUM",
+    "EMN_S_03_07": "ELEPHANTINE",
+    "EMN_S_03_08": "SEMNA",
+    "EMN_A_03_01": "SEMNA",
+    "EMN_A_03_02": "SEMNA",
+    "EMN_A_03_03": "FAIYUM",
+    "EMN_A_03_04": "ELEPHANTINE",
+    "EMN_S_04_01": "AVARIS",
+    "EMN_S_04_02": "AVARIS",
+    "EMN_S_04_03": "AVARIS",
+    "EMN_S_04_04": "AVARIS",
+    "EMN_S_04_05": "AVARIS",
+    "EMN_S_04_06": "AVARIS",
+    "EMN_S_04_07": "AVARIS",
+    "EMN_S_04_08": "THEBES",
+    "EMN_A_04_01": "AVARIS",
+    "EMN_A_04_02": "AVARIS",
+    "EMN_A_04_03": "THEBES",
+    "EMN_A_04_04": "THEBES",
+    "EMN_S_05_01": "THEBES",
+    "EMN_S_05_02": "THEBES",
+    "EMN_S_05_03": "THEBES",
+    "EMN_S_05_04": "AVARIS",
+    "EMN_S_05_05": "SHARUHEN",
+    "EMN_S_05_06": "THEBES",
+    "EMN_S_05_07": "THEBES",
+    "EMN_S_05_08": "THEBES",
+    "EMN_A_05_01": "THEBES",
+    "EMN_A_05_02": "THEBES",
+    "EMN_A_05_03": "THEBES",
+    "EMN_A_05_04": "THEBES",
+    "EMN_S_06_01": "THEBES",
+    "EMN_S_06_02": "KARNAK",
+    "EMN_S_06_03": "KARNAK",
+    "EMN_S_06_04": "GEBEL_BARKAL",
+    "EMN_S_06_05": "GEBEL_BARKAL",
+    "EMN_S_06_06": "KADESH",
+    "EMN_S_06_07": "DEIR_MEDINA",
+    "EMN_S_06_08": "KARNAK",
+    "EMN_A_06_01": "DEIR_MEDINA",
+    "EMN_A_06_02": "THEBES",
+    "EMN_A_06_03": "GEBEL_BARKAL",
+    "EMN_A_06_04": "DEIR_MEDINA",
+    "EMN_S_07_01": "DEIR_BAHRI",
+    "EMN_S_07_02": "THEBES",
+    "EMN_S_07_03": "KARNAK",
+    "EMN_S_07_04": "DEIR_BAHRI",
+    "EMN_S_07_05": "PUNT",
+    "EMN_S_07_06": "DEIR_BAHRI",
+    "EMN_S_07_07": "KARNAK",
+    "EMN_S_07_08": "DEIR_BAHRI",
+    "EMN_A_07_01": "DEIR_BAHRI",
+    "EMN_A_07_02": "KARNAK",
+    "EMN_A_07_03": "THEBES",
+    "EMN_A_07_04": "DEIR_BAHRI",
+    "EMN_S_08_01": "KARNAK",
+    "EMN_S_08_02": "MEGIDDO",
+    "EMN_S_08_03": "KARNAK",
+    "EMN_S_08_04": "MEGIDDO",
+    "EMN_S_08_05": "MEGIDDO",
+    "EMN_S_08_06": "KADESH",
+    "EMN_S_08_07": "JOPPA",
+    "EMN_S_08_08": "MEGIDDO",
+    "EMN_A_08_01": "KARNAK",
+    "EMN_A_08_02": "GEBEL_BARKAL",
+    "EMN_A_08_03": "KARNAK",
+    "EMN_A_08_04": "JOPPA",
+    "EMN_S_09_01": "THEBES",
+    "EMN_S_09_02": "AMARNA",
+    "EMN_S_09_03": "AMARNA",
+    "EMN_S_09_04": "AMARNA",
+    "EMN_S_09_05": "AMARNA",
+    "EMN_S_09_06": "AMARNA",
+    "EMN_S_09_07": "AMARNA",
+    "EMN_S_09_08": "THEBES",
+    "EMN_A_09_01": "AMARNA",
+    "EMN_A_09_02": "AMARNA",
+    "EMN_A_09_03": "KARNAK",
+    "EMN_A_09_04": "THEBES",
+    "EMN_S_10_01": "KADESH",
+    "EMN_S_10_02": "PI_RAMESSES",
+    "EMN_S_10_03": "KADESH",
+    "EMN_S_10_04": "KADESH",
+    "EMN_S_10_05": "PI_RAMESSES",
+    "EMN_S_10_06": "DEIR_MEDINA",
+    "EMN_S_10_07": "MEDINET_HABU",
+    "EMN_S_10_08": "THEBES",
+    "EMN_A_10_01": "ABU_SIMBEL",
+    "EMN_A_10_02": "MEDINET_HABU",
+    "EMN_A_10_03": "DEIR_MEDINA",
+    "EMN_A_10_04": "MEDINET_HABU"
+  },
+  "chapters": {
+    "EMN_CHAPTER_01": {
+      "title": "Новое объединение Египта",
+      "center": [
+        25.7188,
+        32.6573
+      ],
+      "zoom": 5
+    },
+    "EMN_CHAPTER_02": {
+      "title": "Государство XII династии",
+      "center": [
+        29.55,
+        31.15
+      ],
+      "zoom": 5
+    },
+    "EMN_CHAPTER_03": {
+      "title": "Нубия, Файюм и ресурсы",
+      "center": [
+        21.483,
+        30.97
+      ],
+      "zoom": 5
+    },
+    "EMN_CHAPTER_04": {
+      "title": "Гиксосы и разделённый Египет",
+      "center": [
+        30.787,
+        31.821
+      ],
+      "zoom": 5
+    },
+    "EMN_CHAPTER_05": {
+      "title": "Изгнание гиксосов",
+      "center": [
+        25.7188,
+        32.6573
+      ],
+      "zoom": 5
+    },
+    "EMN_CHAPTER_06": {
+      "title": "Рождение египетской империи",
+      "center": [
+        25.7188,
+        32.6573
+      ],
+      "zoom": 5
+    },
+    "EMN_CHAPTER_07": {
+      "title": "Хатшепсут",
+      "center": [
+        25.7382,
+        32.6066
+      ],
+      "zoom": 5
+    },
+    "EMN_CHAPTER_08": {
+      "title": "Тутмос III и Мегиддо",
+      "center": [
+        32.584,
+        35.184
+      ],
+      "zoom": 5
+    },
+    "EMN_CHAPTER_09": {
+      "title": "Амарнский перелом",
+      "center": [
+        27.644,
+        30.896
+      ],
+      "zoom": 5
+    },
+    "EMN_CHAPTER_10": {
+      "title": "Рамессиды и конец Нового царства",
+      "center": [
+        34.557,
+        36.519
+      ],
+      "zoom": 5
+    }
+  },
+  "missionCenter": [
+    26.8,
+    31.0
+  ],
+  "missionZoom": 5
+}

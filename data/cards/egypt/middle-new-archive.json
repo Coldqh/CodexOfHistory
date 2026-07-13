@@ -1,0 +1,2122 @@
+[
+  {
+    "id": "EMN_A_01_01",
+    "type": "PERSON",
+    "title": "Интеф II",
+    "original": "Intef II",
+    "subtitle": "фиванский правитель, расширявший влияние на север",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "ок. 2112–2063 до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 5,
+    "summary": "Интеф II: фиванский правитель, расширявший влияние на север.",
+    "importance": "Архивная карточка дополняет главу «Новое объединение Египта» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: ок. 2112–2063 до н. э..",
+      "Связь с темой: фиванский правитель, расширявший влияние на север.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Новое объединение Египта",
+      "person"
+    ],
+    "stats": {
+      "context": 6,
+      "sources": 6,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Фивы",
+      "lat": 25.7188,
+      "lon": 32.6573
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-01/emn_a_01_01.svg",
+      "caption": "Локальная учебная обложка: Интеф II",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_01_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the Middle Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_01"
+  },
+  {
+    "id": "EMN_A_01_02",
+    "type": "ARTIFACT",
+    "title": "Стела Тжетжи",
+    "original": "Stela of Tjetji",
+    "subtitle": "частный памятник участника фиванского объединения",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "ок. 2050 до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 5,
+    "summary": "Стела Тжетжи: частный памятник участника фиванского объединения.",
+    "importance": "Архивная карточка дополняет главу «Новое объединение Египта» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: ок. 2050 до н. э..",
+      "Связь с темой: частный памятник участника фиванского объединения.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Новое объединение Египта",
+      "artifact"
+    ],
+    "stats": {
+      "context": 6,
+      "sources": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Фивы",
+      "lat": 25.7188,
+      "lon": 32.6573
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-01/emn_a_01_02.svg",
+      "caption": "Локальная учебная обложка: Стела Тжетжи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_01_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the Middle Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_01"
+  },
+  {
+    "id": "EMN_A_01_03",
+    "type": "SITE",
+    "title": "Сафф-гробницы Эль-Тарифа",
+    "original": "El-Tarif",
+    "subtitle": "рядовые скальные гробницы ранних фиванских правителей",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XI династия",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Сафф-гробницы Эль-Тарифа: рядовые скальные гробницы ранних фиванских правителей.",
+    "importance": "Архивная карточка дополняет главу «Новое объединение Египта» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XI династия.",
+      "Связь с темой: рядовые скальные гробницы ранних фиванских правителей.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Новое объединение Египта",
+      "site"
+    ],
+    "stats": {
+      "context": 6,
+      "sources": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Фивы",
+      "lat": 25.7188,
+      "lon": 32.6573
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-01/emn_a_01_03.svg",
+      "caption": "Локальная учебная обложка: Сафф-гробницы Эль-Тарифа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_01_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the Middle Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_01"
+  },
+  {
+    "id": "EMN_A_01_04",
+    "type": "ARTIFACT",
+    "title": "Модели из гробницы Мекетре",
+    "original": "Tomb of Meketre",
+    "subtitle": "деревянные модели хозяйства и транспорта",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "ок. 1981–1975 до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 5,
+    "summary": "Модели из гробницы Мекетре: деревянные модели хозяйства и транспорта.",
+    "importance": "Архивная карточка дополняет главу «Новое объединение Египта» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: ок. 1981–1975 до н. э..",
+      "Связь с темой: деревянные модели хозяйства и транспорта.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Новое объединение Египта",
+      "artifact"
+    ],
+    "stats": {
+      "context": 6,
+      "sources": 6,
+      "connections": 4
+    },
+    "loc": {
+      "label": "Фивы",
+      "lat": 25.7188,
+      "lon": 32.6573
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-01/emn_a_01_04.svg",
+      "caption": "Локальная учебная обложка: Модели из гробницы Мекетре",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_01_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the Middle Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_01"
+  },
+  {
+    "id": "EMN_A_02_01",
+    "type": "TEXT",
+    "title": "Поучение Аменемхета",
+    "original": "Instructions of Amenemhat",
+    "subtitle": "царское наставление, оформленное как речь погибшего правителя",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "начало II тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 5,
+    "summary": "Поучение Аменемхета: царское наставление, оформленное как речь погибшего правителя.",
+    "importance": "Архивная карточка дополняет главу «Государство XII династии» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: начало II тысячелетия до н. э..",
+      "Связь с темой: царское наставление, оформленное как речь погибшего правителя.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Государство XII династии",
+      "text"
+    ],
+    "stats": {
+      "context": 7,
+      "sources": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Лишт",
+      "lat": 29.57,
+      "lon": 31.23
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-02/emn_a_02_01.svg",
+      "caption": "Локальная учебная обложка: Поучение Аменемхета",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_02_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the Middle Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_02"
+  },
+  {
+    "id": "EMN_A_02_02",
+    "type": "BUILDING",
+    "title": "Белая капелла Сенусерта I",
+    "original": "White Chapel",
+    "subtitle": "юбилейная капелла с перечнем египетских номов",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "ок. 1950 до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 5,
+    "summary": "Белая капелла Сенусерта I: юбилейная капелла с перечнем египетских номов.",
+    "importance": "Архивная карточка дополняет главу «Государство XII династии» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: ок. 1950 до н. э..",
+      "Связь с темой: юбилейная капелла с перечнем египетских номов.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Государство XII династии",
+      "building"
+    ],
+    "stats": {
+      "context": 7,
+      "sources": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Карнак",
+      "lat": 25.7188,
+      "lon": 32.6573
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-02/emn_a_02_02.svg",
+      "caption": "Локальная учебная обложка: Белая капелла Сенусерта I",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_02_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the Middle Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_02"
+  },
+  {
+    "id": "EMN_A_02_03",
+    "type": "SITE",
+    "title": "Гробницы Бени-Хасана",
+    "original": "Beni Hasan",
+    "subtitle": "провинциальные гробницы с биографиями и сценами труда",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XX–XIX века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Гробницы Бени-Хасана: провинциальные гробницы с биографиями и сценами труда.",
+    "importance": "Архивная карточка дополняет главу «Государство XII династии» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XX–XIX века до н. э..",
+      "Связь с темой: провинциальные гробницы с биографиями и сценами труда.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Государство XII династии",
+      "site"
+    ],
+    "stats": {
+      "context": 7,
+      "sources": 5,
+      "connections": 4
+    },
+    "loc": {
+      "label": "Бени-Хасан",
+      "lat": 27.93,
+      "lon": 30.877
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-02/emn_a_02_03.svg",
+      "caption": "Локальная учебная обложка: Гробницы Бени-Хасана",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_02_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the Middle Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_02"
+  },
+  {
+    "id": "EMN_A_02_04",
+    "type": "TEXT",
+    "title": "Лахунские папирусы",
+    "original": "Kahun Papyri",
+    "subtitle": "хозяйственные, медицинские и административные документы",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "ок. 1800 до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 5,
+    "summary": "Лахунские папирусы: хозяйственные, медицинские и административные документы.",
+    "importance": "Архивная карточка дополняет главу «Государство XII династии» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: ок. 1800 до н. э..",
+      "Связь с темой: хозяйственные, медицинские и административные документы.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Государство XII династии",
+      "text"
+    ],
+    "stats": {
+      "context": 7,
+      "sources": 6,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Лахун",
+      "lat": 29.238,
+      "lon": 30.97
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-02/emn_a_02_04.svg",
+      "caption": "Локальная учебная обложка: Лахунские папирусы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_02_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the Middle Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_02"
+  },
+  {
+    "id": "EMN_A_03_01",
+    "type": "TEXT",
+    "title": "Семненские донесения",
+    "original": "Semna Despatches",
+    "subtitle": "сообщения о движении людей через нубийскую границу",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XII династия",
+    "rarity": "COMMON",
+    "difficulty": 6,
+    "summary": "Семненские донесения: сообщения о движении людей через нубийскую границу.",
+    "importance": "Архивная карточка дополняет главу «Нубия, Файюм и ресурсы» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XII династия.",
+      "Связь с темой: сообщения о движении людей через нубийскую границу.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Нубия, Файюм и ресурсы",
+      "text"
+    ],
+    "stats": {
+      "context": 8,
+      "sources": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Семна",
+      "lat": 21.483,
+      "lon": 30.97
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-03/emn_a_03_01.svg",
+      "caption": "Локальная учебная обложка: Семненские донесения",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_03_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the Middle Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_03"
+  },
+  {
+    "id": "EMN_A_03_02",
+    "type": "SITE",
+    "title": "Миргисса",
+    "original": "Mirgissa",
+    "subtitle": "крепость и поселение в системе Нижней Нубии",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "Среднее царство",
+    "rarity": "UNCOMMON",
+    "difficulty": 6,
+    "summary": "Миргисса: крепость и поселение в системе Нижней Нубии.",
+    "importance": "Архивная карточка дополняет главу «Нубия, Файюм и ресурсы» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: Среднее царство.",
+      "Связь с темой: крепость и поселение в системе Нижней Нубии.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Нубия, Файюм и ресурсы",
+      "site"
+    ],
+    "stats": {
+      "context": 8,
+      "sources": 7,
+      "connections": 4
+    },
+    "loc": {
+      "label": "Семна",
+      "lat": 21.483,
+      "lon": 30.97
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-03/emn_a_03_02.svg",
+      "caption": "Локальная учебная обложка: Миргисса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_03_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the Middle Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_03"
+  },
+  {
+    "id": "EMN_A_03_03",
+    "type": "BUILDING",
+    "title": "Мединет-Мади",
+    "original": "Medinet Madi",
+    "subtitle": "храмовый комплекс Файюмского региона",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XII династия",
+    "rarity": "RARE",
+    "difficulty": 6,
+    "summary": "Мединет-Мади: храмовый комплекс Файюмского региона.",
+    "importance": "Архивная карточка дополняет главу «Нубия, Файюм и ресурсы» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XII династия.",
+      "Связь с темой: храмовый комплекс Файюмского региона.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Нубия, Файюм и ресурсы",
+      "building"
+    ],
+    "stats": {
+      "context": 8,
+      "sources": 5,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Файюм",
+      "lat": 29.308,
+      "lon": 30.842
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-03/emn_a_03_03.svg",
+      "caption": "Локальная учебная обложка: Мединет-Мади",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_03_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the Middle Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_03"
+  },
+  {
+    "id": "EMN_A_03_04",
+    "type": "TEXT",
+    "title": "Надписи Вади-Хаммамат",
+    "original": "Wadi Hammamat",
+    "subtitle": "следы царских экспедиций к камню и Красному морю",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "Среднее царство",
+    "rarity": "MYTHIC",
+    "difficulty": 6,
+    "summary": "Надписи Вади-Хаммамат: следы царских экспедиций к камню и Красному морю.",
+    "importance": "Архивная карточка дополняет главу «Нубия, Файюм и ресурсы» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: Среднее царство.",
+      "Связь с темой: следы царских экспедиций к камню и Красному морю.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Нубия, Файюм и ресурсы",
+      "text"
+    ],
+    "stats": {
+      "context": 8,
+      "sources": 6,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Элефантина",
+      "lat": 24.089,
+      "lon": 32.889
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-03/emn_a_03_04.svg",
+      "caption": "Локальная учебная обложка: Надписи Вади-Хаммамат",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_03_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the Middle Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_03"
+  },
+  {
+    "id": "EMN_A_04_01",
+    "type": "ARTIFACT",
+    "title": "Фрески Телль-эль-Дабъа",
+    "original": "Minoan frescoes at Tell el-Dab’a",
+    "subtitle": "росписи, указывающие на связи Дельты с Эгейским миром",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XVIII династия, с более ранним контекстом Авариса",
+    "rarity": "COMMON",
+    "difficulty": 6,
+    "summary": "Фрески Телль-эль-Дабъа: росписи, указывающие на связи Дельты с Эгейским миром.",
+    "importance": "Архивная карточка дополняет главу «Гиксосы и разделённый Египет» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XVIII династия, с более ранним контекстом Авариса.",
+      "Связь с темой: росписи, указывающие на связи Дельты с Эгейским миром.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Гиксосы и разделённый Египет",
+      "artifact"
+    ],
+    "stats": {
+      "context": 5,
+      "sources": 6,
+      "connections": 4
+    },
+    "loc": {
+      "label": "Аварис / Телль-эль-Дабъа",
+      "lat": 30.787,
+      "lon": 31.821
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-04/emn_a_04_01.svg",
+      "caption": "Локальная учебная обложка: Фрески Телль-эль-Дабъа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/timeline-ancient-egypt",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Timeline of ancient Egypt",
+      "url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/timeline-ancient-egypt",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_04"
+  },
+  {
+    "id": "EMN_A_04_02",
+    "type": "TEXT",
+    "title": "Математический папирус Ринда",
+    "original": "Rhind Mathematical Papyrus",
+    "subtitle": "копия математического текста с исторической заметкой",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "ок. 1550 до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 6,
+    "summary": "Математический папирус Ринда: копия математического текста с исторической заметкой.",
+    "importance": "Архивная карточка дополняет главу «Гиксосы и разделённый Египет» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: ок. 1550 до н. э..",
+      "Связь с темой: копия математического текста с исторической заметкой.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Гиксосы и разделённый Египет",
+      "text"
+    ],
+    "stats": {
+      "context": 5,
+      "sources": 7,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Аварис / Телль-эль-Дабъа",
+      "lat": 30.787,
+      "lon": 31.821
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-04/emn_a_04_02.svg",
+      "caption": "Локальная учебная обложка: Математический папирус Ринда",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/timeline-ancient-egypt",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Timeline of ancient Egypt",
+      "url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/timeline-ancient-egypt",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_04"
+  },
+  {
+    "id": "EMN_A_04_03",
+    "type": "TEXT",
+    "title": "Стелы Камоса",
+    "original": "Kamose stelae",
+    "subtitle": "царские сообщения о войне против Авариса",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "середина XVI века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 6,
+    "summary": "Стелы Камоса: царские сообщения о войне против Авариса.",
+    "importance": "Архивная карточка дополняет главу «Гиксосы и разделённый Египет» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: середина XVI века до н. э..",
+      "Связь с темой: царские сообщения о войне против Авариса.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Гиксосы и разделённый Египет",
+      "text"
+    ],
+    "stats": {
+      "context": 5,
+      "sources": 5,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Фивы",
+      "lat": 25.7188,
+      "lon": 32.6573
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-04/emn_a_04_03.svg",
+      "caption": "Локальная учебная обложка: Стелы Камоса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/timeline-ancient-egypt",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Timeline of ancient Egypt",
+      "url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/timeline-ancient-egypt",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_04"
+  },
+  {
+    "id": "EMN_A_04_04",
+    "type": "ARTIFACT",
+    "title": "Мумия Секененра Таа",
+    "original": "Seqenenre Tao",
+    "subtitle": "останки фиванского царя со следами тяжёлых ранений",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XVI век до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 6,
+    "summary": "Мумия Секененра Таа: останки фиванского царя со следами тяжёлых ранений.",
+    "importance": "Архивная карточка дополняет главу «Гиксосы и разделённый Египет» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XVI век до н. э..",
+      "Связь с темой: останки фиванского царя со следами тяжёлых ранений.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Гиксосы и разделённый Египет",
+      "artifact"
+    ],
+    "stats": {
+      "context": 5,
+      "sources": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Фивы",
+      "lat": 25.7188,
+      "lon": 32.6573
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-04/emn_a_04_04.svg",
+      "caption": "Локальная учебная обложка: Мумия Секененра Таа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/timeline-ancient-egypt",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_04_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Timeline of ancient Egypt",
+      "url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/timeline-ancient-egypt",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_04"
+  },
+  {
+    "id": "EMN_A_05_01",
+    "type": "TEXT",
+    "title": "Стела Бури Яхмоса",
+    "original": "Tempest Stele",
+    "subtitle": "царская надпись о разрушительном природном явлении и восстановлении",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XVI век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 6,
+    "summary": "Стела Бури Яхмоса: царская надпись о разрушительном природном явлении и восстановлении.",
+    "importance": "Архивная карточка дополняет главу «Изгнание гиксосов» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XVI век до н. э..",
+      "Связь с темой: царская надпись о разрушительном природном явлении и восстановлении.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Изгнание гиксосов",
+      "text"
+    ],
+    "stats": {
+      "context": 6,
+      "sources": 6,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Фивы",
+      "lat": 25.7188,
+      "lon": 32.6573
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-05/emn_a_05_01.svg",
+      "caption": "Локальная учебная обложка: Стела Бури Яхмоса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/timeline-ancient-egypt",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Timeline of ancient Egypt",
+      "url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/timeline-ancient-egypt",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_05"
+  },
+  {
+    "id": "EMN_A_05_02",
+    "type": "PERSON",
+    "title": "Яхмос-Нефертари",
+    "original": "Ahmose-Nefertari",
+    "subtitle": "царица и важная фигура ранней XVIII династии",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XVI век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 6,
+    "summary": "Яхмос-Нефертари: царица и важная фигура ранней XVIII династии.",
+    "importance": "Архивная карточка дополняет главу «Изгнание гиксосов» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XVI век до н. э..",
+      "Связь с темой: царица и важная фигура ранней XVIII династии.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Изгнание гиксосов",
+      "person"
+    ],
+    "stats": {
+      "context": 6,
+      "sources": 7,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Фивы",
+      "lat": 25.7188,
+      "lon": 32.6573
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-05/emn_a_05_02.svg",
+      "caption": "Локальная учебная обложка: Яхмос-Нефертари",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/timeline-ancient-egypt",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Timeline of ancient Egypt",
+      "url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/timeline-ancient-egypt",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_05"
+  },
+  {
+    "id": "EMN_A_05_03",
+    "type": "ARTIFACT",
+    "title": "Шабти Яхмоса I",
+    "original": "Shabti of Ahmose I",
+    "subtitle": "один из редких сохранившихся образов основателя XVIII династии",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XVI век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 6,
+    "summary": "Шабти Яхмоса I: один из редких сохранившихся образов основателя XVIII династии.",
+    "importance": "Архивная карточка дополняет главу «Изгнание гиксосов» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XVI век до н. э..",
+      "Связь с темой: один из редких сохранившихся образов основателя XVIII династии.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Изгнание гиксосов",
+      "artifact"
+    ],
+    "stats": {
+      "context": 6,
+      "sources": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Фивы",
+      "lat": 25.7188,
+      "lon": 32.6573
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-05/emn_a_05_03.svg",
+      "caption": "Локальная учебная обложка: Шабти Яхмоса I",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/timeline-ancient-egypt",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Timeline of ancient Egypt",
+      "url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/timeline-ancient-egypt",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_05"
+  },
+  {
+    "id": "EMN_A_05_04",
+    "type": "ARTIFACT",
+    "title": "Золото доблести",
+    "original": "Gold of Honour",
+    "subtitle": "награда, упоминаемая в военных биографиях Нового царства",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XVI–XIII века до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 6,
+    "summary": "Золото доблести: награда, упоминаемая в военных биографиях Нового царства.",
+    "importance": "Архивная карточка дополняет главу «Изгнание гиксосов» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XVI–XIII века до н. э..",
+      "Связь с темой: награда, упоминаемая в военных биографиях Нового царства.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Изгнание гиксосов",
+      "artifact"
+    ],
+    "stats": {
+      "context": 6,
+      "sources": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Фивы",
+      "lat": 25.7188,
+      "lon": 32.6573
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-05/emn_a_05_04.svg",
+      "caption": "Локальная учебная обложка: Золото доблести",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/timeline-ancient-egypt",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Timeline of ancient Egypt",
+      "url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/timeline-ancient-egypt",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_05"
+  },
+  {
+    "id": "EMN_A_06_01",
+    "type": "SITE",
+    "title": "Гробница KV38",
+    "original": "KV38",
+    "subtitle": "царская гробница, связанная с Тутмосом I",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XV век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Гробница KV38: царская гробница, связанная с Тутмосом I.",
+    "importance": "Архивная карточка дополняет главу «Рождение египетской империи» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XV век до н. э..",
+      "Связь с темой: царская гробница, связанная с Тутмосом I.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Рождение египетской империи",
+      "site"
+    ],
+    "stats": {
+      "context": 7,
+      "sources": 6,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Дейр-эль-Медина",
+      "lat": 25.728,
+      "lon": 32.601
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-06/emn_a_06_01.svg",
+      "caption": "Локальная учебная обложка: Гробница KV38",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the New Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_06"
+  },
+  {
+    "id": "EMN_A_06_02",
+    "type": "TEXT",
+    "title": "Надпись Яхмоса, сына Абаны",
+    "original": "Ahmose, son of Ebana",
+    "subtitle": "биография, показывающая карьеру военного служилого человека",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XVI век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Надпись Яхмоса, сына Абаны: биография, показывающая карьеру военного служилого человека.",
+    "importance": "Архивная карточка дополняет главу «Рождение египетской империи» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XVI век до н. э..",
+      "Связь с темой: биография, показывающая карьеру военного служилого человека.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Рождение египетской империи",
+      "text"
+    ],
+    "stats": {
+      "context": 7,
+      "sources": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Фивы",
+      "lat": 25.7188,
+      "lon": 32.6573
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-06/emn_a_06_02.svg",
+      "caption": "Локальная учебная обложка: Надпись Яхмоса, сына Абаны",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the New Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_06"
+  },
+  {
+    "id": "EMN_A_06_03",
+    "type": "TEXT",
+    "title": "Стела Тутмоса I у Джебель-Баркала",
+    "original": "Jebel Barkal",
+    "subtitle": "царская надпись о южной экспансии",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XV век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Стела Тутмоса I у Джебель-Баркала: царская надпись о южной экспансии.",
+    "importance": "Архивная карточка дополняет главу «Рождение египетской империи» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XV век до н. э..",
+      "Связь с темой: царская надпись о южной экспансии.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Рождение египетской империи",
+      "text"
+    ],
+    "stats": {
+      "context": 7,
+      "sources": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Джебель-Баркал",
+      "lat": 18.537,
+      "lon": 31.838
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-06/emn_a_06_03.svg",
+      "caption": "Локальная учебная обложка: Стела Тутмоса I у Джебель-Баркала",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the New Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_06"
+  },
+  {
+    "id": "EMN_A_06_04",
+    "type": "SITE",
+    "title": "Основание Дейр-эль-Медины",
+    "original": "Deir el-Medina",
+    "subtitle": "поселение мастеров царских гробниц",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "ранняя XVIII династия",
+    "rarity": "LEGENDARY",
+    "difficulty": 7,
+    "summary": "Основание Дейр-эль-Медины: поселение мастеров царских гробниц.",
+    "importance": "Архивная карточка дополняет главу «Рождение египетской империи» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: ранняя XVIII династия.",
+      "Связь с темой: поселение мастеров царских гробниц.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Рождение египетской империи",
+      "site"
+    ],
+    "stats": {
+      "context": 7,
+      "sources": 6,
+      "connections": 4
+    },
+    "loc": {
+      "label": "Дейр-эль-Медина",
+      "lat": 25.728,
+      "lon": 32.601
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-06/emn_a_06_04.svg",
+      "caption": "Локальная учебная обложка: Основание Дейр-эль-Медины",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the New Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_06"
+  },
+  {
+    "id": "EMN_A_07_01",
+    "type": "ARTIFACT",
+    "title": "Рельефы Пунта",
+    "original": "Land of Punt",
+    "subtitle": "изображения людей, товаров и ландшафта Пунта",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XV век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Рельефы Пунта: изображения людей, товаров и ландшафта Пунта.",
+    "importance": "Архивная карточка дополняет главу «Хатшепсут» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XV век до н. э..",
+      "Связь с темой: изображения людей, товаров и ландшафта Пунта.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Хатшепсут",
+      "artifact"
+    ],
+    "stats": {
+      "context": 8,
+      "sources": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Дейр-эль-Бахри",
+      "lat": 25.7382,
+      "lon": 32.6066
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-07/emn_a_07_01.svg",
+      "caption": "Локальная учебная обложка: Рельефы Пунта",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/queen-hatshepsut-restored",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Queen Hatshepsut Restored",
+      "url": "https://www.metmuseum.org/essays/queen-hatshepsut-restored",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_07"
+  },
+  {
+    "id": "EMN_A_07_02",
+    "type": "BUILDING",
+    "title": "Красная капелла",
+    "original": "Red Chapel of Hatshepsut",
+    "subtitle": "святилище для процессий барки Амона",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XV век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Красная капелла: святилище для процессий барки Амона.",
+    "importance": "Архивная карточка дополняет главу «Хатшепсут» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XV век до н. э..",
+      "Связь с темой: святилище для процессий барки Амона.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Хатшепсут",
+      "building"
+    ],
+    "stats": {
+      "context": 8,
+      "sources": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Карнак",
+      "lat": 25.7188,
+      "lon": 32.6573
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-07/emn_a_07_02.svg",
+      "caption": "Локальная учебная обложка: Красная капелла",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/queen-hatshepsut-restored",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Queen Hatshepsut Restored",
+      "url": "https://www.metmuseum.org/essays/queen-hatshepsut-restored",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_07"
+  },
+  {
+    "id": "EMN_A_07_03",
+    "type": "PERSON",
+    "title": "Хатнефер",
+    "original": "Hatnefer",
+    "subtitle": "мать Сененмута, известная по хорошо документированной гробнице",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XV век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Хатнефер: мать Сененмута, известная по хорошо документированной гробнице.",
+    "importance": "Архивная карточка дополняет главу «Хатшепсут» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XV век до н. э..",
+      "Связь с темой: мать Сененмута, известная по хорошо документированной гробнице.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Хатшепсут",
+      "person"
+    ],
+    "stats": {
+      "context": 8,
+      "sources": 5,
+      "connections": 4
+    },
+    "loc": {
+      "label": "Фивы",
+      "lat": 25.7188,
+      "lon": 32.6573
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-07/emn_a_07_03.svg",
+      "caption": "Локальная учебная обложка: Хатнефер",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/queen-hatshepsut-restored",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Queen Hatshepsut Restored",
+      "url": "https://www.metmuseum.org/essays/queen-hatshepsut-restored",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_07"
+  },
+  {
+    "id": "EMN_A_07_04",
+    "type": "ARTIFACT",
+    "title": "Фрагменты статуй Хатшепсут",
+    "original": "Hatshepsut sculpture",
+    "subtitle": "разбитые и восстановленные царские статуи из Дейр-эль-Бахри",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XV век до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 7,
+    "summary": "Фрагменты статуй Хатшепсут: разбитые и восстановленные царские статуи из Дейр-эль-Бахри.",
+    "importance": "Архивная карточка дополняет главу «Хатшепсут» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XV век до н. э..",
+      "Связь с темой: разбитые и восстановленные царские статуи из Дейр-эль-Бахри.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Хатшепсут",
+      "artifact"
+    ],
+    "stats": {
+      "context": 8,
+      "sources": 6,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Дейр-эль-Бахри",
+      "lat": 25.7382,
+      "lon": 32.6066
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-07/emn_a_07_04.svg",
+      "caption": "Локальная учебная обложка: Фрагменты статуй Хатшепсут",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/queen-hatshepsut-restored",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_07_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Queen Hatshepsut Restored",
+      "url": "https://www.metmuseum.org/essays/queen-hatshepsut-restored",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_07"
+  },
+  {
+    "id": "EMN_A_08_01",
+    "type": "ARTIFACT",
+    "title": "Ботанический сад Тутмоса III",
+    "original": "Botanical garden of Thutmose III",
+    "subtitle": "рельефы с растениями и животными чужих земель",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XV век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Ботанический сад Тутмоса III: рельефы с растениями и животными чужих земель.",
+    "importance": "Архивная карточка дополняет главу «Тутмос III и Мегиддо» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XV век до н. э..",
+      "Связь с темой: рельефы с растениями и животными чужих земель.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Тутмос III и Мегиддо",
+      "artifact"
+    ],
+    "stats": {
+      "context": 5,
+      "sources": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Карнак",
+      "lat": 25.7188,
+      "lon": 32.6573
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-08/emn_a_08_01.svg",
+      "caption": "Локальная учебная обложка: Ботанический сад Тутмоса III",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the New Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_08"
+  },
+  {
+    "id": "EMN_A_08_02",
+    "type": "TEXT",
+    "title": "Стела Джебель-Баркала Тутмоса III",
+    "original": "Jebel Barkal Stele of Thutmose III",
+    "subtitle": "царская надпись о походах и границах",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XV век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Стела Джебель-Баркала Тутмоса III: царская надпись о походах и границах.",
+    "importance": "Архивная карточка дополняет главу «Тутмос III и Мегиддо» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XV век до н. э..",
+      "Связь с темой: царская надпись о походах и границах.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Тутмос III и Мегиддо",
+      "text"
+    ],
+    "stats": {
+      "context": 5,
+      "sources": 7,
+      "connections": 4
+    },
+    "loc": {
+      "label": "Джебель-Баркал",
+      "lat": 18.537,
+      "lon": 31.838
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-08/emn_a_08_02.svg",
+      "caption": "Локальная учебная обложка: Стела Джебель-Баркала Тутмоса III",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the New Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_08"
+  },
+  {
+    "id": "EMN_A_08_03",
+    "type": "TEXT",
+    "title": "Список городов Карнака",
+    "original": "Karnak king list",
+    "subtitle": "перечни покорённых мест в храмовой программе",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XV век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Список городов Карнака: перечни покорённых мест в храмовой программе.",
+    "importance": "Архивная карточка дополняет главу «Тутмос III и Мегиддо» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XV век до н. э..",
+      "Связь с темой: перечни покорённых мест в храмовой программе.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Тутмос III и Мегиддо",
+      "text"
+    ],
+    "stats": {
+      "context": 5,
+      "sources": 5,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Карнак",
+      "lat": 25.7188,
+      "lon": 32.6573
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-08/emn_a_08_03.svg",
+      "caption": "Локальная учебная обложка: Список городов Карнака",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the New Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_08"
+  },
+  {
+    "id": "EMN_A_08_04",
+    "type": "TEXT",
+    "title": "Повесть о взятии Яффы",
+    "original": "The Taking of Joppa",
+    "subtitle": "литературная версия военного эпизода",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "Новое царство",
+    "rarity": "LEGENDARY",
+    "difficulty": 7,
+    "summary": "Повесть о взятии Яффы: литературная версия военного эпизода.",
+    "importance": "Архивная карточка дополняет главу «Тутмос III и Мегиддо» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: Новое царство.",
+      "Связь с темой: литературная версия военного эпизода.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Тутмос III и Мегиддо",
+      "text"
+    ],
+    "stats": {
+      "context": 5,
+      "sources": 6,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Яффа",
+      "lat": 32.055,
+      "lon": 34.752
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-08/emn_a_08_04.svg",
+      "caption": "Локальная учебная обложка: Повесть о взятии Яффы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_08_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the New Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_08"
+  },
+  {
+    "id": "EMN_A_09_01",
+    "type": "TEXT",
+    "title": "Пограничные стелы Ахетатона",
+    "original": "Boundary Stelae of Akhenaten",
+    "subtitle": "надписи, определявшие пространство новой столицы",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XIV век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Пограничные стелы Ахетатона: надписи, определявшие пространство новой столицы.",
+    "importance": "Архивная карточка дополняет главу «Амарнский перелом» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XIV век до н. э..",
+      "Связь с темой: надписи, определявшие пространство новой столицы.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Амарнский перелом",
+      "text"
+    ],
+    "stats": {
+      "context": 6,
+      "sources": 6,
+      "connections": 4
+    },
+    "loc": {
+      "label": "Ахетатон / Амарна",
+      "lat": 27.644,
+      "lon": 30.896
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-09/emn_a_09_01.svg",
+      "caption": "Локальная учебная обложка: Пограничные стелы Ахетатона",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/art-architecture-and-the-city-in-the-reign-of-amenhotep-iv-akhenaten-ca-13531336-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_09_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Art, Architecture, and the City in the Reign of Akhenaten",
+      "url": "https://www.metmuseum.org/essays/art-architecture-and-the-city-in-the-reign-of-amenhotep-iv-akhenaten-ca-13531336-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_09"
+  },
+  {
+    "id": "EMN_A_09_02",
+    "type": "TEXT",
+    "title": "Великий гимн Атону",
+    "original": "Great Hymn to the Aten",
+    "subtitle": "религиозный текст амарнского времени",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XIV век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Великий гимн Атону: религиозный текст амарнского времени.",
+    "importance": "Архивная карточка дополняет главу «Амарнский перелом» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XIV век до н. э..",
+      "Связь с темой: религиозный текст амарнского времени.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Амарнский перелом",
+      "text"
+    ],
+    "stats": {
+      "context": 6,
+      "sources": 7,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Ахетатон / Амарна",
+      "lat": 27.644,
+      "lon": 30.896
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-09/emn_a_09_02.svg",
+      "caption": "Локальная учебная обложка: Великий гимн Атону",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/art-architecture-and-the-city-in-the-reign-of-amenhotep-iv-akhenaten-ca-13531336-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_09_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Art, Architecture, and the City in the Reign of Akhenaten",
+      "url": "https://www.metmuseum.org/essays/art-architecture-and-the-city-in-the-reign-of-amenhotep-iv-akhenaten-ca-13531336-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_09"
+  },
+  {
+    "id": "EMN_A_09_03",
+    "type": "ARTIFACT",
+    "title": "Талататы",
+    "original": "Talatat",
+    "subtitle": "малые каменные блоки амарнских построек",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XIV век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Талататы: малые каменные блоки амарнских построек.",
+    "importance": "Архивная карточка дополняет главу «Амарнский перелом» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XIV век до н. э..",
+      "Связь с темой: малые каменные блоки амарнских построек.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Амарнский перелом",
+      "artifact"
+    ],
+    "stats": {
+      "context": 6,
+      "sources": 5,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Карнак",
+      "lat": 25.7188,
+      "lon": 32.6573
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-09/emn_a_09_03.svg",
+      "caption": "Локальная учебная обложка: Талататы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/art-architecture-and-the-city-in-the-reign-of-amenhotep-iv-akhenaten-ca-13531336-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_09_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Art, Architecture, and the City in the Reign of Akhenaten",
+      "url": "https://www.metmuseum.org/essays/art-architecture-and-the-city-in-the-reign-of-amenhotep-iv-akhenaten-ca-13531336-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_09"
+  },
+  {
+    "id": "EMN_A_09_04",
+    "type": "TEXT",
+    "title": "Стела восстановления Тутанхамона",
+    "original": "Restoration Stela",
+    "subtitle": "царская программа возвращения храмов к прежнему порядку",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XIV век до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Стела восстановления Тутанхамона: царская программа возвращения храмов к прежнему порядку.",
+    "importance": "Архивная карточка дополняет главу «Амарнский перелом» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XIV век до н. э..",
+      "Связь с темой: царская программа возвращения храмов к прежнему порядку.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Амарнский перелом",
+      "text"
+    ],
+    "stats": {
+      "context": 6,
+      "sources": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Фивы",
+      "lat": 25.7188,
+      "lon": 32.6573
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-09/emn_a_09_04.svg",
+      "caption": "Локальная учебная обложка: Стела восстановления Тутанхамона",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/art-architecture-and-the-city-in-the-reign-of-amenhotep-iv-akhenaten-ca-13531336-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_09_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Art, Architecture, and the City in the Reign of Akhenaten",
+      "url": "https://www.metmuseum.org/essays/art-architecture-and-the-city-in-the-reign-of-amenhotep-iv-akhenaten-ca-13531336-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_09"
+  },
+  {
+    "id": "EMN_A_10_01",
+    "type": "BUILDING",
+    "title": "Абу-Симбел",
+    "original": "Abu Simbel",
+    "subtitle": "скальные храмы Рамсеса II в Нубии",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XIII век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Абу-Симбел: скальные храмы Рамсеса II в Нубии.",
+    "importance": "Архивная карточка дополняет главу «Рамессиды и конец Нового царства» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XIII век до н. э..",
+      "Связь с темой: скальные храмы Рамсеса II в Нубии.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Рамессиды и конец Нового царства",
+      "building"
+    ],
+    "stats": {
+      "context": 7,
+      "sources": 6,
+      "connections": 5
+    },
+    "loc": {
+      "label": "Абу-Симбел",
+      "lat": 22.337,
+      "lon": 31.626
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-10/emn_a_10_01.svg",
+      "caption": "Локальная учебная обложка: Абу-Симбел",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_10_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the New Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_10"
+  },
+  {
+    "id": "EMN_A_10_02",
+    "type": "TEXT",
+    "title": "Большой папирус Харриса",
+    "original": "Papyrus Harris I",
+    "subtitle": "перечень даров и деяний Рамсеса III",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XII век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Большой папирус Харриса: перечень даров и деяний Рамсеса III.",
+    "importance": "Архивная карточка дополняет главу «Рамессиды и конец Нового царства» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XII век до н. э..",
+      "Связь с темой: перечень даров и деяний Рамсеса III.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Рамессиды и конец Нового царства",
+      "text"
+    ],
+    "stats": {
+      "context": 7,
+      "sources": 7,
+      "connections": 6
+    },
+    "loc": {
+      "label": "Мединет-Абу",
+      "lat": 25.719,
+      "lon": 32.601
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-10/emn_a_10_02.svg",
+      "caption": "Локальная учебная обложка: Большой папирус Харриса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_10_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the New Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_10"
+  },
+  {
+    "id": "EMN_A_10_03",
+    "type": "TEXT",
+    "title": "Туринский папирус о забастовке",
+    "original": "Deir el-Medina strike",
+    "subtitle": "документ о прекращении работы из-за задержки пайков",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "ок. 1155 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Туринский папирус о забастовке: документ о прекращении работы из-за задержки пайков.",
+    "importance": "Архивная карточка дополняет главу «Рамессиды и конец Нового царства» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: ок. 1155 до н. э..",
+      "Связь с темой: документ о прекращении работы из-за задержки пайков.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Рамессиды и конец Нового царства",
+      "text"
+    ],
+    "stats": {
+      "context": 7,
+      "sources": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Дейр-эль-Медина",
+      "lat": 25.728,
+      "lon": 32.601
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-10/emn_a_10_03.svg",
+      "caption": "Локальная учебная обложка: Туринский папирус о забастовке",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_10_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the New Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_10"
+  },
+  {
+    "id": "EMN_A_10_04",
+    "type": "ARTIFACT",
+    "title": "Рельефы Мединет-Абу",
+    "original": "Medinet Habu",
+    "subtitle": "царские изображения войн Рамсеса III",
+    "era": "Царства бронзового века",
+    "region": "Египет и соседние регионы",
+    "date": "XII век до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 8,
+    "summary": "Рельефы Мединет-Абу: царские изображения войн Рамсеса III.",
+    "importance": "Архивная карточка дополняет главу «Рамессиды и конец Нового царства» отдельным памятником, документом или человеком.",
+    "facts": [
+      "Датировка: XII век до н. э..",
+      "Связь с темой: царские изображения войн Рамсеса III.",
+      "Надёжный вывод зависит от происхождения, жанра и состояния материала."
+    ],
+    "tags": [
+      "Египет",
+      "архив",
+      "Рамессиды и конец Нового царства",
+      "artifact"
+    ],
+    "stats": {
+      "context": 7,
+      "sources": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мединет-Абу",
+      "lat": 25.719,
+      "lon": 32.601
+    },
+    "image": {
+      "local": "assets/cards/egypt-middle-new/chapter-10/emn_a_10_04.svg",
+      "caption": "Локальная учебная обложка: Рельефы Мединет-Абу",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "emn_a_10_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: Egypt in the New Kingdom",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "EGYPT_BRONZE",
+    "chapter": "EMN_CHAPTER_10"
+  }
+]

@@ -8,7 +8,7 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "3.1.3"
+VERSION = "3.2.0"
 
 GROUP_CONTEXT = {
     "ROME": {
@@ -229,6 +229,29 @@ MANUAL_BY_TITLE = {
     "Законы Хаммурапи": [("en", "Code of Hammurabi")],
     "Стела Хаммурапи": [("en", "Code of Hammurabi")],
     "Ступенчатая пирамида": [("en", "Pyramid of Djoser")],
+    "Фивы Среднего царства": [("en", "Thebes, Egypt"), ("ru", "Фивы")],
+    "Иттауи": [("en", "Itjtawy")],
+    "Гераклеопольское царство": [("en", "Heracleopolis Magna")],
+    "Крепость Семна": [("en", "Semna (Nubia)")],
+    "Крепость Бухен": [("en", "Buhen")],
+    "Аварис": [("en", "Avaris")],
+    "Гиксосы": [("en", "Hyksos")],
+    "Хиан": [("en", "Khyan")],
+    "Апопи": [("en", "Apepi")],
+    "Камос": [("en", "Kamose")],
+    "Яхмос I": [("en", "Ahmose I")],
+    "Хатшепсут": [("en", "Hatshepsut")],
+    "Сененмут": [("en", "Senenmut")],
+    "Экспедиция в Пунт": [("en", "Land of Punt")],
+    "Мегиддо": [("en", "Tel Megiddo")],
+    "Битва при Мегиддо": [("en", "Battle of Megiddo (15th century BC)")],
+    "Митанни": [("en", "Mitanni")],
+    "Ахетатон": [("en", "Amarna")],
+    "Атон": [("en", "Aten")],
+    "Пер-Рамсес": [("en", "Pi-Ramesses")],
+    "Дейр-эль-Медина": [("en", "Deir el-Medina")],
+    "Битва при Кадеше": [("en", "Battle of Kadesh")],
+    "Египетско-хеттский договор": [("en", "Egyptian–Hittite peace treaty")],
 }
 
 STOPWORDS = {

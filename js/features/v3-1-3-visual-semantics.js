@@ -1,4 +1,4 @@
-/* Codex of History v3.1.4 — semantic historical image resolver with mobile-safe lazy loading */
+/* Codex of History v3.2.0 — semantic historical image resolver with mobile-safe lazy loading */
 (() => {
   const CACHE_KEY='codex_history_visual_archive_v314';
   const QUERY_PATH=CODEX_MANIFEST?.datasets?.imageQueries||'data/image_queries.json';
@@ -18,7 +18,7 @@
 
   try{
     const saved=JSON.parse(localStorage.getItem(CACHE_KEY)||'{}');
-    if(saved&&saved.version==='3.1.4'&&saved.records&&typeof saved.records==='object'){
+    if(saved&&saved.version==='3.2.0'&&saved.records&&typeof saved.records==='object'){
       stateVisual.records=saved.records;
       stateVisual.lastRun=saved.lastRun||null;
       stateVisual.rejectedCandidates=Number(saved.rejectedCandidates)||0;
@@ -63,7 +63,7 @@
         .slice(0,MAX_STORED_RECORDS);
       stateVisual.records=Object.fromEntries(recent);
       localStorage.setItem(CACHE_KEY,JSON.stringify({
-        version:'3.1.4',lastRun:stateVisual.lastRun,records:stateVisual.records,rejectedCandidates:stateVisual.rejectedCandidates
+        version:'3.2.0',lastRun:stateVisual.lastRun,records:stateVisual.records,rejectedCandidates:stateVisual.rejectedCandidates
       }));
     }catch(error){console.warn('[Codex visuals] cache write failed',error);}
   };
@@ -129,11 +129,11 @@
   async function loadQueries(force=false){
     if(stateVisual.queries&&!force)return stateVisual.queries;
     if(typeof fetch!=='function')return null;
-    const url=new URL(QUERY_PATH,location.href);url.searchParams.set('v',CODEX_MANIFEST?.version||'3.1.4');
+    const url=new URL(QUERY_PATH,location.href);url.searchParams.set('v',CODEX_MANIFEST?.version||'3.2.0');
     const response=await fetch(url.href,{cache:'no-store'});
     if(!response.ok)throw new Error(`image queries HTTP ${response.status}`);
     const payload=await response.json();
-    if(payload.version!=='3.1.4')throw new Error(`image queries version ${payload.version||'unknown'}`);
+    if(payload.version!=='3.2.0')throw new Error(`image queries version ${payload.version||'unknown'}`);
     if(payload.count!==CARDS.length)throw new Error(`image queries ${payload.count}/${CARDS.length}`);
     stateVisual.queries=payload.cards;return stateVisual.queries;
   }

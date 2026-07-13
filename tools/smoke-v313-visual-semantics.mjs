@@ -10,7 +10,7 @@ const cards=manifest.datasets.cards.flatMap(read);
 const queries=read(manifest.datasets.imageQueries);
 const images=read('data/image_manifest.json');
 
-assert.equal(manifest.version,'3.1.4');
+assert.equal(manifest.version,'3.2.0');
 assert.equal(queries.version,manifest.version);
 assert.equal(queries.count,cards.length);
 assert.equal(Object.keys(queries.cards).length,cards.length);
@@ -18,7 +18,7 @@ assert.equal(Object.keys(queries.cards).length,cards.length);
 const staticHistorical=cards.filter(c=>c.image?.prefer_remote);
 const dynamic=cards.filter(c=>!c.image?.prefer_remote);
 assert.equal(staticHistorical.length,42);
-assert.equal(dynamic.length,857);
+assert.equal(dynamic.length,cards.length-staticHistorical.length);
 assert.equal(images.dynamicQueryCount,dynamic.length);
 
 for(const c of cards){
@@ -64,7 +64,7 @@ const manifestText=fs.readFileSync(path.join(root,'data/content-manifest.json'),
 assert.match(manifestText,/v3-1-3-visual-semantics\.js/);
 assert.doesNotMatch(manifestText,/v3-1-2-visual-archive\.js/);
 const sw=fs.readFileSync(path.join(root,'sw.js'),'utf8');
-assert.match(sw,/codex-v3\.1\.4/);
+assert.match(sw,/codex-v3\.2\.0/);
 assert.match(sw,/v3-1-3-visual-semantics\.js/);
 
-console.log(`✓ v3.1.4 semantic visual catalog: ${cards.length} profiles, ${staticHistorical.length} fixed, ${dynamic.length} validated dynamically`);
+console.log(`✓ v3.2.0 semantic visual catalog: ${cards.length} profiles, ${staticHistorical.length} fixed, ${dynamic.length} validated dynamically`);

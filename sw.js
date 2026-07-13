@@ -1,5 +1,5 @@
-/* Codex of History v3.1.4 — bounded GitHub Pages service worker */
-const VERSION='codex-v3.1.4';
+/* Codex of History v3.2.0 — bounded GitHub Pages service worker */
+const VERSION='codex-v3.2.0';
 const APP_CACHE=`${VERSION}-app`;
 const IMAGE_CACHE=`${VERSION}-images`;
 const TILE_CACHE=`${VERSION}-tiles`;
@@ -9,9 +9,9 @@ const CORE=[
   './','./index.html','./styles.css','./manifest.webmanifest','./data/content-manifest.json',
   './js/bootstrap.js','./assets/ui/codex-mark.svg','./assets/ui/codex-icon-192.png',
   './assets/ui/codex-icon-512.png','./assets/ui/fallback-card.svg',
-  './assets/packs/civilizations-pack.svg','./assets/packs/babylon-pack.svg',
+  './assets/packs/civilizations-pack.svg','./assets/packs/babylon-pack.svg','./assets/packs/egypt-bronze-pack.svg',
   './data/image_manifest.json','./data/image_queries.json',
-  './js/features/v3-1-1-hotfix.js','./js/features/v3-1-3-visual-semantics.js'
+  './js/features/v3-2-egypt-middle-new.js','./js/features/v3-1-1-hotfix.js','./js/features/v3-1-3-visual-semantics.js'
 ];
 
 self.addEventListener('install',event=>{

@@ -2,10 +2,24 @@
 function card(id){ return CODEX_REGISTRY.cardsById.get(id); }
 function isUnlocked(id){ return state.unlocked.includes(id); }
 function imgUrl(file){ return 'https://commons.wikimedia.org/wiki/Special:Redirect/file/' + encodeURIComponent(file) + '?width=900'; }
-function filePage(file){ return 'https://commons.wikimedia.org/wiki/File:' + file.replaceAll(' ','_'); }
+function filePage(file){ return 'https://commons.wikimedia.org/wiki/File:' + String(file||'').replaceAll(' ','_'); }
+function cardImageSource(c){
+  const image=c?.image||{};
+  return image.prefer_remote&&image.file?imgUrl(image.file):(image.local||imgUrl(image.file));
+}
+function cardImageFallback(c){
+  const image=c?.image||{};
+  return image.prefer_remote&&image.local?image.local:'assets/ui/fallback-card.svg';
+}
+function cardImageSourcePage(c){return c?.image?.source_url||filePage(c?.image?.file);}
+function fallbackCardImage(el){
+  const fallback=el.dataset.fallback;
+  if(fallback){delete el.dataset.fallback;el.src=fallback;return;}
+  el.onerror=null;el.src='assets/ui/fallback-card.svg';
+}
 function imgTag(c, cls=''){
-  const source=c.image.local||imgUrl(c.image.file);
-  return `<img class="${cls}" src="${source}" alt="${esc(c.title)}" loading="lazy" decoding="async" style="object-position:${c.image.focus || '50% 50%'}" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='assets/ui/fallback-card.svg'">`;
+  const source=cardImageSource(c),fallback=cardImageFallback(c);
+  return `<img class="${cls}" src="${source}" data-fallback="${fallback}" alt="${esc(c.title)}" loading="lazy" decoding="async" style="object-position:${c.image.focus || '50% 50%'}" referrerpolicy="no-referrer" onerror="fallbackCardImage(this)">`;
 }
 function esc(s){ return String(s ?? '').replace(/[&<>"']/g, m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m])); }
 function typeLabel(t){ return TYPE_META[t]?.[1] || t; }

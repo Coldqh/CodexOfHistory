@@ -6,7 +6,7 @@
   const warmImages=async()=>{
     if(typeof navigator==='undefined'||!('serviceWorker' in navigator)||navigator.connection?.saveData)return;
     const run=async()=>{
-      const urls=[...new Set(CARDS.map(c=>c.image?.local||imgUrl(c.image?.file)).filter(Boolean))];
+      const urls=[...new Set(CARDS.map(c=>cardImageSource(c)).filter(Boolean))];
       for(let i=0;i<urls.length;i+=4){
         await Promise.allSettled(urls.slice(i,i+4).map(url=>fetch(url,{mode:'no-cors',cache:'force-cache'})));
         await new Promise(resolve=>setTimeout(resolve,80));

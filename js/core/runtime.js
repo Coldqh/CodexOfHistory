@@ -22,9 +22,9 @@ const PAGE_META = {
 const PASS_PERCENT = 70;
 const initial = {
   tab:'home', xp:0, level:1, theme:'night',
-  unlocked:['PER_ROM_001','PER_ROM_005','EVT_ROM_001'],
+  unlocked:[],
   read:[], quizDone:[], quizResults:{}, missionsCompleted:[], mapTasks:{}, timelineTasks:{},
-  currentCard:'PER_ROM_001', currentQuiz:null, currentMission:'MIS_BIRTH_01', quizMissionId:null,
+  currentCard:null, currentQuiz:null, currentMission:null, quizMissionId:null,
   quizIndex:0, quizScore:0, selected:null, quizFinished:false, quizLastResult:null,
   filter:'ALL', rarity:'ALL', search:''
 };
@@ -35,8 +35,8 @@ state.missionsCompleted = Array.isArray(state.missionsCompleted) ? state.mission
 state.mapTasks = state.mapTasks || {};
 state.timelineTasks = state.timelineTasks || {};
 state.theme = state.theme === 'parchment' ? 'parchment' : 'night';
-state.unlocked = Array.isArray(state.unlocked) ? state.unlocked : [...initial.unlocked];
-initial.unlocked.forEach(id=>{if(!state.unlocked.includes(id)) state.unlocked.push(id);});
+state.unlocked = Array.isArray(state.unlocked) ? state.unlocked : [];
+// Starter cards are assigned only after the player chooses a first campaign.
 applyTheme();
 
 function save(){ localStorage.setItem(STORE, JSON.stringify(state)); }

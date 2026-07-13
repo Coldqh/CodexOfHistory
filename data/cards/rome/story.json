@@ -40,13 +40,15 @@
       "y": 50
     },
     "image": {
-      "file": "per_rom_001.svg",
-      "caption": "Учебная обложка: Ромул",
-      "credit": "Codex of History · локальная учебная обложка",
-      "license": "Project asset",
-      "focus": "50% 50%",
+      "file": "Buste de Rome (Louvre, Ma 1209) - Romulus.jpg",
+      "caption": "Ромул на шлеме аллегорического бюста города Рима, Лувр",
+      "credit": "Wikimedia Commons / Louvre / Tangopaso",
+      "license": "Public Domain",
+      "focus": "50% 42%",
       "local": "assets/cards/rome/legacy/per_rom_001.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "https://commons.wikimedia.org/wiki/File:Buste_de_Rome_(Louvre,_Ma_1209)_-_Romulus.jpg",
+      "prefer_remote": true,
+      "kind": "historical-image"
     },
     "source": {
       "title": "Ромул — Википедия",
@@ -94,13 +96,15 @@
       "y": 50
     },
     "image": {
-      "file": "evt_rom_001.svg",
-      "caption": "Учебная обложка: Основание Рима",
-      "credit": "Codex of History · локальная учебная обложка",
-      "license": "Project asset",
-      "focus": "50% 50%",
+      "file": "Romulus Founds the City and Names it Rome, pl.9 from the series The Story of Romulus and Remus.jpg",
+      "caption": "Ромул закладывает город и даёт ему имя Рим. Гравюра Джамбаттисты Фонтаны, 1575",
+      "credit": "Wikimedia Commons",
+      "license": "Public Domain / см. страницу файла",
+      "focus": "50% 48%",
       "local": "assets/cards/rome/legacy/evt_rom_001.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "https://commons.wikimedia.org/wiki/File:Romulus_Founds_the_City_and_Names_it_Rome,_pl.9_from_the_series_The_Story_of_Romulus_and_Remus.jpg",
+      "prefer_remote": true,
+      "kind": "historical-image"
     },
     "source": {
       "title": "Основание Рима — Википедия",
@@ -148,13 +152,15 @@
       "y": 50
     },
     "image": {
-      "file": "state_rom_001.svg",
-      "caption": "Учебная обложка: Римское царство",
-      "credit": "Codex of History · локальная учебная обложка",
-      "license": "Project asset",
+      "file": "Late Roman kingdom map-blank.svg",
+      "caption": "Территория позднего Римского царства на карте Италии",
+      "credit": "Wikimedia Commons / Sémhur",
+      "license": "CC BY-SA 4.0 / Free Art License",
       "focus": "50% 50%",
       "local": "assets/cards/rome/legacy/state_rom_001.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "https://commons.wikimedia.org/wiki/File:Late_Roman_kingdom_map-blank.svg",
+      "prefer_remote": true,
+      "kind": "historical-image"
     },
     "source": {
       "title": "Римское царство — Википедия",
@@ -202,13 +208,15 @@
       "y": 50
     },
     "image": {
-      "file": "evt_rom_002.svg",
-      "caption": "Учебная обложка: Изгнание царей",
-      "credit": "Codex of History · локальная учебная обложка",
-      "license": "Project asset",
-      "local": "assets/cards/rome/legacy/evt_rom_002.svg",
+      "file": "The_Lictors_Returning_To_Brutus_The_Bodies_Of_His_Sons.jpg",
+      "caption": "Жак-Луи Давид. Брут и тела его сыновей — образ суровой республиканской добродетели",
+      "credit": "Wikimedia Commons",
+      "license": "Public Domain / см. страницу файла",
       "focus": "50% 50%",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "local": "assets/cards/rome/legacy/evt_rom_002.svg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Lictors_Returning_To_Brutus_The_Bodies_Of_His_Sons.jpg",
+      "prefer_remote": true,
+      "kind": "historical-image"
     },
     "source": {
       "title": "Изгнание царей — Википедия",
@@ -256,13 +264,15 @@
       "y": 50
     },
     "image": {
-      "file": "state_rom_002.svg",
-      "caption": "Учебная обложка: Римская республика",
-      "credit": "Codex of History · локальная учебная обложка",
-      "license": "Project asset",
-      "local": "assets/cards/rome/legacy/state_rom_002.svg",
+      "file": "Extent_of_the_Roman_Republic_and_the_Roman_Empire_between_218_BC_and_117_AD.png",
+      "caption": "Рост Римской республики и империи на карте",
+      "credit": "Wikimedia Commons",
+      "license": "см. страницу файла",
       "focus": "50% 50%",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "local": "assets/cards/rome/legacy/state_rom_002.svg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Extent_of_the_Roman_Republic_and_the_Roman_Empire_between_218_BC_and_117_AD.png",
+      "prefer_remote": true,
+      "kind": "historical-image"
     },
     "source": {
       "title": "Римская республика — Википедия",
@@ -310,13 +320,15 @@
       "y": 50
     },
     "image": {
-      "file": "org_rom_001.svg",
-      "caption": "Учебная обложка: Римский сенат",
-      "credit": "Codex of History · локальная учебная обложка",
-      "license": "Project asset",
-      "local": "assets/cards/rome/legacy/org_rom_001.svg",
+      "file": "Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari.png",
+      "caption": "Цицерон разоблачает Катилину в сенате. Фреска Чезаре Маккари",
+      "credit": "Wikimedia Commons",
+      "license": "Public Domain / см. страницу файла",
       "focus": "50% 50%",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "local": "assets/cards/rome/legacy/org_rom_001.svg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari.png",
+      "prefer_remote": true,
+      "kind": "historical-image"
     },
     "source": {
       "title": "Римский сенат — Википедия",
@@ -364,13 +376,15 @@
       "y": 49
     },
     "image": {
-      "file": "per_rom_005.svg",
-      "caption": "Учебная обложка: Рем",
-      "credit": "Codex of History · локальная учебная обложка",
-      "license": "Project asset",
-      "focus": "50% 50%",
+      "file": "Rubens, Peter Paul - Romulus and Remus - 1614-1616.jpg",
+      "caption": "Питер Пауль Рубенс. Ромул и Рем",
+      "credit": "Wikimedia Commons",
+      "license": "Public Domain / см. страницу файла",
+      "focus": "52% 45%",
       "local": "assets/cards/rome/legacy/per_rom_005.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rubens,_Peter_Paul_-_Romulus_and_Remus_-_1614-1616.jpg",
+      "prefer_remote": true,
+      "kind": "historical-image"
     },
     "source": {
       "title": "Рем — Википедия",
@@ -418,13 +432,15 @@
       "y": 54
     },
     "image": {
-      "file": "per_rom_006.svg",
-      "caption": "Учебная обложка: Рея Сильвия",
-      "credit": "Codex of History · локальная учебная обложка",
-      "license": "Project asset",
-      "focus": "50% 50%",
+      "file": "F. Melzi - Rhea Sylvia met scenes uit de geschiedenis van Romulus en Remus - NK1923 - Cultural Heritage Agency of the Netherlands Art Collection.jpg",
+      "caption": "Франческо Мельци. Рея Сильвия и сцены истории Ромула и Рема",
+      "credit": "Wikimedia Commons / Cultural Heritage Agency of the Netherlands",
+      "license": "Public Domain / см. страницу файла",
+      "focus": "50% 43%",
       "local": "assets/cards/rome/legacy/per_rom_006.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "https://commons.wikimedia.org/wiki/File:F._Melzi_-_Rhea_Sylvia_met_scenes_uit_de_geschiedenis_van_Romulus_en_Remus_-_NK1923_-_Cultural_Heritage_Agency_of_the_Netherlands_Art_Collection.jpg",
+      "prefer_remote": true,
+      "kind": "historical-image"
     },
     "source": {
       "title": "Рея Сильвия — Википедия",
@@ -472,13 +488,15 @@
       "y": 49
     },
     "image": {
-      "file": "loc_rom_001.svg",
-      "caption": "Учебная обложка: Палатинский холм",
-      "credit": "Codex of History · локальная учебная обложка",
-      "license": "Project asset",
+      "file": "Palatine Hill Rome.jpg",
+      "caption": "Палатинский холм в Риме",
+      "credit": "Wikimedia Commons / Jensens",
+      "license": "Свободная лицензия / см. страницу файла",
       "focus": "50% 50%",
       "local": "assets/cards/rome/legacy/loc_rom_001.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "https://commons.wikimedia.org/wiki/File:Palatine_Hill_Rome.jpg",
+      "prefer_remote": true,
+      "kind": "historical-image"
     },
     "source": {
       "title": "Палатинский холм — Википедия",
@@ -526,13 +544,15 @@
       "y": 52
     },
     "image": {
-      "file": "reg_rom_001.svg",
-      "caption": "Учебная обложка: Лаций",
-      "credit": "Codex of History · локальная учебная обложка",
-      "license": "Project asset",
+      "file": "Ancient Latium.png",
+      "caption": "Карта древнего Лация",
+      "credit": "Wikimedia Commons / William R. Shepherd",
+      "license": "Public Domain",
       "focus": "50% 50%",
       "local": "assets/cards/rome/legacy/reg_rom_001.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ancient_Latium.png",
+      "prefer_remote": true,
+      "kind": "historical-image"
     },
     "source": {
       "title": "Лаций — Википедия",
@@ -580,13 +600,15 @@
       "y": 49
     },
     "image": {
-      "file": "art_rom_001.svg",
-      "caption": "Учебная обложка: Капитолийская волчица",
-      "credit": "Codex of History · локальная учебная обложка",
-      "license": "Project asset",
-      "focus": "50% 50%",
+      "file": "Capitoline she-wolf Musei Capitolini MC1181 n2.jpg",
+      "caption": "Капитолийская волчица с Ромулом и Ремом",
+      "credit": "Wikimedia Commons / Jastrow",
+      "license": "Public Domain",
+      "focus": "50% 43%",
       "local": "assets/cards/rome/legacy/art_rom_001.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "https://commons.wikimedia.org/wiki/File:Capitoline_she-wolf_Musei_Capitolini_MC1181_n2.jpg",
+      "prefer_remote": true,
+      "kind": "historical-image"
     },
     "source": {
       "title": "Капитолийская волчица — Википедия",
@@ -634,13 +656,15 @@
       "y": 43
     },
     "image": {
-      "file": "cul_rom_001.svg",
-      "caption": "Учебная обложка: Сабиняне",
-      "credit": "Codex of History · локальная учебная обложка",
-      "license": "Project asset",
-      "focus": "50% 50%",
+      "file": "The Intervention of the Sabine Women - David (Louvre INV 3691).jpg",
+      "caption": "Жак-Луи Давид. Вмешательство сабинянок",
+      "credit": "Wikimedia Commons / Louvre",
+      "license": "Public Domain / см. страницу файла",
+      "focus": "52% 47%",
       "local": "assets/cards/rome/legacy/cul_rom_001.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Intervention_of_the_Sabine_Women_-_David_(Louvre_INV_3691).jpg",
+      "prefer_remote": true,
+      "kind": "historical-image"
     },
     "source": {
       "title": "Сабиняне — Википедия",
@@ -688,13 +712,15 @@
       "y": 50
     },
     "image": {
-      "file": "evt_rom_005.svg",
-      "caption": "Учебная обложка: Похищение сабинянок",
-      "credit": "Codex of History · локальная учебная обложка",
-      "license": "Project asset",
-      "focus": "50% 50%",
+      "file": "The Rape of the Sabine Women.jpg",
+      "caption": "Никола Пуссен. Похищение сабинянок",
+      "credit": "Wikimedia Commons / The Met",
+      "license": "Public Domain",
+      "focus": "52% 48%",
       "local": "assets/cards/rome/legacy/evt_rom_005.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Rape_of_the_Sabine_Women.jpg",
+      "prefer_remote": true,
+      "kind": "historical-image"
     },
     "source": {
       "title": "Похищение сабинянок — Википедия",
@@ -742,13 +768,15 @@
       "y": 50
     },
     "image": {
-      "file": "per_rom_007.svg",
-      "caption": "Учебная обложка: Нума Помпилий",
-      "credit": "Codex of History · локальная учебная обложка",
-      "license": "Project asset",
-      "focus": "50% 50%",
+      "file": "Numa Pompilius, from Promptuarii Iconum Insigniorum.png",
+      "caption": "Нума Помпилий в издании XVI века",
+      "credit": "Wikimedia Commons",
+      "license": "Public Domain",
+      "focus": "50% 48%",
       "local": "assets/cards/rome/legacy/per_rom_007.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "https://commons.wikimedia.org/wiki/File:Numa_Pompilius,_from_Promptuarii_Iconum_Insigniorum.png",
+      "prefer_remote": true,
+      "kind": "historical-image"
     },
     "source": {
       "title": "Нума Помпилий — Википедия",
@@ -796,13 +824,15 @@
       "y": 50
     },
     "image": {
-      "file": "org_rom_002.svg",
-      "caption": "Учебная обложка: Весталки",
-      "credit": "Codex of History · локальная учебная обложка",
-      "license": "Project asset",
-      "focus": "50% 50%",
+      "file": "Vestal in Forum romanum Rome Italy.jpg",
+      "caption": "Статуя весталки на Римском форуме",
+      "credit": "Wikimedia Commons / Jebulon",
+      "license": "Свободная лицензия / см. страницу файла",
+      "focus": "50% 42%",
       "local": "assets/cards/rome/legacy/org_rom_002.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "https://commons.wikimedia.org/wiki/File:Vestal_in_Forum_romanum_Rome_Italy.jpg",
+      "prefer_remote": true,
+      "kind": "historical-image"
     },
     "source": {
       "title": "Весталки — Википедия",
@@ -850,13 +880,15 @@
       "y": 37
     },
     "image": {
-      "file": "cul_rom_002.svg",
-      "caption": "Учебная обложка: Этруски",
-      "credit": "Codex of History · локальная учебная обложка",
-      "license": "Project asset",
+      "file": "Etruscan civilization map.png",
+      "caption": "Карта Этрурии и этрусских городов",
+      "credit": "Wikimedia Commons / NormanEinstein",
+      "license": "CC BY-SA 3.0 / GFDL",
       "focus": "50% 50%",
       "local": "assets/cards/rome/legacy/cul_rom_002.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "https://commons.wikimedia.org/wiki/File:Etruscan_civilization_map.png",
+      "prefer_remote": true,
+      "kind": "historical-image"
     },
     "source": {
       "title": "Этруски — Википедия",
@@ -904,13 +936,15 @@
       "y": 50
     },
     "image": {
-      "file": "per_rom_008.svg",
-      "caption": "Учебная обложка: Тарквиний Древний",
-      "credit": "Codex of History · локальная учебная обложка",
-      "license": "Project asset",
+      "file": "Tarquinius-Priscus.jpg",
+      "caption": "Тарквиний Древний в издании XVI века",
+      "credit": "Wikimedia Commons / Guillaume Rouillé",
+      "license": "Public Domain",
       "focus": "50% 50%",
       "local": "assets/cards/rome/legacy/per_rom_008.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarquinius-Priscus.jpg",
+      "prefer_remote": true,
+      "kind": "historical-image"
     },
     "source": {
       "title": "Тарквиний Древний — Википедия",
@@ -958,13 +992,15 @@
       "y": 50
     },
     "image": {
-      "file": "loc_rom_002.svg",
-      "caption": "Учебная обложка: Римский форум",
-      "credit": "Codex of History · локальная учебная обложка",
-      "license": "Project asset",
-      "focus": "50% 50%",
+      "file": "Roman Forum, Panorama (31458111547).jpg",
+      "caption": "Панорама Римского форума",
+      "credit": "Wikimedia Commons",
+      "license": "Свободная лицензия / см. страницу файла",
+      "focus": "50% 48%",
       "local": "assets/cards/rome/legacy/loc_rom_002.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "https://commons.wikimedia.org/wiki/File:Roman_Forum,_Panorama_(31458111547).jpg",
+      "prefer_remote": true,
+      "kind": "historical-image"
     },
     "source": {
       "title": "Римский форум — Википедия",
@@ -1012,13 +1048,15 @@
       "y": 50
     },
     "image": {
-      "file": "per_rom_009.svg",
-      "caption": "Учебная обложка: Тарквиний Гордый",
-      "credit": "Codex of History · локальная учебная обложка",
-      "license": "Project asset",
-      "focus": "50% 50%",
+      "file": "Perino Tarquino el Soberbio funda el templo de Jupiter Capitolino.jpg",
+      "caption": "Тарквиний Гордый основывает храм Юпитера Капитолийского",
+      "credit": "Wikimedia Commons / Uffizi",
+      "license": "Public Domain / см. страницу файла",
+      "focus": "50% 48%",
       "local": "assets/cards/rome/legacy/per_rom_009.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "https://commons.wikimedia.org/wiki/File:Perino_Tarquino_el_Soberbio_funda_el_templo_de_Jupiter_Capitolino.jpg",
+      "prefer_remote": true,
+      "kind": "historical-image"
     },
     "source": {
       "title": "Тарквиний Гордый — Википедия",
@@ -1072,7 +1110,8 @@
       "credit": "Codex of History",
       "license": "Project asset",
       "focus": "50% 50%",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Секст Тарквиний — Википедия",
@@ -1126,7 +1165,8 @@
       "credit": "Codex of History",
       "license": "Project asset",
       "focus": "50% 50%",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Луций Тарквиний Коллатин — Википедия",
@@ -1180,7 +1220,8 @@
       "credit": "Codex of History",
       "license": "Project asset",
       "focus": "50% 50%",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Клятва Брута — Википедия",
@@ -1234,7 +1275,8 @@
       "credit": "Codex of History",
       "license": "Project asset",
       "focus": "50% 50%",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Публий Валерий Публикола — Википедия",
@@ -1288,7 +1330,8 @@
       "credit": "Codex of History",
       "license": "Project asset",
       "focus": "50% 50%",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Битва при Сильва-Арсии — Википедия",
@@ -1342,7 +1385,8 @@
       "credit": "Codex of History",
       "license": "Project asset",
       "focus": "50% 50%",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Патриции — Википедия",
@@ -1396,7 +1440,8 @@
       "credit": "Codex of History",
       "license": "Project asset",
       "focus": "50% 50%",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Плебеи — Википедия",
@@ -1450,7 +1495,8 @@
       "credit": "Codex of History",
       "license": "Project asset",
       "focus": "50% 50%",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Первая сецессия плебеев — Википедия",
@@ -1504,7 +1550,8 @@
       "credit": "Codex of History",
       "license": "Project asset",
       "focus": "50% 50%",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Народный трибун — Википедия",
@@ -1558,7 +1605,8 @@
       "credit": "Codex of History",
       "license": "Project asset",
       "focus": "50% 50%",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Борьба сословий — Википедия",
@@ -1612,7 +1660,8 @@
       "credit": "Codex of History",
       "license": "Project asset",
       "focus": "50% 50%",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Законы XII таблиц — Википедия",
@@ -1666,7 +1715,8 @@
       "credit": "Codex of History",
       "license": "Project asset",
       "focus": "50% 50%",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Децемвиры — Википедия",
@@ -1720,7 +1770,8 @@
       "credit": "Codex of History",
       "license": "Project asset",
       "focus": "50% 50%",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Аппий Клавдий Красс — Википедия",
@@ -1774,7 +1825,8 @@
       "credit": "Codex of History",
       "license": "Project asset",
       "focus": "50% 50%",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Вергиния — Википедия",
@@ -1828,7 +1880,8 @@
       "credit": "Codex of History",
       "license": "Project asset",
       "focus": "50% 50%",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Вторая сецессия плебеев — Википедия",
@@ -1882,7 +1935,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "city_ita_001.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Вейи — Википедия",
@@ -1939,7 +1993,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "per_ita_001.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Марк Фурий Камилл — Википедия",
@@ -1997,7 +2052,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "evt_ita_001.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Вейи — Википедия",
@@ -2054,7 +2110,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "bat_ita_001.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Битва при Аллии — Википедия",
@@ -2111,7 +2168,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "evt_ita_002.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Разграбление Рима (390 год до н. э.) — Википедия",
@@ -2168,7 +2226,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "per_ita_002.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Бренн (IV век до н. э.) — Википедия",
@@ -2226,7 +2285,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "evt_ita_003.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Сервиева стена — Википедия",
@@ -2283,7 +2343,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "war_ita_001.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Латинская война — Википедия",
@@ -2340,7 +2401,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "evt_ita_004.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Латинский союз — Википедия",
@@ -2397,7 +2459,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "sys_ita_001.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Римское гражданство — Википедия",
@@ -2454,7 +2517,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "war_ita_002.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Самнитские войны — Википедия",
@@ -2511,7 +2575,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "bat_ita_002.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Битва в Кавдинском ущелье — Википедия",
@@ -2568,7 +2633,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "per_ita_003.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Гай Понтий — Википедия",
@@ -2626,7 +2692,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "road_ita_001.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Аппиева дорога — Википедия",
@@ -2683,7 +2750,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "bat_ita_003.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Битва при Сентине — Википедия",
@@ -2740,7 +2808,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "city_ita_002.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Таранто — Википедия",
@@ -2797,7 +2866,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "per_ita_004.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Пирр — Википедия",
@@ -2855,7 +2925,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "war_ita_003.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Пиррова война — Википедия",
@@ -2912,7 +2983,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "bat_ita_004.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Битва при Гераклее — Википедия",
@@ -2969,7 +3041,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "bat_ita_005.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Битва при Аускуле — Википедия",
@@ -3026,7 +3099,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "bat_ita_006.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Битва при Беневенте — Википедия",
@@ -3083,7 +3157,8 @@
       "license": "CC0-style project asset",
       "focus": "50% 50%",
       "file": "state_ita_001.svg",
-      "source_url": "ATTRIBUTION.md#project-original-card-covers"
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "kind": "project-cover"
     },
     "source": {
       "title": "Римская Италия — Википедия",

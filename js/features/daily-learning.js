@@ -173,7 +173,7 @@ const V12_resetProgress=resetProgress;
 resetProgress=function(){
   if(!confirm('Сбросить весь локальный прогресс?'))return;
   localStorage.removeItem(STORE);
-  state={...initial,quizResults:{},quizDone:[],missionsCompleted:[],mapTasks:{},timelineTasks:{},discovered:[...initial.unlocked],masteryChecks:{},fragments:0,packHistory:[],dailyPackDate:null,masteryFilter:'ALL',packModal:null,masterySession:null,activeCampaign:'ROME',collectionMode:'ALL',collectionView:'ARCHIVE',catalogScope:'ALL',packPity:{epic:0,legendary:0},personalStoryProgress:{},activeStoryline:null,poolUnlockModal:null,storyChoice:null,reviewSchedule:{},dailyHistory:{},learningDays:[],dailySession:null,dailyStats:{sessions:0,answers:0,correct:0}};
+  state={...initial,quizResults:{},quizDone:[],missionsCompleted:[],mapTasks:{},timelineTasks:{},discovered:[],masteryChecks:{},fragments:0,packHistory:[],dailyPackDate:null,masteryFilter:'ALL',packModal:null,masterySession:null,activeCampaign:null,collectionMode:'ALL',collectionView:'ARCHIVE',catalogScope:'ALL',packPity:{epic:0,legendary:0},personalStoryProgress:{},activeStoryline:null,poolUnlockModal:null,storyChoice:null,reviewSchedule:{},dailyHistory:{},learningDays:[],dailySession:null,dailyStats:{sessions:0,answers:0,correct:0}};
   dailySyncSchedule();syncDiscovery();applyTheme();render();showToast('Прогресс сброшен','Можно начать кампанию заново','↺');
 };
 render=function(){

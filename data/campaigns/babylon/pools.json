@@ -1,0 +1,591 @@
+{
+  "campaignId": "BABYLON_OLD",
+  "campaigns": {
+    "BABYLON": {
+      "id": "BABYLON",
+      "title": "Вавилон и аморейские царства",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "BAB_POOL_01",
+      "campaign": "BABYLON",
+      "title": "После падения Ура",
+      "unlockMission": "BAB_01_02",
+      "cardIds": [
+        "BAB_A_01_01",
+        "BAB_A_01_02",
+        "BAB_A_01_03",
+        "BAB_A_01_04"
+      ]
+    },
+    {
+      "id": "BAB_POOL_02",
+      "campaign": "BABYLON",
+      "title": "Исин и Ларса",
+      "unlockMission": "BAB_02_02",
+      "cardIds": [
+        "BAB_A_02_01",
+        "BAB_A_02_02",
+        "BAB_A_02_03",
+        "BAB_A_02_04"
+      ]
+    },
+    {
+      "id": "BAB_POOL_03",
+      "campaign": "BABYLON",
+      "title": "Аморейские династии",
+      "unlockMission": "BAB_03_02",
+      "cardIds": [
+        "BAB_A_03_01",
+        "BAB_A_03_02",
+        "BAB_A_03_03",
+        "BAB_A_03_04"
+      ]
+    },
+    {
+      "id": "BAB_POOL_04",
+      "campaign": "BABYLON",
+      "title": "Возвышение Вавилона",
+      "unlockMission": "BAB_04_02",
+      "cardIds": [
+        "BAB_A_04_01",
+        "BAB_A_04_02",
+        "BAB_A_04_03",
+        "BAB_A_04_04"
+      ]
+    },
+    {
+      "id": "BAB_POOL_05",
+      "campaign": "BABYLON",
+      "title": "Хаммурапи",
+      "unlockMission": "BAB_05_02",
+      "cardIds": [
+        "BAB_A_05_01",
+        "BAB_A_05_02",
+        "BAB_A_05_03",
+        "BAB_A_05_04"
+      ]
+    },
+    {
+      "id": "BAB_POOL_06",
+      "campaign": "BABYLON",
+      "title": "Закон, суд и царская власть",
+      "unlockMission": "BAB_06_02",
+      "cardIds": [
+        "BAB_A_06_01",
+        "BAB_A_06_02",
+        "BAB_A_06_03",
+        "BAB_A_06_04"
+      ]
+    },
+    {
+      "id": "BAB_POOL_07",
+      "campaign": "BABYLON",
+      "title": "Староассирийская торговля",
+      "unlockMission": "BAB_07_02",
+      "cardIds": [
+        "BAB_A_07_01",
+        "BAB_A_07_02",
+        "BAB_A_07_03",
+        "BAB_A_07_04"
+      ]
+    },
+    {
+      "id": "BAB_POOL_08",
+      "campaign": "BABYLON",
+      "title": "Падение Старовавилонского царства",
+      "unlockMission": "BAB_08_02",
+      "cardIds": [
+        "BAB_A_08_01",
+        "BAB_A_08_02",
+        "BAB_A_08_03",
+        "BAB_A_08_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "BAB_A_01_01": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_01"
+    },
+    "BAB_A_01_02": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_01"
+    },
+    "BAB_A_01_03": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_01"
+    },
+    "BAB_A_01_04": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_01"
+    },
+    "BAB_A_02_01": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_02"
+    },
+    "BAB_A_02_02": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_02"
+    },
+    "BAB_A_02_03": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_02"
+    },
+    "BAB_A_02_04": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_02"
+    },
+    "BAB_A_03_01": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_03"
+    },
+    "BAB_A_03_02": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_03"
+    },
+    "BAB_A_03_03": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_03"
+    },
+    "BAB_A_03_04": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_03"
+    },
+    "BAB_A_04_01": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_04"
+    },
+    "BAB_A_04_02": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_04"
+    },
+    "BAB_A_04_03": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_04"
+    },
+    "BAB_A_04_04": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_04"
+    },
+    "BAB_A_05_01": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_05"
+    },
+    "BAB_A_05_02": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_05"
+    },
+    "BAB_A_05_03": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_05"
+    },
+    "BAB_A_05_04": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_05"
+    },
+    "BAB_A_06_01": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_06"
+    },
+    "BAB_A_06_02": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_06"
+    },
+    "BAB_A_06_03": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_06"
+    },
+    "BAB_A_06_04": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_06"
+    },
+    "BAB_A_07_01": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_07"
+    },
+    "BAB_A_07_02": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_07"
+    },
+    "BAB_A_07_03": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_07"
+    },
+    "BAB_A_07_04": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_07"
+    },
+    "BAB_A_08_01": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_08"
+    },
+    "BAB_A_08_02": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_08"
+    },
+    "BAB_A_08_03": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_08"
+    },
+    "BAB_A_08_04": {
+      "kind": "ARCHIVE",
+      "campaign": "BABYLON",
+      "pool": "BAB_POOL_08"
+    },
+    "BAB_S_01_01": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_01_01"
+    },
+    "BAB_S_01_02": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_01_01"
+    },
+    "BAB_S_01_03": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_01_02"
+    },
+    "BAB_S_01_04": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_01_03"
+    },
+    "BAB_S_01_05": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_01_04"
+    },
+    "BAB_S_01_06": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_01_04"
+    },
+    "BAB_S_01_07": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_01_05"
+    },
+    "BAB_S_01_08": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_01_06"
+    },
+    "BAB_S_02_01": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_02_01"
+    },
+    "BAB_S_02_02": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_02_01"
+    },
+    "BAB_S_02_03": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_02_02"
+    },
+    "BAB_S_02_04": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_02_03"
+    },
+    "BAB_S_02_05": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_02_04"
+    },
+    "BAB_S_02_06": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_02_04"
+    },
+    "BAB_S_02_07": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_02_05"
+    },
+    "BAB_S_02_08": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_02_06"
+    },
+    "BAB_S_03_01": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_03_01"
+    },
+    "BAB_S_03_02": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_03_01"
+    },
+    "BAB_S_03_03": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_03_02"
+    },
+    "BAB_S_03_04": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_03_03"
+    },
+    "BAB_S_03_05": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_03_04"
+    },
+    "BAB_S_03_06": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_03_04"
+    },
+    "BAB_S_03_07": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_03_05"
+    },
+    "BAB_S_03_08": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_03_06"
+    },
+    "BAB_S_04_01": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_04_01"
+    },
+    "BAB_S_04_02": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_04_01"
+    },
+    "BAB_S_04_03": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_04_02"
+    },
+    "BAB_S_04_04": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_04_03"
+    },
+    "BAB_S_04_05": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_04_04"
+    },
+    "BAB_S_04_06": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_04_04"
+    },
+    "BAB_S_04_07": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_04_05"
+    },
+    "BAB_S_04_08": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_04_06"
+    },
+    "BAB_S_05_01": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_05_01"
+    },
+    "BAB_S_05_02": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_05_01"
+    },
+    "BAB_S_05_03": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_05_02"
+    },
+    "BAB_S_05_04": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_05_03"
+    },
+    "BAB_S_05_05": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_05_04"
+    },
+    "BAB_S_05_06": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_05_04"
+    },
+    "BAB_S_05_07": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_05_05"
+    },
+    "BAB_S_05_08": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_05_06"
+    },
+    "BAB_S_06_01": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_06_01"
+    },
+    "BAB_S_06_02": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_06_01"
+    },
+    "BAB_S_06_03": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_06_02"
+    },
+    "BAB_S_06_04": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_06_03"
+    },
+    "BAB_S_06_05": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_06_04"
+    },
+    "BAB_S_06_06": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_06_04"
+    },
+    "BAB_S_06_07": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_06_05"
+    },
+    "BAB_S_06_08": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_06_06"
+    },
+    "BAB_S_07_01": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_07_01"
+    },
+    "BAB_S_07_02": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_07_01"
+    },
+    "BAB_S_07_03": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_07_02"
+    },
+    "BAB_S_07_04": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_07_03"
+    },
+    "BAB_S_07_05": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_07_04"
+    },
+    "BAB_S_07_06": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_07_04"
+    },
+    "BAB_S_07_07": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_07_05"
+    },
+    "BAB_S_07_08": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_07_06"
+    },
+    "BAB_S_08_01": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_08_01"
+    },
+    "BAB_S_08_02": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_08_01"
+    },
+    "BAB_S_08_03": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_08_02"
+    },
+    "BAB_S_08_04": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_08_03"
+    },
+    "BAB_S_08_05": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_08_04"
+    },
+    "BAB_S_08_06": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_08_04"
+    },
+    "BAB_S_08_07": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_08_05"
+    },
+    "BAB_S_08_08": {
+      "kind": "STORY",
+      "campaign": "BABYLON",
+      "mission": "BAB_08_06"
+    }
+  }
+}

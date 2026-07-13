@@ -1,5 +1,5 @@
 {
-  "version": "3.0.0",
+  "version": "3.1.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -18,7 +18,9 @@
       "data/cards/china/story.json",
       "data/cards/china/archive.json",
       "data/cards/civilizations/story.json",
-      "data/cards/civilizations/archive.json"
+      "data/cards/civilizations/archive.json",
+      "data/cards/babylon/story.json",
+      "data/cards/babylon/archive.json"
     ],
     "relations": "data/core/relations.json",
     "pools": [
@@ -28,7 +30,8 @@
       "data/campaigns/comparison/pools.json",
       "data/campaigns/indus/pools.json",
       "data/campaigns/china/pools.json",
-      "data/campaigns/civilizations/pools.json"
+      "data/campaigns/civilizations/pools.json",
+      "data/campaigns/babylon/pools.json"
     ],
     "quizzes": [
       "data/quizzes/rome/chapter_01.json",
@@ -41,7 +44,8 @@
       "data/quizzes/comparison/campaign.json",
       "data/quizzes/indus/campaign.json",
       "data/quizzes/china/campaign.json",
-      "data/quizzes/civilizations/campaign.json"
+      "data/quizzes/civilizations/campaign.json",
+      "data/quizzes/babylon/campaign.json"
     ],
     "stories": [
       "data/stories/rome/personal.json",
@@ -50,7 +54,8 @@
       "data/stories/comparison/personal.json",
       "data/stories/indus/personal.json",
       "data/stories/china/personal.json",
-      "data/stories/civilizations/personal.json"
+      "data/stories/civilizations/personal.json",
+      "data/stories/babylon/personal.json"
     ],
     "mastery": "data/core/mastery.json",
     "packs": "data/core/packs.json",
@@ -62,7 +67,9 @@
       "DAWN_PARALLEL": "data/maps/comparison.json",
       "INDUS": "data/maps/indus.json",
       "CHINA_EARLY": "data/maps/china.json",
-      "DAWN_WORLD": "data/maps/civilizations.json"
+      "DAWN_WORLD": "data/maps/civilizations.json",
+      "BABYLON_OLD": "data/maps/babylon.json",
+      "BRONZE_WORLD": "data/maps/bronze-world.json"
     },
     "daily": "data/core/daily-learning.json",
     "lessons": [
@@ -76,7 +83,8 @@
       "data/lessons/comparison/campaign.json",
       "data/lessons/indus/campaign.json",
       "data/lessons/china/campaign.json",
-      "data/lessons/civilizations/campaign.json"
+      "data/lessons/civilizations/campaign.json",
+      "data/lessons/babylon/campaign.json"
     ],
     "eras": "data/world/eras.json",
     "campaignCatalog": "data/world/campaigns.json",
@@ -88,7 +96,8 @@
       "data/campaigns/comparison/campaign.json",
       "data/campaigns/indus/campaign.json",
       "data/campaigns/china/campaign.json",
-      "data/campaigns/civilizations/campaign.json"
+      "data/campaigns/civilizations/campaign.json",
+      "data/campaigns/babylon/campaign.json"
     ]
   },
   "scripts": [
@@ -120,6 +129,7 @@
     "js/features/v2-8-indus.js",
     "js/features/v2-9-china.js",
     "js/features/v3-0-dawn-world.js",
+    "js/features/v3-1-babylon.js",
     "js/core/start.js"
   ],
   "vendors": {}

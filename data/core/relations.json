@@ -6221,5 +6221,719 @@
     "target": "TERM_CIV_011",
     "type": "RELATED",
     "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_001",
+    "source": "BAB_S_01_01",
+    "target": "EVT_MES_006",
+    "type": "RELATED",
+    "label": "продолжение после Ур III"
+  },
+  {
+    "id": "REL_V31_002",
+    "source": "BAB_S_01_07",
+    "target": "PEOPLE_MES_A002",
+    "type": "RELATED",
+    "label": "амореи в двух периодах"
+  },
+  {
+    "id": "REL_V31_003",
+    "source": "BAB_S_02_03",
+    "target": "LAW_MES_001",
+    "type": "RELATED",
+    "label": "традиция правовых текстов"
+  },
+  {
+    "id": "REL_V31_004",
+    "source": "BAB_S_06_01",
+    "target": "LAW_MES_001",
+    "type": "RELATED",
+    "label": "сравнение правовых сборников"
+  },
+  {
+    "id": "REL_V31_005",
+    "source": "BAB_S_04_01",
+    "target": "CITY_MES_009",
+    "type": "RELATED",
+    "label": "политические и культовые центры"
+  },
+  {
+    "id": "REL_V31_006",
+    "source": "BAB_S_05_01",
+    "target": "PER_MES_014",
+    "type": "RELATED",
+    "label": "царь, закон и строительство"
+  },
+  {
+    "id": "REL_V31_007",
+    "source": "BAB_S_08_08",
+    "target": "TERM_CIV_008",
+    "type": "RELATED",
+    "label": "проблема относительной датировки"
+  },
+  {
+    "id": "REL_V31_008",
+    "source": "BAB_S_01_01",
+    "target": "BAB_S_01_02",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_009",
+    "source": "BAB_S_01_02",
+    "target": "BAB_S_01_03",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_010",
+    "source": "BAB_S_01_03",
+    "target": "BAB_S_01_04",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_011",
+    "source": "BAB_S_01_04",
+    "target": "BAB_S_01_05",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_012",
+    "source": "BAB_S_01_05",
+    "target": "BAB_S_01_06",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_013",
+    "source": "BAB_S_01_06",
+    "target": "BAB_S_01_07",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_014",
+    "source": "BAB_S_01_07",
+    "target": "BAB_S_01_08",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_015",
+    "source": "BAB_S_01_08",
+    "target": "BAB_S_02_01",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_016",
+    "source": "BAB_S_02_01",
+    "target": "BAB_S_02_02",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_017",
+    "source": "BAB_S_02_02",
+    "target": "BAB_S_02_03",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_018",
+    "source": "BAB_S_02_03",
+    "target": "BAB_S_02_04",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_019",
+    "source": "BAB_S_02_04",
+    "target": "BAB_S_02_05",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_020",
+    "source": "BAB_S_02_05",
+    "target": "BAB_S_02_06",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_021",
+    "source": "BAB_S_02_06",
+    "target": "BAB_S_02_07",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_022",
+    "source": "BAB_S_02_07",
+    "target": "BAB_S_02_08",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_023",
+    "source": "BAB_S_02_08",
+    "target": "BAB_S_03_01",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_024",
+    "source": "BAB_S_03_01",
+    "target": "BAB_S_03_02",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_025",
+    "source": "BAB_S_03_02",
+    "target": "BAB_S_03_03",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_026",
+    "source": "BAB_S_03_03",
+    "target": "BAB_S_03_04",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_027",
+    "source": "BAB_S_03_04",
+    "target": "BAB_S_03_05",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_028",
+    "source": "BAB_S_03_05",
+    "target": "BAB_S_03_06",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_029",
+    "source": "BAB_S_03_06",
+    "target": "BAB_S_03_07",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_030",
+    "source": "BAB_S_03_07",
+    "target": "BAB_S_03_08",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_031",
+    "source": "BAB_S_03_08",
+    "target": "BAB_S_04_01",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_032",
+    "source": "BAB_S_04_01",
+    "target": "BAB_S_04_02",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_033",
+    "source": "BAB_S_04_02",
+    "target": "BAB_S_04_03",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_034",
+    "source": "BAB_S_04_03",
+    "target": "BAB_S_04_04",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_035",
+    "source": "BAB_S_04_04",
+    "target": "BAB_S_04_05",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_036",
+    "source": "BAB_S_04_05",
+    "target": "BAB_S_04_06",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_037",
+    "source": "BAB_S_04_06",
+    "target": "BAB_S_04_07",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_038",
+    "source": "BAB_S_04_07",
+    "target": "BAB_S_04_08",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_039",
+    "source": "BAB_S_04_08",
+    "target": "BAB_S_05_01",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_040",
+    "source": "BAB_S_05_01",
+    "target": "BAB_S_05_02",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_041",
+    "source": "BAB_S_05_02",
+    "target": "BAB_S_05_03",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_042",
+    "source": "BAB_S_05_03",
+    "target": "BAB_S_05_04",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_043",
+    "source": "BAB_S_05_04",
+    "target": "BAB_S_05_05",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_044",
+    "source": "BAB_S_05_05",
+    "target": "BAB_S_05_06",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_045",
+    "source": "BAB_S_05_06",
+    "target": "BAB_S_05_07",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_046",
+    "source": "BAB_S_05_07",
+    "target": "BAB_S_05_08",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_047",
+    "source": "BAB_S_05_08",
+    "target": "BAB_S_06_01",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_048",
+    "source": "BAB_S_06_01",
+    "target": "BAB_S_06_02",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_049",
+    "source": "BAB_S_06_02",
+    "target": "BAB_S_06_03",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_050",
+    "source": "BAB_S_06_03",
+    "target": "BAB_S_06_04",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_051",
+    "source": "BAB_S_06_04",
+    "target": "BAB_S_06_05",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_052",
+    "source": "BAB_S_06_05",
+    "target": "BAB_S_06_06",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_053",
+    "source": "BAB_S_06_06",
+    "target": "BAB_S_06_07",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_054",
+    "source": "BAB_S_06_07",
+    "target": "BAB_S_06_08",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_055",
+    "source": "BAB_S_06_08",
+    "target": "BAB_S_07_01",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_056",
+    "source": "BAB_S_07_01",
+    "target": "BAB_S_07_02",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_057",
+    "source": "BAB_S_07_02",
+    "target": "BAB_S_07_03",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_058",
+    "source": "BAB_S_07_03",
+    "target": "BAB_S_07_04",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_059",
+    "source": "BAB_S_07_04",
+    "target": "BAB_S_07_05",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_060",
+    "source": "BAB_S_07_05",
+    "target": "BAB_S_07_06",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_061",
+    "source": "BAB_S_07_06",
+    "target": "BAB_S_07_07",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_062",
+    "source": "BAB_S_07_07",
+    "target": "BAB_S_07_08",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_063",
+    "source": "BAB_S_07_08",
+    "target": "BAB_S_08_01",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_064",
+    "source": "BAB_S_08_01",
+    "target": "BAB_S_08_02",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_065",
+    "source": "BAB_S_08_02",
+    "target": "BAB_S_08_03",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_066",
+    "source": "BAB_S_08_03",
+    "target": "BAB_S_08_04",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_067",
+    "source": "BAB_S_08_04",
+    "target": "BAB_S_08_05",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_068",
+    "source": "BAB_S_08_05",
+    "target": "BAB_S_08_06",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_069",
+    "source": "BAB_S_08_06",
+    "target": "BAB_S_08_07",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_070",
+    "source": "BAB_S_08_07",
+    "target": "BAB_S_08_08",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_071",
+    "source": "BAB_S_08_08",
+    "target": "BAB_A_01_01",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_072",
+    "source": "BAB_A_01_01",
+    "target": "BAB_A_01_02",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_073",
+    "source": "BAB_A_01_02",
+    "target": "BAB_A_01_03",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_074",
+    "source": "BAB_A_01_03",
+    "target": "BAB_A_01_04",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_075",
+    "source": "BAB_A_01_04",
+    "target": "BAB_A_02_01",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_076",
+    "source": "BAB_A_02_01",
+    "target": "BAB_A_02_02",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_077",
+    "source": "BAB_A_02_02",
+    "target": "BAB_A_02_03",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_078",
+    "source": "BAB_A_02_03",
+    "target": "BAB_A_02_04",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_079",
+    "source": "BAB_A_02_04",
+    "target": "BAB_A_03_01",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_080",
+    "source": "BAB_A_03_01",
+    "target": "BAB_A_03_02",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_081",
+    "source": "BAB_A_03_02",
+    "target": "BAB_A_03_03",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_082",
+    "source": "BAB_A_03_03",
+    "target": "BAB_A_03_04",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_083",
+    "source": "BAB_A_03_04",
+    "target": "BAB_A_04_01",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_084",
+    "source": "BAB_A_04_01",
+    "target": "BAB_A_04_02",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_085",
+    "source": "BAB_A_04_02",
+    "target": "BAB_A_04_03",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_086",
+    "source": "BAB_A_04_03",
+    "target": "BAB_A_04_04",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_087",
+    "source": "BAB_A_04_04",
+    "target": "BAB_A_05_01",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_088",
+    "source": "BAB_A_05_01",
+    "target": "BAB_A_05_02",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_089",
+    "source": "BAB_A_05_02",
+    "target": "BAB_A_05_03",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_090",
+    "source": "BAB_A_05_03",
+    "target": "BAB_A_05_04",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_091",
+    "source": "BAB_A_05_04",
+    "target": "BAB_A_06_01",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_092",
+    "source": "BAB_A_06_01",
+    "target": "BAB_A_06_02",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_093",
+    "source": "BAB_A_06_02",
+    "target": "BAB_A_06_03",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_094",
+    "source": "BAB_A_06_03",
+    "target": "BAB_A_06_04",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_095",
+    "source": "BAB_A_06_04",
+    "target": "BAB_A_07_01",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_096",
+    "source": "BAB_A_07_01",
+    "target": "BAB_A_07_02",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_097",
+    "source": "BAB_A_07_02",
+    "target": "BAB_A_07_03",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_098",
+    "source": "BAB_A_07_03",
+    "target": "BAB_A_07_04",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_099",
+    "source": "BAB_A_07_04",
+    "target": "BAB_A_08_01",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_100",
+    "source": "BAB_A_08_01",
+    "target": "BAB_A_08_02",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_101",
+    "source": "BAB_A_08_02",
+    "target": "BAB_A_08_03",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V31_102",
+    "source": "BAB_A_08_03",
+    "target": "BAB_A_08_04",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
   }
 ]

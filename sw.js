@@ -1,8 +1,8 @@
-/* Codex of History v3.0.0 — GitHub Pages service worker */
-const VERSION='codex-v3.0.0';
+/* Codex of History v3.1.0 — GitHub Pages service worker */
+const VERSION='codex-v3.1.0';
 const APP_CACHE=`${VERSION}-app`;
 const IMAGE_CACHE=`${VERSION}-images`;
-const CORE=['./','./index.html','./styles.css','./manifest.webmanifest','./data/content-manifest.json','./js/bootstrap.js','./assets/ui/codex-mark.svg','./assets/ui/fallback-card.svg','./assets/packs/civilizations-pack.svg'];
+const CORE=['./','./index.html','./styles.css','./manifest.webmanifest','./data/content-manifest.json','./js/bootstrap.js','./assets/ui/codex-mark.svg','./assets/ui/fallback-card.svg','./assets/packs/civilizations-pack.svg','./assets/packs/babylon-pack.svg'];
 self.addEventListener('install',event=>{
   event.waitUntil(caches.open(APP_CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting()));
 });

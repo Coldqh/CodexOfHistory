@@ -1,0 +1,250 @@
+{
+  "points": {
+    "BABYLON_CENTER": [
+      33,
+      43.6
+    ],
+    "BABYLON": [
+      32.542,
+      44.421
+    ],
+    "UR": [
+      30.962,
+      46.103
+    ],
+    "ISIN": [
+      31.95,
+      45.27
+    ],
+    "LARSA": [
+      31.29,
+      45.85
+    ],
+    "NIPPUR": [
+      32.126,
+      45.235
+    ],
+    "MARI": [
+      34.55,
+      40.89
+    ],
+    "SHUBAT_ENLIL": [
+      36.67,
+      41
+    ],
+    "ALEPPO": [
+      36.2,
+      37.16
+    ],
+    "SIPPAR": [
+      33.06,
+      44.25
+    ],
+    "BORSIPPA": [
+      32.39,
+      44.34
+    ],
+    "KISH": [
+      32.54,
+      44.61
+    ],
+    "SUSA": [
+      32.19,
+      48.26
+    ],
+    "ASSUR": [
+      35.46,
+      43.25
+    ],
+    "KANESH": [
+      38.85,
+      35.63
+    ],
+    "ANATOLIA": [
+      39,
+      34
+    ],
+    "SEALAND": [
+      30.6,
+      46.5
+    ],
+    "HATTUSA": [
+      40.02,
+      34.62
+    ],
+    "ESHNUNNA": [
+      33.35,
+      44.58
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "BAB_S_01_01": "UR",
+    "BAB_S_01_02": "ISIN",
+    "BAB_S_01_03": "NIPPUR",
+    "BAB_S_01_04": "UR",
+    "BAB_S_01_05": "UR",
+    "BAB_S_01_06": "ISIN",
+    "BAB_S_01_07": "NIPPUR",
+    "BAB_S_01_08": "UR",
+    "BAB_A_01_01": "UR",
+    "BAB_A_01_02": "ISIN",
+    "BAB_A_01_03": "NIPPUR",
+    "BAB_A_01_04": "UR",
+    "BAB_S_02_01": "ISIN",
+    "BAB_S_02_02": "LARSA",
+    "BAB_S_02_03": "NIPPUR",
+    "BAB_S_02_04": "LARSA",
+    "BAB_S_02_05": "ISIN",
+    "BAB_S_02_06": "LARSA",
+    "BAB_S_02_07": "NIPPUR",
+    "BAB_S_02_08": "LARSA",
+    "BAB_A_02_01": "ISIN",
+    "BAB_A_02_02": "LARSA",
+    "BAB_A_02_03": "NIPPUR",
+    "BAB_A_02_04": "LARSA",
+    "BAB_S_03_01": "MARI",
+    "BAB_S_03_02": "SHUBAT_ENLIL",
+    "BAB_S_03_03": "ALEPPO",
+    "BAB_S_03_04": "MARI",
+    "BAB_S_03_05": "MARI",
+    "BAB_S_03_06": "SHUBAT_ENLIL",
+    "BAB_S_03_07": "ALEPPO",
+    "BAB_S_03_08": "MARI",
+    "BAB_A_03_01": "MARI",
+    "BAB_A_03_02": "SHUBAT_ENLIL",
+    "BAB_A_03_03": "ALEPPO",
+    "BAB_A_03_04": "MARI",
+    "BAB_S_04_01": "BABYLON",
+    "BAB_S_04_02": "SIPPAR",
+    "BAB_S_04_03": "BORSIPPA",
+    "BAB_S_04_04": "KISH",
+    "BAB_S_04_05": "BABYLON",
+    "BAB_S_04_06": "SIPPAR",
+    "BAB_S_04_07": "BORSIPPA",
+    "BAB_S_04_08": "KISH",
+    "BAB_A_04_01": "BABYLON",
+    "BAB_A_04_02": "SIPPAR",
+    "BAB_A_04_03": "BORSIPPA",
+    "BAB_A_04_04": "KISH",
+    "BAB_S_05_01": "BABYLON",
+    "BAB_S_05_02": "LARSA",
+    "BAB_S_05_03": "MARI",
+    "BAB_S_05_04": "ESHNUNNA",
+    "BAB_S_05_05": "BABYLON",
+    "BAB_S_05_06": "LARSA",
+    "BAB_S_05_07": "MARI",
+    "BAB_S_05_08": "ESHNUNNA",
+    "BAB_A_05_01": "BABYLON",
+    "BAB_A_05_02": "LARSA",
+    "BAB_A_05_03": "MARI",
+    "BAB_A_05_04": "ESHNUNNA",
+    "BAB_S_06_01": "BABYLON",
+    "BAB_S_06_02": "SIPPAR",
+    "BAB_S_06_03": "SUSA",
+    "BAB_S_06_04": "BABYLON",
+    "BAB_S_06_05": "BABYLON",
+    "BAB_S_06_06": "SIPPAR",
+    "BAB_S_06_07": "SUSA",
+    "BAB_S_06_08": "BABYLON",
+    "BAB_A_06_01": "BABYLON",
+    "BAB_A_06_02": "SIPPAR",
+    "BAB_A_06_03": "SUSA",
+    "BAB_A_06_04": "BABYLON",
+    "BAB_S_07_01": "ASSUR",
+    "BAB_S_07_02": "KANESH",
+    "BAB_S_07_03": "ANATOLIA",
+    "BAB_S_07_04": "KANESH",
+    "BAB_S_07_05": "ASSUR",
+    "BAB_S_07_06": "KANESH",
+    "BAB_S_07_07": "ANATOLIA",
+    "BAB_S_07_08": "KANESH",
+    "BAB_A_07_01": "ASSUR",
+    "BAB_A_07_02": "KANESH",
+    "BAB_A_07_03": "ANATOLIA",
+    "BAB_A_07_04": "KANESH",
+    "BAB_S_08_01": "BABYLON",
+    "BAB_S_08_02": "SEALAND",
+    "BAB_S_08_03": "HATTUSA",
+    "BAB_S_08_04": "BABYLON",
+    "BAB_S_08_05": "BABYLON",
+    "BAB_S_08_06": "SEALAND",
+    "BAB_S_08_07": "HATTUSA",
+    "BAB_S_08_08": "BABYLON",
+    "BAB_A_08_01": "BABYLON",
+    "BAB_A_08_02": "SEALAND",
+    "BAB_A_08_03": "HATTUSA",
+    "BAB_A_08_04": "BABYLON"
+  },
+  "chapters": {
+    "BAB_CHAPTER_01": {
+      "title": "После падения Ура",
+      "center": [
+        30.962,
+        46.103
+      ],
+      "zoom": 5
+    },
+    "BAB_CHAPTER_02": {
+      "title": "Исин и Ларса",
+      "center": [
+        31.95,
+        45.27
+      ],
+      "zoom": 5
+    },
+    "BAB_CHAPTER_03": {
+      "title": "Аморейские династии",
+      "center": [
+        34.55,
+        40.89
+      ],
+      "zoom": 5
+    },
+    "BAB_CHAPTER_04": {
+      "title": "Возвышение Вавилона",
+      "center": [
+        32.542,
+        44.421
+      ],
+      "zoom": 5
+    },
+    "BAB_CHAPTER_05": {
+      "title": "Хаммурапи",
+      "center": [
+        32.542,
+        44.421
+      ],
+      "zoom": 5
+    },
+    "BAB_CHAPTER_06": {
+      "title": "Закон, суд и царская власть",
+      "center": [
+        32.542,
+        44.421
+      ],
+      "zoom": 5
+    },
+    "BAB_CHAPTER_07": {
+      "title": "Староассирийская торговля",
+      "center": [
+        35.46,
+        43.25
+      ],
+      "zoom": 5
+    },
+    "BAB_CHAPTER_08": {
+      "title": "Падение Старовавилонского царства",
+      "center": [
+        32.542,
+        44.421
+      ],
+      "zoom": 5
+    }
+  },
+  "missionCenter": [
+    33,
+    43.6
+  ],
+  "missionZoom": 5
+}

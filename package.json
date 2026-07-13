@@ -1,13 +1,13 @@
 {
   "name": "codex-of-history",
   "private": true,
-  "version": "2.2.1",
+  "version": "2.3.0",
   "type": "module",
   "scripts": {
     "validate": "node tools/validate-content.mjs",
     "smoke": "node tools/smoke-daily.mjs",
     "smoke:settings": "node tools/smoke-settings.mjs",
-    "test": "node tools/validate-content.mjs && node tools/smoke-v22-mesopotamia.mjs && node tools/smoke-v221-navigation.mjs && node tools/runtime-v22.mjs",
+    "test": "node tools/validate-content.mjs && node tools/smoke-v23-mesopotamia.mjs && node tools/smoke-v221-navigation.mjs && node tools/runtime-v22.mjs",
     "smoke:ui": "node tools/smoke-ui-v15.mjs",
     "test:v16": "node tools/smoke-ui-v16.mjs",
     "test:v17": "node tools/smoke-v17-republic.mjs",
@@ -17,6 +17,7 @@
     "test:v21": "node tools/smoke-v21-global.mjs",
     "test:v211": "node tools/smoke-v211-rarity.mjs",
     "test:v22": "node tools/smoke-v22-mesopotamia.mjs",
-    "test:v221": "node tools/smoke-v221-navigation.mjs"
+    "test:v221": "node tools/smoke-v221-navigation.mjs",
+    "test:v23": "node tools/smoke-v23-mesopotamia.mjs"
   }
 }

@@ -2574,5 +2574,2005 @@
     "acquisition": "PACK",
     "campaign": "MESOPOTAMIA",
     "chapter": "MES_CHAPTER_05"
+  },
+  {
+    "id": "ART_MES_A028",
+    "type": "ARTIFACT",
+    "title": "Глиняная табличка",
+    "original": "Глиняная табличка",
+    "subtitle": "носитель древнего текста",
+    "era": "Рождение письменности",
+    "region": "Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Мягкая глина позволяла быстро наносить знаки и сохранять записи.",
+    "importance": "Табличка сделала письмо частью повседневного управления.",
+    "facts": [
+      "Таблички имели разные формы и размеры.",
+      "Некоторые сушили, другие случайно или намеренно обжигали.",
+      "Многие документы являются краткими хозяйственными записями."
+    ],
+    "tags": [
+      "письмо",
+      "глина"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mes_a028.svg",
+      "caption": "Учебная обложка: Глиняная табличка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_mes_a028.svg"
+    },
+    "source": {
+      "title": "Глиняная табличка — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%BB%D0%B8%D0%BD%D1%8F%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%87%D0%BA%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_06"
+  },
+  {
+    "id": "ART_MES_A029",
+    "type": "ARTIFACT",
+    "title": "Тростниковый стилус",
+    "original": "Тростниковый стилус",
+    "subtitle": "инструмент клинописца",
+    "era": "Рождение письменности",
+    "region": "Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Срезанный тростник оставлял характерные клиновидные вдавления.",
+    "importance": "Форма инструмента повлияла на внешний вид письма.",
+    "facts": [
+      "Стилус держали под разными углами.",
+      "Знаки складывались из отдельных оттисков.",
+      "Тростник был доступным местным материалом."
+    ],
+    "tags": [
+      "письмо",
+      "инструмент"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mes_a029.svg",
+      "caption": "Учебная обложка: Тростниковый стилус",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_mes_a029.svg"
+    },
+    "source": {
+      "title": "Тростниковый стилус — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%BD%D0%BE%D0%BF%D0%B8%D1%81%D1%8C",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_06"
+  },
+  {
+    "id": "TERM_MES_A028",
+    "type": "TERM",
+    "title": "Числовые системы Месопотамии",
+    "original": "Числовые системы Месопотамии",
+    "subtitle": "разные способы считать товары",
+    "era": "Рождение письменности",
+    "region": "Месопотамия",
+    "date": "конец IV тысячелетия до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Ранние писцы использовали несколько числовых систем в зависимости от учитываемого продукта.",
+    "importance": "Числа были самостоятельной сложной частью раннего учёта.",
+    "facts": [
+      "Зерно, животные и площади могли считать по-разному.",
+      "Шестидесятеричная традиция развилась постепенно.",
+      "Числовой знак нельзя читать без контекста."
+    ],
+    "tags": [
+      "числа",
+      "учёт"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mes_a028.svg",
+      "caption": "Учебная обложка: Числовые системы Месопотамии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_mes_a028.svg"
+    },
+    "source": {
+      "title": "Числовые системы Месопотамии — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D1%81%D1%82%D0%B8%D0%B4%D0%B5%D1%81%D1%8F%D1%82%D0%B5%D1%80%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%81%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_06"
+  },
+  {
+    "id": "TERM_MES_A029",
+    "type": "TERM",
+    "title": "Детерминатив",
+    "original": "Детерминатив",
+    "subtitle": "непроизносимый знак-классификатор",
+    "era": "Рождение письменности",
+    "region": "Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Знак, указывающий категорию слова: божество, город, дерево, человек или другой класс.",
+    "importance": "Детерминативы помогали различать значения и структуру текста.",
+    "facts": [
+      "Обычно они не произносились.",
+      "Их использование менялось по эпохам.",
+      "Божественный детерминатив имел политическое значение."
+    ],
+    "tags": [
+      "знаки",
+      "язык"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mes_a029.svg",
+      "caption": "Учебная обложка: Детерминатив",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_mes_a029.svg"
+    },
+    "source": {
+      "title": "Детерминатив — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D1%82%D0%B8%D0%B2",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_06"
+  },
+  {
+    "id": "TERM_MES_A030",
+    "type": "TERM",
+    "title": "Ребусный принцип",
+    "original": "Ребусный принцип",
+    "subtitle": "знак по звучанию слова",
+    "era": "Рождение письменности",
+    "region": "Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Использование изображения или знака для передачи похожего звучания, а не только предмета.",
+    "importance": "Ребусный принцип позволил письму передавать грамматические и абстрактные элементы языка.",
+    "facts": [
+      "Он расширил письмо за пределы простого перечня вещей.",
+      "Фонетическое чтение сосуществовало с логограммами.",
+      "Развитие было постепенным."
+    ],
+    "tags": [
+      "письмо",
+      "фонетика"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mes_a030.svg",
+      "caption": "Учебная обложка: Ребусный принцип",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_mes_a030.svg"
+    },
+    "source": {
+      "title": "Ребусный принцип — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B1%D1%83%D1%81",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_06"
+  },
+  {
+    "id": "TEXT_MES_A028",
+    "type": "TEXT",
+    "title": "Список профессий",
+    "original": "Список профессий",
+    "subtitle": "ранняя классификация работников",
+    "era": "Рождение письменности",
+    "region": "Месопотамия",
+    "date": "конец IV тысячелетия до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Перечень должностей и занятий, известный по ранним табличкам.",
+    "importance": "Он показывает связь письменности с административной классификацией общества.",
+    "facts": [
+      "Список копировали в течение долгого времени.",
+      "Порядок терминов мог сохраняться традиционно.",
+      "Названия не всегда точно переводимы."
+    ],
+    "tags": [
+      "профессии",
+      "список"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/text_mes_a028.svg",
+      "caption": "Учебная обложка: Список профессий",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "text_mes_a028.svg"
+    },
+    "source": {
+      "title": "Список профессий — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%BD%D0%BE%D0%BF%D0%B8%D1%81%D1%8C",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_06"
+  },
+  {
+    "id": "ART_MES_A030",
+    "type": "ARTIFACT",
+    "title": "Учебная табличка",
+    "original": "Учебная табличка",
+    "subtitle": "упражнение начинающего писца",
+    "era": "Рождение письменности",
+    "region": "Месопотамия",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Табличка с повторяющимися знаками, словами или образцами, созданная во время обучения.",
+    "importance": "Ошибки и повторения позволяют увидеть процесс освоения письма.",
+    "facts": [
+      "Некоторые таблички сохраняют работу учителя и ученика.",
+      "Упражнения могли включать списки слов.",
+      "Школьный контекст не всегда доказуем."
+    ],
+    "tags": [
+      "образование",
+      "табличка"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mes_a030.svg",
+      "caption": "Учебная обложка: Учебная табличка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_mes_a030.svg"
+    },
+    "source": {
+      "title": "Учебная табличка — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%B4%D1%83%D0%B1%D0%B1%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_06"
+  },
+  {
+    "id": "TERM_MES_A031",
+    "type": "TERM",
+    "title": "Колофон",
+    "original": "Колофон",
+    "subtitle": "служебная запись в конце текста",
+    "era": "Рождение письменности",
+    "region": "Месопотамия",
+    "date": "II–I тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Финальная запись с именем писца, владельца, серией текста или обстоятельствами копирования.",
+    "importance": "Колофоны помогают восстанавливать историю рукописей и библиотек.",
+    "facts": [
+      "Не каждый текст имел колофон.",
+      "Они особенно важны для поздних литературных копий.",
+      "Формулы различались."
+    ],
+    "tags": [
+      "текст",
+      "писец"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mes_a031.svg",
+      "caption": "Учебная обложка: Колофон",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_mes_a031.svg"
+    },
+    "source": {
+      "title": "Колофон — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D1%84%D0%BE%D0%BD",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_06"
+  },
+  {
+    "id": "CITY_MES_A007",
+    "type": "CITY",
+    "title": "Гирсу",
+    "original": "Гирсу",
+    "subtitle": "культовый и политический центр Лагаша",
+    "era": "Мир шумерских городов",
+    "region": "Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Город, где находился главный храм Нингирсу и резиденции правителей Лагаша.",
+    "importance": "Многие знаменитые надписи и статуи происходят из Гирсу.",
+    "facts": [
+      "Современный памятник известен как Телло.",
+      "Гирсу был частью политического образования Лагаша.",
+      "Гудеа активно строил здесь."
+    ],
+    "tags": [
+      "город",
+      "Лагаш"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/city_mes_a007.svg",
+      "caption": "Учебная обложка: Гирсу",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "city_mes_a007.svg"
+    },
+    "source": {
+      "title": "Гирсу — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D1%80%D1%81%D1%83",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_07"
+  },
+  {
+    "id": "LOC_MES_A001",
+    "type": "REGION",
+    "title": "Царское кладбище Ура",
+    "original": "Царское кладбище Ура",
+    "subtitle": "богатые погребения раннединастического времени",
+    "era": "Мир шумерских городов",
+    "region": "Месопотамия",
+    "date": "ок. 2600–2400 до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Комплекс захоронений с драгоценными предметами, колесницами, музыкой и массовыми погребениями.",
+    "importance": "Находки дают исключительный материал о власти, ритуале и ремесле, но интерпретация погребений спорна.",
+    "facts": [
+      "Раскопано Леонардом Вулли.",
+      "Некоторые могилы названы царскими по богатству и печатям.",
+      "Причины смерти сопровождающих обсуждаются."
+    ],
+    "tags": [
+      "археология",
+      "погребение"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/loc_mes_a001.svg",
+      "caption": "Учебная обложка: Царское кладбище Ура",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "loc_mes_a001.svg"
+    },
+    "source": {
+      "title": "Царское кладбище Ура — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5_%D0%A3%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_07"
+  },
+  {
+    "id": "ART_MES_A031",
+    "type": "ARTIFACT",
+    "title": "Штандарт из Ура",
+    "original": "Штандарт из Ура",
+    "subtitle": "инкрустированная панель войны и мира",
+    "era": "Мир шумерских городов",
+    "region": "Месопотамия",
+    "date": "ок. 2600–2400 до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Предмет с мозаичными сценами войны, пленных, пира и социальной иерархии.",
+    "importance": "Он стал одним из главных визуальных источников по раннединастическому обществу.",
+    "facts": [
+      "Первоначальная функция неизвестна.",
+      "Название «штандарт» условно.",
+      "Две стороны традиционно называют «война» и «мир»."
+    ],
+    "tags": [
+      "искусство",
+      "война"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mes_a031.svg",
+      "caption": "Учебная обложка: Штандарт из Ура",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_mes_a031.svg"
+    },
+    "source": {
+      "title": "Штандарт из Ура — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A8%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82_%D0%B8%D0%B7_%D0%A3%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_07"
+  },
+  {
+    "id": "ART_MES_A032",
+    "type": "ARTIFACT",
+    "title": "Лиры Ура",
+    "original": "Лиры Ура",
+    "subtitle": "музыкальные инструменты царского кладбища",
+    "era": "Мир шумерских городов",
+    "region": "Месопотамия",
+    "date": "ок. 2600–2400 до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Реконструированные струнные инструменты с богато украшенными передними панелями.",
+    "importance": "Они свидетельствуют о музыке, ремесле и ритуале элиты.",
+    "facts": [
+      "Деревянные части истлели и были восстановлены.",
+      "Украшения включают золото, лазурит и раковину.",
+      "Музыканты изображены и на других предметах."
+    ],
+    "tags": [
+      "музыка",
+      "ремесло"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mes_a032.svg",
+      "caption": "Учебная обложка: Лиры Ура",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_mes_a032.svg"
+    },
+    "source": {
+      "title": "Лиры Ура — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%80%D1%8B_%D0%A3%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_07"
+  },
+  {
+    "id": "REL_MES_A001",
+    "type": "RELIGION",
+    "title": "Нанна",
+    "original": "Нанна",
+    "subtitle": "лунный бог Ура",
+    "era": "Мир шумерских городов",
+    "region": "Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Божество луны, главным центром культа которого был Ур.",
+    "importance": "Культ Нанны связывал город, царскую власть и храмовое хозяйство.",
+    "facts": [
+      "В аккадской традиции известен как Син.",
+      "Энхедуанна была его верховной жрицей.",
+      "Его храмовый комплекс перестраивался многократно."
+    ],
+    "tags": [
+      "религия",
+      "Ур"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 3,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/rel_mes_a001.svg",
+      "caption": "Учебная обложка: Нанна",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rel_mes_a001.svg"
+    },
+    "source": {
+      "title": "Нанна — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD_(%D0%B1%D0%BE%D0%B3)",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_07"
+  },
+  {
+    "id": "REL_MES_A002",
+    "type": "RELIGION",
+    "title": "Энлиль",
+    "original": "Энлиль",
+    "subtitle": "бог Ниппура и царского легитимирования",
+    "era": "Мир шумерских городов",
+    "region": "Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Один из главных богов месопотамского пантеона, связанный с Ниппуром.",
+    "importance": "Признание Энлиля помогало правителям обосновывать власть над Шумером.",
+    "facts": [
+      "Главное святилище называлось Экур.",
+      "Энлиль занимал центральное место в шумерских текстах.",
+      "Его функции менялись в поздней традиции."
+    ],
+    "tags": [
+      "религия",
+      "Ниппур"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 3,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/rel_mes_a002.svg",
+      "caption": "Учебная обложка: Энлиль",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rel_mes_a002.svg"
+    },
+    "source": {
+      "title": "Энлиль — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%BB%D0%B8%D0%BB%D1%8C",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_07"
+  },
+  {
+    "id": "REL_MES_A003",
+    "type": "RELIGION",
+    "title": "Инанна",
+    "original": "Инанна",
+    "subtitle": "богиня Урука",
+    "era": "Мир шумерских городов",
+    "region": "Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Богиня любви, войны и царской власти, связанная прежде всего с Уруком.",
+    "importance": "Культ Инанны стал одной из центральных традиций Месопотамии.",
+    "facts": [
+      "В аккадской традиции соответствовала Иштар.",
+      "Ей посвящены гимны Энхедуанны.",
+      "Образ богини сочетал разные функции."
+    ],
+    "tags": [
+      "религия",
+      "Урук"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 3,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/rel_mes_a003.svg",
+      "caption": "Учебная обложка: Инанна",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rel_mes_a003.svg"
+    },
+    "source": {
+      "title": "Инанна — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B0%D0%BD%D0%BD%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_07"
+  },
+  {
+    "id": "TERM_MES_A032",
+    "type": "TERM",
+    "title": "Пограничный канал",
+    "original": "Пограничный канал",
+    "subtitle": "вода как линия политического контроля",
+    "era": "Мир шумерских городов",
+    "region": "Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Канал мог одновременно орошать поля, перевозить грузы и обозначать спорную границу.",
+    "importance": "Контроль воды превращал хозяйственную инфраструктуру в источник конфликта.",
+    "facts": [
+      "Каналы требовали очистки.",
+      "Граница могла закрепляться стелами и договорами.",
+      "Русла менялись со временем."
+    ],
+    "tags": [
+      "канал",
+      "граница"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mes_a032.svg",
+      "caption": "Учебная обложка: Пограничный канал",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_mes_a032.svg"
+    },
+    "source": {
+      "title": "Пограничный канал — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%98%D1%80%D1%80%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_07"
+  },
+  {
+    "id": "TEXT_MES_A029",
+    "type": "TEXT",
+    "title": "Шумерский царский список",
+    "original": "Шумерский царский список",
+    "subtitle": "литературная схема царской власти",
+    "era": "Цари и ранние династии",
+    "region": "Месопотамия",
+    "date": "начало II тысячелетия до н. э. и более ранние традиции",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Список династий и царей, представляющий царство как единую власть, переходящую между городами.",
+    "importance": "Он важен не как точная хроника, а как политико-литературная концепция прошлого.",
+    "facts": [
+      "Некоторым ранним царям приписаны невероятно долгие правления.",
+      "Список исключает или сокращает некоторые реальные династии.",
+      "Существуют разные версии текста."
+    ],
+    "tags": [
+      "список",
+      "цари"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/text_mes_a029.svg",
+      "caption": "Учебная обложка: Шумерский царский список",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "text_mes_a029.svg"
+    },
+    "source": {
+      "title": "Шумерский царский список — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D0%BC%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%86%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_08"
+  },
+  {
+    "id": "ART_MES_A033",
+    "type": "ARTIFACT",
+    "title": "Стела коршунов",
+    "original": "Стела коршунов",
+    "subtitle": "памятник победы Эаннатума",
+    "era": "Цари и ранние династии",
+    "region": "Месопотамия",
+    "date": "ок. XXV века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Фрагментарная каменная стела с военной и божественной сторонами.",
+    "importance": "Она показывает раннюю царскую пропаганду, строй воинов и роль бога Нингирсу.",
+    "facts": [
+      "Название связано с птицами, несущими части тел врагов.",
+      "Памятник найден фрагментами.",
+      "Текст представляет позицию Лагаша."
+    ],
+    "tags": [
+      "война",
+      "стела"
+    ],
+    "stats": {
+      "influence": 11,
+      "complexity": 9,
+      "legacy": 10,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mes_a033.svg",
+      "caption": "Учебная обложка: Стела коршунов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_mes_a033.svg"
+    },
+    "source": {
+      "title": "Стела коршунов — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BB%D0%B0_%D0%BA%D0%BE%D1%80%D1%88%D1%83%D0%BD%D0%BE%D0%B2",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_08"
+  },
+  {
+    "id": "TERM_MES_A033",
+    "type": "TERM",
+    "title": "Плотный строй копейщиков",
+    "original": "Плотный строй копейщиков",
+    "subtitle": "раннединастическое боевое построение",
+    "era": "Цари и ранние династии",
+    "region": "Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Изображённая на памятниках группа воинов с копьями и большими щитами.",
+    "importance": "Строй показывает коллективную дисциплину, но не доказывает существование поздней классической фаланги.",
+    "facts": [
+      "Известен по Стеле коршунов и Штандарту Ура.",
+      "Точное устройство войска реконструируется.",
+      "Изображение могло быть условным."
+    ],
+    "tags": [
+      "армия",
+      "строй"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mes_a033.svg",
+      "caption": "Учебная обложка: Плотный строй копейщиков",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_mes_a033.svg"
+    },
+    "source": {
+      "title": "Плотный строй копейщиков — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D0%BB%D0%BE_%D0%A8%D1%83%D0%BC%D0%B5%D1%80%D0%B0_%D0%B8_%D0%90%D0%BA%D0%BA%D0%B0%D0%B4%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_08"
+  },
+  {
+    "id": "TEXT_MES_A030",
+    "type": "TEXT",
+    "title": "Царская надпись",
+    "original": "Царская надпись",
+    "subtitle": "текст власти на храме или памятнике",
+    "era": "Цари и ранние династии",
+    "region": "Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Надпись о строительстве, посвящении, победе или происхождении правителя.",
+    "importance": "Она сообщает важные данные, но создавалась для прославления и легитимации.",
+    "facts": [
+      "Надписи часто используют формулы.",
+      "Поражения обычно не описываются.",
+      "Текст нужно читать вместе с археологическим контекстом."
+    ],
+    "tags": [
+      "источник",
+      "царь"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/text_mes_a030.svg",
+      "caption": "Учебная обложка: Царская надпись",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "text_mes_a030.svg"
+    },
+    "source": {
+      "title": "Царская надпись — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B4%D0%BF%D0%B8%D1%81%D1%8C",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_08"
+  },
+  {
+    "id": "ART_MES_A034",
+    "type": "ARTIFACT",
+    "title": "Закладной конус",
+    "original": "Закладной конус",
+    "subtitle": "посвящение в фундаменте здания",
+    "era": "Цари и ранние династии",
+    "region": "Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Глиняный или каменный предмет с надписью, помещавшийся в основание храма или стены.",
+    "importance": "Он связывал строительство с именем правителя и богом-покровителем.",
+    "facts": [
+      "Конусы не предназначались для публичного чтения.",
+      "Они могли повторяться сериями.",
+      "Надписи помогают датировать постройки."
+    ],
+    "tags": [
+      "строительство",
+      "надпись"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mes_a034.svg",
+      "caption": "Учебная обложка: Закладной конус",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_mes_a034.svg"
+    },
+    "source": {
+      "title": "Закладной конус — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%BE%D0%B9_%D0%BA%D0%BE%D0%BD%D1%83%D1%81",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_08"
+  },
+  {
+    "id": "TEXT_MES_A031",
+    "type": "TEXT",
+    "title": "Храмовый гимн",
+    "original": "Храмовый гимн",
+    "subtitle": "поэтическое описание святилища",
+    "era": "Цари и ранние династии",
+    "region": "Месопотамия",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Текст, прославляющий храм, город и божество.",
+    "importance": "Гимны создавали сакральную географию и идеальный образ учреждения.",
+    "facts": [
+      "Многие тексты известны по школьным копиям.",
+      "Поэзия не является архитектурным планом.",
+      "Авторство некоторых циклов связывают с Энхедуанной."
+    ],
+    "tags": [
+      "литература",
+      "храм"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/text_mes_a031.svg",
+      "caption": "Учебная обложка: Храмовый гимн",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "text_mes_a031.svg"
+    },
+    "source": {
+      "title": "Храмовый гимн — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D0%BC%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_08"
+  },
+  {
+    "id": "ART_MES_A035",
+    "type": "ARTIFACT",
+    "title": "Печать с пиром",
+    "original": "Печать с пиром",
+    "subtitle": "образ элитного банкета",
+    "era": "Цари и ранние династии",
+    "region": "Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Цилиндрическая печать со сценой сидящих участников пира, сосудов и музыки.",
+    "importance": "Банкет мог выражать статус, культовое участие и социальные связи.",
+    "facts": [
+      "Смысл сцен зависит от контекста.",
+      "Печати были и административными инструментами.",
+      "Изображение не является фотографией события."
+    ],
+    "tags": [
+      "пир",
+      "печать"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mes_a035.svg",
+      "caption": "Учебная обложка: Печать с пиром",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_mes_a035.svg"
+    },
+    "source": {
+      "title": "Печать с пиром — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BB%D0%B8%D0%BD%D0%B4%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_08"
+  },
+  {
+    "id": "ART_MES_A036",
+    "type": "ARTIFACT",
+    "title": "Вотивная статуэтка",
+    "original": "Вотивная статуэтка",
+    "subtitle": "постоянный молящийся в храме",
+    "era": "Цари и ранние династии",
+    "region": "Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Фигура с соединёнными руками и широко раскрытыми глазами, помещавшаяся в святилище.",
+    "importance": "Статуэтка представляла присутствие дарителя перед божеством.",
+    "facts": [
+      "На некоторых фигурах есть имена и молитвенные надписи.",
+      "Большие глаза трактуются символически.",
+      "Размер мог отражать статус."
+    ],
+    "tags": [
+      "религия",
+      "искусство"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 3,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mes_a036.svg",
+      "caption": "Учебная обложка: Вотивная статуэтка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_mes_a036.svg"
+    },
+    "source": {
+      "title": "Вотивная статуэтка — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%8D%D1%82%D0%BA%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_08"
+  },
+  {
+    "id": "ART_MES_A037",
+    "type": "ARTIFACT",
+    "title": "Стела победы Нарам-Суэна",
+    "original": "Стела победы Нарам-Суэна",
+    "subtitle": "царь над горой и врагами",
+    "era": "Саргон и Аккадская держава",
+    "region": "Месопотамия",
+    "date": "ок. XXIII века до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 9,
+    "summary": "Рельеф, на котором Нарам-Суэн поднимается по горе над побеждёнными врагами под небесными знаками.",
+    "importance": "Стела радикально усиливает образ царя как сверхчеловеческого победителя.",
+    "facts": [
+      "Царь изображён крупнее остальных.",
+      "Рогатый шлем связан с божественностью.",
+      "Памятник позднее был увезён в Сузы."
+    ],
+    "tags": [
+      "победа",
+      "искусство"
+    ],
+    "stats": {
+      "influence": 11,
+      "complexity": 9,
+      "legacy": 10,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mes_a037.svg",
+      "caption": "Учебная обложка: Стела победы Нарам-Суэна",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_mes_a037.svg"
+    },
+    "source": {
+      "title": "Стела победы Нарам-Суэна — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BB%D0%B0_%D0%9D%D0%B0%D1%80%D0%B0%D0%BC-%D0%A1%D1%83%D1%8D%D0%BD%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_09"
+  },
+  {
+    "id": "TERM_MES_A034",
+    "type": "TERM",
+    "title": "Обожествление царя",
+    "original": "Обожествление царя",
+    "subtitle": "божественный статус живого правителя",
+    "era": "Саргон и Аккадская держава",
+    "region": "Месопотамия",
+    "date": "XXIII век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Признание царя божественной фигурой в надписях, культе и изображениях.",
+    "importance": "При Нарам-Суэне эта практика стала заметной частью имперской идеологии.",
+    "facts": [
+      "Не каждый месопотамский царь обожествлялся.",
+      "Использовался специальный детерминатив.",
+      "Практика менялась в разные периоды."
+    ],
+    "tags": [
+      "царь",
+      "религия"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 3,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mes_a034.svg",
+      "caption": "Учебная обложка: Обожествление царя",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_mes_a034.svg"
+    },
+    "source": {
+      "title": "Обожествление царя — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BF%D0%BE%D1%84%D0%B5%D0%BE%D0%B7",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_09"
+  },
+  {
+    "id": "LANG_MES_A001",
+    "type": "LANGUAGE",
+    "title": "Староаккадский язык",
+    "original": "Староаккадский язык",
+    "subtitle": "язык Аккадской эпохи",
+    "era": "Саргон и Аккадская держава",
+    "region": "Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Ранняя форма аккадского языка в административных и царских текстах.",
+    "importance": "Его распространение сопровождало политическое объединение, но не вытеснило шумерский мгновенно.",
+    "facts": [
+      "Язык записывался клинописью.",
+      "Диалектные различия реконструируются по текстам.",
+      "Двуязычная культура продолжалась."
+    ],
+    "tags": [
+      "язык",
+      "Аккад"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/lang_mes_a001.svg",
+      "caption": "Учебная обложка: Староаккадский язык",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lang_mes_a001.svg"
+    },
+    "source": {
+      "title": "Староаккадский язык — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%BA%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_09"
+  },
+  {
+    "id": "SYS_MES_A001",
+    "type": "SYSTEM",
+    "title": "Имперский наместник",
+    "original": "Имперский наместник",
+    "subtitle": "местная власть под царским контролем",
+    "era": "Саргон и Аккадская держава",
+    "region": "Месопотамия",
+    "date": "XXIII век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Назначенный или признанный представитель власти в покорённом городе или регионе.",
+    "importance": "Наместники связывали столицу с местными институтами и элитами.",
+    "facts": [
+      "Не все города управлялись одинаково.",
+      "Местные титулы могли сохраняться.",
+      "Восстания показывают ограниченность контроля."
+    ],
+    "tags": [
+      "управление",
+      "провинции"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/sys_mes_a001.svg",
+      "caption": "Учебная обложка: Имперский наместник",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_mes_a001.svg"
+    },
+    "source": {
+      "title": "Имперский наместник — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_09"
+  },
+  {
+    "id": "TERM_MES_A035",
+    "type": "TERM",
+    "title": "Постоянное царское войско",
+    "original": "Постоянное царское войско",
+    "subtitle": "военная опора территориальной власти",
+    "era": "Саргон и Аккадская держава",
+    "region": "Месопотамия",
+    "date": "XXIII век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Группы воинов, непосредственно зависевшие от царя и участвовавшие в дальних кампаниях.",
+    "importance": "Территориальная держава требовала более устойчивой военной мобилизации, чем один городской поход.",
+    "facts": [
+      "Точный размер армии неизвестен.",
+      "Царские надписи преувеличивают масштабы.",
+      "Войско сочетало разные контингенты."
+    ],
+    "tags": [
+      "армия",
+      "империя"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mes_a035.svg",
+      "caption": "Учебная обложка: Постоянное царское войско",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_mes_a035.svg"
+    },
+    "source": {
+      "title": "Постоянное царское войско — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D0%BB%D0%BE_%D0%A8%D1%83%D0%BC%D0%B5%D1%80%D0%B0_%D0%B8_%D0%90%D0%BA%D0%BA%D0%B0%D0%B4%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_09"
+  },
+  {
+    "id": "EVT_MES_A001",
+    "type": "EVENT",
+    "title": "Великое восстание против Нарам-Суэна",
+    "original": "Великое восстание против Нарам-Суэна",
+    "subtitle": "коалиция городов против Аккада",
+    "era": "Саргон и Аккадская держава",
+    "region": "Месопотамия",
+    "date": "XXIII век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Серия восстаний, подавление которых Нарам-Суэн представил как подтверждение своей исключительной власти.",
+    "importance": "Событие показывает постоянное сопротивление централизации.",
+    "facts": [
+      "Известно по царским надписям.",
+      "Состав участников реконструируется по текстам.",
+      "Победа стала частью обожествления царя."
+    ],
+    "tags": [
+      "восстание",
+      "Аккад"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 2,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/evt_mes_a001.svg",
+      "caption": "Учебная обложка: Великое восстание против Нарам-Суэна",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "evt_mes_a001.svg"
+    },
+    "source": {
+      "title": "Великое восстание против Нарам-Суэна — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%B0%D0%BC-%D0%A1%D1%83%D1%8D%D0%BD",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_09"
+  },
+  {
+    "id": "PEOPLE_MES_A001",
+    "type": "TERM",
+    "title": "Гутии",
+    "original": "Гутии",
+    "subtitle": "горные группы в месопотамской памяти",
+    "era": "Саргон и Аккадская держава",
+    "region": "Месопотамия",
+    "date": "конец III тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Группы из районов Загроса, связанные в поздней традиции с кризисом после Аккада.",
+    "importance": "Образ гутиев часто использовался как литературный символ хаоса, поэтому требует осторожности.",
+    "facts": [
+      "Гутии не были единой хорошо описанной империей.",
+      "Поздние тексты обвиняют их в разрушениях.",
+      "Их реальная политическая роль реконструируется фрагментарно."
+    ],
+    "tags": [
+      "народы",
+      "Загрос"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/people_mes_a001.svg",
+      "caption": "Учебная обложка: Гутии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "people_mes_a001.svg"
+    },
+    "source": {
+      "title": "Гутии — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D1%83%D1%82%D0%B8%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_09"
+  },
+  {
+    "id": "ART_MES_A038",
+    "type": "ARTIFACT",
+    "title": "Обелиск Маништушу",
+    "original": "Обелиск Маништушу",
+    "subtitle": "каменный документ о земле",
+    "era": "Саргон и Аккадская держава",
+    "region": "Месопотамия",
+    "date": "XXIII век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Чёрный каменный памятник с записями о крупных земельных приобретениях царя.",
+    "importance": "Он является ключевым источником по собственности, ценам и участию местных владельцев.",
+    "facts": [
+      "Текст перечисляет продавцов и свидетелей.",
+      "Юридическая интерпретация сложна.",
+      "Памятник найден в Сузах."
+    ],
+    "tags": [
+      "земля",
+      "документ"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mes_a038.svg",
+      "caption": "Учебная обложка: Обелиск Маништушу",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_mes_a038.svg"
+    },
+    "source": {
+      "title": "Обелиск Маништушу — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B8%D1%88%D1%82%D1%83%D1%88%D1%83",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_09"
+  },
+  {
+    "id": "ART_MES_A039",
+    "type": "ARTIFACT",
+    "title": "Статуи Гудеа",
+    "original": "Статуи Гудеа",
+    "subtitle": "правитель в молитве и строительстве",
+    "era": "Ур III и конец первого цикла",
+    "region": "Месопотамия",
+    "date": "XXII век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Диоритовые статуи Гудеа с длинными надписями о храмах, материалах и благочестии.",
+    "importance": "Они формируют идеальный образ мудрого и мирного правителя.",
+    "facts": [
+      "Многие статуи найдены в Гирсу.",
+      "Диорит привозили издалека.",
+      "Надписи являются царской самопрезентацией."
+    ],
+    "tags": [
+      "скульптура",
+      "Гудеа"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mes_a039.svg",
+      "caption": "Учебная обложка: Статуи Гудеа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_mes_a039.svg"
+    },
+    "source": {
+      "title": "Статуи Гудеа — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%B4%D0%B5%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_10"
+  },
+  {
+    "id": "ART_MES_A040",
+    "type": "ARTIFACT",
+    "title": "Стела Ур-Намму",
+    "original": "Стела Ур-Намму",
+    "subtitle": "царь перед богами",
+    "era": "Ур III и конец первого цикла",
+    "region": "Месопотамия",
+    "date": "XXI век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Фрагментарная стела со сценами ритуала и строительства.",
+    "importance": "Памятник связывает царя с богами, храмом и восстановлением порядка.",
+    "facts": [
+      "Стела сохранилась фрагментарно.",
+      "Реконструкция сцен не всегда однозначна.",
+      "Она отличается от правового текста Ур-Намму."
+    ],
+    "tags": [
+      "стела",
+      "царь"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mes_a040.svg",
+      "caption": "Учебная обложка: Стела Ур-Намму",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_mes_a040.svg"
+    },
+    "source": {
+      "title": "Стела Ур-Намму — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A3%D1%80-%D0%9D%D0%B0%D0%BC%D0%BC%D1%83",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_10"
+  },
+  {
+    "id": "TEXT_MES_A032",
+    "type": "TEXT",
+    "title": "Гимны Шульги",
+    "original": "Гимны Шульги",
+    "subtitle": "царская поэзия самоописания",
+    "era": "Ур III и конец первого цикла",
+    "region": "Месопотамия",
+    "date": "XXI век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Поэтические тексты, прославляющие силу, учёность, благочестие и исключительные способности Шульги.",
+    "importance": "Гимны показывают, как царская власть создавала культурный образ идеального правителя.",
+    "facts": [
+      "Тексты известны по поздним школьным копиям.",
+      "Автобиографический голос не гарантирует личного авторства.",
+      "Гиперболы являются частью жанра."
+    ],
+    "tags": [
+      "гимн",
+      "идеология"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/text_mes_a032.svg",
+      "caption": "Учебная обложка: Гимны Шульги",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "text_mes_a032.svg"
+    },
+    "source": {
+      "title": "Гимны Шульги — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D0%BB%D1%8C%D0%B3%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_10"
+  },
+  {
+    "id": "ART_MES_A041",
+    "type": "ARTIFACT",
+    "title": "Административная табличка Ур III",
+    "original": "Административная табличка Ур III",
+    "subtitle": "массовый документ государства",
+    "era": "Ур III и конец первого цикла",
+    "region": "Месопотамия",
+    "date": "XXI век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Краткая запись о выдаче, поставке, работниках, животных, полях или передаче товара.",
+    "importance": "Сотни тысяч фрагментов позволяют изучать механизм управления, но редко рассказывают цельную историю человека.",
+    "facts": [
+      "Документы часто датированы годовым именем.",
+      "Формулы сильно стандартизированы.",
+      "Контекст находки важен для интерпретации."
+    ],
+    "tags": [
+      "учёт",
+      "табличка"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mes_a041.svg",
+      "caption": "Учебная обложка: Административная табличка Ур III",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_mes_a041.svg"
+    },
+    "source": {
+      "title": "Административная табличка Ур III — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F_%D0%B4%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%8F_%D0%A3%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_10"
+  },
+  {
+    "id": "SYS_MES_A002",
+    "type": "SYSTEM",
+    "title": "Трудовая повинность",
+    "original": "Трудовая повинность",
+    "subtitle": "обязательная работа для государства",
+    "era": "Ур III и конец первого цикла",
+    "region": "Месопотамия",
+    "date": "XXI век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Мобилизация людей на каналы, строительство, перевозки и другие задачи.",
+    "importance": "Она позволяла выполнять крупные проекты и одновременно создавала тяжёлую нагрузку на население.",
+    "facts": [
+      "Формы труда различались.",
+      "Выдачи рационов не обязательно означают рабство.",
+      "Документы фиксируют бегство и замену работников."
+    ],
+    "tags": [
+      "труд",
+      "государство"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 1,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/sys_mes_a002.svg",
+      "caption": "Учебная обложка: Трудовая повинность",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_mes_a002.svg"
+    },
+    "source": {
+      "title": "Трудовая повинность — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_10"
+  },
+  {
+    "id": "PEOPLE_MES_A002",
+    "type": "TERM",
+    "title": "Амореи",
+    "original": "Амореи",
+    "subtitle": "западносемитские группы и династии",
+    "era": "Ур III и конец первого цикла",
+    "region": "Месопотамия",
+    "date": "конец III–II тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Группы, обозначаемые в текстах как martu, позднее основавшие династии во многих городах.",
+    "importance": "Их нельзя сводить к единой волне кочевников или одной причине падения Ур III.",
+    "facts": [
+      "Термин имел географические и социальные значения.",
+      "Аморейские династии стали частью городской культуры.",
+      "Царские тексты могли изображать их стереотипно."
+    ],
+    "tags": [
+      "народы",
+      "амореи"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/people_mes_a002.svg",
+      "caption": "Учебная обложка: Амореи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "people_mes_a002.svg"
+    },
+    "source": {
+      "title": "Амореи — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%BE%D1%80%D0%B5%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_10"
+  },
+  {
+    "id": "STATE_MES_A001",
+    "type": "STATE",
+    "title": "Элам",
+    "original": "Элам",
+    "subtitle": "восточный сосед Месопотамии",
+    "era": "Ур III и конец первого цикла",
+    "region": "Месопотамия",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Мир городов и царств на юго-западе Ирана, связанный с Месопотамией войной, торговлей и культурным обменом.",
+    "importance": "Эламские силы участвовали в захвате Ура, но отношения двух регионов были намного шире войны.",
+    "facts": [
+      "Сузы были одним из главных центров.",
+      "Элам не являлся постоянным единым государством.",
+      "Многие месопотамские памятники позднее оказались в Сузах."
+    ],
+    "tags": [
+      "Элам",
+      "Иран"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 2,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/state_mes_a001.svg",
+      "caption": "Учебная обложка: Элам",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "state_mes_a001.svg"
+    },
+    "source": {
+      "title": "Элам — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B0%D0%BC",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_10"
+  },
+  {
+    "id": "ART_MES_A042",
+    "type": "ARTIFACT",
+    "title": "Стена против амореев",
+    "original": "Стена против амореев",
+    "subtitle": "оборонительная линия Ур III",
+    "era": "Ур III и конец первого цикла",
+    "region": "Месопотамия",
+    "date": "конец XXI века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Упоминаемая в текстах система укреплений, призванная ограничить проникновение групп с северо-запада.",
+    "importance": "Она показывает попытку государства контролировать открытые границы, но её трасса и эффективность неясны.",
+    "facts": [
+      "Известна по надписям и годовым формулам.",
+      "Название отражает царскую категорию противника.",
+      "Археологическая локализация спорна."
+    ],
+    "tags": [
+      "стена",
+      "граница"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mes_a042.svg",
+      "caption": "Учебная обложка: Стена против амореев",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_mes_a042.svg"
+    },
+    "source": {
+      "title": "Стена против амореев — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F_%D0%B4%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%8F_%D0%A3%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "PACK",
+    "campaign": "MESOPOTAMIA",
+    "pool": "MES_POOL_10"
   }
 ]

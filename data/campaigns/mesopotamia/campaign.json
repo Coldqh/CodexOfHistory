@@ -78,6 +78,81 @@
         "MES_05_05",
         "MES_05_06"
       ]
+    },
+    {
+      "id": "MES_CHAPTER_06",
+      "number": 6,
+      "title": "Рождение письменности",
+      "subtitle": "От счёта товаров к записи языка",
+      "description": "Полный учебный маршрут: рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "MES_06_01",
+        "MES_06_02",
+        "MES_06_03",
+        "MES_06_04",
+        "MES_06_05",
+        "MES_06_06"
+      ]
+    },
+    {
+      "id": "MES_CHAPTER_07",
+      "number": 7,
+      "title": "Мир шумерских городов",
+      "subtitle": "Ур, Лагаш, Киш, Ниппур и Умма",
+      "description": "Полный учебный маршрут: рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "MES_07_01",
+        "MES_07_02",
+        "MES_07_03",
+        "MES_07_04",
+        "MES_07_05",
+        "MES_07_06"
+      ]
+    },
+    {
+      "id": "MES_CHAPTER_08",
+      "number": 8,
+      "title": "Цари, войны и ранние династии",
+      "subtitle": "Титулы, памятники и политическая память",
+      "description": "Полный учебный маршрут: рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "MES_08_01",
+        "MES_08_02",
+        "MES_08_03",
+        "MES_08_04",
+        "MES_08_05",
+        "MES_08_06"
+      ]
+    },
+    {
+      "id": "MES_CHAPTER_09",
+      "number": 9,
+      "title": "Саргон и Аккадская держава",
+      "subtitle": "Первая территориальная империя",
+      "description": "Полный учебный маршрут: рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "MES_09_01",
+        "MES_09_02",
+        "MES_09_03",
+        "MES_09_04",
+        "MES_09_05",
+        "MES_09_06"
+      ]
+    },
+    {
+      "id": "MES_CHAPTER_10",
+      "number": 10,
+      "title": "Ур III и конец первого цикла",
+      "subtitle": "Бюрократия, право и распад державы",
+      "description": "Полный учебный маршрут: рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "MES_10_01",
+        "MES_10_02",
+        "MES_10_03",
+        "MES_10_04",
+        "MES_10_05",
+        "MES_10_06"
+      ]
     }
   ],
   "nodes": [
@@ -870,6 +945,674 @@
       "chapterId": "MES_CHAPTER_05",
       "lessonId": "MES_05_06",
       "quiz": "QUIZ_MES_CH5"
+    },
+    {
+      "id": "MES_06_01",
+      "type": "LESSON",
+      "title": "Как учёт стал письмом",
+      "description": "От счёта товаров к записи языка",
+      "cards": [
+        "ART_MES_006",
+        "SYS_MES_005",
+        "TERM_MES_014"
+      ],
+      "unlockCards": [
+        "SYS_MES_005"
+      ],
+      "xp": 102,
+      "emoji": "▤",
+      "chapterId": "MES_CHAPTER_06",
+      "lessonId": "MES_06_01"
+    },
+    {
+      "id": "MES_06_02",
+      "type": "CAUSE_EFFECT",
+      "title": "Знак, число и язык",
+      "description": "От счёта товаров к записи языка",
+      "cards": [
+        "SYS_MES_005",
+        "TERM_MES_014",
+        "PER_MES_001"
+      ],
+      "unlockCards": [
+        "TERM_MES_014"
+      ],
+      "xp": 114,
+      "emoji": "⌘",
+      "chapterId": "MES_CHAPTER_06",
+      "lessonId": "MES_06_02"
+    },
+    {
+      "id": "MES_06_03",
+      "type": "SOURCE",
+      "title": "Прочитать раннюю табличку",
+      "description": "От счёта товаров к записи языка",
+      "cards": [
+        "TERM_MES_014",
+        "PER_MES_001",
+        "ORG_MES_002"
+      ],
+      "unlockCards": [
+        "PER_MES_001"
+      ],
+      "xp": 126,
+      "emoji": "◇",
+      "chapterId": "MES_CHAPTER_06",
+      "lessonId": "MES_06_03"
+    },
+    {
+      "id": "MES_06_04",
+      "type": "MATCH",
+      "title": "Кто и как учился писать",
+      "description": "От счёта товаров к записи языка",
+      "cards": [
+        "PER_MES_001",
+        "ORG_MES_002",
+        "TEXT_MES_001"
+      ],
+      "unlockCards": [
+        "ORG_MES_002"
+      ],
+      "xp": 138,
+      "emoji": "✎",
+      "chapterId": "MES_CHAPTER_06",
+      "lessonId": "MES_06_04"
+    },
+    {
+      "id": "MES_06_05",
+      "type": "TIMELINE",
+      "title": "Хронология письма",
+      "description": "От счёта товаров к записи языка",
+      "cards": [
+        "ORG_MES_002",
+        "TEXT_MES_001",
+        "LANG_MES_001"
+      ],
+      "unlockCards": [
+        "TEXT_MES_001"
+      ],
+      "xp": 150,
+      "emoji": "⌛",
+      "chapterId": "MES_CHAPTER_06",
+      "lessonId": "MES_06_05",
+      "timeline": {
+        "order": [
+          "c6_0",
+          "c6_1",
+          "c6_2",
+          "c6_3"
+        ],
+        "labels": {
+          "c6_0": "ок. 3400–3200 до н. э. · Протоклинописный учёт",
+          "c6_1": "III тысячелетие до н. э. · Клинопись передаёт шумерский язык",
+          "c6_2": "середина III тысячелетия · Аккадский язык широко записывается клинописью",
+          "c6_3": "II тысячелетие до н. э. · Школьная и литературная традиция расширяется"
+        },
+        "shuffle": [
+          "c6_3",
+          "c6_2",
+          "c6_1",
+          "c6_0"
+        ]
+      }
+    },
+    {
+      "id": "MES_06_06",
+      "type": "FINAL",
+      "title": "Испытание письменности",
+      "description": "От счёта товаров к записи языка",
+      "cards": [
+        "TEXT_MES_001",
+        "LANG_MES_001",
+        "LANG_MES_002"
+      ],
+      "unlockCards": [
+        "LANG_MES_001"
+      ],
+      "xp": 162,
+      "emoji": "𒀭",
+      "chapterId": "MES_CHAPTER_06",
+      "lessonId": "MES_06_06",
+      "quiz": "QUIZ_MES_CH6"
+    },
+    {
+      "id": "MES_07_01",
+      "type": "LESSON",
+      "title": "Город как отдельный мир",
+      "description": "Ур, Лагаш, Киш, Ниппур и Умма",
+      "cards": [
+        "CITY_MES_006",
+        "CITY_MES_007",
+        "CITY_MES_008"
+      ],
+      "unlockCards": [
+        "CITY_MES_007"
+      ],
+      "xp": 102,
+      "emoji": "⌂",
+      "chapterId": "MES_CHAPTER_07",
+      "lessonId": "MES_07_01"
+    },
+    {
+      "id": "MES_07_02",
+      "type": "CAUSE_EFFECT",
+      "title": "Боги и политическая карта",
+      "description": "Ур, Лагаш, Киш, Ниппур и Умма",
+      "cards": [
+        "CITY_MES_007",
+        "CITY_MES_008",
+        "CITY_MES_009"
+      ],
+      "unlockCards": [
+        "CITY_MES_008"
+      ],
+      "xp": 114,
+      "emoji": "☼",
+      "chapterId": "MES_CHAPTER_07",
+      "lessonId": "MES_07_02"
+    },
+    {
+      "id": "MES_07_03",
+      "type": "MAP",
+      "title": "Ур, Лагаш, Киш и Ниппур",
+      "description": "Ур, Лагаш, Киш, Ниппур и Умма",
+      "cards": [
+        "CITY_MES_008",
+        "CITY_MES_009",
+        "CITY_MES_010"
+      ],
+      "unlockCards": [
+        "CITY_MES_009"
+      ],
+      "xp": 126,
+      "emoji": "🗺",
+      "chapterId": "MES_CHAPTER_07",
+      "lessonId": "MES_07_03",
+      "mapTargets": [
+        {
+          "key": "ur",
+          "label": "Ур",
+          "point": "UR",
+          "zoom": 10,
+          "radius": 9000
+        },
+        {
+          "key": "lagash",
+          "label": "Лагаш",
+          "point": "LAGASH",
+          "zoom": 9,
+          "radius": 13000
+        },
+        {
+          "key": "nippur",
+          "label": "Ниппур",
+          "point": "NIPPUR",
+          "zoom": 9,
+          "radius": 13000
+        }
+      ]
+    },
+    {
+      "id": "MES_07_04",
+      "type": "SOURCE",
+      "title": "Граница Лагаша и Уммы",
+      "description": "Ур, Лагаш, Киш, Ниппур и Умма",
+      "cards": [
+        "CITY_MES_009",
+        "CITY_MES_010",
+        "STATE_MES_001"
+      ],
+      "unlockCards": [
+        "CITY_MES_010"
+      ],
+      "xp": 138,
+      "emoji": "⚔",
+      "chapterId": "MES_CHAPTER_07",
+      "lessonId": "MES_07_04"
+    },
+    {
+      "id": "MES_07_05",
+      "type": "TIMELINE",
+      "title": "Хронология городов",
+      "description": "Ур, Лагаш, Киш, Ниппур и Умма",
+      "cards": [
+        "CITY_MES_010",
+        "STATE_MES_001",
+        "REL_MES_002"
+      ],
+      "unlockCards": [
+        "STATE_MES_001"
+      ],
+      "xp": 150,
+      "emoji": "⌛",
+      "chapterId": "MES_CHAPTER_07",
+      "lessonId": "MES_07_05",
+      "timeline": {
+        "order": [
+          "c7_0",
+          "c7_1",
+          "c7_2",
+          "c7_3"
+        ],
+        "labels": {
+          "c7_0": "ок. 2900 до н. э. · Начало раннединастического периода",
+          "c7_1": "ок. 2600–2500 до н. э. · Расцвет Ура и ранних династий",
+          "c7_2": "XXV–XXIV века до н. э. · Конфликт Лагаша и Уммы",
+          "c7_3": "ок. 2350 до н. э. · Конец политической дробности под давлением Аккада"
+        },
+        "shuffle": [
+          "c7_3",
+          "c7_2",
+          "c7_1",
+          "c7_0"
+        ]
+      }
+    },
+    {
+      "id": "MES_07_06",
+      "type": "FINAL",
+      "title": "Испытание шумерских городов",
+      "description": "Ур, Лагаш, Киш, Ниппур и Умма",
+      "cards": [
+        "STATE_MES_001",
+        "REL_MES_002",
+        "EVT_MES_004"
+      ],
+      "unlockCards": [
+        "REL_MES_002"
+      ],
+      "xp": 162,
+      "emoji": "🏺",
+      "chapterId": "MES_CHAPTER_07",
+      "lessonId": "MES_07_06",
+      "quiz": "QUIZ_MES_CH7"
+    },
+    {
+      "id": "MES_08_01",
+      "type": "LESSON",
+      "title": "Лугаль, энси и власть",
+      "description": "Титулы, памятники и политическая память",
+      "cards": [
+        "PER_MES_002",
+        "PER_MES_003",
+        "PER_MES_004"
+      ],
+      "unlockCards": [
+        "PER_MES_003"
+      ],
+      "xp": 102,
+      "emoji": "♜",
+      "chapterId": "MES_CHAPTER_08",
+      "lessonId": "MES_08_01"
+    },
+    {
+      "id": "MES_08_02",
+      "type": "SOURCE",
+      "title": "Гильгамеш между царём и эпосом",
+      "description": "Титулы, памятники и политическая память",
+      "cards": [
+        "PER_MES_003",
+        "PER_MES_004",
+        "PER_MES_005"
+      ],
+      "unlockCards": [
+        "PER_MES_004"
+      ],
+      "xp": 114,
+      "emoji": "♙",
+      "chapterId": "MES_CHAPTER_08",
+      "lessonId": "MES_08_02"
+    },
+    {
+      "id": "MES_08_03",
+      "type": "SOURCE",
+      "title": "Эаннатум и язык победы",
+      "description": "Титулы, памятники и политическая память",
+      "cards": [
+        "PER_MES_004",
+        "PER_MES_005",
+        "PER_MES_006"
+      ],
+      "unlockCards": [
+        "PER_MES_005"
+      ],
+      "xp": 126,
+      "emoji": "⚔",
+      "chapterId": "MES_CHAPTER_08",
+      "lessonId": "MES_08_03"
+    },
+    {
+      "id": "MES_08_04",
+      "type": "CAUSE_EFFECT",
+      "title": "Реформы Урукагины",
+      "description": "Титулы, памятники и политическая память",
+      "cards": [
+        "PER_MES_005",
+        "PER_MES_006",
+        "PER_MES_007"
+      ],
+      "unlockCards": [
+        "PER_MES_006"
+      ],
+      "xp": 138,
+      "emoji": "§",
+      "chapterId": "MES_CHAPTER_08",
+      "lessonId": "MES_08_04"
+    },
+    {
+      "id": "MES_08_05",
+      "type": "TIMELINE",
+      "title": "Раннединастическая хронология",
+      "description": "Титулы, памятники и политическая память",
+      "cards": [
+        "PER_MES_006",
+        "PER_MES_007",
+        "TERM_MES_015"
+      ],
+      "unlockCards": [
+        "PER_MES_007"
+      ],
+      "xp": 150,
+      "emoji": "⌛",
+      "chapterId": "MES_CHAPTER_08",
+      "lessonId": "MES_08_05",
+      "timeline": {
+        "order": [
+          "c8_0",
+          "c8_1",
+          "c8_2",
+          "c8_3"
+        ],
+        "labels": {
+          "c8_0": "раннее III тысячелетие · Легендарные династии Урука и Киша",
+          "c8_1": "ок. XXV века до н. э. · Эаннатум и Стела коршунов",
+          "c8_2": "XXIV век до н. э. · Энтемена и Урукагина",
+          "c8_3": "ок. 2350 до н. э. · Лугальзагеси и завоевание Саргона"
+        },
+        "shuffle": [
+          "c8_3",
+          "c8_2",
+          "c8_1",
+          "c8_0"
+        ]
+      }
+    },
+    {
+      "id": "MES_08_06",
+      "type": "FINAL",
+      "title": "Испытание царей",
+      "description": "Титулы, памятники и политическая память",
+      "cards": [
+        "PER_MES_007",
+        "TERM_MES_015",
+        "TERM_MES_016"
+      ],
+      "unlockCards": [
+        "TERM_MES_015"
+      ],
+      "xp": 162,
+      "emoji": "◇",
+      "chapterId": "MES_CHAPTER_08",
+      "lessonId": "MES_08_06",
+      "quiz": "QUIZ_MES_CH8"
+    },
+    {
+      "id": "MES_09_01",
+      "type": "LESSON",
+      "title": "Саргон и новый масштаб власти",
+      "description": "Первая территориальная империя",
+      "cards": [
+        "PER_MES_008",
+        "STATE_MES_002",
+        "CITY_MES_011"
+      ],
+      "unlockCards": [
+        "STATE_MES_002"
+      ],
+      "xp": 102,
+      "emoji": "♜",
+      "chapterId": "MES_CHAPTER_09",
+      "lessonId": "MES_09_01"
+    },
+    {
+      "id": "MES_09_02",
+      "type": "CAUSE_EFFECT",
+      "title": "Как удерживать империю",
+      "description": "Первая территориальная империя",
+      "cards": [
+        "STATE_MES_002",
+        "CITY_MES_011",
+        "PER_MES_009"
+      ],
+      "unlockCards": [
+        "CITY_MES_011"
+      ],
+      "xp": 114,
+      "emoji": "▦",
+      "chapterId": "MES_CHAPTER_09",
+      "lessonId": "MES_09_02"
+    },
+    {
+      "id": "MES_09_03",
+      "type": "SOURCE",
+      "title": "Энхедуанна и религиозная политика",
+      "description": "Первая территориальная империя",
+      "cards": [
+        "CITY_MES_011",
+        "PER_MES_009",
+        "PER_MES_010"
+      ],
+      "unlockCards": [
+        "PER_MES_009"
+      ],
+      "xp": 126,
+      "emoji": "☼",
+      "chapterId": "MES_CHAPTER_09",
+      "lessonId": "MES_09_03"
+    },
+    {
+      "id": "MES_09_04",
+      "type": "SOURCE",
+      "title": "Нарам-Суэн и обожествление царя",
+      "description": "Первая территориальная империя",
+      "cards": [
+        "PER_MES_009",
+        "PER_MES_010",
+        "PER_MES_011"
+      ],
+      "unlockCards": [
+        "PER_MES_010"
+      ],
+      "xp": 138,
+      "emoji": "▲",
+      "chapterId": "MES_CHAPTER_09",
+      "lessonId": "MES_09_04"
+    },
+    {
+      "id": "MES_09_05",
+      "type": "TIMELINE",
+      "title": "Хронология Аккада",
+      "description": "Первая территориальная империя",
+      "cards": [
+        "PER_MES_010",
+        "PER_MES_011",
+        "PER_MES_012"
+      ],
+      "unlockCards": [
+        "PER_MES_011"
+      ],
+      "xp": 150,
+      "emoji": "⌛",
+      "chapterId": "MES_CHAPTER_09",
+      "lessonId": "MES_09_05",
+      "timeline": {
+        "order": [
+          "c9_0",
+          "c9_1",
+          "c9_2",
+          "c9_3"
+        ],
+        "labels": {
+          "c9_0": "ок. 2334 до н. э. · Начало правления Саргона по средней хронологии",
+          "c9_1": "XXIII век до н. э. · Римуш и Маништушу подавляют восстания",
+          "c9_2": "ок. 2254–2218 до н. э. · Нарам-Суэн",
+          "c9_3": "XXII век до н. э. · Распад Аккадской державы"
+        },
+        "shuffle": [
+          "c9_3",
+          "c9_2",
+          "c9_1",
+          "c9_0"
+        ]
+      }
+    },
+    {
+      "id": "MES_09_06",
+      "type": "FINAL",
+      "title": "Испытание Аккадской державы",
+      "description": "Первая территориальная империя",
+      "cards": [
+        "PER_MES_011",
+        "PER_MES_012",
+        "EVT_MES_005"
+      ],
+      "unlockCards": [
+        "PER_MES_012"
+      ],
+      "xp": 162,
+      "emoji": "𒀭",
+      "chapterId": "MES_CHAPTER_09",
+      "lessonId": "MES_09_06",
+      "quiz": "QUIZ_MES_CH9"
+    },
+    {
+      "id": "MES_10_01",
+      "type": "LESSON",
+      "title": "Гудеа и региональное возрождение",
+      "description": "Бюрократия, право и распад державы",
+      "cards": [
+        "PER_MES_013",
+        "PER_MES_014",
+        "PER_MES_015"
+      ],
+      "unlockCards": [
+        "PER_MES_014"
+      ],
+      "xp": 102,
+      "emoji": "♙",
+      "chapterId": "MES_CHAPTER_10",
+      "lessonId": "MES_10_01"
+    },
+    {
+      "id": "MES_10_02",
+      "type": "CAUSE_EFFECT",
+      "title": "Ур-Намму и новое объединение",
+      "description": "Бюрократия, право и распад державы",
+      "cards": [
+        "PER_MES_014",
+        "PER_MES_015",
+        "STATE_MES_003"
+      ],
+      "unlockCards": [
+        "PER_MES_015"
+      ],
+      "xp": 114,
+      "emoji": "♜",
+      "chapterId": "MES_CHAPTER_10",
+      "lessonId": "MES_10_02"
+    },
+    {
+      "id": "MES_10_03",
+      "type": "MATCH",
+      "title": "Шульги и бюрократическое государство",
+      "description": "Бюрократия, право и распад державы",
+      "cards": [
+        "PER_MES_015",
+        "STATE_MES_003",
+        "LAW_MES_001"
+      ],
+      "unlockCards": [
+        "STATE_MES_003"
+      ],
+      "xp": 126,
+      "emoji": "▦",
+      "chapterId": "MES_CHAPTER_10",
+      "lessonId": "MES_10_03"
+    },
+    {
+      "id": "MES_10_04",
+      "type": "SOURCE",
+      "title": "Законы, налоги и труд",
+      "description": "Бюрократия, право и распад державы",
+      "cards": [
+        "STATE_MES_003",
+        "LAW_MES_001",
+        "ART_MES_008"
+      ],
+      "unlockCards": [
+        "LAW_MES_001"
+      ],
+      "xp": 138,
+      "emoji": "§",
+      "chapterId": "MES_CHAPTER_10",
+      "lessonId": "MES_10_04"
+    },
+    {
+      "id": "MES_10_05",
+      "type": "TIMELINE",
+      "title": "От Аккада к падению Ура",
+      "description": "Бюрократия, право и распад державы",
+      "cards": [
+        "LAW_MES_001",
+        "ART_MES_008",
+        "SYS_MES_006"
+      ],
+      "unlockCards": [
+        "ART_MES_008"
+      ],
+      "xp": 150,
+      "emoji": "⌛",
+      "chapterId": "MES_CHAPTER_10",
+      "lessonId": "MES_10_05",
+      "timeline": {
+        "order": [
+          "c10_0",
+          "c10_1",
+          "c10_2",
+          "c10_3"
+        ],
+        "labels": {
+          "c10_0": "XXII век до н. э. · Гудеа и вторая династия Лагаша",
+          "c10_1": "ок. 2112 до н. э. · Ур-Намму основывает III династию Ура",
+          "c10_2": "ок. 2094–2047 до н. э. · Долгое правление Шульги",
+          "c10_3": "ок. 2004 до н. э. · Падение Ура"
+        },
+        "shuffle": [
+          "c10_3",
+          "c10_2",
+          "c10_1",
+          "c10_0"
+        ]
+      }
+    },
+    {
+      "id": "MES_10_06",
+      "type": "FINAL",
+      "title": "Финал Месопотамии",
+      "description": "Бюрократия, право и распад державы",
+      "cards": [
+        "ART_MES_008",
+        "SYS_MES_006",
+        "EVT_MES_006"
+      ],
+      "unlockCards": [
+        "SYS_MES_006"
+      ],
+      "xp": 162,
+      "emoji": "🏛",
+      "chapterId": "MES_CHAPTER_10",
+      "lessonId": "MES_10_06",
+      "quiz": "QUIZ_MES_CH10"
     }
   ]
 }

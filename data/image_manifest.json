@@ -888,5 +888,645 @@
     "cardId": "PER_ITA_005",
     "local": "assets/cards/rome/chapter_03/per_ita_005.svg",
     "source": "https://ru.wikipedia.org/wiki/%D0%90%D0%BF%D0%BF%D0%B8%D0%B9_%D0%9A%D0%BB%D0%B0%D0%B2%D0%B4%D0%B8%D0%B9_%D0%A6%D0%B5%D0%BA"
+  },
+  {
+    "card_id": "ART_MES_006",
+    "title": "Протоклинописная табличка",
+    "file": "art_mes_006.svg",
+    "local": "assets/cards/mesopotamia/art_mes_006.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "SYS_MES_005",
+    "title": "Рождение письма",
+    "file": "sys_mes_005.svg",
+    "local": "assets/cards/mesopotamia/sys_mes_005.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "TERM_MES_014",
+    "title": "Клинопись",
+    "file": "term_mes_014.svg",
+    "local": "assets/cards/mesopotamia/term_mes_014.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_MES_001",
+    "title": "Писец",
+    "file": "per_mes_001.svg",
+    "local": "assets/cards/mesopotamia/per_mes_001.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ORG_MES_002",
+    "title": "Школа писцов",
+    "file": "org_mes_002.svg",
+    "local": "assets/cards/mesopotamia/org_mes_002.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "TEXT_MES_001",
+    "title": "Лексический список",
+    "file": "text_mes_001.svg",
+    "local": "assets/cards/mesopotamia/text_mes_001.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "LANG_MES_001",
+    "title": "Шумерский язык",
+    "file": "lang_mes_001.svg",
+    "local": "assets/cards/mesopotamia/lang_mes_001.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "LANG_MES_002",
+    "title": "Аккадский язык",
+    "file": "lang_mes_002.svg",
+    "local": "assets/cards/mesopotamia/lang_mes_002.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "CITY_MES_006",
+    "title": "Ур",
+    "file": "city_mes_006.svg",
+    "local": "assets/cards/mesopotamia/city_mes_006.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "CITY_MES_007",
+    "title": "Лагаш",
+    "file": "city_mes_007.svg",
+    "local": "assets/cards/mesopotamia/city_mes_007.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "CITY_MES_008",
+    "title": "Киш",
+    "file": "city_mes_008.svg",
+    "local": "assets/cards/mesopotamia/city_mes_008.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "CITY_MES_009",
+    "title": "Ниппур",
+    "file": "city_mes_009.svg",
+    "local": "assets/cards/mesopotamia/city_mes_009.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "CITY_MES_010",
+    "title": "Умма",
+    "file": "city_mes_010.svg",
+    "local": "assets/cards/mesopotamia/city_mes_010.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "STATE_MES_001",
+    "title": "Шумерский город-государство",
+    "file": "state_mes_001.svg",
+    "local": "assets/cards/mesopotamia/state_mes_001.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "REL_MES_002",
+    "title": "Городской бог-покровитель",
+    "file": "rel_mes_002.svg",
+    "local": "assets/cards/mesopotamia/rel_mes_002.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "EVT_MES_004",
+    "title": "Пограничные войны Лагаша и Уммы",
+    "file": "evt_mes_004.svg",
+    "local": "assets/cards/mesopotamia/evt_mes_004.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_MES_002",
+    "title": "Гильгамеш",
+    "file": "per_mes_002.svg",
+    "local": "assets/cards/mesopotamia/per_mes_002.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_MES_003",
+    "title": "Энмеркар",
+    "file": "per_mes_003.svg",
+    "local": "assets/cards/mesopotamia/per_mes_003.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_MES_004",
+    "title": "Лугальбанда",
+    "file": "per_mes_004.svg",
+    "local": "assets/cards/mesopotamia/per_mes_004.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_MES_005",
+    "title": "Эаннатум",
+    "file": "per_mes_005.svg",
+    "local": "assets/cards/mesopotamia/per_mes_005.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_MES_006",
+    "title": "Энтемена",
+    "file": "per_mes_006.svg",
+    "local": "assets/cards/mesopotamia/per_mes_006.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_MES_007",
+    "title": "Урукагина",
+    "file": "per_mes_007.svg",
+    "local": "assets/cards/mesopotamia/per_mes_007.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "TERM_MES_015",
+    "title": "Лугаль",
+    "file": "term_mes_015.svg",
+    "local": "assets/cards/mesopotamia/term_mes_015.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "TERM_MES_016",
+    "title": "Энси",
+    "file": "term_mes_016.svg",
+    "local": "assets/cards/mesopotamia/term_mes_016.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_MES_008",
+    "title": "Саргон Аккадский",
+    "file": "per_mes_008.svg",
+    "local": "assets/cards/mesopotamia/per_mes_008.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "STATE_MES_002",
+    "title": "Аккадская держава",
+    "file": "state_mes_002.svg",
+    "local": "assets/cards/mesopotamia/state_mes_002.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "CITY_MES_011",
+    "title": "Аккад",
+    "file": "city_mes_011.svg",
+    "local": "assets/cards/mesopotamia/city_mes_011.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_MES_009",
+    "title": "Римуш",
+    "file": "per_mes_009.svg",
+    "local": "assets/cards/mesopotamia/per_mes_009.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_MES_010",
+    "title": "Маништушу",
+    "file": "per_mes_010.svg",
+    "local": "assets/cards/mesopotamia/per_mes_010.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_MES_011",
+    "title": "Нарам-Суэн",
+    "file": "per_mes_011.svg",
+    "local": "assets/cards/mesopotamia/per_mes_011.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_MES_012",
+    "title": "Энхедуанна",
+    "file": "per_mes_012.svg",
+    "local": "assets/cards/mesopotamia/per_mes_012.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "EVT_MES_005",
+    "title": "Распад Аккадской державы",
+    "file": "evt_mes_005.svg",
+    "local": "assets/cards/mesopotamia/evt_mes_005.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_MES_013",
+    "title": "Гудеа",
+    "file": "per_mes_013.svg",
+    "local": "assets/cards/mesopotamia/per_mes_013.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_MES_014",
+    "title": "Ур-Намму",
+    "file": "per_mes_014.svg",
+    "local": "assets/cards/mesopotamia/per_mes_014.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PER_MES_015",
+    "title": "Шульги",
+    "file": "per_mes_015.svg",
+    "local": "assets/cards/mesopotamia/per_mes_015.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "STATE_MES_003",
+    "title": "Государство Ур III",
+    "file": "state_mes_003.svg",
+    "local": "assets/cards/mesopotamia/state_mes_003.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "LAW_MES_001",
+    "title": "Законы Ур-Намму",
+    "file": "law_mes_001.svg",
+    "local": "assets/cards/mesopotamia/law_mes_001.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ART_MES_008",
+    "title": "Зиккурат Ура",
+    "file": "art_mes_008.svg",
+    "local": "assets/cards/mesopotamia/art_mes_008.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "SYS_MES_006",
+    "title": "Система бала",
+    "file": "sys_mes_006.svg",
+    "local": "assets/cards/mesopotamia/sys_mes_006.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "EVT_MES_006",
+    "title": "Падение Ур III",
+    "file": "evt_mes_006.svg",
+    "local": "assets/cards/mesopotamia/evt_mes_006.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ART_MES_A028",
+    "title": "Глиняная табличка",
+    "file": "art_mes_a028.svg",
+    "local": "assets/cards/mesopotamia/art_mes_a028.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ART_MES_A029",
+    "title": "Тростниковый стилус",
+    "file": "art_mes_a029.svg",
+    "local": "assets/cards/mesopotamia/art_mes_a029.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "TERM_MES_A028",
+    "title": "Числовые системы Месопотамии",
+    "file": "term_mes_a028.svg",
+    "local": "assets/cards/mesopotamia/term_mes_a028.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "TERM_MES_A029",
+    "title": "Детерминатив",
+    "file": "term_mes_a029.svg",
+    "local": "assets/cards/mesopotamia/term_mes_a029.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "TERM_MES_A030",
+    "title": "Ребусный принцип",
+    "file": "term_mes_a030.svg",
+    "local": "assets/cards/mesopotamia/term_mes_a030.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "TEXT_MES_A028",
+    "title": "Список профессий",
+    "file": "text_mes_a028.svg",
+    "local": "assets/cards/mesopotamia/text_mes_a028.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ART_MES_A030",
+    "title": "Учебная табличка",
+    "file": "art_mes_a030.svg",
+    "local": "assets/cards/mesopotamia/art_mes_a030.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "TERM_MES_A031",
+    "title": "Колофон",
+    "file": "term_mes_a031.svg",
+    "local": "assets/cards/mesopotamia/term_mes_a031.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "CITY_MES_A007",
+    "title": "Гирсу",
+    "file": "city_mes_a007.svg",
+    "local": "assets/cards/mesopotamia/city_mes_a007.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "LOC_MES_A001",
+    "title": "Царское кладбище Ура",
+    "file": "loc_mes_a001.svg",
+    "local": "assets/cards/mesopotamia/loc_mes_a001.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ART_MES_A031",
+    "title": "Штандарт из Ура",
+    "file": "art_mes_a031.svg",
+    "local": "assets/cards/mesopotamia/art_mes_a031.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ART_MES_A032",
+    "title": "Лиры Ура",
+    "file": "art_mes_a032.svg",
+    "local": "assets/cards/mesopotamia/art_mes_a032.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "REL_MES_A001",
+    "title": "Нанна",
+    "file": "rel_mes_a001.svg",
+    "local": "assets/cards/mesopotamia/rel_mes_a001.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "REL_MES_A002",
+    "title": "Энлиль",
+    "file": "rel_mes_a002.svg",
+    "local": "assets/cards/mesopotamia/rel_mes_a002.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "REL_MES_A003",
+    "title": "Инанна",
+    "file": "rel_mes_a003.svg",
+    "local": "assets/cards/mesopotamia/rel_mes_a003.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "TERM_MES_A032",
+    "title": "Пограничный канал",
+    "file": "term_mes_a032.svg",
+    "local": "assets/cards/mesopotamia/term_mes_a032.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "TEXT_MES_A029",
+    "title": "Шумерский царский список",
+    "file": "text_mes_a029.svg",
+    "local": "assets/cards/mesopotamia/text_mes_a029.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ART_MES_A033",
+    "title": "Стела коршунов",
+    "file": "art_mes_a033.svg",
+    "local": "assets/cards/mesopotamia/art_mes_a033.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "TERM_MES_A033",
+    "title": "Плотный строй копейщиков",
+    "file": "term_mes_a033.svg",
+    "local": "assets/cards/mesopotamia/term_mes_a033.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "TEXT_MES_A030",
+    "title": "Царская надпись",
+    "file": "text_mes_a030.svg",
+    "local": "assets/cards/mesopotamia/text_mes_a030.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ART_MES_A034",
+    "title": "Закладной конус",
+    "file": "art_mes_a034.svg",
+    "local": "assets/cards/mesopotamia/art_mes_a034.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "TEXT_MES_A031",
+    "title": "Храмовый гимн",
+    "file": "text_mes_a031.svg",
+    "local": "assets/cards/mesopotamia/text_mes_a031.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ART_MES_A035",
+    "title": "Печать с пиром",
+    "file": "art_mes_a035.svg",
+    "local": "assets/cards/mesopotamia/art_mes_a035.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ART_MES_A036",
+    "title": "Вотивная статуэтка",
+    "file": "art_mes_a036.svg",
+    "local": "assets/cards/mesopotamia/art_mes_a036.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ART_MES_A037",
+    "title": "Стела победы Нарам-Суэна",
+    "file": "art_mes_a037.svg",
+    "local": "assets/cards/mesopotamia/art_mes_a037.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "TERM_MES_A034",
+    "title": "Обожествление царя",
+    "file": "term_mes_a034.svg",
+    "local": "assets/cards/mesopotamia/term_mes_a034.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "LANG_MES_A001",
+    "title": "Староаккадский язык",
+    "file": "lang_mes_a001.svg",
+    "local": "assets/cards/mesopotamia/lang_mes_a001.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "SYS_MES_A001",
+    "title": "Имперский наместник",
+    "file": "sys_mes_a001.svg",
+    "local": "assets/cards/mesopotamia/sys_mes_a001.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "TERM_MES_A035",
+    "title": "Постоянное царское войско",
+    "file": "term_mes_a035.svg",
+    "local": "assets/cards/mesopotamia/term_mes_a035.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "EVT_MES_A001",
+    "title": "Великое восстание против Нарам-Суэна",
+    "file": "evt_mes_a001.svg",
+    "local": "assets/cards/mesopotamia/evt_mes_a001.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PEOPLE_MES_A001",
+    "title": "Гутии",
+    "file": "people_mes_a001.svg",
+    "local": "assets/cards/mesopotamia/people_mes_a001.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ART_MES_A038",
+    "title": "Обелиск Маништушу",
+    "file": "art_mes_a038.svg",
+    "local": "assets/cards/mesopotamia/art_mes_a038.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ART_MES_A039",
+    "title": "Статуи Гудеа",
+    "file": "art_mes_a039.svg",
+    "local": "assets/cards/mesopotamia/art_mes_a039.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ART_MES_A040",
+    "title": "Стела Ур-Намму",
+    "file": "art_mes_a040.svg",
+    "local": "assets/cards/mesopotamia/art_mes_a040.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "TEXT_MES_A032",
+    "title": "Гимны Шульги",
+    "file": "text_mes_a032.svg",
+    "local": "assets/cards/mesopotamia/text_mes_a032.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ART_MES_A041",
+    "title": "Административная табличка Ур III",
+    "file": "art_mes_a041.svg",
+    "local": "assets/cards/mesopotamia/art_mes_a041.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "SYS_MES_A002",
+    "title": "Трудовая повинность",
+    "file": "sys_mes_a002.svg",
+    "local": "assets/cards/mesopotamia/sys_mes_a002.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "PEOPLE_MES_A002",
+    "title": "Амореи",
+    "file": "people_mes_a002.svg",
+    "local": "assets/cards/mesopotamia/people_mes_a002.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "STATE_MES_A001",
+    "title": "Элам",
+    "file": "state_mes_a001.svg",
+    "local": "assets/cards/mesopotamia/state_mes_a001.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
+  },
+  {
+    "card_id": "ART_MES_A042",
+    "title": "Стена против амореев",
+    "file": "art_mes_a042.svg",
+    "local": "assets/cards/mesopotamia/art_mes_a042.svg",
+    "credit": "Codex of History · локальная учебная обложка",
+    "license": "Project asset"
   }
 ]

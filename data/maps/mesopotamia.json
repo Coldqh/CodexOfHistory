@@ -47,6 +47,38 @@
     "PERSIAN_GULF": [
       29.5,
       48.0
+    ],
+    "UR": [
+      30.962,
+      46.103
+    ],
+    "LAGASH": [
+      31.416,
+      46.408
+    ],
+    "GIRSU": [
+      31.56,
+      46.17
+    ],
+    "UMMA": [
+      31.66,
+      45.88
+    ],
+    "KISH": [
+      32.55,
+      44.65
+    ],
+    "NIPPUR": [
+      32.126,
+      45.235
+    ],
+    "AKKAD_APPROX": [
+      33.1,
+      44.4
+    ],
+    "SUSA_AKKAD": [
+      32.19,
+      48.26
     ]
   },
   "regions": {},
@@ -289,6 +321,134 @@
     "TERM_MESA_027": [
       31.32,
       45.64
-    ]
+    ],
+    "ART_MES_006": [
+      31.322,
+      45.637
+    ],
+    "SYS_MES_005": [
+      31.322,
+      45.637
+    ],
+    "TERM_MES_014": "URUK",
+    "PER_MES_001": "URUK",
+    "ORG_MES_002": "URUK",
+    "TEXT_MES_001": "URUK",
+    "LANG_MES_001": "URUK",
+    "LANG_MES_002": "URUK",
+    "CITY_MES_006": [
+      30.962,
+      46.103
+    ],
+    "CITY_MES_007": [
+      31.416,
+      46.408
+    ],
+    "CITY_MES_008": [
+      32.55,
+      44.65
+    ],
+    "CITY_MES_009": [
+      32.126,
+      45.235
+    ],
+    "CITY_MES_010": [
+      31.66,
+      45.88
+    ],
+    "STATE_MES_001": "NIPPUR",
+    "REL_MES_002": "NIPPUR",
+    "EVT_MES_004": "NIPPUR",
+    "PER_MES_002": [
+      31.322,
+      45.637
+    ],
+    "PER_MES_003": "LAGASH",
+    "PER_MES_004": "LAGASH",
+    "PER_MES_005": [
+      31.416,
+      46.408
+    ],
+    "PER_MES_006": "LAGASH",
+    "PER_MES_007": "LAGASH",
+    "TERM_MES_015": "LAGASH",
+    "TERM_MES_016": "LAGASH",
+    "PER_MES_008": [
+      33.1,
+      44.4
+    ],
+    "STATE_MES_002": "AKKAD_APPROX",
+    "CITY_MES_011": [
+      33.1,
+      44.4
+    ],
+    "PER_MES_009": "AKKAD_APPROX",
+    "PER_MES_010": "AKKAD_APPROX",
+    "PER_MES_011": "AKKAD_APPROX",
+    "PER_MES_012": [
+      30.962,
+      46.103
+    ],
+    "EVT_MES_005": "AKKAD_APPROX",
+    "PER_MES_013": [
+      31.416,
+      46.408
+    ],
+    "PER_MES_014": [
+      30.962,
+      46.103
+    ],
+    "PER_MES_015": [
+      30.962,
+      46.103
+    ],
+    "STATE_MES_003": "UR",
+    "LAW_MES_001": "UR",
+    "ART_MES_008": [
+      30.962,
+      46.103
+    ],
+    "SYS_MES_006": "UR",
+    "EVT_MES_006": "UR",
+    "ART_MES_A028": "URUK",
+    "ART_MES_A029": "URUK",
+    "TERM_MES_A028": "URUK",
+    "TERM_MES_A029": "URUK",
+    "TERM_MES_A030": "URUK",
+    "TEXT_MES_A028": "URUK",
+    "ART_MES_A030": "URUK",
+    "TERM_MES_A031": "URUK",
+    "CITY_MES_A007": "NIPPUR",
+    "LOC_MES_A001": "NIPPUR",
+    "ART_MES_A031": "NIPPUR",
+    "ART_MES_A032": "NIPPUR",
+    "REL_MES_A001": "NIPPUR",
+    "REL_MES_A002": "NIPPUR",
+    "REL_MES_A003": "NIPPUR",
+    "TERM_MES_A032": "NIPPUR",
+    "TEXT_MES_A029": "LAGASH",
+    "ART_MES_A033": "LAGASH",
+    "TERM_MES_A033": "LAGASH",
+    "TEXT_MES_A030": "LAGASH",
+    "ART_MES_A034": "LAGASH",
+    "TEXT_MES_A031": "LAGASH",
+    "ART_MES_A035": "LAGASH",
+    "ART_MES_A036": "LAGASH",
+    "ART_MES_A037": "AKKAD_APPROX",
+    "TERM_MES_A034": "AKKAD_APPROX",
+    "LANG_MES_A001": "AKKAD_APPROX",
+    "SYS_MES_A001": "AKKAD_APPROX",
+    "TERM_MES_A035": "AKKAD_APPROX",
+    "EVT_MES_A001": "AKKAD_APPROX",
+    "PEOPLE_MES_A001": "AKKAD_APPROX",
+    "ART_MES_A038": "AKKAD_APPROX",
+    "ART_MES_A039": "UR",
+    "ART_MES_A040": "UR",
+    "TEXT_MES_A032": "UR",
+    "ART_MES_A041": "UR",
+    "SYS_MES_A002": "UR",
+    "PEOPLE_MES_A002": "UR",
+    "STATE_MES_A001": "UR",
+    "ART_MES_A042": "UR"
   }
 }

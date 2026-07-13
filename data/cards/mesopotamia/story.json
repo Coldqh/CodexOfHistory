@@ -1902,5 +1902,2125 @@
     "acquisition": "CAMPAIGN",
     "campaign": "MESOPOTAMIA",
     "chapter": "MES_CHAPTER_05"
+  },
+  {
+    "id": "ART_MES_006",
+    "type": "ARTIFACT",
+    "title": "Протоклинописная табличка",
+    "original": "Протоклинописная табличка",
+    "subtitle": "учёт до полноценного письма",
+    "era": "Рождение письменности",
+    "region": "Урук",
+    "date": "ок. 3400–3200 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Ранняя глиняная запись со знаками товаров, чисел и административных операций.",
+    "importance": "Показывает, что письмо возникало из практик учёта, а не как готовая литературная система.",
+    "facts": [
+      "Ранние таблички фиксировали зерно, животных, работников и выдачи.",
+      "Знаки сначала были тесно связаны с предметами и числами.",
+      "Чтение многих протоклинописных записей остаётся частичным."
+    ],
+    "tags": [
+      "письмо",
+      "учёт",
+      "источник"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mes_006.svg",
+      "caption": "Учебная обложка: Протоклинописная табличка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_mes_006.svg"
+    },
+    "source": {
+      "title": "Протоклинопись — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BB%D0%B8%D0%BD%D0%BE%D0%BF%D0%B8%D1%81%D1%8C",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_06",
+    "loc": {
+      "label": "Протоклинописная табличка",
+      "lat": 31.322,
+      "lng": 45.637
+    }
+  },
+  {
+    "id": "SYS_MES_005",
+    "type": "SYSTEM",
+    "title": "Рождение письма",
+    "original": "Рождение письма",
+    "subtitle": "от счётных знаков к записи языка",
+    "era": "Рождение письменности",
+    "region": "Южная Месопотамия",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 10,
+    "summary": "Долгий переход от числового и предметного учёта к системе, способной передавать язык.",
+    "importance": "Письмо изменило масштаб управления и создало новый слой долговременной памяти.",
+    "facts": [
+      "Ранние записи были прежде всего административными.",
+      "Клинописные системы позднее применялись к разным языкам.",
+      "Литература появилась после длительного развития письменной практики."
+    ],
+    "tags": [
+      "письмо",
+      "управление",
+      "культура"
+    ],
+    "stats": {
+      "influence": 11,
+      "complexity": 9,
+      "legacy": 10,
+      "military": 1,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/sys_mes_005.svg",
+      "caption": "Учебная обложка: Рождение письма",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_mes_005.svg"
+    },
+    "source": {
+      "title": "Клинопись — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%BD%D0%BE%D0%BF%D0%B8%D1%81%D1%8C",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_06",
+    "loc": {
+      "label": "Рождение письма",
+      "lat": 31.322,
+      "lng": 45.637
+    }
+  },
+  {
+    "id": "TERM_MES_014",
+    "type": "TERM",
+    "title": "Клинопись",
+    "original": "Клинопись",
+    "subtitle": "письмо тростниковым стилусом по глине",
+    "era": "Рождение письменности",
+    "region": "Месопотамия",
+    "date": "ок. 3200 до н. э. — I век н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Система письма, знаки которой вдавливали в мягкую глину клиновидным стилусом.",
+    "importance": "Клинопись использовали шумеры, аккадцы, вавилоняне, ассирийцы и другие общества.",
+    "facts": [
+      "Название описывает форму оттисков, а не один язык.",
+      "Таблички могли сушить или обжигать.",
+      "Система менялась на протяжении тысячелетий."
+    ],
+    "tags": [
+      "письмо",
+      "глина",
+      "знаки"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mes_014.svg",
+      "caption": "Учебная обложка: Клинопись",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_mes_014.svg"
+    },
+    "source": {
+      "title": "Клинопись — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%BD%D0%BE%D0%BF%D0%B8%D1%81%D1%8C",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_06"
+  },
+  {
+    "id": "PER_MES_001",
+    "type": "PERSON",
+    "title": "Писец",
+    "original": "Писец",
+    "subtitle": "специалист по письму и учёту",
+    "era": "Рождение письменности",
+    "region": "Месопотамия",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Обученный специалист, составлявший хозяйственные, юридические, царские и литературные тексты.",
+    "importance": "Писцы связывали повседневное управление с долговременной письменной традицией.",
+    "facts": [
+      "Обучение требовало освоения сотен знаков.",
+      "Писцы работали при учреждениях, дворах и хозяйствах.",
+      "Не каждый текст был литературным или религиозным."
+    ],
+    "tags": [
+      "профессия",
+      "письмо",
+      "образование"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 2,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/per_mes_001.svg",
+      "caption": "Учебная обложка: Писец",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_mes_001.svg"
+    },
+    "source": {
+      "title": "Писец — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%81%D0%B5%D1%86",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_06"
+  },
+  {
+    "id": "ORG_MES_002",
+    "type": "INSTITUTION",
+    "title": "Школа писцов",
+    "original": "Школа писцов",
+    "subtitle": "традиция обучения письму",
+    "era": "Рождение письменности",
+    "region": "Месопотамия",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Среда подготовки писцов через копирование знаков, словарных списков и образцов текстов.",
+    "importance": "Школьные упражнения сохранили этапы обучения и способы передачи знаний.",
+    "facts": [
+      "Термин «эдубба» особенно известен по более поздним текстам.",
+      "Ученики копировали знаки и списки слов.",
+      "Археологи находят учебные таблички с ошибками и повторами."
+    ],
+    "tags": [
+      "образование",
+      "писцы",
+      "таблички"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/org_mes_002.svg",
+      "caption": "Учебная обложка: Школа писцов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "org_mes_002.svg"
+    },
+    "source": {
+      "title": "Эдубба — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%B4%D1%83%D0%B1%D0%B1%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_06"
+  },
+  {
+    "id": "TEXT_MES_001",
+    "type": "TEXT",
+    "title": "Лексический список",
+    "original": "Лексический список",
+    "subtitle": "упорядоченный перечень слов и знаков",
+    "era": "Рождение письменности",
+    "region": "Месопотамия",
+    "date": "конец IV–III тысячелетия до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Табличка с перечнями профессий, животных, сосудов, растений или знаков.",
+    "importance": "Списки помогали обучению, классификации и стандартизации письменной культуры.",
+    "facts": [
+      "Некоторые списки восходят к урукскому времени.",
+      "Они не являются словарями в современном смысле.",
+      "Копирование списков стало важной школьной практикой."
+    ],
+    "tags": [
+      "текст",
+      "обучение",
+      "классификация"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/text_mes_001.svg",
+      "caption": "Учебная обложка: Лексический список",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "text_mes_001.svg"
+    },
+    "source": {
+      "title": "Лексические списки — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%BD%D0%BE%D0%BF%D0%B8%D1%81%D1%8C",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_06"
+  },
+  {
+    "id": "LANG_MES_001",
+    "type": "LANGUAGE",
+    "title": "Шумерский язык",
+    "original": "Шумерский язык",
+    "subtitle": "язык южной Месопотамии",
+    "era": "Рождение письменности",
+    "region": "Шумер",
+    "date": "III тысячелетие до н. э. и позднее",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Древний язык, не имеющий доказанного близкого родства с известными языковыми семьями.",
+    "importance": "На шумерском записаны хозяйственные документы, царские надписи и большая литературная традиция.",
+    "facts": [
+      "Шумерский считается языковым изолятом.",
+      "После исчезновения из повседневной речи он сохранялся в учёной традиции.",
+      "Ранние записи не всегда передают грамматику полностью."
+    ],
+    "tags": [
+      "язык",
+      "шумеры",
+      "письмо"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/lang_mes_001.svg",
+      "caption": "Учебная обложка: Шумерский язык",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lang_mes_001.svg"
+    },
+    "source": {
+      "title": "Шумерский язык — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D0%BC%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_06"
+  },
+  {
+    "id": "LANG_MES_002",
+    "type": "LANGUAGE",
+    "title": "Аккадский язык",
+    "original": "Аккадский язык",
+    "subtitle": "семитский язык клинописной традиции",
+    "era": "Рождение письменности",
+    "region": "Месопотамия",
+    "date": "III тысячелетие до н. э. — I тысячелетие н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Восточносемитский язык, записывавшийся клинописью и позднее развившийся в вавилонский и ассирийский варианты.",
+    "importance": "Его адаптация к клинописи показывает, что одна письменная система могла обслуживать разные языки.",
+    "facts": [
+      "Аккадский засвидетельствован с III тысячелетия до н. э.",
+      "Он сосуществовал с шумерским.",
+      "Позднее стал языком международной дипломатии."
+    ],
+    "tags": [
+      "язык",
+      "аккадцы",
+      "клинопись"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/lang_mes_002.svg",
+      "caption": "Учебная обложка: Аккадский язык",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lang_mes_002.svg"
+    },
+    "source": {
+      "title": "Аккадский язык — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%BA%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_06"
+  },
+  {
+    "id": "CITY_MES_006",
+    "type": "CITY",
+    "title": "Ур",
+    "original": "Ур",
+    "subtitle": "город бога Нанны",
+    "era": "Мир шумерских городов",
+    "region": "Южная Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Крупный шумерский город у древних русел Евфрата, известный царским кладбищем и поздней столицей Ур III.",
+    "importance": "Ур показывает богатство, религиозную роль и сложность городских обществ III тысячелетия.",
+    "facts": [
+      "Город был связан с культом лунного бога Нанны.",
+      "Царское кладбище содержит богатые погребения раннединастического времени.",
+      "Позднее Ур стал центром государства Ур III."
+    ],
+    "tags": [
+      "город",
+      "Шумер",
+      "археология"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/city_mes_006.svg",
+      "caption": "Учебная обложка: Ур",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "city_mes_006.svg"
+    },
+    "source": {
+      "title": "Ур — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A3%D1%80",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_07",
+    "loc": {
+      "label": "Ур",
+      "lat": 30.962,
+      "lng": 46.103
+    }
+  },
+  {
+    "id": "CITY_MES_007",
+    "type": "CITY",
+    "title": "Лагаш",
+    "original": "Лагаш",
+    "subtitle": "городское государство у болот",
+    "era": "Мир шумерских городов",
+    "region": "Южная Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Политическое образование, связанное с городами Лагаш, Гирсу и Нина.",
+    "importance": "Документы и памятники Лагаша подробно показывают войны, хозяйство и царскую идеологию.",
+    "facts": [
+      "Политический центр в разные периоды связывался с Гирсу.",
+      "Лагаш соперничал с Уммой из-за пограничных земель.",
+      "Позднее с регионом связан правитель Гудеа."
+    ],
+    "tags": [
+      "город",
+      "война",
+      "Шумер"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/city_mes_007.svg",
+      "caption": "Учебная обложка: Лагаш",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "city_mes_007.svg"
+    },
+    "source": {
+      "title": "Лагаш — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B3%D0%B0%D1%88",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_07",
+    "loc": {
+      "label": "Лагаш",
+      "lat": 31.416,
+      "lng": 46.408
+    }
+  },
+  {
+    "id": "CITY_MES_008",
+    "type": "CITY",
+    "title": "Киш",
+    "original": "Киш",
+    "subtitle": "город царского престижа",
+    "era": "Мир шумерских городов",
+    "region": "Центральная Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Важный город, чьё имя в титуле «царь Киша» стало знаком широкой политической претензии.",
+    "importance": "Киш связывает локальную власть с идеей надгородского первенства.",
+    "facts": [
+      "Город находился севернее основных шумерских центров.",
+      "Титул царя Киша использовали правители других городов.",
+      "Ранние династические традиции Киша частично легендарны."
+    ],
+    "tags": [
+      "город",
+      "царская власть",
+      "титул"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/city_mes_008.svg",
+      "caption": "Учебная обложка: Киш",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "city_mes_008.svg"
+    },
+    "source": {
+      "title": "Киш — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%88_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_07",
+    "loc": {
+      "label": "Киш",
+      "lat": 32.55,
+      "lng": 44.65
+    }
+  },
+  {
+    "id": "CITY_MES_009",
+    "type": "CITY",
+    "title": "Ниппур",
+    "original": "Ниппур",
+    "subtitle": "религиозный центр Энлиля",
+    "era": "Мир шумерских городов",
+    "region": "Центральная Месопотамия",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Город, связанный с главным святилищем Энлиля и особым религиозным авторитетом.",
+    "importance": "Контроль или покровительство Ниппуру помогали правителям обосновывать общешумерскую власть.",
+    "facts": [
+      "Ниппур редко был столицей крупной державы.",
+      "Его храм Экур был центром культа Энлиля.",
+      "В городе найдено множество литературных и школьных табличек."
+    ],
+    "tags": [
+      "город",
+      "религия",
+      "Энлиль"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 3,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/city_mes_009.svg",
+      "caption": "Учебная обложка: Ниппур",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "city_mes_009.svg"
+    },
+    "source": {
+      "title": "Ниппур — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BF%D0%BF%D1%83%D1%80",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_07",
+    "loc": {
+      "label": "Ниппур",
+      "lat": 32.126,
+      "lng": 45.235
+    }
+  },
+  {
+    "id": "CITY_MES_010",
+    "type": "CITY",
+    "title": "Умма",
+    "original": "Умма",
+    "subtitle": "соперник Лагаша",
+    "era": "Мир шумерских городов",
+    "region": "Южная Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Шумерский город, известный по длительному пограничному конфликту с Лагашем.",
+    "importance": "Умма показывает, что каналы, поля и границы были политическими вопросами.",
+    "facts": [
+      "Конфликт касался плодородной области Гуэдена.",
+      "О нём известно главным образом из надписей Лагаша.",
+      "Позднее правитель Уммы Лугальзагеси создал крупное объединение."
+    ],
+    "tags": [
+      "город",
+      "граница",
+      "война"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/city_mes_010.svg",
+      "caption": "Учебная обложка: Умма",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "city_mes_010.svg"
+    },
+    "source": {
+      "title": "Умма — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BC%D0%BC%D0%B0_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_07",
+    "loc": {
+      "label": "Умма",
+      "lat": 31.66,
+      "lng": 45.88
+    }
+  },
+  {
+    "id": "STATE_MES_001",
+    "type": "STATE",
+    "title": "Шумерский город-государство",
+    "original": "Шумерский город-государство",
+    "subtitle": "город, земля и культовый центр",
+    "era": "Мир шумерских городов",
+    "region": "Южная Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Политическая система, в которой город и окружающая территория образовывали отдельный центр власти.",
+    "importance": "Города-государства объясняют дробность Шумера и постоянное сочетание конкуренции и общей культуры.",
+    "facts": [
+      "Каждый центр имел собственные учреждения и культ.",
+      "Границы и политическое влияние менялись.",
+      "Общая письменность и религиозные формы не означали единого государства."
+    ],
+    "tags": [
+      "государство",
+      "город",
+      "политика"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 2,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/state_mes_001.svg",
+      "caption": "Учебная обложка: Шумерский город-государство",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "state_mes_001.svg"
+    },
+    "source": {
+      "title": "Шумер — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D0%BC%D0%B5%D1%80",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_07"
+  },
+  {
+    "id": "REL_MES_002",
+    "type": "RELIGION",
+    "title": "Городской бог-покровитель",
+    "original": "Городской бог-покровитель",
+    "subtitle": "культ и идентичность города",
+    "era": "Мир шумерских городов",
+    "region": "Шумер",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Божество, чьё главное святилище и культ были связаны с конкретным городом.",
+    "importance": "Культ связывал территорию, хозяйство, царскую власть и городскую идентичность.",
+    "facts": [
+      "Ур связывали с Нанной, Урук — с Инанной, Ниппур — с Энлилем.",
+      "Правитель мог представлять себя строителем дома бога.",
+      "Местный культ входил в более широкую пантеонную систему."
+    ],
+    "tags": [
+      "религия",
+      "город",
+      "храм"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 3,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/rel_mes_002.svg",
+      "caption": "Учебная обложка: Городской бог-покровитель",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rel_mes_002.svg"
+    },
+    "source": {
+      "title": "Шумеро-аккадская мифология — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D0%BC%D0%B5%D1%80%D0%BE-%D0%B0%D0%BA%D0%BA%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_07"
+  },
+  {
+    "id": "EVT_MES_004",
+    "type": "EVENT",
+    "title": "Пограничные войны Лагаша и Уммы",
+    "original": "Пограничные войны Лагаша и Уммы",
+    "subtitle": "борьба за поля и каналы",
+    "era": "Мир шумерских городов",
+    "region": "Южная Месопотамия",
+    "date": "XXV–XXIV века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Серия конфликтов из-за области Гуэдена, известная по царским надписям и Стеле коршунов.",
+    "importance": "Это один из ранних подробно засвидетельствованных межгосударственных конфликтов.",
+    "facts": [
+      "Источники написаны преимущественно с точки зрения Лагаша.",
+      "Спор связывался с полями, каналами и установленной границей.",
+      "Цари представляли победы как исполнение воли богов."
+    ],
+    "tags": [
+      "война",
+      "граница",
+      "источник"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 2,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/evt_mes_004.svg",
+      "caption": "Учебная обложка: Пограничные войны Лагаша и Уммы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "evt_mes_004.svg"
+    },
+    "source": {
+      "title": "Лагаш — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B3%D0%B0%D1%88",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_07"
+  },
+  {
+    "id": "PER_MES_002",
+    "type": "PERSON",
+    "title": "Гильгамеш",
+    "original": "Гильгамеш",
+    "subtitle": "царь Урука и герой литературы",
+    "era": "Цари и ранние династии",
+    "region": "Урук",
+    "date": "предположительно XXVII век до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 10,
+    "summary": "Правитель, возможно имевший исторический прототип, и центральный герой поздней эпической традиции.",
+    "importance": "Гильгамеш позволяет различать исторического царя, культ предка и литературного героя.",
+    "facts": [
+      "Его имя включено в Шумерский царский список.",
+      "Ранние шумерские песни отличаются от позднего аккадского эпоса.",
+      "Археология не подтверждает детали эпических приключений."
+    ],
+    "tags": [
+      "царь",
+      "эпос",
+      "историческая память"
+    ],
+    "stats": {
+      "influence": 11,
+      "complexity": 9,
+      "legacy": 10,
+      "military": 2,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/per_mes_002.svg",
+      "caption": "Учебная обложка: Гильгамеш",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_mes_002.svg"
+    },
+    "source": {
+      "title": "Гильгамеш — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BB%D1%8C%D0%B3%D0%B0%D0%BC%D0%B5%D1%88",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_08",
+    "loc": {
+      "label": "Гильгамеш",
+      "lat": 31.322,
+      "lng": 45.637
+    }
+  },
+  {
+    "id": "PER_MES_003",
+    "type": "PERSON",
+    "title": "Энмеркар",
+    "original": "Энмеркар",
+    "subtitle": "легендарный царь Урука",
+    "era": "Цари и ранние династии",
+    "region": "Урук",
+    "date": "легендарная традиция",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Герой шумерских литературных произведений о соперничестве Урука с далёкой Араттой.",
+    "importance": "Тексты об Энмеркаре показывают, как поздние писцы представляли древность, торговлю и происхождение письма.",
+    "facts": [
+      "Он считается предшественником Лугальбанды и Гильгамеша.",
+      "Аратта не идентифицирована однозначно.",
+      "Рассказ о письме в эпосе не является документом его реального изобретения."
+    ],
+    "tags": [
+      "литература",
+      "Урук",
+      "легенда"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 2,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/per_mes_003.svg",
+      "caption": "Учебная обложка: Энмеркар",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_mes_003.svg"
+    },
+    "source": {
+      "title": "Энмеркар — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%BC%D0%B5%D1%80%D0%BA%D0%B0%D1%80",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_08"
+  },
+  {
+    "id": "PER_MES_004",
+    "type": "PERSON",
+    "title": "Лугальбанда",
+    "original": "Лугальбанда",
+    "subtitle": "герой и обожествлённый царь",
+    "era": "Цари и ранние династии",
+    "region": "Урук",
+    "date": "легендарная традиция",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Персонаж шумерских эпических песен, позднее почитавшийся как божественный предок.",
+    "importance": "Его образ помогает изучать превращение царской памяти в культ и литературу.",
+    "facts": [
+      "В литературе он связан с походом Энмеркара.",
+      "Гильгамеш представлен его сыном.",
+      "Историческая биография Лугальбанды не восстанавливается уверенно."
+    ],
+    "tags": [
+      "царь",
+      "культ",
+      "эпос"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 2,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/per_mes_004.svg",
+      "caption": "Учебная обложка: Лугальбанда",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_mes_004.svg"
+    },
+    "source": {
+      "title": "Лугальбанда — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9B%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D0%B1%D0%B0%D0%BD%D0%B4%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_08"
+  },
+  {
+    "id": "PER_MES_005",
+    "type": "PERSON",
+    "title": "Эаннатум",
+    "original": "Эаннатум",
+    "subtitle": "правитель Лагаша",
+    "era": "Цари и ранние династии",
+    "region": "Лагаш",
+    "date": "ок. XXV века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Правитель Лагаша, известный военными победами и Стелой коршунов.",
+    "importance": "Его памятники дают ранний пример визуальной и текстовой пропаганды победы.",
+    "facts": [
+      "Он заявлял о победе над Уммой и другими городами.",
+      "Стела сочетает земную битву и божественную сцену.",
+      "Надписи отражают позицию победителя."
+    ],
+    "tags": [
+      "царь",
+      "Лагаш",
+      "война"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 2,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/per_mes_005.svg",
+      "caption": "Учебная обложка: Эаннатум",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_mes_005.svg"
+    },
+    "source": {
+      "title": "Эаннатум — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%B0%D0%BD%D0%BD%D0%B0%D1%82%D1%83%D0%BC",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_08",
+    "loc": {
+      "label": "Эаннатум",
+      "lat": 31.416,
+      "lng": 46.408
+    }
+  },
+  {
+    "id": "PER_MES_006",
+    "type": "PERSON",
+    "title": "Энтемена",
+    "original": "Энтемена",
+    "subtitle": "правитель Лагаша и строитель",
+    "era": "Цари и ранние династии",
+    "region": "Лагаш",
+    "date": "ок. XXIV века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Правитель, продолживший борьбу за границу с Уммой и оставивший строительные надписи.",
+    "importance": "Его тексты помогают проследить длительность конфликтов и роль царя как строителя.",
+    "facts": [
+      "Он был племянником Эаннатума.",
+      "Известен серебряным сосудом с посвящением Нингирсу.",
+      "Его надписи пересказывают историю пограничного спора."
+    ],
+    "tags": [
+      "царь",
+      "строительство",
+      "граница"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 2,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/per_mes_006.svg",
+      "caption": "Учебная обложка: Энтемена",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_mes_006.svg"
+    },
+    "source": {
+      "title": "Энтемена — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D1%82%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_08"
+  },
+  {
+    "id": "PER_MES_007",
+    "type": "PERSON",
+    "title": "Урукагина",
+    "original": "Урукагина",
+    "subtitle": "реформатор Лагаша",
+    "era": "Цари и ранние династии",
+    "region": "Лагаш",
+    "date": "XXIV век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Правитель, чьи надписи описывают отмену злоупотреблений и восстановление справедливого порядка.",
+    "importance": "Тексты Урукагины важны для истории царской риторики реформ, но не являются нейтральным отчётом.",
+    "facts": [
+      "Надписи перечисляют поборы и злоупотребления.",
+      "Реформы представлены как возвращение божественного порядка.",
+      "Его правление завершилось поражением от Лугальзагеси."
+    ],
+    "tags": [
+      "реформа",
+      "царь",
+      "источник"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 2,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/per_mes_007.svg",
+      "caption": "Учебная обложка: Урукагина",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_mes_007.svg"
+    },
+    "source": {
+      "title": "Урукагина — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A3%D1%80%D1%83%D0%BA%D0%B0%D0%B3%D0%B8%D0%BD%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_08"
+  },
+  {
+    "id": "TERM_MES_015",
+    "type": "TERM",
+    "title": "Лугаль",
+    "original": "Лугаль",
+    "subtitle": "царский титул",
+    "era": "Цари и ранние династии",
+    "region": "Шумер",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Шумерское слово, обычно переводимое как «царь» и буквально связанное с образом «большого человека».",
+    "importance": "Титул показывает развитие военной и надгородской царской власти.",
+    "facts": [
+      "Значение титулов менялось по времени и городу.",
+      "Лугаль не всегда означал императора или абсолютного монарха.",
+      "В текстах он сосуществовал с титулом энси."
+    ],
+    "tags": [
+      "титул",
+      "царь",
+      "политика"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mes_015.svg",
+      "caption": "Учебная обложка: Лугаль",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_mes_015.svg"
+    },
+    "source": {
+      "title": "Лугаль — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9B%D1%83%D0%B3%D0%B0%D0%BB%D1%8C",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_08"
+  },
+  {
+    "id": "TERM_MES_016",
+    "type": "TERM",
+    "title": "Энси",
+    "original": "Энси",
+    "subtitle": "правитель или городской наместник",
+    "era": "Цари и ранние династии",
+    "region": "Шумер",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Титул правителя города, позднее также использовавшийся для зависимого наместника.",
+    "importance": "Разница между энси и лугалем помогает понять изменчивость шумерских политических институтов.",
+    "facts": [
+      "В раннее время энси мог быть самостоятельным правителем.",
+      "В крупных державах титул мог обозначать подчинённого губернатора.",
+      "Прямой перевод зависит от контекста."
+    ],
+    "tags": [
+      "титул",
+      "город",
+      "управление"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/term_mes_016.svg",
+      "caption": "Учебная обложка: Энси",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_mes_016.svg"
+    },
+    "source": {
+      "title": "Энси — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D1%81%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_08"
+  },
+  {
+    "id": "PER_MES_008",
+    "type": "PERSON",
+    "title": "Саргон Аккадский",
+    "original": "Саргон Аккадский",
+    "subtitle": "основатель Аккадской державы",
+    "era": "Саргон и Аккадская держава",
+    "region": "Аккад",
+    "date": "ок. 2334–2279 до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 10,
+    "summary": "Правитель, подчинивший многие города Месопотамии и создавший устойчивую модель территориальной державы.",
+    "importance": "Саргон стал образцом царя-завоевателя для поздней месопотамской памяти.",
+    "facts": [
+      "Точная хронология его правления зависит от принятой системы датировки.",
+      "Столица Аккад пока не найдена.",
+      "Многие биографические легенды записаны значительно позднее."
+    ],
+    "tags": [
+      "царь",
+      "империя",
+      "Аккад"
+    ],
+    "stats": {
+      "influence": 11,
+      "complexity": 9,
+      "legacy": 10,
+      "military": 2,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/per_mes_008.svg",
+      "caption": "Учебная обложка: Саргон Аккадский",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_mes_008.svg"
+    },
+    "source": {
+      "title": "Саргон Аккадский — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B3%D0%BE%D0%BD_%D0%90%D0%BA%D0%BA%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_09",
+    "loc": {
+      "label": "Саргон Аккадский",
+      "lat": 33.1,
+      "lng": 44.4
+    }
+  },
+  {
+    "id": "STATE_MES_002",
+    "type": "STATE",
+    "title": "Аккадская держава",
+    "original": "Аккадская держава",
+    "subtitle": "территориальное объединение Месопотамии",
+    "era": "Саргон и Аккадская держава",
+    "region": "Месопотамия",
+    "date": "ок. 2350–2150 до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 9,
+    "summary": "Держава династии Саргона, объединившая множество городов под одной военной и административной властью.",
+    "importance": "Она стала важным прецедентом имперской царской идеологии и управления регионами.",
+    "facts": [
+      "Аккадский язык усилил роль в официальной культуре.",
+      "Местные города и элиты не исчезли.",
+      "Держава переживала восстания и кризисы наследования."
+    ],
+    "tags": [
+      "империя",
+      "Аккад",
+      "управление"
+    ],
+    "stats": {
+      "influence": 11,
+      "complexity": 9,
+      "legacy": 10,
+      "military": 2,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/state_mes_002.svg",
+      "caption": "Учебная обложка: Аккадская держава",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "state_mes_002.svg"
+    },
+    "source": {
+      "title": "Аккадская империя — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%BA%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_09"
+  },
+  {
+    "id": "CITY_MES_011",
+    "type": "CITY",
+    "title": "Аккад",
+    "original": "Аккад",
+    "subtitle": "ненайденная столица Саргона",
+    "era": "Саргон и Аккадская держава",
+    "region": "Центральная Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Столица Аккадской династии, местоположение которой до сих пор не установлено археологически.",
+    "importance": "Ненайденный город напоминает о пределах наших знаний даже для знаменитых держав.",
+    "facts": [
+      "Аккад известен из текстов, но не локализован точно.",
+      "Его название дало имя державе и языку.",
+      "Предполагаемые районы находятся в центральной Месопотамии."
+    ],
+    "tags": [
+      "город",
+      "археология",
+      "Аккад"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/city_mes_011.svg",
+      "caption": "Учебная обложка: Аккад",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "city_mes_011.svg"
+    },
+    "source": {
+      "title": "Аккад — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%BA%D0%B0%D0%B4",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_09",
+    "loc": {
+      "label": "Аккад",
+      "lat": 33.1,
+      "lng": 44.4
+    }
+  },
+  {
+    "id": "PER_MES_009",
+    "type": "PERSON",
+    "title": "Римуш",
+    "original": "Римуш",
+    "subtitle": "преемник Саргона",
+    "era": "Саргон и Аккадская держава",
+    "region": "Аккад",
+    "date": "XXIII век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Царь Аккада, подавлявший масштабные восстания после смерти Саргона.",
+    "importance": "Его правление показывает, насколько непрочным было раннее территориальное объединение.",
+    "facts": [
+      "Римуш был сыном Саргона.",
+      "Царские надписи перечисляют победы и огромные числа пленных.",
+      "Числа в победных текстах требуют осторожного отношения."
+    ],
+    "tags": [
+      "царь",
+      "восстание",
+      "Аккад"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 2,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/per_mes_009.svg",
+      "caption": "Учебная обложка: Римуш",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_mes_009.svg"
+    },
+    "source": {
+      "title": "Римуш — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BC%D1%83%D1%88",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_09"
+  },
+  {
+    "id": "PER_MES_010",
+    "type": "PERSON",
+    "title": "Маништушу",
+    "original": "Маништушу",
+    "subtitle": "царь Аккада и покупатель земель",
+    "era": "Саргон и Аккадская держава",
+    "region": "Аккад",
+    "date": "XXIII век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Правитель Аккадской династии, известный надписями и обелиском о земельных сделках.",
+    "importance": "Его документы показывают сочетание царской власти, собственности и местных элит.",
+    "facts": [
+      "Он был братом Римуша.",
+      "Обелиск Маништушу описывает приобретение земель.",
+      "Интерпретация юридической природы сделок обсуждается."
+    ],
+    "tags": [
+      "царь",
+      "земля",
+      "документ"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 2,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/per_mes_010.svg",
+      "caption": "Учебная обложка: Маништушу",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_mes_010.svg"
+    },
+    "source": {
+      "title": "Маништушу — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B8%D1%88%D1%82%D1%83%D1%88%D1%83",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_09"
+  },
+  {
+    "id": "PER_MES_011",
+    "type": "PERSON",
+    "title": "Нарам-Суэн",
+    "original": "Нарам-Суэн",
+    "subtitle": "царь четырёх сторон света",
+    "era": "Саргон и Аккадская держава",
+    "region": "Аккад",
+    "date": "ок. 2254–2218 до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 9,
+    "summary": "Внук Саргона, расширивший царскую идеологию и представленный в надписях как обожествлённый правитель.",
+    "importance": "Его Стела победы стала одним из главных образов аккадской имперской власти.",
+    "facts": [
+      "Он принял титул «царь четырёх сторон света».",
+      "Перед именем царя использовался божественный детерминатив.",
+      "Поздняя литература связывала его с разрушением Аккада, но это морализующая традиция."
+    ],
+    "tags": [
+      "царь",
+      "идеология",
+      "победа"
+    ],
+    "stats": {
+      "influence": 11,
+      "complexity": 9,
+      "legacy": 10,
+      "military": 2,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/per_mes_011.svg",
+      "caption": "Учебная обложка: Нарам-Суэн",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_mes_011.svg"
+    },
+    "source": {
+      "title": "Нарам-Суэн — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%B0%D0%BC-%D0%A1%D1%83%D1%8D%D0%BD",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_09"
+  },
+  {
+    "id": "PER_MES_012",
+    "type": "PERSON",
+    "title": "Энхедуанна",
+    "original": "Энхедуанна",
+    "subtitle": "жрица, царская дочь и авторская фигура",
+    "era": "Саргон и Аккадская держава",
+    "region": "Ур",
+    "date": "XXIII век до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 9,
+    "summary": "Дочь Саргона, назначенная верховной жрицей Нанны в Уре и связанная с корпусом гимнов.",
+    "importance": "Её роль соединяет империю, религиозную политику и историю авторства.",
+    "facts": [
+      "Имя Энхедуанны сохранилось в поздних копиях гимнов.",
+      "Её назначение укрепляло связь Аккада с южными культами.",
+      "Вопрос точного авторства отдельных текстов обсуждается."
+    ],
+    "tags": [
+      "жрица",
+      "литература",
+      "женщины"
+    ],
+    "stats": {
+      "influence": 11,
+      "complexity": 9,
+      "legacy": 10,
+      "military": 2,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/per_mes_012.svg",
+      "caption": "Учебная обложка: Энхедуанна",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_mes_012.svg"
+    },
+    "source": {
+      "title": "Энхедуанна — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D1%85%D0%B5%D0%B4%D1%83%D0%B0%D0%BD%D0%BD%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_09",
+    "loc": {
+      "label": "Энхедуанна",
+      "lat": 30.962,
+      "lng": 46.103
+    }
+  },
+  {
+    "id": "EVT_MES_005",
+    "type": "EVENT",
+    "title": "Распад Аккадской державы",
+    "original": "Распад Аккадской державы",
+    "subtitle": "кризис первой территориальной империи",
+    "era": "Саргон и Аккадская держава",
+    "region": "Месопотамия",
+    "date": "XXII век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Постепенное разрушение власти династии на фоне восстаний, конкуренции, внешнего давления и региональных кризисов.",
+    "importance": "Распад показывает, что ранняя империя зависела от постоянной военной и административной поддержки.",
+    "facts": [
+      "Кризис нельзя объяснить одной причиной.",
+      "Гутии играют важную роль в поздней традиции.",
+      "Некоторые регионы восстановили самостоятельность ещё до окончательного конца династии."
+    ],
+    "tags": [
+      "распад",
+      "империя",
+      "кризис"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 2,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/evt_mes_005.svg",
+      "caption": "Учебная обложка: Распад Аккадской державы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "evt_mes_005.svg"
+    },
+    "source": {
+      "title": "Аккадская империя — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%BA%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_09"
+  },
+  {
+    "id": "PER_MES_013",
+    "type": "PERSON",
+    "title": "Гудеа",
+    "original": "Гудеа",
+    "subtitle": "энси Лагаша и строитель храмов",
+    "era": "Ур III и конец первого цикла",
+    "region": "Лагаш",
+    "date": "ок. XXII век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Правитель второй династии Лагаша, известный многочисленными диоритовыми статуями и строительными надписями.",
+    "importance": "Гудеа показывает региональное возрождение после Аккада и царскую власть через культовое строительство.",
+    "facts": [
+      "Он носил титул энси, а не лугаль.",
+      "Его надписи описывают поставки материалов из дальних областей.",
+      "Идеальный мирный образ правителя является частью царской репрезентации."
+    ],
+    "tags": [
+      "царь",
+      "строительство",
+      "Лагаш"
+    ],
+    "stats": {
+      "influence": 11,
+      "complexity": 9,
+      "legacy": 10,
+      "military": 2,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/per_mes_013.svg",
+      "caption": "Учебная обложка: Гудеа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_mes_013.svg"
+    },
+    "source": {
+      "title": "Гудеа — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%B4%D0%B5%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_10",
+    "loc": {
+      "label": "Гудеа",
+      "lat": 31.416,
+      "lng": 46.408
+    }
+  },
+  {
+    "id": "PER_MES_014",
+    "type": "PERSON",
+    "title": "Ур-Намму",
+    "original": "Ур-Намму",
+    "subtitle": "основатель III династии Ура",
+    "era": "Ур III и конец первого цикла",
+    "region": "Ур",
+    "date": "ок. 2112–2095 до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 9,
+    "summary": "Царь, объединивший значительную часть Месопотамии и начавший масштабное строительство.",
+    "importance": "С ним связан древнейший сохранившийся крупный правовой сборник и новый государственный цикл.",
+    "facts": [
+      "Он использовал титул «царь Шумера и Аккада».",
+      "Начал строительство великого зиккурата Ура.",
+      "Точный автор и дата кодекса Ур-Намму обсуждаются."
+    ],
+    "tags": [
+      "царь",
+      "Ур III",
+      "закон"
+    ],
+    "stats": {
+      "influence": 11,
+      "complexity": 9,
+      "legacy": 10,
+      "military": 2,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/per_mes_014.svg",
+      "caption": "Учебная обложка: Ур-Намму",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_mes_014.svg"
+    },
+    "source": {
+      "title": "Ур-Намму — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A3%D1%80-%D0%9D%D0%B0%D0%BC%D0%BC%D1%83",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_10",
+    "loc": {
+      "label": "Ур-Намму",
+      "lat": 30.962,
+      "lng": 46.103
+    }
+  },
+  {
+    "id": "PER_MES_015",
+    "type": "PERSON",
+    "title": "Шульги",
+    "original": "Шульги",
+    "subtitle": "царь, реформатор и объект культа",
+    "era": "Ур III и конец первого цикла",
+    "region": "Ур",
+    "date": "ок. 2094–2047 до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 9,
+    "summary": "Долгоправивший царь Ур III, связанный с административными реформами, дорогами и обожествлением царя.",
+    "importance": "При Шульги государство достигло высокой степени бюрократической координации.",
+    "facts": [
+      "Он правил около пяти десятилетий по средней хронологии.",
+      "Царские гимны прославляют его знания, силу и скорость.",
+      "Административная стандартизация не означала полного единообразия общества."
+    ],
+    "tags": [
+      "царь",
+      "реформа",
+      "бюрократия"
+    ],
+    "stats": {
+      "influence": 11,
+      "complexity": 9,
+      "legacy": 10,
+      "military": 2,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/per_mes_015.svg",
+      "caption": "Учебная обложка: Шульги",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_mes_015.svg"
+    },
+    "source": {
+      "title": "Шульги — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D0%BB%D1%8C%D0%B3%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_10",
+    "loc": {
+      "label": "Шульги",
+      "lat": 30.962,
+      "lng": 46.103
+    }
+  },
+  {
+    "id": "STATE_MES_003",
+    "type": "STATE",
+    "title": "Государство Ур III",
+    "original": "Государство Ур III",
+    "subtitle": "неошумерская централизованная держава",
+    "era": "Ур III и конец первого цикла",
+    "region": "Месопотамия",
+    "date": "ок. 2112–2004 до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 10,
+    "summary": "Держава III династии Ура с развитой системой наместников, налогов, трудовых повинностей и письменного контроля.",
+    "importance": "Ур III оставил огромный архив документов и стал моделью раннего бюрократического государства.",
+    "facts": [
+      "Система сочетала центральное управление и местные структуры.",
+      "Сохранились десятки тысяч административных табличек.",
+      "Высокая документированность не означает полного понимания повседневной жизни."
+    ],
+    "tags": [
+      "государство",
+      "бюрократия",
+      "Ур"
+    ],
+    "stats": {
+      "influence": 12,
+      "complexity": 10,
+      "legacy": 11,
+      "military": 2,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/state_mes_003.svg",
+      "caption": "Учебная обложка: Государство Ур III",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "state_mes_003.svg"
+    },
+    "source": {
+      "title": "Третья династия Ура — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F_%D0%B4%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%8F_%D0%A3%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_10"
+  },
+  {
+    "id": "LAW_MES_001",
+    "type": "LAW",
+    "title": "Законы Ур-Намму",
+    "original": "Законы Ур-Намму",
+    "subtitle": "ранний правовой сборник",
+    "era": "Ур III и конец первого цикла",
+    "region": "Ур",
+    "date": "начало II тысячелетия до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Сохранившийся фрагментарно сборник правовых формул, традиционно связываемый с Ур-Намму.",
+    "importance": "Он показывает царскую идею справедливости и применение денежных компенсаций в ряде дел.",
+    "facts": [
+      "Текст дошёл в поздних копиях и фрагментах.",
+      "Некоторые учёные связывают его окончательную редакцию с Шульги.",
+      "Это не современный кодекс в полном смысле."
+    ],
+    "tags": [
+      "закон",
+      "право",
+      "царь"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/law_mes_001.svg",
+      "caption": "Учебная обложка: Законы Ур-Намму",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "law_mes_001.svg"
+    },
+    "source": {
+      "title": "Законы Ур-Намму — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B_%D0%A3%D1%80-%D0%9D%D0%B0%D0%BC%D0%BC%D1%83",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_10"
+  },
+  {
+    "id": "ART_MES_008",
+    "type": "ARTIFACT",
+    "title": "Зиккурат Ура",
+    "original": "Зиккурат Ура",
+    "subtitle": "монументальная платформа Нанны",
+    "era": "Ур III и конец первого цикла",
+    "region": "Ур",
+    "date": "XXI век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Многоступенчатая храмовая платформа, начатая Ур-Намму и связанная с культом Нанны.",
+    "importance": "Памятник выражал связь царского строительства, городской религии и государственной мобилизации.",
+    "facts": [
+      "Современный вид включает древние и реконструированные части.",
+      "Зиккурат не был гробницей.",
+      "На вершине находилось святилище, не сохранившееся полностью."
+    ],
+    "tags": [
+      "архитектура",
+      "храм",
+      "Ур"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/art_mes_008.svg",
+      "caption": "Учебная обложка: Зиккурат Ура",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_mes_008.svg"
+    },
+    "source": {
+      "title": "Зиккурат в Уре — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%97%D0%B8%D0%BA%D0%BA%D1%83%D1%80%D0%B0%D1%82_%D0%B2_%D0%A3%D1%80%D0%B5",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_10",
+    "loc": {
+      "label": "Зиккурат Ура",
+      "lat": 30.962,
+      "lng": 46.103
+    }
+  },
+  {
+    "id": "SYS_MES_006",
+    "type": "SYSTEM",
+    "title": "Система бала",
+    "original": "Система бала",
+    "subtitle": "перераспределение налоговых поставок",
+    "era": "Ур III и конец первого цикла",
+    "region": "Месопотамия",
+    "date": "XXI век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Организация регулярных поставок провинций для содержания центральных культов и двора.",
+    "importance": "Система показывает, как календарь, налоги и документация связывали регионы государства.",
+    "facts": [
+      "Провинции выполняли обязательства по очереди.",
+      "Поставки включали животных и продукты.",
+      "Реконструкция системы основана на административных документах."
+    ],
+    "tags": [
+      "налоги",
+      "учёт",
+      "провинции"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 1,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/sys_mes_006.svg",
+      "caption": "Учебная обложка: Система бала",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_mes_006.svg"
+    },
+    "source": {
+      "title": "Третья династия Ура — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F_%D0%B4%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%8F_%D0%A3%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_10"
+  },
+  {
+    "id": "EVT_MES_006",
+    "type": "EVENT",
+    "title": "Падение Ур III",
+    "original": "Падение Ур III",
+    "subtitle": "конец неошумерской державы",
+    "era": "Ур III и конец первого цикла",
+    "region": "Месопотамия",
+    "date": "ок. 2004 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Распад центральной власти на фоне мятежей, давления аморейских групп, хозяйственного кризиса и эламского нападения.",
+    "importance": "Конец Ур III завершил первый большой цикл шумеро-аккадских имперских объединений.",
+    "facts": [
+      "Последний царь Ибби-Суэн постепенно терял провинции.",
+      "Ур был захвачен войсками Элама.",
+      "Поздние плачи превратили падение города в религиозную литературу."
+    ],
+    "tags": [
+      "падение",
+      "кризис",
+      "Элам"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 2,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 2,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/mesopotamia/evt_mes_006.svg",
+      "caption": "Учебная обложка: Падение Ур III",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "evt_mes_006.svg"
+    },
+    "source": {
+      "title": "Третья династия Ура — Википедия",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F_%D0%B4%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%8F_%D0%A3%D1%80%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "MESOPOTAMIA",
+    "chapter": "MES_CHAPTER_10"
   }
 ]

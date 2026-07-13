@@ -1,5 +1,5 @@
 {
-  "version": "2.2.1",
+  "version": "2.3.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -19,7 +19,8 @@
       "data/quizzes/rome/chapter_01.json",
       "data/quizzes/rome/chapter_02.json",
       "data/quizzes/rome/chapter_03.json",
-      "data/quizzes/mesopotamia/chapter_01_05.json"
+      "data/quizzes/mesopotamia/chapter_01_05.json",
+      "data/quizzes/mesopotamia/chapter_06_10.json"
     ],
     "stories": [
       "data/stories/rome/personal.json",
@@ -37,7 +38,8 @@
       "data/lessons/rome/chapter_01.json",
       "data/lessons/rome/chapter_02.json",
       "data/lessons/rome/chapter_03.json",
-      "data/lessons/mesopotamia/chapter_01_05.json"
+      "data/lessons/mesopotamia/chapter_01_05.json",
+      "data/lessons/mesopotamia/chapter_06_10.json"
     ],
     "eras": "data/world/eras.json",
     "campaignCatalog": "data/world/campaigns.json",

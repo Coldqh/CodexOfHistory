@@ -1287,3 +1287,8 @@ body.onboarding-active{overflow-x:hidden}.onboarding-v26{position:relative;min-h
 
 /* v2.7 parallel civilizations */
 .comparison-home{background:linear-gradient(135deg,color-mix(in srgb,var(--panel) 92%,#9d6b39),var(--panel));}.comparison-home-symbol{min-height:250px;display:flex;align-items:center;justify-content:center;gap:28px;font-size:68px;color:var(--text)}.comparison-home-symbol i{width:76px;height:3px;background:linear-gradient(90deg,#b98145,#dfc78f);position:relative}.comparison-home-symbol i:after{content:"⇄";position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);font-size:23px;background:var(--panel);padding:8px;color:#d4a35f}.study-campaign-card.playable:has(h3:nth-child(0)){border-color:#c89555}@media(max-width:620px){.comparison-home-symbol{min-height:120px;font-size:42px}.comparison-home-symbol i{width:48px}.comparison-home .hero-layout{grid-template-columns:1fr}}
+
+/* v2.8 Indus */
+.indus-home{background:radial-gradient(circle at 85% 20%,rgba(86,190,169,.22),transparent 34%),linear-gradient(135deg,rgba(20,64,63,.95),rgba(6,13,14,.98));}
+.indus-home-symbol{display:flex;align-items:center;justify-content:center;gap:18px;min-height:180px;font-size:74px;color:#7bd2bd}.indus-home-symbol i{width:70px;height:2px;background:linear-gradient(90deg,transparent,#7bd2bd,transparent)}
+[data-theme="parchment"] .indus-home{background:linear-gradient(135deg,#d9c9a7,#f1e8d6)}[data-theme="parchment"] .indus-home-symbol{color:#23635d}

@@ -1,0 +1,2212 @@
+[
+  {
+    "id": "STATE_IND_001",
+    "type": "STATE",
+    "title": "Индская цивилизация",
+    "original": "Индская цивилизация",
+    "subtitle": "городская цивилизация Южной Азии",
+    "era": "IND_CHAPTER_01",
+    "region": "Южная Азия",
+    "date": "ок. 3300–1300 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Индская цивилизация — городская цивилизация Южной Азии. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять цивилизация и общество, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: ок. 3300–1300 до н. э..",
+      "Основной регион: Южная Азия.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "цивилизация",
+      "общество"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 1,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "image": {
+      "local": "assets/cards/indus/state_ind_001.svg",
+      "caption": "Учебная обложка: Индская цивилизация",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "state_ind_001.svg"
+    },
+    "source": {
+      "title": "Индская цивилизация — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Цивилизация_долины_Инда",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_01",
+    "loc": {
+      "label": "Индская цивилизация",
+      "lat": 27.0,
+      "lng": 70.5
+    }
+  },
+  {
+    "id": "RIV_IND_001",
+    "type": "RIVER",
+    "title": "Инд",
+    "original": "Инд",
+    "subtitle": "главная река северо-запада Южной Азии",
+    "era": "IND_CHAPTER_01",
+    "region": "Южная Азия",
+    "date": "древность — настоящее время",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Инд — главная река северо-запада Южной Азии. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять река и водная система, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: древность — настоящее время.",
+      "Основной регион: Южная Азия.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "география",
+      "река"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 1,
+      "culture": 7,
+      "politics": 5,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "image": {
+      "local": "assets/cards/indus/riv_ind_001.svg",
+      "caption": "Учебная обложка: Инд",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "riv_ind_001.svg"
+    },
+    "source": {
+      "title": "Инд — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Инд",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_01",
+    "loc": {
+      "label": "Инд",
+      "lat": 27.4,
+      "lng": 68.3
+    }
+  },
+  {
+    "id": "REG_IND_001",
+    "type": "REGION",
+    "title": "Пенджаб",
+    "original": "Пенджаб",
+    "subtitle": "земля пяти рек",
+    "era": "IND_CHAPTER_01",
+    "region": "Северо-запад Южной Азии",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Пенджаб — земля пяти рек. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять регион и природная среда, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: III тысячелетие до н. э..",
+      "Основной регион: Северо-запад Южной Азии.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "география",
+      "регион"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 4,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/indus/reg_ind_001.svg",
+      "caption": "Учебная обложка: Пенджаб",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "reg_ind_001.svg"
+    },
+    "source": {
+      "title": "Пенджаб — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Пенджаб",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_01",
+    "loc": {
+      "label": "Пенджаб",
+      "lat": 30.8,
+      "lng": 74.2
+    }
+  },
+  {
+    "id": "REG_IND_002",
+    "type": "REGION",
+    "title": "Синд",
+    "original": "Синд",
+    "subtitle": "нижнее течение Инда и городские центры",
+    "era": "IND_CHAPTER_01",
+    "region": "Нижний Инд",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Синд — нижнее течение Инда и городские центры. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять регион и природная среда, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: III тысячелетие до н. э..",
+      "Основной регион: Нижний Инд.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "география",
+      "регион"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 4,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/indus/reg_ind_002.svg",
+      "caption": "Учебная обложка: Синд",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "reg_ind_002.svg"
+    },
+    "source": {
+      "title": "Синд — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Синд_(провинция)",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_01",
+    "loc": {
+      "label": "Синд",
+      "lat": 26.2,
+      "lng": 68.0
+    }
+  },
+  {
+    "id": "REG_IND_003",
+    "type": "REGION",
+    "title": "Гуджарат",
+    "original": "Гуджарат",
+    "subtitle": "прибрежная и полуостровная зона хараппского мира",
+    "era": "IND_CHAPTER_01",
+    "region": "Западная Индия",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Гуджарат — прибрежная и полуостровная зона хараппского мира. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять регион и природная среда, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: III–II тысячелетия до н. э..",
+      "Основной регион: Западная Индия.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "география",
+      "регион"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 4,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/indus/reg_ind_003.svg",
+      "caption": "Учебная обложка: Гуджарат",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "reg_ind_003.svg"
+    },
+    "source": {
+      "title": "Гуджарат — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Гуджарат",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_01",
+    "loc": {
+      "label": "Гуджарат",
+      "lat": 23.2,
+      "lng": 71.4
+    }
+  },
+  {
+    "id": "RIV_IND_002",
+    "type": "RIVER",
+    "title": "Гхаггар-Хакра",
+    "original": "Гхаггар-Хакра",
+    "subtitle": "древняя речная система и зона поселений",
+    "era": "IND_CHAPTER_01",
+    "region": "Северо-запад Индии и Пакистана",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Гхаггар-Хакра — древняя речная система и зона поселений. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять река и водная система, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Вдоль этой системы известно много хараппских памятников.",
+      "История русел реконструируется геологическими и археологическими методами.",
+      "Её нельзя автоматически отождествлять с конкретной рекой древнего текста."
+    ],
+    "tags": [
+      "география",
+      "река"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 5,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 3,
+      "religion": 2,
+      "economy": 5,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/indus/riv_ind_002.svg",
+      "caption": "Учебная обложка: Гхаггар-Хакра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "riv_ind_002.svg"
+    },
+    "source": {
+      "title": "Гхаггар-Хакра — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Гхаггар-Хакра",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_01",
+    "loc": {
+      "label": "Гхаггар-Хакра",
+      "lat": 29.4,
+      "lng": 73.8
+    }
+  },
+  {
+    "id": "SITE_IND_001",
+    "type": "SITE",
+    "title": "Мехргарх",
+    "original": "Мехргарх",
+    "subtitle": "ранний центр земледелия и ремёсел",
+    "era": "IND_CHAPTER_02",
+    "region": "Белуджистан",
+    "date": "ок. 7000–2600 до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Мехргарх — ранний центр земледелия и ремёсел. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять археологический памятник, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: ок. 7000–2600 до н. э..",
+      "Основной регион: Белуджистан.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "археология",
+      "памятник"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 1,
+      "culture": 9,
+      "politics": 7,
+      "religion": 6,
+      "economy": 9,
+      "connections": 10
+    },
+    "image": {
+      "local": "assets/cards/indus/site_ind_001.svg",
+      "caption": "Учебная обложка: Мехргарх",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "site_ind_001.svg"
+    },
+    "source": {
+      "title": "Мехргарх — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Мехргарх",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_02",
+    "loc": {
+      "label": "Мехргарх",
+      "lat": 29.4,
+      "lng": 67.6
+    }
+  },
+  {
+    "id": "CULT_IND_001",
+    "type": "CULTURE",
+    "title": "Раннехараппские культуры",
+    "original": "Раннехараппские культуры",
+    "subtitle": "региональные традиции перед зрелой фазой",
+    "era": "IND_CHAPTER_02",
+    "region": "Северо-запад Южной Азии",
+    "date": "ок. 3300–2600 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Раннехараппские культуры — региональные традиции перед зрелой фазой. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять археологическая культура, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: ок. 3300–2600 до н. э..",
+      "Основной регион: Северо-запад Южной Азии.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "культура",
+      "археология"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 1,
+      "culture": 7,
+      "politics": 5,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "image": {
+      "local": "assets/cards/indus/cult_ind_001.svg",
+      "caption": "Учебная обложка: Раннехараппские культуры",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "cult_ind_001.svg"
+    },
+    "source": {
+      "title": "Раннехараппские культуры — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%A0%D0%B0%D0%BD%D0%BD%D0%B5%D1%85%D0%B0%D1%80%D0%B0%D0%BF%D0%BF%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_02"
+  },
+  {
+    "id": "SITE_IND_002",
+    "type": "SITE",
+    "title": "Кот-Диджи",
+    "original": "Кот-Диджи",
+    "subtitle": "укреплённый раннехараппский центр",
+    "era": "IND_CHAPTER_02",
+    "region": "Синд",
+    "date": "ок. 3300–2600 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Кот-Диджи — укреплённый раннехараппский центр. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять археологический памятник, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: ок. 3300–2600 до н. э..",
+      "Основной регион: Синд.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "археология",
+      "памятник"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 5,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 3,
+      "religion": 2,
+      "economy": 5,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/indus/site_ind_002.svg",
+      "caption": "Учебная обложка: Кот-Диджи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "site_ind_002.svg"
+    },
+    "source": {
+      "title": "Кот-Диджи — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Кот-Диджи",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_02",
+    "loc": {
+      "label": "Кот-Диджи",
+      "lat": 27.34,
+      "lng": 68.7
+    }
+  },
+  {
+    "id": "SITE_IND_003",
+    "type": "SITE",
+    "title": "Амри",
+    "original": "Амри",
+    "subtitle": "ранний центр нижнего Инда",
+    "era": "IND_CHAPTER_02",
+    "region": "Синд",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Амри — ранний центр нижнего Инда. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять археологический памятник, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: IV–III тысячелетия до н. э..",
+      "Основной регион: Синд.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "археология",
+      "памятник"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 4,
+      "military": 1,
+      "culture": 4,
+      "politics": 2,
+      "religion": 1,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/indus/site_ind_003.svg",
+      "caption": "Учебная обложка: Амри",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "site_ind_003.svg"
+    },
+    "source": {
+      "title": "Амри — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Амри_(археология)",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_02",
+    "loc": {
+      "label": "Амри",
+      "lat": 26.24,
+      "lng": 68.03
+    }
+  },
+  {
+    "id": "SITE_IND_004",
+    "type": "SITE",
+    "title": "Рехман-Дхери",
+    "original": "Рехман-Дхери",
+    "subtitle": "планированное раннее поселение",
+    "era": "IND_CHAPTER_02",
+    "region": "Дера-Исмаил-Хан",
+    "date": "ок. 3300–1900 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Рехман-Дхери — планированное раннее поселение. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять археологический памятник, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: ок. 3300–1900 до н. э..",
+      "Основной регион: Дера-Исмаил-Хан.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "археология",
+      "памятник"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 5,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 3,
+      "religion": 2,
+      "economy": 5,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/indus/site_ind_004.svg",
+      "caption": "Учебная обложка: Рехман-Дхери",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "site_ind_004.svg"
+    },
+    "source": {
+      "title": "Рехман-Дхери — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Рехман-Дхери",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_02",
+    "loc": {
+      "label": "Рехман-Дхери",
+      "lat": 31.84,
+      "lng": 70.9
+    }
+  },
+  {
+    "id": "TERM_IND_001",
+    "type": "TERM",
+    "title": "Регионализация",
+    "original": "Регионализация",
+    "subtitle": "сближение локальных культур и сетей",
+    "era": "IND_CHAPTER_02",
+    "region": "Индский мир",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Регионализация — сближение локальных культур и сетей. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять историческое понятие, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: IV–III тысячелетия до н. э..",
+      "Основной регион: Индский мир.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "понятие",
+      "анализ"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 4,
+      "legacy": 4,
+      "military": 1,
+      "culture": 4,
+      "politics": 4,
+      "religion": 1,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/indus/term_ind_001.svg",
+      "caption": "Учебная обложка: Регионализация",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_ind_001.svg"
+    },
+    "source": {
+      "title": "Регионализация — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_02"
+  },
+  {
+    "id": "CITY_IND_001",
+    "type": "CITY",
+    "title": "Хараппа",
+    "original": "Хараппа",
+    "subtitle": "крупный городской центр Пенджаба",
+    "era": "IND_CHAPTER_03",
+    "region": "Пенджаб",
+    "date": "ок. 2600–1900 до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Хараппа — крупный городской центр Пенджаба. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять городской центр, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: ок. 2600–1900 до н. э..",
+      "Основной регион: Пенджаб.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "город",
+      "археология"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 1,
+      "culture": 9,
+      "politics": 7,
+      "religion": 6,
+      "economy": 9,
+      "connections": 10
+    },
+    "image": {
+      "local": "assets/cards/indus/city_ind_001.svg",
+      "caption": "Учебная обложка: Хараппа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "city_ind_001.svg"
+    },
+    "source": {
+      "title": "Хараппа — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Хараппа",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_03",
+    "loc": {
+      "label": "Хараппа",
+      "lat": 30.63,
+      "lng": 72.87
+    }
+  },
+  {
+    "id": "CITY_IND_002",
+    "type": "CITY",
+    "title": "Мохенджо-Даро",
+    "original": "Мохенджо-Даро",
+    "subtitle": "один из крупнейших городов цивилизации",
+    "era": "IND_CHAPTER_03",
+    "region": "Синд",
+    "date": "ок. 2600–1900 до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 9,
+    "summary": "Мохенджо-Даро — один из крупнейших городов цивилизации. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять городской центр, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: ок. 2600–1900 до н. э..",
+      "Основной регион: Синд.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "город",
+      "археология"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 10,
+      "legacy": 10,
+      "military": 1,
+      "culture": 10,
+      "politics": 8,
+      "religion": 7,
+      "economy": 10,
+      "connections": 10
+    },
+    "image": {
+      "local": "assets/cards/indus/city_ind_002.svg",
+      "caption": "Учебная обложка: Мохенджо-Даро",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "city_ind_002.svg"
+    },
+    "source": {
+      "title": "Мохенджо-Даро — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Мохенджо-Даро",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_03",
+    "loc": {
+      "label": "Мохенджо-Даро",
+      "lat": 27.32,
+      "lng": 68.14
+    }
+  },
+  {
+    "id": "CITY_IND_003",
+    "type": "CITY",
+    "title": "Дхолавира",
+    "original": "Дхолавира",
+    "subtitle": "город с развитой системой резервуаров",
+    "era": "IND_CHAPTER_03",
+    "region": "Кач, Гуджарат",
+    "date": "ок. 3000–1500 до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Дхолавира — город с развитой системой резервуаров. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять городской центр, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: ок. 3000–1500 до н. э..",
+      "Основной регион: Кач, Гуджарат.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "город",
+      "археология"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 1,
+      "culture": 9,
+      "politics": 7,
+      "religion": 6,
+      "economy": 9,
+      "connections": 10
+    },
+    "image": {
+      "local": "assets/cards/indus/city_ind_003.svg",
+      "caption": "Учебная обложка: Дхолавира",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "city_ind_003.svg"
+    },
+    "source": {
+      "title": "Дхолавира — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Дхолавира",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_03",
+    "loc": {
+      "label": "Дхолавира",
+      "lat": 23.89,
+      "lng": 70.21
+    }
+  },
+  {
+    "id": "CITY_IND_004",
+    "type": "CITY",
+    "title": "Ракхигархи",
+    "original": "Ракхигархи",
+    "subtitle": "крупный центр в восточной части цивилизации",
+    "era": "IND_CHAPTER_03",
+    "region": "Харьяна",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Ракхигархи — крупный центр в восточной части цивилизации. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять городской центр, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: III–II тысячелетия до н. э..",
+      "Основной регион: Харьяна.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "город",
+      "археология"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 1,
+      "culture": 7,
+      "politics": 5,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "image": {
+      "local": "assets/cards/indus/city_ind_004.svg",
+      "caption": "Учебная обложка: Ракхигархи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "city_ind_004.svg"
+    },
+    "source": {
+      "title": "Ракхигархи — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Ракхигархи",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_03",
+    "loc": {
+      "label": "Ракхигархи",
+      "lat": 29.29,
+      "lng": 76.11
+    }
+  },
+  {
+    "id": "CITY_IND_005",
+    "type": "CITY",
+    "title": "Ганверивала",
+    "original": "Ганверивала",
+    "subtitle": "крупный малоисследованный центр",
+    "era": "IND_CHAPTER_03",
+    "region": "Чолистан",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Ганверивала — крупный малоисследованный центр. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять городской центр, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: III тысячелетие до н. э..",
+      "Основной регион: Чолистан.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "город",
+      "археология"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 5,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 3,
+      "religion": 2,
+      "economy": 5,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/indus/city_ind_005.svg",
+      "caption": "Учебная обложка: Ганверивала",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "city_ind_005.svg"
+    },
+    "source": {
+      "title": "Ганверивала — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Ганверивала",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_03",
+    "loc": {
+      "label": "Ганверивала",
+      "lat": 28.6,
+      "lng": 71.0
+    }
+  },
+  {
+    "id": "TERM_IND_002",
+    "type": "TERM",
+    "title": "Зрелая хараппская фаза",
+    "original": "Зрелая хараппская фаза",
+    "subtitle": "период общей городской системы",
+    "era": "IND_CHAPTER_03",
+    "region": "Индский мир",
+    "date": "ок. 2600–1900 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Зрелая хараппская фаза — период общей городской системы. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять историческое понятие, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: ок. 2600–1900 до н. э..",
+      "Основной регион: Индский мир.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "понятие",
+      "анализ"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 1,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "image": {
+      "local": "assets/cards/indus/term_ind_002.svg",
+      "caption": "Учебная обложка: Зрелая хараппская фаза",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_ind_002.svg"
+    },
+    "source": {
+      "title": "Зрелая хараппская фаза — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%97%D1%80%D0%B5%D0%BB%D0%B0%D1%8F%20%D1%85%D0%B0%D1%80%D0%B0%D0%BF%D0%BF%D1%81%D0%BA%D0%B0%D1%8F%20%D1%84%D0%B0%D0%B7%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_03"
+  },
+  {
+    "id": "BUILD_IND_001",
+    "type": "BUILDING",
+    "title": "Великая купальня",
+    "original": "Великая купальня",
+    "subtitle": "монументальный водный комплекс Мохенджо-Даро",
+    "era": "IND_CHAPTER_04",
+    "region": "Мохенджо-Даро",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Великая купальня — монументальный водный комплекс Мохенджо-Даро. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять сооружение, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Сооружение имело гидроизоляцию и ступени к бассейну.",
+      "Оно находилось в возвышенной части Мохенджо-Даро.",
+      "Ритуальное назначение вероятно, но не доказано текстом."
+    ],
+    "tags": [
+      "архитектура",
+      "город"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 1,
+      "culture": 9,
+      "politics": 7,
+      "religion": 6,
+      "economy": 9,
+      "connections": 10
+    },
+    "image": {
+      "local": "assets/cards/indus/build_ind_001.svg",
+      "caption": "Учебная обложка: Великая купальня",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "build_ind_001.svg"
+    },
+    "source": {
+      "title": "Великая купальня — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Великая_купальня",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_04",
+    "loc": {
+      "label": "Великая купальня",
+      "lat": 27.32,
+      "lng": 68.14
+    }
+  },
+  {
+    "id": "SYS_IND_001",
+    "type": "SYSTEM",
+    "title": "Городские стоки",
+    "original": "Городские стоки",
+    "subtitle": "сеть водоотвода и обслуживания улиц",
+    "era": "IND_CHAPTER_04",
+    "region": "Хараппские города",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Городские стоки — сеть водоотвода и обслуживания улиц. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять организационная система, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: III тысячелетие до н. э..",
+      "Основной регион: Хараппские города.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "общество",
+      "система"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 1,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 8,
+      "connections": 8
+    },
+    "image": {
+      "local": "assets/cards/indus/sys_ind_001.svg",
+      "caption": "Учебная обложка: Городские стоки",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_ind_001.svg"
+    },
+    "source": {
+      "title": "Городские стоки — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5%20%D1%81%D1%82%D0%BE%D0%BA%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_04"
+  },
+  {
+    "id": "SYS_IND_002",
+    "type": "SYSTEM",
+    "title": "Стандарт кирпича 1:2:4",
+    "original": "Стандарт кирпича 1:2:4",
+    "subtitle": "повторяющееся соотношение размеров кирпичей",
+    "era": "IND_CHAPTER_04",
+    "region": "Индский мир",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Стандарт кирпича 1:2:4 — повторяющееся соотношение размеров кирпичей. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять организационная система, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: III тысячелетие до н. э..",
+      "Основной регион: Индский мир.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "общество",
+      "система"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 5,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 5,
+      "religion": 2,
+      "economy": 6,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/indus/sys_ind_002.svg",
+      "caption": "Учебная обложка: Стандарт кирпича 1:2:4",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_ind_002.svg"
+    },
+    "source": {
+      "title": "Стандарт кирпича 1:2:4 — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%A1%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%20%D0%BA%D0%B8%D1%80%D0%BF%D0%B8%D1%87%D0%B0%201%3A2%3A4",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_04"
+  },
+  {
+    "id": "BUILD_IND_002",
+    "type": "BUILDING",
+    "title": "Резервуары Дхолавиры",
+    "original": "Резервуары Дхолавиры",
+    "subtitle": "система сбора и хранения воды",
+    "era": "IND_CHAPTER_04",
+    "region": "Дхолавира",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Резервуары Дхолавиры — система сбора и хранения воды. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять сооружение, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: III тысячелетие до н. э..",
+      "Основной регион: Дхолавира.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "архитектура",
+      "город"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 1,
+      "culture": 7,
+      "politics": 5,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "image": {
+      "local": "assets/cards/indus/build_ind_002.svg",
+      "caption": "Учебная обложка: Резервуары Дхолавиры",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "build_ind_002.svg"
+    },
+    "source": {
+      "title": "Резервуары Дхолавиры — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D1%83%D0%B0%D1%80%D1%8B%20%D0%94%D1%85%D0%BE%D0%BB%D0%B0%D0%B2%D0%B8%D1%80%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_04",
+    "loc": {
+      "label": "Резервуары Дхолавиры",
+      "lat": 23.89,
+      "lng": 70.21
+    }
+  },
+  {
+    "id": "SYS_IND_003",
+    "type": "SYSTEM",
+    "title": "Колодцы Мохенджо-Даро",
+    "original": "Колодцы Мохенджо-Даро",
+    "subtitle": "децентрализованный доступ к воде",
+    "era": "IND_CHAPTER_04",
+    "region": "Мохенджо-Даро",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Колодцы Мохенджо-Даро — децентрализованный доступ к воде. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять организационная система, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: III тысячелетие до н. э..",
+      "Основной регион: Мохенджо-Даро.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "общество",
+      "система"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 5,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 5,
+      "religion": 2,
+      "economy": 6,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/indus/sys_ind_003.svg",
+      "caption": "Учебная обложка: Колодцы Мохенджо-Даро",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_ind_003.svg"
+    },
+    "source": {
+      "title": "Колодцы Мохенджо-Даро — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9A%D0%BE%D0%BB%D0%BE%D0%B4%D1%86%D1%8B%20%D0%9C%D0%BE%D1%85%D0%B5%D0%BD%D0%B4%D0%B6%D0%BE-%D0%94%D0%B0%D1%80%D0%BE",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_04",
+    "loc": {
+      "label": "Колодцы Мохенджо-Даро",
+      "lat": 27.32,
+      "lng": 68.14
+    }
+  },
+  {
+    "id": "TERM_IND_003",
+    "type": "TERM",
+    "title": "Хараппское городское планирование",
+    "original": "Хараппское городское планирование",
+    "subtitle": "кварталы, улицы и инфраструктура",
+    "era": "IND_CHAPTER_04",
+    "region": "Индский мир",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Хараппское городское планирование — кварталы, улицы и инфраструктура. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять историческое понятие, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: III тысячелетие до н. э..",
+      "Основной регион: Индский мир.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "понятие",
+      "анализ"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 1,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "image": {
+      "local": "assets/cards/indus/term_ind_003.svg",
+      "caption": "Учебная обложка: Хараппское городское планирование",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_ind_003.svg"
+    },
+    "source": {
+      "title": "Хараппское городское планирование — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%A5%D0%B0%D1%80%D0%B0%D0%BF%D0%BF%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_04"
+  },
+  {
+    "id": "TEXT_IND_001",
+    "type": "TEXT",
+    "title": "Индское письмо",
+    "original": "Индское письмо",
+    "subtitle": "нерасшифрованная система коротких надписей",
+    "era": "IND_CHAPTER_05",
+    "region": "Индский мир",
+    "date": "ок. 2600–1900 до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 9,
+    "summary": "Индское письмо — нерасшифрованная система коротких надписей. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять система знаков, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Известно по печатям, табличкам и другим коротким надписям.",
+      "Большинство текстов очень короткие.",
+      "Общепринятой дешифровки не существует."
+    ],
+    "tags": [
+      "письмо",
+      "источник"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 10,
+      "legacy": 10,
+      "military": 1,
+      "culture": 10,
+      "politics": 8,
+      "religion": 7,
+      "economy": 10,
+      "connections": 10
+    },
+    "image": {
+      "local": "assets/cards/indus/text_ind_001.svg",
+      "caption": "Учебная обложка: Индское письмо",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "text_ind_001.svg"
+    },
+    "source": {
+      "title": "Индское письмо — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Индское_письмо",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_05"
+  },
+  {
+    "id": "ART_IND_001",
+    "type": "ARTIFACT",
+    "title": "Индская печать",
+    "original": "Индская печать",
+    "subtitle": "штамп с изображением и короткой надписью",
+    "era": "IND_CHAPTER_05",
+    "region": "Индский мир",
+    "date": "ок. 2600–1900 до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Индская печать — штамп с изображением и короткой надписью. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять археологический предмет, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: ок. 2600–1900 до н. э..",
+      "Основной регион: Индский мир.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "артефакт",
+      "источник"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 1,
+      "culture": 10,
+      "politics": 7,
+      "religion": 6,
+      "economy": 10,
+      "connections": 10
+    },
+    "image": {
+      "local": "assets/cards/indus/art_ind_001.svg",
+      "caption": "Учебная обложка: Индская печать",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_ind_001.svg"
+    },
+    "source": {
+      "title": "Индская печать — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%98%D0%BD%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_05"
+  },
+  {
+    "id": "ART_IND_002",
+    "type": "ARTIFACT",
+    "title": "Стандартизированные гири",
+    "original": "Стандартизированные гири",
+    "subtitle": "кубические меры массы",
+    "era": "IND_CHAPTER_05",
+    "region": "Индский мир",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Стандартизированные гири — кубические меры массы. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять археологический предмет, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: III тысячелетие до н. э..",
+      "Основной регион: Индский мир.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "артефакт",
+      "источник"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 1,
+      "culture": 8,
+      "politics": 5,
+      "religion": 4,
+      "economy": 8,
+      "connections": 8
+    },
+    "image": {
+      "local": "assets/cards/indus/art_ind_002.svg",
+      "caption": "Учебная обложка: Стандартизированные гири",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_ind_002.svg"
+    },
+    "source": {
+      "title": "Стандартизированные гири — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%A1%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B3%D0%B8%D1%80%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_05"
+  },
+  {
+    "id": "CRAFT_IND_001",
+    "type": "CRAFT",
+    "title": "Сердоликовые бусины",
+    "original": "Сердоликовые бусины",
+    "subtitle": "сложное ремесло обработки камня",
+    "era": "IND_CHAPTER_05",
+    "region": "Хараппские центры",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Сердоликовые бусины — сложное ремесло обработки камня. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять ремесленная практика, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: III тысячелетие до н. э..",
+      "Основной регион: Хараппские центры.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "ремесло",
+      "экономика"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 1,
+      "culture": 8,
+      "politics": 5,
+      "religion": 4,
+      "economy": 8,
+      "connections": 8
+    },
+    "image": {
+      "local": "assets/cards/indus/craft_ind_001.svg",
+      "caption": "Учебная обложка: Сердоликовые бусины",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "craft_ind_001.svg"
+    },
+    "source": {
+      "title": "Сердоликовые бусины — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%A1%D0%B5%D1%80%D0%B4%D0%BE%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B1%D1%83%D1%81%D0%B8%D0%BD%D1%8B",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_05"
+  },
+  {
+    "id": "ART_IND_003",
+    "type": "ARTIFACT",
+    "title": "Танцующая девушка",
+    "original": "Танцующая девушка",
+    "subtitle": "бронзовая фигурка из Мохенджо-Даро",
+    "era": "IND_CHAPTER_05",
+    "region": "Мохенджо-Даро",
+    "date": "ок. 2500 до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Танцующая девушка — бронзовая фигурка из Мохенджо-Даро. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять археологический предмет, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: ок. 2500 до н. э..",
+      "Основной регион: Мохенджо-Даро.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "артефакт",
+      "источник"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 1,
+      "culture": 10,
+      "politics": 7,
+      "religion": 6,
+      "economy": 10,
+      "connections": 10
+    },
+    "image": {
+      "local": "assets/cards/indus/art_ind_003.svg",
+      "caption": "Учебная обложка: Танцующая девушка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_ind_003.svg"
+    },
+    "source": {
+      "title": "Танцующая девушка — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Танцующая_девушка_(Мохенджо-Даро)",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_05",
+    "loc": {
+      "label": "Танцующая девушка",
+      "lat": 27.32,
+      "lng": 68.14
+    }
+  },
+  {
+    "id": "ART_IND_004",
+    "type": "ARTIFACT",
+    "title": "Царь-жрец",
+    "original": "Царь-жрец",
+    "subtitle": "каменный мужской бюст с условным названием",
+    "era": "IND_CHAPTER_05",
+    "region": "Мохенджо-Даро",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Царь-жрец — каменный мужской бюст с условным названием. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять археологический предмет, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Название дано современными исследователями.",
+      "Бюст не доказывает существование должности «царь-жрец».",
+      "Находка важна для изучения одежды и художественной традиции."
+    ],
+    "tags": [
+      "артефакт",
+      "источник"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 1,
+      "culture": 8,
+      "politics": 5,
+      "religion": 4,
+      "economy": 8,
+      "connections": 8
+    },
+    "image": {
+      "local": "assets/cards/indus/art_ind_004.svg",
+      "caption": "Учебная обложка: Царь-жрец",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_ind_004.svg"
+    },
+    "source": {
+      "title": "Царь-жрец — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Царь-жрец",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_05",
+    "loc": {
+      "label": "Царь-жрец",
+      "lat": 27.32,
+      "lng": 68.14
+    }
+  },
+  {
+    "id": "TERM_IND_004",
+    "type": "TERM",
+    "title": "Мелухха",
+    "original": "Мелухха",
+    "subtitle": "название восточной страны в месопотамских текстах",
+    "era": "IND_CHAPTER_06",
+    "region": "Месопотамия и Индский мир",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Мелухха — название восточной страны в месопотамских текстах. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять историческое понятие, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Название встречается в месопотамских текстах.",
+      "Его обычно связывают с Индской цивилизацией.",
+      "Точное географическое значение термина могло меняться."
+    ],
+    "tags": [
+      "понятие",
+      "анализ"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 1,
+      "culture": 9,
+      "politics": 9,
+      "religion": 6,
+      "economy": 9,
+      "connections": 10
+    },
+    "image": {
+      "local": "assets/cards/indus/term_ind_004.svg",
+      "caption": "Учебная обложка: Мелухха",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_ind_004.svg"
+    },
+    "source": {
+      "title": "Мелухха — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Мелухха",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_06"
+  },
+  {
+    "id": "BUILD_IND_003",
+    "type": "BUILDING",
+    "title": "Бассейн Лотхала",
+    "original": "Бассейн Лотхала",
+    "subtitle": "крупное кирпичное сооружение у торгового центра",
+    "era": "IND_CHAPTER_06",
+    "region": "Лотхал",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Бассейн Лотхала — крупное кирпичное сооружение у торгового центра. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять сооружение, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: III тысячелетие до н. э..",
+      "Основной регион: Лотхал.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "архитектура",
+      "город"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 1,
+      "culture": 7,
+      "politics": 5,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "image": {
+      "local": "assets/cards/indus/build_ind_003.svg",
+      "caption": "Учебная обложка: Бассейн Лотхала",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "build_ind_003.svg"
+    },
+    "source": {
+      "title": "Бассейн Лотхала — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%91%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD%20%D0%9B%D0%BE%D1%82%D1%85%D0%B0%D0%BB%D0%B0",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_06",
+    "loc": {
+      "label": "Бассейн Лотхала",
+      "lat": 22.52,
+      "lng": 72.25
+    }
+  },
+  {
+    "id": "SYS_IND_004",
+    "type": "SYSTEM",
+    "title": "Хараппские торговые сети",
+    "original": "Хараппские торговые сети",
+    "subtitle": "обмен сырьём и изделиями на больших расстояниях",
+    "era": "IND_CHAPTER_06",
+    "region": "Южная и Западная Азия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Хараппские торговые сети — обмен сырьём и изделиями на больших расстояниях. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять организационная система, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: III тысячелетие до н. э..",
+      "Основной регион: Южная и Западная Азия.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "общество",
+      "система"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 1,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 8,
+      "connections": 8
+    },
+    "image": {
+      "local": "assets/cards/indus/sys_ind_004.svg",
+      "caption": "Учебная обложка: Хараппские торговые сети",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_ind_004.svg"
+    },
+    "source": {
+      "title": "Хараппские торговые сети — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%A5%D0%B0%D1%80%D0%B0%D0%BF%D0%BF%D1%81%D0%BA%D0%B8%D0%B5%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_06"
+  },
+  {
+    "id": "SITE_IND_005",
+    "type": "SITE",
+    "title": "Шортугай",
+    "original": "Шортугай",
+    "subtitle": "хараппское поселение у лазуритовых путей",
+    "era": "IND_CHAPTER_06",
+    "region": "Северный Афганистан",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Шортугай — хараппское поселение у лазуритовых путей. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять археологический памятник, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: III тысячелетие до н. э..",
+      "Основной регион: Северный Афганистан.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "археология",
+      "памятник"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 5,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 3,
+      "religion": 2,
+      "economy": 5,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/indus/site_ind_005.svg",
+      "caption": "Учебная обложка: Шортугай",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "site_ind_005.svg"
+    },
+    "source": {
+      "title": "Шортугай — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Шортугай",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_06",
+    "loc": {
+      "label": "Шортугай",
+      "lat": 37.34,
+      "lng": 69.53
+    }
+  },
+  {
+    "id": "TERM_IND_005",
+    "type": "TERM",
+    "title": "Власть без прочитанных титулов",
+    "original": "Власть без прочитанных титулов",
+    "subtitle": "проблема реконструкции политики по археологии",
+    "era": "IND_CHAPTER_06",
+    "region": "Индский мир",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Власть без прочитанных титулов — проблема реконструкции политики по археологии. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять историческое понятие, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: III тысячелетие до н. э..",
+      "Основной регион: Индский мир.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "понятие",
+      "анализ"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 1,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "image": {
+      "local": "assets/cards/indus/term_ind_005.svg",
+      "caption": "Учебная обложка: Власть без прочитанных титулов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_ind_005.svg"
+    },
+    "source": {
+      "title": "Власть без прочитанных титулов — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C%20%D0%B1%D0%B5%D0%B7%20%D0%BF%D1%80%D0%BE%D1%87%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D1%82%D0%B8%D1%82%D1%83%D0%BB%D0%BE%D0%B2",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_06"
+  },
+  {
+    "id": "ART_IND_005",
+    "type": "ARTIFACT",
+    "title": "Индские печати в Месопотамии",
+    "original": "Индские печати в Месопотамии",
+    "subtitle": "следы контактов на западных маршрутах",
+    "era": "IND_CHAPTER_06",
+    "region": "Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Индские печати в Месопотамии — следы контактов на западных маршрутах. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять археологический предмет, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: III тысячелетие до н. э..",
+      "Основной регион: Месопотамия.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "артефакт",
+      "источник"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 5,
+      "legacy": 5,
+      "military": 1,
+      "culture": 6,
+      "politics": 3,
+      "religion": 2,
+      "economy": 6,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/indus/art_ind_005.svg",
+      "caption": "Учебная обложка: Индские печати в Месопотамии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_ind_005.svg"
+    },
+    "source": {
+      "title": "Индские печати в Месопотамии — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%98%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%B8%20%D0%B2%20%D0%9C%D0%B5%D1%81%D0%BE%D0%BF%D0%BE%D1%82%D0%B0%D0%BC%D0%B8%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_06"
+  },
+  {
+    "id": "EVENT_IND_001",
+    "type": "EVENT",
+    "title": "Деурбанизация Индской цивилизации",
+    "original": "Деурбанизация Индской цивилизации",
+    "subtitle": "сокращение крупных городских систем после 1900 года до н. э.",
+    "era": "IND_CHAPTER_07",
+    "region": "Северо-запад Южной Азии",
+    "date": "ок. 1900–1300 до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Деурбанизация Индской цивилизации — сокращение крупных городских систем после 1900 года до н. э.. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять историческое преобразование, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: ок. 1900–1300 до н. э..",
+      "Основной регион: Северо-запад Южной Азии.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "изменение",
+      "хронология"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 1,
+      "culture": 9,
+      "politics": 7,
+      "religion": 6,
+      "economy": 9,
+      "connections": 10
+    },
+    "image": {
+      "local": "assets/cards/indus/event_ind_001.svg",
+      "caption": "Учебная обложка: Деурбанизация Индской цивилизации",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "event_ind_001.svg"
+    },
+    "source": {
+      "title": "Деурбанизация Индской цивилизации — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%94%D0%B5%D1%83%D1%80%D0%B1%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%98%D0%BD%D0%B4%D1%81%D0%BA%D0%BE%D0%B9%20%D1%86%D0%B8%D0%B2%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_07"
+  },
+  {
+    "id": "TERM_IND_006",
+    "type": "TERM",
+    "title": "Позднехараппский период",
+    "original": "Позднехараппский период",
+    "subtitle": "региональные культуры после зрелой городской фазы",
+    "era": "IND_CHAPTER_07",
+    "region": "Южная Азия",
+    "date": "ок. 1900–1300 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Позднехараппский период — региональные культуры после зрелой городской фазы. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять историческое понятие, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: ок. 1900–1300 до н. э..",
+      "Основной регион: Южная Азия.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "понятие",
+      "анализ"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 1,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "image": {
+      "local": "assets/cards/indus/term_ind_006.svg",
+      "caption": "Учебная обложка: Позднехараппский период",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_ind_006.svg"
+    },
+    "source": {
+      "title": "Позднехараппский период — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%9F%D0%BE%D0%B7%D0%B4%D0%BD%D0%B5%D1%85%D0%B0%D1%80%D0%B0%D0%BF%D0%BF%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_07"
+  },
+  {
+    "id": "CULT_IND_002",
+    "type": "CULTURE",
+    "title": "Культура кладбища H",
+    "original": "Культура кладбища H",
+    "subtitle": "поздняя традиция района Хараппы",
+    "era": "IND_CHAPTER_07",
+    "region": "Пенджаб",
+    "date": "ок. 1900–1300 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Культура кладбища H — поздняя традиция района Хараппы. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять археологическая культура, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: ок. 1900–1300 до н. э..",
+      "Основной регион: Пенджаб.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "культура",
+      "археология"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 5,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 3,
+      "religion": 2,
+      "economy": 5,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/indus/cult_ind_002.svg",
+      "caption": "Учебная обложка: Культура кладбища H",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "cult_ind_002.svg"
+    },
+    "source": {
+      "title": "Культура кладбища H — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Культура_кладбища_H",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_07"
+  },
+  {
+    "id": "TERM_IND_007",
+    "type": "TERM",
+    "title": "Изменение речных систем",
+    "original": "Изменение речных систем",
+    "subtitle": "перестройка водных русел и расселения",
+    "era": "IND_CHAPTER_07",
+    "region": "Северо-запад Южной Азии",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Изменение речных систем — перестройка водных русел и расселения. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять историческое понятие, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной регион: Северо-запад Южной Азии.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "понятие",
+      "анализ"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 1,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "image": {
+      "local": "assets/cards/indus/term_ind_007.svg",
+      "caption": "Учебная обложка: Изменение речных систем",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_ind_007.svg"
+    },
+    "source": {
+      "title": "Изменение речных систем — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%80%D0%B5%D1%87%D0%BD%D1%8B%D1%85%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_07"
+  },
+  {
+    "id": "TERM_IND_008",
+    "type": "TERM",
+    "title": "Аридизация позднего III тысячелетия",
+    "original": "Аридизация позднего III тысячелетия",
+    "subtitle": "долговременное ослабление муссонов",
+    "era": "IND_CHAPTER_07",
+    "region": "Южная Азия",
+    "date": "конец III — начало II тысячелетия до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Аридизация позднего III тысячелетия — долговременное ослабление муссонов. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять историческое понятие, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: конец III — начало II тысячелетия до н. э..",
+      "Основной регион: Южная Азия.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "понятие",
+      "анализ"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 1,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "image": {
+      "local": "assets/cards/indus/term_ind_008.svg",
+      "caption": "Учебная обложка: Аридизация позднего III тысячелетия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_ind_008.svg"
+    },
+    "source": {
+      "title": "Аридизация позднего III тысячелетия — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%90%D1%80%D0%B8%D0%B4%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%B7%D0%B4%D0%BD%D0%B5%D0%B3%D0%BE%20III%20%D1%82%D1%8B%D1%81%D1%8F%D1%87%D0%B5%D0%BB%D0%B5%D1%82%D0%B8%D1%8F",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_07"
+  },
+  {
+    "id": "TERM_IND_009",
+    "type": "TERM",
+    "title": "Региональная преемственность",
+    "original": "Региональная преемственность",
+    "subtitle": "сохранение населения и практик после городского спада",
+    "era": "IND_CHAPTER_07",
+    "region": "Южная Азия",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Региональная преемственность — сохранение населения и практик после городского спада. Карточка рассматривает объект по археологическим данным и показывает его место в истории Индской цивилизации.",
+    "importance": "Помогает понять историческое понятие, не приписывая источникам сведений, которых они не содержат.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Основной регион: Южная Азия.",
+      "Интерпретация опирается на материальные находки; письменные знаки Индской цивилизации пока не расшифрованы."
+    ],
+    "tags": [
+      "понятие",
+      "анализ"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 5,
+      "legacy": 5,
+      "military": 1,
+      "culture": 5,
+      "politics": 5,
+      "religion": 2,
+      "economy": 5,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/indus/term_ind_009.svg",
+      "caption": "Учебная обложка: Региональная преемственность",
+      "credit": "Codex of History · локальная учебная обложка",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_ind_009.svg"
+    },
+    "source": {
+      "title": "Региональная преемственность — справочная статья",
+      "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D1%80%D0%B5%D0%B5%D0%BC%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+      "type": "wikipedia"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "INDUS",
+    "chapter": "IND_CHAPTER_07"
+  }
+]

@@ -4395,5 +4395,741 @@
     "type": "СРАВНЕНИЕ",
     "description": "Урук представляет городское государство.",
     "strength": 8
+  },
+  {
+    "id": "REL_IND_0568",
+    "source": "STATE_IND_001",
+    "target": "RIV_IND_001",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0569",
+    "source": "RIV_IND_001",
+    "target": "REG_IND_001",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0570",
+    "source": "REG_IND_001",
+    "target": "REG_IND_002",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0571",
+    "source": "REG_IND_002",
+    "target": "REG_IND_003",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0572",
+    "source": "REG_IND_003",
+    "target": "RIV_IND_002",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0573",
+    "source": "RIV_IND_002",
+    "target": "SITE_IND_001",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0574",
+    "source": "SITE_IND_001",
+    "target": "CULT_IND_001",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0575",
+    "source": "CULT_IND_001",
+    "target": "SITE_IND_002",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0576",
+    "source": "SITE_IND_002",
+    "target": "SITE_IND_003",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0577",
+    "source": "SITE_IND_003",
+    "target": "SITE_IND_004",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0578",
+    "source": "SITE_IND_004",
+    "target": "TERM_IND_001",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0579",
+    "source": "TERM_IND_001",
+    "target": "CITY_IND_001",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0580",
+    "source": "CITY_IND_001",
+    "target": "CITY_IND_002",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0581",
+    "source": "CITY_IND_002",
+    "target": "CITY_IND_003",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0582",
+    "source": "CITY_IND_003",
+    "target": "CITY_IND_004",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0583",
+    "source": "CITY_IND_004",
+    "target": "CITY_IND_005",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0584",
+    "source": "CITY_IND_005",
+    "target": "TERM_IND_002",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0585",
+    "source": "TERM_IND_002",
+    "target": "BUILD_IND_001",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0586",
+    "source": "BUILD_IND_001",
+    "target": "SYS_IND_001",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0587",
+    "source": "SYS_IND_001",
+    "target": "SYS_IND_002",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0588",
+    "source": "SYS_IND_002",
+    "target": "BUILD_IND_002",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0589",
+    "source": "BUILD_IND_002",
+    "target": "SYS_IND_003",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0590",
+    "source": "SYS_IND_003",
+    "target": "TERM_IND_003",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0591",
+    "source": "TERM_IND_003",
+    "target": "TEXT_IND_001",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0592",
+    "source": "TEXT_IND_001",
+    "target": "ART_IND_001",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0593",
+    "source": "ART_IND_001",
+    "target": "ART_IND_002",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0594",
+    "source": "ART_IND_002",
+    "target": "CRAFT_IND_001",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0595",
+    "source": "CRAFT_IND_001",
+    "target": "ART_IND_003",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0596",
+    "source": "ART_IND_003",
+    "target": "ART_IND_004",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0597",
+    "source": "ART_IND_004",
+    "target": "TERM_IND_004",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0598",
+    "source": "TERM_IND_004",
+    "target": "BUILD_IND_003",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0599",
+    "source": "BUILD_IND_003",
+    "target": "SYS_IND_004",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0600",
+    "source": "SYS_IND_004",
+    "target": "SITE_IND_005",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0601",
+    "source": "SITE_IND_005",
+    "target": "TERM_IND_005",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0602",
+    "source": "TERM_IND_005",
+    "target": "ART_IND_005",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0603",
+    "source": "ART_IND_005",
+    "target": "EVENT_IND_001",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0604",
+    "source": "EVENT_IND_001",
+    "target": "TERM_IND_006",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0605",
+    "source": "TERM_IND_006",
+    "target": "CULT_IND_002",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0606",
+    "source": "CULT_IND_002",
+    "target": "TERM_IND_007",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0607",
+    "source": "TERM_IND_007",
+    "target": "TERM_IND_008",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0608",
+    "source": "TERM_IND_008",
+    "target": "TERM_IND_009",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0609",
+    "source": "TERM_IND_009",
+    "target": "REG_INDA_001",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0610",
+    "source": "REG_INDA_001",
+    "target": "REG_INDA_002",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0611",
+    "source": "REG_INDA_002",
+    "target": "RIV_INDA_001",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0612",
+    "source": "RIV_INDA_001",
+    "target": "RIV_INDA_002",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0613",
+    "source": "RIV_INDA_002",
+    "target": "RIV_INDA_003",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0614",
+    "source": "RIV_INDA_003",
+    "target": "TERM_INDA_001",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0615",
+    "source": "TERM_INDA_001",
+    "target": "TERM_INDA_002",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0616",
+    "source": "TERM_INDA_002",
+    "target": "ART_INDA_001",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0617",
+    "source": "ART_INDA_001",
+    "target": "TERM_INDA_003",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0618",
+    "source": "TERM_INDA_003",
+    "target": "ART_INDA_002",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0619",
+    "source": "ART_INDA_002",
+    "target": "TERM_INDA_004",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0620",
+    "source": "TERM_INDA_004",
+    "target": "SITE_INDA_001",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0621",
+    "source": "SITE_INDA_001",
+    "target": "SITE_INDA_002",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0622",
+    "source": "SITE_INDA_002",
+    "target": "ART_INDA_003",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0623",
+    "source": "ART_INDA_003",
+    "target": "CITY_INDA_001",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0624",
+    "source": "CITY_INDA_001",
+    "target": "CITY_INDA_002",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0625",
+    "source": "CITY_INDA_002",
+    "target": "CITY_INDA_003",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0626",
+    "source": "CITY_INDA_003",
+    "target": "CITY_INDA_004",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0627",
+    "source": "CITY_INDA_004",
+    "target": "SITE_INDA_003",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0628",
+    "source": "SITE_INDA_003",
+    "target": "SITE_INDA_004",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0629",
+    "source": "SITE_INDA_004",
+    "target": "TERM_INDA_005",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0630",
+    "source": "TERM_INDA_005",
+    "target": "BUILD_INDA_001",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0631",
+    "source": "BUILD_INDA_001",
+    "target": "BUILD_INDA_002",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0632",
+    "source": "BUILD_INDA_002",
+    "target": "TERM_INDA_006",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0633",
+    "source": "TERM_INDA_006",
+    "target": "TERM_INDA_007",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0634",
+    "source": "TERM_INDA_007",
+    "target": "ART_INDA_004",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0635",
+    "source": "ART_INDA_004",
+    "target": "BUILD_INDA_003",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0636",
+    "source": "BUILD_INDA_003",
+    "target": "BUILD_INDA_004",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0637",
+    "source": "BUILD_INDA_004",
+    "target": "ART_INDA_005",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0638",
+    "source": "ART_INDA_005",
+    "target": "ART_INDA_006",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0639",
+    "source": "ART_INDA_006",
+    "target": "CRAFT_INDA_001",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0640",
+    "source": "CRAFT_INDA_001",
+    "target": "CRAFT_INDA_002",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0641",
+    "source": "CRAFT_INDA_002",
+    "target": "CRAFT_INDA_003",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0642",
+    "source": "CRAFT_INDA_003",
+    "target": "CRAFT_INDA_004",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0643",
+    "source": "CRAFT_INDA_004",
+    "target": "TERM_INDA_008",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0644",
+    "source": "TERM_INDA_008",
+    "target": "TERM_INDA_009",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0645",
+    "source": "TERM_INDA_009",
+    "target": "TERM_INDA_010",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0646",
+    "source": "TERM_INDA_010",
+    "target": "ART_INDA_007",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0647",
+    "source": "ART_INDA_007",
+    "target": "TERM_INDA_011",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0648",
+    "source": "TERM_INDA_011",
+    "target": "ART_INDA_008",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0649",
+    "source": "ART_INDA_008",
+    "target": "CRAFT_INDA_005",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0650",
+    "source": "CRAFT_INDA_005",
+    "target": "TERM_INDA_012",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0651",
+    "source": "TERM_INDA_012",
+    "target": "SITE_INDA_005",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0652",
+    "source": "SITE_INDA_005",
+    "target": "TERM_INDA_013",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0653",
+    "source": "TERM_INDA_013",
+    "target": "ART_INDA_009",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0654",
+    "source": "ART_INDA_009",
+    "target": "TERM_INDA_014",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0655",
+    "source": "TERM_INDA_014",
+    "target": "TERM_INDA_015",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0656",
+    "source": "TERM_INDA_015",
+    "target": "TERM_INDA_016",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0657",
+    "source": "TERM_INDA_016",
+    "target": "TERM_INDA_017",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_0658",
+    "source": "TERM_INDA_017",
+    "target": "STATE_IND_001",
+    "type": "СВЯЗЬ",
+    "description": "Карточки связаны внутри кампании Индской цивилизации.",
+    "strength": 6
+  },
+  {
+    "id": "REL_IND_X_659",
+    "source": "ART_IND_005",
+    "target": "CITY_MES_011",
+    "type": "ТОРГОВЛЯ",
+    "description": "Индские печати найдены в Уре и других западных центрах.",
+    "strength": 8
   }
 ]

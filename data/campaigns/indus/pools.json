@@ -1,0 +1,575 @@
+{
+  "campaignId": "INDUS",
+  "campaigns": {
+    "INDUS": {
+      "id": "INDUS",
+      "title": "Индская цивилизация",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "IND_POOL_01",
+      "campaign": "INDUS",
+      "title": "Реки и пространство Индской цивилизации",
+      "unlockMission": "IND_01_02",
+      "cardIds": [
+        "REG_INDA_001",
+        "REG_INDA_002",
+        "RIV_INDA_001",
+        "RIV_INDA_002",
+        "RIV_INDA_003",
+        "TERM_INDA_001",
+        "TERM_INDA_002"
+      ]
+    },
+    {
+      "id": "IND_POOL_02",
+      "campaign": "INDUS",
+      "title": "От деревень к региональным центрам",
+      "unlockMission": "IND_02_02",
+      "cardIds": [
+        "ART_INDA_001",
+        "TERM_INDA_003",
+        "ART_INDA_002",
+        "TERM_INDA_004",
+        "SITE_INDA_001",
+        "SITE_INDA_002",
+        "ART_INDA_003"
+      ]
+    },
+    {
+      "id": "IND_POOL_03",
+      "campaign": "INDUS",
+      "title": "Города и единая культурная система",
+      "unlockMission": "IND_03_02",
+      "cardIds": [
+        "CITY_INDA_001",
+        "CITY_INDA_002",
+        "CITY_INDA_003",
+        "CITY_INDA_004",
+        "SITE_INDA_003",
+        "SITE_INDA_004",
+        "TERM_INDA_005"
+      ]
+    },
+    {
+      "id": "IND_POOL_04",
+      "campaign": "INDUS",
+      "title": "Городское планирование и вода",
+      "unlockMission": "IND_04_02",
+      "cardIds": [
+        "BUILD_INDA_001",
+        "BUILD_INDA_002",
+        "TERM_INDA_006",
+        "TERM_INDA_007",
+        "ART_INDA_004",
+        "BUILD_INDA_003",
+        "BUILD_INDA_004"
+      ]
+    },
+    {
+      "id": "IND_POOL_05",
+      "campaign": "INDUS",
+      "title": "Ремёсла, меры, печати и письмо",
+      "unlockMission": "IND_05_02",
+      "cardIds": [
+        "ART_INDA_005",
+        "ART_INDA_006",
+        "CRAFT_INDA_001",
+        "CRAFT_INDA_002",
+        "CRAFT_INDA_003",
+        "CRAFT_INDA_004",
+        "TERM_INDA_008"
+      ]
+    },
+    {
+      "id": "IND_POOL_06",
+      "campaign": "INDUS",
+      "title": "Торговля и общество",
+      "unlockMission": "IND_06_02",
+      "cardIds": [
+        "TERM_INDA_009",
+        "TERM_INDA_010",
+        "ART_INDA_007",
+        "TERM_INDA_011",
+        "ART_INDA_008",
+        "CRAFT_INDA_005",
+        "TERM_INDA_012"
+      ]
+    },
+    {
+      "id": "IND_POOL_07",
+      "campaign": "INDUS",
+      "title": "Трансформация после городского расцвета",
+      "unlockMission": "IND_07_02",
+      "cardIds": [
+        "SITE_INDA_005",
+        "TERM_INDA_013",
+        "ART_INDA_009",
+        "TERM_INDA_014",
+        "TERM_INDA_015",
+        "TERM_INDA_016",
+        "TERM_INDA_017"
+      ]
+    }
+  ],
+  "acquisition": {
+    "REG_INDA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_01"
+    },
+    "REG_INDA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_01"
+    },
+    "RIV_INDA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_01"
+    },
+    "RIV_INDA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_01"
+    },
+    "RIV_INDA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_01"
+    },
+    "TERM_INDA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_01"
+    },
+    "TERM_INDA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_01"
+    },
+    "STATE_IND_001": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_01"
+    },
+    "RIV_IND_001": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_01"
+    },
+    "REG_IND_001": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_01"
+    },
+    "REG_IND_002": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_01"
+    },
+    "REG_IND_003": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_01"
+    },
+    "RIV_IND_002": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_01"
+    },
+    "ART_INDA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_02"
+    },
+    "TERM_INDA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_02"
+    },
+    "ART_INDA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_02"
+    },
+    "TERM_INDA_004": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_02"
+    },
+    "SITE_INDA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_02"
+    },
+    "SITE_INDA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_02"
+    },
+    "ART_INDA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_02"
+    },
+    "SITE_IND_001": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_02"
+    },
+    "CULT_IND_001": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_02"
+    },
+    "SITE_IND_002": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_02"
+    },
+    "SITE_IND_003": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_02"
+    },
+    "SITE_IND_004": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_02"
+    },
+    "TERM_IND_001": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_02"
+    },
+    "CITY_INDA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_03"
+    },
+    "CITY_INDA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_03"
+    },
+    "CITY_INDA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_03"
+    },
+    "CITY_INDA_004": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_03"
+    },
+    "SITE_INDA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_03"
+    },
+    "SITE_INDA_004": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_03"
+    },
+    "TERM_INDA_005": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_03"
+    },
+    "CITY_IND_001": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_03"
+    },
+    "CITY_IND_002": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_03"
+    },
+    "CITY_IND_003": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_03"
+    },
+    "CITY_IND_004": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_03"
+    },
+    "CITY_IND_005": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_03"
+    },
+    "TERM_IND_002": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_03"
+    },
+    "BUILD_INDA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_04"
+    },
+    "BUILD_INDA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_04"
+    },
+    "TERM_INDA_006": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_04"
+    },
+    "TERM_INDA_007": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_04"
+    },
+    "ART_INDA_004": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_04"
+    },
+    "BUILD_INDA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_04"
+    },
+    "BUILD_INDA_004": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_04"
+    },
+    "BUILD_IND_001": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_04"
+    },
+    "SYS_IND_001": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_04"
+    },
+    "SYS_IND_002": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_04"
+    },
+    "BUILD_IND_002": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_04"
+    },
+    "SYS_IND_003": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_04"
+    },
+    "TERM_IND_003": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_04"
+    },
+    "ART_INDA_005": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_05"
+    },
+    "ART_INDA_006": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_05"
+    },
+    "CRAFT_INDA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_05"
+    },
+    "CRAFT_INDA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_05"
+    },
+    "CRAFT_INDA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_05"
+    },
+    "CRAFT_INDA_004": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_05"
+    },
+    "TERM_INDA_008": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_05"
+    },
+    "TEXT_IND_001": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_05"
+    },
+    "ART_IND_001": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_05"
+    },
+    "ART_IND_002": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_05"
+    },
+    "CRAFT_IND_001": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_05"
+    },
+    "ART_IND_003": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_05"
+    },
+    "ART_IND_004": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_05"
+    },
+    "TERM_INDA_009": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_06"
+    },
+    "TERM_INDA_010": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_06"
+    },
+    "ART_INDA_007": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_06"
+    },
+    "TERM_INDA_011": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_06"
+    },
+    "ART_INDA_008": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_06"
+    },
+    "CRAFT_INDA_005": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_06"
+    },
+    "TERM_INDA_012": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_06"
+    },
+    "TERM_IND_004": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_06"
+    },
+    "BUILD_IND_003": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_06"
+    },
+    "SYS_IND_004": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_06"
+    },
+    "SITE_IND_005": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_06"
+    },
+    "TERM_IND_005": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_06"
+    },
+    "ART_IND_005": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_06"
+    },
+    "SITE_INDA_005": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_07"
+    },
+    "TERM_INDA_013": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_07"
+    },
+    "ART_INDA_009": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_07"
+    },
+    "TERM_INDA_014": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_07"
+    },
+    "TERM_INDA_015": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_07"
+    },
+    "TERM_INDA_016": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_07"
+    },
+    "TERM_INDA_017": {
+      "kind": "ARCHIVE",
+      "campaign": "INDUS",
+      "pool": "IND_POOL_07"
+    },
+    "EVENT_IND_001": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_07"
+    },
+    "TERM_IND_006": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_07"
+    },
+    "CULT_IND_002": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_07"
+    },
+    "TERM_IND_007": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_07"
+    },
+    "TERM_IND_008": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_07"
+    },
+    "TERM_IND_009": {
+      "kind": "STORY",
+      "campaign": "INDUS",
+      "chapter": "IND_CHAPTER_07"
+    }
+  }
+}

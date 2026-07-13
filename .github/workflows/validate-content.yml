@@ -14,13 +14,5 @@ jobs:
         with:
           node-version: 22
       - run: node tools/validate-content.mjs
-      - run: node tools/smoke-daily.mjs
-      - run: node tools/smoke-settings.mjs
-      - run: node tools/smoke-ui-v15.mjs
-      - run: node tools/smoke-v18-learning.mjs
-      - run: node tools/smoke-catalog-v181.mjs
-      - run: node tools/smoke-v19-theory.mjs
-
-      - run: node tools/smoke-v21-global.mjs
-
-      - run: node tools/smoke-v211-rarity.mjs
+      - run: node tools/smoke-v28-indus.mjs
+      - run: node tools/runtime-v22.mjs

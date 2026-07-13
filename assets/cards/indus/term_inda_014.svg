@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 960">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#394b84"/><stop offset="1" stop-color="#0d1718"/></linearGradient><pattern id="p" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M0 21H42M21 0V42" stroke="#8da8ff" stroke-opacity=".08"/></pattern></defs>
+<rect width="720" height="960" fill="url(#g)"/><rect width="720" height="960" fill="url(#p)"/>
+<circle cx="360" cy="325" r="190" fill="none" stroke="#8da8ff" stroke-opacity=".28" stroke-width="3"/>
+<circle cx="360" cy="325" r="145" fill="none" stroke="#8da8ff" stroke-opacity=".14" stroke-width="18"/>
+<text x="360" y="380" text-anchor="middle" font-family="Georgia,serif" font-size="180" fill="#8da8ff">§</text>
+<path d="M120 610H600" stroke="#8da8ff" stroke-width="3" stroke-opacity=".7"/>
+<text x="360" y="690" text-anchor="middle" font-family="Georgia,serif" font-size="42" font-weight="700" fill="#fff">Исчезновение печатей и письма</text>
+<foreignObject x="95" y="720" width="530" height="95"><div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Arial,sans-serif;text-align:center;color:#dce7e2;font-size:25px;line-height:1.25">сворачивание прежних административных знаков</div></foreignObject>
+<text x="360" y="895" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" letter-spacing="5" fill="#8da8ff">RARE</text>
+</svg>

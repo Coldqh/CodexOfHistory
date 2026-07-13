@@ -1,0 +1,1179 @@
+{
+  "id": "INDUS",
+  "title": "Индская цивилизация",
+  "description": "Полная кампания о ранних поселениях, хараппских городах, воде, ремёслах, торговле, нерасшифрованном письме и преобразованиях после 1900 года до н. э.",
+  "difficulty": 5,
+  "chapters": [
+    {
+      "id": "IND_CHAPTER_01",
+      "number": 1,
+      "title": "Реки и пространство Индской цивилизации",
+      "subtitle": "Инд, притоки, равнины и морские пути",
+      "description": "Рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "IND_01_01",
+        "IND_01_02",
+        "IND_01_03",
+        "IND_01_04",
+        "IND_01_05",
+        "IND_01_06"
+      ]
+    },
+    {
+      "id": "IND_CHAPTER_02",
+      "number": 2,
+      "title": "От деревень к региональным центрам",
+      "subtitle": "Мехргарх, ранние поселения и регионализация",
+      "description": "Рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "IND_02_01",
+        "IND_02_02",
+        "IND_02_03",
+        "IND_02_04",
+        "IND_02_05",
+        "IND_02_06"
+      ]
+    },
+    {
+      "id": "IND_CHAPTER_03",
+      "number": 3,
+      "title": "Города и единая культурная система",
+      "subtitle": "Хараппа, Мохенджо-Даро, Дхолавира и другие центры",
+      "description": "Рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "IND_03_01",
+        "IND_03_02",
+        "IND_03_03",
+        "IND_03_04",
+        "IND_03_05",
+        "IND_03_06"
+      ]
+    },
+    {
+      "id": "IND_CHAPTER_04",
+      "number": 4,
+      "title": "Городское планирование и вода",
+      "subtitle": "Кирпич, улицы, колодцы, стоки и резервуары",
+      "description": "Рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "IND_04_01",
+        "IND_04_02",
+        "IND_04_03",
+        "IND_04_04",
+        "IND_04_05",
+        "IND_04_06"
+      ]
+    },
+    {
+      "id": "IND_CHAPTER_05",
+      "number": 5,
+      "title": "Ремёсла, меры, печати и письмо",
+      "subtitle": "Стандартизация производства и нерасшифрованные знаки",
+      "description": "Рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "IND_05_01",
+        "IND_05_02",
+        "IND_05_03",
+        "IND_05_04",
+        "IND_05_05",
+        "IND_05_06"
+      ]
+    },
+    {
+      "id": "IND_CHAPTER_06",
+      "number": 6,
+      "title": "Торговля и общество",
+      "subtitle": "Мелухха, морские маршруты и социальная организация",
+      "description": "Рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "IND_06_01",
+        "IND_06_02",
+        "IND_06_03",
+        "IND_06_04",
+        "IND_06_05",
+        "IND_06_06"
+      ]
+    },
+    {
+      "id": "IND_CHAPTER_07",
+      "number": 7,
+      "title": "Трансформация после городского расцвета",
+      "subtitle": "Деурбанизация, климат, реки и региональная преемственность",
+      "description": "Рассказ, хронология, разбор, теория и практика.",
+      "missionIds": [
+        "IND_07_01",
+        "IND_07_02",
+        "IND_07_03",
+        "IND_07_04",
+        "IND_07_05",
+        "IND_07_06"
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "id": "IND_01_01",
+      "type": "LESSON",
+      "title": "Большой речной мир",
+      "description": "Почему Индская цивилизация охватывала несколько речных и прибрежных зон",
+      "cards": [
+        "STATE_IND_001",
+        "RIV_IND_001",
+        "REG_IND_001"
+      ],
+      "unlockCards": [
+        "REG_INDA_001"
+      ],
+      "xp": 122,
+      "emoji": "▤",
+      "chapterId": "IND_CHAPTER_01",
+      "lessonId": "IND_01_01"
+    },
+    {
+      "id": "IND_01_02",
+      "type": "CAUSE_EFFECT",
+      "title": "Вода, паводки и земледелие",
+      "description": "Как речная изменчивость влияла на поселения и урожай",
+      "cards": [
+        "RIV_IND_001",
+        "REG_IND_001",
+        "REG_IND_002"
+      ],
+      "unlockCards": [
+        "REG_INDA_002"
+      ],
+      "xp": 132,
+      "emoji": "◉",
+      "chapterId": "IND_CHAPTER_01",
+      "lessonId": "IND_01_02"
+    },
+    {
+      "id": "IND_01_03",
+      "type": "MAP",
+      "title": "Пенджаб, Синд и Гуджарат",
+      "description": "Найти основные регионы и устье Инда",
+      "cards": [
+        "REG_IND_001",
+        "REG_IND_002",
+        "REG_IND_003"
+      ],
+      "unlockCards": [
+        "RIV_INDA_001"
+      ],
+      "xp": 142,
+      "emoji": "⌖",
+      "chapterId": "IND_CHAPTER_01",
+      "lessonId": "IND_01_03",
+      "mapTargets": [
+        {
+          "key": "indus",
+          "label": "Инд",
+          "point": "INDUS_MIDDLE",
+          "zoom": 6,
+          "radius": 260000
+        },
+        {
+          "key": "punjab",
+          "label": "Пенджаб",
+          "point": "PUNJAB",
+          "zoom": 6,
+          "radius": 230000
+        },
+        {
+          "key": "gujarat",
+          "label": "Гуджарат",
+          "point": "GUJARAT",
+          "zoom": 6,
+          "radius": 220000
+        }
+      ]
+    },
+    {
+      "id": "IND_01_04",
+      "type": "SYSTEM",
+      "title": "Не одна долина",
+      "description": "Почему название «долина Инда» не покрывает всю географию цивилизации",
+      "cards": [
+        "REG_IND_002",
+        "REG_IND_003",
+        "RIV_IND_002"
+      ],
+      "unlockCards": [
+        "RIV_INDA_002"
+      ],
+      "xp": 152,
+      "emoji": "◎",
+      "chapterId": "IND_CHAPTER_01",
+      "lessonId": "IND_01_04"
+    },
+    {
+      "id": "IND_01_05",
+      "type": "TIMELINE",
+      "title": "География до городов",
+      "description": "Расположить этапы освоения регионов",
+      "cards": [
+        "REG_IND_003",
+        "RIV_IND_002",
+        "STATE_IND_001"
+      ],
+      "unlockCards": [
+        "RIV_INDA_003"
+      ],
+      "xp": 162,
+      "emoji": "⌛",
+      "chapterId": "IND_CHAPTER_01",
+      "lessonId": "IND_01_05",
+      "timeline": {
+        "order": [
+          "i1_0",
+          "i1_1",
+          "i1_2",
+          "i1_3"
+        ],
+        "labels": {
+          "i1_0": "ок. 7000–4000 до н. э. · Ранние земледельческие зоны",
+          "i1_1": "IV тысячелетие до н. э. · Рост региональных поселений",
+          "i1_2": "ок. 3300–2600 до н. э. · Укрепление речных и прибрежных сетей",
+          "i1_3": "ок. 2600 до н. э. · Формирование зрелой городской системы"
+        },
+        "shuffle": [
+          "i1_2",
+          "i1_0",
+          "i1_3",
+          "i1_1"
+        ]
+      }
+    },
+    {
+      "id": "IND_01_06",
+      "type": "FINAL",
+      "title": "Итог: пространство цивилизации",
+      "description": "Проверка географии и природных условий",
+      "cards": [
+        "RIV_IND_002",
+        "STATE_IND_001",
+        "RIV_IND_001"
+      ],
+      "unlockCards": [
+        "TERM_INDA_001"
+      ],
+      "xp": 172,
+      "emoji": "◆",
+      "chapterId": "IND_CHAPTER_01",
+      "lessonId": "IND_01_06",
+      "quiz": "QUIZ_IND_CH1"
+    },
+    {
+      "id": "IND_02_01",
+      "type": "LESSON",
+      "title": "Мехргарх и долгая предыстория",
+      "description": "Как ранние земледельческие сообщества создали основу будущей урбанизации",
+      "cards": [
+        "SITE_IND_001",
+        "CULT_IND_001",
+        "SITE_IND_002"
+      ],
+      "unlockCards": [
+        "ART_INDA_001"
+      ],
+      "xp": 134,
+      "emoji": "▤",
+      "chapterId": "IND_CHAPTER_02",
+      "lessonId": "IND_02_01"
+    },
+    {
+      "id": "IND_02_02",
+      "type": "CAUSE_EFFECT",
+      "title": "Рост ремёсел и обмена",
+      "description": "Почему специализация появилась до великих городов",
+      "cards": [
+        "CULT_IND_001",
+        "SITE_IND_002",
+        "SITE_IND_003"
+      ],
+      "unlockCards": [
+        "TERM_INDA_003"
+      ],
+      "xp": 144,
+      "emoji": "◉",
+      "chapterId": "IND_CHAPTER_02",
+      "lessonId": "IND_02_02"
+    },
+    {
+      "id": "IND_02_03",
+      "type": "MAP",
+      "title": "Кот-Диджи, Амри и Рехман-Дхери",
+      "description": "Найти ранние региональные центры",
+      "cards": [
+        "SITE_IND_002",
+        "SITE_IND_003",
+        "SITE_IND_004"
+      ],
+      "unlockCards": [
+        "ART_INDA_002"
+      ],
+      "xp": 154,
+      "emoji": "⌖",
+      "chapterId": "IND_CHAPTER_02",
+      "lessonId": "IND_02_03",
+      "mapTargets": [
+        {
+          "key": "mehrgarh",
+          "label": "Мехргарх",
+          "point": "MEHRGARH",
+          "zoom": 8,
+          "radius": 35000
+        },
+        {
+          "key": "kotdiji",
+          "label": "Кот-Диджи",
+          "point": "KOT_DIJI",
+          "zoom": 8,
+          "radius": 30000
+        },
+        {
+          "key": "rehman",
+          "label": "Рехман-Дхери",
+          "point": "REHMAN_DHERI",
+          "zoom": 8,
+          "radius": 35000
+        }
+      ]
+    },
+    {
+      "id": "IND_02_04",
+      "type": "SYSTEM",
+      "title": "Регионализация",
+      "description": "Как разные местные традиции начали сближаться",
+      "cards": [
+        "SITE_IND_003",
+        "SITE_IND_004",
+        "TERM_IND_001"
+      ],
+      "unlockCards": [
+        "TERM_INDA_004"
+      ],
+      "xp": 164,
+      "emoji": "◎",
+      "chapterId": "IND_CHAPTER_02",
+      "lessonId": "IND_02_04"
+    },
+    {
+      "id": "IND_02_05",
+      "type": "TIMELINE",
+      "title": "От неолита к ранней Хараппе",
+      "description": "Собрать хронологию предгородского развития",
+      "cards": [
+        "SITE_IND_004",
+        "TERM_IND_001",
+        "SITE_IND_001"
+      ],
+      "unlockCards": [
+        "SITE_INDA_001"
+      ],
+      "xp": 174,
+      "emoji": "⌛",
+      "chapterId": "IND_CHAPTER_02",
+      "lessonId": "IND_02_05",
+      "timeline": {
+        "order": [
+          "i2_0",
+          "i2_1",
+          "i2_2",
+          "i2_3"
+        ],
+        "labels": {
+          "i2_0": "ок. 7000 до н. э. · Ранний Мехргарх",
+          "i2_1": "V–IV тысячелетия до н. э. · Ремёсла и обмен",
+          "i2_2": "ок. 3300–2800 до н. э. · Региональные центры",
+          "i2_3": "ок. 2600 до н. э. · Переход к зрелой фазе"
+        },
+        "shuffle": [
+          "i2_2",
+          "i2_0",
+          "i2_3",
+          "i2_1"
+        ]
+      }
+    },
+    {
+      "id": "IND_02_06",
+      "type": "FINAL",
+      "title": "Итог: путь к урбанизации",
+      "description": "Проверка ранних культур и обмена",
+      "cards": [
+        "TERM_IND_001",
+        "SITE_IND_001",
+        "CULT_IND_001"
+      ],
+      "unlockCards": [
+        "SITE_INDA_002"
+      ],
+      "xp": 184,
+      "emoji": "◆",
+      "chapterId": "IND_CHAPTER_02",
+      "lessonId": "IND_02_06",
+      "quiz": "QUIZ_IND_CH2"
+    },
+    {
+      "id": "IND_03_01",
+      "type": "LESSON",
+      "title": "Зрелая хараппская фаза",
+      "description": "Когда сеть крупных городов приобрела общие стандарты",
+      "cards": [
+        "CITY_IND_001",
+        "CITY_IND_002",
+        "CITY_IND_003"
+      ],
+      "unlockCards": [
+        "CITY_INDA_001"
+      ],
+      "xp": 146,
+      "emoji": "▤",
+      "chapterId": "IND_CHAPTER_03",
+      "lessonId": "IND_03_01"
+    },
+    {
+      "id": "IND_03_02",
+      "type": "CAUSE_EFFECT",
+      "title": "Город без единственной столицы",
+      "description": "Почему археология не показывает одного очевидного политического центра",
+      "cards": [
+        "CITY_IND_002",
+        "CITY_IND_003",
+        "CITY_IND_004"
+      ],
+      "unlockCards": [
+        "CITY_INDA_002"
+      ],
+      "xp": 156,
+      "emoji": "◉",
+      "chapterId": "IND_CHAPTER_03",
+      "lessonId": "IND_03_02"
+    },
+    {
+      "id": "IND_03_03",
+      "type": "MAP",
+      "title": "Пять больших центров",
+      "description": "Найти Хараппу, Мохенджо-Даро, Дхолавиру, Ракхигархи и Ганверивалу",
+      "cards": [
+        "CITY_IND_003",
+        "CITY_IND_004",
+        "CITY_IND_005"
+      ],
+      "unlockCards": [
+        "CITY_INDA_003"
+      ],
+      "xp": 166,
+      "emoji": "⌖",
+      "chapterId": "IND_CHAPTER_03",
+      "lessonId": "IND_03_03",
+      "mapTargets": [
+        {
+          "key": "harappa",
+          "label": "Хараппа",
+          "point": "HARAPPA",
+          "zoom": 8,
+          "radius": 30000
+        },
+        {
+          "key": "mohenjo",
+          "label": "Мохенджо-Даро",
+          "point": "MOHENJO",
+          "zoom": 8,
+          "radius": 30000
+        },
+        {
+          "key": "dholavira",
+          "label": "Дхолавира",
+          "point": "DHOLAVIRA",
+          "zoom": 8,
+          "radius": 30000
+        }
+      ]
+    },
+    {
+      "id": "IND_03_04",
+      "type": "SYSTEM",
+      "title": "Сеть вместо имперской карты",
+      "description": "Как связывались города, малые поселения и сельская округа",
+      "cards": [
+        "CITY_IND_004",
+        "CITY_IND_005",
+        "TERM_IND_002"
+      ],
+      "unlockCards": [
+        "CITY_INDA_004"
+      ],
+      "xp": 176,
+      "emoji": "◎",
+      "chapterId": "IND_CHAPTER_03",
+      "lessonId": "IND_03_04"
+    },
+    {
+      "id": "IND_03_05",
+      "type": "TIMELINE",
+      "title": "Рост городского мира",
+      "description": "Собрать этапы зрелой урбанизации",
+      "cards": [
+        "CITY_IND_005",
+        "TERM_IND_002",
+        "CITY_IND_001"
+      ],
+      "unlockCards": [
+        "SITE_INDA_003"
+      ],
+      "xp": 186,
+      "emoji": "⌛",
+      "chapterId": "IND_CHAPTER_03",
+      "lessonId": "IND_03_05",
+      "timeline": {
+        "order": [
+          "i3_0",
+          "i3_1",
+          "i3_2",
+          "i3_3"
+        ],
+        "labels": {
+          "i3_0": "ок. 3300–2600 до н. э. · Раннехараппские центры",
+          "i3_1": "ок. 2600 до н. э. · Быстрый рост крупных городов",
+          "i3_2": "2600–1900 до н. э. · Зрелая городская сеть",
+          "i3_3": "после 1900 до н. э. · Сокращение крупных центров"
+        },
+        "shuffle": [
+          "i3_2",
+          "i3_0",
+          "i3_3",
+          "i3_1"
+        ]
+      }
+    },
+    {
+      "id": "IND_03_06",
+      "type": "FINAL",
+      "title": "Итог: города Индской цивилизации",
+      "description": "Проверка центров и региональных различий",
+      "cards": [
+        "TERM_IND_002",
+        "CITY_IND_001",
+        "CITY_IND_002"
+      ],
+      "unlockCards": [
+        "SITE_INDA_004"
+      ],
+      "xp": 196,
+      "emoji": "◆",
+      "chapterId": "IND_CHAPTER_03",
+      "lessonId": "IND_03_06",
+      "quiz": "QUIZ_IND_CH3"
+    },
+    {
+      "id": "IND_04_01",
+      "type": "LESSON",
+      "title": "Планировка и кварталы",
+      "description": "Что действительно было стандартизировано в городах",
+      "cards": [
+        "BUILD_IND_001",
+        "SYS_IND_001",
+        "SYS_IND_002"
+      ],
+      "unlockCards": [
+        "BUILD_INDA_001"
+      ],
+      "xp": 158,
+      "emoji": "▤",
+      "chapterId": "IND_CHAPTER_04",
+      "lessonId": "IND_04_01"
+    },
+    {
+      "id": "IND_04_02",
+      "type": "CAUSE_EFFECT",
+      "title": "Вода как городская инфраструктура",
+      "description": "Почему колодцы, стоки и резервуары требовали постоянного труда",
+      "cards": [
+        "SYS_IND_001",
+        "SYS_IND_002",
+        "BUILD_IND_002"
+      ],
+      "unlockCards": [
+        "BUILD_INDA_002"
+      ],
+      "xp": 168,
+      "emoji": "◉",
+      "chapterId": "IND_CHAPTER_04",
+      "lessonId": "IND_04_02"
+    },
+    {
+      "id": "IND_04_03",
+      "type": "MAP",
+      "title": "Мохенджо-Даро и Дхолавира",
+      "description": "Найти главные водные комплексы",
+      "cards": [
+        "SYS_IND_002",
+        "BUILD_IND_002",
+        "SYS_IND_003"
+      ],
+      "unlockCards": [
+        "TERM_INDA_006"
+      ],
+      "xp": 178,
+      "emoji": "⌖",
+      "chapterId": "IND_CHAPTER_04",
+      "lessonId": "IND_04_03",
+      "mapTargets": [
+        {
+          "key": "mohenjo",
+          "label": "Мохенджо-Даро",
+          "point": "MOHENJO",
+          "zoom": 9,
+          "radius": 16000
+        },
+        {
+          "key": "dholavira",
+          "label": "Дхолавира",
+          "point": "DHOLAVIRA",
+          "zoom": 9,
+          "radius": 16000
+        },
+        {
+          "key": "lothal",
+          "label": "Лотхал",
+          "point": "LOTHAL",
+          "zoom": 9,
+          "radius": 16000
+        }
+      ]
+    },
+    {
+      "id": "IND_04_04",
+      "type": "SOURCE",
+      "title": "Великая купальня",
+      "description": "Что можно и нельзя утверждать о назначении сооружения",
+      "cards": [
+        "BUILD_IND_002",
+        "SYS_IND_003",
+        "TERM_IND_003"
+      ],
+      "unlockCards": [
+        "TERM_INDA_007"
+      ],
+      "xp": 188,
+      "emoji": "¶",
+      "chapterId": "IND_CHAPTER_04",
+      "lessonId": "IND_04_04"
+    },
+    {
+      "id": "IND_04_05",
+      "type": "TIMELINE",
+      "title": "От кирпича к городской системе",
+      "description": "Собрать элементы планирования по порядку",
+      "cards": [
+        "SYS_IND_003",
+        "TERM_IND_003",
+        "BUILD_IND_001"
+      ],
+      "unlockCards": [
+        "ART_INDA_004"
+      ],
+      "xp": 198,
+      "emoji": "⌛",
+      "chapterId": "IND_CHAPTER_04",
+      "lessonId": "IND_04_05",
+      "timeline": {
+        "order": [
+          "i4_0",
+          "i4_1",
+          "i4_2",
+          "i4_3"
+        ],
+        "labels": {
+          "i4_0": "ранняя городская фаза · Стандартизация кирпича",
+          "i4_1": "зрелая фаза · Колодцы, улицы и стоки",
+          "i4_2": "зрелая фаза · Резервуары Дхолавиры",
+          "i4_3": "поздняя фаза · Изменение обслуживания инфраструктуры"
+        },
+        "shuffle": [
+          "i4_2",
+          "i4_0",
+          "i4_3",
+          "i4_1"
+        ]
+      }
+    },
+    {
+      "id": "IND_04_06",
+      "type": "FINAL",
+      "title": "Итог: город и вода",
+      "description": "Проверка инфраструктуры и ограничений интерпретации",
+      "cards": [
+        "TERM_IND_003",
+        "BUILD_IND_001",
+        "SYS_IND_001"
+      ],
+      "unlockCards": [
+        "BUILD_INDA_003"
+      ],
+      "xp": 208,
+      "emoji": "◆",
+      "chapterId": "IND_CHAPTER_04",
+      "lessonId": "IND_04_06",
+      "quiz": "QUIZ_IND_CH4"
+    },
+    {
+      "id": "IND_05_01",
+      "type": "LESSON",
+      "title": "Резчики, металлурги и мастера бус",
+      "description": "Как ремесло связывало сырьё, навыки и городские рынки",
+      "cards": [
+        "TEXT_IND_001",
+        "ART_IND_001",
+        "ART_IND_002"
+      ],
+      "unlockCards": [
+        "ART_INDA_005"
+      ],
+      "xp": 170,
+      "emoji": "▤",
+      "chapterId": "IND_CHAPTER_05",
+      "lessonId": "IND_05_01"
+    },
+    {
+      "id": "IND_05_02",
+      "type": "CAUSE_EFFECT",
+      "title": "Весы и стандарты",
+      "description": "Зачем единые гири были нужны торговле и учёту",
+      "cards": [
+        "ART_IND_001",
+        "ART_IND_002",
+        "CRAFT_IND_001"
+      ],
+      "unlockCards": [
+        "ART_INDA_006"
+      ],
+      "xp": 180,
+      "emoji": "◉",
+      "chapterId": "IND_CHAPTER_05",
+      "lessonId": "IND_05_02"
+    },
+    {
+      "id": "IND_05_03",
+      "type": "MAP",
+      "title": "Центры производства",
+      "description": "Найти Чанху-Даро, Лотхал и Хараппу",
+      "cards": [
+        "ART_IND_002",
+        "CRAFT_IND_001",
+        "ART_IND_003"
+      ],
+      "unlockCards": [
+        "CRAFT_INDA_001"
+      ],
+      "xp": 190,
+      "emoji": "⌖",
+      "chapterId": "IND_CHAPTER_05",
+      "lessonId": "IND_05_03",
+      "mapTargets": [
+        {
+          "key": "chanhu",
+          "label": "Чанху-Даро",
+          "point": "CHANHU_DARO",
+          "zoom": 9,
+          "radius": 16000
+        },
+        {
+          "key": "lothal",
+          "label": "Лотхал",
+          "point": "LOTHAL",
+          "zoom": 9,
+          "radius": 16000
+        },
+        {
+          "key": "harappa",
+          "label": "Хараппа",
+          "point": "HARAPPA",
+          "zoom": 9,
+          "radius": 16000
+        }
+      ]
+    },
+    {
+      "id": "IND_05_04",
+      "type": "SOURCE",
+      "title": "Печати и короткие надписи",
+      "description": "Как читать предмет, если письмо остаётся нерасшифрованным",
+      "cards": [
+        "CRAFT_IND_001",
+        "ART_IND_003",
+        "ART_IND_004"
+      ],
+      "unlockCards": [
+        "CRAFT_INDA_002"
+      ],
+      "xp": 200,
+      "emoji": "¶",
+      "chapterId": "IND_CHAPTER_05",
+      "lessonId": "IND_05_04"
+    },
+    {
+      "id": "IND_05_05",
+      "type": "TIMELINE",
+      "title": "От сырья к готовому изделию",
+      "description": "Собрать цепочку производства сердоликовой бусины",
+      "cards": [
+        "ART_IND_003",
+        "ART_IND_004",
+        "TEXT_IND_001"
+      ],
+      "unlockCards": [
+        "CRAFT_INDA_003"
+      ],
+      "xp": 210,
+      "emoji": "⌛",
+      "chapterId": "IND_CHAPTER_05",
+      "lessonId": "IND_05_05",
+      "timeline": {
+        "order": [
+          "i5_0",
+          "i5_1",
+          "i5_2",
+          "i5_3"
+        ],
+        "labels": {
+          "i5_0": "ранняя фаза · Региональные ремесленные традиции",
+          "i5_1": "ок. 2600 до н. э. · Стандартизация печатей и гирь",
+          "i5_2": "2600–1900 до н. э. · Расцвет специализированных мастерских",
+          "i5_3": "после 1900 до н. э. · Исчезновение прежней системы знаков"
+        },
+        "shuffle": [
+          "i5_2",
+          "i5_0",
+          "i5_3",
+          "i5_1"
+        ]
+      }
+    },
+    {
+      "id": "IND_05_06",
+      "type": "FINAL",
+      "title": "Итог: знаки и стандарты",
+      "description": "Проверка ремёсел, мер и письма",
+      "cards": [
+        "ART_IND_004",
+        "TEXT_IND_001",
+        "ART_IND_001"
+      ],
+      "unlockCards": [
+        "CRAFT_INDA_004"
+      ],
+      "xp": 220,
+      "emoji": "◆",
+      "chapterId": "IND_CHAPTER_05",
+      "lessonId": "IND_05_06",
+      "quiz": "QUIZ_IND_CH5"
+    },
+    {
+      "id": "IND_06_01",
+      "type": "LESSON",
+      "title": "Мелухха в месопотамских текстах",
+      "description": "Как внешние документы дополняют археологию Индской цивилизации",
+      "cards": [
+        "TERM_IND_004",
+        "BUILD_IND_003",
+        "SYS_IND_004"
+      ],
+      "unlockCards": [
+        "TERM_INDA_009"
+      ],
+      "xp": 182,
+      "emoji": "▤",
+      "chapterId": "IND_CHAPTER_06",
+      "lessonId": "IND_06_01"
+    },
+    {
+      "id": "IND_06_02",
+      "type": "CAUSE_EFFECT",
+      "title": "Торговля на дальние расстояния",
+      "description": "Почему товары проходили через побережье, Персидский залив и сухопутные пути",
+      "cards": [
+        "BUILD_IND_003",
+        "SYS_IND_004",
+        "SITE_IND_005"
+      ],
+      "unlockCards": [
+        "TERM_INDA_010"
+      ],
+      "xp": 192,
+      "emoji": "◉",
+      "chapterId": "IND_CHAPTER_06",
+      "lessonId": "IND_06_02"
+    },
+    {
+      "id": "IND_06_03",
+      "type": "MAP",
+      "title": "Лотхал, Шортугай и Макран",
+      "description": "Найти узлы дальнего обмена",
+      "cards": [
+        "SYS_IND_004",
+        "SITE_IND_005",
+        "TERM_IND_005"
+      ],
+      "unlockCards": [
+        "ART_INDA_007"
+      ],
+      "xp": 202,
+      "emoji": "⌖",
+      "chapterId": "IND_CHAPTER_06",
+      "lessonId": "IND_06_03",
+      "mapTargets": [
+        {
+          "key": "lothal",
+          "label": "Лотхал",
+          "point": "LOTHAL",
+          "zoom": 8,
+          "radius": 25000
+        },
+        {
+          "key": "shortugai",
+          "label": "Шортугай",
+          "point": "SHORTUGAI",
+          "zoom": 7,
+          "radius": 50000
+        },
+        {
+          "key": "makran",
+          "label": "Макран",
+          "point": "MAKRAN",
+          "zoom": 7,
+          "radius": 90000
+        }
+      ]
+    },
+    {
+      "id": "IND_06_04",
+      "type": "SOURCE",
+      "title": "Где цари и дворцы?",
+      "description": "Почему отсутствие прочитанных титулов не означает отсутствие власти",
+      "cards": [
+        "SITE_IND_005",
+        "TERM_IND_005",
+        "ART_IND_005"
+      ],
+      "unlockCards": [
+        "TERM_INDA_011"
+      ],
+      "xp": 212,
+      "emoji": "¶",
+      "chapterId": "IND_CHAPTER_06",
+      "lessonId": "IND_06_04"
+    },
+    {
+      "id": "IND_06_05",
+      "type": "TIMELINE",
+      "title": "Путь товара",
+      "description": "Собрать маршрут сырья и готового изделия",
+      "cards": [
+        "TERM_IND_005",
+        "ART_IND_005",
+        "TERM_IND_004"
+      ],
+      "unlockCards": [
+        "ART_INDA_008"
+      ],
+      "xp": 222,
+      "emoji": "⌛",
+      "chapterId": "IND_CHAPTER_06",
+      "lessonId": "IND_06_05",
+      "timeline": {
+        "order": [
+          "i6_0",
+          "i6_1",
+          "i6_2",
+          "i6_3"
+        ],
+        "labels": {
+          "i6_0": "III тысячелетие до н. э. · Региональный обмен сырьём",
+          "i6_1": "ок. 2500–2200 до н. э. · Контакты с Персидским заливом",
+          "i6_2": "III тысячелетие до н. э. · Упоминания Мелуххи",
+          "i6_3": "после 1900 до н. э. · Перестройка дальних маршрутов"
+        },
+        "shuffle": [
+          "i6_2",
+          "i6_0",
+          "i6_3",
+          "i6_1"
+        ]
+      }
+    },
+    {
+      "id": "IND_06_06",
+      "type": "FINAL",
+      "title": "Итог: общество и обмен",
+      "description": "Проверка торговли и осторожных выводов о власти",
+      "cards": [
+        "ART_IND_005",
+        "TERM_IND_004",
+        "BUILD_IND_003"
+      ],
+      "unlockCards": [
+        "CRAFT_INDA_005"
+      ],
+      "xp": 232,
+      "emoji": "◆",
+      "chapterId": "IND_CHAPTER_06",
+      "lessonId": "IND_06_06",
+      "quiz": "QUIZ_IND_CH6"
+    },
+    {
+      "id": "IND_07_01",
+      "type": "LESSON",
+      "title": "После 1900 года до н. э.",
+      "description": "Как менялись города, поселения и материальные стандарты",
+      "cards": [
+        "EVENT_IND_001",
+        "TERM_IND_006",
+        "CULT_IND_002"
+      ],
+      "unlockCards": [
+        "SITE_INDA_005"
+      ],
+      "xp": 194,
+      "emoji": "▤",
+      "chapterId": "IND_CHAPTER_07",
+      "lessonId": "IND_07_01"
+    },
+    {
+      "id": "IND_07_02",
+      "type": "CAUSE_EFFECT",
+      "title": "Не одно внезапное падение",
+      "description": "Почему упрощённая катастрофическая версия не объясняет весь регион",
+      "cards": [
+        "TERM_IND_006",
+        "CULT_IND_002",
+        "TERM_IND_007"
+      ],
+      "unlockCards": [
+        "TERM_INDA_013"
+      ],
+      "xp": 204,
+      "emoji": "◉",
+      "chapterId": "IND_CHAPTER_07",
+      "lessonId": "IND_07_02"
+    },
+    {
+      "id": "IND_07_03",
+      "type": "MAP",
+      "title": "Сдвиг центров расселения",
+      "description": "Показать районы позднехараппских изменений",
+      "cards": [
+        "CULT_IND_002",
+        "TERM_IND_007",
+        "TERM_IND_008"
+      ],
+      "unlockCards": [
+        "ART_INDA_009"
+      ],
+      "xp": 214,
+      "emoji": "⌖",
+      "chapterId": "IND_CHAPTER_07",
+      "lessonId": "IND_07_03",
+      "mapTargets": [
+        {
+          "key": "punjab",
+          "label": "Пенджаб",
+          "point": "PUNJAB",
+          "zoom": 6,
+          "radius": 180000
+        },
+        {
+          "key": "sindh",
+          "label": "Синд",
+          "point": "SINDH",
+          "zoom": 6,
+          "radius": 170000
+        },
+        {
+          "key": "gujarat",
+          "label": "Гуджарат",
+          "point": "GUJARAT",
+          "zoom": 6,
+          "radius": 170000
+        }
+      ]
+    },
+    {
+      "id": "IND_07_04",
+      "type": "SYSTEM",
+      "title": "Что исчезло, а что продолжилось",
+      "description": "Сравнить печати, письмо, керамику, земледелие и поселения",
+      "cards": [
+        "TERM_IND_007",
+        "TERM_IND_008",
+        "TERM_IND_009"
+      ],
+      "unlockCards": [
+        "TERM_INDA_014"
+      ],
+      "xp": 224,
+      "emoji": "◎",
+      "chapterId": "IND_CHAPTER_07",
+      "lessonId": "IND_07_04"
+    },
+    {
+      "id": "IND_07_05",
+      "type": "TIMELINE",
+      "title": "От зрелой фазы к постгородскому миру",
+      "description": "Собрать хронологию преобразований",
+      "cards": [
+        "TERM_IND_008",
+        "TERM_IND_009",
+        "EVENT_IND_001"
+      ],
+      "unlockCards": [
+        "TERM_INDA_015"
+      ],
+      "xp": 234,
+      "emoji": "⌛",
+      "chapterId": "IND_CHAPTER_07",
+      "lessonId": "IND_07_05",
+      "timeline": {
+        "order": [
+          "i7_0",
+          "i7_1",
+          "i7_2",
+          "i7_3"
+        ],
+        "labels": {
+          "i7_0": "ок. 2200–2000 до н. э. · Изменения муссонного режима",
+          "i7_1": "ок. 1900 до н. э. · Начало постгородской перестройки",
+          "i7_2": "1900–1300 до н. э. · Позднехараппские культуры",
+          "i7_3": "II тысячелетие до н. э. · Новые региональные системы расселения"
+        },
+        "shuffle": [
+          "i7_2",
+          "i7_0",
+          "i7_3",
+          "i7_1"
+        ]
+      }
+    },
+    {
+      "id": "IND_07_06",
+      "type": "FINAL",
+      "title": "Финал кампании: как изучать цивилизацию без прочитанных текстов",
+      "description": "Итоговый экзамен по всей кампании",
+      "cards": [
+        "TERM_IND_009",
+        "EVENT_IND_001",
+        "TERM_IND_006"
+      ],
+      "unlockCards": [
+        "TERM_INDA_016"
+      ],
+      "xp": 244,
+      "emoji": "◆",
+      "chapterId": "IND_CHAPTER_07",
+      "lessonId": "IND_07_06",
+      "quiz": "QUIZ_IND_CH7"
+    }
+  ]
+}

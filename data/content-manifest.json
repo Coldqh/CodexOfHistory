@@ -1,5 +1,5 @@
 {
-  "version": "3.1.1",
+  "version": "3.1.2",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -98,7 +98,8 @@
       "data/campaigns/china/campaign.json",
       "data/campaigns/civilizations/campaign.json",
       "data/campaigns/babylon/campaign.json"
-    ]
+    ],
+    "imageQueries": "data/image_queries.json"
   },
   "scripts": [
     "js/maps/engine.js",
@@ -131,6 +132,7 @@
     "js/features/v3-0-dawn-world.js",
     "js/features/v3-1-babylon.js",
     "js/features/v3-1-1-hotfix.js",
+    "js/features/v3-1-2-visual-archive.js",
     "js/core/start.js"
   ],
   "vendors": {}

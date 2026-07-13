@@ -1,5 +1,5 @@
 {
-  "version": "3.1.1",
+  "version": "3.1.2",
   "generatedAt": "2026-07-13",
   "count": 899,
   "historicalImageCount": 42,
@@ -9894,5 +9894,9 @@
       "source_url": "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/fall_of_babylon.pdf",
       "license": "Project asset"
     }
-  ]
+  ],
+  "staticHistoricalImageCount": 42,
+  "dynamicQueryCount": 857,
+  "resolver": "data/image_queries.json + js/features/v3-1-2-visual-archive.js",
+  "strategy": "Wikimedia PageImages and Commons extmetadata with browser cache and unique local SVG fallback"
 }

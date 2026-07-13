@@ -142,7 +142,7 @@ function detail(){
     </main>
     <aside class="detail-aside">
       <div class="panel reveal"><div class="eyebrow">Профиль знания</div><h3>Учебные характеристики</h3><div class="bars">${Object.entries(c.stats).map(([k,v])=>`<div class="bar-row"><span>${STAT_LABELS[k]||k}</span><div class="bar-bg"><div class="bar-fill" style="width:${v*10}%"></div></div><b>${v}</b></div>`).join('')}</div></div>
-      <div class="panel reveal"><div class="eyebrow">Источник изображения</div><h3>${c.image.caption}</h3><p class="credit">${c.image.credit} · ${c.image.license}</p><div class="hero-actions"><a class="btn ghost" href="${cardImageSourcePage(c)}" target="_blank" rel="noreferrer">Открыть источник ↗</a></div></div>
+      <div class="panel reveal"><div class="eyebrow">Источник изображения</div><h3>${cardImageCaption(c)}</h3><p class="credit">${cardImageCredit(c)} · ${cardImageLicense(c)}</p><div class="hero-actions"><a class="btn ghost" href="${cardImageSourcePage(c)}" target="_blank" rel="noreferrer">Открыть источник ↗</a></div></div>
       <div class="panel reveal"><div class="eyebrow">Навигация</div><div class="hero-actions" style="margin:0 0 14px"><button class="btn secondary" onclick="openMission(state.currentMission)">← Вернуться к миссии</button></div><h3>Теги карточки</h3><div class="card-tags">${c.tags.map(t=>`<span class="tag">#${t}</span>`).join('')}</div></div>
     </aside>
   </div>`);

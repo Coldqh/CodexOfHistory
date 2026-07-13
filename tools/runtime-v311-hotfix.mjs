@@ -14,4 +14,4 @@ assert.deepEqual([...ctx.state.unlocked],bab,'Migration must remove leaked Rome 
 assert.equal(ctx.state.xp,0);assert.equal(ctx.state.currentMission,'BAB_01_01');assert.equal(ctx.state.starterCampaignId,'BABYLON_OLD');
 ctx.resetProgress();assert.deepEqual([...ctx.state.unlocked],[]);assert.deepEqual([...ctx.state.discovered],[]);assert.equal(ctx.state.onboardingV26Done,false);assert.equal(ctx.state.currentMission,null);
 ctx.state.starterCampaignId=null;ctx.state.onboardingV26Done=true;ctx.startWorldCampaign('ROME_CAMPAIGN');assert.deepEqual([...ctx.state.unlocked],rome);assert.equal(ctx.state.currentMission,'MIS_BIRTH_01');
-console.log('✓ v3.1.1 starter migration and reset runtime');
+console.log('✓ v3.1.2 starter migration and reset runtime');

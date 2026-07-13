@@ -1,8 +1,8 @@
-/* Codex of History v3.1.1 — GitHub Pages service worker */
-const VERSION='codex-v3.1.1';
+/* Codex of History v3.1.2 — GitHub Pages service worker */
+const VERSION='codex-v3.1.2';
 const APP_CACHE=`${VERSION}-app`;
 const IMAGE_CACHE=`${VERSION}-images`;
-const CORE=['./','./index.html','./styles.css','./manifest.webmanifest','./data/content-manifest.json','./js/bootstrap.js','./assets/ui/codex-mark.svg','./assets/ui/fallback-card.svg','./assets/packs/civilizations-pack.svg','./assets/packs/babylon-pack.svg','./data/image_manifest.json','./js/features/v3-1-1-hotfix.js'];
+const CORE=['./','./index.html','./styles.css','./manifest.webmanifest','./data/content-manifest.json','./js/bootstrap.js','./assets/ui/codex-mark.svg','./assets/ui/fallback-card.svg','./assets/packs/civilizations-pack.svg','./assets/packs/babylon-pack.svg','./data/image_manifest.json','./data/image_queries.json','./js/features/v3-1-1-hotfix.js','./js/features/v3-1-2-visual-archive.js'];
 self.addEventListener('install',event=>{
   event.waitUntil(caches.open(APP_CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting()));
 });
@@ -29,5 +29,5 @@ self.addEventListener('fetch',event=>{
   if(req.destination==='image'){event.respondWith(cacheFirstImage(req));return;}
   if(url.origin===self.location.origin){event.respondWith(networkFirst(req));return;}
   if(url.hostname==='tile.openstreetmap.org'){event.respondWith(cacheFirstImage(req));return;}
-  if(url.hostname==='unpkg.com'){event.respondWith(cacheFirstExternal(req));}
+  if(['unpkg.com','ru.wikipedia.org','en.wikipedia.org','commons.wikimedia.org'].includes(url.hostname)){event.respondWith(cacheFirstExternal(req));}
 });

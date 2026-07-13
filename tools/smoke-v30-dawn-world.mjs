@@ -1,0 +1,27 @@
+#!/usr/bin/env node
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const read=async p=>JSON.parse(await fs.readFile(path.join(root,p),'utf8'));
+const manifest=await read('data/content-manifest.json');
+const campaign=await read('data/campaigns/civilizations/campaign.json');
+const story=await read('data/cards/civilizations/story.json');
+const archive=await read('data/cards/civilizations/archive.json');
+const lessons=await read('data/lessons/civilizations/campaign.json');
+const quizzes=await read('data/quizzes/civilizations/campaign.json');
+const pools=await read('data/campaigns/civilizations/pools.json');
+const map=await read('data/maps/civilizations.json');
+const js=await fs.readFile(path.join(root,'js/features/v3-0-dawn-world.js'),'utf8');
+const mobile=await fs.readFile(path.join(root,'js/features/mobile-cleanup.js'),'utf8');
+const fail=m=>{throw new Error(m)};
+manifest.version==='3.0.0'||fail('manifest version');
+campaign.chapters.length===6||fail('chapters');
+campaign.nodes.length===30||fail('missions');
+story.length===36||fail('story cards');archive.length===24||fail('archive cards');
+Object.keys(lessons).length===30||fail('lessons');Object.keys(quizzes).length===11||fail('quizzes');
+pools.pools.length===6||fail('pools');campaign.nodes.find(x=>x.id==='CIV_06_05')?.examModules?.length===6||fail('exam modules');
+Object.keys(map.points).length>=10||fail('map points');campaign.eraLayer.regions.length===4||fail('regions');
+js.includes('focusDawnRegion')||fail('region focus');js.includes('renderEraExam')||fail('era exam UI');
+!mobile.includes('forceRefresh()')||fail('refresh outside settings');
+console.log('✓ v3.0 dawn-world smoke passed');

@@ -5899,5 +5899,327 @@
     "type": "ПАРАЛЛЕЛЬ",
     "description": "Шан и Индская цивилизация относятся к разным региональным моделям бронзового века.",
     "strength": 7
+  },
+  {
+    "id": "REL_V30_001",
+    "source": "RIV_CIV_002",
+    "target": "REG_MES_001",
+    "type": "RELATED",
+    "label": "региональный пример"
+  },
+  {
+    "id": "REL_V30_002",
+    "source": "RIV_CIV_001",
+    "target": "RIV_EGY_001",
+    "type": "RELATED",
+    "label": "региональный пример"
+  },
+  {
+    "id": "REL_V30_003",
+    "source": "RIV_CIV_003",
+    "target": "RIV_IND_001",
+    "type": "RELATED",
+    "label": "региональный пример"
+  },
+  {
+    "id": "REL_V30_004",
+    "source": "RIV_CIV_004",
+    "target": "RIV_CHN_001",
+    "type": "RELATED",
+    "label": "региональный пример"
+  },
+  {
+    "id": "REL_V30_005",
+    "source": "CITY_CIV_002",
+    "target": "CITY_MES_003",
+    "type": "RELATED",
+    "label": "городской пример"
+  },
+  {
+    "id": "REL_V30_006",
+    "source": "CITY_CIV_004",
+    "target": "CITY_IND_001",
+    "type": "RELATED",
+    "label": "городской пример"
+  },
+  {
+    "id": "REL_V30_007",
+    "source": "CITY_CIV_005",
+    "target": "SITE_CHN_003",
+    "type": "RELATED",
+    "label": "городской пример"
+  },
+  {
+    "id": "REL_V30_008",
+    "source": "SYS_CIV_002",
+    "target": "TEXT_CIV_001",
+    "type": "RELATED",
+    "label": "система и носитель"
+  },
+  {
+    "id": "REL_V30_009",
+    "source": "SYS_CIV_002",
+    "target": "TEXT_CIV_003",
+    "type": "RELATED",
+    "label": "система и граница знания"
+  },
+  {
+    "id": "REL_V30_010",
+    "source": "SYS_CIV_003",
+    "target": "BUILD_CIV_001",
+    "type": "RELATED",
+    "label": "организация и проект"
+  },
+  {
+    "id": "REL_V30_011",
+    "source": "SYS_CIV_004",
+    "target": "TERM_CIV_010",
+    "type": "RELATED",
+    "label": "метод и вывод"
+  },
+  {
+    "id": "REL_V30_012",
+    "source": "REG_CIV_001",
+    "target": "RIV_CIV_001",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_013",
+    "source": "RIV_CIV_001",
+    "target": "RIV_CIV_002",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_014",
+    "source": "RIV_CIV_002",
+    "target": "RIV_CIV_003",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_015",
+    "source": "RIV_CIV_003",
+    "target": "RIV_CIV_004",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_016",
+    "source": "RIV_CIV_004",
+    "target": "TERM_CIV_001",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_017",
+    "source": "TERM_CIV_001",
+    "target": "CITY_CIV_001",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_018",
+    "source": "CITY_CIV_001",
+    "target": "CITY_CIV_002",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_019",
+    "source": "CITY_CIV_002",
+    "target": "CITY_CIV_003",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_020",
+    "source": "CITY_CIV_003",
+    "target": "CITY_CIV_004",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_021",
+    "source": "CITY_CIV_004",
+    "target": "CITY_CIV_005",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_022",
+    "source": "CITY_CIV_005",
+    "target": "TERM_CIV_002",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_023",
+    "source": "TERM_CIV_002",
+    "target": "SYS_CIV_001",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_024",
+    "source": "SYS_CIV_001",
+    "target": "ORG_CIV_001",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_025",
+    "source": "ORG_CIV_001",
+    "target": "ORG_CIV_002",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_026",
+    "source": "ORG_CIV_002",
+    "target": "PER_CIV_001",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_027",
+    "source": "PER_CIV_001",
+    "target": "TERM_CIV_003",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_028",
+    "source": "TERM_CIV_003",
+    "target": "STATE_CIV_001",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_029",
+    "source": "STATE_CIV_001",
+    "target": "SYS_CIV_002",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_030",
+    "source": "SYS_CIV_002",
+    "target": "TEXT_CIV_001",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_031",
+    "source": "TEXT_CIV_001",
+    "target": "TEXT_CIV_002",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_032",
+    "source": "TEXT_CIV_002",
+    "target": "TEXT_CIV_003",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_033",
+    "source": "TEXT_CIV_003",
+    "target": "TEXT_CIV_004",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_034",
+    "source": "TEXT_CIV_004",
+    "target": "TERM_CIV_004",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_035",
+    "source": "TERM_CIV_004",
+    "target": "SYS_CIV_003",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_036",
+    "source": "SYS_CIV_003",
+    "target": "ART_CIV_001",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_037",
+    "source": "ART_CIV_001",
+    "target": "ART_CIV_002",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_038",
+    "source": "ART_CIV_002",
+    "target": "BUILD_CIV_001",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_039",
+    "source": "BUILD_CIV_001",
+    "target": "TERM_CIV_005",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_040",
+    "source": "TERM_CIV_005",
+    "target": "TERM_CIV_006",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_041",
+    "source": "TERM_CIV_006",
+    "target": "SYS_CIV_004",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_042",
+    "source": "SYS_CIV_004",
+    "target": "TERM_CIV_007",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_043",
+    "source": "TERM_CIV_007",
+    "target": "TERM_CIV_008",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_044",
+    "source": "TERM_CIV_008",
+    "target": "TERM_CIV_009",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_045",
+    "source": "TERM_CIV_009",
+    "target": "TERM_CIV_010",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
+  },
+  {
+    "id": "REL_V30_046",
+    "source": "TERM_CIV_010",
+    "target": "TERM_CIV_011",
+    "type": "RELATED",
+    "label": "связь внутри кампании"
   }
 ]

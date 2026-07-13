@@ -1,0 +1,1838 @@
+[
+  {
+    "id": "REG_CIV_001",
+    "type": "REGION",
+    "title": "Четыре речных региона",
+    "original": "Четыре речных региона",
+    "subtitle": "Месопотамия, Египет, Инд и ранний Китай на одной карте",
+    "era": "Рождение цивилизаций",
+    "region": "Евразия и Северо-Восточная Африка",
+    "date": "ок. 4000–1000 до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Четыре речных региона — Месопотамия, Египет, Инд и ранний Китай на одной карте.",
+    "importance": "Сводит четыре региона на одну карту и не смешивает древние культурные зоны с современными границами.",
+    "facts": [
+      "Регионы не были строго синхронны: ранний Урук, зрелый Инд и поздняя Шан относятся к разным частям общей шкалы.",
+      "Период или датировка: ок. 4000–1000 до н. э.",
+      "Контекст сравнения: Евразия и Северо-Восточная Африка; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "реки и природная среда"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 7,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "image": {
+      "local": "assets/cards/civilizations/reg_civ_001.svg",
+      "caption": "Учебная обложка: Четыре речных региона",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "reg_civ_001.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_01"
+  },
+  {
+    "id": "RIV_CIV_001",
+    "type": "RIVER",
+    "title": "Нил",
+    "original": "Нил",
+    "subtitle": "река с выраженным сезонным циклом и длинной долиной",
+    "era": "Рождение цивилизаций",
+    "region": "Египет",
+    "date": "древность",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Нил — река с выраженным сезонным циклом и длинной долиной.",
+    "importance": "Показывает, как сезонный разлив Нила определял земледельческий календарь и устройство долины.",
+    "facts": [
+      "Долина и Дельта образовывали разные хозяйственные зоны, а высота ежегодного разлива влияла на урожай.",
+      "Период или датировка: древность.",
+      "Контекст сравнения: Египет; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "реки и природная среда"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 6,
+      "legacy": 4,
+      "military": 5,
+      "culture": 6,
+      "politics": 4,
+      "religion": 5,
+      "economy": 6,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/civilizations/riv_civ_001.svg",
+      "caption": "Учебная обложка: Нил",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "riv_civ_001.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: List of Rulers of Ancient Egypt and Nubia",
+      "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_01"
+  },
+  {
+    "id": "RIV_CIV_002",
+    "type": "RIVER",
+    "title": "Тигр и Евфрат",
+    "original": "Тигр и Евфрат",
+    "subtitle": "речная система южной Месопотамии",
+    "era": "Рождение цивилизаций",
+    "region": "Месопотамия",
+    "date": "древность",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Тигр и Евфрат — речная система южной Месопотамии.",
+    "importance": "Объясняет, почему хозяйство Южной Месопотамии зависело от каналов, дамб и постоянного ухода за руслами.",
+    "facts": [
+      "Южная равнина зависела от каналов; русла и наносы меняли условия земледелия, а длительное орошение могло усиливать засоление.",
+      "Период или датировка: древность.",
+      "Контекст сравнения: Месопотамия; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "реки и природная среда"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 8,
+      "culture": 6,
+      "politics": 7,
+      "religion": 8,
+      "economy": 6,
+      "connections": 7
+    },
+    "image": {
+      "local": "assets/cards/civilizations/riv_civ_002.svg",
+      "caption": "Учебная обложка: Тигр и Евфрат",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "riv_civ_002.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_01"
+  },
+  {
+    "id": "RIV_CIV_003",
+    "type": "RIVER",
+    "title": "Инд и Гхаггар-Хакра",
+    "original": "Инд и Гхаггар-Хакра",
+    "subtitle": "система рек и меняющихся русел северо-запада Южной Азии",
+    "era": "Рождение цивилизаций",
+    "region": "Южная Азия",
+    "date": "древность",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Инд и Гхаггар-Хакра — система рек и меняющихся русел северо-запада Южной Азии.",
+    "importance": "Помогает понять роль меняющихся русел в развитии и последующей трансформации поселений Индского региона.",
+    "facts": [
+      "Городская сеть Инда занимала несколько речных и прибрежных зон; древние русла менялись, поэтому карта требует датировки.",
+      "Период или датировка: древность.",
+      "Контекст сравнения: Южная Азия; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "реки и природная среда"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 4,
+      "culture": 5,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/civilizations/riv_civ_003.svg",
+      "caption": "Учебная обложка: Инд и Гхаггар-Хакра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "riv_civ_003.svg"
+    },
+    "source": {
+      "title": "Penn Museum: The Indus Civilization",
+      "url": "https://www.penn.museum/sites/expedition/the-indus-civilization/",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_01"
+  },
+  {
+    "id": "RIV_CIV_004",
+    "type": "RIVER",
+    "title": "Хуанхэ и Янцзы",
+    "original": "Хуанхэ и Янцзы",
+    "subtitle": "две крупные речные зоны раннего Китая",
+    "era": "Рождение цивилизаций",
+    "region": "Китай",
+    "date": "древность",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Хуанхэ и Янцзы — две крупные речные зоны раннего Китая.",
+    "importance": "Разделяет две речные зоны раннего Китая, где природные условия и хозяйственные культуры заметно различались.",
+    "facts": [
+      "Ранние культуры Китая развивались не только вдоль Хуанхэ: бассейн Янцзы и другие регионы имели собственные традиции.",
+      "Период или датировка: древность.",
+      "Контекст сравнения: Китай; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "реки и природная среда"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 6,
+      "legacy": 4,
+      "military": 5,
+      "culture": 6,
+      "politics": 4,
+      "religion": 5,
+      "economy": 6,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/civilizations/riv_civ_004.svg",
+      "caption": "Учебная обложка: Хуанхэ и Янцзы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "riv_civ_004.svg"
+    },
+    "source": {
+      "title": "Smarthistory: Shang dynasty, an introduction",
+      "url": "https://smarthistory.org/shang-dynasty-introduction/",
+      "type": "educational"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_01"
+  },
+  {
+    "id": "TERM_CIV_001",
+    "type": "TERM",
+    "title": "Речная адаптация",
+    "original": "Речная адаптация",
+    "subtitle": "способы использовать воду и снижать природные риски",
+    "era": "Рождение цивилизаций",
+    "region": "Четыре региона",
+    "date": "ранняя история",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Речная адаптация — способы использовать воду и снижать природные риски.",
+    "importance": "Показывает, что общества не просто зависели от рек, а создавали разные способы использовать воду и снижать риск.",
+    "facts": [
+      "Адаптация включает технику, календарь работ, правила распределения воды, хранение запасов и выбор места поселения.",
+      "Период или датировка: ранняя история.",
+      "Контекст сравнения: Четыре региона; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "реки и природная среда"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 6,
+      "culture": 4,
+      "politics": 5,
+      "religion": 6,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/civilizations/term_civ_001.svg",
+      "caption": "Учебная обложка: Речная адаптация",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_civ_001.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_01"
+  },
+  {
+    "id": "CITY_CIV_001",
+    "type": "CITY",
+    "title": "Город как узел",
+    "original": "Город как узел",
+    "subtitle": "население, ремесло, обмен, ритуал и управление в одном центре",
+    "era": "Рождение цивилизаций",
+    "region": "Четыре региона",
+    "date": "IV–II тысячелетия до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Город как узел — население, ремесло, обмен, ритуал и управление в одном центре.",
+    "importance": "Даёт рабочее определение города через функции, население, специализацию и связи с округой.",
+    "facts": [
+      "Город определяют по сочетанию признаков: плотности, специализации, общественным функциям и связям с меньшими поселениями.",
+      "Период или датировка: IV–II тысячелетия до н. э.",
+      "Контекст сравнения: Четыре региона; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "от деревень к городам"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 7,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "image": {
+      "local": "assets/cards/civilizations/city_civ_001.svg",
+      "caption": "Учебная обложка: Город как узел",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "city_civ_001.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_02"
+  },
+  {
+    "id": "CITY_CIV_002",
+    "type": "CITY",
+    "title": "Урук",
+    "original": "Урук",
+    "subtitle": "крупный городской центр южной Месопотамии",
+    "era": "Рождение цивилизаций",
+    "region": "Месопотамия",
+    "date": "ок. 4000–3000 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Урук — крупный городской центр южной Месопотамии.",
+    "importance": "Урук позволяет проследить ранний рост крупного города, храмового хозяйства и административной записи.",
+    "facts": [
+      "В IV тысячелетии до н. э. Урук стал одним из крупнейших центров своего времени; с ним связаны монументальные комплексы и ранние таблички.",
+      "Период или датировка: ок. 4000–3000 до н. э.",
+      "Контекст сравнения: Месопотамия; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "от деревень к городам"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 7,
+      "culture": 8,
+      "politics": 6,
+      "religion": 7,
+      "economy": 8,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/civilizations/city_civ_002.svg",
+      "caption": "Учебная обложка: Урук",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "city_civ_002.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_02"
+  },
+  {
+    "id": "CITY_CIV_003",
+    "type": "CITY",
+    "title": "Мемфис",
+    "original": "Мемфис",
+    "subtitle": "ранний политический центр объединённого Египта",
+    "era": "Рождение цивилизаций",
+    "region": "Египет",
+    "date": "с конца IV тысячелетия до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Мемфис — ранний политический центр объединённого Египта.",
+    "importance": "Мемфис показывает связь столицы, царской власти и управления объединённой долиной Нила.",
+    "facts": [
+      "Мемфис располагался у перехода между долиной и Дельтой и связывается с управлением ранним объединённым Египтом.",
+      "Период или датировка: с конца IV тысячелетия до н. э.",
+      "Контекст сравнения: Египет; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "от деревень к городам"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 6,
+      "culture": 4,
+      "politics": 5,
+      "religion": 6,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/civilizations/city_civ_003.svg",
+      "caption": "Учебная обложка: Мемфис",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "city_civ_003.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: List of Rulers of Ancient Egypt and Nubia",
+      "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_02"
+  },
+  {
+    "id": "CITY_CIV_004",
+    "type": "CITY",
+    "title": "Мохенджо-Даро",
+    "original": "Мохенджо-Даро",
+    "subtitle": "крупный город зрелой Индской цивилизации",
+    "era": "Рождение цивилизаций",
+    "region": "Индская цивилизация",
+    "date": "ок. 2600–1900 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Мохенджо-Даро — крупный город зрелой Индской цивилизации.",
+    "importance": "Мохенджо-Даро нужен для разбора планировки, водной инфраструктуры и стандартов Индской цивилизации.",
+    "facts": [
+      "Город известен квартальной планировкой, колодцами, кирпичной архитектурой и сложной системой стоков.",
+      "Период или датировка: ок. 2600–1900 до н. э.",
+      "Контекст сравнения: Индская цивилизация; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "от деревень к городам"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 6,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "image": {
+      "local": "assets/cards/civilizations/city_civ_004.svg",
+      "caption": "Учебная обложка: Мохенджо-Даро",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "city_civ_004.svg"
+    },
+    "source": {
+      "title": "Penn Museum: The Indus Civilization",
+      "url": "https://www.penn.museum/sites/expedition/the-indus-civilization/",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_02"
+  },
+  {
+    "id": "CITY_CIV_005",
+    "type": "CITY",
+    "title": "Эрлитоу",
+    "original": "Эрлитоу",
+    "subtitle": "крупный центр раннего бронзового века Центральной равнины",
+    "era": "Рождение цивилизаций",
+    "region": "Китай",
+    "date": "ок. 1750–1520 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Эрлитоу — крупный центр раннего бронзового века Центральной равнины.",
+    "importance": "Эрлитоу показывает крупный центр Центральной равнины до надёжно читаемых царских архивов Шан.",
+    "facts": [
+      "Эрлитоу имел планированные дороги, дворцовые зоны и бронзовое производство; его связь с династией Ся остаётся спорной.",
+      "Период или датировка: ок. 1750–1520 до н. э.",
+      "Контекст сравнения: Китай; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "от деревень к городам"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 6,
+      "legacy": 4,
+      "military": 5,
+      "culture": 6,
+      "politics": 4,
+      "religion": 5,
+      "economy": 6,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/civilizations/city_civ_005.svg",
+      "caption": "Учебная обложка: Эрлитоу",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "city_civ_005.svg"
+    },
+    "source": {
+      "title": "Smarthistory: Shang dynasty, an introduction",
+      "url": "https://smarthistory.org/shang-dynasty-introduction/",
+      "type": "educational"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_02"
+  },
+  {
+    "id": "TERM_CIV_002",
+    "type": "TERM",
+    "title": "Урбанизация",
+    "original": "Урбанизация",
+    "subtitle": "рост поселений, специализации и центральных функций",
+    "era": "Рождение цивилизаций",
+    "region": "Четыре региона",
+    "date": "IV–II тысячелетия до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Урбанизация — рост поселений, специализации и центральных функций.",
+    "importance": "Помогает отличать простой рост поселения от появления городской сети, специализации и центральных функций.",
+    "facts": [
+      "Урбанизация не требует одной последовательности: крупный центр мог расти вокруг храма, двора, производства или сети обмена.",
+      "Период или датировка: IV–II тысячелетия до н. э.",
+      "Контекст сравнения: Четыре региона; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "от деревень к городам"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 6,
+      "culture": 4,
+      "politics": 5,
+      "religion": 6,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/civilizations/term_civ_002.svg",
+      "caption": "Учебная обложка: Урбанизация",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_civ_002.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_02"
+  },
+  {
+    "id": "SYS_CIV_001",
+    "type": "SYSTEM",
+    "title": "Формы ранней власти",
+    "original": "Формы ранней власти",
+    "subtitle": "городская, дворцовая, храмовая и территориальная организация",
+    "era": "Рождение цивилизаций",
+    "region": "Четыре региона",
+    "date": "IV–II тысячелетия до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Формы ранней власти — городская, дворцовая, храмовая и территориальная организация.",
+    "importance": "Сравнивает власть города, храма, двора и территориального государства без сведения их к одной модели.",
+    "facts": [
+      "Городская власть, территориальная монархия, дворцовая сеть и родовая организация могли существовать в разных сочетаниях.",
+      "Период или датировка: IV–II тысячелетия до н. э.",
+      "Контекст сравнения: Четыре региона; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "власть, храм и правитель"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 7,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "image": {
+      "local": "assets/cards/civilizations/sys_civ_001.svg",
+      "caption": "Учебная обложка: Формы ранней власти",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_civ_001.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_03"
+  },
+  {
+    "id": "ORG_CIV_001",
+    "type": "ORGANIZATION",
+    "title": "Храмовое хозяйство",
+    "original": "Храмовое хозяйство",
+    "subtitle": "храм как место ритуала, хранения и управления ресурсами",
+    "era": "Рождение цивилизаций",
+    "region": "Месопотамия и соседние регионы",
+    "date": "IV–III тысячелетия до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Храмовое хозяйство — храм как место ритуала, хранения и управления ресурсами.",
+    "importance": "Показывает храм не только как священное место, но и как узел хранения, труда и распределения ресурсов.",
+    "facts": [
+      "Храм мог владеть имуществом, содержать персонал и участвовать в учёте, но это не доказывает контроль над всем хозяйством.",
+      "Период или датировка: IV–III тысячелетия до н. э.",
+      "Контекст сравнения: Месопотамия и соседние регионы; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "власть, храм и правитель"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 6,
+      "legacy": 4,
+      "military": 5,
+      "culture": 6,
+      "politics": 4,
+      "religion": 5,
+      "economy": 6,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/civilizations/org_civ_001.svg",
+      "caption": "Учебная обложка: Храмовое хозяйство",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "org_civ_001.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_03"
+  },
+  {
+    "id": "ORG_CIV_002",
+    "type": "ORGANIZATION",
+    "title": "Двор и царский дом",
+    "original": "Двор и царский дом",
+    "subtitle": "правитель, родственники, чиновники, охрана и мастерские",
+    "era": "Рождение цивилизаций",
+    "region": "Четыре региона",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Двор и царский дом — правитель, родственники, чиновники, охрана и мастерские.",
+    "importance": "Раскрывает двор как хозяйственную и политическую организацию, а не только жилище правителя.",
+    "facts": [
+      "Двор объединял дом правителя, родственников, чиновников, воинов и мастеров; его масштаб зависел от времени и региона.",
+      "Период или датировка: III–II тысячелетия до н. э.",
+      "Контекст сравнения: Четыре региона; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "власть, храм и правитель"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 6,
+      "culture": 4,
+      "politics": 5,
+      "religion": 6,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/civilizations/org_civ_002.svg",
+      "caption": "Учебная обложка: Двор и царский дом",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "org_civ_002.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_03"
+  },
+  {
+    "id": "PER_CIV_001",
+    "type": "PERSON",
+    "title": "Правитель как центр порядка",
+    "original": "Правитель как центр порядка",
+    "subtitle": "политическая и ритуальная роль раннего правителя",
+    "era": "Рождение цивилизаций",
+    "region": "Четыре региона",
+    "date": "IV–II тысячелетия до н. э.",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Правитель как центр порядка — политическая и ритуальная роль раннего правителя.",
+    "importance": "Объясняет, как ранний правитель соединял военное руководство, суд, ритуал и распределение ресурсов.",
+    "facts": [
+      "Правитель мог выступать военным лидером, судьёй, строителем и участником ритуала, но набор функций не был универсальным.",
+      "Период или датировка: IV–II тысячелетия до н. э.",
+      "Контекст сравнения: Четыре региона; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "власть, храм и правитель"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 4,
+      "culture": 5,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/civilizations/per_civ_001.svg",
+      "caption": "Учебная обложка: Правитель как центр порядка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_civ_001.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_03"
+  },
+  {
+    "id": "TERM_CIV_003",
+    "type": "TERM",
+    "title": "Легитимация власти",
+    "original": "Легитимация власти",
+    "subtitle": "обоснование права управлять через ритуал, происхождение и успех",
+    "era": "Рождение цивилизаций",
+    "region": "Четыре региона",
+    "date": "ранняя история",
+    "rarity": "RARE",
+    "difficulty": 5,
+    "summary": "Легитимация власти — обоснование права управлять через ритуал, происхождение и успех.",
+    "importance": "Помогает различать применение силы и признанное право управлять, поддержанное ритуалом и традицией.",
+    "facts": [
+      "Легитимация видна в происхождении, ритуале, победах, строительстве и способности поддерживать признанный порядок.",
+      "Период или датировка: ранняя история.",
+      "Контекст сравнения: Четыре региона; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "власть, храм и правитель"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 6,
+      "legacy": 4,
+      "military": 5,
+      "culture": 6,
+      "politics": 4,
+      "religion": 5,
+      "economy": 6,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/civilizations/term_civ_003.svg",
+      "caption": "Учебная обложка: Легитимация власти",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_civ_003.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_03"
+  },
+  {
+    "id": "STATE_CIV_001",
+    "type": "STATE",
+    "title": "Территориальное государство",
+    "original": "Территориальное государство",
+    "subtitle": "власть над сетью поселений и пространством вне столицы",
+    "era": "Рождение цивилизаций",
+    "region": "Четыре региона",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Территориальное государство — власть над сетью поселений и пространством вне столицы.",
+    "importance": "Показывает переход от контроля одного центра к управлению сетью поселений и более широкой территорией.",
+    "facts": [
+      "Территориальный контроль проверяют по сети поселений, чиновникам, налогам, военным операциям, дорогам и местным посредникам.",
+      "Период или датировка: III–II тысячелетия до н. э.",
+      "Контекст сравнения: Четыре региона; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "власть, храм и правитель"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 8,
+      "culture": 6,
+      "politics": 7,
+      "religion": 8,
+      "economy": 6,
+      "connections": 7
+    },
+    "image": {
+      "local": "assets/cards/civilizations/state_civ_001.svg",
+      "caption": "Учебная обложка: Территориальное государство",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "state_civ_001.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_03"
+  },
+  {
+    "id": "SYS_CIV_002",
+    "type": "SYSTEM",
+    "title": "Письменные системы",
+    "original": "Письменные системы",
+    "subtitle": "разные способы фиксировать язык, числа и знаки",
+    "era": "Рождение цивилизаций",
+    "region": "Четыре региона",
+    "date": "IV–II тысячелетия до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Письменные системы — разные способы фиксировать язык, числа и знаки.",
+    "importance": "Сравнивает системы записи по функции, носителю, языку и степени современного прочтения.",
+    "facts": [
+      "Системы различались знаками, носителем и функцией; внешнее сходство символов не доказывает общее происхождение.",
+      "Период или датировка: IV–II тысячелетия до н. э.",
+      "Контекст сравнения: Четыре региона; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "письмо, учёт и управление"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 7,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "image": {
+      "local": "assets/cards/civilizations/sys_civ_002.svg",
+      "caption": "Учебная обложка: Письменные системы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_civ_002.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Origins of Writing",
+      "url": "https://www.metmuseum.org/essays/the-origins-of-writing",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_04"
+  },
+  {
+    "id": "TEXT_CIV_001",
+    "type": "ARTIFACT",
+    "title": "Протоклинопись",
+    "original": "Протоклинопись",
+    "subtitle": "ранние таблички административного учёта",
+    "era": "Рождение цивилизаций",
+    "region": "Месопотамия",
+    "date": "ок. 3400–3000 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Протоклинопись — ранние таблички административного учёта.",
+    "importance": "Показывает раннюю запись прежде всего как инструмент учёта товаров и операций.",
+    "facts": [
+      "Ранние таблички Южной Месопотамии связаны прежде всего со счётом товаров, работников и хозяйственных операций.",
+      "Период или датировка: ок. 3400–3000 до н. э.",
+      "Контекст сравнения: Месопотамия; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "письмо, учёт и управление"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 7,
+      "culture": 8,
+      "politics": 6,
+      "religion": 7,
+      "economy": 8,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/civilizations/text_civ_001.svg",
+      "caption": "Учебная обложка: Протоклинопись",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "text_civ_001.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_04"
+  },
+  {
+    "id": "TEXT_CIV_002",
+    "type": "ARTIFACT",
+    "title": "Египетские иероглифы",
+    "original": "Египетские иероглифы",
+    "subtitle": "письмо в административных, царских и ритуальных контекстах",
+    "era": "Рождение цивилизаций",
+    "region": "Египет",
+    "date": "с конца IV тысячелетия до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Египетские иероглифы — письмо в административных, царских и ритуальных контекстах.",
+    "importance": "Позволяет увидеть, как египетское письмо работало в управлении, царской репрезентации и ритуале.",
+    "facts": [
+      "Иероглифическое письмо использовало звуковые и смысловые знаки и применялось в царских, административных и ритуальных контекстах.",
+      "Период или датировка: с конца IV тысячелетия до н. э.",
+      "Контекст сравнения: Египет; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "письмо, учёт и управление"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 5,
+      "culture": 3,
+      "politics": 4,
+      "religion": 5,
+      "economy": 3,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/civilizations/text_civ_002.svg",
+      "caption": "Учебная обложка: Египетские иероглифы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "text_civ_002.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: List of Rulers of Ancient Egypt and Nubia",
+      "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_04"
+  },
+  {
+    "id": "TEXT_CIV_003",
+    "type": "ARTIFACT",
+    "title": "Индские знаки",
+    "original": "Индские знаки",
+    "subtitle": "короткие последовательности знаков на печатях и предметах",
+    "era": "Рождение цивилизаций",
+    "region": "Индская цивилизация",
+    "date": "ок. 2600–1900 до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 9,
+    "summary": "Индские знаки — короткие последовательности знаков на печатях и предметах.",
+    "importance": "Фиксирует предел знания: знаки Индской цивилизации известны, но их общепринятого прочтения нет.",
+    "facts": [
+      "Большинство известных надписей коротки; без общепринятой дешифровки нельзя уверенно называть язык и перевод.",
+      "Период или датировка: ок. 2600–1900 до н. э.",
+      "Контекст сравнения: Индская цивилизация; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "письмо, учёт и управление"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 10,
+      "military": 8,
+      "culture": 9,
+      "politics": 10,
+      "religion": 8,
+      "economy": 9,
+      "connections": 10
+    },
+    "image": {
+      "local": "assets/cards/civilizations/text_civ_003.svg",
+      "caption": "Учебная обложка: Индские знаки",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "text_civ_003.svg"
+    },
+    "source": {
+      "title": "Penn Museum: The Indus Civilization",
+      "url": "https://www.penn.museum/sites/expedition/the-indus-civilization/",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_04"
+  },
+  {
+    "id": "TEXT_CIV_004",
+    "type": "ARTIFACT",
+    "title": "Гадательные надписи",
+    "original": "Гадательные надписи",
+    "subtitle": "записи царского двора поздней Шан на костях и панцирях",
+    "era": "Рождение цивилизаций",
+    "region": "Китай",
+    "date": "ок. XIII–XI века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Гадательные надписи — записи царского двора поздней Шан на костях и панцирях.",
+    "importance": "Даёт редкий корпус записей о решениях двора поздней Шан, гаданиях, войнах и жертвоприношениях.",
+    "facts": [
+      "Основной корпус поздней Шан связан с гаданиями двора и сообщает о ритуалах, войне, охоте, погоде и календаре.",
+      "Период или датировка: ок. XIII–XI века до н. э.",
+      "Контекст сравнения: Китай; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "письмо, учёт и управление"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 5,
+      "legacy": 3,
+      "military": 4,
+      "culture": 5,
+      "politics": 3,
+      "religion": 4,
+      "economy": 5,
+      "connections": 3
+    },
+    "image": {
+      "local": "assets/cards/civilizations/text_civ_004.svg",
+      "caption": "Учебная обложка: Гадательные надписи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "text_civ_004.svg"
+    },
+    "source": {
+      "title": "Smarthistory: Shang dynasty, an introduction",
+      "url": "https://smarthistory.org/shang-dynasty-introduction/",
+      "type": "educational"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_04"
+  },
+  {
+    "id": "TERM_CIV_004",
+    "type": "TERM",
+    "title": "Административная запись",
+    "original": "Административная запись",
+    "subtitle": "фиксация товаров, труда, имён и операций",
+    "era": "Рождение цивилизаций",
+    "region": "Четыре региона",
+    "date": "IV–II тысячелетия до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Административная запись — фиксация товаров, труда, имён и операций.",
+    "importance": "Объясняет, как запись превращала выдачу, поставку или обязанность в проверяемую административную операцию.",
+    "facts": [
+      "Запись делает операцию проверяемой для учреждения, но отражает его задачи и почти всегда оставляет часть общества вне архива.",
+      "Период или датировка: IV–II тысячелетия до н. э.",
+      "Контекст сравнения: Четыре региона; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "письмо, учёт и управление"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 5,
+      "culture": 3,
+      "politics": 4,
+      "religion": 5,
+      "economy": 3,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/civilizations/term_civ_004.svg",
+      "caption": "Учебная обложка: Административная запись",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_civ_004.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Origins of Writing",
+      "url": "https://www.metmuseum.org/essays/the-origins-of-writing",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_04"
+  },
+  {
+    "id": "SYS_CIV_003",
+    "type": "SYSTEM",
+    "title": "Организация труда",
+    "original": "Организация труда",
+    "subtitle": "координация специалистов, сезонных работников и поставок",
+    "era": "Рождение цивилизаций",
+    "region": "Четыре региона",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Организация труда — координация специалистов, сезонных работников и поставок.",
+    "importance": "Показывает, что крупное производство требовало людей, сырья, питания, времени и контроля качества.",
+    "facts": [
+      "Организация труда включает подбор людей, обучение, питание, инструменты, расписание, контроль качества и доставку сырья.",
+      "Период или датировка: III–II тысячелетия до н. э.",
+      "Контекст сравнения: Четыре региона; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "труд, ремесло и большие проекты"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 3,
+      "culture": 4,
+      "politics": 5,
+      "religion": 3,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/civilizations/sys_civ_003.svg",
+      "caption": "Учебная обложка: Организация труда",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_civ_003.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_05"
+  },
+  {
+    "id": "ART_CIV_001",
+    "type": "ARTIFACT",
+    "title": "Бронзовая мастерская",
+    "original": "Бронзовая мастерская",
+    "subtitle": "специализированное производство металла и форм",
+    "era": "Рождение цивилизаций",
+    "region": "Китай и Западная Азия",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Бронзовая мастерская — специализированное производство металла и форм.",
+    "importance": "Раскрывает бронзовое производство как цепочку добычи, доставки, изготовления форм, литья и отделки.",
+    "facts": [
+      "Литьё бронзы требовало руды, топлива, моделей, форм и мастеров; отходы и формы позволяют находить производственные зоны.",
+      "Период или датировка: II тысячелетие до н. э.",
+      "Контекст сравнения: Китай и Западная Азия; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "труд, ремесло и большие проекты"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 5,
+      "legacy": 3,
+      "military": 4,
+      "culture": 5,
+      "politics": 3,
+      "religion": 4,
+      "economy": 5,
+      "connections": 3
+    },
+    "image": {
+      "local": "assets/cards/civilizations/art_civ_001.svg",
+      "caption": "Учебная обложка: Бронзовая мастерская",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_civ_001.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_05"
+  },
+  {
+    "id": "ART_CIV_002",
+    "type": "ARTIFACT",
+    "title": "Стандарты мер и веса",
+    "original": "Стандарты мер и веса",
+    "subtitle": "повторяемые единицы для обмена и учёта",
+    "era": "Рождение цивилизаций",
+    "region": "Месопотамия и Инд",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Стандарты мер и веса — повторяемые единицы для обмена и учёта.",
+    "importance": "Показывает, как повторяемые меры упрощали учёт, обмен, налогообложение и контроль поставок.",
+    "facts": [
+      "Повторяемые единицы упрощали учёт и обмен, но сам стандарт не доказывает существование единого центра власти.",
+      "Период или датировка: III–II тысячелетия до н. э.",
+      "Контекст сравнения: Месопотамия и Инд; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "труд, ремесло и большие проекты"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 5,
+      "culture": 3,
+      "politics": 4,
+      "religion": 5,
+      "economy": 3,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/civilizations/art_civ_002.svg",
+      "caption": "Учебная обложка: Стандарты мер и веса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_civ_002.svg"
+    },
+    "source": {
+      "title": "Penn Museum: The Indus Civilization",
+      "url": "https://www.penn.museum/sites/expedition/the-indus-civilization/",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_05"
+  },
+  {
+    "id": "BUILD_CIV_001",
+    "type": "CITY",
+    "title": "Монументальный проект",
+    "original": "Монументальный проект",
+    "subtitle": "крупное строительство, требующее снабжения и координации",
+    "era": "Рождение цивилизаций",
+    "region": "Четыре региона",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Монументальный проект — крупное строительство, требующее снабжения и координации.",
+    "importance": "Помогает восстановить организацию работ за сооружением, а не рассматривать памятник только как готовый объект.",
+    "facts": [
+      "Монумент показывает способность координировать ресурсы, однако не раскрывает автоматически статус работников и форму режима.",
+      "Период или датировка: III–II тысячелетия до н. э.",
+      "Контекст сравнения: Четыре региона; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "труд, ремесло и большие проекты"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 6,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "image": {
+      "local": "assets/cards/civilizations/build_civ_001.svg",
+      "caption": "Учебная обложка: Монументальный проект",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "build_civ_001.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_05"
+  },
+  {
+    "id": "TERM_CIV_005",
+    "type": "TERM",
+    "title": "Трудовая повинность",
+    "original": "Трудовая повинность",
+    "subtitle": "обязательный труд в пользу власти или общины",
+    "era": "Рождение цивилизаций",
+    "region": "Четыре региона",
+    "date": "ранняя история",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Трудовая повинность — обязательный труд в пользу власти или общины.",
+    "importance": "Объясняет одну из форм привлечения людей к общественным и государственным работам.",
+    "facts": [
+      "Повинность могла быть сезонной и сочетаться с постоянными специалистами; её конкретная форма требует текстовых или археологических данных.",
+      "Период или датировка: ранняя история.",
+      "Контекст сравнения: Четыре региона; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "труд, ремесло и большие проекты"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 5,
+      "legacy": 3,
+      "military": 4,
+      "culture": 5,
+      "politics": 3,
+      "religion": 4,
+      "economy": 5,
+      "connections": 3
+    },
+    "image": {
+      "local": "assets/cards/civilizations/term_civ_005.svg",
+      "caption": "Учебная обложка: Трудовая повинность",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_civ_005.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_05"
+  },
+  {
+    "id": "TERM_CIV_006",
+    "type": "TERM",
+    "title": "Специализация ремесла",
+    "original": "Специализация ремесла",
+    "subtitle": "устойчивая работа мастеров в отдельных технологиях",
+    "era": "Рождение цивилизаций",
+    "region": "Четыре региона",
+    "date": "IV–II тысячелетия до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Специализация ремесла — устойчивая работа мастеров в отдельных технологиях.",
+    "importance": "Показывает, как постоянный навык и разделение операций повышали сложность и объём производства.",
+    "facts": [
+      "Специализацию распознают по инструментам, отходам, серийным изделиям и пространству мастерской, а не только по готовому предмету.",
+      "Период или датировка: IV–II тысячелетия до н. э.",
+      "Контекст сравнения: Четыре региона; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "труд, ремесло и большие проекты"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 5,
+      "culture": 3,
+      "politics": 4,
+      "religion": 5,
+      "economy": 3,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/civilizations/term_civ_006.svg",
+      "caption": "Учебная обложка: Специализация ремесла",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_civ_006.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_05"
+  },
+  {
+    "id": "SYS_CIV_004",
+    "type": "SYSTEM",
+    "title": "Историческая реконструкция",
+    "original": "Историческая реконструкция",
+    "subtitle": "сведение археологии, текстов и датировок в проверяемый вывод",
+    "era": "Рождение цивилизаций",
+    "region": "Исторический метод",
+    "date": "современная наука",
+    "rarity": "MYTHIC",
+    "difficulty": 9,
+    "summary": "Историческая реконструкция — сведение археологии, текстов и датировок в проверяемый вывод.",
+    "importance": "Даёт порядок работы: установить материал, контекст и датировку, затем сравнить возможные объяснения.",
+    "facts": [
+      "Реконструкция соединяет несколько независимых линий данных и указывает, где вывод остаётся вероятным или спорным.",
+      "Период или датировка: современная наука.",
+      "Контекст сравнения: Исторический метод; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "как историки восстанавливают первые цивилизации"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 10,
+      "military": 8,
+      "culture": 9,
+      "politics": 10,
+      "religion": 8,
+      "economy": 9,
+      "connections": 10
+    },
+    "image": {
+      "local": "assets/cards/civilizations/sys_civ_004.svg",
+      "caption": "Учебная обложка: Историческая реконструкция",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_civ_004.svg"
+    },
+    "source": {
+      "title": "Smarthistory: Introduction to ancient China",
+      "url": "https://smarthistory.org/introduction-to-ancient-china/",
+      "type": "educational"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_06"
+  },
+  {
+    "id": "TERM_CIV_007",
+    "type": "TERM",
+    "title": "Археологический контекст",
+    "original": "Археологический контекст",
+    "subtitle": "место находки, слой и связь предмета с другими материалами",
+    "era": "Рождение цивилизаций",
+    "region": "Исторический метод",
+    "date": "современная археология",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Археологический контекст — место находки, слой и связь предмета с другими материалами.",
+    "importance": "Напоминает, что значение предмета зависит от слоя, места находки и соседних материалов.",
+    "facts": [
+      "Предмет без слоя и связи с другими находками теряет данные о дате, функции и истории использования.",
+      "Период или датировка: современная археология.",
+      "Контекст сравнения: Исторический метод; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "как историки восстанавливают первые цивилизации"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 5,
+      "legacy": 3,
+      "military": 4,
+      "culture": 5,
+      "politics": 3,
+      "religion": 4,
+      "economy": 5,
+      "connections": 3
+    },
+    "image": {
+      "local": "assets/cards/civilizations/term_civ_007.svg",
+      "caption": "Учебная обложка: Археологический контекст",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_civ_007.svg"
+    },
+    "source": {
+      "title": "Smarthistory: Introduction to ancient China",
+      "url": "https://smarthistory.org/introduction-to-ancient-china/",
+      "type": "educational"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_06"
+  },
+  {
+    "id": "TERM_CIV_008",
+    "type": "TERM",
+    "title": "Относительная датировка",
+    "original": "Относительная датировка",
+    "subtitle": "определение последовательности без точного календарного года",
+    "era": "Рождение цивилизаций",
+    "region": "Исторический метод",
+    "date": "современная археология",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Относительная датировка — определение последовательности без точного календарного года.",
+    "importance": "Позволяет выстроить последовательность слоёв и предметов даже без точного календарного года.",
+    "facts": [
+      "Стратиграфия и типология помогают установить порядок фаз даже тогда, когда точный календарный год неизвестен.",
+      "Период или датировка: современная археология.",
+      "Контекст сравнения: Исторический метод; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "как историки восстанавливают первые цивилизации"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 5,
+      "culture": 3,
+      "politics": 4,
+      "religion": 5,
+      "economy": 3,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/civilizations/term_civ_008.svg",
+      "caption": "Учебная обложка: Относительная датировка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_civ_008.svg"
+    },
+    "source": {
+      "title": "Smarthistory: Introduction to ancient China",
+      "url": "https://smarthistory.org/introduction-to-ancient-china/",
+      "type": "educational"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_06"
+  },
+  {
+    "id": "TERM_CIV_009",
+    "type": "TERM",
+    "title": "Радиоуглеродная датировка",
+    "original": "Радиоуглеродная датировка",
+    "subtitle": "оценка возраста органического материала с диапазоном неопределённости",
+    "era": "Рождение цивилизаций",
+    "region": "Исторический метод",
+    "date": "современная археология",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Радиоуглеродная датировка — оценка возраста органического материала с диапазоном неопределённости.",
+    "importance": "Объясняет, почему радиоуглеродная дата является диапазоном вероятности, а не абсолютно точным годом.",
+    "facts": [
+      "Результат относится к конкретному органическому образцу и после калибровки выражается вероятностным диапазоном.",
+      "Период или датировка: современная археология.",
+      "Контекст сравнения: Исторический метод; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "как историки восстанавливают первые цивилизации"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 3,
+      "culture": 4,
+      "politics": 5,
+      "religion": 3,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/civilizations/term_civ_009.svg",
+      "caption": "Учебная обложка: Радиоуглеродная датировка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_civ_009.svg"
+    },
+    "source": {
+      "title": "Smarthistory: Introduction to ancient China",
+      "url": "https://smarthistory.org/introduction-to-ancient-china/",
+      "type": "educational"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_06"
+  },
+  {
+    "id": "TERM_CIV_010",
+    "type": "TERM",
+    "title": "Факт и интерпретация",
+    "original": "Факт и интерпретация",
+    "subtitle": "разделение наблюдения, вывода и спорной гипотезы",
+    "era": "Рождение цивилизаций",
+    "region": "Исторический метод",
+    "date": "современная история",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Факт и интерпретация — разделение наблюдения, вывода и спорной гипотезы.",
+    "importance": "Учит отделять наблюдаемое свидетельство от объяснения, которое предложил исследователь.",
+    "facts": [
+      "Фактом является наблюдаемая находка; интерпретацией — объяснение её значения, которое можно проверить и оспорить.",
+      "Период или датировка: современная история.",
+      "Контекст сравнения: Исторический метод; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "как историки восстанавливают первые цивилизации"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 7,
+      "culture": 8,
+      "politics": 6,
+      "religion": 7,
+      "economy": 8,
+      "connections": 6
+    },
+    "image": {
+      "local": "assets/cards/civilizations/term_civ_010.svg",
+      "caption": "Учебная обложка: Факт и интерпретация",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_civ_010.svg"
+    },
+    "source": {
+      "title": "Smarthistory: Introduction to ancient China",
+      "url": "https://smarthistory.org/introduction-to-ancient-china/",
+      "type": "educational"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_06"
+  },
+  {
+    "id": "TERM_CIV_011",
+    "type": "TERM",
+    "title": "Аргумент по источникам",
+    "original": "Аргумент по источникам",
+    "subtitle": "вывод, который опирается на несколько проверяемых свидетельств",
+    "era": "Рождение цивилизаций",
+    "region": "Исторический метод",
+    "date": "современная история",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Аргумент по источникам — вывод, который опирается на несколько проверяемых свидетельств.",
+    "importance": "Показывает, как сильный исторический вывод связывает несколько независимых свидетельств и учитывает возражения.",
+    "facts": [
+      "Сильный аргумент называет тезис, конкретные свидетельства, логическую связь, альтернативы и степень уверенности.",
+      "Период или датировка: современная история.",
+      "Контекст сравнения: Исторический метод; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "как историки восстанавливают первые цивилизации"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 5,
+      "culture": 3,
+      "politics": 4,
+      "religion": 5,
+      "economy": 3,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/civilizations/term_civ_011.svg",
+      "caption": "Учебная обложка: Аргумент по источникам",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_civ_011.svg"
+    },
+    "source": {
+      "title": "Smarthistory: Introduction to ancient China",
+      "url": "https://smarthistory.org/introduction-to-ancient-china/",
+      "type": "educational"
+    },
+    "acquisition": "CAMPAIGN",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_06"
+  }
+]

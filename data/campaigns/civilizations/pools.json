@@ -1,0 +1,387 @@
+{
+  "campaignId": "DAWN_WORLD",
+  "campaigns": {
+    "CIVILIZATIONS": {
+      "id": "CIVILIZATIONS",
+      "title": "Первые цивилизации: общий мир",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "CIV_POOL_01",
+      "campaign": "CIVILIZATIONS",
+      "title": "Реки и природная среда",
+      "unlockMission": "CIV_01_02",
+      "cardIds": [
+        "SYS_CIVA_001",
+        "TERM_CIVA_001",
+        "TERM_CIVA_002",
+        "ART_CIVA_001"
+      ]
+    },
+    {
+      "id": "CIV_POOL_02",
+      "campaign": "CIVILIZATIONS",
+      "title": "От деревень к городам",
+      "unlockMission": "CIV_02_02",
+      "cardIds": [
+        "TERM_CIVA_003",
+        "SYS_CIVA_002",
+        "ART_CIVA_002",
+        "ROAD_CIVA_001"
+      ]
+    },
+    {
+      "id": "CIV_POOL_03",
+      "campaign": "CIVILIZATIONS",
+      "title": "Власть, храм и правитель",
+      "unlockMission": "CIV_03_02",
+      "cardIds": [
+        "OFF_CIVA_001",
+        "TERM_CIVA_004",
+        "REL_CIVA_001",
+        "ART_CIVA_003"
+      ]
+    },
+    {
+      "id": "CIV_POOL_04",
+      "campaign": "CIVILIZATIONS",
+      "title": "Письмо, учёт и управление",
+      "unlockMission": "CIV_04_02",
+      "cardIds": [
+        "ART_CIVA_004",
+        "ART_CIVA_005",
+        "TERM_CIVA_005",
+        "OFF_CIVA_002"
+      ]
+    },
+    {
+      "id": "CIV_POOL_05",
+      "campaign": "CIVILIZATIONS",
+      "title": "Труд, ремесло и большие проекты",
+      "unlockMission": "CIV_05_02",
+      "cardIds": [
+        "ART_CIVA_006",
+        "ART_CIVA_007",
+        "BUILD_CIVA_001",
+        "TERM_CIVA_006"
+      ]
+    },
+    {
+      "id": "CIV_POOL_06",
+      "campaign": "CIVILIZATIONS",
+      "title": "Как историки восстанавливают первые цивилизации",
+      "unlockMission": "CIV_06_02",
+      "cardIds": [
+        "ART_CIVA_008",
+        "TEXT_CIVA_001",
+        "TERM_CIVA_007",
+        "TERM_CIVA_008"
+      ]
+    }
+  ],
+  "acquisition": {
+    "SYS_CIVA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_01"
+    },
+    "TERM_CIVA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_01"
+    },
+    "TERM_CIVA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_01"
+    },
+    "ART_CIVA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_01"
+    },
+    "TERM_CIVA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_02"
+    },
+    "SYS_CIVA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_02"
+    },
+    "ART_CIVA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_02"
+    },
+    "ROAD_CIVA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_02"
+    },
+    "OFF_CIVA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_03"
+    },
+    "TERM_CIVA_004": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_03"
+    },
+    "REL_CIVA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_03"
+    },
+    "ART_CIVA_003": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_03"
+    },
+    "ART_CIVA_004": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_04"
+    },
+    "ART_CIVA_005": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_04"
+    },
+    "TERM_CIVA_005": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_04"
+    },
+    "OFF_CIVA_002": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_04"
+    },
+    "ART_CIVA_006": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_05"
+    },
+    "ART_CIVA_007": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_05"
+    },
+    "BUILD_CIVA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_05"
+    },
+    "TERM_CIVA_006": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_05"
+    },
+    "ART_CIVA_008": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_06"
+    },
+    "TEXT_CIVA_001": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_06"
+    },
+    "TERM_CIVA_007": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_06"
+    },
+    "TERM_CIVA_008": {
+      "kind": "ARCHIVE",
+      "campaign": "CIVILIZATIONS",
+      "pool": "CIV_POOL_06"
+    },
+    "REG_CIV_001": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_01_01"
+    },
+    "RIV_CIV_001": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_01_02"
+    },
+    "RIV_CIV_002": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_01_03"
+    },
+    "RIV_CIV_003": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_01_04"
+    },
+    "RIV_CIV_004": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_01_05"
+    },
+    "TERM_CIV_001": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_01_01"
+    },
+    "CITY_CIV_001": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_02_01"
+    },
+    "CITY_CIV_002": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_02_02"
+    },
+    "CITY_CIV_003": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_02_03"
+    },
+    "CITY_CIV_004": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_02_04"
+    },
+    "CITY_CIV_005": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_02_05"
+    },
+    "TERM_CIV_002": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_01_01"
+    },
+    "SYS_CIV_001": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_03_01"
+    },
+    "ORG_CIV_001": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_03_02"
+    },
+    "ORG_CIV_002": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_03_03"
+    },
+    "PER_CIV_001": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_03_04"
+    },
+    "TERM_CIV_003": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_03_05"
+    },
+    "STATE_CIV_001": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_01_01"
+    },
+    "SYS_CIV_002": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_04_01"
+    },
+    "TEXT_CIV_001": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_04_02"
+    },
+    "TEXT_CIV_002": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_04_03"
+    },
+    "TEXT_CIV_003": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_04_04"
+    },
+    "TEXT_CIV_004": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_04_05"
+    },
+    "TERM_CIV_004": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_01_01"
+    },
+    "SYS_CIV_003": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_05_01"
+    },
+    "ART_CIV_001": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_05_02"
+    },
+    "ART_CIV_002": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_05_03"
+    },
+    "BUILD_CIV_001": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_05_04"
+    },
+    "TERM_CIV_005": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_05_05"
+    },
+    "TERM_CIV_006": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_01_01"
+    },
+    "SYS_CIV_004": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_06_01"
+    },
+    "TERM_CIV_007": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_06_02"
+    },
+    "TERM_CIV_008": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_06_03"
+    },
+    "TERM_CIV_009": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_06_04"
+    },
+    "TERM_CIV_010": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_06_05"
+    },
+    "TERM_CIV_011": {
+      "kind": "STORY",
+      "campaign": "CIVILIZATIONS",
+      "mission": "CIV_01_01"
+    }
+  }
+}

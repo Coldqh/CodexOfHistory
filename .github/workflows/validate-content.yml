@@ -13,6 +13,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: node tools/validate-content.mjs
-      - run: node tools/smoke-v28-indus.mjs
+      - run: npm test
+      - run: node tools/runtime-v30.mjs
       - run: node tools/runtime-v22.mjs

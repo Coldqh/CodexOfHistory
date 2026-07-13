@@ -1,0 +1,177 @@
+{
+  "points": {
+    "DAWN_CENTER": [
+      31.0,
+      67.0
+    ],
+    "MESOPOTAMIA": [
+      32.5,
+      44.5
+    ],
+    "EGYPT": [
+      26.5,
+      30.5
+    ],
+    "INDUS": [
+      27.0,
+      69.0
+    ],
+    "CHINA": [
+      34.5,
+      112.5
+    ],
+    "URUK": [
+      31.322,
+      45.637
+    ],
+    "MEMPHIS": [
+      29.849,
+      31.254
+    ],
+    "MOHENJO_DARO": [
+      27.329,
+      68.138
+    ],
+    "ERLITOU": [
+      34.69,
+      112.69
+    ],
+    "YINXU": [
+      36.127,
+      114.313
+    ],
+    "GIZA": [
+      29.979,
+      31.134
+    ],
+    "NILE": [
+      26.7,
+      31.0
+    ],
+    "TIGRIS_EUPHRATES": [
+      32.0,
+      45.0
+    ],
+    "INDUS_RIVER": [
+      27.5,
+      68.5
+    ],
+    "YELLOW_YANGTZE": [
+      32.0,
+      114.0
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "REG_CIV_001": "DAWN_CENTER",
+    "RIV_CIV_001": "MEMPHIS",
+    "RIV_CIV_002": "URUK",
+    "RIV_CIV_003": "DAWN_CENTER",
+    "RIV_CIV_004": "ERLITOU",
+    "TERM_CIV_001": "DAWN_CENTER",
+    "CITY_CIV_001": "DAWN_CENTER",
+    "CITY_CIV_002": "URUK",
+    "CITY_CIV_003": "MEMPHIS",
+    "CITY_CIV_004": "MOHENJO_DARO",
+    "CITY_CIV_005": "ERLITOU",
+    "TERM_CIV_002": "DAWN_CENTER",
+    "SYS_CIV_001": "DAWN_CENTER",
+    "ORG_CIV_001": "URUK",
+    "ORG_CIV_002": "DAWN_CENTER",
+    "PER_CIV_001": "DAWN_CENTER",
+    "TERM_CIV_003": "DAWN_CENTER",
+    "STATE_CIV_001": "DAWN_CENTER",
+    "SYS_CIV_002": "DAWN_CENTER",
+    "TEXT_CIV_001": "URUK",
+    "TEXT_CIV_002": "MEMPHIS",
+    "TEXT_CIV_003": "MOHENJO_DARO",
+    "TEXT_CIV_004": "ERLITOU",
+    "TERM_CIV_004": "DAWN_CENTER",
+    "SYS_CIV_003": "DAWN_CENTER",
+    "ART_CIV_001": "ERLITOU",
+    "ART_CIV_002": "URUK",
+    "BUILD_CIV_001": "DAWN_CENTER",
+    "TERM_CIV_005": "DAWN_CENTER",
+    "TERM_CIV_006": "DAWN_CENTER",
+    "SYS_CIV_004": "DAWN_CENTER",
+    "TERM_CIV_007": "DAWN_CENTER",
+    "TERM_CIV_008": "DAWN_CENTER",
+    "TERM_CIV_009": "DAWN_CENTER",
+    "TERM_CIV_010": "DAWN_CENTER",
+    "TERM_CIV_011": "DAWN_CENTER",
+    "SYS_CIVA_001": "MEMPHIS",
+    "TERM_CIVA_001": "DAWN_CENTER",
+    "TERM_CIVA_002": "DAWN_CENTER",
+    "ART_CIVA_001": "DAWN_CENTER",
+    "TERM_CIVA_003": "DAWN_CENTER",
+    "SYS_CIVA_002": "DAWN_CENTER",
+    "ART_CIVA_002": "URUK",
+    "ROAD_CIVA_001": "DAWN_CENTER",
+    "OFF_CIVA_001": "DAWN_CENTER",
+    "TERM_CIVA_004": "DAWN_CENTER",
+    "REL_CIVA_001": "DAWN_CENTER",
+    "ART_CIVA_003": "DAWN_CENTER",
+    "ART_CIVA_004": "URUK",
+    "ART_CIVA_005": "DAWN_CENTER",
+    "TERM_CIVA_005": "MOHENJO_DARO",
+    "OFF_CIVA_002": "DAWN_CENTER",
+    "ART_CIVA_006": "URUK",
+    "ART_CIVA_007": "MEMPHIS",
+    "BUILD_CIVA_001": "MOHENJO_DARO",
+    "TERM_CIVA_006": "DAWN_CENTER",
+    "ART_CIVA_008": "DAWN_CENTER",
+    "TEXT_CIVA_001": "DAWN_CENTER",
+    "TERM_CIVA_007": "DAWN_CENTER",
+    "TERM_CIVA_008": "DAWN_CENTER"
+  },
+  "chapters": {
+    "CIV_CHAPTER_01": {
+      "title": "Реки и природная среда",
+      "center": [
+        31.0,
+        67.0
+      ],
+      "zoom": 3
+    },
+    "CIV_CHAPTER_02": {
+      "title": "От деревень к городам",
+      "center": [
+        31.0,
+        67.0
+      ],
+      "zoom": 3
+    },
+    "CIV_CHAPTER_03": {
+      "title": "Власть, храм и правитель",
+      "center": [
+        31.0,
+        67.0
+      ],
+      "zoom": 3
+    },
+    "CIV_CHAPTER_04": {
+      "title": "Письмо, учёт и управление",
+      "center": [
+        31.0,
+        67.0
+      ],
+      "zoom": 3
+    },
+    "CIV_CHAPTER_05": {
+      "title": "Труд, ремесло и большие проекты",
+      "center": [
+        31.0,
+        67.0
+      ],
+      "zoom": 3
+    },
+    "CIV_CHAPTER_06": {
+      "title": "Как историки восстанавливают первые цивилизации",
+      "center": [
+        31.0,
+        67.0
+      ],
+      "zoom": 3
+    }
+  }
+}

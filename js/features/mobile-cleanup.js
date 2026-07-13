@@ -28,12 +28,12 @@ function shell(inner){
     <main class="main-wrap">
       <header class="command-bar">
         <div class="command-title"><span>${section}</span><span>·</span><b>${title}</b></div>
-        <div class="command-actions">${themeToggle()}<div class="command-pill version-pill">v${appVersion()}</div><div class="command-pill">◇ ${state.fragments}</div><div class="command-pill">${state.xp} XP</div><button class="command-icon" onclick="forceRefresh()" title="Принудительно обновить">↻</button><button class="command-icon" onclick="go('settings')" title="Настройки">⚙</button></div>
+        <div class="command-actions">${themeToggle()}<div class="command-pill version-pill">v${appVersion()}</div><div class="command-pill">◇ ${state.fragments}</div><div class="command-pill">${state.xp} XP</div><button class="command-icon" onclick="go('settings')" title="Настройки">⚙</button></div>
       </header>
       <div class="top-mobile">
         <button class="mobile-menu-button" onclick="toggleMobileMenu()" aria-label="Открыть меню">☰</button>
         <div class="mobile-brand"><img src="assets/ui/codex-mark.svg" alt=""><div><b>Codex</b><small>v${appVersion()}</small></div></div>
-        <button class="mobile-command" onclick="forceRefresh()" title="Обновить">↻</button>
+        <button class="mobile-command" onclick="go('settings')" title="Настройки">⚙</button>
       </div>
       <div class="view">${inner}</div></main><nav class="mobile-tabs legacy-mobile-tabs" aria-hidden="true"></nav>
     <button class="mobile-drawer-backdrop" onclick="closeMobileMenu()" aria-label="Закрыть меню"></button>
@@ -41,7 +41,7 @@ function shell(inner){
       <div class="mobile-drawer-head"><div class="mobile-brand"><img src="assets/ui/codex-mark.svg" alt=""><div><b>Codex of History</b><small>v${appVersion()}</small></div></div><button onclick="closeMobileMenu()">×</button></div>
       <div class="mobile-drawer-progress"><span>Уровень ${state.level}</span><b>${state.xp} XP</b><div class="progress"><i style="width:${levelProgress()}%"></i></div></div>
       <nav class="mobile-drawer-nav">${mobileDrawerNav()}</nav>
-      <div class="mobile-drawer-actions"><button onclick="closeMobileMenu();toggleTheme()">${state.theme==='parchment'?'☀ Пергамент':'☾ Чёрная тема'}</button><button onclick="closeMobileMenu();go('settings')">⚙ Настройки</button><button onclick="closeMobileMenu();forceRefresh()">↻ Обновить</button></div>
+      <div class="mobile-drawer-actions"><button onclick="closeMobileMenu();toggleTheme()">${state.theme==='parchment'?'☀ Пергамент':'☾ Чёрная тема'}</button><button onclick="closeMobileMenu();go('settings')">⚙ Настройки</button></div>
     </aside>
   </div>${packModal()}${masteryModal()}${typeof poolUnlockModal==='function'?poolUnlockModal():''}`;
 }

@@ -1,0 +1,1250 @@
+[
+  {
+    "id": "SYS_CIVA_001",
+    "type": "SYSTEM",
+    "title": "Бассейновое земледелие",
+    "original": "Бассейновое земледелие",
+    "subtitle": "использование сезонного разлива и участков поймы",
+    "era": "Рождение цивилизаций",
+    "region": "Египет и другие речные зоны",
+    "date": "ранняя история",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Бассейновое земледелие — использование сезонного разлива и участков поймы.",
+    "importance": "Показывает способ использовать разлив Нила через участки поймы и контролируемое удержание воды.",
+    "facts": [
+      "При бассейновом земледелии воду сезонного разлива удерживали на участках, после чего засевали увлажнённую почву.",
+      "Период или датировка: ранняя история.",
+      "Контекст сравнения: Египет и другие речные зоны; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "реки и природная среда"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 2,
+      "culture": 3,
+      "politics": 4,
+      "religion": 2,
+      "economy": 3,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/civilizations/sys_civa_001.svg",
+      "caption": "Учебная обложка: Бассейновое земледелие",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_civa_001.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: List of Rulers of Ancient Egypt and Nubia",
+      "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+      "type": "museum"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_01",
+    "pool": "CIV_POOL_01"
+  },
+  {
+    "id": "TERM_CIVA_001",
+    "type": "TERM",
+    "title": "Аллювий",
+    "original": "Аллювий",
+    "subtitle": "речные наносы, влияющие на почвы и русла",
+    "era": "Рождение цивилизаций",
+    "region": "Речные долины",
+    "date": "геологическое время",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Аллювий — речные наносы, влияющие на почвы и русла.",
+    "importance": "Объясняет, как речные наносы меняют плодородие почв, берега и положение русел.",
+    "facts": [
+      "Наносы могут повышать плодородие, поднимать русло и менять дренаж; их действие зависит от скорости воды и рельефа.",
+      "Период или датировка: геологическое время.",
+      "Контекст сравнения: Речные долины; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "реки и природная среда"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 4,
+      "legacy": 2,
+      "military": 3,
+      "culture": 4,
+      "politics": 2,
+      "religion": 3,
+      "economy": 4,
+      "connections": 2
+    },
+    "image": {
+      "local": "assets/cards/civilizations/term_civa_001.svg",
+      "caption": "Учебная обложка: Аллювий",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_civa_001.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_01",
+    "pool": "CIV_POOL_01"
+  },
+  {
+    "id": "TERM_CIVA_002",
+    "type": "TERM",
+    "title": "Сезонность паводка",
+    "original": "Сезонность паводка",
+    "subtitle": "повторяемый годовой цикл подъёма воды",
+    "era": "Рождение цивилизаций",
+    "region": "Речные долины",
+    "date": "ранняя история",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Сезонность паводка — повторяемый годовой цикл подъёма воды.",
+    "importance": "Помогает учитывать повторяемость паводка, не принимая его сроки и высоту за полностью предсказуемые.",
+    "facts": [
+      "Повторяемый цикл не означает полной предсказуемости: сроки и высота паводка могли отклоняться и вредить посевам.",
+      "Период или датировка: ранняя история.",
+      "Контекст сравнения: Речные долины; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "реки и природная среда"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 4,
+      "culture": 2,
+      "politics": 3,
+      "religion": 4,
+      "economy": 2,
+      "connections": 3
+    },
+    "image": {
+      "local": "assets/cards/civilizations/term_civa_002.svg",
+      "caption": "Учебная обложка: Сезонность паводка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_civa_002.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_01",
+    "pool": "CIV_POOL_01"
+  },
+  {
+    "id": "ART_CIVA_001",
+    "type": "ARTIFACT",
+    "title": "Канал и дамба",
+    "original": "Канал и дамба",
+    "subtitle": "сооружения для распределения и удержания воды",
+    "era": "Рождение цивилизаций",
+    "region": "Речные долины",
+    "date": "IV–II тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Канал и дамба — сооружения для распределения и удержания воды.",
+    "importance": "Показывает два базовых инструмента управления водой: её отвод по каналу и удержание дамбой.",
+    "facts": [
+      "Канал распределяет поток, а дамба удерживает или направляет воду; оба сооружения требуют ремонта и правил доступа.",
+      "Период или датировка: IV–II тысячелетия до н. э.",
+      "Контекст сравнения: Речные долины; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "реки и природная среда"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 2,
+      "culture": 3,
+      "politics": 4,
+      "religion": 2,
+      "economy": 3,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/civilizations/art_civa_001.svg",
+      "caption": "Учебная обложка: Канал и дамба",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_civa_001.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_01",
+    "pool": "CIV_POOL_01"
+  },
+  {
+    "id": "TERM_CIVA_003",
+    "type": "TERM",
+    "title": "Поселковая иерархия",
+    "original": "Поселковая иерархия",
+    "subtitle": "сеть центров разного размера и функций",
+    "era": "Рождение цивилизаций",
+    "region": "Четыре региона",
+    "date": "IV–II тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Поселковая иерархия — сеть центров разного размера и функций.",
+    "importance": "Помогает читать регион не как набор равных поселений, а как сеть центров разных размеров и функций.",
+    "facts": [
+      "Иерархию выявляют по различиям размера и функций поселений, а затем проверяют дорогами, обменом и административными следами.",
+      "Период или датировка: IV–II тысячелетия до н. э.",
+      "Контекст сравнения: Четыре региона; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "от деревень к городам"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 4,
+      "legacy": 2,
+      "military": 3,
+      "culture": 4,
+      "politics": 2,
+      "religion": 3,
+      "economy": 4,
+      "connections": 2
+    },
+    "image": {
+      "local": "assets/cards/civilizations/term_civa_003.svg",
+      "caption": "Учебная обложка: Поселковая иерархия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_civa_003.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_02",
+    "pool": "CIV_POOL_02"
+  },
+  {
+    "id": "SYS_CIVA_002",
+    "type": "SYSTEM",
+    "title": "Региональная сеть",
+    "original": "Региональная сеть",
+    "subtitle": "обмен людей, сырья и изделий между поселениями",
+    "era": "Рождение цивилизаций",
+    "region": "Четыре региона",
+    "date": "IV–II тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Региональная сеть — обмен людей, сырья и изделий между поселениями.",
+    "importance": "Объясняет, как города и деревни связывали обмен сырья, изделий, людей и информации.",
+    "facts": [
+      "Региональная сеть видна по перемещению сырья, изделий, мер, печатей и технологий между центрами и округой.",
+      "Период или датировка: IV–II тысячелетия до н. э.",
+      "Контекст сравнения: Четыре региона; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "от деревень к городам"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 4,
+      "culture": 2,
+      "politics": 3,
+      "religion": 4,
+      "economy": 2,
+      "connections": 3
+    },
+    "image": {
+      "local": "assets/cards/civilizations/sys_civa_002.svg",
+      "caption": "Учебная обложка: Региональная сеть",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "sys_civa_002.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_02",
+    "pool": "CIV_POOL_02"
+  },
+  {
+    "id": "ART_CIVA_002",
+    "type": "ARTIFACT",
+    "title": "Стандартизированный кирпич",
+    "original": "Стандартизированный кирпич",
+    "subtitle": "повторяемые размеры строительного материала",
+    "era": "Рождение цивилизаций",
+    "region": "Индская цивилизация и Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Стандартизированный кирпич — повторяемые размеры строительного материала.",
+    "importance": "Повторяемый размер кирпича указывает на общие нормы производства, строительства и контроля.",
+    "facts": [
+      "Повторяемые пропорции кирпича особенно заметны в городах Инда и облегчали планирование стен, платформ и стоков.",
+      "Период или датировка: III тысячелетие до н. э.",
+      "Контекст сравнения: Индская цивилизация и Месопотамия; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "от деревень к городам"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 2,
+      "culture": 3,
+      "politics": 4,
+      "religion": 2,
+      "economy": 3,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/civilizations/art_civa_002.svg",
+      "caption": "Учебная обложка: Стандартизированный кирпич",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_civa_002.svg"
+    },
+    "source": {
+      "title": "Penn Museum: The Indus Civilization",
+      "url": "https://www.penn.museum/sites/expedition/the-indus-civilization/",
+      "type": "museum"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_02",
+    "pool": "CIV_POOL_02"
+  },
+  {
+    "id": "ROAD_CIVA_001",
+    "type": "ROAD",
+    "title": "Дороги и водные пути",
+    "original": "Дороги и водные пути",
+    "subtitle": "маршруты перемещения людей, грузов и информации",
+    "era": "Рождение цивилизаций",
+    "region": "Четыре региона",
+    "date": "IV–II тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Дороги и водные пути — маршруты перемещения людей, грузов и информации.",
+    "importance": "Показывает инфраструктуру, по которой перемещались товары, работники, войска и распоряжения.",
+    "facts": [
+      "Маршруты связывали поля, карьеры, порты, мастерские и центры власти; их значение менялось вместе с сезонами и руслами.",
+      "Период или датировка: IV–II тысячелетия до н. э.",
+      "Контекст сравнения: Четыре региона; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "от деревень к городам"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 4,
+      "legacy": 2,
+      "military": 3,
+      "culture": 4,
+      "politics": 2,
+      "religion": 3,
+      "economy": 4,
+      "connections": 2
+    },
+    "image": {
+      "local": "assets/cards/civilizations/road_civa_001.svg",
+      "caption": "Учебная обложка: Дороги и водные пути",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "road_civa_001.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_02",
+    "pool": "CIV_POOL_02"
+  },
+  {
+    "id": "OFF_CIVA_001",
+    "type": "OFFICE",
+    "title": "Писец и управляющий",
+    "original": "Писец и управляющий",
+    "subtitle": "специалисты учёта, распределения и приказов",
+    "era": "Рождение цивилизаций",
+    "region": "Письменные общества",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Писец и управляющий — специалисты учёта, распределения и приказов.",
+    "importance": "Раскрывает специалистов, которые превращали приказ и поставку в запись, расчёт и распределение.",
+    "facts": [
+      "Писец фиксировал операции, а управляющий распределял людей и ресурсы; на практике эти роли могли пересекаться.",
+      "Период или датировка: III–II тысячелетия до н. э.",
+      "Контекст сравнения: Письменные общества; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "власть, храм и правитель"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 4,
+      "culture": 2,
+      "politics": 3,
+      "religion": 4,
+      "economy": 2,
+      "connections": 3
+    },
+    "image": {
+      "local": "assets/cards/civilizations/off_civa_001.svg",
+      "caption": "Учебная обложка: Писец и управляющий",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "off_civa_001.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_03",
+    "pool": "CIV_POOL_03"
+  },
+  {
+    "id": "TERM_CIVA_004",
+    "type": "TERM",
+    "title": "Перераспределение",
+    "original": "Перераспределение",
+    "subtitle": "сбор ресурсов и выдача их через центральную организацию",
+    "era": "Рождение цивилизаций",
+    "region": "Четыре региона",
+    "date": "ранняя история",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Перераспределение — сбор ресурсов и выдача их через центральную организацию.",
+    "importance": "Объясняет систему, при которой центр собирает продукты или труд, а затем выдаёт их по установленным правилам.",
+    "facts": [
+      "Перераспределение охватывает сбор и выдачу части ресурсов, но не означает полного исчезновения домашнего производства и прямого обмена.",
+      "Период или датировка: ранняя история.",
+      "Контекст сравнения: Четыре региона; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "власть, храм и правитель"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 2,
+      "culture": 3,
+      "politics": 4,
+      "religion": 2,
+      "economy": 3,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/civilizations/term_civa_004.svg",
+      "caption": "Учебная обложка: Перераспределение",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_civa_004.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_03",
+    "pool": "CIV_POOL_03"
+  },
+  {
+    "id": "REL_CIVA_001",
+    "type": "RELIGION",
+    "title": "Царский ритуал",
+    "original": "Царский ритуал",
+    "subtitle": "действия, связывавшие власть с предками и божественным порядком",
+    "era": "Рождение цивилизаций",
+    "region": "Четыре региона",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Царский ритуал — действия, связывавшие власть с предками и божественным порядком.",
+    "importance": "Показывает, как публичные обряды связывали правителя с богами, предками и установленным порядком.",
+    "facts": [
+      "Царский ритуал связывал решения двора с богами или предками и создавал публичное обоснование права управлять.",
+      "Период или датировка: III–II тысячелетия до н. э.",
+      "Контекст сравнения: Четыре региона; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "власть, храм и правитель"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 4,
+      "legacy": 2,
+      "military": 3,
+      "culture": 4,
+      "politics": 2,
+      "religion": 3,
+      "economy": 4,
+      "connections": 2
+    },
+    "image": {
+      "local": "assets/cards/civilizations/rel_civa_001.svg",
+      "caption": "Учебная обложка: Царский ритуал",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rel_civa_001.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_03",
+    "pool": "CIV_POOL_03"
+  },
+  {
+    "id": "ART_CIVA_003",
+    "type": "ARTIFACT",
+    "title": "Знак власти",
+    "original": "Знак власти",
+    "subtitle": "корона, жезл, печать или другое обозначение статуса",
+    "era": "Рождение цивилизаций",
+    "region": "Четыре региона",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Знак власти — корона, жезл, печать или другое обозначение статуса.",
+    "importance": "Помогает распознавать материальные признаки статуса и официального полномочия.",
+    "facts": [
+      "Знак статуса сообщает о притязании на власть; реальный объём полномочий нужно проверять по другим источникам.",
+      "Период или датировка: III–II тысячелетия до н. э.",
+      "Контекст сравнения: Четыре региона; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "власть, храм и правитель"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 4,
+      "culture": 2,
+      "politics": 3,
+      "religion": 4,
+      "economy": 2,
+      "connections": 3
+    },
+    "image": {
+      "local": "assets/cards/civilizations/art_civa_003.svg",
+      "caption": "Учебная обложка: Знак власти",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_civa_003.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_03",
+    "pool": "CIV_POOL_03"
+  },
+  {
+    "id": "ART_CIVA_004",
+    "type": "ARTIFACT",
+    "title": "Глиняная табличка",
+    "original": "Глиняная табличка",
+    "subtitle": "носитель хозяйственных и литературных записей",
+    "era": "Рождение цивилизаций",
+    "region": "Месопотамия",
+    "date": "с конца IV тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Глиняная табличка — носитель хозяйственных и литературных записей.",
+    "importance": "Показывает основной носитель многих месопотамских хозяйственных, правовых и литературных текстов.",
+    "facts": [
+      "Глина хорошо сохраняется и могла обжигаться случайно при пожаре, поэтому месопотамские архивы дошли лучше многих записей на органике.",
+      "Период или датировка: с конца IV тысячелетия до н. э.",
+      "Контекст сравнения: Месопотамия; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "письмо, учёт и управление"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 2,
+      "culture": 3,
+      "politics": 4,
+      "religion": 2,
+      "economy": 3,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/civilizations/art_civa_004.svg",
+      "caption": "Учебная обложка: Глиняная табличка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_civa_004.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Origins of Writing",
+      "url": "https://www.metmuseum.org/essays/the-origins-of-writing",
+      "type": "museum"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_04",
+    "pool": "CIV_POOL_04"
+  },
+  {
+    "id": "ART_CIVA_005",
+    "type": "ARTIFACT",
+    "title": "Печать и оттиск",
+    "original": "Печать и оттиск",
+    "subtitle": "средство обозначения владельца, контроля или операции",
+    "era": "Рождение цивилизаций",
+    "region": "Западная и Южная Азия",
+    "date": "IV–II тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Печать и оттиск — средство обозначения владельца, контроля или операции.",
+    "importance": "Объясняет, как оттиск мог подтверждать владельца, закрывать сосуд или отмечать административную операцию.",
+    "facts": [
+      "Оттиск мог закрывать дверь или сосуд, отмечать владельца и подтверждать операцию; значение зависит от места находки.",
+      "Период или датировка: IV–II тысячелетия до н. э.",
+      "Контекст сравнения: Западная и Южная Азия; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "письмо, учёт и управление"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 4,
+      "legacy": 2,
+      "military": 3,
+      "culture": 4,
+      "politics": 2,
+      "religion": 3,
+      "economy": 4,
+      "connections": 2
+    },
+    "image": {
+      "local": "assets/cards/civilizations/art_civa_005.svg",
+      "caption": "Учебная обложка: Печать и оттиск",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_civa_005.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_04",
+    "pool": "CIV_POOL_04"
+  },
+  {
+    "id": "TERM_CIVA_005",
+    "type": "TERM",
+    "title": "Недешифрованная письменность",
+    "original": "Недешифрованная письменность",
+    "subtitle": "система знаков без общепринятого прочтения",
+    "era": "Рождение цивилизаций",
+    "region": "Индская цивилизация",
+    "date": "современная наука",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Недешифрованная письменность — система знаков без общепринятого прочтения.",
+    "importance": "Фиксирует границу между распознанной системой знаков и доказанным чтением языка.",
+    "facts": [
+      "Без длинного корпуса, понятного языка и надёжной опоры перевод остаётся гипотезой, даже если система знаков упорядочена.",
+      "Период или датировка: современная наука.",
+      "Контекст сравнения: Индская цивилизация; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "письмо, учёт и управление"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 4,
+      "culture": 2,
+      "politics": 3,
+      "religion": 4,
+      "economy": 2,
+      "connections": 3
+    },
+    "image": {
+      "local": "assets/cards/civilizations/term_civa_005.svg",
+      "caption": "Учебная обложка: Недешифрованная письменность",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_civa_005.svg"
+    },
+    "source": {
+      "title": "Penn Museum: The Indus Civilization",
+      "url": "https://www.penn.museum/sites/expedition/the-indus-civilization/",
+      "type": "museum"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_04",
+    "pool": "CIV_POOL_04"
+  },
+  {
+    "id": "OFF_CIVA_002",
+    "type": "OFFICE",
+    "title": "Специалист записи",
+    "original": "Специалист записи",
+    "subtitle": "человек, обученный системе письма и счёта",
+    "era": "Рождение цивилизаций",
+    "region": "Письменные общества",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Специалист записи — человек, обученный системе письма и счёта.",
+    "importance": "Показывает, что письмо и счёт требовали обучения и создавали отдельную группу специалистов.",
+    "facts": [
+      "Обучение письму и счёту создавало узкую группу специалистов, от которой зависели архивы и административная память.",
+      "Период или датировка: III–II тысячелетия до н. э.",
+      "Контекст сравнения: Письменные общества; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "письмо, учёт и управление"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 2,
+      "culture": 3,
+      "politics": 4,
+      "religion": 2,
+      "economy": 3,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/civilizations/off_civa_002.svg",
+      "caption": "Учебная обложка: Специалист записи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "off_civa_002.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Origins of Writing",
+      "url": "https://www.metmuseum.org/essays/the-origins-of-writing",
+      "type": "museum"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_04",
+    "pool": "CIV_POOL_04"
+  },
+  {
+    "id": "ART_CIVA_006",
+    "type": "ARTIFACT",
+    "title": "Рацион и ведомость",
+    "original": "Рацион и ведомость",
+    "subtitle": "учёт выдачи зерна, пива и других продуктов",
+    "era": "Рождение цивилизаций",
+    "region": "Месопотамия",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Рацион и ведомость — учёт выдачи зерна, пива и других продуктов.",
+    "importance": "Позволяет увидеть организацию труда через конкретные записи о выдаче продуктов людям и группам.",
+    "facts": [
+      "Ведомости рационов позволяют увидеть продукты и получателей, но не дают полного описания условий и статуса работников.",
+      "Период или датировка: III тысячелетие до н. э.",
+      "Контекст сравнения: Месопотамия; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "труд, ремесло и большие проекты"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 4,
+      "legacy": 2,
+      "military": 3,
+      "culture": 4,
+      "politics": 2,
+      "religion": 3,
+      "economy": 4,
+      "connections": 2
+    },
+    "image": {
+      "local": "assets/cards/civilizations/art_civa_006.svg",
+      "caption": "Учебная обложка: Рацион и ведомость",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_civa_006.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_05",
+    "pool": "CIV_POOL_05"
+  },
+  {
+    "id": "ART_CIVA_007",
+    "type": "ARTIFACT",
+    "title": "Каменная масса и транспорт",
+    "original": "Каменная масса и транспорт",
+    "subtitle": "перевозка тяжёлых материалов к строительной площадке",
+    "era": "Рождение цивилизаций",
+    "region": "Египет и другие регионы",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Каменная масса и транспорт — перевозка тяжёлых материалов к строительной площадке.",
+    "importance": "Раскрывает логистику монументального строительства: добычу, перевозку, складирование и подачу материала.",
+    "facts": [
+      "Перевозка тяжёлого камня зависела от карьера, подготовки пути, тяги, воды, сезонности и промежуточных площадок.",
+      "Период или датировка: III тысячелетие до н. э.",
+      "Контекст сравнения: Египет и другие регионы; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "труд, ремесло и большие проекты"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 2,
+      "legacy": 3,
+      "military": 4,
+      "culture": 2,
+      "politics": 3,
+      "religion": 4,
+      "economy": 2,
+      "connections": 3
+    },
+    "image": {
+      "local": "assets/cards/civilizations/art_civa_007.svg",
+      "caption": "Учебная обложка: Каменная масса и транспорт",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_civa_007.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: List of Rulers of Ancient Egypt and Nubia",
+      "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+      "type": "museum"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_05",
+    "pool": "CIV_POOL_05"
+  },
+  {
+    "id": "BUILD_CIVA_001",
+    "type": "CITY",
+    "title": "Городская дренажная система",
+    "original": "Городская дренажная система",
+    "subtitle": "каналы, колодцы и стоки внутри города",
+    "era": "Рождение цивилизаций",
+    "region": "Индская цивилизация",
+    "date": "III тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Городская дренажная система — каналы, колодцы и стоки внутри города.",
+    "importance": "Показывает, что городская вода требовала общей планировки, стандартного строительства и постоянного обслуживания.",
+    "facts": [
+      "Колодцы, кирпичные стоки и каналы Мохенджо-Даро показывают длительное планирование и обслуживание городской воды.",
+      "Период или датировка: III тысячелетие до н. э.",
+      "Контекст сравнения: Индская цивилизация; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "труд, ремесло и большие проекты"
+    ],
+    "stats": {
+      "influence": 2,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 2,
+      "culture": 3,
+      "politics": 4,
+      "religion": 2,
+      "economy": 3,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/civilizations/build_civa_001.svg",
+      "caption": "Учебная обложка: Городская дренажная система",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "build_civa_001.svg"
+    },
+    "source": {
+      "title": "Penn Museum: The Indus Civilization",
+      "url": "https://www.penn.museum/sites/expedition/the-indus-civilization/",
+      "type": "museum"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_05",
+    "pool": "CIV_POOL_05"
+  },
+  {
+    "id": "TERM_CIVA_006",
+    "type": "TERM",
+    "title": "Сезонная мобилизация",
+    "original": "Сезонная мобилизация",
+    "subtitle": "привлечение работников в период, свободный от части сельских работ",
+    "era": "Рождение цивилизаций",
+    "region": "Ранние государства",
+    "date": "III–II тысячелетия до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "summary": "Сезонная мобилизация — привлечение работников в период, свободный от части сельских работ.",
+    "importance": "Объясняет, как власть или община могли собирать работников в определённый сезон хозяйственного года.",
+    "facts": [
+      "Сезонная мобилизация могла использовать периоды меньшей сельскохозяйственной занятости, но её масштаб и обязательность нужно доказывать.",
+      "Период или датировка: III–II тысячелетия до н. э.",
+      "Контекст сравнения: Ранние государства; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "труд, ремесло и большие проекты"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 4,
+      "legacy": 2,
+      "military": 3,
+      "culture": 4,
+      "politics": 2,
+      "religion": 3,
+      "economy": 4,
+      "connections": 2
+    },
+    "image": {
+      "local": "assets/cards/civilizations/term_civa_006.svg",
+      "caption": "Учебная обложка: Сезонная мобилизация",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_civa_006.svg"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Uruk, the First City",
+      "url": "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "type": "museum"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_05",
+    "pool": "CIV_POOL_05"
+  },
+  {
+    "id": "ART_CIVA_008",
+    "type": "ARTIFACT",
+    "title": "Стратиграфический слой",
+    "original": "Стратиграфический слой",
+    "subtitle": "часть последовательности отложений на памятнике",
+    "era": "Рождение цивилизаций",
+    "region": "Исторический метод",
+    "date": "современная археология",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Стратиграфический слой — часть последовательности отложений на памятнике.",
+    "importance": "Даёт основу относительной хронологии памятника через последовательность накопившихся слоёв.",
+    "facts": [
+      "Нижний непотревоженный слой обычно раньше верхнего; ямы, ремонты и повторное использование могут нарушать простую последовательность.",
+      "Период или датировка: современная археология.",
+      "Контекст сравнения: Исторический метод; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "как историки восстанавливают первые цивилизации"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 5,
+      "culture": 3,
+      "politics": 4,
+      "religion": 5,
+      "economy": 3,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/civilizations/art_civa_008.svg",
+      "caption": "Учебная обложка: Стратиграфический слой",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "art_civa_008.svg"
+    },
+    "source": {
+      "title": "Smarthistory: Introduction to ancient China",
+      "url": "https://smarthistory.org/introduction-to-ancient-china/",
+      "type": "educational"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_06",
+    "pool": "CIV_POOL_06"
+  },
+  {
+    "id": "TEXT_CIVA_001",
+    "type": "ARTIFACT",
+    "title": "Поздняя традиция",
+    "original": "Поздняя традиция",
+    "subtitle": "текст, созданный значительно позже описываемых событий",
+    "era": "Рождение цивилизаций",
+    "region": "Исторический метод",
+    "date": "древность и Средневековье",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Поздняя традиция — текст, созданный значительно позже описываемых событий.",
+    "importance": "Помогает использовать поздний текст осторожно, не принимая его за прямое свидетельство раннего события.",
+    "facts": [
+      "Поздний текст может сохранять имена и память, но также перестраивать прошлое под политические и литературные задачи своего времени.",
+      "Период или датировка: древность и Средневековье.",
+      "Контекст сравнения: Исторический метод; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "как историки восстанавливают первые цивилизации"
+    ],
+    "stats": {
+      "influence": 3,
+      "complexity": 4,
+      "legacy": 5,
+      "military": 3,
+      "culture": 4,
+      "politics": 5,
+      "religion": 3,
+      "economy": 4,
+      "connections": 5
+    },
+    "image": {
+      "local": "assets/cards/civilizations/text_civa_001.svg",
+      "caption": "Учебная обложка: Поздняя традиция",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "text_civa_001.svg"
+    },
+    "source": {
+      "title": "Smarthistory: Introduction to ancient China",
+      "url": "https://smarthistory.org/introduction-to-ancient-china/",
+      "type": "educational"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_06",
+    "pool": "CIV_POOL_06"
+  },
+  {
+    "id": "TERM_CIVA_007",
+    "type": "TERM",
+    "title": "Пробел источников",
+    "original": "Пробел источников",
+    "subtitle": "отсутствие данных, которое нельзя заполнять догадкой",
+    "era": "Рождение цивилизаций",
+    "region": "Исторический метод",
+    "date": "современная история",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Пробел источников — отсутствие данных, которое нельзя заполнять догадкой.",
+    "importance": "Напоминает, что отсутствие свидетельства нельзя автоматически превращать в доказательство удобной версии.",
+    "facts": [
+      "Пробел не является доказательством удобной версии: его фиксируют и проверяют, какие материалы могли не сохраниться.",
+      "Период или датировка: современная история.",
+      "Контекст сравнения: Исторический метод; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "как историки восстанавливают первые цивилизации"
+    ],
+    "stats": {
+      "influence": 4,
+      "complexity": 5,
+      "legacy": 3,
+      "military": 4,
+      "culture": 5,
+      "politics": 3,
+      "religion": 4,
+      "economy": 5,
+      "connections": 3
+    },
+    "image": {
+      "local": "assets/cards/civilizations/term_civa_007.svg",
+      "caption": "Учебная обложка: Пробел источников",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_civa_007.svg"
+    },
+    "source": {
+      "title": "Smarthistory: Introduction to ancient China",
+      "url": "https://smarthistory.org/introduction-to-ancient-china/",
+      "type": "educational"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_06",
+    "pool": "CIV_POOL_06"
+  },
+  {
+    "id": "TERM_CIVA_008",
+    "type": "TERM",
+    "title": "Спорная гипотеза",
+    "original": "Спорная гипотеза",
+    "subtitle": "объяснение, которое обсуждается и не является установленным фактом",
+    "era": "Рождение цивилизаций",
+    "region": "Исторический метод",
+    "date": "современная наука",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "summary": "Спорная гипотеза — объяснение, которое обсуждается и не является установленным фактом.",
+    "importance": "Учит называть объяснение гипотезой, пока данные не позволяют считать его установленным выводом.",
+    "facts": [
+      "Спорная гипотеза допустима, когда явно названа, опирается на данные и рассматривает конкурирующие объяснения.",
+      "Период или датировка: современная наука.",
+      "Контекст сравнения: Исторический метод; выводы зависят от типа источника и его сохранности."
+    ],
+    "tags": [
+      "сравнение",
+      "как историки восстанавливают первые цивилизации"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 3,
+      "legacy": 4,
+      "military": 5,
+      "culture": 3,
+      "politics": 4,
+      "religion": 5,
+      "economy": 3,
+      "connections": 4
+    },
+    "image": {
+      "local": "assets/cards/civilizations/term_civa_008.svg",
+      "caption": "Учебная обложка: Спорная гипотеза",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "ATTRIBUTION.md#project-original-card-covers",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "term_civa_008.svg"
+    },
+    "source": {
+      "title": "Smarthistory: Introduction to ancient China",
+      "url": "https://smarthistory.org/introduction-to-ancient-china/",
+      "type": "educational"
+    },
+    "acquisition": "PACK",
+    "campaign": "CIVILIZATIONS",
+    "chapter": "CIV_CHAPTER_06",
+    "pool": "CIV_POOL_06"
+  }
+]

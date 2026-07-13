@@ -1,5 +1,5 @@
 {
-  "version": "2.9.0",
+  "version": "3.0.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -16,7 +16,9 @@
       "data/cards/indus/story.json",
       "data/cards/indus/archive.json",
       "data/cards/china/story.json",
-      "data/cards/china/archive.json"
+      "data/cards/china/archive.json",
+      "data/cards/civilizations/story.json",
+      "data/cards/civilizations/archive.json"
     ],
     "relations": "data/core/relations.json",
     "pools": [
@@ -25,7 +27,8 @@
       "data/campaigns/egypt/pools.json",
       "data/campaigns/comparison/pools.json",
       "data/campaigns/indus/pools.json",
-      "data/campaigns/china/pools.json"
+      "data/campaigns/china/pools.json",
+      "data/campaigns/civilizations/pools.json"
     ],
     "quizzes": [
       "data/quizzes/rome/chapter_01.json",
@@ -37,7 +40,8 @@
       "data/quizzes/egypt/chapter_06_10.json",
       "data/quizzes/comparison/campaign.json",
       "data/quizzes/indus/campaign.json",
-      "data/quizzes/china/campaign.json"
+      "data/quizzes/china/campaign.json",
+      "data/quizzes/civilizations/campaign.json"
     ],
     "stories": [
       "data/stories/rome/personal.json",
@@ -45,7 +49,8 @@
       "data/stories/egypt/personal.json",
       "data/stories/comparison/personal.json",
       "data/stories/indus/personal.json",
-      "data/stories/china/personal.json"
+      "data/stories/china/personal.json",
+      "data/stories/civilizations/personal.json"
     ],
     "mastery": "data/core/mastery.json",
     "packs": "data/core/packs.json",
@@ -56,7 +61,8 @@
       "EGYPT_EARLY": "data/maps/egypt.json",
       "DAWN_PARALLEL": "data/maps/comparison.json",
       "INDUS": "data/maps/indus.json",
-      "CHINA_EARLY": "data/maps/china.json"
+      "CHINA_EARLY": "data/maps/china.json",
+      "DAWN_WORLD": "data/maps/civilizations.json"
     },
     "daily": "data/core/daily-learning.json",
     "lessons": [
@@ -69,7 +75,8 @@
       "data/lessons/egypt/chapter_06_10.json",
       "data/lessons/comparison/campaign.json",
       "data/lessons/indus/campaign.json",
-      "data/lessons/china/campaign.json"
+      "data/lessons/china/campaign.json",
+      "data/lessons/civilizations/campaign.json"
     ],
     "eras": "data/world/eras.json",
     "campaignCatalog": "data/world/campaigns.json",
@@ -80,7 +87,8 @@
       "data/campaigns/egypt/campaign.json",
       "data/campaigns/comparison/campaign.json",
       "data/campaigns/indus/campaign.json",
-      "data/campaigns/china/campaign.json"
+      "data/campaigns/china/campaign.json",
+      "data/campaigns/civilizations/campaign.json"
     ]
   },
   "scripts": [
@@ -111,9 +119,8 @@
     "js/features/v2-7-parallel-civilizations.js",
     "js/features/v2-8-indus.js",
     "js/features/v2-9-china.js",
+    "js/features/v3-0-dawn-world.js",
     "js/core/start.js"
   ],
-  "vendors": {
-    "leaflet": "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-  }
+  "vendors": {}
 }

@@ -1,0 +1,335 @@
+{
+  "campaignId": "BRONZE_COLLAPSE",
+  "campaigns": {
+    "BRONZE_COLLAPSE": {
+      "id": "BRONZE_COLLAPSE",
+      "title": "Катастрофа бронзового века",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "COL_POOL_01",
+      "campaign": "BRONZE_COLLAPSE",
+      "title": "Система перед кризисом",
+      "unlockMission": "COL_01_02",
+      "cardIds": [
+        "COL_A_01_01",
+        "COL_A_01_02",
+        "COL_A_01_03",
+        "COL_A_01_04"
+      ]
+    },
+    {
+      "id": "COL_POOL_02",
+      "campaign": "BRONZE_COLLAPSE",
+      "title": "Климат, урожай и продовольствие",
+      "unlockMission": "COL_02_02",
+      "cardIds": [
+        "COL_A_02_01",
+        "COL_A_02_02",
+        "COL_A_02_03",
+        "COL_A_02_04"
+      ]
+    },
+    {
+      "id": "COL_POOL_03",
+      "campaign": "BRONZE_COLLAPSE",
+      "title": "Войны, восстания и внутренний распад",
+      "unlockMission": "COL_03_02",
+      "cardIds": [
+        "COL_A_03_01",
+        "COL_A_03_02",
+        "COL_A_03_03",
+        "COL_A_03_04"
+      ]
+    },
+    {
+      "id": "COL_POOL_04",
+      "campaign": "BRONZE_COLLAPSE",
+      "title": "Падение Хатти",
+      "unlockMission": "COL_04_02",
+      "cardIds": [
+        "COL_A_04_01",
+        "COL_A_04_02",
+        "COL_A_04_03",
+        "COL_A_04_04"
+      ]
+    },
+    {
+      "id": "COL_POOL_05",
+      "campaign": "BRONZE_COLLAPSE",
+      "title": "Последние дни Угарита",
+      "unlockMission": "COL_05_02",
+      "cardIds": [
+        "COL_A_05_01",
+        "COL_A_05_02",
+        "COL_A_05_03",
+        "COL_A_05_04"
+      ]
+    },
+    {
+      "id": "COL_POOL_06",
+      "campaign": "BRONZE_COLLAPSE",
+      "title": "Египет и народы моря",
+      "unlockMission": "COL_06_02",
+      "cardIds": [
+        "COL_A_06_01",
+        "COL_A_06_02",
+        "COL_A_06_03",
+        "COL_A_06_04"
+      ]
+    },
+    {
+      "id": "COL_POOL_07",
+      "campaign": "BRONZE_COLLAPSE",
+      "title": "Конец микенских дворцов",
+      "unlockMission": "COL_07_02",
+      "cardIds": [
+        "COL_A_07_01",
+        "COL_A_07_02",
+        "COL_A_07_03",
+        "COL_A_07_04"
+      ]
+    },
+    {
+      "id": "COL_POOL_08",
+      "campaign": "BRONZE_COLLAPSE",
+      "title": "Кипр и меняющиеся морские сети",
+      "unlockMission": "COL_08_02",
+      "cardIds": [
+        "COL_A_08_01",
+        "COL_A_08_02",
+        "COL_A_08_03",
+        "COL_A_08_04"
+      ]
+    },
+    {
+      "id": "COL_POOL_09",
+      "campaign": "BRONZE_COLLAPSE",
+      "title": "Кто выжил и что продолжилось",
+      "unlockMission": "COL_09_02",
+      "cardIds": [
+        "COL_A_09_01",
+        "COL_A_09_02",
+        "COL_A_09_03",
+        "COL_A_09_04"
+      ]
+    },
+    {
+      "id": "COL_POOL_10",
+      "campaign": "BRONZE_COLLAPSE",
+      "title": "От кризиса к железному веку",
+      "unlockMission": "COL_10_02",
+      "cardIds": [
+        "COL_A_10_01",
+        "COL_A_10_02",
+        "COL_A_10_03",
+        "COL_A_10_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "COL_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_01",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_01",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_01",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_01",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_02",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_02",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_02",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_02",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_03",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_03",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_03",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_03",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_04",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_04",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_04",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_04",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_05",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_05",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_05",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_05",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_06",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_06",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_06",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_06",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_07",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_07",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_07",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_07",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_08",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_08",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_08",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_08",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_09",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_09",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_09",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_09",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_10",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_10",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_10",
+      "campaign": "BRONZE_COLLAPSE"
+    },
+    "COL_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "COL_POOL_10",
+      "campaign": "BRONZE_COLLAPSE"
+    }
+  }
+}

@@ -1,0 +1,2362 @@
+[
+  {
+    "id": "COL_A_01_01",
+    "type": "TEXT",
+    "title": "Складские таблички",
+    "original": "Administrative tablets",
+    "subtitle": "документы выдачи, запасов и рабочей силы",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "XIII век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Складские таблички — документы выдачи, запасов и рабочей силы.",
+    "importance": "Архивная карточка дополняет главу «Система перед кризисом» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: XIII век до н. э..",
+      "Связь с темой: документы выдачи, запасов и рабочей силы.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Система перед кризисом",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 5,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Пилос",
+      "lat": 37.028,
+      "lon": 21.696
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-01/col_a_01_01.svg",
+      "caption": "Локальная учебная обложка: Складские таблички",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_01_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_01"
+  },
+  {
+    "id": "COL_A_01_02",
+    "type": "ARTIFACT",
+    "title": "Слиток в форме бычьей шкуры",
+    "original": "Oxhide ingot",
+    "subtitle": "стандартная форма перевозки медного сырья",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "XIV–XIII века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Слиток в форме бычьей шкуры — стандартная форма перевозки медного сырья.",
+    "importance": "Архивная карточка дополняет главу «Система перед кризисом» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: XIV–XIII века до н. э..",
+      "Связь с темой: стандартная форма перевозки медного сырья.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Система перед кризисом",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 6,
+      "culture": 9,
+      "politics": 8,
+      "religion": 5,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Кипр",
+      "lat": 35.0,
+      "lon": 33.2
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-01/col_a_01_02.svg",
+      "caption": "Локальная учебная обложка: Слиток в форме бычьей шкуры",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_01_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_01"
+  },
+  {
+    "id": "COL_A_01_03",
+    "type": "BUILDING",
+    "title": "Дворцовый склад",
+    "original": "Palace storeroom",
+    "subtitle": "пространство концентрации зерна, масла, металла и текстиля",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Дворцовый склад — пространство концентрации зерна, масла, металла и текстиля.",
+    "importance": "Архивная карточка дополняет главу «Система перед кризисом» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Связь с темой: пространство концентрации зерна, масла, металла и текстиля.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Система перед кризисом",
+      "building"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 7,
+      "culture": 5,
+      "politics": 9,
+      "religion": 6,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Микены",
+      "lat": 37.731,
+      "lon": 22.756
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-01/col_a_01_03.svg",
+      "caption": "Локальная учебная обложка: Дворцовый склад",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_01_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_01"
+  },
+  {
+    "id": "COL_A_01_04",
+    "type": "CONCEPT",
+    "title": "Модель каскадного кризиса",
+    "original": "Systems collapse theory",
+    "subtitle": "гипотеза о взаимном усилении нескольких нарушений",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "современная интерпретация",
+    "rarity": "LEGENDARY",
+    "difficulty": 7,
+    "summary": "Модель каскадного кризиса — гипотеза о взаимном усилении нескольких нарушений.",
+    "importance": "Архивная карточка дополняет главу «Система перед кризисом» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: современная интерпретация.",
+      "Связь с темой: гипотеза о взаимном усилении нескольких нарушений.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Система перед кризисом",
+      "concept"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 8,
+      "culture": 7,
+      "politics": 4,
+      "religion": 2,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Восточное Средиземноморье",
+      "lat": 34.8,
+      "lon": 31.8
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-01/col_a_01_04.svg",
+      "caption": "Локальная учебная обложка: Модель каскадного кризиса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_01_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_01"
+  },
+  {
+    "id": "COL_A_02_01",
+    "type": "SOURCE",
+    "title": "Пыльцевой анализ",
+    "original": "Pollen analysis",
+    "subtitle": "метод изучения растительности и влажности прошлого",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "современная наука",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Пыльцевой анализ — метод изучения растительности и влажности прошлого.",
+    "importance": "Архивная карточка дополняет главу «Климат, урожай и продовольствие» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: современная наука.",
+      "Связь с темой: метод изучения растительности и влажности прошлого.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Климат, урожай и продовольствие",
+      "source"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 6,
+      "culture": 8,
+      "politics": 9,
+      "religion": 5,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Анатолия",
+      "lat": 39.0,
+      "lon": 33.0
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-02/col_a_02_01.svg",
+      "caption": "Локальная учебная обложка: Пыльцевой анализ",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_02_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "World History Encyclopedia: Bronze Age Collapse",
+      "url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "type": "reference"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_02"
+  },
+  {
+    "id": "COL_A_02_02",
+    "type": "TEXT",
+    "title": "Письмо о зерне",
+    "original": "Grain correspondence",
+    "subtitle": "документ о запросе или отправке продовольствия",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "XIII век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Письмо о зерне — документ о запросе или отправке продовольствия.",
+    "importance": "Архивная карточка дополняет главу «Климат, урожай и продовольствие» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: XIII век до н. э..",
+      "Связь с темой: документ о запросе или отправке продовольствия.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Климат, урожай и продовольствие",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 7,
+      "culture": 4,
+      "politics": 4,
+      "religion": 6,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Угарит",
+      "lat": 35.602,
+      "lon": 35.785
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-02/col_a_02_02.svg",
+      "caption": "Локальная учебная обложка: Письмо о зерне",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_02_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "World History Encyclopedia: Bronze Age Collapse",
+      "url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "type": "reference"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_02"
+  },
+  {
+    "id": "COL_A_02_03",
+    "type": "BUILDING",
+    "title": "Зернохранилище",
+    "original": "Granary",
+    "subtitle": "сооружение для хранения зерновых запасов",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Зернохранилище — сооружение для хранения зерновых запасов.",
+    "importance": "Архивная карточка дополняет главу «Климат, урожай и продовольствие» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: II тысячелетие до н. э..",
+      "Связь с темой: сооружение для хранения зерновых запасов.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Климат, урожай и продовольствие",
+      "building"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 8,
+      "culture": 6,
+      "politics": 5,
+      "religion": 2,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Хаттуса",
+      "lat": 40.019,
+      "lon": 34.615
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-02/col_a_02_03.svg",
+      "caption": "Локальная учебная обложка: Зернохранилище",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_02_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "World History Encyclopedia: Bronze Age Collapse",
+      "url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "type": "reference"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_02"
+  },
+  {
+    "id": "COL_A_02_04",
+    "type": "CONCEPT",
+    "title": "Ограничения климатической гипотезы",
+    "original": "Climate hypothesis limits",
+    "subtitle": "различие между природным давлением и прямым объяснением политического краха",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "современная дискуссия",
+    "rarity": "LEGENDARY",
+    "difficulty": 7,
+    "summary": "Ограничения климатической гипотезы — различие между природным давлением и прямым объяснением политического краха.",
+    "importance": "Архивная карточка дополняет главу «Климат, урожай и продовольствие» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: современная дискуссия.",
+      "Связь с темой: различие между природным давлением и прямым объяснением политического краха.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Климат, урожай и продовольствие",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 3,
+      "culture": 8,
+      "politics": 6,
+      "religion": 3,
+      "economy": 4,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Восточное Средиземноморье",
+      "lat": 34.8,
+      "lon": 31.8
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-02/col_a_02_04.svg",
+      "caption": "Локальная учебная обложка: Ограничения климатической гипотезы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_02_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "World History Encyclopedia: Bronze Age Collapse",
+      "url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "type": "reference"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_02"
+  },
+  {
+    "id": "COL_A_03_01",
+    "type": "SOURCE",
+    "title": "Следы укрепления стен",
+    "original": "Fortification repairs",
+    "subtitle": "археологические признаки срочного усиления обороны",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "конец XIII века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Следы укрепления стен — археологические признаки срочного усиления обороны.",
+    "importance": "Архивная карточка дополняет главу «Войны, восстания и внутренний распад» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: конец XIII века до н. э..",
+      "Связь с темой: археологические признаки срочного усиления обороны.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Войны, восстания и внутренний распад",
+      "source"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 7,
+      "culture": 9,
+      "politics": 5,
+      "religion": 6,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Микены",
+      "lat": 37.731,
+      "lon": 22.756
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-03/col_a_03_01.svg",
+      "caption": "Локальная учебная обложка: Следы укрепления стен",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_03_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_03"
+  },
+  {
+    "id": "COL_A_03_02",
+    "type": "ARTIFACT",
+    "title": "Клад оружия",
+    "original": "Weapon hoard",
+    "subtitle": "собрание вооружения, скрытое или оставленное во время кризиса",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "XIII–XII века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Клад оружия — собрание вооружения, скрытое или оставленное во время кризиса.",
+    "importance": "Архивная карточка дополняет главу «Войны, восстания и внутренний распад» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: XIII–XII века до н. э..",
+      "Связь с темой: собрание вооружения, скрытое или оставленное во время кризиса.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Войны, восстания и внутренний распад",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 8,
+      "culture": 5,
+      "politics": 6,
+      "religion": 2,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Левант",
+      "lat": 34.2,
+      "lon": 35.5
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-03/col_a_03_02.svg",
+      "caption": "Локальная учебная обложка: Клад оружия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_03_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_03"
+  },
+  {
+    "id": "COL_A_03_03",
+    "type": "SOURCE",
+    "title": "Незавершённое строительство",
+    "original": "Unfinished construction",
+    "subtitle": "признак прерванной работы крупного центра",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "ок. 1200 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Незавершённое строительство — признак прерванной работы крупного центра.",
+    "importance": "Архивная карточка дополняет главу «Войны, восстания и внутренний распад» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: ок. 1200 до н. э..",
+      "Связь с темой: признак прерванной работы крупного центра.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Войны, восстания и внутренний распад",
+      "source"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 3,
+      "culture": 7,
+      "politics": 7,
+      "religion": 3,
+      "economy": 4,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Хаттуса",
+      "lat": 40.019,
+      "lon": 34.615
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-03/col_a_03_03.svg",
+      "caption": "Локальная учебная обложка: Незавершённое строительство",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_03_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_03"
+  },
+  {
+    "id": "COL_A_03_04",
+    "type": "CONCEPT",
+    "title": "Проблема определения восстания",
+    "original": "Revolt interpretation",
+    "subtitle": "сложность отличить внутреннее насилие от нападения извне",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "современная археология",
+    "rarity": "LEGENDARY",
+    "difficulty": 7,
+    "summary": "Проблема определения восстания — сложность отличить внутреннее насилие от нападения извне.",
+    "importance": "Архивная карточка дополняет главу «Войны, восстания и внутренний распад» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: современная археология.",
+      "Связь с темой: сложность отличить внутреннее насилие от нападения извне.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Войны, восстания и внутренний распад",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 4,
+      "culture": 9,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Восточное Средиземноморье",
+      "lat": 34.8,
+      "lon": 31.8
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-03/col_a_03_04.svg",
+      "caption": "Локальная учебная обложка: Проблема определения восстания",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_03_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_03"
+  },
+  {
+    "id": "COL_A_04_01",
+    "type": "SOURCE",
+    "title": "Слой разрушения Хаттусы",
+    "original": "Hattusa destruction layer",
+    "subtitle": "археологический контекст финала столицы",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "ок. 1200 до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Слой разрушения Хаттусы — археологический контекст финала столицы.",
+    "importance": "Архивная карточка дополняет главу «Падение Хатти» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: ок. 1200 до н. э..",
+      "Связь с темой: археологический контекст финала столицы.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Падение Хатти",
+      "source"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 8,
+      "culture": 4,
+      "politics": 7,
+      "religion": 2,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Хаттуса",
+      "lat": 40.019,
+      "lon": 34.615
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-04/col_a_04_01.svg",
+      "caption": "Локальная учебная обложка: Слой разрушения Хаттусы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-hittites",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Hittites",
+      "url": "https://www.metmuseum.org/essays/the-hittites",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_04"
+  },
+  {
+    "id": "COL_A_04_02",
+    "type": "TEXT",
+    "title": "Лувийские иероглифы",
+    "original": "Anatolian hieroglyphs",
+    "subtitle": "письменная традиция поздних анатолийских и сиро-хеттских государств",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "XII–VIII века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Лувийские иероглифы — письменная традиция поздних анатолийских и сиро-хеттских государств.",
+    "importance": "Архивная карточка дополняет главу «Падение Хатти» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: XII–VIII века до н. э..",
+      "Связь с темой: письменная традиция поздних анатолийских и сиро-хеттских государств.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Падение Хатти",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 3,
+      "culture": 6,
+      "politics": 8,
+      "religion": 3,
+      "economy": 4,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Каркемиш",
+      "lat": 36.83,
+      "lon": 38.0
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-04/col_a_04_02.svg",
+      "caption": "Локальная учебная обложка: Лувийские иероглифы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-hittites",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Hittites",
+      "url": "https://www.metmuseum.org/essays/the-hittites",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_04"
+  },
+  {
+    "id": "COL_A_04_03",
+    "type": "ARTIFACT",
+    "title": "Царская печать конца империи",
+    "original": "Late Hittite royal seal",
+    "subtitle": "предмет административной власти последних царей",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "XIII век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Царская печать конца империи — предмет административной власти последних царей.",
+    "importance": "Архивная карточка дополняет главу «Падение Хатти» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: XIII век до н. э..",
+      "Связь с темой: предмет административной власти последних царей.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Падение Хатти",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 4,
+      "culture": 8,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Хаттуса",
+      "lat": 40.019,
+      "lon": 34.615
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-04/col_a_04_03.svg",
+      "caption": "Локальная учебная обложка: Царская печать конца империи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-hittites",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Hittites",
+      "url": "https://www.metmuseum.org/essays/the-hittites",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_04"
+  },
+  {
+    "id": "COL_A_04_04",
+    "type": "CONCEPT",
+    "title": "Кто разрушил Хаттусу?",
+    "original": "Destruction of Hattusa debate",
+    "subtitle": "неразрешённая проблема конкретных участников разрушения",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "современная дискуссия",
+    "rarity": "MYTHIC",
+    "difficulty": 8,
+    "summary": "Кто разрушил Хаттусу? — неразрешённая проблема конкретных участников разрушения.",
+    "importance": "Архивная карточка дополняет главу «Падение Хатти» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: современная дискуссия.",
+      "Связь с темой: неразрешённая проблема конкретных участников разрушения.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Падение Хатти",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 5,
+      "culture": 4,
+      "politics": 4,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Хаттуса",
+      "lat": 40.019,
+      "lon": 34.615
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-04/col_a_04_04.svg",
+      "caption": "Локальная учебная обложка: Кто разрушил Хаттусу?",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-hittites",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_04_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Hittites",
+      "url": "https://www.metmuseum.org/essays/the-hittites",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_04"
+  },
+  {
+    "id": "COL_A_05_01",
+    "type": "TEXT",
+    "title": "Письмо о вражеских кораблях",
+    "original": "Enemy ships letter",
+    "subtitle": "табличка с сообщением о нападении с моря",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "начало XII века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Письмо о вражеских кораблях — табличка с сообщением о нападении с моря.",
+    "importance": "Архивная карточка дополняет главу «Последние дни Угарита» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: начало XII века до н. э..",
+      "Связь с темой: табличка с сообщением о нападении с моря.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Последние дни Угарита",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 3,
+      "culture": 5,
+      "politics": 9,
+      "religion": 3,
+      "economy": 4,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Угарит",
+      "lat": 35.602,
+      "lon": 35.785
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-05/col_a_05_01.svg",
+      "caption": "Локальная учебная обложка: Письмо о вражеских кораблях",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "World History Encyclopedia: Bronze Age Collapse",
+      "url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "type": "reference"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_05"
+  },
+  {
+    "id": "COL_A_05_02",
+    "type": "TEXT",
+    "title": "Неотправленная табличка",
+    "original": "Unsent tablet",
+    "subtitle": "документ, который мог остаться в городе до разрушения",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "начало XII века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Неотправленная табличка — документ, который мог остаться в городе до разрушения.",
+    "importance": "Архивная карточка дополняет главу «Последние дни Угарита» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: начало XII века до н. э..",
+      "Связь с темой: документ, который мог остаться в городе до разрушения.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Последние дни Угарита",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 4,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Угарит",
+      "lat": 35.602,
+      "lon": 35.785
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-05/col_a_05_02.svg",
+      "caption": "Локальная учебная обложка: Неотправленная табличка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "World History Encyclopedia: Bronze Age Collapse",
+      "url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "type": "reference"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_05"
+  },
+  {
+    "id": "COL_A_05_03",
+    "type": "SOURCE",
+    "title": "Слой пожара в дворце",
+    "original": "Ugarit fire layer",
+    "subtitle": "археологический контекст разрушения зданий",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "ок. 1190 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Слой пожара в дворце — археологический контекст разрушения зданий.",
+    "importance": "Архивная карточка дополняет главу «Последние дни Угарита» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: ок. 1190 до н. э..",
+      "Связь с темой: археологический контекст разрушения зданий.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Последние дни Угарита",
+      "source"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 5,
+      "culture": 9,
+      "politics": 5,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Угарит",
+      "lat": 35.602,
+      "lon": 35.785
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-05/col_a_05_03.svg",
+      "caption": "Локальная учебная обложка: Слой пожара в дворце",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "World History Encyclopedia: Bronze Age Collapse",
+      "url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "type": "reference"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_05"
+  },
+  {
+    "id": "COL_A_05_04",
+    "type": "CONCEPT",
+    "title": "Пределы последних писем",
+    "original": "Last letters limitations",
+    "subtitle": "невозможность восстановить всю последовательность событий по нескольким текстам",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "современная критика",
+    "rarity": "MYTHIC",
+    "difficulty": 8,
+    "summary": "Пределы последних писем — невозможность восстановить всю последовательность событий по нескольким текстам.",
+    "importance": "Архивная карточка дополняет главу «Последние дни Угарита» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: современная критика.",
+      "Связь с темой: невозможность восстановить всю последовательность событий по нескольким текстам.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Последние дни Угарита",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 6,
+      "culture": 5,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Угарит",
+      "lat": 35.602,
+      "lon": 35.785
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-05/col_a_05_04.svg",
+      "caption": "Локальная учебная обложка: Пределы последних писем",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "World History Encyclopedia: Bronze Age Collapse",
+      "url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "type": "reference"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_05"
+  },
+  {
+    "id": "COL_A_06_01",
+    "type": "SOURCE",
+    "title": "Рельеф морской битвы",
+    "original": "Medinet Habu naval relief",
+    "subtitle": "изображение сражения на стенах храма",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "XII век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Рельеф морской битвы — изображение сражения на стенах храма.",
+    "importance": "Архивная карточка дополняет главу «Египет и народы моря» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: XII век до н. э..",
+      "Связь с темой: изображение сражения на стенах храма.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Египет и народы моря",
+      "source"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 4,
+      "culture": 6,
+      "politics": 5,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мединет-Абу",
+      "lat": 25.72,
+      "lon": 32.6
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-06/col_a_06_01.svg",
+      "caption": "Локальная учебная обложка: Рельеф морской битвы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/oip8.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "ISAC: Medinet Habu, Earlier Historical Records of Ramses III",
+      "url": "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/oip8.pdf",
+      "type": "research"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_06"
+  },
+  {
+    "id": "COL_A_06_02",
+    "type": "TEXT",
+    "title": "Надпись года 8",
+    "original": "Ramesses III year 8 inscription",
+    "subtitle": "царский текст о походе и противниках",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "XII век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Надпись года 8 — царский текст о походе и противниках.",
+    "importance": "Архивная карточка дополняет главу «Египет и народы моря» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: XII век до н. э..",
+      "Связь с темой: царский текст о походе и противниках.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Египет и народы моря",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Мединет-Абу",
+      "lat": 25.72,
+      "lon": 32.6
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-06/col_a_06_02.svg",
+      "caption": "Локальная учебная обложка: Надпись года 8",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/oip8.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "ISAC: Medinet Habu, Earlier Historical Records of Ramses III",
+      "url": "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/oip8.pdf",
+      "type": "research"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_06"
+  },
+  {
+    "id": "COL_A_06_03",
+    "type": "ARTIFACT",
+    "title": "Корабль на рельефе",
+    "original": "Sea Peoples ship relief",
+    "subtitle": "изображение судна и воинов в египетской композиции",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "XII век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Корабль на рельефе — изображение судна и воинов в египетской композиции.",
+    "importance": "Архивная карточка дополняет главу «Египет и народы моря» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: XII век до н. э..",
+      "Связь с темой: изображение судна и воинов в египетской композиции.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Египет и народы моря",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 6,
+      "culture": 4,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Мединет-Абу",
+      "lat": 25.72,
+      "lon": 32.6
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-06/col_a_06_03.svg",
+      "caption": "Локальная учебная обложка: Корабль на рельефе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/oip8.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "ISAC: Medinet Habu, Earlier Historical Records of Ramses III",
+      "url": "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/oip8.pdf",
+      "type": "research"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_06"
+  },
+  {
+    "id": "COL_A_06_04",
+    "type": "CONCEPT",
+    "title": "Пропаганда и историческое событие",
+    "original": "Royal inscription criticism",
+    "subtitle": "разделение реального конфликта и его идеологического описания",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "современная критика",
+    "rarity": "MYTHIC",
+    "difficulty": 8,
+    "summary": "Пропаганда и историческое событие — разделение реального конфликта и его идеологического описания.",
+    "importance": "Архивная карточка дополняет главу «Египет и народы моря» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: современная критика.",
+      "Связь с темой: разделение реального конфликта и его идеологического описания.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Египет и народы моря",
+      "concept"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 8,
+      "religion": 2,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мединет-Абу",
+      "lat": 25.72,
+      "lon": 32.6
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-06/col_a_06_04.svg",
+      "caption": "Локальная учебная обложка: Пропаганда и историческое событие",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/oip8.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "ISAC: Medinet Habu, Earlier Historical Records of Ramses III",
+      "url": "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/oip8.pdf",
+      "type": "research"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_06"
+  },
+  {
+    "id": "COL_A_07_01",
+    "type": "TEXT",
+    "title": "Табличка линейного письма Б",
+    "original": "Linear B tablet",
+    "subtitle": "обожжённый административный документ",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "ок. 1200 до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Табличка линейного письма Б — обожжённый административный документ.",
+    "importance": "Архивная карточка дополняет главу «Конец микенских дворцов» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: ок. 1200 до н. э..",
+      "Связь с темой: обожжённый административный документ.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Конец микенских дворцов",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 5,
+      "culture": 7,
+      "politics": 7,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Пилос",
+      "lat": 37.028,
+      "lon": 21.696
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-07/col_a_07_01.svg",
+      "caption": "Локальная учебная обложка: Табличка линейного письма Б",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/mycenaean-civilization",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Mycenaean Civilization",
+      "url": "https://www.metmuseum.org/essays/mycenaean-civilization",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_07"
+  },
+  {
+    "id": "COL_A_07_02",
+    "type": "SOURCE",
+    "title": "Следы пожара в Пилосе",
+    "original": "Pylos destruction layer",
+    "subtitle": "археологический контекст гибели дворца",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "ок. 1200 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Следы пожара в Пилосе — археологический контекст гибели дворца.",
+    "importance": "Архивная карточка дополняет главу «Конец микенских дворцов» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: ок. 1200 до н. э..",
+      "Связь с темой: археологический контекст гибели дворца.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Конец микенских дворцов",
+      "source"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Пилос",
+      "lat": 37.028,
+      "lon": 21.696
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-07/col_a_07_02.svg",
+      "caption": "Локальная учебная обложка: Следы пожара в Пилосе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/mycenaean-civilization",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Mycenaean Civilization",
+      "url": "https://www.metmuseum.org/essays/mycenaean-civilization",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_07"
+  },
+  {
+    "id": "COL_A_07_03",
+    "type": "BUILDING",
+    "title": "Укрепление источника Персея",
+    "original": "Mycenaean cistern",
+    "subtitle": "защищённый доступ к воде внутри укреплений",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "конец XIII века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Укрепление источника Персея — защищённый доступ к воде внутри укреплений.",
+    "importance": "Архивная карточка дополняет главу «Конец микенских дворцов» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: конец XIII века до н. э..",
+      "Связь с темой: защищённый доступ к воде внутри укреплений.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Конец микенских дворцов",
+      "building"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 7,
+      "culture": 5,
+      "politics": 9,
+      "religion": 2,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Микены",
+      "lat": 37.731,
+      "lon": 22.756
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-07/col_a_07_03.svg",
+      "caption": "Локальная учебная обложка: Укрепление источника Персея",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/mycenaean-civilization",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Mycenaean Civilization",
+      "url": "https://www.metmuseum.org/essays/mycenaean-civilization",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_07"
+  },
+  {
+    "id": "COL_A_07_04",
+    "type": "CONCEPT",
+    "title": "Проблема дорийского вторжения",
+    "original": "Dorian invasion debate",
+    "subtitle": "критика старой модели единственного массового завоевания",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "современная дискуссия",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Проблема дорийского вторжения — критика старой модели единственного массового завоевания.",
+    "importance": "Архивная карточка дополняет главу «Конец микенских дворцов» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: современная дискуссия.",
+      "Связь с темой: критика старой модели единственного массового завоевания.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Конец микенских дворцов",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 8,
+      "culture": 7,
+      "politics": 4,
+      "religion": 3,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Материковая Греция",
+      "lat": 38.3,
+      "lon": 23.0
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-07/col_a_07_04.svg",
+      "caption": "Локальная учебная обложка: Проблема дорийского вторжения",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/mycenaean-civilization",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_07_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Mycenaean Civilization",
+      "url": "https://www.metmuseum.org/essays/mycenaean-civilization",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_07"
+  },
+  {
+    "id": "COL_A_08_01",
+    "type": "SITE",
+    "title": "Медеплавильная мастерская Энкоми",
+    "original": "Enkomi copper workshop",
+    "subtitle": "место обработки металла в городском центре",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "XII век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Медеплавильная мастерская Энкоми — место обработки металла в городском центре.",
+    "importance": "Архивная карточка дополняет главу «Кипр и меняющиеся морские сети» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: XII век до н. э..",
+      "Связь с темой: место обработки металла в городском центре.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Кипр и меняющиеся морские сети",
+      "site"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 6,
+      "culture": 8,
+      "politics": 9,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Энкоми",
+      "lat": 35.125,
+      "lon": 33.887
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-08/col_a_08_01.svg",
+      "caption": "Локальная учебная обложка: Медеплавильная мастерская Энкоми",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.journals.uchicago.edu/doi/pdf/10.3764/aja.112.4.659",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "American Journal of Archaeology: Cyprus at the End of the Late Bronze Age",
+      "url": "https://www.journals.uchicago.edu/doi/pdf/10.3764/aja.112.4.659",
+      "type": "research"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_08"
+  },
+  {
+    "id": "COL_A_08_02",
+    "type": "ARTIFACT",
+    "title": "Микенская керамика на Кипре",
+    "original": "Mycenaean pottery in Cyprus",
+    "subtitle": "материал для изучения контактов и переселений",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "XIII–XII века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Микенская керамика на Кипре — материал для изучения контактов и переселений.",
+    "importance": "Архивная карточка дополняет главу «Кипр и меняющиеся морские сети» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: XIII–XII века до н. э..",
+      "Связь с темой: материал для изучения контактов и переселений.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Кипр и меняющиеся морские сети",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 7,
+      "culture": 4,
+      "politics": 4,
+      "religion": 2,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кипр",
+      "lat": 35.0,
+      "lon": 33.2
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-08/col_a_08_02.svg",
+      "caption": "Локальная учебная обложка: Микенская керамика на Кипре",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.journals.uchicago.edu/doi/pdf/10.3764/aja.112.4.659",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "American Journal of Archaeology: Cyprus at the End of the Late Bronze Age",
+      "url": "https://www.journals.uchicago.edu/doi/pdf/10.3764/aja.112.4.659",
+      "type": "research"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_08"
+  },
+  {
+    "id": "COL_A_08_03",
+    "type": "ARTIFACT",
+    "title": "Рогатый бог Энкоми",
+    "original": "Horned God of Enkomi",
+    "subtitle": "бронзовая статуэтка из позднего городского контекста",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "XII век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Рогатый бог Энкоми — бронзовая статуэтка из позднего городского контекста.",
+    "importance": "Архивная карточка дополняет главу «Кипр и меняющиеся морские сети» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: XII век до н. э..",
+      "Связь с темой: бронзовая статуэтка из позднего городского контекста.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Кипр и меняющиеся морские сети",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 8,
+      "culture": 6,
+      "politics": 5,
+      "religion": 3,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Энкоми",
+      "lat": 35.125,
+      "lon": 33.887
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-08/col_a_08_03.svg",
+      "caption": "Локальная учебная обложка: Рогатый бог Энкоми",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.journals.uchicago.edu/doi/pdf/10.3764/aja.112.4.659",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "American Journal of Archaeology: Cyprus at the End of the Late Bronze Age",
+      "url": "https://www.journals.uchicago.edu/doi/pdf/10.3764/aja.112.4.659",
+      "type": "research"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_08"
+  },
+  {
+    "id": "COL_A_08_04",
+    "type": "CONCEPT",
+    "title": "Кризис или трансформация?",
+    "original": "Cyprus transformation debate",
+    "subtitle": "спор о соотношении разрушения, непрерывности и смешения",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "современная дискуссия",
+    "rarity": "LEGENDARY",
+    "difficulty": 9,
+    "summary": "Кризис или трансформация? — спор о соотношении разрушения, непрерывности и смешения.",
+    "importance": "Архивная карточка дополняет главу «Кипр и меняющиеся морские сети» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: современная дискуссия.",
+      "Связь с темой: спор о соотношении разрушения, непрерывности и смешения.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Кипр и меняющиеся морские сети",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 3,
+      "culture": 8,
+      "politics": 6,
+      "religion": 4,
+      "economy": 4,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Кипр",
+      "lat": 35.0,
+      "lon": 33.2
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-08/col_a_08_04.svg",
+      "caption": "Локальная учебная обложка: Кризис или трансформация?",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.journals.uchicago.edu/doi/pdf/10.3764/aja.112.4.659",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_08_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "American Journal of Archaeology: Cyprus at the End of the Late Bronze Age",
+      "url": "https://www.journals.uchicago.edu/doi/pdf/10.3764/aja.112.4.659",
+      "type": "research"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_08"
+  },
+  {
+    "id": "COL_A_09_01",
+    "type": "TEXT",
+    "title": "Ассирийская административная табличка",
+    "original": "Middle Assyrian tablet",
+    "subtitle": "свидетельство продолжения письменного управления",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "XII век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Ассирийская административная табличка — свидетельство продолжения письменного управления.",
+    "importance": "Архивная карточка дополняет главу «Кто выжил и что продолжилось» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: XII век до н. э..",
+      "Связь с темой: свидетельство продолжения письменного управления.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Кто выжил и что продолжилось",
+      "text"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 9,
+      "politics": 5,
+      "religion": 2,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Ашшур",
+      "lat": 35.456,
+      "lon": 43.262
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-09/col_a_09_01.svg",
+      "caption": "Локальная учебная обложка: Ассирийская административная табличка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_09_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_09"
+  },
+  {
+    "id": "COL_A_09_02",
+    "type": "BUILDING",
+    "title": "Поздний храмовый комплекс",
+    "original": "Post-collapse temple",
+    "subtitle": "религиозное сооружение, продолжившее местную традицию",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "XII–XI века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Поздний храмовый комплекс — религиозное сооружение, продолжившее местную традицию.",
+    "importance": "Архивная карточка дополняет главу «Кто выжил и что продолжилось» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: XII–XI века до н. э..",
+      "Связь с темой: религиозное сооружение, продолжившее местную традицию.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Кто выжил и что продолжилось",
+      "building"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 8,
+      "culture": 5,
+      "politics": 6,
+      "religion": 3,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Левант",
+      "lat": 34.2,
+      "lon": 35.5
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-09/col_a_09_02.svg",
+      "caption": "Локальная учебная обложка: Поздний храмовый комплекс",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_09_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_09"
+  },
+  {
+    "id": "COL_A_09_03",
+    "type": "SITE",
+    "title": "Сельское поселение XII века",
+    "original": "Twelfth-century village",
+    "subtitle": "контекст повседневной жизни после разрушения дворцов",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "XII век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Сельское поселение XII века — контекст повседневной жизни после разрушения дворцов.",
+    "importance": "Архивная карточка дополняет главу «Кто выжил и что продолжилось» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: XII век до н. э..",
+      "Связь с темой: контекст повседневной жизни после разрушения дворцов.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Кто выжил и что продолжилось",
+      "site"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 3,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 4,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Ханаан",
+      "lat": 31.9,
+      "lon": 34.9
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-09/col_a_09_03.svg",
+      "caption": "Локальная учебная обложка: Сельское поселение XII века",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_09_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_09"
+  },
+  {
+    "id": "COL_A_09_04",
+    "type": "CONCEPT",
+    "title": "Археология непрерывности",
+    "original": "Continuity archaeology",
+    "subtitle": "поиск не только разрушений, но и сохраняющихся практик",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "современная методика",
+    "rarity": "LEGENDARY",
+    "difficulty": 9,
+    "summary": "Археология непрерывности — поиск не только разрушений, но и сохраняющихся практик.",
+    "importance": "Архивная карточка дополняет главу «Кто выжил и что продолжилось» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: современная методика.",
+      "Связь с темой: поиск не только разрушений, но и сохраняющихся практик.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "Кто выжил и что продолжилось",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 8,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Восточное Средиземноморье",
+      "lat": 34.8,
+      "lon": 31.8
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-09/col_a_09_04.svg",
+      "caption": "Локальная учебная обложка: Археология непрерывности",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_09_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_09"
+  },
+  {
+    "id": "COL_A_10_01",
+    "type": "SOURCE",
+    "title": "Карта разрушений около 1200 года",
+    "original": "Bronze Age destruction map",
+    "subtitle": "сводная визуализация археологических данных",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "современная реконструкция",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Карта разрушений около 1200 года — сводная визуализация археологических данных.",
+    "importance": "Архивная карточка дополняет главу «От кризиса к железному веку» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: современная реконструкция.",
+      "Связь с темой: сводная визуализация археологических данных.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "От кризиса к железному веку",
+      "source"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 4,
+      "politics": 7,
+      "religion": 3,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Восточное Средиземноморье",
+      "lat": 34.8,
+      "lon": 31.8
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-10/col_a_10_01.svg",
+      "caption": "Локальная учебная обложка: Карта разрушений около 1200 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_10_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_10"
+  },
+  {
+    "id": "COL_A_10_02",
+    "type": "SOURCE",
+    "title": "Калибровочная кривая",
+    "original": "Radiocarbon calibration curve",
+    "subtitle": "инструмент перевода измерений в календарные диапазоны",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "современная наука",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Калибровочная кривая — инструмент перевода измерений в календарные диапазоны.",
+    "importance": "Архивная карточка дополняет главу «От кризиса к железному веку» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: современная наука.",
+      "Связь с темой: инструмент перевода измерений в календарные диапазоны.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "От кризиса к железному веку",
+      "source"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 3,
+      "culture": 6,
+      "politics": 8,
+      "religion": 4,
+      "economy": 4,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Восточное Средиземноморье",
+      "lat": 34.8,
+      "lon": 31.8
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-10/col_a_10_02.svg",
+      "caption": "Локальная учебная обложка: Калибровочная кривая",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_10_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_10"
+  },
+  {
+    "id": "COL_A_10_03",
+    "type": "SOURCE",
+    "title": "Сравнительная таблица регионов",
+    "original": "Regional evidence table",
+    "subtitle": "способ отделить общие процессы от местных различий",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "современная методика",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Сравнительная таблица регионов — способ отделить общие процессы от местных различий.",
+    "importance": "Архивная карточка дополняет главу «От кризиса к железному веку» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: современная методика.",
+      "Связь с темой: способ отделить общие процессы от местных различий.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "От кризиса к железному веку",
+      "source"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 4,
+      "culture": 8,
+      "politics": 9,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Восточное Средиземноморье",
+      "lat": 34.8,
+      "lon": 31.8
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-10/col_a_10_03.svg",
+      "caption": "Локальная учебная обложка: Сравнительная таблица регионов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_10_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_10"
+  },
+  {
+    "id": "COL_A_10_04",
+    "type": "CONCEPT",
+    "title": "Ошибка единственной причины",
+    "original": "Single-cause fallacy",
+    "subtitle": "критика объяснения сложного кризиса одним фактором",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "современная историография",
+    "rarity": "MYTHIC",
+    "difficulty": 9,
+    "summary": "Ошибка единственной причины — критика объяснения сложного кризиса одним фактором.",
+    "importance": "Архивная карточка дополняет главу «От кризиса к железному веку» отдельным текстом, предметом, слоем или исследовательской проблемой.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Связь с темой: критика объяснения сложного кризиса одним фактором.",
+      "Надёжность вывода зависит от происхождения, сохранности, датировки и альтернативных объяснений."
+    ],
+    "tags": [
+      "катастрофа бронзового века",
+      "архив",
+      "От кризиса к железному веку",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 4,
+      "politics": 4,
+      "religion": 6,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Восточное Средиземноморье",
+      "lat": 34.8,
+      "lon": 31.8
+    },
+    "image": {
+      "local": "assets/cards/bronze-collapse/chapter-10/col_a_10_04.svg",
+      "caption": "Локальная учебная обложка: Ошибка единственной причины",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "col_a_10_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_COLLAPSE",
+    "chapter": "COL_CHAPTER_10"
+  }
+]

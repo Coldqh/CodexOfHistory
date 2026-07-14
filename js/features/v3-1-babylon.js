@@ -1,6 +1,6 @@
-/* Codex v3.5.1 — Babylon and early Bronze Age */
+/* Codex v3.6.0 — Babylon and early Bronze Age */
 (()=>{
-  const V='3.5.1';
+  const V='3.6.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.BABYLON_OLD='BABYLON';
   state.bronzeMapMode=state.bronzeMapMode==='ERA'?'ERA':'CAMPAIGN';
@@ -81,15 +81,6 @@
       return shell(`<section class="collection-header compact-collection-head reveal"><div><div class="eyebrow">Глобальная карта второй эпохи</div><h2>Царства бронзового века</h2></div><div class="collection-count">6 регионов</div></section>${modeTabs()}${regionStrip()}<div class="map-shell atlas-clean bronze-atlas reveal"><div id="atlas-map" class="leaflet-map"></div><div class="map-actions"><button class="map-action" onclick="resetAtlasView()" title="Общий обзор">⌂</button></div></div>${parallelTimeline()}`);
     }
     return shell(`<section class="collection-header compact-collection-head reveal"><div><div class="eyebrow">Карта активной кампании</div><h2>Вавилон и аморейские царства</h2></div><div class="collection-count">${opened.length} точек</div></section>${modeTabs()}<div class="map-shell atlas-clean babylon-atlas reveal"><div id="atlas-map" class="leaflet-map"></div><div class="map-actions"><button class="map-action" onclick="resetAtlasView()" title="Вернуть обзор">⌂</button><button class="map-action" onclick="fitAtlasMarkers()" title="Показать точки">◎</button></div></div><section class="section compact-section reveal"><div class="section-head"><h2>Открытые места</h2><span>${opened.length}</span></div><div class="location-grid">${opened.map(c=>`<article class="panel panel-click location-card" onclick="focusAtlasCard('${c.id}')"><small>${c.region}</small><h3>${typeIcon(c.type)} ${c.title}</h3><p>${c.date}</p></article>`).join('')}</div></section>`);
-  };
-
-  const oldWorld=worldScreen;
-  worldScreen=function(){
-    let html=oldWorld();
-    if(state.worldEra!=='ERA_BRONZE'||state.worldView==='TIMELINE')return html;
-    const block=`<section class="bronze-world-summary reveal"><div><small>ЭПОХА II</small><h2>Пять кампаний доступны</h2><p>Открыты Вавилон, Египет Среднего и Нового царства, Хетты и Анатолия, Минойцы и микенцы, а также общий международный мир позднего бронзового века. Катастрофа около 1200 года остаётся следующим этапом.</p></div><div class="hero-actions"><button class="btn" onclick="startWorldCampaign('BABYLON_OLD')">Вавилон</button><button class="btn secondary" onclick="startWorldCampaign('EGYPT_MIDDLE_NEW')">Египет</button><button class="btn secondary" onclick="startWorldCampaign('HITTITES')">Хетты</button><button class="btn secondary" onclick="startWorldCampaign('AEGEAN_BRONZE')">Эгейский мир</button><button class="btn secondary" onclick="startWorldCampaign('BRONZE_INTERNATIONAL')">Международный мир</button></div></section>`;
-    if(html.includes('<div class="study-campaign-grid')) return html.replace('<div class="study-campaign-grid',block+'<div class="study-campaign-grid');
-    return html.replace('<div class="world-campaign-grid',block+'<div class="world-campaign-grid');
   };
 
   function babylonExamPassed(m){return (m.campaignExamModules||[]).every(x=>isQuizPassed(x.id));}

@@ -249,3 +249,7 @@
 ## v3.5 — Международный мир бронзового века
 
 Локальные SVG-обложки 120 карточек и обложка пака созданы для проекта Codex of History. Историческая проверка и ссылки карточек используют материалы The Metropolitan Museum of Art, British Museum, Institute of Nautical Archaeology и UCL Archaeology. Динамические исторические изображения по-прежнему подбираются через Wikimedia только для видимых карточек и не сохраняются после завершения сессии.
+
+## v3.6 — Катастрофа бронзового века
+
+Локальные SVG-обложки 120 карточек и обложка пака созданы для проекта Codex of History. Историческая проверка и ссылки карточек используют материалы The Metropolitan Museum of Art, Institute for the Study of Ancient Cultures, American Journal of Archaeology и World History Encyclopedia. Динамические исторические изображения загружаются только для видимых карточек и живут до конца текущей сессии.

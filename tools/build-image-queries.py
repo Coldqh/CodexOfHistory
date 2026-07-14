@@ -8,7 +8,7 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "3.5.0"
+VERSION = "3.6.0"
 
 GROUP_CONTEXT = {
     "ROME": {
@@ -46,6 +46,10 @@ GROUP_CONTEXT = {
     "BRONZE_INTERNATIONAL": {
         "terms": ["бронз", "bronze age", "амарн", "amarna", "угарит", "ugarit", "алаш", "alashiya", "кипр", "cyprus", "хетт", "hittite", "егип", "egypt", "дипломат", "trade"],
         "base": [("ru", "Амарнские письма"), ("en", "Late Bronze Age collapse")],
+    },
+    "BRONZE_COLLAPSE": {
+        "terms": ["бронз", "bronze age", "collapse", "катастроф", "угарит", "ugarit", "хаттуса", "hattusa", "микен", "mycenaean", "мединет", "sea peoples", "кипр", "cyprus", "iron age"],
+        "base": [("ru", "Катастрофа бронзового века"), ("en", "Late Bronze Age collapse")],
     },
     "MIXED": {
         "terms": ["древн", "ancient", "цивилизац", "civilization", "archaeolog", "археолог", "river", "река", "письмен"],
@@ -165,6 +169,19 @@ TYPE_FALLBACK = {
         "SYSTEM": [("en", "Amarna letters"), ("en", "Bronze Age trade")],
         "RESOURCE": [("en", "Oxhide ingot"), ("en", "Uluburun shipwreck")],
         "ROUTE": [("en", "Bronze Age trade"), ("en", "Eastern Mediterranean")],
+    },
+    "BRONZE_COLLAPSE": {
+        "ARTIFACT": [("en", "Late Bronze Age collapse"), ("en", "Sea Peoples")],
+        "TEXT": [("en", "Medinet Habu inscriptions"), ("en", "Ugarit")],
+        "BUILDING": [("en", "Hattusa"), ("en", "Mycenae")],
+        "RELIGION": [("en", "Sea Peoples"), ("en", "Ancient Near Eastern religion")],
+        "STATE": [("en", "Late Bronze Age collapse"), ("en", "Early Iron Age")],
+        "SYSTEM": [("en", "Late Bronze Age collapse"), ("en", "Palace economy")],
+        "RESOURCE": [("en", "Oxhide ingot"), ("en", "Bronze Age trade")],
+        "ROUTE": [("en", "Eastern Mediterranean"), ("en", "Bronze Age trade")],
+        "EVENT": [("en", "Late Bronze Age collapse"), ("en", "Sea Peoples")],
+        "SOURCE": [("en", "Late Bronze Age collapse"), ("en", "Archaeology")],
+        "CONCEPT": [("en", "Late Bronze Age collapse"), ("en", "Early Iron Age")],
     },
     "MIXED": {
         "ARTIFACT": [("ru", "Археологический артефакт"), ("en", "Archaeological artifact")],
@@ -330,7 +347,7 @@ def group_for(path: Path, card: dict) -> str:
     p = path.as_posix()
     for token, group in [
         ("/rome/", "ROME"), ("/mesopotamia/", "MESOPOTAMIA"), ("/egypt/", "EGYPT"),
-        ("/indus/", "INDUS"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"), ("/aegean/", "AEGEAN_BRONZE"), ("/international-bronze/", "BRONZE_INTERNATIONAL"),
+        ("/indus/", "INDUS"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"), ("/aegean/", "AEGEAN_BRONZE"), ("/international-bronze/", "BRONZE_INTERNATIONAL"), ("/bronze-collapse/", "BRONZE_COLLAPSE"),
     ]:
         if token in p:
             return group

@@ -1,5 +1,5 @@
 {
-  "version": "4.5.0",
+  "version": "4.6.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -44,7 +44,9 @@
       "data/cards/zhou-warring/story.json",
       "data/cards/zhou-warring/archive.json",
       "data/cards/vedic-india/story.json",
-      "data/cards/vedic-india/archive.json"
+      "data/cards/vedic-india/archive.json",
+      "data/cards/iron-world/story.json",
+      "data/cards/iron-world/archive.json"
     ],
     "relations": "data/core/relations.json",
     "pools": [
@@ -67,7 +69,8 @@
       "data/campaigns/israel-judah/pools.json",
       "data/campaigns/archaic-greece/pools.json",
       "data/campaigns/zhou-warring/pools.json",
-      "data/campaigns/vedic-india/pools.json"
+      "data/campaigns/vedic-india/pools.json",
+      "data/campaigns/iron-world/pools.json"
     ],
     "quizzes": [
       "data/quizzes/rome/chapter_01.json",
@@ -93,7 +96,8 @@
       "data/quizzes/israel-judah/campaign.json",
       "data/quizzes/archaic-greece/campaign.json",
       "data/quizzes/zhou-warring/campaign.json",
-      "data/quizzes/vedic-india/campaign.json"
+      "data/quizzes/vedic-india/campaign.json",
+      "data/quizzes/iron-world/campaign.json"
     ],
     "stories": [
       "data/stories/rome/personal.json",
@@ -115,7 +119,8 @@
       "data/stories/israel-judah/personal.json",
       "data/stories/archaic-greece/personal.json",
       "data/stories/zhou-warring/personal.json",
-      "data/stories/vedic-india/personal.json"
+      "data/stories/vedic-india/personal.json",
+      "data/stories/iron-world/personal.json"
     ],
     "mastery": "data/core/mastery.json",
     "packs": "data/core/packs.json",
@@ -141,7 +146,8 @@
       "ISRAEL_JUDAH": "data/maps/israel-judah.json",
       "GREECE_ARCHAIC": "data/maps/archaic-greece.json",
       "ZHOU_WARRING": "data/maps/zhou-warring.json",
-      "INDIA_VEDIC": "data/maps/vedic-india.json"
+      "INDIA_VEDIC": "data/maps/vedic-india.json",
+      "IRON_ERA_EXAM": "data/maps/iron-world-exam.json"
     },
     "daily": "data/core/daily-learning.json",
     "lessons": [
@@ -168,7 +174,8 @@
       "data/lessons/israel-judah/campaign.json",
       "data/lessons/archaic-greece/campaign.json",
       "data/lessons/zhou-warring/campaign.json",
-      "data/lessons/vedic-india/campaign.json"
+      "data/lessons/vedic-india/campaign.json",
+      "data/lessons/iron-world/campaign.json"
     ],
     "eras": "data/world/eras.json",
     "campaignCatalog": "data/world/campaigns.json",
@@ -193,7 +200,8 @@
       "data/campaigns/israel-judah/campaign.json",
       "data/campaigns/archaic-greece/campaign.json",
       "data/campaigns/zhou-warring/campaign.json",
-      "data/campaigns/vedic-india/campaign.json"
+      "data/campaigns/vedic-india/campaign.json",
+      "data/campaigns/iron-world/campaign.json"
     ],
     "imageQueries": "data/image_queries.json"
   },
@@ -239,6 +247,7 @@
     "js/features/v4-3-archaic-greece.js",
     "js/features/v4-4-zhou-warring.js",
     "js/features/v4-5-vedic-india.js",
+    "js/features/v4-6-iron-world.js",
     "js/features/v3-1-1-hotfix.js",
     "js/features/v3-1-3-visual-semantics.js",
     "js/core/start.js"

@@ -1,0 +1,223 @@
+{
+  "campaignId": "IRON_ERA_EXAM",
+  "campaigns": {
+    "IRON_ERA_EXAM": {
+      "id": "IRON_ERA_EXAM",
+      "title": "Железный век: общий сравнительный слой",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "IRN_POOL_01",
+      "campaign": "IRON_WORLD",
+      "title": "Параллельная хронология железного века",
+      "unlockMission": "IRN_01_02",
+      "cardIds": [
+        "IRN_A_01_01",
+        "IRN_A_01_02",
+        "IRN_A_01_03"
+      ]
+    },
+    {
+      "id": "IRN_POOL_02",
+      "campaign": "IRON_WORLD",
+      "title": "Государство, империя и гражданская община",
+      "unlockMission": "IRN_02_02",
+      "cardIds": [
+        "IRN_A_02_01",
+        "IRN_A_02_02",
+        "IRN_A_02_03"
+      ]
+    },
+    {
+      "id": "IRN_POOL_03",
+      "campaign": "IRON_WORLD",
+      "title": "Письмо, память и передача знаний",
+      "unlockMission": "IRN_03_02",
+      "cardIds": [
+        "IRN_A_03_01",
+        "IRN_A_03_02",
+        "IRN_A_03_03"
+      ]
+    },
+    {
+      "id": "IRN_POOL_04",
+      "campaign": "IRON_WORLD",
+      "title": "Война, мобилизация и укрепления",
+      "unlockMission": "IRN_04_02",
+      "cardIds": [
+        "IRN_A_04_01",
+        "IRN_A_04_02",
+        "IRN_A_04_03"
+      ]
+    },
+    {
+      "id": "IRN_POOL_05",
+      "campaign": "IRON_WORLD",
+      "title": "Хозяйство, обмен и новые сети",
+      "unlockMission": "IRN_05_02",
+      "cardIds": [
+        "IRN_A_05_01",
+        "IRN_A_05_02",
+        "IRN_A_05_03"
+      ]
+    },
+    {
+      "id": "IRN_POOL_06",
+      "campaign": "IRON_WORLD",
+      "title": "Религия, ритуал и законность власти",
+      "unlockMission": "IRN_06_02",
+      "cardIds": [
+        "IRN_A_06_01",
+        "IRN_A_06_02",
+        "IRN_A_06_03"
+      ]
+    },
+    {
+      "id": "IRN_POOL_07",
+      "campaign": "IRON_WORLD",
+      "title": "Города и урбанизация железного века",
+      "unlockMission": "IRN_07_02",
+      "cardIds": [
+        "IRN_A_07_01",
+        "IRN_A_07_02",
+        "IRN_A_07_03"
+      ]
+    },
+    {
+      "id": "IRN_POOL_08",
+      "campaign": "IRON_WORLD",
+      "title": "Как сравнивать железный век",
+      "unlockMission": "IRN_08_02",
+      "cardIds": [
+        "IRN_A_08_01",
+        "IRN_A_08_02",
+        "IRN_A_08_03"
+      ]
+    }
+  ],
+  "acquisition": {
+    "IRN_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_01",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_01",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_01",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_02",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_02",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_02",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_03",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_03",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_03",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_04",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_04",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_04",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_05",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_05",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_05",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_06",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_06",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_06",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_07",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_07",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_07",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_08",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_08",
+      "campaign": "IRON_WORLD"
+    },
+    "IRN_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "IRN_POOL_08",
+      "campaign": "IRON_WORLD"
+    }
+  }
+}

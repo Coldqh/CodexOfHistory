@@ -281,3 +281,7 @@
 ## v4.5 — Ведийская Индия и ранние государства
 
 Локальные SVG-обложки 120 карточек и обложка пака созданы для Codex of History. Источники: Metropolitan Museum of Art, Smarthistory и Vedic Heritage Portal.
+
+## v4.6 — Железный век: общий сравнительный слой
+
+Локальные SVG-обложки 96 карточек и обложка общего пака созданы для Codex of History. Источники: Metropolitan Museum of Art, British Museum, UNESCO и Smarthistory.

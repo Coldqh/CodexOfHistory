@@ -105,6 +105,26 @@ function mapScreen(){
 }
 
 function packCover(kind){return kind==='DAILY'?'assets/ui/pack-daily.svg':'assets/ui/pack-rome.svg';}
+function campaignPackPools(){return unlockedPools();}
+function campaignPackTotalPools(){return V09_CONTENT.pools.filter(p=>p.campaign===state.activeCampaign).length;}
+function campaignPackLocked(){return campaignPackPools().length===0;}
+function campaignPackStatusClass(){return campaignPackLocked()?'locked':'';}
+function campaignPackDescription(){
+  const pools=campaignPackPools();
+  if(!pools.length)return 'Пак пока закрыт. Заверши первую миссию кампании, чтобы открыть архивный пул.';
+  const available=packPool().filter(c=>!isUnlocked(c.id)).length;
+  return `${available} новых карточек в ${pools.length} открытых пулах.`;
+}
+function campaignPackMeta(){
+  const pools=campaignPackPools(),total=campaignPackTotalPools();
+  if(!pools.length)return `<span>0/${total} пулов</span><span>Откроется после первой миссии</span>`;
+  return `<span>60 ◇</span><span>${pools.length}/${total} пулов</span>`;
+}
+function campaignPackAction(){
+  if(campaignPackLocked())return `<button class="btn secondary pack-locked-action" onclick="go('campaign')">Перейти к первой миссии</button>`;
+  return packAction('ROMAN');
+}
+
 function packAction(kind){
   const pools=unlockedPools();
   if(!pools.length)return `<button class="btn secondary" onclick="go('campaign')">Открыть первый пул</button>`;
@@ -117,7 +137,7 @@ function packAction(kind){
 }
 function packsScreen(){
   const available=packPool().filter(c=>!isUnlocked(c.id)).length;const history=state.packHistory.slice(-5).reverse();
-  return shell(`<section class="packs-page-head reveal"><div class="packs-title-block"><div class="eyebrow">Архив активной кампании</div><h2>Паки знаний</h2><p>Получай дополнительные личности, места, артефакты и личные истории.</p><div class="fragment-balance compact-fragment-balance"><span>◇</span><b>${state.fragments}</b><small>фрагментов</small></div></div></section><section class="packs-page-grid reveal"><article class="pack-page-card ${dailyPackReady()?'ready':''}"><img src="${packCover('DAILY')}" alt="Архивный пак дня"><div class="pack-page-copy"><small>ЕЖЕДНЕВНЫЙ · 3 КАРТЫ</small><h3>Архивный пак дня</h3><p>${dailyPackReady()?'Награда за сегодняшнюю учебную сессию готова.':dailyLearningCompleteToday()?'Сегодняшний пак уже открыт.':'Заверши короткую дневную сессию.'}</p><div class="pack-page-meta"><span>Epic через ${Math.max(0,8-state.packPity.epic)}</span><span>Legendary через ${Math.max(0,24-state.packPity.legendary)}</span></div>${packAction('DAILY')}</div></article><article class="pack-page-card roman"><img src="${packCover('ROMAN')}" alt="Римский архивный пак"><div class="pack-page-copy"><small>РИМСКИЙ · 4 КАРТЫ</small><h3>Римский архивный пак</h3><p>${available} новых карточек доступно в открытых этапах кампании.</p><div class="pack-page-meta"><span>Стоимость 60 ◇</span><span>${unlockedPools().length} пулов открыто</span></div>${packAction('ROMAN')}</div></article></section>${history.length?`<section class="section compact-card-section reveal"><div class="section-head"><h2>Последние открытия</h2><span>${history.length}</span></div><div class="pack-history-list">${history.map(h=>`<article><span>${h.kind==='DAILY'?'☀':'SPQR'}</span><div><b>${PACK_DEFS[h.kind]?.title||h.kind}</b><small>${new Intl.DateTimeFormat('ru-RU',{day:'numeric',month:'short'}).format(new Date(h.date))}</small></div><em>${h.drops.filter(d=>d.fresh).length} новых</em></article>`).join('')}</div></section>`:''}`);
+  return shell(`<section class="packs-page-head reveal"><div class="packs-title-block"><div class="eyebrow">Архив активной кампании</div><h2>Паки знаний</h2><p>Получай дополнительные личности, места, артефакты и личные истории.</p><div class="fragment-balance compact-fragment-balance"><span>◇</span><b>${state.fragments}</b><small>фрагментов</small></div></div></section><section class="packs-page-grid reveal"><article class="pack-page-card ${dailyPackReady()?'ready':''}"><img src="${packCover('DAILY')}" alt="Архивный пак дня"><div class="pack-page-copy"><small>ЕЖЕДНЕВНЫЙ · 3 КАРТЫ</small><h3>Архивный пак дня</h3><p>${dailyPackReady()?'Награда за сегодняшнюю учебную сессию готова.':dailyLearningCompleteToday()?'Сегодняшний пак уже открыт.':'Заверши короткую дневную сессию.'}</p><div class="pack-page-meta"><span>Epic через ${Math.max(0,8-state.packPity.epic)}</span><span>Legendary через ${Math.max(0,24-state.packPity.legendary)}</span></div>${packAction('DAILY')}</div></article><article class="pack-page-card roman ${campaignPackStatusClass()}"><img src="${packCover('ROMAN')}" alt="Римский архивный пак"><div class="pack-page-copy"><small>РИМСКИЙ · 4 КАРТЫ</small><h3>Римский архивный пак</h3><p>${campaignPackDescription()}</p><div class="pack-page-meta">${campaignPackMeta()}</div>${campaignPackAction()}</div></article></section>${history.length?`<section class="section compact-card-section reveal"><div class="section-head"><h2>Последние открытия</h2><span>${history.length}</span></div><div class="pack-history-list">${history.map(h=>`<article><span>${h.kind==='DAILY'?'☀':'SPQR'}</span><div><b>${PACK_DEFS[h.kind]?.title||h.kind}</b><small>${new Intl.DateTimeFormat('ru-RU',{day:'numeric',month:'short'}).format(new Date(h.date))}</small></div><em>${h.drops.filter(d=>d.fresh).length} новых</em></article>`).join('')}</div></section>`:''}`);
 }
 function openPackHub(){state.packModal=null;state.masterySession=null;state.tab='packs';save();render();window.scrollTo({top:0,behavior:'smooth'});}
 function closePack(){state.packModal=null;save();render();}

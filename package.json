@@ -1,13 +1,13 @@
 {
   "name": "codex-of-history",
   "private": true,
-  "version": "3.5.0",
+  "version": "3.5.1",
   "type": "module",
   "scripts": {
     "validate": "node tools/validate-content.mjs",
     "smoke": "node tools/smoke-daily.mjs",
     "smoke:settings": "node tools/smoke-settings.mjs",
-    "test": "node tools/validate-content.mjs && node tools/smoke-v31-babylon.mjs && node tools/runtime-v31.mjs && node tools/runtime-v311-hotfix.mjs && node tools/smoke-v313-visual-semantics.mjs && node tools/runtime-v313-visual-semantics.mjs && node tools/smoke-v314-pwa.mjs && node tools/smoke-v32-egypt.mjs && node tools/runtime-v32-egypt.mjs && node tools/smoke-v322-logo.mjs && node tools/smoke-v33-hittites.mjs && node tools/runtime-v33-hittites.mjs && node tools/smoke-v34-aegean.mjs && node tools/runtime-v34-aegean.mjs && node tools/smoke-v35-international.mjs && node tools/runtime-v35-international.mjs",
+    "test": "node tools/validate-content.mjs && node tools/smoke-v31-babylon.mjs && node tools/runtime-v31.mjs && node tools/runtime-v311-hotfix.mjs && node tools/smoke-v313-visual-semantics.mjs && node tools/runtime-v313-visual-semantics.mjs && node tools/smoke-v314-pwa.mjs && node tools/smoke-v32-egypt.mjs && node tools/runtime-v32-egypt.mjs && node tools/smoke-v322-logo.mjs && node tools/smoke-v33-hittites.mjs && node tools/runtime-v33-hittites.mjs && node tools/smoke-v34-aegean.mjs && node tools/runtime-v34-aegean.mjs && node tools/smoke-v35-international.mjs && node tools/runtime-v35-international.mjs && node tools/smoke-v351-mobile-layout.mjs",
     "smoke:ui": "node tools/smoke-ui-v15.mjs",
     "test:v16": "node tools/smoke-ui-v16.mjs",
     "test:v17": "node tools/smoke-v17-republic.mjs",
@@ -33,6 +33,7 @@
     "test:v32": "node tools/smoke-v32-egypt.mjs && node tools/runtime-v32-egypt.mjs && node tools/smoke-v322-logo.mjs",
     "test:v33": "node tools/smoke-v33-hittites.mjs && node tools/runtime-v33-hittites.mjs",
     "test:v34": "node tools/smoke-v34-aegean.mjs && node tools/runtime-v34-aegean.mjs",
-    "test:v35": "node tools/smoke-v35-international.mjs && node tools/runtime-v35-international.mjs"
+    "test:v35": "node tools/smoke-v35-international.mjs && node tools/runtime-v35-international.mjs",
+    "test:v351": "node tools/smoke-v351-mobile-layout.mjs"
   }
 }

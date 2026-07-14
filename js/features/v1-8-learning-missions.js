@@ -43,7 +43,7 @@ function verifyLessonMatch(id){
   if(ok){markLessonCheck(id,true);showToast('Система собрана','Все связи распределены верно.','✓');if(!missionCompleted(id))completeMission(id);else render();}
   else{showToast('Есть ошибка','Проверь функции и попробуй снова.','↻');render();}
 }
-function setCampaignChapter(id){state.campaignChapter=id;state.mapChapter=id;save();render();}
+function setCampaignChapter(id){state.campaignChapter=id;state.mapChapter=id;save();render();requestAnimationFrame(()=>document.querySelector('.compact-chapter-switch button.active')?.scrollIntoView({behavior:'smooth',block:'nearest',inline:'center'}));}
 
 missionTypeLabel=function(t){return ({LESSON:'Рассказ',SOURCE:'Работа с источником',CAUSE_EFFECT:'Причины и последствия',MATCH:'Система',MAP:'Карта',TIMELINE:'Хронология',FINAL:'Итог'})[t]||t;};
 missionReady=function(m){
@@ -76,7 +76,7 @@ function lessonBody(m,l){const stage=lessonStage(m.id);return [lessonStory,lesso
 campaign=function(){
  const current=currentMission();const selected=chapterById(state.campaignChapter)||activeChapter();const missions=chapterMissions(selected);
  return shell(`<section class="learning-campaign-head reveal"><div><div class="eyebrow">РИМСКАЯ КАМПАНИЯ · ${completedMissionCount()}/${CAMPAIGN.nodes.length}</div><h2>${CAMPAIGN.title}</h2><p>История изучается внутри миссий: рассказ → хронология → разбор → практика.</p></div><button class="btn" onclick="openMission('${current.id}')">Продолжить →</button></section>
- <nav class="compact-chapter-switch reveal">${CAMPAIGN.chapters.map(ch=>`<button class="${ch.id===selected.id?'active':''}" onclick="setCampaignChapter('${ch.id}')"><span>${ch.number}</span><div><b>${ch.title}</b><small>${chapterCompleted(ch)}/${chapterMissions(ch).length} · ${chapterProgress(ch)}%</small></div></button>`).join('')}</nav>
+ <nav class="compact-chapter-switch reveal">${CAMPAIGN.chapters.map(ch=>`<button data-chapter-id="${ch.id}" class="${ch.id===selected.id?'active':''}" onclick="setCampaignChapter('${ch.id}')"><span>${ch.number}</span><div><b>${ch.title}</b><small>${chapterCompleted(ch)}/${chapterMissions(ch).length} · ${chapterProgress(ch)}%</small></div></button>`).join('')}</nav>
  <section class="compact-mission-list reveal"><div class="compact-mission-list-head"><div><small>ГЛАВА ${selected.number}</small><h2>${selected.title}</h2></div><p>${selected.subtitle}</p></div>${missions.map((m,i)=>{const open=missionOpen(m.id),done=missionCompleted(m.id),active=m.id===current.id,l=lessonData(m.id);return `<button class="learning-mission-row ${open?'':'lock'} ${done?'done':''} ${active?'active':''}" ${open?`onclick="openMission('${m.id}')"`:'disabled'}><span class="mission-row-icon">${done?'✓':m.emoji}</span><span class="mission-row-number">${String(i+1).padStart(2,'0')}</span><div><b>${m.title}</b><p>${m.description}</p></div><small>${missionTypeLabel(m.type)} · ${l?.duration||6} мин</small><i>${done?'100%':active?'Далее':'→'}</i></button>`;}).join('')}</section>`);
 };
 

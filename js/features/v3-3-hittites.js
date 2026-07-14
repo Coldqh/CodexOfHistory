@@ -1,6 +1,6 @@
-/* Codex v3.5.0 — Hittites and Anatolia */
+/* Codex v3.5.1 — Hittites and Anatolia */
 (()=>{
-  const V='3.5.0';
+  const V='3.5.1';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.HITTITES='HITTITES';
   state.hittitePhase=state.hittitePhase||'ORIGINS';
@@ -52,7 +52,7 @@
   packsScreen=function(){
     if(activeCampaignId()!=='HITTITES')return oldPacks();
     const pools=unlockedPools(),available=packPool().filter(c=>!isUnlocked(c.id)).length;
-    return shell(`<section class="packs-page-head reveal"><div class="packs-title-block"><div class="eyebrow">Архив · Хетты и Анатолия</div><h2>Паки знаний</h2><p>Выпадают только архивные карточки из уже открытых глав.</p><div class="fragment-balance compact-fragment-balance"><span>◇</span><b>${state.fragments}</b><small>фрагментов</small></div></div></section><section class="packs-page-grid reveal"><article class="pack-page-card ${dailyPackReady()?'ready':''}"><img src="${packCover('DAILY')}" alt="Архивный пак дня"><div class="pack-page-copy"><small>ЕЖЕДНЕВНЫЙ · 3 КАРТЫ</small><h3>Архивный пак дня</h3><p>${dailyPackReady()?'Готов к открытию.':dailyLearningCompleteToday()?'Сегодня уже открыт.':'Сначала заверши дневную сессию.'}</p>${packAction('DAILY')}</div></article><article class="pack-page-card campaign-pack"><img src="assets/packs/hittites-pack.svg" alt="Архив Хатти"><div class="pack-page-copy"><small>ХАТТИ · 4 КАРТЫ</small><h3>Архив Хатти</h3><p>${available} новых карточек в ${pools.length} открытых пулах.</p><div class="pack-page-meta"><span>60 ◇</span><span>${pools.length}/10 пулов</span></div>${packAction('ROMAN')}</div></article></section>${pools.length?`<section class="section reveal"><div class="section-head"><h2>Открытые пулы</h2><span>${pools.length}</span></div><div class="active-pools compact-pools">${pools.map(p=>{const pr=poolProgress(p);return `<span>${p.title} ${pr.opened}/${pr.total}</span>`;}).join('')}</div></section>`:''}`);
+    return shell(`<section class="packs-page-head reveal"><div class="packs-title-block"><div class="eyebrow">Архив · Хетты и Анатолия</div><h2>Паки знаний</h2><p>Выпадают только архивные карточки из уже открытых глав.</p><div class="fragment-balance compact-fragment-balance"><span>◇</span><b>${state.fragments}</b><small>фрагментов</small></div></div></section><section class="packs-page-grid reveal"><article class="pack-page-card ${dailyPackReady()?'ready':''}"><img src="${packCover('DAILY')}" alt="Архивный пак дня"><div class="pack-page-copy"><small>ЕЖЕДНЕВНЫЙ · 3 КАРТЫ</small><h3>Архивный пак дня</h3><p>${dailyPackReady()?'Готов к открытию.':dailyLearningCompleteToday()?'Сегодня уже открыт.':'Сначала заверши дневную сессию.'}</p>${packAction('DAILY')}</div></article><article class="pack-page-card campaign-pack ${campaignPackStatusClass()}"><img src="assets/packs/hittites-pack.svg" alt="Архив Хатти"><div class="pack-page-copy"><small>ХАТТИ · 4 КАРТЫ</small><h3>Архив Хатти</h3><p>${campaignPackDescription()}</p><div class="pack-page-meta">${campaignPackMeta()}</div>${campaignPackAction()}</div></article></section>${pools.length?`<section class="section reveal"><div class="section-head"><h2>Открытые пулы</h2><span>${pools.length}</span></div><div class="active-pools compact-pools">${pools.map(p=>{const pr=poolProgress(p);return `<span>${p.title} ${pr.opened}/${pr.total}</span>`;}).join('')}</div></section>`:''}`);
   };
 
   const oldMap=mapScreen;

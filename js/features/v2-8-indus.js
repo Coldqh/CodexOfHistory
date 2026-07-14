@@ -1,6 +1,6 @@
 /* Codex v2.8.0 — Indus civilization campaign */
 (()=>{
- const V='4.0.0'; window.CODEX_VERSION=V; V22_CAMPAIGN_CODES.INDUS='INDUS';
+ const V='4.1.0'; window.CODEX_VERSION=V; V22_CAMPAIGN_CODES.INDUS='INDUS';
  const oldNoun=activeCampaignNoun; activeCampaignNoun=function(){return activeCampaignId()==='INDUS'?'ИНДСКАЯ ЦИВИЛИЗАЦИЯ':oldNoun();};
  const oldTitle=activeCampaignPackTitle; activeCampaignPackTitle=function(){return activeCampaignId()==='INDUS'?'Индский архивный пак':oldTitle();};
  const oldCover=activeCampaignPackCover; activeCampaignPackCover=function(){return activeCampaignId()==='INDUS'?'assets/packs/indus-pack.svg':oldCover();};

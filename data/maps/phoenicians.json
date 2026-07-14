@@ -1,0 +1,350 @@
+{
+  "points": {
+    "BYBLOS": [
+      34.1236,
+      35.6511
+    ],
+    "SIDON": [
+      33.5606,
+      35.3758
+    ],
+    "TYRE": [
+      33.2705,
+      35.2038
+    ],
+    "ARWAD": [
+      34.856,
+      35.858
+    ],
+    "BERYTUS": [
+      33.8938,
+      35.5018
+    ],
+    "DOR": [
+      32.616,
+      34.917
+    ],
+    "UGARIT": [
+      35.602,
+      35.785
+    ],
+    "LEVANT": [
+      34.0,
+      35.4
+    ],
+    "LEBANON": [
+      33.9,
+      35.7
+    ],
+    "KITION": [
+      34.668,
+      33.047
+    ],
+    "IDALION": [
+      35.016,
+      33.425
+    ],
+    "AMATHUS": [
+      34.713,
+      33.142
+    ],
+    "SALAMIS": [
+      35.185,
+      33.902
+    ],
+    "CYPRUS": [
+      35.05,
+      33.2
+    ],
+    "MOTYA": [
+      37.868,
+      12.466
+    ],
+    "MALTA": [
+      35.899,
+      14.514
+    ],
+    "SULCIS": [
+      39.066,
+      8.453
+    ],
+    "THARROS": [
+      39.873,
+      8.439
+    ],
+    "NORA": [
+      38.994,
+      9.016
+    ],
+    "SARDINIA": [
+      40.0,
+      9.0
+    ],
+    "GADIR": [
+      36.529,
+      -6.292
+    ],
+    "HUELVA": [
+      37.261,
+      -6.944
+    ],
+    "MALAKA": [
+      36.721,
+      -4.421
+    ],
+    "LIXUS": [
+      35.199,
+      -6.109
+    ],
+    "TARTESSOS": [
+      37.2,
+      -6.5
+    ],
+    "IBERIA": [
+      37.1,
+      -5.8
+    ],
+    "CARTHAGE": [
+      36.853,
+      10.323
+    ],
+    "UTICA": [
+      37.056,
+      10.062
+    ],
+    "KERKUANE": [
+      36.946,
+      11.099
+    ],
+    "NORTH_AFRICA": [
+      36.4,
+      9.8
+    ],
+    "MEDITERRANEAN": [
+      36.0,
+      18.0
+    ],
+    "NINEVEH": [
+      36.359,
+      43.152
+    ],
+    "BABYLON": [
+      32.536,
+      44.421
+    ],
+    "ATHENS": [
+      37.984,
+      23.728
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "PHO_S_01_01": "LEVANT",
+    "PHO_S_01_02": "BYBLOS",
+    "PHO_S_01_03": "SIDON",
+    "PHO_S_01_04": "BYBLOS",
+    "PHO_S_01_05": "SIDON",
+    "PHO_S_01_06": "TYRE",
+    "PHO_S_01_07": "ARWAD",
+    "PHO_S_01_08": "LEVANT",
+    "PHO_A_01_01": "BYBLOS",
+    "PHO_A_01_02": "LEVANT",
+    "PHO_A_01_03": "SIDON",
+    "PHO_A_01_04": "LEVANT",
+    "PHO_S_02_01": "TYRE",
+    "PHO_S_02_02": "TYRE",
+    "PHO_S_02_03": "SIDON",
+    "PHO_S_02_04": "TYRE",
+    "PHO_S_02_05": "TYRE",
+    "PHO_S_02_06": "BYBLOS",
+    "PHO_S_02_07": "TYRE",
+    "PHO_S_02_08": "SIDON",
+    "PHO_A_02_01": "BYBLOS",
+    "PHO_A_02_02": "SIDON",
+    "PHO_A_02_03": "TYRE",
+    "PHO_A_02_04": "TYRE",
+    "PHO_S_03_01": "BYBLOS",
+    "PHO_S_03_02": "BYBLOS",
+    "PHO_S_03_03": "BYBLOS",
+    "PHO_S_03_04": "BYBLOS",
+    "PHO_S_03_05": "TYRE",
+    "PHO_S_03_06": "KITION",
+    "PHO_S_03_07": "ATHENS",
+    "PHO_S_03_08": "BYBLOS",
+    "PHO_A_03_01": "LEVANT",
+    "PHO_A_03_02": "LEVANT",
+    "PHO_A_03_03": "KITION",
+    "PHO_A_03_04": "LEVANT",
+    "PHO_S_04_01": "TYRE",
+    "PHO_S_04_02": "TYRE",
+    "PHO_S_04_03": "MEDITERRANEAN",
+    "PHO_S_04_04": "KITION",
+    "PHO_S_04_05": "MEDITERRANEAN",
+    "PHO_S_04_06": "BYBLOS",
+    "PHO_S_04_07": "MEDITERRANEAN",
+    "PHO_S_04_08": "MEDITERRANEAN",
+    "PHO_A_04_01": "NINEVEH",
+    "PHO_A_04_02": "IBERIA",
+    "PHO_A_04_03": "TYRE",
+    "PHO_A_04_04": "MEDITERRANEAN",
+    "PHO_S_05_01": "TYRE",
+    "PHO_S_05_02": "TYRE",
+    "PHO_S_05_03": "LEBANON",
+    "PHO_S_05_04": "NINEVEH",
+    "PHO_S_05_05": "TYRE",
+    "PHO_S_05_06": "SIDON",
+    "PHO_S_05_07": "TYRE",
+    "PHO_S_05_08": "LEVANT",
+    "PHO_A_05_01": "NINEVEH",
+    "PHO_A_05_02": "MEDITERRANEAN",
+    "PHO_A_05_03": "TYRE",
+    "PHO_A_05_04": "TYRE",
+    "PHO_S_06_01": "KITION",
+    "PHO_S_06_02": "IDALION",
+    "PHO_S_06_03": "AMATHUS",
+    "PHO_S_06_04": "CYPRUS",
+    "PHO_S_06_05": "KITION",
+    "PHO_S_06_06": "KITION",
+    "PHO_S_06_07": "CYPRUS",
+    "PHO_S_06_08": "IDALION",
+    "PHO_A_06_01": "KITION",
+    "PHO_A_06_02": "IDALION",
+    "PHO_A_06_03": "KITION",
+    "PHO_A_06_04": "KITION",
+    "PHO_S_07_01": "MOTYA",
+    "PHO_S_07_02": "MALTA",
+    "PHO_S_07_03": "SULCIS",
+    "PHO_S_07_04": "THARROS",
+    "PHO_S_07_05": "NORA",
+    "PHO_S_07_06": "SARDINIA",
+    "PHO_S_07_07": "SARDINIA",
+    "PHO_S_07_08": "MOTYA",
+    "PHO_A_07_01": "NORA",
+    "PHO_A_07_02": "MOTYA",
+    "PHO_A_07_03": "SARDINIA",
+    "PHO_A_07_04": "MOTYA",
+    "PHO_S_08_01": "GADIR",
+    "PHO_S_08_02": "GADIR",
+    "PHO_S_08_03": "HUELVA",
+    "PHO_S_08_04": "TARTESSOS",
+    "PHO_S_08_05": "IBERIA",
+    "PHO_S_08_06": "MALAKA",
+    "PHO_S_08_07": "LIXUS",
+    "PHO_S_08_08": "IBERIA",
+    "PHO_A_08_01": "GADIR",
+    "PHO_A_08_02": "TARTESSOS",
+    "PHO_A_08_03": "MALAKA",
+    "PHO_A_08_04": "MALAKA",
+    "PHO_S_09_01": "CARTHAGE",
+    "PHO_S_09_02": "CARTHAGE",
+    "PHO_S_09_03": "CARTHAGE",
+    "PHO_S_09_04": "UTICA",
+    "PHO_S_09_05": "CARTHAGE",
+    "PHO_S_09_06": "NORTH_AFRICA",
+    "PHO_S_09_07": "CARTHAGE",
+    "PHO_S_09_08": "CARTHAGE",
+    "PHO_A_09_01": "CARTHAGE",
+    "PHO_A_09_02": "CARTHAGE",
+    "PHO_A_09_03": "CARTHAGE",
+    "PHO_A_09_04": "KERKUANE",
+    "PHO_S_10_01": "NINEVEH",
+    "PHO_S_10_02": "TYRE",
+    "PHO_S_10_03": "TYRE",
+    "PHO_S_10_04": "SIDON",
+    "PHO_S_10_05": "TYRE",
+    "PHO_S_10_06": "TYRE",
+    "PHO_S_10_07": "LEVANT",
+    "PHO_S_10_08": "LEVANT",
+    "PHO_A_10_01": "NINEVEH",
+    "PHO_A_10_02": "NINEVEH",
+    "PHO_A_10_03": "BABYLON",
+    "PHO_A_10_04": "ATHENS"
+  },
+  "chapters": {
+    "PHO_CHAPTER_01": {
+      "title": "Побережье после бронзового кризиса",
+      "center": [
+        34.0,
+        35.4
+      ],
+      "zoom": 5
+    },
+    "PHO_CHAPTER_02": {
+      "title": "Тир, Сидон, Библ и Арвад",
+      "center": [
+        33.2705,
+        35.2038
+      ],
+      "zoom": 5
+    },
+    "PHO_CHAPTER_03": {
+      "title": "Алфавит и надписи",
+      "center": [
+        34.1236,
+        35.6511
+      ],
+      "zoom": 5
+    },
+    "PHO_CHAPTER_04": {
+      "title": "Корабли, гавани и маршруты",
+      "center": [
+        33.2705,
+        35.2038
+      ],
+      "zoom": 5
+    },
+    "PHO_CHAPTER_05": {
+      "title": "Пурпур, кедр и ремесло",
+      "center": [
+        33.2705,
+        35.2038
+      ],
+      "zoom": 5
+    },
+    "PHO_CHAPTER_06": {
+      "title": "Кипр и восточное Средиземноморье",
+      "center": [
+        34.668,
+        33.047
+      ],
+      "zoom": 5
+    },
+    "PHO_CHAPTER_07": {
+      "title": "Сицилия, Мальта и Сардиния",
+      "center": [
+        37.868,
+        12.466
+      ],
+      "zoom": 5
+    },
+    "PHO_CHAPTER_08": {
+      "title": "Иберия и Атлантический выход",
+      "center": [
+        36.529,
+        -6.292
+      ],
+      "zoom": 5
+    },
+    "PHO_CHAPTER_09": {
+      "title": "Ранний Карфаген",
+      "center": [
+        36.853,
+        10.323
+      ],
+      "zoom": 5
+    },
+    "PHO_CHAPTER_10": {
+      "title": "Империи, города и исторические источники",
+      "center": [
+        33.2705,
+        35.2038
+      ],
+      "zoom": 5
+    }
+  },
+  "missionCenter": [
+    35.0,
+    20.0
+  ],
+  "missionZoom": 4
+}

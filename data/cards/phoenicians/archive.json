@@ -1,0 +1,2362 @@
+[
+  {
+    "id": "PHO_A_01_01",
+    "type": "TEXT",
+    "title": "Путешествие Уну-Амона",
+    "original": "Story of Wenamun",
+    "subtitle": "египетский литературный текст о поездке за кедром в Библос",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "ок. XI века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Путешествие Уну-Амона — египетский литературный текст о поездке за кедром в Библос.",
+    "importance": "Архивная карточка дополняет главу «Побережье после бронзового кризиса» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: ок. XI века до н. э..",
+      "Связь с темой: египетский литературный текст о поездке за кедром в Библос.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Побережье после бронзового кризиса",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 7,
+      "religion": 5,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Библос",
+      "lat": 34.1236,
+      "lon": 35.6511
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-01/pho_a_01_01.svg",
+      "caption": "Локальная учебная обложка: Путешествие Уну-Амона",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://smarthistory.org/canaanites-an-introduction/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_01_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smarthistory: Canaanites, an introduction",
+      "url": "https://smarthistory.org/canaanites-an-introduction/",
+      "type": "university"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_01"
+  },
+  {
+    "id": "PHO_A_01_02",
+    "type": "SOURCE",
+    "title": "Керамика раннего железного века Леванта",
+    "original": "Early Iron Age Levantine pottery",
+    "subtitle": "археологический материал для хронологии побережья",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "XII–X века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Керамика раннего железного века Леванта — археологический материал для хронологии побережья.",
+    "importance": "Архивная карточка дополняет главу «Побережье после бронзового кризиса» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: XII–X века до н. э..",
+      "Связь с темой: археологический материал для хронологии побережья.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Побережье после бронзового кризиса",
+      "source"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 5,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 8,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Левантское побережье",
+      "lat": 34.0,
+      "lon": 35.4
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-01/pho_a_01_02.svg",
+      "caption": "Локальная учебная обложка: Керамика раннего железного века Леванта",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://smarthistory.org/canaanites-an-introduction/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_01_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smarthistory: Canaanites, an introduction",
+      "url": "https://smarthistory.org/canaanites-an-introduction/",
+      "type": "university"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_01"
+  },
+  {
+    "id": "PHO_A_01_03",
+    "type": "SITE",
+    "title": "Прибрежный телль",
+    "original": "Coastal tell",
+    "subtitle": "многослойное поселение, сохраняющее следы длительной жизни",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "бронзовый и железный века",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Прибрежный телль — многослойное поселение, сохраняющее следы длительной жизни.",
+    "importance": "Архивная карточка дополняет главу «Побережье после бронзового кризиса» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: бронзовый и железный века.",
+      "Связь с темой: многослойное поселение, сохраняющее следы длительной жизни.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Побережье после бронзового кризиса",
+      "site"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 9,
+      "politics": 9,
+      "religion": 7,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сидон",
+      "lat": 33.5606,
+      "lon": 35.3758
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-01/pho_a_01_03.svg",
+      "caption": "Локальная учебная обложка: Прибрежный телль",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://smarthistory.org/canaanites-an-introduction/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_01_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smarthistory: Canaanites, an introduction",
+      "url": "https://smarthistory.org/canaanites-an-introduction/",
+      "type": "university"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_01"
+  },
+  {
+    "id": "PHO_A_01_04",
+    "type": "CONCEPT",
+    "title": "Проблема названия «финикийцы»",
+    "original": "Problem of Phoenician identity",
+    "subtitle": "различие между внешним названием и локальной самоидентификацией",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "современная историография",
+    "rarity": "LEGENDARY",
+    "difficulty": 7,
+    "summary": "Проблема названия «финикийцы» — различие между внешним названием и локальной самоидентификацией.",
+    "importance": "Архивная карточка дополняет главу «Побережье после бронзового кризиса» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Связь с темой: различие между внешним названием и локальной самоидентификацией.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Побережье после бронзового кризиса",
+      "concept"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 2,
+      "culture": 7,
+      "politics": 4,
+      "religion": 3,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Левантское побережье",
+      "lat": 34.0,
+      "lon": 35.4
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-01/pho_a_01_04.svg",
+      "caption": "Локальная учебная обложка: Проблема названия «финикийцы»",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://smarthistory.org/canaanites-an-introduction/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_01_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smarthistory: Canaanites, an introduction",
+      "url": "https://smarthistory.org/canaanites-an-introduction/",
+      "type": "university"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_01"
+  },
+  {
+    "id": "PHO_A_02_01",
+    "type": "ARTIFACT",
+    "title": "Саркофаг Ахирама",
+    "original": "Ahiram sarcophagus",
+    "subtitle": "царский саркофаг Библоса с ранней финикийской надписью",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "ок. X века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Саркофаг Ахирама — царский саркофаг Библоса с ранней финикийской надписью.",
+    "importance": "Архивная карточка дополняет главу «Тир, Сидон, Библ и Арвад» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: ок. X века до н. э..",
+      "Связь с темой: царский саркофаг Библоса с ранней финикийской надписью.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Тир, Сидон, Библ и Арвад",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 9,
+      "religion": 6,
+      "economy": 8,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Библос",
+      "lat": 34.1236,
+      "lon": 35.6511
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-02/pho_a_02_01.svg",
+      "caption": "Локальная учебная обложка: Саркофаг Ахирама",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/299/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_02_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Tyre",
+      "url": "https://whc.unesco.org/en/list/299/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_02"
+  },
+  {
+    "id": "PHO_A_02_02",
+    "type": "BUILDING",
+    "title": "Храм Эшмуна у Сидона",
+    "original": "Temple of Eshmun",
+    "subtitle": "святилище сидонского божества исцеления",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Храм Эшмуна у Сидона — святилище сидонского божества исцеления.",
+    "importance": "Архивная карточка дополняет главу «Тир, Сидон, Библ и Арвад» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Связь с темой: святилище сидонского божества исцеления.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Тир, Сидон, Библ и Арвад",
+      "building"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 6,
+      "culture": 8,
+      "politics": 4,
+      "religion": 7,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сидон",
+      "lat": 33.5606,
+      "lon": 35.3758
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-02/pho_a_02_02.svg",
+      "caption": "Локальная учебная обложка: Храм Эшмуна у Сидона",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/299/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_02_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Tyre",
+      "url": "https://whc.unesco.org/en/list/299/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_02"
+  },
+  {
+    "id": "PHO_A_02_03",
+    "type": "SOURCE",
+    "title": "Портовая археология Тира",
+    "original": "Harbour archaeology of Tyre",
+    "subtitle": "реконструкция береговой линии и портовых сооружений",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Портовая археология Тира — реконструкция береговой линии и портовых сооружений.",
+    "importance": "Архивная карточка дополняет главу «Тир, Сидон, Библ и Арвад» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Связь с темой: реконструкция береговой линии и портовых сооружений.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Тир, Сидон, Библ и Арвад",
+      "source"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 2,
+      "culture": 6,
+      "politics": 5,
+      "religion": 3,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Тир",
+      "lat": 33.2705,
+      "lon": 35.2038
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-02/pho_a_02_03.svg",
+      "caption": "Локальная учебная обложка: Портовая археология Тира",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/299/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_02_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Tyre",
+      "url": "https://whc.unesco.org/en/list/299/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_02"
+  },
+  {
+    "id": "PHO_A_02_04",
+    "type": "CONCEPT",
+    "title": "Проблема списка тирских царей",
+    "original": "Tyrian king list problem",
+    "subtitle": "сопоставление поздней традиции, надписей и внешних хроник",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "современная историография",
+    "rarity": "MYTHIC",
+    "difficulty": 7,
+    "summary": "Проблема списка тирских царей — сопоставление поздней традиции, надписей и внешних хроник.",
+    "importance": "Архивная карточка дополняет главу «Тир, Сидон, Библ и Арвад» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Связь с темой: сопоставление поздней традиции, надписей и внешних хроник.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Тир, Сидон, Библ и Арвад",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 3,
+      "culture": 8,
+      "politics": 6,
+      "religion": 4,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Тир",
+      "lat": 33.2705,
+      "lon": 35.2038
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-02/pho_a_02_04.svg",
+      "caption": "Локальная учебная обложка: Проблема списка тирских царей",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/299/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_02_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Tyre",
+      "url": "https://whc.unesco.org/en/list/299/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_02"
+  },
+  {
+    "id": "PHO_A_03_01",
+    "type": "TEXT",
+    "title": "Надпись Киламувы",
+    "original": "Kilamuwa inscription",
+    "subtitle": "царская надпись из Самаля финикийским письмом",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "IX век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Надпись Киламувы — царская надпись из Самаля финикийским письмом.",
+    "importance": "Архивная карточка дополняет главу «Алфавит и надписи» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: IX век до н. э..",
+      "Связь с темой: царская надпись из Самаля финикийским письмом.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Алфавит и надписи",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 7,
+      "politics": 5,
+      "religion": 7,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Левантское побережье",
+      "lat": 34.0,
+      "lon": 35.4
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-03/pho_a_03_01.svg",
+      "caption": "Локальная учебная обложка: Надпись Киламувы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/greece-1050-520-bc",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_03_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Greece 1050–520 BC",
+      "url": "https://www.britishmuseum.org/collection/galleries/greece-1050-520-bc",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_03"
+  },
+  {
+    "id": "PHO_A_03_02",
+    "type": "TEXT",
+    "title": "Каратепская билингва",
+    "original": "Karatepe bilingual",
+    "subtitle": "двуязычная надпись, важная для чтения лувийских иероглифов",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "VIII век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Каратепская билингва — двуязычная надпись, важная для чтения лувийских иероглифов.",
+    "importance": "Архивная карточка дополняет главу «Алфавит и надписи» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: VIII век до н. э..",
+      "Связь с темой: двуязычная надпись, важная для чтения лувийских иероглифов.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Алфавит и надписи",
+      "text"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 2,
+      "culture": 9,
+      "politics": 6,
+      "religion": 3,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Левантское побережье",
+      "lat": 34.0,
+      "lon": 35.4
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-03/pho_a_03_02.svg",
+      "caption": "Локальная учебная обложка: Каратепская билингва",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/greece-1050-520-bc",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_03_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Greece 1050–520 BC",
+      "url": "https://www.britishmuseum.org/collection/galleries/greece-1050-520-bc",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_03"
+  },
+  {
+    "id": "PHO_A_03_03",
+    "type": "TEXT",
+    "title": "Кипро-финикийская билингва",
+    "original": "Phoenician-Cypriot bilingual inscription",
+    "subtitle": "посвящение на финикийском и кипрском слоговом письме",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "IV век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Кипро-финикийская билингва — посвящение на финикийском и кипрском слоговом письме.",
+    "importance": "Архивная карточка дополняет главу «Алфавит и надписи» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: IV век до н. э..",
+      "Связь с темой: посвящение на финикийском и кипрском слоговом письме.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Алфавит и надписи",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 3,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Китион",
+      "lat": 34.668,
+      "lon": 33.047
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-03/pho_a_03_03.svg",
+      "caption": "Локальная учебная обложка: Кипро-финикийская билингва",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/greece-1050-520-bc",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_03_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Greece 1050–520 BC",
+      "url": "https://www.britishmuseum.org/collection/galleries/greece-1050-520-bc",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_03"
+  },
+  {
+    "id": "PHO_A_03_04",
+    "type": "ARTIFACT",
+    "title": "Стрела с финикийской надписью",
+    "original": "Phoenician inscribed arrowhead",
+    "subtitle": "небольшой предмет с именем владельца",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "XI–X века до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 7,
+    "summary": "Стрела с финикийской надписью — небольшой предмет с именем владельца.",
+    "importance": "Архивная карточка дополняет главу «Алфавит и надписи» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: XI–X века до н. э..",
+      "Связь с темой: небольшой предмет с именем владельца.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Алфавит и надписи",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 4,
+      "culture": 9,
+      "politics": 8,
+      "religion": 5,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Левантское побережье",
+      "lat": 34.0,
+      "lon": 35.4
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-03/pho_a_03_04.svg",
+      "caption": "Локальная учебная обложка: Стрела с финикийской надписью",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/greece-1050-520-bc",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_03_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Greece 1050–520 BC",
+      "url": "https://www.britishmuseum.org/collection/galleries/greece-1050-520-bc",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_03"
+  },
+  {
+    "id": "PHO_A_04_01",
+    "type": "SOURCE",
+    "title": "Финикийские корабли на ассирийском рельефе",
+    "original": "Phoenician ships on Assyrian reliefs",
+    "subtitle": "царское изображение морских судов Леванта",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "VIII–VII века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Финикийские корабли на ассирийском рельефе — царское изображение морских судов Леванта.",
+    "importance": "Архивная карточка дополняет главу «Корабли, гавани и маршруты» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: VIII–VII века до н. э..",
+      "Связь с темой: царское изображение морских судов Леванта.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Корабли, гавани и маршруты",
+      "source"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 2,
+      "culture": 8,
+      "politics": 7,
+      "religion": 3,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ниневия",
+      "lat": 36.359,
+      "lon": 43.152
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-04/pho_a_04_01.svg",
+      "caption": "Локальная учебная обложка: Финикийские корабли на ассирийском рельефе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/299/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Tyre and the Phoenician maritime world",
+      "url": "https://whc.unesco.org/en/list/299/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_04"
+  },
+  {
+    "id": "PHO_A_04_02",
+    "type": "ARTIFACT",
+    "title": "Корабль Мазаррон II",
+    "original": "Mazarrón II ship",
+    "subtitle": "сохранившееся финикийское судно у берегов Испании",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "VII век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Корабль Мазаррон II — сохранившееся финикийское судно у берегов Испании.",
+    "importance": "Архивная карточка дополняет главу «Корабли, гавани и маршруты» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: VII век до н. э..",
+      "Связь с темой: сохранившееся финикийское судно у берегов Испании.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Корабли, гавани и маршруты",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 3,
+      "culture": 6,
+      "politics": 8,
+      "religion": 4,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Южная Иберия",
+      "lat": 37.1,
+      "lon": -5.8
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-04/pho_a_04_02.svg",
+      "caption": "Локальная учебная обложка: Корабль Мазаррон II",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/299/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Tyre and the Phoenician maritime world",
+      "url": "https://whc.unesco.org/en/list/299/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_04"
+  },
+  {
+    "id": "PHO_A_04_03",
+    "type": "ARTIFACT",
+    "title": "Каменный якорь",
+    "original": "Phoenician stone anchor",
+    "subtitle": "портовый и корабельный предмет морской инфраструктуры",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Каменный якорь — портовый и корабельный предмет морской инфраструктуры.",
+    "importance": "Архивная карточка дополняет главу «Корабли, гавани и маршруты» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Связь с темой: портовый и корабельный предмет морской инфраструктуры.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Корабли, гавани и маршруты",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 4,
+      "culture": 8,
+      "politics": 9,
+      "religion": 5,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Тир",
+      "lat": 33.2705,
+      "lon": 35.2038
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-04/pho_a_04_03.svg",
+      "caption": "Локальная учебная обложка: Каменный якорь",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/299/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Tyre and the Phoenician maritime world",
+      "url": "https://whc.unesco.org/en/list/299/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_04"
+  },
+  {
+    "id": "PHO_A_04_04",
+    "type": "SOURCE",
+    "title": "Граффито корабля",
+    "original": "Phoenician ship graffito",
+    "subtitle": "схематическое изображение судна на камне или керамике",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Граффито корабля — схематическое изображение судна на камне или керамике.",
+    "importance": "Архивная карточка дополняет главу «Корабли, гавани и маршруты» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Связь с темой: схематическое изображение судна на камне или керамике.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Корабли, гавани и маршруты",
+      "source"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 5,
+      "culture": 6,
+      "politics": 4,
+      "religion": 6,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Средиземноморье",
+      "lat": 36.0,
+      "lon": 18.0
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-04/pho_a_04_04.svg",
+      "caption": "Локальная учебная обложка: Граффито корабля",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/299/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_04_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Tyre and the Phoenician maritime world",
+      "url": "https://whc.unesco.org/en/list/299/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_04"
+  },
+  {
+    "id": "PHO_A_05_01",
+    "type": "ARTIFACT",
+    "title": "Нимрудская слоновая кость финикийского стиля",
+    "original": "Phoenician-style Nimrud ivory",
+    "subtitle": "резная панель, найденная в ассирийском дворце",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "IX–VIII века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Нимрудская слоновая кость финикийского стиля — резная панель, найденная в ассирийском дворце.",
+    "importance": "Архивная карточка дополняет главу «Пурпур, кедр и ремесло» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: IX–VIII века до н. э..",
+      "Связь с темой: резная панель, найденная в ассирийском дворце.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Пурпур, кедр и ремесло",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 3,
+      "culture": 9,
+      "politics": 9,
+      "religion": 4,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Ниневия",
+      "lat": 36.359,
+      "lon": 43.152
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-05/pho_a_05_01.svg",
+      "caption": "Локальная учебная обложка: Нимрудская слоновая кость финикийского стиля",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/art/collection/search/323744",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Phoenician scarab seal",
+      "url": "https://www.metmuseum.org/art/collection/search/323744",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_05"
+  },
+  {
+    "id": "PHO_A_05_02",
+    "type": "ARTIFACT",
+    "title": "Серебряная чаша с восточными мотивами",
+    "original": "Phoenician silver bowl",
+    "subtitle": "роскошный сосуд с многоярусным декором",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "VIII–VII века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Серебряная чаша с восточными мотивами — роскошный сосуд с многоярусным декором.",
+    "importance": "Архивная карточка дополняет главу «Пурпур, кедр и ремесло» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: VIII–VII века до н. э..",
+      "Связь с темой: роскошный сосуд с многоярусным декором.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Пурпур, кедр и ремесло",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 4,
+      "religion": 5,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Средиземноморье",
+      "lat": 36.0,
+      "lon": 18.0
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-05/pho_a_05_02.svg",
+      "caption": "Локальная учебная обложка: Серебряная чаша с восточными мотивами",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/art/collection/search/323744",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Phoenician scarab seal",
+      "url": "https://www.metmuseum.org/art/collection/search/323744",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_05"
+  },
+  {
+    "id": "PHO_A_05_03",
+    "type": "ARTIFACT",
+    "title": "Финикийский скарабей",
+    "original": "Phoenician scarab seal",
+    "subtitle": "печать с египтизирующими и местными мотивами",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "VIII–VI века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Финикийский скарабей — печать с египтизирующими и местными мотивами.",
+    "importance": "Архивная карточка дополняет главу «Пурпур, кедр и ремесло» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: VIII–VI века до н. э..",
+      "Связь с темой: печать с египтизирующими и местными мотивами.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Пурпур, кедр и ремесло",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 5,
+      "culture": 9,
+      "politics": 5,
+      "religion": 6,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Тир",
+      "lat": 33.2705,
+      "lon": 35.2038
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-05/pho_a_05_03.svg",
+      "caption": "Локальная учебная обложка: Финикийский скарабей",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/art/collection/search/323744",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Phoenician scarab seal",
+      "url": "https://www.metmuseum.org/art/collection/search/323744",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_05"
+  },
+  {
+    "id": "PHO_A_05_04",
+    "type": "SOURCE",
+    "title": "Куча раковин мурекса",
+    "original": "Murex workshop deposit",
+    "subtitle": "археологический след производства пурпура",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 8,
+    "summary": "Куча раковин мурекса — археологический след производства пурпура.",
+    "importance": "Архивная карточка дополняет главу «Пурпур, кедр и ремесло» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Связь с темой: археологический след производства пурпура.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Пурпур, кедр и ремесло",
+      "source"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 6,
+      "religion": 7,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Тир",
+      "lat": 33.2705,
+      "lon": 35.2038
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-05/pho_a_05_04.svg",
+      "caption": "Локальная учебная обложка: Куча раковин мурекса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/art/collection/search/323744",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Phoenician scarab seal",
+      "url": "https://www.metmuseum.org/art/collection/search/323744",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_05"
+  },
+  {
+    "id": "PHO_A_06_01",
+    "type": "TEXT",
+    "title": "Китионская надпись",
+    "original": "Kition Phoenician inscription",
+    "subtitle": "посвящение или административный текст финикийским письмом",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Китионская надпись — посвящение или административный текст финикийским письмом.",
+    "importance": "Архивная карточка дополняет главу «Кипр и восточное Средиземноморье» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Связь с темой: посвящение или административный текст финикийским письмом.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Кипр и восточное Средиземноморье",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 4,
+      "culture": 6,
+      "politics": 5,
+      "religion": 5,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Китион",
+      "lat": 34.668,
+      "lon": 33.047
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-06/pho_a_06_01.svg",
+      "caption": "Локальная учебная обложка: Китионская надпись",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_1892-1213-11",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Phoenician and Cypro-Syllabic bilingual inscription",
+      "url": "https://www.britishmuseum.org/collection/object/W_1892-1213-11",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_06"
+  },
+  {
+    "id": "PHO_A_06_02",
+    "type": "TEXT",
+    "title": "Билингва Идалиона",
+    "original": "Idalion bilingual inscription",
+    "subtitle": "надпись финикийским и кипрским письмом",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "IV век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Билингва Идалиона — надпись финикийским и кипрским письмом.",
+    "importance": "Архивная карточка дополняет главу «Кипр и восточное Средиземноморье» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: IV век до н. э..",
+      "Связь с темой: надпись финикийским и кипрским письмом.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Кипр и восточное Средиземноморье",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 6,
+      "religion": 6,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Идалион",
+      "lat": 35.016,
+      "lon": 33.425
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-06/pho_a_06_02.svg",
+      "caption": "Локальная учебная обложка: Билингва Идалиона",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_1892-1213-11",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Phoenician and Cypro-Syllabic bilingual inscription",
+      "url": "https://www.britishmuseum.org/collection/object/W_1892-1213-11",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_06"
+  },
+  {
+    "id": "PHO_A_06_03",
+    "type": "SITE",
+    "title": "Святилище Астарты в Китионе",
+    "original": "Astarte sanctuary at Kition",
+    "subtitle": "культовый комплекс городского сообщества",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Святилище Астарты в Китионе — культовый комплекс городского сообщества.",
+    "importance": "Архивная карточка дополняет главу «Кипр и восточное Средиземноморье» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Связь с темой: культовый комплекс городского сообщества.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Кипр и восточное Средиземноморье",
+      "site"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 6,
+      "culture": 6,
+      "politics": 7,
+      "religion": 7,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Китион",
+      "lat": 34.668,
+      "lon": 33.047
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-06/pho_a_06_03.svg",
+      "caption": "Локальная учебная обложка: Святилище Астарты в Китионе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_1892-1213-11",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Phoenician and Cypro-Syllabic bilingual inscription",
+      "url": "https://www.britishmuseum.org/collection/object/W_1892-1213-11",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_06"
+  },
+  {
+    "id": "PHO_A_06_04",
+    "type": "ARTIFACT",
+    "title": "Кипрская царская монета",
+    "original": "Cypriot royal coin",
+    "subtitle": "монета с местными и финикийскими знаками власти",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "V–IV века до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Кипрская царская монета — монета с местными и финикийскими знаками власти.",
+    "importance": "Архивная карточка дополняет главу «Кипр и восточное Средиземноморье» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: V–IV века до н. э..",
+      "Связь с темой: монета с местными и финикийскими знаками власти.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Кипр и восточное Средиземноморье",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 2,
+      "culture": 8,
+      "politics": 8,
+      "religion": 3,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Китион",
+      "lat": 34.668,
+      "lon": 33.047
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-06/pho_a_06_04.svg",
+      "caption": "Локальная учебная обложка: Кипрская царская монета",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_1892-1213-11",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Phoenician and Cypro-Syllabic bilingual inscription",
+      "url": "https://www.britishmuseum.org/collection/object/W_1892-1213-11",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_06"
+  },
+  {
+    "id": "PHO_A_07_01",
+    "type": "TEXT",
+    "title": "Норская стела",
+    "original": "Nora Stone",
+    "subtitle": "одна из ранних финикийских надписей западного Средиземноморья",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "IX–VIII века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Норская стела — одна из ранних финикийских надписей западного Средиземноморья.",
+    "importance": "Архивная карточка дополняет главу «Сицилия, Мальта и Сардиния» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: IX–VIII века до н. э..",
+      "Связь с темой: одна из ранних финикийских надписей западного Средиземноморья.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Сицилия, Мальта и Сардиния",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 5,
+      "culture": 7,
+      "politics": 7,
+      "religion": 6,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Нора",
+      "lat": 38.994,
+      "lon": 9.016
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-07/pho_a_07_01.svg",
+      "caption": "Локальная учебная обложка: Норская стела",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/299/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Tyre and the Phoenician maritime world",
+      "url": "https://whc.unesco.org/en/list/299/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_07"
+  },
+  {
+    "id": "PHO_A_07_02",
+    "type": "ARTIFACT",
+    "title": "Юноша из Мотии",
+    "original": "Motya Charioteer",
+    "subtitle": "мраморная статуя из Мотии с обсуждаемым контекстом",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "V век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Юноша из Мотии — мраморная статуя из Мотии с обсуждаемым контекстом.",
+    "importance": "Архивная карточка дополняет главу «Сицилия, Мальта и Сардиния» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: V век до н. э..",
+      "Связь с темой: мраморная статуя из Мотии с обсуждаемым контекстом.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Сицилия, Мальта и Сардиния",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 8,
+      "religion": 7,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Мотия",
+      "lat": 37.868,
+      "lon": 12.466
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-07/pho_a_07_02.svg",
+      "caption": "Локальная учебная обложка: Юноша из Мотии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/299/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Tyre and the Phoenician maritime world",
+      "url": "https://whc.unesco.org/en/list/299/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_07"
+  },
+  {
+    "id": "PHO_A_07_03",
+    "type": "ARTIFACT",
+    "title": "Финикийская маска",
+    "original": "Phoenician-Punic mask",
+    "subtitle": "ритуальный или погребальный предмет западных центров",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "VII–V века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Финикийская маска — ритуальный или погребальный предмет западных центров.",
+    "importance": "Архивная карточка дополняет главу «Сицилия, Мальта и Сардиния» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: VII–V века до н. э..",
+      "Связь с темой: ритуальный или погребальный предмет западных центров.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Сицилия, Мальта и Сардиния",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 2,
+      "culture": 7,
+      "politics": 9,
+      "religion": 3,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сардиния",
+      "lat": 40.0,
+      "lon": 9.0
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-07/pho_a_07_03.svg",
+      "caption": "Локальная учебная обложка: Финикийская маска",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/299/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Tyre and the Phoenician maritime world",
+      "url": "https://whc.unesco.org/en/list/299/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_07"
+  },
+  {
+    "id": "PHO_A_07_04",
+    "type": "SITE",
+    "title": "Тофет Мотии",
+    "original": "Tophet of Motya",
+    "subtitle": "культовый и погребальный комплекс с дискуссионной интерпретацией",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "VIII–VI века до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Тофет Мотии — культовый и погребальный комплекс с дискуссионной интерпретацией.",
+    "importance": "Архивная карточка дополняет главу «Сицилия, Мальта и Сардиния» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: VIII–VI века до н. э..",
+      "Связь с темой: культовый и погребальный комплекс с дискуссионной интерпретацией.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Сицилия, Мальта и Сардиния",
+      "site"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 9,
+      "politics": 4,
+      "religion": 4,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Мотия",
+      "lat": 37.868,
+      "lon": 12.466
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-07/pho_a_07_04.svg",
+      "caption": "Локальная учебная обложка: Тофет Мотии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/299/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_07_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Tyre and the Phoenician maritime world",
+      "url": "https://whc.unesco.org/en/list/299/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_07"
+  },
+  {
+    "id": "PHO_A_08_01",
+    "type": "ARTIFACT",
+    "title": "Финикийские саркофаги Кадиса",
+    "original": "Phoenician sarcophagi of Cádiz",
+    "subtitle": "антропоидные саркофаги западной элиты",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "V век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Финикийские саркофаги Кадиса — антропоидные саркофаги западной элиты.",
+    "importance": "Архивная карточка дополняет главу «Иберия и Атлантический выход» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: V век до н. э..",
+      "Связь с темой: антропоидные саркофаги западной элиты.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Иберия и Атлантический выход",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 6,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Гадир",
+      "lat": 36.529,
+      "lon": -6.292
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-08/pho_a_08_01.svg",
+      "caption": "Локальная учебная обложка: Финикийские саркофаги Кадиса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/299/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Tyre and the Phoenician maritime world",
+      "url": "https://whc.unesco.org/en/list/299/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_08"
+  },
+  {
+    "id": "PHO_A_08_02",
+    "type": "ARTIFACT",
+    "title": "Сокровище Эль-Карамболо",
+    "original": "Treasure of El Carambolo",
+    "subtitle": "золотой комплекс, связанный с тартессийской и финикийской средой",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "VII–VI века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Сокровище Эль-Карамболо — золотой комплекс, связанный с тартессийской и финикийской средой.",
+    "importance": "Архивная карточка дополняет главу «Иберия и Атлантический выход» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: VII–VI века до н. э..",
+      "Связь с темой: золотой комплекс, связанный с тартессийской и финикийской средой.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Иберия и Атлантический выход",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 2,
+      "culture": 6,
+      "politics": 4,
+      "religion": 3,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Тартесс",
+      "lat": 37.2,
+      "lon": -6.5
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-08/pho_a_08_02.svg",
+      "caption": "Локальная учебная обложка: Сокровище Эль-Карамболо",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/299/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Tyre and the Phoenician maritime world",
+      "url": "https://whc.unesco.org/en/list/299/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_08"
+  },
+  {
+    "id": "PHO_A_08_03",
+    "type": "SITE",
+    "title": "Серро-дель-Вильяр",
+    "original": "Cerro del Villar",
+    "subtitle": "финикийское поселение у Малаги",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "VIII–VI века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Серро-дель-Вильяр — финикийское поселение у Малаги.",
+    "importance": "Архивная карточка дополняет главу «Иберия и Атлантический выход» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: VIII–VI века до н. э..",
+      "Связь с темой: финикийское поселение у Малаги.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Иберия и Атлантический выход",
+      "site"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 3,
+      "culture": 8,
+      "politics": 5,
+      "religion": 4,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Малака",
+      "lat": 36.721,
+      "lon": -4.421
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-08/pho_a_08_03.svg",
+      "caption": "Локальная учебная обложка: Серро-дель-Вильяр",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/299/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Tyre and the Phoenician maritime world",
+      "url": "https://whc.unesco.org/en/list/299/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_08"
+  },
+  {
+    "id": "PHO_A_08_04",
+    "type": "SITE",
+    "title": "Тосканос",
+    "original": "Toscanos",
+    "subtitle": "поселение и складская зона на юге Иберии",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "VIII–VI века до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 9,
+    "summary": "Тосканос — поселение и складская зона на юге Иберии.",
+    "importance": "Архивная карточка дополняет главу «Иберия и Атлантический выход» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: VIII–VI века до н. э..",
+      "Связь с темой: поселение и складская зона на юге Иберии.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Иберия и Атлантический выход",
+      "site"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 4,
+      "culture": 6,
+      "politics": 6,
+      "religion": 5,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Малака",
+      "lat": 36.721,
+      "lon": -4.421
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-08/pho_a_08_04.svg",
+      "caption": "Локальная учебная обложка: Тосканос",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/299/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_08_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Tyre and the Phoenician maritime world",
+      "url": "https://whc.unesco.org/en/list/299/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_08"
+  },
+  {
+    "id": "PHO_A_09_01",
+    "type": "CONCEPT",
+    "title": "Традиционная дата 814 года до н. э.",
+    "original": "Traditional foundation date of Carthage",
+    "subtitle": "поздняя хронологическая конструкция основания города",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "традиционно 814/813 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Традиционная дата 814 года до н. э. — поздняя хронологическая конструкция основания города.",
+    "importance": "Архивная карточка дополняет главу «Ранний Карфаген» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: традиционно 814/813 год до н. э..",
+      "Связь с темой: поздняя хронологическая конструкция основания города.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Ранний Карфаген",
+      "concept"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 2,
+      "culture": 9,
+      "politics": 5,
+      "religion": 3,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Карфаген",
+      "lat": 36.853,
+      "lon": 10.323
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-09/pho_a_09_01.svg",
+      "caption": "Локальная учебная обложка: Традиционная дата 814 года до н. э.",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/37/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_09_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Site of Carthage",
+      "url": "https://whc.unesco.org/en/list/37/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_09"
+  },
+  {
+    "id": "PHO_A_09_02",
+    "type": "SOURCE",
+    "title": "Архаическая керамика Карфагена",
+    "original": "Archaic Carthage pottery",
+    "subtitle": "материал для датировки раннего поселения",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "VIII–VII века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Архаическая керамика Карфагена — материал для датировки раннего поселения.",
+    "importance": "Архивная карточка дополняет главу «Ранний Карфаген» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: VIII–VII века до н. э..",
+      "Связь с темой: материал для датировки раннего поселения.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Ранний Карфаген",
+      "source"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 3,
+      "culture": 7,
+      "politics": 6,
+      "religion": 4,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Карфаген",
+      "lat": 36.853,
+      "lon": 10.323
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-09/pho_a_09_02.svg",
+      "caption": "Локальная учебная обложка: Архаическая керамика Карфагена",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/37/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_09_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Site of Carthage",
+      "url": "https://whc.unesco.org/en/list/37/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_09"
+  },
+  {
+    "id": "PHO_A_09_03",
+    "type": "SITE",
+    "title": "Тофет Карфагена",
+    "original": "Tophet of Carthage",
+    "subtitle": "культово-погребальный комплекс с дискуссионной интерпретацией",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "VIII–II века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Тофет Карфагена — культово-погребальный комплекс с дискуссионной интерпретацией.",
+    "importance": "Архивная карточка дополняет главу «Ранний Карфаген» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: VIII–II века до н. э..",
+      "Связь с темой: культово-погребальный комплекс с дискуссионной интерпретацией.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Ранний Карфаген",
+      "site"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 7,
+      "religion": 5,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Карфаген",
+      "lat": 36.853,
+      "lon": 10.323
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-09/pho_a_09_03.svg",
+      "caption": "Локальная учебная обложка: Тофет Карфагена",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/37/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_09_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Site of Carthage",
+      "url": "https://whc.unesco.org/en/list/37/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_09"
+  },
+  {
+    "id": "PHO_A_09_04",
+    "type": "SITE",
+    "title": "Керкуан как источник по Пуническому городу",
+    "original": "Kerkuane",
+    "subtitle": "сохранившийся город более позднего Пунического мира",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "VI–III века до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 9,
+    "summary": "Керкуан как источник по Пуническому городу — сохранившийся город более позднего Пунического мира.",
+    "importance": "Архивная карточка дополняет главу «Ранний Карфаген» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: VI–III века до н. э..",
+      "Связь с темой: сохранившийся город более позднего Пунического мира.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Ранний Карфаген",
+      "site"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 5,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Керкуан",
+      "lat": 36.946,
+      "lon": 11.099
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-09/pho_a_09_04.svg",
+      "caption": "Локальная учебная обложка: Керкуан как источник по Пуническому городу",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/37/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_09_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Archaeological Site of Carthage",
+      "url": "https://whc.unesco.org/en/list/37/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_09"
+  },
+  {
+    "id": "PHO_A_10_01",
+    "type": "SOURCE",
+    "title": "Ассирийский рельеф с левантийскими кораблями",
+    "original": "Assyrian relief with Phoenician ships",
+    "subtitle": "имперское изображение морских специалистов и транспорта",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "VIII–VII века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Ассирийский рельеф с левантийскими кораблями — имперское изображение морских специалистов и транспорта.",
+    "importance": "Архивная карточка дополняет главу «Империи, города и исторические источники» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: VIII–VII века до н. э..",
+      "Связь с темой: имперское изображение морских специалистов и транспорта.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Империи, города и исторические источники",
+      "source"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 3,
+      "culture": 6,
+      "politics": 7,
+      "religion": 4,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ниневия",
+      "lat": 36.359,
+      "lon": 43.152
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-10/pho_a_10_01.svg",
+      "caption": "Локальная учебная обложка: Ассирийский рельеф с левантийскими кораблями",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/299/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_10_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Tyre",
+      "url": "https://whc.unesco.org/en/list/299/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_10"
+  },
+  {
+    "id": "PHO_A_10_02",
+    "type": "TEXT",
+    "title": "Призма Асархаддона",
+    "original": "Prism of Esarhaddon",
+    "subtitle": "царская надпись о войнах и зависимых правителях",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "VII век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Призма Асархаддона — царская надпись о войнах и зависимых правителях.",
+    "importance": "Архивная карточка дополняет главу «Империи, города и исторические источники» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: VII век до н. э..",
+      "Связь с темой: царская надпись о войнах и зависимых правителях.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Империи, города и исторические источники",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 4,
+      "culture": 8,
+      "politics": 8,
+      "religion": 5,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Ниневия",
+      "lat": 36.359,
+      "lon": 43.152
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-10/pho_a_10_02.svg",
+      "caption": "Локальная учебная обложка: Призма Асархаддона",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/299/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_10_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Tyre",
+      "url": "https://whc.unesco.org/en/list/299/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_10"
+  },
+  {
+    "id": "PHO_A_10_03",
+    "type": "TEXT",
+    "title": "Вавилонская хроника Леванта",
+    "original": "Babylonian Chronicle and the Levant",
+    "subtitle": "клинописная запись кампаний Нововавилонского царства",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "VI век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Вавилонская хроника Леванта — клинописная запись кампаний Нововавилонского царства.",
+    "importance": "Архивная карточка дополняет главу «Империи, города и исторические источники» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: VI век до н. э..",
+      "Связь с темой: клинописная запись кампаний Нововавилонского царства.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Империи, города и исторические источники",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 9,
+      "religion": 6,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Вавилон",
+      "lat": 32.536,
+      "lon": 44.421
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-10/pho_a_10_03.svg",
+      "caption": "Локальная учебная обложка: Вавилонская хроника Леванта",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/299/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_10_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Tyre",
+      "url": "https://whc.unesco.org/en/list/299/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_10"
+  },
+  {
+    "id": "PHO_A_10_04",
+    "type": "ARTIFACT",
+    "title": "Финикийская стела из Афин",
+    "original": "Phoenician stele from Athens",
+    "subtitle": "двуязычный памятник финикийца в греческом городе",
+    "era": "Железный век",
+    "region": "Левант и Средиземноморье",
+    "date": "IV век до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 9,
+    "summary": "Финикийская стела из Афин — двуязычный памятник финикийца в греческом городе.",
+    "importance": "Архивная карточка дополняет главу «Империи, города и исторические источники» отдельным памятником, текстом или историографической проблемой.",
+    "facts": [
+      "Датировка: IV век до н. э..",
+      "Связь с темой: двуязычный памятник финикийца в греческом городе.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра и сопоставления с другими материалами."
+    ],
+    "tags": [
+      "железный век",
+      "архив Финикии",
+      "Империи, города и исторические источники",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 6,
+      "culture": 8,
+      "politics": 4,
+      "religion": 7,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.984,
+      "lon": 23.728
+    },
+    "image": {
+      "local": "assets/cards/phoenicians/chapter-10/pho_a_10_04.svg",
+      "caption": "Локальная учебная обложка: Финикийская стела из Афин",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/299/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "pho_a_10_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Tyre",
+      "url": "https://whc.unesco.org/en/list/299/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "PHOENICIANS",
+    "chapter": "PHO_CHAPTER_10"
+  }
+]

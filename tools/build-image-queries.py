@@ -8,7 +8,7 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "4.0.0"
+VERSION = "4.1.0"
 
 GROUP_CONTEXT = {
     "ROME": {
@@ -51,6 +51,20 @@ GROUP_CONTEXT = {
         "terms": ["бронз", "bronze age", "вавилон", "babylon", "егип", "egypt", "хетт", "hittite", "микен", "mycenaean", "угарит", "ugarit", "кипр", "cyprus", "дворец", "palace"],
         "base": [("ru", "Бронзовый век"), ("en", "Late Bronze Age")],
     },
+    "PHOENICIANS": {
+        "ARTIFACT": [("en", "Phoenician art"), ("en", "Phoenician metal bowls")],
+        "TEXT": [("en", "Phoenician alphabet"), ("en", "Phoenician inscriptions")],
+        "LAW": [("en", "Treaty of Esarhaddon with Baal of Tyre"), ("en", "Phoenician inscriptions")],
+        "BUILDING": [("en", "Tyre, Lebanon"), ("en", "Byblos")],
+        "RELIGION": [("en", "Melqart"), ("en", "Astarte")],
+        "STATE": [("en", "Phoenicia"), ("en", "Carthage")],
+        "SYSTEM": [("en", "Phoenicia"), ("en", "Phoenician trade")],
+        "RESOURCE": [("en", "Tyrian purple"), ("en", "Cedars of Lebanon")],
+        "ROUTE": [("en", "Phoenicia"), ("en", "Ancient maritime history")],
+        "EVENT": [("en", "Phoenicia under Assyrian rule"), ("en", "Siege of Tyre")],
+        "SOURCE": [("en", "Phoenician inscriptions"), ("en", "Phoenician alphabet")],
+        "CONCEPT": [("en", "Phoenicia"), ("en", "Punic people")],
+    },
     "BRONZE_COLLAPSE": {
         "terms": ["бронз", "bronze age", "collapse", "катастроф", "угарит", "ugarit", "хаттуса", "hattusa", "микен", "mycenaean", "мединет", "sea peoples", "кипр", "cyprus", "iron age"],
         "base": [("ru", "Катастрофа бронзового века"), ("en", "Late Bronze Age collapse")],
@@ -58,6 +72,10 @@ GROUP_CONTEXT = {
     "ASSYRIA_BABYLON": {
         "terms": ["ассир", "assyria", "assyrian", "нинев", "nineveh", "нимруд", "nimrud", "кальху", "вавилон", "babylon", "neo-babylonian", "iron age", "месопот"],
         "base": [("ru", "Новоассирийская держава"), ("en", "Neo-Assyrian Empire"), ("en", "Neo-Babylonian Empire")],
+    },
+    "PHOENICIANS": {
+        "terms": ["финик", "phoen", "тир", "tyre", "сидон", "sidon", "библ", "byblos", "карфаг", "carthage", "пунич", "punic", "кипр", "cyprus", "средизем"],
+        "base": [("ru", "Финикия"), ("en", "Phoenicia"), ("en", "Phoenician art")],
     },
     "MIXED": {
         "terms": ["древн", "ancient", "цивилизац", "civilization", "archaeolog", "археолог", "river", "река", "письмен"],
@@ -384,7 +402,7 @@ def group_for(path: Path, card: dict) -> str:
     p = path.as_posix()
     for token, group in [
         ("/rome/", "ROME"), ("/mesopotamia/", "MESOPOTAMIA"), ("/egypt/", "EGYPT"),
-        ("/indus/", "INDUS"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"), ("/aegean/", "AEGEAN_BRONZE"), ("/international-bronze/", "BRONZE_INTERNATIONAL"), ("/bronze-collapse/", "BRONZE_COLLAPSE"), ("/bronze-world/", "BRONZE_WORLD"), ("/assyria-babylon/", "ASSYRIA_BABYLON"),
+        ("/indus/", "INDUS"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"), ("/aegean/", "AEGEAN_BRONZE"), ("/international-bronze/", "BRONZE_INTERNATIONAL"), ("/bronze-collapse/", "BRONZE_COLLAPSE"), ("/bronze-world/", "BRONZE_WORLD"), ("/assyria-babylon/", "ASSYRIA_BABYLON"), ("/phoenicians/", "PHOENICIANS"),
     ]:
         if token in p:
             return group

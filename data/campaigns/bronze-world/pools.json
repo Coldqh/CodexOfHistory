@@ -1,0 +1,223 @@
+{
+  "campaignId": "BRONZE_ERA_EXAM",
+  "campaigns": {
+    "BRONZE_ERA_EXAM": {
+      "id": "BRONZE_ERA_EXAM",
+      "title": "Царства бронзового века: общий экзамен",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "BRZ_POOL_01",
+      "campaign": "BRONZE_WORLD",
+      "title": "Параллельная хронология",
+      "unlockMission": "BRZ_01_02",
+      "cardIds": [
+        "BRZ_A_01_01",
+        "BRZ_A_01_02",
+        "BRZ_A_01_03"
+      ]
+    },
+    {
+      "id": "BRZ_POOL_02",
+      "campaign": "BRONZE_WORLD",
+      "title": "Державы и региональные царства",
+      "unlockMission": "BRZ_02_02",
+      "cardIds": [
+        "BRZ_A_02_01",
+        "BRZ_A_02_02",
+        "BRZ_A_02_03"
+      ]
+    },
+    {
+      "id": "BRZ_POOL_03",
+      "campaign": "BRONZE_WORLD",
+      "title": "Дворец, труд и управление",
+      "unlockMission": "BRZ_03_02",
+      "cardIds": [
+        "BRZ_A_03_01",
+        "BRZ_A_03_02",
+        "BRZ_A_03_03"
+      ]
+    },
+    {
+      "id": "BRZ_POOL_04",
+      "campaign": "BRONZE_WORLD",
+      "title": "Письмо и архивы",
+      "unlockMission": "BRZ_04_02",
+      "cardIds": [
+        "BRZ_A_04_01",
+        "BRZ_A_04_02",
+        "BRZ_A_04_03"
+      ]
+    },
+    {
+      "id": "BRZ_POOL_05",
+      "campaign": "BRONZE_WORLD",
+      "title": "Торговля и дипломатия",
+      "unlockMission": "BRZ_05_02",
+      "cardIds": [
+        "BRZ_A_05_01",
+        "BRZ_A_05_02",
+        "BRZ_A_05_03"
+      ]
+    },
+    {
+      "id": "BRZ_POOL_06",
+      "campaign": "BRONZE_WORLD",
+      "title": "Война, колесницы и крепости",
+      "unlockMission": "BRZ_06_02",
+      "cardIds": [
+        "BRZ_A_06_01",
+        "BRZ_A_06_02",
+        "BRZ_A_06_03"
+      ]
+    },
+    {
+      "id": "BRZ_POOL_07",
+      "campaign": "BRONZE_WORLD",
+      "title": "Кризис, выживание и перестройка",
+      "unlockMission": "BRZ_07_02",
+      "cardIds": [
+        "BRZ_A_07_01",
+        "BRZ_A_07_02",
+        "BRZ_A_07_03"
+      ]
+    },
+    {
+      "id": "BRZ_POOL_08",
+      "campaign": "BRONZE_WORLD",
+      "title": "Как сравнивать бронзовый век",
+      "unlockMission": "BRZ_08_02",
+      "cardIds": [
+        "BRZ_A_08_01",
+        "BRZ_A_08_02",
+        "BRZ_A_08_03"
+      ]
+    }
+  ],
+  "acquisition": {
+    "BRZ_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_01",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_01",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_01",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_02",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_02",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_02",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_03",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_03",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_03",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_04",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_04",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_04",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_05",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_05",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_05",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_06",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_06",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_06",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_07",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_07",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_07",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_08",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_08",
+      "campaign": "BRONZE_WORLD"
+    },
+    "BRZ_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "BRZ_POOL_08",
+      "campaign": "BRONZE_WORLD"
+    }
+  }
+}

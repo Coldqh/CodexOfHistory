@@ -1,0 +1,1418 @@
+[
+  {
+    "id": "BRZ_A_01_01",
+    "type": "TEXT",
+    "title": "Царский список",
+    "original": "King list",
+    "subtitle": "последовательность правителей, полезная и проблемная для датировки",
+    "era": "Царства бронзового века",
+    "region": "Месопотамия",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Царский список — последовательность правителей, полезная и проблемная для датировки.",
+    "importance": "Архивная карточка главы «Параллельная хронология» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: II тысячелетие до н. э..",
+      "Связь с темой: последовательность правителей, полезная и проблемная для датировки.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "параллельная хронология",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 8,
+      "culture": 6,
+      "politics": 7,
+      "religion": 3,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Месопотамия",
+      "lat": 33.0,
+      "lon": 44.0
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-01/brz_a_01_01.svg",
+      "caption": "Локальная учебная обложка: Царский список",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_01_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_01"
+  },
+  {
+    "id": "BRZ_A_01_02",
+    "type": "SOURCE",
+    "title": "Керамическая серия",
+    "original": "Ceramic sequence",
+    "subtitle": "изменение форм сосудов, используемое для относительной хронологии",
+    "era": "Царства бронзового века",
+    "region": "Эгейский мир",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Керамическая серия — изменение форм сосудов, используемое для относительной хронологии.",
+    "importance": "Архивная карточка главы «Параллельная хронология» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: II тысячелетие до н. э..",
+      "Связь с темой: изменение форм сосудов, используемое для относительной хронологии.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "параллельная хронология",
+      "source"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 9,
+      "culture": 7,
+      "politics": 8,
+      "religion": 4,
+      "economy": 6,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Эгейский мир",
+      "lat": 37.0,
+      "lon": 25.0
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-01/brz_a_01_02.svg",
+      "caption": "Локальная учебная обложка: Керамическая серия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_01_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_01"
+  },
+  {
+    "id": "BRZ_A_01_03",
+    "type": "SOURCE",
+    "title": "Радиоуглеродный диапазон",
+    "original": "Radiocarbon range",
+    "subtitle": "научная датировка с вероятностным интервалом",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "современный метод",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Радиоуглеродный диапазон — научная датировка с вероятностным интервалом.",
+    "importance": "Архивная карточка главы «Параллельная хронология» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: современный метод.",
+      "Связь с темой: научная датировка с вероятностным интервалом.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "параллельная хронология",
+      "source"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 8,
+      "politics": 9,
+      "religion": 5,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Восточное Средиземноморье",
+      "lat": 34.8,
+      "lon": 31.8
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-01/brz_a_01_03.svg",
+      "caption": "Локальная учебная обложка: Радиоуглеродный диапазон",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_01_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_01"
+  },
+  {
+    "id": "BRZ_A_02_01",
+    "type": "TEXT",
+    "title": "Царская титулатура великих держав",
+    "original": "Royal titulary",
+    "subtitle": "формулы статуса и притязаний монарха",
+    "era": "Царства бронзового века",
+    "region": "Египет",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Царская титулатура великих держав — формулы статуса и притязаний монарха.",
+    "importance": "Архивная карточка главы «Державы и региональные царства» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: II тысячелетие до н. э..",
+      "Связь с темой: формулы статуса и притязаний монарха.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "державы и региональные царства",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 8,
+      "culture": 6,
+      "politics": 7,
+      "religion": 5,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Египет",
+      "lat": 27.0,
+      "lon": 30.5
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-02/brz_a_02_01.svg",
+      "caption": "Локальная учебная обложка: Царская титулатура великих держав",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-amarna-letters",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_02_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: The Amarna Letters",
+      "url": "https://www.metmuseum.org/essays/the-amarna-letters",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_02"
+  },
+  {
+    "id": "BRZ_A_02_02",
+    "type": "LAW",
+    "title": "Вассальный договор",
+    "original": "Vassal treaty",
+    "subtitle": "письменные обязанности зависимого правителя",
+    "era": "Царства бронзового века",
+    "region": "Хаттуса",
+    "date": "XIII век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Вассальный договор — письменные обязанности зависимого правителя.",
+    "importance": "Архивная карточка главы «Державы и региональные царства» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: XIII век до н. э..",
+      "Связь с темой: письменные обязанности зависимого правителя.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "державы и региональные царства",
+      "law"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 9,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 6,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Хаттуса",
+      "lat": 40.019,
+      "lon": 34.615
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-02/brz_a_02_02.svg",
+      "caption": "Локальная учебная обложка: Вассальный договор",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-amarna-letters",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_02_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: The Amarna Letters",
+      "url": "https://www.metmuseum.org/essays/the-amarna-letters",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_02"
+  },
+  {
+    "id": "BRZ_A_02_03",
+    "type": "TEXT",
+    "title": "Список дани",
+    "original": "Tribute list",
+    "subtitle": "идеологическое и хозяйственное описание поступлений",
+    "era": "Царства бронзового века",
+    "region": "Фивы",
+    "date": "XV–XIII века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Список дани — идеологическое и хозяйственное описание поступлений.",
+    "importance": "Архивная карточка главы «Державы и региональные царства» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: XV–XIII века до н. э..",
+      "Связь с темой: идеологическое и хозяйственное описание поступлений.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "державы и региональные царства",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Фивы",
+      "lat": 25.718,
+      "lon": 32.658
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-02/brz_a_02_03.svg",
+      "caption": "Локальная учебная обложка: Список дани",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-amarna-letters",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_02_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: The Amarna Letters",
+      "url": "https://www.metmuseum.org/essays/the-amarna-letters",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_02"
+  },
+  {
+    "id": "BRZ_A_03_01",
+    "type": "TEXT",
+    "title": "Рационная табличка",
+    "original": "Ration tablet",
+    "subtitle": "запись выдачи зерна, масла или шерсти",
+    "era": "Царства бронзового века",
+    "region": "Пилос",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Рационная табличка — запись выдачи зерна, масла или шерсти.",
+    "importance": "Архивная карточка главы «Дворец, труд и управление» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: II тысячелетие до н. э..",
+      "Связь с темой: запись выдачи зерна, масла или шерсти.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "дворец, труд и управление",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 8,
+      "culture": 6,
+      "politics": 7,
+      "religion": 7,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Пилос",
+      "lat": 37.028,
+      "lon": 21.696
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-03/brz_a_03_01.svg",
+      "caption": "Локальная учебная обложка: Рационная табличка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/mycenaean-civilization",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_03_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Mycenaean Civilization",
+      "url": "https://www.metmuseum.org/essays/mycenaean-civilization",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_03"
+  },
+  {
+    "id": "BRZ_A_03_02",
+    "type": "ARTIFACT",
+    "title": "Печать на пломбе",
+    "original": "Seal impression",
+    "subtitle": "след контроля закрытого сосуда или двери",
+    "era": "Царства бронзового века",
+    "region": "Хаттуса",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Печать на пломбе — след контроля закрытого сосуда или двери.",
+    "importance": "Архивная карточка главы «Дворец, труд и управление» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: II тысячелетие до н. э..",
+      "Связь с темой: след контроля закрытого сосуда или двери.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "дворец, труд и управление",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 9,
+      "culture": 7,
+      "politics": 8,
+      "religion": 3,
+      "economy": 6,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Хаттуса",
+      "lat": 40.019,
+      "lon": 34.615
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-03/brz_a_03_02.svg",
+      "caption": "Локальная учебная обложка: Печать на пломбе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/mycenaean-civilization",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_03_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Mycenaean Civilization",
+      "url": "https://www.metmuseum.org/essays/mycenaean-civilization",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_03"
+  },
+  {
+    "id": "BRZ_A_03_03",
+    "type": "TEXT",
+    "title": "Дворцовый инвентарь",
+    "original": "Palace inventory",
+    "subtitle": "список имущества, сырья и готовой продукции",
+    "era": "Царства бронзового века",
+    "region": "Кносс",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Дворцовый инвентарь — список имущества, сырья и готовой продукции.",
+    "importance": "Архивная карточка главы «Дворец, труд и управление» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: II тысячелетие до н. э..",
+      "Связь с темой: список имущества, сырья и готовой продукции.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "дворец, труд и управление",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 8,
+      "politics": 9,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кносс",
+      "lat": 35.298,
+      "lon": 25.163
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-03/brz_a_03_03.svg",
+      "caption": "Локальная учебная обложка: Дворцовый инвентарь",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/mycenaean-civilization",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_03_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Mycenaean Civilization",
+      "url": "https://www.metmuseum.org/essays/mycenaean-civilization",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_03"
+  },
+  {
+    "id": "BRZ_A_04_01",
+    "type": "TEXT",
+    "title": "Амарнская табличка",
+    "original": "Amarna letter",
+    "subtitle": "письмо между дворами на аккадском языке",
+    "era": "Царства бронзового века",
+    "region": "Амарна",
+    "date": "XIV век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Амарнская табличка — письмо между дворами на аккадском языке.",
+    "importance": "Архивная карточка главы «Письмо и архивы» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: XIV век до н. э..",
+      "Связь с темой: письмо между дворами на аккадском языке.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "письмо и архивы",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 8,
+      "culture": 6,
+      "politics": 7,
+      "religion": 4,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Амарна",
+      "lat": 27.645,
+      "lon": 30.896
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-04/brz_a_04_01.svg",
+      "caption": "Локальная учебная обложка: Амарнская табличка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-amarna-letters",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: The Amarna Letters",
+      "url": "https://www.metmuseum.org/essays/the-amarna-letters",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_04"
+  },
+  {
+    "id": "BRZ_A_04_02",
+    "type": "TEXT",
+    "title": "Табличка из Пилоса",
+    "original": "Pylos tablet",
+    "subtitle": "краткая запись микенского дворцового учёта",
+    "era": "Царства бронзового века",
+    "region": "Пилос",
+    "date": "XIII век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Табличка из Пилоса — краткая запись микенского дворцового учёта.",
+    "importance": "Архивная карточка главы «Письмо и архивы» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: XIII век до н. э..",
+      "Связь с темой: краткая запись микенского дворцового учёта.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "письмо и архивы",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 9,
+      "culture": 7,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Пилос",
+      "lat": 37.028,
+      "lon": 21.696
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-04/brz_a_04_02.svg",
+      "caption": "Локальная учебная обложка: Табличка из Пилоса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-amarna-letters",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: The Amarna Letters",
+      "url": "https://www.metmuseum.org/essays/the-amarna-letters",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_04"
+  },
+  {
+    "id": "BRZ_A_04_03",
+    "type": "TEXT",
+    "title": "Угаритская табличка",
+    "original": "Ugaritic tablet",
+    "subtitle": "текст алфавитной клинописью из городского архива",
+    "era": "Царства бронзового века",
+    "region": "Угарит",
+    "date": "XIII век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Угаритская табличка — текст алфавитной клинописью из городского архива.",
+    "importance": "Архивная карточка главы «Письмо и архивы» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: XIII век до н. э..",
+      "Связь с темой: текст алфавитной клинописью из городского архива.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "письмо и архивы",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 8,
+      "politics": 9,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Угарит",
+      "lat": 35.602,
+      "lon": 35.785
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-04/brz_a_04_03.svg",
+      "caption": "Локальная учебная обложка: Угаритская табличка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-amarna-letters",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: The Amarna Letters",
+      "url": "https://www.metmuseum.org/essays/the-amarna-letters",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_04"
+  },
+  {
+    "id": "BRZ_A_05_01",
+    "type": "ARTIFACT",
+    "title": "Улубурунский груз как сеть обмена",
+    "original": "Uluburun cargo",
+    "subtitle": "многонациональный набор сырья и товаров с затонувшего судна",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "ок. 1300 до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Улубурунский груз как сеть обмена — многонациональный набор сырья и товаров с затонувшего судна.",
+    "importance": "Архивная карточка главы «Торговля и дипломатия» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: ок. 1300 до н. э..",
+      "Связь с темой: многонациональный набор сырья и товаров с затонувшего судна.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "торговля и дипломатия",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 8,
+      "culture": 6,
+      "politics": 7,
+      "religion": 6,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Восточное Средиземноморье",
+      "lat": 34.8,
+      "lon": 31.8
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-05/brz_a_05_01.svg",
+      "caption": "Локальная учебная обложка: Улубурунский груз как сеть обмена",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-amarna-letters",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: The Amarna Letters",
+      "url": "https://www.metmuseum.org/essays/the-amarna-letters",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_05"
+  },
+  {
+    "id": "BRZ_A_05_02",
+    "type": "ARTIFACT",
+    "title": "Слиток бычьей шкуры",
+    "original": "Oxhide ingot",
+    "subtitle": "форма перевозки медного сырья",
+    "era": "Царства бронзового века",
+    "region": "Кипр",
+    "date": "XIV–XIII века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Слиток бычьей шкуры — форма перевозки медного сырья.",
+    "importance": "Архивная карточка главы «Торговля и дипломатия» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: XIV–XIII века до н. э..",
+      "Связь с темой: форма перевозки медного сырья.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "торговля и дипломатия",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 9,
+      "culture": 7,
+      "politics": 8,
+      "religion": 7,
+      "economy": 6,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Кипр",
+      "lat": 35.0,
+      "lon": 33.2
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-05/brz_a_05_02.svg",
+      "caption": "Локальная учебная обложка: Слиток бычьей шкуры",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-amarna-letters",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: The Amarna Letters",
+      "url": "https://www.metmuseum.org/essays/the-amarna-letters",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_05"
+  },
+  {
+    "id": "BRZ_A_05_03",
+    "type": "ARTIFACT",
+    "title": "Микенский сосуд в Леванте",
+    "original": "Mycenaean pottery in Levant",
+    "subtitle": "импортная или подражательная керамика в восточных портах",
+    "era": "Царства бронзового века",
+    "region": "Левант",
+    "date": "XIV–XIII века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Микенский сосуд в Леванте — импортная или подражательная керамика в восточных портах.",
+    "importance": "Архивная карточка главы «Торговля и дипломатия» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: XIV–XIII века до н. э..",
+      "Связь с темой: импортная или подражательная керамика в восточных портах.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "торговля и дипломатия",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 8,
+      "politics": 9,
+      "religion": 3,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Левант",
+      "lat": 33.5,
+      "lon": 35.4
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-05/brz_a_05_03.svg",
+      "caption": "Локальная учебная обложка: Микенский сосуд в Леванте",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-amarna-letters",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Met: The Amarna Letters",
+      "url": "https://www.metmuseum.org/essays/the-amarna-letters",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_05"
+  },
+  {
+    "id": "BRZ_A_06_01",
+    "type": "ARTIFACT",
+    "title": "Деталь колесницы",
+    "original": "Chariot fitting",
+    "subtitle": "элемент дорогого боевого и церемониального экипажа",
+    "era": "Царства бронзового века",
+    "region": "Фивы",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Деталь колесницы — элемент дорогого боевого и церемониального экипажа.",
+    "importance": "Архивная карточка главы «Война, колесницы и крепости» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: II тысячелетие до н. э..",
+      "Связь с темой: элемент дорогого боевого и церемониального экипажа.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "война, колесницы и крепости",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 8,
+      "culture": 6,
+      "politics": 7,
+      "religion": 3,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Фивы",
+      "lat": 25.718,
+      "lon": 32.658
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-06/brz_a_06_01.svg",
+      "caption": "Локальная учебная обложка: Деталь колесницы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-hittites",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Hittites",
+      "url": "https://www.metmuseum.org/essays/the-hittites",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_06"
+  },
+  {
+    "id": "BRZ_A_06_02",
+    "type": "ARTIFACT",
+    "title": "Склад оружия",
+    "original": "Weapons cache",
+    "subtitle": "набор наконечников, клинков и защитного снаряжения",
+    "era": "Царства бронзового века",
+    "region": "Хаттуса",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Склад оружия — набор наконечников, клинков и защитного снаряжения.",
+    "importance": "Архивная карточка главы «Война, колесницы и крепости» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: II тысячелетие до н. э..",
+      "Связь с темой: набор наконечников, клинков и защитного снаряжения.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "война, колесницы и крепости",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 9,
+      "culture": 7,
+      "politics": 8,
+      "religion": 4,
+      "economy": 6,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Хаттуса",
+      "lat": 40.019,
+      "lon": 34.615
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-06/brz_a_06_02.svg",
+      "caption": "Локальная учебная обложка: Склад оружия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-hittites",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Hittites",
+      "url": "https://www.metmuseum.org/essays/the-hittites",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_06"
+  },
+  {
+    "id": "BRZ_A_06_03",
+    "type": "SOURCE",
+    "title": "План укреплений",
+    "original": "Fortification plan",
+    "subtitle": "археологическая реконструкция стен, ворот и башен",
+    "era": "Царства бронзового века",
+    "region": "Микены",
+    "date": "II тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "План укреплений — археологическая реконструкция стен, ворот и башен.",
+    "importance": "Архивная карточка главы «Война, колесницы и крепости» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: II тысячелетие до н. э..",
+      "Связь с темой: археологическая реконструкция стен, ворот и башен.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "война, колесницы и крепости",
+      "source"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 8,
+      "politics": 9,
+      "religion": 5,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Микены",
+      "lat": 37.731,
+      "lon": 22.756
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-06/brz_a_06_03.svg",
+      "caption": "Локальная учебная обложка: План укреплений",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-hittites",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Hittites",
+      "url": "https://www.metmuseum.org/essays/the-hittites",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_06"
+  },
+  {
+    "id": "BRZ_A_07_01",
+    "type": "SOURCE",
+    "title": "Археологический слой разрушения",
+    "original": "Destruction layer",
+    "subtitle": "археологический контекст пожара и обвала",
+    "era": "Царства бронзового века",
+    "region": "Угарит",
+    "date": "ок. 1200 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Археологический слой разрушения — археологический контекст пожара и обвала.",
+    "importance": "Архивная карточка главы «Кризис, выживание и перестройка» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: ок. 1200 до н. э..",
+      "Связь с темой: археологический контекст пожара и обвала.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "кризис, выживание и перестройка",
+      "source"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 8,
+      "culture": 6,
+      "politics": 7,
+      "religion": 5,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Угарит",
+      "lat": 35.602,
+      "lon": 35.785
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-07/brz_a_07_01.svg",
+      "caption": "Локальная учебная обложка: Археологический слой разрушения",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "World History Encyclopedia: Bronze Age Collapse",
+      "url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "type": "reference"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_07"
+  },
+  {
+    "id": "BRZ_A_07_02",
+    "type": "TEXT",
+    "title": "Последнее письмо Угарита",
+    "original": "Last letters of Ugarit",
+    "subtitle": "документ тревоги перед гибелью города",
+    "era": "Царства бронзового века",
+    "region": "Угарит",
+    "date": "начало XII века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Последнее письмо Угарита — документ тревоги перед гибелью города.",
+    "importance": "Архивная карточка главы «Кризис, выживание и перестройка» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: начало XII века до н. э..",
+      "Связь с темой: документ тревоги перед гибелью города.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "кризис, выживание и перестройка",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 9,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 6,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Угарит",
+      "lat": 35.602,
+      "lon": 35.785
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-07/brz_a_07_02.svg",
+      "caption": "Локальная учебная обложка: Последнее письмо Угарита",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "World History Encyclopedia: Bronze Age Collapse",
+      "url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "type": "reference"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_07"
+  },
+  {
+    "id": "BRZ_A_07_03",
+    "type": "SITE",
+    "title": "Поселение непрерывности",
+    "original": "Continuity settlement",
+    "subtitle": "место, где жизнь продолжалась через кризис",
+    "era": "Царства бронзового века",
+    "region": "Кипр",
+    "date": "XII век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Поселение непрерывности — место, где жизнь продолжалась через кризис.",
+    "importance": "Архивная карточка главы «Кризис, выживание и перестройка» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: XII век до н. э..",
+      "Связь с темой: место, где жизнь продолжалась через кризис.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "кризис, выживание и перестройка",
+      "site"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кипр",
+      "lat": 35.0,
+      "lon": 33.2
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-07/brz_a_07_03.svg",
+      "caption": "Локальная учебная обложка: Поселение непрерывности",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "World History Encyclopedia: Bronze Age Collapse",
+      "url": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "type": "reference"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_07"
+  },
+  {
+    "id": "BRZ_A_08_01",
+    "type": "SOURCE",
+    "title": "Сравнительная матрица",
+    "original": "Comparative matrix",
+    "subtitle": "таблица регионов, признаков и границ вывода",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "учебный инструмент",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Сравнительная матрица — таблица регионов, признаков и границ вывода.",
+    "importance": "Архивная карточка главы «Как сравнивать бронзовый век» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: учебный инструмент.",
+      "Связь с темой: таблица регионов, признаков и границ вывода.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "как сравнивать бронзовый век",
+      "source"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 8,
+      "culture": 6,
+      "politics": 7,
+      "religion": 7,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Восточное Средиземноморье",
+      "lat": 34.8,
+      "lon": 31.8
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-08/brz_a_08_01.svg",
+      "caption": "Локальная учебная обложка: Сравнительная матрица",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_08"
+  },
+  {
+    "id": "BRZ_A_08_02",
+    "type": "SOURCE",
+    "title": "Карта типов доказательств",
+    "original": "Evidence map",
+    "subtitle": "пространственное распределение текстов, слоёв и природных данных",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "учебный инструмент",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Карта типов доказательств — пространственное распределение текстов, слоёв и природных данных.",
+    "importance": "Архивная карточка главы «Как сравнивать бронзовый век» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: учебный инструмент.",
+      "Связь с темой: пространственное распределение текстов, слоёв и природных данных.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "как сравнивать бронзовый век",
+      "source"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 9,
+      "culture": 7,
+      "politics": 8,
+      "religion": 3,
+      "economy": 6,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Восточное Средиземноморье",
+      "lat": 34.8,
+      "lon": 31.8
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-08/brz_a_08_02.svg",
+      "caption": "Локальная учебная обложка: Карта типов доказательств",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_08"
+  },
+  {
+    "id": "BRZ_A_08_03",
+    "type": "SOURCE",
+    "title": "Шкала уверенности",
+    "original": "Confidence scale",
+    "subtitle": "маркировка факта, вероятной реконструкции и спорной гипотезы",
+    "era": "Царства бронзового века",
+    "region": "Восточное Средиземноморье и Передняя Азия",
+    "date": "учебный инструмент",
+    "rarity": "MYTHIC",
+    "difficulty": 8,
+    "summary": "Шкала уверенности — маркировка факта, вероятной реконструкции и спорной гипотезы.",
+    "importance": "Архивная карточка главы «Как сравнивать бронзовый век» добавляет отдельный предмет, текст или исследовательский инструмент для проверки общего вывода.",
+    "facts": [
+      "Датировка или рамка: учебный инструмент.",
+      "Связь с темой: маркировка факта, вероятной реконструкции и спорной гипотезы.",
+      "Использование материала требует проверки происхождения, сохранности и альтернативных объяснений."
+    ],
+    "tags": [
+      "бронзовый век",
+      "архив эпохи",
+      "как сравнивать бронзовый век",
+      "source"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 8,
+      "politics": 9,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Восточное Средиземноморье",
+      "lat": 34.8,
+      "lon": 31.8
+    },
+    "image": {
+      "local": "assets/cards/bronze-world/chapter-08/brz_a_08_03.svg",
+      "caption": "Локальная учебная обложка: Шкала уверенности",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "brz_a_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia at the Dawn of the Classical Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_at_the_Dawn_of_the_Classical_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "BRONZE_WORLD",
+    "chapter": "BRZ_CHAPTER_08"
+  }
+]

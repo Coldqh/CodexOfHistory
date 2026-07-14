@@ -1,18 +1,18 @@
 /* Codex of History v2.2 — multi-campaign static bootstrap */
 (() => {
   const app=document.getElementById('app');
-  const showBoot=(title,text,isError=false)=>{app.innerHTML=`<main class="boot-screen ${isError?'boot-error':''}"><div class="boot-mark"><img src="assets/ui/codex-logo-mark.png" alt="Codex of History"></div><div><div class="eyebrow">Content Engine v3.6.0</div><h1>${title}</h1><p>${text}</p></div></main>`;};
+  const showBoot=(title,text,isError=false)=>{app.innerHTML=`<main class="boot-screen ${isError?'boot-error':''}"><div class="boot-mark"><img src="assets/ui/codex-logo-mark.png" alt="Codex of History"></div><div><div class="eyebrow">Content Engine v3.7.0</div><h1>${title}</h1><p>${text}</p></div></main>`;};
   const refreshToken=sessionStorage.getItem('codex_force_refresh')||'';
   const addVersion=(path,version='')=>{if(/^https?:/i.test(path))return path;const url=new URL(path,location.href);if(version)url.searchParams.set('v',version);if(refreshToken)url.searchParams.set('refresh',refreshToken);return url.href;};
   const fetchJson=async(path,version='')=>{const response=await fetch(addVersion(path,version),{cache:'no-store'});if(!response.ok)throw new Error(`${path}: HTTP ${response.status}`);return response.json();};
   const loadScript=(path,version='')=>new Promise((resolve,reject)=>{const script=document.createElement('script');script.src=addVersion(path,version);script.defer=false;script.onload=resolve;script.onerror=()=>reject(new Error(`Не загружен модуль ${path}`));document.body.appendChild(script);});
   const readMany=async(spec,version)=>Array.isArray(spec)?Promise.all(spec.map(path=>fetchJson(path,version))):[await fetchJson(spec,version)];
   const mergeObjects=list=>Object.assign({},...list);
-  async function registerImageCache(){if(!('serviceWorker'in navigator)||location.protocol==='file:')return;try{await navigator.serviceWorker.register('sw.js?v=3.6.0',{scope:'./',updateViaCache:'none'});}catch(error){console.warn('[Codex cache]',error);}}
+  async function registerImageCache(){if(!('serviceWorker'in navigator)||location.protocol==='file:')return;try{await navigator.serviceWorker.register('sw.js?v=3.7.0',{scope:'./',updateViaCache:'none'});}catch(error){console.warn('[Codex cache]',error);}}
   async function boot(){
     try{
       await registerImageCache();showBoot('Открываем Codex','Загружаем эпохи, кампании, карточки и учебные системы…');
-      const manifest=await fetchJson('data/content-manifest.json');const version=manifest.version||'3.6.0';const d=manifest.datasets;
+      const manifest=await fetchJson('data/content-manifest.json');const version=manifest.version||'3.7.0';const d=manifest.datasets;
       window.CODEX_VENDOR_READY={leaflet:manifest.vendors?.leaflet?loadScript(manifest.vendors.leaflet,version).catch(error=>{console.warn('[Codex vendor]',error);return false;}):Promise.resolve(false)};
       const [cardSets,relations,campaignSets,poolSets,quizSets,storySets,mastery,packs,collection,mapEntries,daily,lessonSets,eras,campaignCatalog,worldTimeline]=await Promise.all([
         Promise.all(d.cards.map(path=>fetchJson(path,version))),fetchJson(d.relations,version),readMany(d.campaigns||d.campaign,version),readMany(d.pools,version),readMany(d.quizzes,version),readMany(d.stories,version),fetchJson(d.mastery,version),fetchJson(d.packs,version),fetchJson(d.collection,version),

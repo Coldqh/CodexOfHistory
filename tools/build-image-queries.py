@@ -8,7 +8,7 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "3.6.0"
+VERSION = "3.7.0"
 
 GROUP_CONTEXT = {
     "ROME": {
@@ -46,6 +46,10 @@ GROUP_CONTEXT = {
     "BRONZE_INTERNATIONAL": {
         "terms": ["бронз", "bronze age", "амарн", "amarna", "угарит", "ugarit", "алаш", "alashiya", "кипр", "cyprus", "хетт", "hittite", "егип", "egypt", "дипломат", "trade"],
         "base": [("ru", "Амарнские письма"), ("en", "Late Bronze Age collapse")],
+    },
+    "BRONZE_WORLD": {
+        "terms": ["бронз", "bronze age", "вавилон", "babylon", "егип", "egypt", "хетт", "hittite", "микен", "mycenaean", "угарит", "ugarit", "кипр", "cyprus", "дворец", "palace"],
+        "base": [("ru", "Бронзовый век"), ("en", "Late Bronze Age")],
     },
     "BRONZE_COLLAPSE": {
         "terms": ["бронз", "bronze age", "collapse", "катастроф", "угарит", "ugarit", "хаттуса", "hattusa", "микен", "mycenaean", "мединет", "sea peoples", "кипр", "cyprus", "iron age"],
@@ -347,7 +351,7 @@ def group_for(path: Path, card: dict) -> str:
     p = path.as_posix()
     for token, group in [
         ("/rome/", "ROME"), ("/mesopotamia/", "MESOPOTAMIA"), ("/egypt/", "EGYPT"),
-        ("/indus/", "INDUS"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"), ("/aegean/", "AEGEAN_BRONZE"), ("/international-bronze/", "BRONZE_INTERNATIONAL"), ("/bronze-collapse/", "BRONZE_COLLAPSE"),
+        ("/indus/", "INDUS"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"), ("/aegean/", "AEGEAN_BRONZE"), ("/international-bronze/", "BRONZE_INTERNATIONAL"), ("/bronze-collapse/", "BRONZE_COLLAPSE"), ("/bronze-world/", "BRONZE_WORLD"),
     ]:
         if token in p:
             return group
@@ -445,7 +449,7 @@ def main() -> None:
 
     payload = {
         "version": VERSION,
-        "generatedAt": "2026-07-13",
+        "generatedAt": "2026-07-14",
         "strategy": "Semantically validated Wikipedia PageImages + Wikimedia Commons metadata with local fallback",
         "count": len(cards_out),
         "cards": cards_out,

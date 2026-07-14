@@ -1,0 +1,335 @@
+{
+  "campaignId": "ASSYRIA_BABYLON",
+  "campaigns": {
+    "ASSYRIA_BABYLON": {
+      "id": "ASSYRIA_BABYLON",
+      "title": "Ассирия и Нововавилонское царство",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "ASB_POOL_01",
+      "campaign": "ASSYRIA_BABYLON",
+      "title": "Мир после бронзового кризиса",
+      "unlockMission": "ASB_01_02",
+      "cardIds": [
+        "ASB_A_01_01",
+        "ASB_A_01_02",
+        "ASB_A_01_03",
+        "ASB_A_01_04"
+      ]
+    },
+    {
+      "id": "ASB_POOL_02",
+      "campaign": "ASSYRIA_BABYLON",
+      "title": "Возрождение Ассирии",
+      "unlockMission": "ASB_02_02",
+      "cardIds": [
+        "ASB_A_02_01",
+        "ASB_A_02_02",
+        "ASB_A_02_03",
+        "ASB_A_02_04"
+      ]
+    },
+    {
+      "id": "ASB_POOL_03",
+      "campaign": "ASSYRIA_BABYLON",
+      "title": "Кальху и дворец Ашшурнацирапала II",
+      "unlockMission": "ASB_03_02",
+      "cardIds": [
+        "ASB_A_03_01",
+        "ASB_A_03_02",
+        "ASB_A_03_03",
+        "ASB_A_03_04"
+      ]
+    },
+    {
+      "id": "ASB_POOL_04",
+      "campaign": "ASSYRIA_BABYLON",
+      "title": "Имперская машина",
+      "unlockMission": "ASB_04_02",
+      "cardIds": [
+        "ASB_A_04_01",
+        "ASB_A_04_02",
+        "ASB_A_04_03",
+        "ASB_A_04_04"
+      ]
+    },
+    {
+      "id": "ASB_POOL_05",
+      "campaign": "ASSYRIA_BABYLON",
+      "title": "Армия, осады и страх",
+      "unlockMission": "ASB_05_02",
+      "cardIds": [
+        "ASB_A_05_01",
+        "ASB_A_05_02",
+        "ASB_A_05_03",
+        "ASB_A_05_04"
+      ]
+    },
+    {
+      "id": "ASB_POOL_06",
+      "campaign": "ASSYRIA_BABYLON",
+      "title": "Тиглатпаласар III и Саргон II",
+      "unlockMission": "ASB_06_02",
+      "cardIds": [
+        "ASB_A_06_01",
+        "ASB_A_06_02",
+        "ASB_A_06_03",
+        "ASB_A_06_04"
+      ]
+    },
+    {
+      "id": "ASB_POOL_07",
+      "campaign": "ASSYRIA_BABYLON",
+      "title": "Синаххериб и Ниневия",
+      "unlockMission": "ASB_07_02",
+      "cardIds": [
+        "ASB_A_07_01",
+        "ASB_A_07_02",
+        "ASB_A_07_03",
+        "ASB_A_07_04"
+      ]
+    },
+    {
+      "id": "ASB_POOL_08",
+      "campaign": "ASSYRIA_BABYLON",
+      "title": "Асархаддон и Ашшурбанипал",
+      "unlockMission": "ASB_08_02",
+      "cardIds": [
+        "ASB_A_08_01",
+        "ASB_A_08_02",
+        "ASB_A_08_03",
+        "ASB_A_08_04"
+      ]
+    },
+    {
+      "id": "ASB_POOL_09",
+      "campaign": "ASSYRIA_BABYLON",
+      "title": "Падение Ассирии",
+      "unlockMission": "ASB_09_02",
+      "cardIds": [
+        "ASB_A_09_01",
+        "ASB_A_09_02",
+        "ASB_A_09_03",
+        "ASB_A_09_04"
+      ]
+    },
+    {
+      "id": "ASB_POOL_10",
+      "campaign": "ASSYRIA_BABYLON",
+      "title": "Нововавилонское царство",
+      "unlockMission": "ASB_10_02",
+      "cardIds": [
+        "ASB_A_10_01",
+        "ASB_A_10_02",
+        "ASB_A_10_03",
+        "ASB_A_10_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "ASB_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_01",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_01",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_01",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_01",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_02",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_02",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_02",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_02",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_03",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_03",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_03",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_03",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_04",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_04",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_04",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_04",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_05",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_05",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_05",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_05",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_06",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_06",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_06",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_06",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_07",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_07",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_07",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_07",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_08",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_08",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_08",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_08",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_09",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_09",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_09",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_09",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_10",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_10",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_10",
+      "campaign": "ASSYRIA_BABYLON"
+    },
+    "ASB_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "ASB_POOL_10",
+      "campaign": "ASSYRIA_BABYLON"
+    }
+  }
+}

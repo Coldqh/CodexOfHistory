@@ -8,7 +8,7 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "3.7.0"
+VERSION = "4.0.0"
 
 GROUP_CONTEXT = {
     "ROME": {
@@ -54,6 +54,10 @@ GROUP_CONTEXT = {
     "BRONZE_COLLAPSE": {
         "terms": ["бронз", "bronze age", "collapse", "катастроф", "угарит", "ugarit", "хаттуса", "hattusa", "микен", "mycenaean", "мединет", "sea peoples", "кипр", "cyprus", "iron age"],
         "base": [("ru", "Катастрофа бронзового века"), ("en", "Late Bronze Age collapse")],
+    },
+    "ASSYRIA_BABYLON": {
+        "terms": ["ассир", "assyria", "assyrian", "нинев", "nineveh", "нимруд", "nimrud", "кальху", "вавилон", "babylon", "neo-babylonian", "iron age", "месопот"],
+        "base": [("ru", "Новоассирийская держава"), ("en", "Neo-Assyrian Empire"), ("en", "Neo-Babylonian Empire")],
     },
     "MIXED": {
         "terms": ["древн", "ancient", "цивилизац", "civilization", "archaeolog", "археолог", "river", "река", "письмен"],
@@ -174,6 +178,20 @@ TYPE_FALLBACK = {
         "RESOURCE": [("en", "Oxhide ingot"), ("en", "Uluburun shipwreck")],
         "ROUTE": [("en", "Bronze Age trade"), ("en", "Eastern Mediterranean")],
     },
+    "ASSYRIA_BABYLON": {
+        "ARTIFACT": [("en", "Assyrian sculpture"), ("en", "Neo-Assyrian Empire")],
+        "TEXT": [("en", "Library of Ashurbanipal"), ("en", "Assyrian royal inscriptions")],
+        "LAW": [("en", "Succession Treaties of Esarhaddon"), ("en", "Neo-Assyrian Empire")],
+        "BUILDING": [("en", "Nineveh"), ("en", "Nimrud"), ("en", "Babylon")],
+        "RELIGION": [("en", "Ashur (god)"), ("en", "Marduk")],
+        "BATTLE": [("en", "Siege of Lachish"), ("en", "Battle of Carchemish")],
+        "WAR": [("en", "Neo-Assyrian Empire"), ("en", "Assyrian army")],
+        "STATE": [("en", "Neo-Assyrian Empire"), ("en", "Neo-Babylonian Empire")],
+        "SYSTEM": [("en", "Neo-Assyrian Empire"), ("en", "Neo-Assyrian state communications")],
+        "EVENT": [("en", "Fall of Nineveh"), ("en", "Fall of Babylon")],
+        "SOURCE": [("en", "Assyrian royal inscriptions"), ("en", "Babylonian Chronicles")],
+        "CONCEPT": [("en", "Neo-Assyrian Empire"), ("en", "Neo-Babylonian Empire")],
+    },
     "BRONZE_COLLAPSE": {
         "ARTIFACT": [("en", "Late Bronze Age collapse"), ("en", "Sea Peoples")],
         "TEXT": [("en", "Medinet Habu inscriptions"), ("en", "Ugarit")],
@@ -279,6 +297,21 @@ MANUAL_BY_ID = {
 }
 
 MANUAL_BY_TITLE = {
+    "Ашшур как город и бог": [("en", "Assur"), ("en", "Ashur (god)")],
+    "Кальху": [("en", "Nimrud")],
+    "Дур-Шаррукин": [("en", "Dur-Sharrukin")],
+    "Ниневия Синаххериба": [("en", "Nineveh")],
+    "Дворец без соперника": [("en", "Southwest Palace of Sennacherib")],
+    "Осада Лахиша": [("en", "Siege of Lachish")],
+    "Лахишские рельефы": [("en", "Lachish reliefs")],
+    "Падение Самарии": [("en", "Fall of Samaria")],
+    "Падение Ниневии": [("en", "Fall of Nineveh")],
+    "Нововавилонское царство": [("en", "Neo-Babylonian Empire")],
+    "Навуходоносор II": [("en", "Nebuchadnezzar II")],
+    "Ворота Иштар": [("en", "Ishtar Gate")],
+    "Этеменанки": [("en", "Etemenanki")],
+    "Набонид": [("en", "Nabonidus")],
+    "Цилиндр Кира": [("en", "Cyrus Cylinder")],
     "Основание Рима": [("ru", "Основание Рима"), ("en", "Founding of Rome")],
     "Ромул": [("ru", "Ромул и Рем"), ("en", "Romulus")],
     "Рем": [("ru", "Ромул и Рем"), ("en", "Remus")],
@@ -351,7 +384,7 @@ def group_for(path: Path, card: dict) -> str:
     p = path.as_posix()
     for token, group in [
         ("/rome/", "ROME"), ("/mesopotamia/", "MESOPOTAMIA"), ("/egypt/", "EGYPT"),
-        ("/indus/", "INDUS"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"), ("/aegean/", "AEGEAN_BRONZE"), ("/international-bronze/", "BRONZE_INTERNATIONAL"), ("/bronze-collapse/", "BRONZE_COLLAPSE"), ("/bronze-world/", "BRONZE_WORLD"),
+        ("/indus/", "INDUS"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"), ("/aegean/", "AEGEAN_BRONZE"), ("/international-bronze/", "BRONZE_INTERNATIONAL"), ("/bronze-collapse/", "BRONZE_COLLAPSE"), ("/bronze-world/", "BRONZE_WORLD"), ("/assyria-babylon/", "ASSYRIA_BABYLON"),
     ]:
         if token in p:
             return group

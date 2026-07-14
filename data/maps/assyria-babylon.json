@@ -1,0 +1,306 @@
+{
+  "points": {
+    "ASSUR": [
+      35.456,
+      43.262
+    ],
+    "KALHU": [
+      36.099,
+      43.329
+    ],
+    "DUR_SHARRUKIN": [
+      36.51,
+      43.229
+    ],
+    "NINEVEH": [
+      36.359,
+      43.152
+    ],
+    "ARBELA": [
+      36.191,
+      44.009
+    ],
+    "HARRAN": [
+      36.864,
+      39.031
+    ],
+    "BABYLON": [
+      32.536,
+      44.421
+    ],
+    "BORSIPPA": [
+      32.392,
+      44.342
+    ],
+    "URUK": [
+      31.324,
+      45.637
+    ],
+    "SIPPAR": [
+      33.057,
+      44.252
+    ],
+    "LACHISH": [
+      31.565,
+      34.849
+    ],
+    "JERUSALEM": [
+      31.778,
+      35.235
+    ],
+    "SAMARIA": [
+      32.276,
+      35.198
+    ],
+    "DAMASCUS": [
+      33.513,
+      36.292
+    ],
+    "CARCHEMISH": [
+      36.829,
+      38.015
+    ],
+    "MEMPHIS": [
+      29.849,
+      31.254
+    ],
+    "THEBES": [
+      25.718,
+      32.658
+    ],
+    "SUSA": [
+      32.189,
+      48.257
+    ],
+    "TAYMA": [
+      27.621,
+      38.548
+    ],
+    "TUSHPA": [
+      38.501,
+      43.372
+    ],
+    "ZAGROS": [
+      35.5,
+      46.0
+    ],
+    "LEVANT": [
+      33.0,
+      35.3
+    ],
+    "MESOPOTAMIA": [
+      34.0,
+      43.8
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "ASB_S_01_01": "MESOPOTAMIA",
+    "ASB_S_01_02": "ASSUR",
+    "ASB_S_01_03": "ASSUR",
+    "ASB_S_01_04": "HARRAN",
+    "ASB_S_01_05": "CARCHEMISH",
+    "ASB_S_01_06": "BABYLON",
+    "ASB_S_01_07": "ASSUR",
+    "ASB_S_01_08": "MESOPOTAMIA",
+    "ASB_A_01_01": "ASSUR",
+    "ASB_A_01_02": "DAMASCUS",
+    "ASB_A_01_03": "HARRAN",
+    "ASB_A_01_04": "ASSUR",
+    "ASB_S_02_01": "ASSUR",
+    "ASB_S_02_02": "ASSUR",
+    "ASB_S_02_03": "ASSUR",
+    "ASB_S_02_04": "KALHU",
+    "ASB_S_02_05": "ASSUR",
+    "ASB_S_02_06": "HARRAN",
+    "ASB_S_02_07": "ASSUR",
+    "ASB_S_02_08": "HARRAN",
+    "ASB_A_02_01": "KALHU",
+    "ASB_A_02_02": "ASSUR",
+    "ASB_A_02_03": "HARRAN",
+    "ASB_A_02_04": "HARRAN",
+    "ASB_S_03_01": "KALHU",
+    "ASB_S_03_02": "KALHU",
+    "ASB_S_03_03": "KALHU",
+    "ASB_S_03_04": "KALHU",
+    "ASB_S_03_05": "KALHU",
+    "ASB_S_03_06": "KALHU",
+    "ASB_S_03_07": "KALHU",
+    "ASB_S_03_08": "KALHU",
+    "ASB_A_03_01": "KALHU",
+    "ASB_A_03_02": "KALHU",
+    "ASB_A_03_03": "KALHU",
+    "ASB_A_03_04": "KALHU",
+    "ASB_S_04_01": "NINEVEH",
+    "ASB_S_04_02": "NINEVEH",
+    "ASB_S_04_03": "MESOPOTAMIA",
+    "ASB_S_04_04": "NINEVEH",
+    "ASB_S_04_05": "SAMARIA",
+    "ASB_S_04_06": "NINEVEH",
+    "ASB_S_04_07": "DAMASCUS",
+    "ASB_S_04_08": "LEVANT",
+    "ASB_A_04_01": "NINEVEH",
+    "ASB_A_04_02": "SAMARIA",
+    "ASB_A_04_03": "HARRAN",
+    "ASB_A_04_04": "NINEVEH",
+    "ASB_S_05_01": "NINEVEH",
+    "ASB_S_05_02": "NINEVEH",
+    "ASB_S_05_03": "LACHISH",
+    "ASB_S_05_04": "LACHISH",
+    "ASB_S_05_05": "LACHISH",
+    "ASB_S_05_06": "NINEVEH",
+    "ASB_S_05_07": "NINEVEH",
+    "ASB_S_05_08": "MESOPOTAMIA",
+    "ASB_A_05_01": "NINEVEH",
+    "ASB_A_05_02": "MESOPOTAMIA",
+    "ASB_A_05_03": "NINEVEH",
+    "ASB_A_05_04": "LACHISH",
+    "ASB_S_06_01": "NINEVEH",
+    "ASB_S_06_02": "NINEVEH",
+    "ASB_S_06_03": "DAMASCUS",
+    "ASB_S_06_04": "SAMARIA",
+    "ASB_S_06_05": "DUR_SHARRUKIN",
+    "ASB_S_06_06": "DUR_SHARRUKIN",
+    "ASB_S_06_07": "NINEVEH",
+    "ASB_S_06_08": "TUSHPA",
+    "ASB_A_06_01": "NINEVEH",
+    "ASB_A_06_02": "DUR_SHARRUKIN",
+    "ASB_A_06_03": "DUR_SHARRUKIN",
+    "ASB_A_06_04": "SAMARIA",
+    "ASB_S_07_01": "NINEVEH",
+    "ASB_S_07_02": "NINEVEH",
+    "ASB_S_07_03": "NINEVEH",
+    "ASB_S_07_04": "NINEVEH",
+    "ASB_S_07_05": "LACHISH",
+    "ASB_S_07_06": "JERUSALEM",
+    "ASB_S_07_07": "BABYLON",
+    "ASB_S_07_08": "NINEVEH",
+    "ASB_A_07_01": "NINEVEH",
+    "ASB_A_07_02": "NINEVEH",
+    "ASB_A_07_03": "NINEVEH",
+    "ASB_A_07_04": "JERUSALEM",
+    "ASB_S_08_01": "NINEVEH",
+    "ASB_S_08_02": "MEMPHIS",
+    "ASB_S_08_03": "NINEVEH",
+    "ASB_S_08_04": "NINEVEH",
+    "ASB_S_08_05": "NINEVEH",
+    "ASB_S_08_06": "NINEVEH",
+    "ASB_S_08_07": "BABYLON",
+    "ASB_S_08_08": "SUSA",
+    "ASB_A_08_01": "NINEVEH",
+    "ASB_A_08_02": "NINEVEH",
+    "ASB_A_08_03": "NINEVEH",
+    "ASB_A_08_04": "NINEVEH",
+    "ASB_S_09_01": "NINEVEH",
+    "ASB_S_09_02": "BABYLON",
+    "ASB_S_09_03": "ZAGROS",
+    "ASB_S_09_04": "ASSUR",
+    "ASB_S_09_05": "NINEVEH",
+    "ASB_S_09_06": "HARRAN",
+    "ASB_S_09_07": "BABYLON",
+    "ASB_S_09_08": "HARRAN",
+    "ASB_A_09_01": "BABYLON",
+    "ASB_A_09_02": "NINEVEH",
+    "ASB_A_09_03": "HARRAN",
+    "ASB_A_09_04": "NINEVEH",
+    "ASB_S_10_01": "BABYLON",
+    "ASB_S_10_02": "BABYLON",
+    "ASB_S_10_03": "CARCHEMISH",
+    "ASB_S_10_04": "BABYLON",
+    "ASB_S_10_05": "BABYLON",
+    "ASB_S_10_06": "JERUSALEM",
+    "ASB_S_10_07": "BABYLON",
+    "ASB_S_10_08": "BABYLON",
+    "ASB_A_10_01": "BABYLON",
+    "ASB_A_10_02": "BABYLON",
+    "ASB_A_10_03": "TAYMA",
+    "ASB_A_10_04": "BABYLON"
+  },
+  "chapters": {
+    "ASB_CHAPTER_01": {
+      "title": "Мир после бронзового кризиса",
+      "center": [
+        35.456,
+        43.262
+      ],
+      "zoom": 5
+    },
+    "ASB_CHAPTER_02": {
+      "title": "Возрождение Ассирии",
+      "center": [
+        35.456,
+        43.262
+      ],
+      "zoom": 5
+    },
+    "ASB_CHAPTER_03": {
+      "title": "Кальху и дворец Ашшурнацирапала II",
+      "center": [
+        36.099,
+        43.329
+      ],
+      "zoom": 5
+    },
+    "ASB_CHAPTER_04": {
+      "title": "Имперская машина",
+      "center": [
+        36.359,
+        43.152
+      ],
+      "zoom": 5
+    },
+    "ASB_CHAPTER_05": {
+      "title": "Армия, осады и страх",
+      "center": [
+        31.565,
+        34.849
+      ],
+      "zoom": 5
+    },
+    "ASB_CHAPTER_06": {
+      "title": "Тиглатпаласар III и Саргон II",
+      "center": [
+        33.513,
+        36.292
+      ],
+      "zoom": 5
+    },
+    "ASB_CHAPTER_07": {
+      "title": "Синаххериб и Ниневия",
+      "center": [
+        36.359,
+        43.152
+      ],
+      "zoom": 5
+    },
+    "ASB_CHAPTER_08": {
+      "title": "Асархаддон и Ашшурбанипал",
+      "center": [
+        36.359,
+        43.152
+      ],
+      "zoom": 5
+    },
+    "ASB_CHAPTER_09": {
+      "title": "Падение Ассирии",
+      "center": [
+        35.456,
+        43.262
+      ],
+      "zoom": 5
+    },
+    "ASB_CHAPTER_10": {
+      "title": "Нововавилонское царство",
+      "center": [
+        32.536,
+        44.421
+      ],
+      "zoom": 5
+    }
+  },
+  "missionCenter": [
+    34.5,
+    42.5
+  ],
+  "missionZoom": 5
+}

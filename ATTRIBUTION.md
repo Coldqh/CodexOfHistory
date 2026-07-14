@@ -277,3 +277,7 @@
 ## v4.4 — Чжоу и Сражающиеся царства
 
 Локальные SVG-обложки 120 карточек и обложка пака созданы для Codex of History. Источники: Metropolitan Museum of Art, Smithsonian National Museum of Asian Art, British Museum, Smarthistory и Stanford Encyclopedia of Philosophy.
+
+## v4.5 — Ведийская Индия и ранние государства
+
+Локальные SVG-обложки 120 карточек и обложка пака созданы для Codex of History. Источники: Metropolitan Museum of Art, Smarthistory и Vedic Heritage Portal.

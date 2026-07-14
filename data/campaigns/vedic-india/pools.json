@@ -1,0 +1,335 @@
+{
+  "campaignId": "INDIA_VEDIC",
+  "campaigns": {
+    "INDIA_VEDIC": {
+      "id": "INDIA_VEDIC",
+      "title": "Ведийская Индия и ранние государства",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "VED_POOL_01",
+      "campaign": "INDIA_VEDIC",
+      "title": "Источники и границы ведийского периода",
+      "unlockMission": "VED_01_02",
+      "cardIds": [
+        "VED_A_01_01",
+        "VED_A_01_02",
+        "VED_A_01_03",
+        "VED_A_01_04"
+      ]
+    },
+    {
+      "id": "VED_POOL_02",
+      "campaign": "INDIA_VEDIC",
+      "title": "Ригведа и устная традиция",
+      "unlockMission": "VED_02_02",
+      "cardIds": [
+        "VED_A_02_01",
+        "VED_A_02_02",
+        "VED_A_02_03",
+        "VED_A_02_04"
+      ]
+    },
+    {
+      "id": "VED_POOL_03",
+      "campaign": "INDIA_VEDIC",
+      "title": "Скот, колесницы и хозяйство",
+      "unlockMission": "VED_03_02",
+      "cardIds": [
+        "VED_A_03_01",
+        "VED_A_03_02",
+        "VED_A_03_03",
+        "VED_A_03_04"
+      ]
+    },
+    {
+      "id": "VED_POOL_04",
+      "campaign": "INDIA_VEDIC",
+      "title": "Род, вождь и собрание",
+      "unlockMission": "VED_04_02",
+      "cardIds": [
+        "VED_A_04_01",
+        "VED_A_04_02",
+        "VED_A_04_03",
+        "VED_A_04_04"
+      ]
+    },
+    {
+      "id": "VED_POOL_05",
+      "campaign": "INDIA_VEDIC",
+      "title": "Жертвоприношение и ведийские божества",
+      "unlockMission": "VED_05_02",
+      "cardIds": [
+        "VED_A_05_01",
+        "VED_A_05_02",
+        "VED_A_05_03",
+        "VED_A_05_04"
+      ]
+    },
+    {
+      "id": "VED_POOL_06",
+      "campaign": "INDIA_VEDIC",
+      "title": "Куру, Панчала и движение к Ганге",
+      "unlockMission": "VED_06_02",
+      "cardIds": [
+        "VED_A_06_01",
+        "VED_A_06_02",
+        "VED_A_06_03",
+        "VED_A_06_04"
+      ]
+    },
+    {
+      "id": "VED_POOL_07",
+      "campaign": "INDIA_VEDIC",
+      "title": "Поздние Веды и новые идеи",
+      "unlockMission": "VED_07_02",
+      "cardIds": [
+        "VED_A_07_01",
+        "VED_A_07_02",
+        "VED_A_07_03",
+        "VED_A_07_04"
+      ]
+    },
+    {
+      "id": "VED_POOL_08",
+      "campaign": "INDIA_VEDIC",
+      "title": "Варны, домохозяйство и общество",
+      "unlockMission": "VED_08_02",
+      "cardIds": [
+        "VED_A_08_01",
+        "VED_A_08_02",
+        "VED_A_08_03",
+        "VED_A_08_04"
+      ]
+    },
+    {
+      "id": "VED_POOL_09",
+      "campaign": "INDIA_VEDIC",
+      "title": "Царский ритуал и территориальная власть",
+      "unlockMission": "VED_09_02",
+      "cardIds": [
+        "VED_A_09_01",
+        "VED_A_09_02",
+        "VED_A_09_03",
+        "VED_A_09_04"
+      ]
+    },
+    {
+      "id": "VED_POOL_10",
+      "campaign": "INDIA_VEDIC",
+      "title": "Ранние государства и вторая урбанизация",
+      "unlockMission": "VED_10_02",
+      "cardIds": [
+        "VED_A_10_01",
+        "VED_A_10_02",
+        "VED_A_10_03",
+        "VED_A_10_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "VED_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_01",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_01",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_01",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_01",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_02",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_02",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_02",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_02",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_03",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_03",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_03",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_03",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_04",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_04",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_04",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_04",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_05",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_05",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_05",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_05",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_06",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_06",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_06",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_06",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_07",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_07",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_07",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_07",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_08",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_08",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_08",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_08",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_09",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_09",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_09",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_09",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_10",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_10",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_10",
+      "campaign": "INDIA_VEDIC"
+    },
+    "VED_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "VED_POOL_10",
+      "campaign": "INDIA_VEDIC"
+    }
+  }
+}

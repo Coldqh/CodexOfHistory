@@ -1,0 +1,286 @@
+{
+  "points": {
+    "SINDHU": [
+      30.7,
+      72.4
+    ],
+    "SAPTA": [
+      31.2,
+      74.5
+    ],
+    "SWAT": [
+      34.8,
+      72.3
+    ],
+    "TAKSASILA": [
+      33.74,
+      72.84
+    ],
+    "KURUKSHETRA": [
+      29.97,
+      76.88
+    ],
+    "HASTINAPURA": [
+      29.16,
+      78.02
+    ],
+    "DOAB": [
+      28.0,
+      78.0
+    ],
+    "ATRAJIKHERA": [
+      27.7,
+      78.7
+    ],
+    "MATHURA": [
+      27.49,
+      77.67
+    ],
+    "KAUSHAMBI": [
+      25.34,
+      81.39
+    ],
+    "VARANASI": [
+      25.32,
+      82.97
+    ],
+    "AYODHYA": [
+      26.8,
+      82.2
+    ],
+    "VIDEHA": [
+      26.1,
+      86.0
+    ],
+    "RAJGIR": [
+      25.0,
+      85.42
+    ],
+    "CHAMPA": [
+      25.25,
+      87.0
+    ],
+    "UJJAIN": [
+      23.18,
+      75.78
+    ],
+    "GANGA": [
+      25.5,
+      82.0
+    ],
+    "NORTH_INDIA": [
+      27.2,
+      79.0
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "VED_S_01_01": "NORTH_INDIA",
+    "VED_S_01_02": "SINDHU",
+    "VED_S_01_03": "SINDHU",
+    "VED_S_01_04": "SAPTA",
+    "VED_S_01_05": "NORTH_INDIA",
+    "VED_S_01_06": "SWAT",
+    "VED_S_01_07": "SAPTA",
+    "VED_S_01_08": "SINDHU",
+    "VED_A_01_01": "SWAT",
+    "VED_A_01_02": "SWAT",
+    "VED_A_01_03": "SINDHU",
+    "VED_A_01_04": "NORTH_INDIA",
+    "VED_S_02_01": "SAPTA",
+    "VED_S_02_02": "NORTH_INDIA",
+    "VED_S_02_03": "NORTH_INDIA",
+    "VED_S_02_04": "SAPTA",
+    "VED_S_02_05": "SAPTA",
+    "VED_S_02_06": "SAPTA",
+    "VED_S_02_07": "NORTH_INDIA",
+    "VED_S_02_08": "SAPTA",
+    "VED_A_02_01": "NORTH_INDIA",
+    "VED_A_02_02": "SAPTA",
+    "VED_A_02_03": "KURUKSHETRA",
+    "VED_A_02_04": "SAPTA",
+    "VED_S_03_01": "SAPTA",
+    "VED_S_03_02": "SINDHU",
+    "VED_S_03_03": "SAPTA",
+    "VED_S_03_04": "SAPTA",
+    "VED_S_03_05": "SAPTA",
+    "VED_S_03_06": "SINDHU",
+    "VED_S_03_07": "DOAB",
+    "VED_S_03_08": "SAPTA",
+    "VED_A_03_01": "SINDHU",
+    "VED_A_03_02": "SAPTA",
+    "VED_A_03_03": "DOAB",
+    "VED_A_03_04": "SINDHU",
+    "VED_S_04_01": "SAPTA",
+    "VED_S_04_02": "SAPTA",
+    "VED_S_04_03": "SAPTA",
+    "VED_S_04_04": "SAPTA",
+    "VED_S_04_05": "SAPTA",
+    "VED_S_04_06": "SAPTA",
+    "VED_S_04_07": "SAPTA",
+    "VED_S_04_08": "SAPTA",
+    "VED_A_04_01": "SAPTA",
+    "VED_A_04_02": "SAPTA",
+    "VED_A_04_03": "SAPTA",
+    "VED_A_04_04": "SAPTA",
+    "VED_S_05_01": "SAPTA",
+    "VED_S_05_02": "SAPTA",
+    "VED_S_05_03": "SAPTA",
+    "VED_S_05_04": "SAPTA",
+    "VED_S_05_05": "SAPTA",
+    "VED_S_05_06": "SAPTA",
+    "VED_S_05_07": "SAPTA",
+    "VED_S_05_08": "SAPTA",
+    "VED_A_05_01": "KURUKSHETRA",
+    "VED_A_05_02": "KURUKSHETRA",
+    "VED_A_05_03": "KURUKSHETRA",
+    "VED_A_05_04": "NORTH_INDIA",
+    "VED_S_06_01": "KURUKSHETRA",
+    "VED_S_06_02": "ATRAJIKHERA",
+    "VED_S_06_03": "DOAB",
+    "VED_S_06_04": "HASTINAPURA",
+    "VED_S_06_05": "ATRAJIKHERA",
+    "VED_S_06_06": "GANGA",
+    "VED_S_06_07": "HASTINAPURA",
+    "VED_S_06_08": "ATRAJIKHERA",
+    "VED_A_06_01": "DOAB",
+    "VED_A_06_02": "ATRAJIKHERA",
+    "VED_A_06_03": "HASTINAPURA",
+    "VED_A_06_04": "KURUKSHETRA",
+    "VED_S_07_01": "KURUKSHETRA",
+    "VED_S_07_02": "KURUKSHETRA",
+    "VED_S_07_03": "NORTH_INDIA",
+    "VED_S_07_04": "KURUKSHETRA",
+    "VED_S_07_05": "VIDEHA",
+    "VED_S_07_06": "VIDEHA",
+    "VED_S_07_07": "VIDEHA",
+    "VED_S_07_08": "VIDEHA",
+    "VED_A_07_01": "VIDEHA",
+    "VED_A_07_02": "KURUKSHETRA",
+    "VED_A_07_03": "VIDEHA",
+    "VED_A_07_04": "KURUKSHETRA",
+    "VED_S_08_01": "KURUKSHETRA",
+    "VED_S_08_02": "KURUKSHETRA",
+    "VED_S_08_03": "DOAB",
+    "VED_S_08_04": "DOAB",
+    "VED_S_08_05": "NORTH_INDIA",
+    "VED_S_08_06": "DOAB",
+    "VED_S_08_07": "KURUKSHETRA",
+    "VED_S_08_08": "NORTH_INDIA",
+    "VED_A_08_01": "SAPTA",
+    "VED_A_08_02": "NORTH_INDIA",
+    "VED_A_08_03": "NORTH_INDIA",
+    "VED_A_08_04": "NORTH_INDIA",
+    "VED_S_09_01": "KURUKSHETRA",
+    "VED_S_09_02": "KURUKSHETRA",
+    "VED_S_09_03": "KURUKSHETRA",
+    "VED_S_09_04": "DOAB",
+    "VED_S_09_05": "DOAB",
+    "VED_S_09_06": "KURUKSHETRA",
+    "VED_S_09_07": "DOAB",
+    "VED_S_09_08": "VIDEHA",
+    "VED_A_09_01": "VIDEHA",
+    "VED_A_09_02": "NORTH_INDIA",
+    "VED_A_09_03": "KAUSHAMBI",
+    "VED_A_09_04": "KURUKSHETRA",
+    "VED_S_10_01": "NORTH_INDIA",
+    "VED_S_10_02": "RAJGIR",
+    "VED_S_10_03": "AYODHYA",
+    "VED_S_10_04": "KAUSHAMBI",
+    "VED_S_10_05": "UJJAIN",
+    "VED_S_10_06": "NORTH_INDIA",
+    "VED_S_10_07": "GANGA",
+    "VED_S_10_08": "RAJGIR",
+    "VED_A_10_01": "RAJGIR",
+    "VED_A_10_02": "GANGA",
+    "VED_A_10_03": "KAUSHAMBI",
+    "VED_A_10_04": "GANGA"
+  },
+  "chapters": {
+    "VED_CHAPTER_01": {
+      "title": "Источники и границы ведийского периода",
+      "center": [
+        30.7,
+        72.4
+      ],
+      "zoom": 7
+    },
+    "VED_CHAPTER_02": {
+      "title": "Ригведа и устная традиция",
+      "center": [
+        31.2,
+        74.5
+      ],
+      "zoom": 7
+    },
+    "VED_CHAPTER_03": {
+      "title": "Скот, колесницы и хозяйство",
+      "center": [
+        31.2,
+        74.5
+      ],
+      "zoom": 7
+    },
+    "VED_CHAPTER_04": {
+      "title": "Род, вождь и собрание",
+      "center": [
+        31.2,
+        74.5
+      ],
+      "zoom": 7
+    },
+    "VED_CHAPTER_05": {
+      "title": "Жертвоприношение и ведийские божества",
+      "center": [
+        31.2,
+        74.5
+      ],
+      "zoom": 7
+    },
+    "VED_CHAPTER_06": {
+      "title": "Куру, Панчала и движение к Ганге",
+      "center": [
+        29.97,
+        76.88
+      ],
+      "zoom": 7
+    },
+    "VED_CHAPTER_07": {
+      "title": "Поздние Веды и новые идеи",
+      "center": [
+        29.97,
+        76.88
+      ],
+      "zoom": 7
+    },
+    "VED_CHAPTER_08": {
+      "title": "Варны, домохозяйство и общество",
+      "center": [
+        29.97,
+        76.88
+      ],
+      "zoom": 7
+    },
+    "VED_CHAPTER_09": {
+      "title": "Царский ритуал и территориальная власть",
+      "center": [
+        29.97,
+        76.88
+      ],
+      "zoom": 7
+    },
+    "VED_CHAPTER_10": {
+      "title": "Ранние государства и вторая урбанизация",
+      "center": [
+        25.34,
+        81.39
+      ],
+      "zoom": 7
+    }
+  },
+  "missionCenter": [
+    27.5,
+    78.0
+  ],
+  "missionZoom": 5
+}

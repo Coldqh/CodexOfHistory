@@ -1,0 +1,338 @@
+{
+  "points": {
+    "HIGHLANDS": [
+      31.95,
+      35.2
+    ],
+    "SHECHEM": [
+      32.214,
+      35.282
+    ],
+    "SHILOH": [
+      32.055,
+      35.289
+    ],
+    "BETHEL": [
+      31.931,
+      35.222
+    ],
+    "HEBRON": [
+      31.532,
+      35.099
+    ],
+    "JERUSALEM": [
+      31.778,
+      35.235
+    ],
+    "SAMARIA": [
+      32.276,
+      35.19
+    ],
+    "MEGIDDO": [
+      32.585,
+      35.184
+    ],
+    "HAZOR": [
+      33.017,
+      35.568
+    ],
+    "JEZREEL": [
+      32.557,
+      35.316
+    ],
+    "DAN": [
+      33.249,
+      35.652
+    ],
+    "LACHISH": [
+      31.565,
+      34.849
+    ],
+    "BEERSHEBA": [
+      31.252,
+      34.791
+    ],
+    "GEZER": [
+      31.876,
+      34.922
+    ],
+    "GATH": [
+      31.696,
+      34.847
+    ],
+    "ASHKELON": [
+      31.669,
+      34.571
+    ],
+    "GAZA": [
+      31.501,
+      34.466
+    ],
+    "ASHDOD": [
+      31.802,
+      34.638
+    ],
+    "EKRON": [
+      31.777,
+      34.848
+    ],
+    "DAMASCUS": [
+      33.513,
+      36.292
+    ],
+    "HAMATH": [
+      35.137,
+      36.754
+    ],
+    "ARAM": [
+      33.6,
+      36.1
+    ],
+    "DIBON": [
+      31.497,
+      35.782
+    ],
+    "MOAB": [
+      31.5,
+      35.75
+    ],
+    "RABBATH_AMMON": [
+      31.953,
+      35.934
+    ],
+    "AMMON": [
+      31.95,
+      35.93
+    ],
+    "EDOM": [
+      30.7,
+      35.6
+    ],
+    "BOZRAH": [
+      30.734,
+      35.608
+    ],
+    "NINEVEH": [
+      36.359,
+      43.152
+    ],
+    "BABYLON": [
+      32.536,
+      44.421
+    ],
+    "LEVANT": [
+      32.4,
+      35.3
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "LEV_S_01_01": "LEVANT",
+    "LEV_S_01_02": "HIGHLANDS",
+    "LEV_S_01_03": "HIGHLANDS",
+    "LEV_S_01_04": "HIGHLANDS",
+    "LEV_S_01_05": "HIGHLANDS",
+    "LEV_S_01_06": "SHECHEM",
+    "LEV_S_01_07": "HIGHLANDS",
+    "LEV_S_01_08": "HIGHLANDS",
+    "LEV_A_01_01": "HIGHLANDS",
+    "LEV_A_01_02": "HIGHLANDS",
+    "LEV_A_01_03": "SHILOH",
+    "LEV_A_01_04": "HIGHLANDS",
+    "LEV_S_02_01": "ASHDOD",
+    "LEV_S_02_02": "GAZA",
+    "LEV_S_02_03": "ASHKELON",
+    "LEV_S_02_04": "ASHDOD",
+    "LEV_S_02_05": "EKRON",
+    "LEV_S_02_06": "GATH",
+    "LEV_S_02_07": "ASHKELON",
+    "LEV_S_02_08": "ASHDOD",
+    "LEV_A_02_01": "EKRON",
+    "LEV_A_02_02": "GATH",
+    "LEV_A_02_03": "EKRON",
+    "LEV_A_02_04": "GAZA",
+    "LEV_S_03_01": "HIGHLANDS",
+    "LEV_S_03_02": "JERUSALEM",
+    "LEV_S_03_03": "JERUSALEM",
+    "LEV_S_03_04": "JERUSALEM",
+    "LEV_S_03_05": "JERUSALEM",
+    "LEV_S_03_06": "JERUSALEM",
+    "LEV_S_03_07": "GEZER",
+    "LEV_S_03_08": "MEGIDDO",
+    "LEV_A_03_01": "DAN",
+    "LEV_A_03_02": "JERUSALEM",
+    "LEV_A_03_03": "GEZER",
+    "LEV_A_03_04": "JERUSALEM",
+    "LEV_S_04_01": "SAMARIA",
+    "LEV_S_04_02": "SAMARIA",
+    "LEV_S_04_03": "SAMARIA",
+    "LEV_S_04_04": "SAMARIA",
+    "LEV_S_04_05": "JEZREEL",
+    "LEV_S_04_06": "MEGIDDO",
+    "LEV_S_04_07": "HAMATH",
+    "LEV_S_04_08": "SAMARIA",
+    "LEV_A_04_01": "NINEVEH",
+    "LEV_A_04_02": "DIBON",
+    "LEV_A_04_03": "SAMARIA",
+    "LEV_A_04_04": "MEGIDDO",
+    "LEV_S_05_01": "JERUSALEM",
+    "LEV_S_05_02": "JERUSALEM",
+    "LEV_S_05_03": "LACHISH",
+    "LEV_S_05_04": "BEERSHEBA",
+    "LEV_S_05_05": "LACHISH",
+    "LEV_S_05_06": "JERUSALEM",
+    "LEV_S_05_07": "JERUSALEM",
+    "LEV_S_05_08": "LACHISH",
+    "LEV_A_05_01": "JERUSALEM",
+    "LEV_A_05_02": "NINEVEH",
+    "LEV_A_05_03": "LACHISH",
+    "LEV_A_05_04": "JERUSALEM",
+    "LEV_S_06_01": "MOAB",
+    "LEV_S_06_02": "DIBON",
+    "LEV_S_06_03": "DIBON",
+    "LEV_S_06_04": "AMMON",
+    "LEV_S_06_05": "RABBATH_AMMON",
+    "LEV_S_06_06": "EDOM",
+    "LEV_S_06_07": "BOZRAH",
+    "LEV_S_06_08": "EDOM",
+    "LEV_A_06_01": "DIBON",
+    "LEV_A_06_02": "RABBATH_AMMON",
+    "LEV_A_06_03": "EDOM",
+    "LEV_A_06_04": "EDOM",
+    "LEV_S_07_01": "ARAM",
+    "LEV_S_07_02": "DAMASCUS",
+    "LEV_S_07_03": "DAMASCUS",
+    "LEV_S_07_04": "DAMASCUS",
+    "LEV_S_07_05": "DAMASCUS",
+    "LEV_S_07_06": "DAN",
+    "LEV_S_07_07": "DAMASCUS",
+    "LEV_S_07_08": "JERUSALEM",
+    "LEV_A_07_01": "DAN",
+    "LEV_A_07_02": "HAMATH",
+    "LEV_A_07_03": "ARAM",
+    "LEV_A_07_04": "DAN",
+    "LEV_S_08_01": "NINEVEH",
+    "LEV_S_08_02": "SAMARIA",
+    "LEV_S_08_03": "NINEVEH",
+    "LEV_S_08_04": "SAMARIA",
+    "LEV_S_08_05": "MEGIDDO",
+    "LEV_S_08_06": "SAMARIA",
+    "LEV_S_08_07": "SAMARIA",
+    "LEV_S_08_08": "LEVANT",
+    "LEV_A_08_01": "NINEVEH",
+    "LEV_A_08_02": "NINEVEH",
+    "LEV_A_08_03": "MEGIDDO",
+    "LEV_A_08_04": "SAMARIA",
+    "LEV_S_09_01": "JERUSALEM",
+    "LEV_S_09_02": "NINEVEH",
+    "LEV_S_09_03": "LACHISH",
+    "LEV_S_09_04": "LACHISH",
+    "LEV_S_09_05": "NINEVEH",
+    "LEV_S_09_06": "NINEVEH",
+    "LEV_S_09_07": "JERUSALEM",
+    "LEV_S_09_08": "LACHISH",
+    "LEV_A_09_01": "NINEVEH",
+    "LEV_A_09_02": "LACHISH",
+    "LEV_A_09_03": "NINEVEH",
+    "LEV_A_09_04": "JERUSALEM",
+    "LEV_S_10_01": "JERUSALEM",
+    "LEV_S_10_02": "JERUSALEM",
+    "LEV_S_10_03": "JERUSALEM",
+    "LEV_S_10_04": "BABYLON",
+    "LEV_S_10_05": "JERUSALEM",
+    "LEV_S_10_06": "JERUSALEM",
+    "LEV_S_10_07": "BABYLON",
+    "LEV_S_10_08": "JERUSALEM",
+    "LEV_A_10_01": "LACHISH",
+    "LEV_A_10_02": "BABYLON",
+    "LEV_A_10_03": "LACHISH",
+    "LEV_A_10_04": "JERUSALEM"
+  },
+  "chapters": {
+    "LEV_CHAPTER_01": {
+      "title": "Южный Левант после бронзового века",
+      "center": [
+        31.95,
+        35.2
+      ],
+      "zoom": 7
+    },
+    "LEV_CHAPTER_02": {
+      "title": "Побережье и филистимские города",
+      "center": [
+        31.669,
+        34.571
+      ],
+      "zoom": 7
+    },
+    "LEV_CHAPTER_03": {
+      "title": "Ранние царства и проблема единой монархии",
+      "center": [
+        31.778,
+        35.235
+      ],
+      "zoom": 7
+    },
+    "LEV_CHAPTER_04": {
+      "title": "Северное царство Израиль и Омриды",
+      "center": [
+        32.276,
+        35.19
+      ],
+      "zoom": 7
+    },
+    "LEV_CHAPTER_05": {
+      "title": "Иудея, Иерусалим и Лахиш",
+      "center": [
+        31.778,
+        35.235
+      ],
+      "zoom": 7
+    },
+    "LEV_CHAPTER_06": {
+      "title": "Моав, Аммон и Эдом",
+      "center": [
+        31.5,
+        35.75
+      ],
+      "zoom": 7
+    },
+    "LEV_CHAPTER_07": {
+      "title": "Арамейские царства и Дамаск",
+      "center": [
+        33.513,
+        36.292
+      ],
+      "zoom": 7
+    },
+    "LEV_CHAPTER_08": {
+      "title": "Ассирийское завоевание Израиля",
+      "center": [
+        32.276,
+        35.19
+      ],
+      "zoom": 7
+    },
+    "LEV_CHAPTER_09": {
+      "title": "Иудея против Синаххериба",
+      "center": [
+        31.565,
+        34.849
+      ],
+      "zoom": 7
+    },
+    "LEV_CHAPTER_10": {
+      "title": "Реформы, тексты и падение Иудеи",
+      "center": [
+        31.778,
+        35.235
+      ],
+      "zoom": 7
+    }
+  },
+  "missionCenter": [
+    32.0,
+    35.4
+  ],
+  "missionZoom": 6
+}

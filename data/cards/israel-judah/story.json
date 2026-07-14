@@ -1,0 +1,4722 @@
+[
+  {
+    "id": "LEV_S_01_01",
+    "type": "REGION",
+    "title": "Южный Левант железного века",
+    "original": "Southern Levant in the Iron Age",
+    "subtitle": "регион между побережьем, Иорданской долиной и нагорьями",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "ок. 1200–539 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Южный Левант железного века — регион между побережьем, Иорданской долиной и нагорьями.",
+    "importance": "Карточка раскрывает главу «Южный Левант после бронзового века» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: ок. 1200–539 годы до н. э..",
+      "Основной смысл: регион между побережьем, Иорданской долиной и нагорьями.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Южный Левант после бронзового века",
+      "region"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 5,
+      "culture": 7,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Южный Левант",
+      "lat": 32.4,
+      "lon": 35.3
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-01/lev_s_01_01.svg",
+      "caption": "Локальная учебная обложка: Южный Левант железного века",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_01_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_01"
+  },
+  {
+    "id": "LEV_S_01_02",
+    "type": "SITE",
+    "title": "Поселения центрального нагорья",
+    "original": "Central highland settlements",
+    "subtitle": "сеть небольших сельских поселений раннего железного века",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "XII–XI века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Поселения центрального нагорья — сеть небольших сельских поселений раннего железного века.",
+    "importance": "Карточка раскрывает главу «Южный Левант после бронзового века» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: XII–XI века до н. э..",
+      "Основной смысл: сеть небольших сельских поселений раннего железного века.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Южный Левант после бронзового века",
+      "site"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 8,
+      "politics": 9,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Центральное нагорье",
+      "lat": 31.95,
+      "lon": 35.2
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-01/lev_s_01_02.svg",
+      "caption": "Локальная учебная обложка: Поселения центрального нагорья",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_01_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_01"
+  },
+  {
+    "id": "LEV_S_01_03",
+    "type": "BUILDING",
+    "title": "Четырёхкомнатный дом",
+    "original": "Four-room house",
+    "subtitle": "распространённый тип жилого дома в нагорьях",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "железный век",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Четырёхкомнатный дом — распространённый тип жилого дома в нагорьях.",
+    "importance": "Карточка раскрывает главу «Южный Левант после бронзового века» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: железный век.",
+      "Основной смысл: распространённый тип жилого дома в нагорьях.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Южный Левант после бронзового века",
+      "building"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 9,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Центральное нагорье",
+      "lat": 31.95,
+      "lon": 35.2
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-01/lev_s_01_03.svg",
+      "caption": "Локальная учебная обложка: Четырёхкомнатный дом",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_01_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_01"
+  },
+  {
+    "id": "LEV_S_01_04",
+    "type": "SYSTEM",
+    "title": "Террасное земледелие",
+    "original": "Terrace farming",
+    "subtitle": "обработка склонов с помощью каменных террас",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Террасное земледелие — обработка склонов с помощью каменных террас.",
+    "importance": "Карточка раскрывает главу «Южный Левант после бронзового века» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Основной смысл: обработка склонов с помощью каменных террас.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Южный Левант после бронзового века",
+      "system"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 8,
+      "culture": 5,
+      "politics": 6,
+      "religion": 8,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Центральное нагорье",
+      "lat": 31.95,
+      "lon": 35.2
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-01/lev_s_01_04.svg",
+      "caption": "Локальная учебная обложка: Террасное земледелие",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_01_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_01"
+  },
+  {
+    "id": "LEV_S_01_05",
+    "type": "BUILDING",
+    "title": "Цистерны нагорий",
+    "original": "Highland cisterns",
+    "subtitle": "системы накопления воды для поселений",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "железный век",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Цистерны нагорий — системы накопления воды для поселений.",
+    "importance": "Карточка раскрывает главу «Южный Левант после бронзового века» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: железный век.",
+      "Основной смысл: системы накопления воды для поселений.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Южный Левант после бронзового века",
+      "building"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 5,
+      "legacy": 7,
+      "military": 3,
+      "culture": 6,
+      "politics": 7,
+      "religion": 3,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Центральное нагорье",
+      "lat": 31.95,
+      "lon": 35.2
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-01/lev_s_01_05.svg",
+      "caption": "Локальная учебная обложка: Цистерны нагорий",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_01_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_01"
+  },
+  {
+    "id": "LEV_S_01_06",
+    "type": "CULTURE",
+    "title": "Ханаанская преемственность",
+    "original": "Canaanite continuity",
+    "subtitle": "сохранение языка, ремесла и поселений бронзового века",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "XII–X века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Ханаанская преемственность — сохранение языка, ремесла и поселений бронзового века.",
+    "importance": "Карточка раскрывает главу «Южный Левант после бронзового века» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: XII–X века до н. э..",
+      "Основной смысл: сохранение языка, ремесла и поселений бронзового века.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Южный Левант после бронзового века",
+      "culture"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 8,
+      "religion": 4,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Сихем",
+      "lat": 32.214,
+      "lon": 35.282
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-01/lev_s_01_06.svg",
+      "caption": "Локальная учебная обложка: Ханаанская преемственность",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_01_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_01"
+  },
+  {
+    "id": "LEV_S_01_07",
+    "type": "PEOPLE",
+    "title": "Ранние израильтяне",
+    "original": "Early Israelites",
+    "subtitle": "население, чья идентичность формировалась внутри южного Леванта",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "XII–X века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Ранние израильтяне — население, чья идентичность формировалась внутри южного Леванта.",
+    "importance": "Карточка раскрывает главу «Южный Левант после бронзового века» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: XII–X века до н. э..",
+      "Основной смысл: население, чья идентичность формировалась внутри южного Леванта.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Южный Левант после бронзового века",
+      "people"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 5,
+      "culture": 8,
+      "politics": 9,
+      "religion": 5,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Центральное нагорье",
+      "lat": 31.95,
+      "lon": 35.2
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-01/lev_s_01_07.svg",
+      "caption": "Локальная учебная обложка: Ранние израильтяне",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_01_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_01"
+  },
+  {
+    "id": "LEV_S_01_08",
+    "type": "CONCEPT",
+    "title": "Проблема происхождения Израиля",
+    "original": "Origins of ancient Israel debate",
+    "subtitle": "спор о миграции, внутренней трансформации и смешанных процессах",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "современная историография",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Проблема происхождения Израиля — спор о миграции, внутренней трансформации и смешанных процессах.",
+    "importance": "Карточка раскрывает главу «Южный Левант после бронзового века» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Основной смысл: спор о миграции, внутренней трансформации и смешанных процессах.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Южный Левант после бронзового века",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 6,
+      "culture": 9,
+      "politics": 5,
+      "religion": 6,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Центральное нагорье",
+      "lat": 31.95,
+      "lon": 35.2
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-01/lev_s_01_08.svg",
+      "caption": "Локальная учебная обложка: Проблема происхождения Израиля",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_01_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_01"
+  },
+  {
+    "id": "LEV_S_02_01",
+    "type": "SYSTEM",
+    "title": "Филистимская Пентаполия",
+    "original": "Philistine Pentapolis",
+    "subtitle": "пять главных городов южного побережья",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "железный век",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Филистимская Пентаполия — пять главных городов южного побережья.",
+    "importance": "Карточка раскрывает главу «Побережье и филистимские города» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: железный век.",
+      "Основной смысл: пять главных городов южного побережья.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Побережье и филистимские города",
+      "system"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 6,
+      "culture": 8,
+      "politics": 5,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ашдод",
+      "lat": 31.802,
+      "lon": 34.638
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-02/lev_s_02_01.svg",
+      "caption": "Локальная учебная обложка: Филистимская Пентаполия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_02_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_02"
+  },
+  {
+    "id": "LEV_S_02_02",
+    "type": "CITY",
+    "title": "Газа железного века",
+    "original": "Iron Age Gaza",
+    "subtitle": "южный порт и узел сухопутных дорог",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Газа железного века — южный порт и узел сухопутных дорог.",
+    "importance": "Карточка раскрывает главу «Побережье и филистимские города» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Основной смысл: южный порт и узел сухопутных дорог.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Побережье и филистимские города",
+      "city"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 9,
+      "politics": 6,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Газа",
+      "lat": 31.501,
+      "lon": 34.466
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-02/lev_s_02_02.svg",
+      "caption": "Локальная учебная обложка: Газа железного века",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_02_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_02"
+  },
+  {
+    "id": "LEV_S_02_03",
+    "type": "CITY",
+    "title": "Ашкелон железного века",
+    "original": "Iron Age Ashkelon",
+    "subtitle": "укреплённый прибрежный город",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Ашкелон железного века — укреплённый прибрежный город.",
+    "importance": "Карточка раскрывает главу «Побережье и филистимские города» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Основной смысл: укреплённый прибрежный город.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Побережье и филистимские города",
+      "city"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 5,
+      "politics": 7,
+      "religion": 8,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ашкелон",
+      "lat": 31.669,
+      "lon": 34.571
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-02/lev_s_02_03.svg",
+      "caption": "Локальная учебная обложка: Ашкелон железного века",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_02_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_02"
+  },
+  {
+    "id": "LEV_S_02_04",
+    "type": "CITY",
+    "title": "Ашдод железного века",
+    "original": "Iron Age Ashdod",
+    "subtitle": "крупный центр побережья",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Ашдод железного века — крупный центр побережья.",
+    "importance": "Карточка раскрывает главу «Побережье и филистимские города» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Основной смысл: крупный центр побережья.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Побережье и филистимские города",
+      "city"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 3,
+      "culture": 6,
+      "politics": 8,
+      "religion": 3,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Ашдод",
+      "lat": 31.802,
+      "lon": 34.638
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-02/lev_s_02_04.svg",
+      "caption": "Локальная учебная обложка: Ашдод железного века",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_02_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_02"
+  },
+  {
+    "id": "LEV_S_02_05",
+    "type": "CITY",
+    "title": "Экрон",
+    "original": "Ekron",
+    "subtitle": "город с мощным производством оливкового масла",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "VIII–VII века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Экрон — город с мощным производством оливкового масла.",
+    "importance": "Карточка раскрывает главу «Побережье и филистимские города» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: VIII–VII века до н. э..",
+      "Основной смысл: город с мощным производством оливкового масла.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Побережье и филистимские города",
+      "city"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 5,
+      "legacy": 8,
+      "military": 4,
+      "culture": 7,
+      "politics": 9,
+      "religion": 4,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Экрон",
+      "lat": 31.777,
+      "lon": 34.848
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-02/lev_s_02_05.svg",
+      "caption": "Локальная учебная обложка: Экрон",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_02_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_02"
+  },
+  {
+    "id": "LEV_S_02_06",
+    "type": "CITY",
+    "title": "Гат",
+    "original": "Gath",
+    "subtitle": "крупный город восточной части прибрежной равнины",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "IX век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Гат — крупный город восточной части прибрежной равнины.",
+    "importance": "Карточка раскрывает главу «Побережье и филистимские города» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: IX век до н. э..",
+      "Основной смысл: крупный город восточной части прибрежной равнины.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Побережье и филистимские города",
+      "city"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 5,
+      "religion": 5,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Гат",
+      "lat": 31.696,
+      "lon": 34.847
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-02/lev_s_02_06.svg",
+      "caption": "Локальная учебная обложка: Гат",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_02_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_02"
+  },
+  {
+    "id": "LEV_S_02_07",
+    "type": "ARTIFACT",
+    "title": "Филистимская керамика",
+    "original": "Philistine pottery",
+    "subtitle": "расписная керамика с эгейскими и местными элементами",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "XII–XI века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Филистимская керамика — расписная керамика с эгейскими и местными элементами.",
+    "importance": "Карточка раскрывает главу «Побережье и филистимские города» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: XII–XI века до н. э..",
+      "Основной смысл: расписная керамика с эгейскими и местными элементами.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Побережье и филистимские города",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 6,
+      "culture": 9,
+      "politics": 6,
+      "religion": 6,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ашкелон",
+      "lat": 31.669,
+      "lon": 34.571
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-02/lev_s_02_07.svg",
+      "caption": "Локальная учебная обложка: Филистимская керамика",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_02_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_02"
+  },
+  {
+    "id": "LEV_S_02_08",
+    "type": "CONCEPT",
+    "title": "Смешанная культура побережья",
+    "original": "Mixed culture of the coast",
+    "subtitle": "соединение миграционных и местных компонентов",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "ранний железный век",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Смешанная культура побережья — соединение миграционных и местных компонентов.",
+    "importance": "Карточка раскрывает главу «Побережье и филистимские города» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: ранний железный век.",
+      "Основной смысл: соединение миграционных и местных компонентов.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Побережье и филистимские города",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 7,
+      "culture": 5,
+      "politics": 7,
+      "religion": 7,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Ашдод",
+      "lat": 31.802,
+      "lon": 34.638
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-02/lev_s_02_08.svg",
+      "caption": "Локальная учебная обложка: Смешанная культура побережья",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_02_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_02"
+  },
+  {
+    "id": "LEV_S_03_01",
+    "type": "PERSON",
+    "title": "Саул",
+    "original": "Saul",
+    "subtitle": "первый царь Израиля в библейской традиции",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "традиционно XI век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Саул — первый царь Израиля в библейской традиции.",
+    "importance": "Карточка раскрывает главу «Ранние царства и проблема единой монархии» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: традиционно XI век до н. э..",
+      "Основной смысл: первый царь Израиля в библейской традиции.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Ранние царства и проблема единой монархии",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 7,
+      "culture": 9,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Центральное нагорье",
+      "lat": 31.95,
+      "lon": 35.2
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-03/lev_s_03_01.svg",
+      "caption": "Локальная учебная обложка: Саул",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_03_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_03"
+  },
+  {
+    "id": "LEV_S_03_02",
+    "type": "PERSON",
+    "title": "Давид",
+    "original": "David",
+    "subtitle": "царь и основатель иудейской династии в традиции",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "традиционно ок. 1000 до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Давид — царь и основатель иудейской династии в традиции.",
+    "importance": "Карточка раскрывает главу «Ранние царства и проблема единой монархии» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: традиционно ок. 1000 до н. э..",
+      "Основной смысл: царь и основатель иудейской династии в традиции.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Ранние царства и проблема единой монархии",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 8,
+      "culture": 5,
+      "politics": 8,
+      "religion": 8,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-03/lev_s_03_02.svg",
+      "caption": "Локальная учебная обложка: Давид",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_03_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_03"
+  },
+  {
+    "id": "LEV_S_03_03",
+    "type": "PERSON",
+    "title": "Соломон",
+    "original": "Solomon",
+    "subtitle": "правитель объединённого царства в библейском повествовании",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "традиционно X век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Соломон — правитель объединённого царства в библейском повествовании.",
+    "importance": "Карточка раскрывает главу «Ранние царства и проблема единой монархии» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: традиционно X век до н. э..",
+      "Основной смысл: правитель объединённого царства в библейском повествовании.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Ранние царства и проблема единой монархии",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 6,
+      "politics": 9,
+      "religion": 3,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-03/lev_s_03_03.svg",
+      "caption": "Локальная учебная обложка: Соломон",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_03_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_03"
+  },
+  {
+    "id": "LEV_S_03_04",
+    "type": "SITE",
+    "title": "Город Давида",
+    "original": "City of David",
+    "subtitle": "древнейшая городская зона Иерусалима к югу от Храмовой горы",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "железный век",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Город Давида — древнейшая городская зона Иерусалима к югу от Храмовой горы.",
+    "importance": "Карточка раскрывает главу «Ранние царства и проблема единой монархии» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: железный век.",
+      "Основной смысл: древнейшая городская зона Иерусалима к югу от Храмовой горы.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Ранние царства и проблема единой монархии",
+      "site"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 4,
+      "culture": 7,
+      "politics": 5,
+      "religion": 4,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-03/lev_s_03_04.svg",
+      "caption": "Локальная учебная обложка: Город Давида",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_03_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_03"
+  },
+  {
+    "id": "LEV_S_03_05",
+    "type": "DYNASTY",
+    "title": "Дом Давида",
+    "original": "House of David",
+    "subtitle": "династическое обозначение правителей Иудеи",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "IX–VI века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Дом Давида — династическое обозначение правителей Иудеи.",
+    "importance": "Карточка раскрывает главу «Ранние царства и проблема единой монархии» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: IX–VI века до н. э..",
+      "Основной смысл: династическое обозначение правителей Иудеи.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Ранние царства и проблема единой монархии",
+      "dynasty"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 5,
+      "legacy": 9,
+      "military": 5,
+      "culture": 8,
+      "politics": 6,
+      "religion": 5,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-03/lev_s_03_05.svg",
+      "caption": "Локальная учебная обложка: Дом Давида",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_03_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_03"
+  },
+  {
+    "id": "LEV_S_03_06",
+    "type": "STATE",
+    "title": "Объединённая монархия",
+    "original": "United Monarchy",
+    "subtitle": "традиционная модель единого царства Израиля и Иудеи",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "X век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Объединённая монархия — традиционная модель единого царства Израиля и Иудеи.",
+    "importance": "Карточка раскрывает главу «Ранние царства и проблема единой монархии» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: X век до н. э..",
+      "Основной смысл: традиционная модель единого царства Израиля и Иудеи.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Ранние царства и проблема единой монархии",
+      "state"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 7,
+      "religion": 6,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-03/lev_s_03_06.svg",
+      "caption": "Локальная учебная обложка: Объединённая монархия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_03_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_03"
+  },
+  {
+    "id": "LEV_S_03_07",
+    "type": "BUILDING",
+    "title": "Монументальная архитектура X века",
+    "original": "Tenth-century monumental architecture",
+    "subtitle": "спорные датировки ворот, стен и административных построек",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "X век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Монументальная архитектура X века — спорные датировки ворот, стен и административных построек.",
+    "importance": "Карточка раскрывает главу «Ранние царства и проблема единой монархии» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: X век до н. э..",
+      "Основной смысл: спорные датировки ворот, стен и административных построек.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Ранние царства и проблема единой монархии",
+      "building"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 7,
+      "culture": 5,
+      "politics": 8,
+      "religion": 7,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Гезер",
+      "lat": 31.876,
+      "lon": 34.922
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-03/lev_s_03_07.svg",
+      "caption": "Локальная учебная обложка: Монументальная архитектура X века",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_03_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_03"
+  },
+  {
+    "id": "LEV_S_03_08",
+    "type": "CONCEPT",
+    "title": "Спор высокой и низкой хронологии",
+    "original": "High and Low Chronology debate",
+    "subtitle": "разные датировки слоёв X–IX веков до н. э.",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "современная историография",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Спор высокой и низкой хронологии — разные датировки слоёв X–IX веков до н. э..",
+    "importance": "Карточка раскрывает главу «Ранние царства и проблема единой монархии» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Основной смысл: разные датировки слоёв X–IX веков до н. э..",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Ранние царства и проблема единой монархии",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 8,
+      "culture": 6,
+      "politics": 9,
+      "religion": 8,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Мегиддо",
+      "lat": 32.585,
+      "lon": 35.184
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-03/lev_s_03_08.svg",
+      "caption": "Локальная учебная обложка: Спор высокой и низкой хронологии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_03_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_03"
+  },
+  {
+    "id": "LEV_S_04_01",
+    "type": "STATE",
+    "title": "Царство Израиль",
+    "original": "Kingdom of Israel",
+    "subtitle": "северное царство со столицей в Самарии",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "IX–VIII века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Царство Израиль — северное царство со столицей в Самарии.",
+    "importance": "Карточка раскрывает главу «Северное царство Израиль и Омриды» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: IX–VIII века до н. э..",
+      "Основной смысл: северное царство со столицей в Самарии.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Северное царство Израиль и Омриды",
+      "state"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 8,
+      "culture": 5,
+      "politics": 9,
+      "religion": 8,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Самария",
+      "lat": 32.276,
+      "lon": 35.19
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-04/lev_s_04_01.svg",
+      "caption": "Локальная учебная обложка: Царство Израиль",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/phoenicia-and-the-bible",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Phoenicia and the Bible",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/phoenicia-and-the-bible",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_04"
+  },
+  {
+    "id": "LEV_S_04_02",
+    "type": "PERSON",
+    "title": "Омри",
+    "original": "Omri",
+    "subtitle": "основатель сильной северной династии",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "IX век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Омри — основатель сильной северной династии.",
+    "importance": "Карточка раскрывает главу «Северное царство Израиль и Омриды» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: IX век до н. э..",
+      "Основной смысл: основатель сильной северной династии.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Северное царство Израиль и Омриды",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 3,
+      "culture": 6,
+      "politics": 5,
+      "religion": 3,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Самария",
+      "lat": 32.276,
+      "lon": 35.19
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-04/lev_s_04_02.svg",
+      "caption": "Локальная учебная обложка: Омри",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/phoenicia-and-the-bible",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Phoenicia and the Bible",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/phoenicia-and-the-bible",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_04"
+  },
+  {
+    "id": "LEV_S_04_03",
+    "type": "PERSON",
+    "title": "Ахав",
+    "original": "Ahab",
+    "subtitle": "царь Израиля и участник коалиции при Каркаре",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "IX век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Ахав — царь Израиля и участник коалиции при Каркаре.",
+    "importance": "Карточка раскрывает главу «Северное царство Израиль и Омриды» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: IX век до н. э..",
+      "Основной смысл: царь Израиля и участник коалиции при Каркаре.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Северное царство Израиль и Омриды",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 4,
+      "culture": 7,
+      "politics": 6,
+      "religion": 4,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Самария",
+      "lat": 32.276,
+      "lon": 35.19
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-04/lev_s_04_03.svg",
+      "caption": "Локальная учебная обложка: Ахав",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/phoenicia-and-the-bible",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Phoenicia and the Bible",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/phoenicia-and-the-bible",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_04"
+  },
+  {
+    "id": "LEV_S_04_04",
+    "type": "CITY",
+    "title": "Самария",
+    "original": "Samaria",
+    "subtitle": "столица северного царства Израиль",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "IX–VIII века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Самария — столица северного царства Израиль.",
+    "importance": "Карточка раскрывает главу «Северное царство Израиль и Омриды» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: IX–VIII века до н. э..",
+      "Основной смысл: столица северного царства Израиль.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Северное царство Израиль и Омриды",
+      "city"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 5,
+      "culture": 8,
+      "politics": 7,
+      "religion": 5,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Самария",
+      "lat": 32.276,
+      "lon": 35.19
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-04/lev_s_04_04.svg",
+      "caption": "Локальная учебная обложка: Самария",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/phoenicia-and-the-bible",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_04_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Phoenicia and the Bible",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/phoenicia-and-the-bible",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_04"
+  },
+  {
+    "id": "LEV_S_04_05",
+    "type": "BUILDING",
+    "title": "Изреельский дворец",
+    "original": "Jezreel palace",
+    "subtitle": "укреплённый царский комплекс в Изреельской долине",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "IX век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Изреельский дворец — укреплённый царский комплекс в Изреельской долине.",
+    "importance": "Карточка раскрывает главу «Северное царство Израиль и Омриды» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: IX век до н. э..",
+      "Основной смысл: укреплённый царский комплекс в Изреельской долине.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Северное царство Израиль и Омриды",
+      "building"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 6,
+      "culture": 9,
+      "politics": 8,
+      "religion": 6,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Изреель",
+      "lat": 32.557,
+      "lon": 35.316
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-04/lev_s_04_05.svg",
+      "caption": "Локальная учебная обложка: Изреельский дворец",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/phoenicia-and-the-bible",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_04_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Phoenicia and the Bible",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/phoenicia-and-the-bible",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_04"
+  },
+  {
+    "id": "LEV_S_04_06",
+    "type": "CITY",
+    "title": "Мегиддо Омридов",
+    "original": "Omride Megiddo",
+    "subtitle": "стратегический центр северного царства",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "IX век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Мегиддо Омридов — стратегический центр северного царства.",
+    "importance": "Карточка раскрывает главу «Северное царство Израиль и Омриды» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: IX век до н. э..",
+      "Основной смысл: стратегический центр северного царства.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Северное царство Израиль и Омриды",
+      "city"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 7,
+      "culture": 5,
+      "politics": 9,
+      "religion": 7,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мегиддо",
+      "lat": 32.585,
+      "lon": 35.184
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-04/lev_s_04_06.svg",
+      "caption": "Локальная учебная обложка: Мегиддо Омридов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/phoenicia-and-the-bible",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_04_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Phoenicia and the Bible",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/phoenicia-and-the-bible",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_04"
+  },
+  {
+    "id": "LEV_S_04_07",
+    "type": "BATTLE",
+    "title": "Битва при Каркаре",
+    "original": "Battle of Qarqar",
+    "subtitle": "столкновение ассирийской армии с западной коалицией",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "853 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Битва при Каркаре — столкновение ассирийской армии с западной коалицией.",
+    "importance": "Карточка раскрывает главу «Северное царство Израиль и Омриды» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: 853 год до н. э..",
+      "Основной смысл: столкновение ассирийской армии с западной коалицией.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Северное царство Израиль и Омриды",
+      "battle"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 8,
+      "culture": 6,
+      "politics": 5,
+      "religion": 8,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Хамат",
+      "lat": 35.137,
+      "lon": 36.754
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-04/lev_s_04_07.svg",
+      "caption": "Локальная учебная обложка: Битва при Каркаре",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/phoenicia-and-the-bible",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_04_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Phoenicia and the Bible",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/phoenicia-and-the-bible",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_04"
+  },
+  {
+    "id": "LEV_S_04_08",
+    "type": "SYSTEM",
+    "title": "Династическая политика Омридов",
+    "original": "Omride dynastic politics",
+    "subtitle": "союзы, браки и военная коалиция северного царства",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "IX век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Династическая политика Омридов — союзы, браки и военная коалиция северного царства.",
+    "importance": "Карточка раскрывает главу «Северное царство Израиль и Омриды» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: IX век до н. э..",
+      "Основной смысл: союзы, браки и военная коалиция северного царства.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Северное царство Израиль и Омриды",
+      "system"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 3,
+      "culture": 7,
+      "politics": 6,
+      "religion": 3,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Самария",
+      "lat": 32.276,
+      "lon": 35.19
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-04/lev_s_04_08.svg",
+      "caption": "Локальная учебная обложка: Династическая политика Омридов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/phoenicia-and-the-bible",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_04_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Phoenicia and the Bible",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/phoenicia-and-the-bible",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_04"
+  },
+  {
+    "id": "LEV_S_05_01",
+    "type": "STATE",
+    "title": "Царство Иудея",
+    "original": "Kingdom of Judah",
+    "subtitle": "южное царство со столицей в Иерусалиме",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "IX–VI века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Царство Иудея — южное царство со столицей в Иерусалиме.",
+    "importance": "Карточка раскрывает главу «Иудея, Иерусалим и Лахиш» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: IX–VI века до н. э..",
+      "Основной смысл: южное царство со столицей в Иерусалиме.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Иудея, Иерусалим и Лахиш",
+      "state"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 3,
+      "culture": 6,
+      "politics": 6,
+      "religion": 3,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-05/lev_s_05_01.svg",
+      "caption": "Локальная учебная обложка: Царство Иудея",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Assyria — Siege of Lachish",
+      "url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_05"
+  },
+  {
+    "id": "LEV_S_05_02",
+    "type": "CITY",
+    "title": "Иерусалим железного века",
+    "original": "Iron Age Jerusalem",
+    "subtitle": "столица Иудеи и династический центр",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Иерусалим железного века — столица Иудеи и династический центр.",
+    "importance": "Карточка раскрывает главу «Иудея, Иерусалим и Лахиш» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Основной смысл: столица Иудеи и династический центр.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Иудея, Иерусалим и Лахиш",
+      "city"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-05/lev_s_05_02.svg",
+      "caption": "Локальная учебная обложка: Иерусалим железного века",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Assyria — Siege of Lachish",
+      "url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_05"
+  },
+  {
+    "id": "LEV_S_05_03",
+    "type": "CITY",
+    "title": "Лахиш",
+    "original": "Lachish",
+    "subtitle": "крупный укреплённый центр западной Иудеи",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "IX–VI века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Лахиш — крупный укреплённый центр западной Иудеи.",
+    "importance": "Карточка раскрывает главу «Иудея, Иерусалим и Лахиш» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: IX–VI века до н. э..",
+      "Основной смысл: крупный укреплённый центр западной Иудеи.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Иудея, Иерусалим и Лахиш",
+      "city"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 5,
+      "culture": 8,
+      "politics": 8,
+      "religion": 5,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Лахиш",
+      "lat": 31.565,
+      "lon": 34.849
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-05/lev_s_05_03.svg",
+      "caption": "Локальная учебная обложка: Лахиш",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Assyria — Siege of Lachish",
+      "url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_05"
+  },
+  {
+    "id": "LEV_S_05_04",
+    "type": "CITY",
+    "title": "Беэр-Шева",
+    "original": "Beersheba",
+    "subtitle": "административный центр юга Иудеи",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "железный век",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Беэр-Шева — административный центр юга Иудеи.",
+    "importance": "Карточка раскрывает главу «Иудея, Иерусалим и Лахиш» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: железный век.",
+      "Основной смысл: административный центр юга Иудеи.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Иудея, Иерусалим и Лахиш",
+      "city"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 6,
+      "culture": 9,
+      "politics": 9,
+      "religion": 6,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Беэр-Шева",
+      "lat": 31.252,
+      "lon": 34.791
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-05/lev_s_05_04.svg",
+      "caption": "Локальная учебная обложка: Беэр-Шева",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Assyria — Siege of Lachish",
+      "url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_05"
+  },
+  {
+    "id": "LEV_S_05_05",
+    "type": "REGION",
+    "title": "Шефела",
+    "original": "Shephelah",
+    "subtitle": "холмистая зона между нагорьем и побережьем",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "железный век",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Шефела — холмистая зона между нагорьем и побережьем.",
+    "importance": "Карточка раскрывает главу «Иудея, Иерусалим и Лахиш» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: железный век.",
+      "Основной смысл: холмистая зона между нагорьем и побережьем.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Иудея, Иерусалим и Лахиш",
+      "region"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 5,
+      "legacy": 7,
+      "military": 7,
+      "culture": 5,
+      "politics": 5,
+      "religion": 7,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Лахиш",
+      "lat": 31.565,
+      "lon": 34.849
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-05/lev_s_05_05.svg",
+      "caption": "Локальная учебная обложка: Шефела",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_05_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Assyria — Siege of Lachish",
+      "url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_05"
+  },
+  {
+    "id": "LEV_S_05_06",
+    "type": "ARTIFACT",
+    "title": "Штампы LMLK",
+    "original": "LMLK seals",
+    "subtitle": "царские оттиски на ручках сосудов",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "конец VIII века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Штампы LMLK — царские оттиски на ручках сосудов.",
+    "importance": "Карточка раскрывает главу «Иудея, Иерусалим и Лахиш» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: конец VIII века до н. э..",
+      "Основной смысл: царские оттиски на ручках сосудов.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Иудея, Иерусалим и Лахиш",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 8,
+      "culture": 6,
+      "politics": 6,
+      "religion": 8,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-05/lev_s_05_06.svg",
+      "caption": "Локальная учебная обложка: Штампы LMLK",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_05_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Assyria — Siege of Lachish",
+      "url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_05"
+  },
+  {
+    "id": "LEV_S_05_07",
+    "type": "BUILDING",
+    "title": "Силоамский тоннель",
+    "original": "Siloam Tunnel",
+    "subtitle": "водный тоннель Иерусалима",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "конец VIII века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Силоамский тоннель — водный тоннель Иерусалима.",
+    "importance": "Карточка раскрывает главу «Иудея, Иерусалим и Лахиш» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: конец VIII века до н. э..",
+      "Основной смысл: водный тоннель Иерусалима.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Иудея, Иерусалим и Лахиш",
+      "building"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 3,
+      "culture": 7,
+      "politics": 7,
+      "religion": 3,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-05/lev_s_05_07.svg",
+      "caption": "Локальная учебная обложка: Силоамский тоннель",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_05_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Assyria — Siege of Lachish",
+      "url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_05"
+  },
+  {
+    "id": "LEV_S_05_08",
+    "type": "SYSTEM",
+    "title": "Иудейская администрация",
+    "original": "Judahite administration",
+    "subtitle": "сеть складов, печатей, писцов и укреплённых центров",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "VIII–VII века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Иудейская администрация — сеть складов, печатей, писцов и укреплённых центров.",
+    "importance": "Карточка раскрывает главу «Иудея, Иерусалим и Лахиш» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: VIII–VII века до н. э..",
+      "Основной смысл: сеть складов, печатей, писцов и укреплённых центров.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Иудея, Иерусалим и Лахиш",
+      "system"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 8,
+      "politics": 8,
+      "religion": 4,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Лахиш",
+      "lat": 31.565,
+      "lon": 34.849
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-05/lev_s_05_08.svg",
+      "caption": "Локальная учебная обложка: Иудейская администрация",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_05_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Assyria — Siege of Lachish",
+      "url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_05"
+  },
+  {
+    "id": "LEV_S_06_01",
+    "type": "STATE",
+    "title": "Царство Моав",
+    "original": "Kingdom of Moab",
+    "subtitle": "царство к востоку от Мёртвого моря",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "IX–VI века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Царство Моав — царство к востоку от Мёртвого моря.",
+    "importance": "Карточка раскрывает главу «Моав, Аммон и Эдом» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: IX–VI века до н. э..",
+      "Основной смысл: царство к востоку от Мёртвого моря.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Моав, Аммон и Эдом",
+      "state"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 4,
+      "culture": 7,
+      "politics": 8,
+      "religion": 4,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Моав",
+      "lat": 31.5,
+      "lon": 35.75
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-06/lev_s_06_01.svg",
+      "caption": "Локальная учебная обложка: Царство Моав",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_C-204-A",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Cast of the Mesha Stele",
+      "url": "https://www.britishmuseum.org/collection/object/W_C-204-A",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_06"
+  },
+  {
+    "id": "LEV_S_06_02",
+    "type": "PERSON",
+    "title": "Меша",
+    "original": "Mesha",
+    "subtitle": "моавитский царь и автор победной надписи",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "IX век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Меша — моавитский царь и автор победной надписи.",
+    "importance": "Карточка раскрывает главу «Моав, Аммон и Эдом» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: IX век до н. э..",
+      "Основной смысл: моавитский царь и автор победной надписи.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Моав, Аммон и Эдом",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 9,
+      "religion": 5,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Дибон",
+      "lat": 31.497,
+      "lon": 35.782
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-06/lev_s_06_02.svg",
+      "caption": "Локальная учебная обложка: Меша",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_C-204-A",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Cast of the Mesha Stele",
+      "url": "https://www.britishmuseum.org/collection/object/W_C-204-A",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_06"
+  },
+  {
+    "id": "LEV_S_06_03",
+    "type": "CITY",
+    "title": "Дибон",
+    "original": "Dibon",
+    "subtitle": "политический центр Моава",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "железный век",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Дибон — политический центр Моава.",
+    "importance": "Карточка раскрывает главу «Моав, Аммон и Эдом» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: железный век.",
+      "Основной смысл: политический центр Моава.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Моав, Аммон и Эдом",
+      "city"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 6,
+      "culture": 9,
+      "politics": 5,
+      "religion": 6,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Дибон",
+      "lat": 31.497,
+      "lon": 35.782
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-06/lev_s_06_03.svg",
+      "caption": "Локальная учебная обложка: Дибон",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_C-204-A",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Cast of the Mesha Stele",
+      "url": "https://www.britishmuseum.org/collection/object/W_C-204-A",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_06"
+  },
+  {
+    "id": "LEV_S_06_04",
+    "type": "STATE",
+    "title": "Царство Аммон",
+    "original": "Kingdom of Ammon",
+    "subtitle": "царство вокруг Раббат-Аммона",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "VIII–VI века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Царство Аммон — царство вокруг Раббат-Аммона.",
+    "importance": "Карточка раскрывает главу «Моав, Аммон и Эдом» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: VIII–VI века до н. э..",
+      "Основной смысл: царство вокруг Раббат-Аммона.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Моав, Аммон и Эдом",
+      "state"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 7,
+      "culture": 5,
+      "politics": 6,
+      "religion": 7,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Аммон",
+      "lat": 31.95,
+      "lon": 35.93
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-06/lev_s_06_04.svg",
+      "caption": "Локальная учебная обложка: Царство Аммон",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_C-204-A",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Cast of the Mesha Stele",
+      "url": "https://www.britishmuseum.org/collection/object/W_C-204-A",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_06"
+  },
+  {
+    "id": "LEV_S_06_05",
+    "type": "CITY",
+    "title": "Раббат-Аммон",
+    "original": "Rabbath-Ammon",
+    "subtitle": "столица аммонитского царства",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "железный век",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Раббат-Аммон — столица аммонитского царства.",
+    "importance": "Карточка раскрывает главу «Моав, Аммон и Эдом» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: железный век.",
+      "Основной смысл: столица аммонитского царства.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Моав, Аммон и Эдом",
+      "city"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 5,
+      "legacy": 8,
+      "military": 8,
+      "culture": 6,
+      "politics": 7,
+      "religion": 8,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Раббат-Аммон",
+      "lat": 31.953,
+      "lon": 35.934
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-06/lev_s_06_05.svg",
+      "caption": "Локальная учебная обложка: Раббат-Аммон",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_C-204-A",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_06_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Cast of the Mesha Stele",
+      "url": "https://www.britishmuseum.org/collection/object/W_C-204-A",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_06"
+  },
+  {
+    "id": "LEV_S_06_06",
+    "type": "STATE",
+    "title": "Царство Эдом",
+    "original": "Kingdom of Edom",
+    "subtitle": "царство южного Трансиорданья",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "VIII–VI века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Царство Эдом — царство южного Трансиорданья.",
+    "importance": "Карточка раскрывает главу «Моав, Аммон и Эдом» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: VIII–VI века до н. э..",
+      "Основной смысл: царство южного Трансиорданья.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Моав, Аммон и Эдом",
+      "state"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 3,
+      "culture": 7,
+      "politics": 8,
+      "religion": 3,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Эдом",
+      "lat": 30.7,
+      "lon": 35.6
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-06/lev_s_06_06.svg",
+      "caption": "Локальная учебная обложка: Царство Эдом",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_C-204-A",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_06_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Cast of the Mesha Stele",
+      "url": "https://www.britishmuseum.org/collection/object/W_C-204-A",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_06"
+  },
+  {
+    "id": "LEV_S_06_07",
+    "type": "CITY",
+    "title": "Боцра",
+    "original": "Bozrah",
+    "subtitle": "главный центр Эдома",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "железный век",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Боцра — главный центр Эдома.",
+    "importance": "Карточка раскрывает главу «Моав, Аммон и Эдом» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: железный век.",
+      "Основной смысл: главный центр Эдома.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Моав, Аммон и Эдом",
+      "city"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 4,
+      "culture": 8,
+      "politics": 9,
+      "religion": 4,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Боцра",
+      "lat": 30.734,
+      "lon": 35.608
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-06/lev_s_06_07.svg",
+      "caption": "Локальная учебная обложка: Боцра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_C-204-A",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_06_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Cast of the Mesha Stele",
+      "url": "https://www.britishmuseum.org/collection/object/W_C-204-A",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_06"
+  },
+  {
+    "id": "LEV_S_06_08",
+    "type": "ROUTE",
+    "title": "Караванные дороги Трансиорданья",
+    "original": "Transjordan caravan routes",
+    "subtitle": "пути между Аравией, Левантом и Красным морем",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Караванные дороги Трансиорданья — пути между Аравией, Левантом и Красным морем.",
+    "importance": "Карточка раскрывает главу «Моав, Аммон и Эдом» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Основной смысл: пути между Аравией, Левантом и Красным морем.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Моав, Аммон и Эдом",
+      "route"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 9,
+      "politics": 5,
+      "religion": 5,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Эдом",
+      "lat": 30.7,
+      "lon": 35.6
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-06/lev_s_06_08.svg",
+      "caption": "Локальная учебная обложка: Караванные дороги Трансиорданья",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_C-204-A",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_06_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Cast of the Mesha Stele",
+      "url": "https://www.britishmuseum.org/collection/object/W_C-204-A",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_06"
+  },
+  {
+    "id": "LEV_S_07_01",
+    "type": "STATE",
+    "title": "Арамейские царства",
+    "original": "Aramean kingdoms",
+    "subtitle": "региональные государства Сирии железного века",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "X–VIII века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Арамейские царства — региональные государства Сирии железного века.",
+    "importance": "Карточка раскрывает главу «Арамейские царства и Дамаск» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: X–VIII века до н. э..",
+      "Основной смысл: региональные государства Сирии железного века.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Арамейские царства и Дамаск",
+      "state"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 5,
+      "culture": 8,
+      "politics": 5,
+      "religion": 5,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Арам-Дамаск",
+      "lat": 33.6,
+      "lon": 36.1
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-07/lev_s_07_01.svg",
+      "caption": "Локальная учебная обложка: Арамейские царства",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_07"
+  },
+  {
+    "id": "LEV_S_07_02",
+    "type": "STATE",
+    "title": "Арам-Дамаск",
+    "original": "Aram-Damascus",
+    "subtitle": "сильное арамейское царство со столицей в Дамаске",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "IX–VIII века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Арам-Дамаск — сильное арамейское царство со столицей в Дамаске.",
+    "importance": "Карточка раскрывает главу «Арамейские царства и Дамаск» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: IX–VIII века до н. э..",
+      "Основной смысл: сильное арамейское царство со столицей в Дамаске.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Арамейские царства и Дамаск",
+      "state"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 6,
+      "religion": 6,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Дамаск",
+      "lat": 33.513,
+      "lon": 36.292
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-07/lev_s_07_02.svg",
+      "caption": "Локальная учебная обложка: Арам-Дамаск",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_07"
+  },
+  {
+    "id": "LEV_S_07_03",
+    "type": "CITY",
+    "title": "Дамаск железного века",
+    "original": "Iron Age Damascus",
+    "subtitle": "столица Арам-Дамаска и торговый узел",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Дамаск железного века — столица Арам-Дамаска и торговый узел.",
+    "importance": "Карточка раскрывает главу «Арамейские царства и Дамаск» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Основной смысл: столица Арам-Дамаска и торговый узел.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Арамейские царства и Дамаск",
+      "city"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 7,
+      "culture": 5,
+      "politics": 7,
+      "religion": 7,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Дамаск",
+      "lat": 33.513,
+      "lon": 36.292
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-07/lev_s_07_03.svg",
+      "caption": "Локальная учебная обложка: Дамаск железного века",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_07"
+  },
+  {
+    "id": "LEV_S_07_04",
+    "type": "PERSON",
+    "title": "Хазаэль",
+    "original": "Hazael",
+    "subtitle": "царь Дамаска и противник Израиля",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "IX век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Хазаэль — царь Дамаска и противник Израиля.",
+    "importance": "Карточка раскрывает главу «Арамейские царства и Дамаск» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: IX век до н. э..",
+      "Основной смысл: царь Дамаска и противник Израиля.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Арамейские царства и Дамаск",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 8,
+      "culture": 6,
+      "politics": 8,
+      "religion": 8,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Дамаск",
+      "lat": 33.513,
+      "lon": 36.292
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-07/lev_s_07_04.svg",
+      "caption": "Локальная учебная обложка: Хазаэль",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_07_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_07"
+  },
+  {
+    "id": "LEV_S_07_05",
+    "type": "PERSON",
+    "title": "Бен-Хадад",
+    "original": "Ben-Hadad",
+    "subtitle": "династическое имя арамейских царей Дамаска",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "IX–VIII века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Бен-Хадад — династическое имя арамейских царей Дамаска.",
+    "importance": "Карточка раскрывает главу «Арамейские царства и Дамаск» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: IX–VIII века до н. э..",
+      "Основной смысл: династическое имя арамейских царей Дамаска.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Арамейские царства и Дамаск",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 5,
+      "legacy": 9,
+      "military": 3,
+      "culture": 7,
+      "politics": 9,
+      "religion": 3,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Дамаск",
+      "lat": 33.513,
+      "lon": 36.292
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-07/lev_s_07_05.svg",
+      "caption": "Локальная учебная обложка: Бен-Хадад",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_07_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_07"
+  },
+  {
+    "id": "LEV_S_07_06",
+    "type": "SITE",
+    "title": "Тель-Дан",
+    "original": "Tel Dan",
+    "subtitle": "пограничный город и место находки арамейской стелы",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "железный век",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Тель-Дан — пограничный город и место находки арамейской стелы.",
+    "importance": "Карточка раскрывает главу «Арамейские царства и Дамаск» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: железный век.",
+      "Основной смысл: пограничный город и место находки арамейской стелы.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Арамейские царства и Дамаск",
+      "site"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 4,
+      "culture": 8,
+      "politics": 5,
+      "religion": 4,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Тель-Дан",
+      "lat": 33.249,
+      "lon": 35.652
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-07/lev_s_07_06.svg",
+      "caption": "Локальная учебная обложка: Тель-Дан",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_07_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_07"
+  },
+  {
+    "id": "LEV_S_07_07",
+    "type": "TEXT",
+    "title": "Арамейский язык",
+    "original": "Aramaic language",
+    "subtitle": "семитский язык, распространившийся по Передней Азии",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Арамейский язык — семитский язык, распространившийся по Передней Азии.",
+    "importance": "Карточка раскрывает главу «Арамейские царства и Дамаск» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Основной смысл: семитский язык, распространившийся по Передней Азии.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Арамейские царства и Дамаск",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 5,
+      "culture": 9,
+      "politics": 6,
+      "religion": 5,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Дамаск",
+      "lat": 33.513,
+      "lon": 36.292
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-07/lev_s_07_07.svg",
+      "caption": "Локальная учебная обложка: Арамейский язык",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_07_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_07"
+  },
+  {
+    "id": "LEV_S_07_08",
+    "type": "WAR",
+    "title": "Сиро-ефремитская война",
+    "original": "Syro-Ephraimite War",
+    "subtitle": "конфликт Дамаска и Израиля с Иудеей",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "ок. 734–732 годы до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Сиро-ефремитская война — конфликт Дамаска и Израиля с Иудеей.",
+    "importance": "Карточка раскрывает главу «Арамейские царства и Дамаск» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: ок. 734–732 годы до н. э..",
+      "Основной смысл: конфликт Дамаска и Израиля с Иудеей.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Арамейские царства и Дамаск",
+      "war"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 5,
+      "politics": 7,
+      "religion": 6,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-07/lev_s_07_08.svg",
+      "caption": "Локальная учебная обложка: Сиро-ефремитская война",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_07_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_07"
+  },
+  {
+    "id": "LEV_S_08_01",
+    "type": "PERSON",
+    "title": "Тиглатпаласар III",
+    "original": "Tiglath-Pileser III",
+    "subtitle": "ассирийский царь, превративший часть Леванта в провинции",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "VIII век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Тиглатпаласар III — ассирийский царь, превративший часть Леванта в провинции.",
+    "importance": "Карточка раскрывает главу «Ассирийское завоевание Израиля» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: VIII век до н. э..",
+      "Основной смысл: ассирийский царь, превративший часть Леванта в провинции.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Ассирийское завоевание Израиля",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 6,
+      "culture": 9,
+      "politics": 7,
+      "religion": 6,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ниневия",
+      "lat": 36.359,
+      "lon": 43.152
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-08/lev_s_08_01.svg",
+      "caption": "Локальная учебная обложка: Тиглатпаласар III",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_08"
+  },
+  {
+    "id": "LEV_S_08_02",
+    "type": "EVENT",
+    "title": "Падение Самарии",
+    "original": "Fall of Samaria",
+    "subtitle": "конец независимого северного царства",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "722/720 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Падение Самарии — конец независимого северного царства.",
+    "importance": "Карточка раскрывает главу «Ассирийское завоевание Израиля» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: 722/720 годы до н. э..",
+      "Основной смысл: конец независимого северного царства.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Ассирийское завоевание Израиля",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 7,
+      "culture": 5,
+      "politics": 8,
+      "religion": 7,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Самария",
+      "lat": 32.276,
+      "lon": 35.19
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-08/lev_s_08_02.svg",
+      "caption": "Локальная учебная обложка: Падение Самарии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_08"
+  },
+  {
+    "id": "LEV_S_08_03",
+    "type": "PERSON",
+    "title": "Саргон II",
+    "original": "Sargon II",
+    "subtitle": "ассирийский царь, приписавший себе завершение завоевания Самарии",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "VIII век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Саргон II — ассирийский царь, приписавший себе завершение завоевания Самарии.",
+    "importance": "Карточка раскрывает главу «Ассирийское завоевание Израиля» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: VIII век до н. э..",
+      "Основной смысл: ассирийский царь, приписавший себе завершение завоевания Самарии.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Ассирийское завоевание Израиля",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 8,
+      "culture": 6,
+      "politics": 9,
+      "religion": 8,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ниневия",
+      "lat": 36.359,
+      "lon": 43.152
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-08/lev_s_08_03.svg",
+      "caption": "Локальная учебная обложка: Саргон II",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_08"
+  },
+  {
+    "id": "LEV_S_08_04",
+    "type": "SYSTEM",
+    "title": "Ассирийская провинция Самерина",
+    "original": "Assyrian province of Samerina",
+    "subtitle": "имперская административная единица на территории Самарии",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "VIII–VII века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Ассирийская провинция Самерина — имперская административная единица на территории Самарии.",
+    "importance": "Карточка раскрывает главу «Ассирийское завоевание Израиля» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: VIII–VII века до н. э..",
+      "Основной смысл: имперская административная единица на территории Самарии.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Ассирийское завоевание Израиля",
+      "system"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 3,
+      "culture": 7,
+      "politics": 5,
+      "religion": 3,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Самария",
+      "lat": 32.276,
+      "lon": 35.19
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-08/lev_s_08_04.svg",
+      "caption": "Локальная учебная обложка: Ассирийская провинция Самерина",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_08_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_08"
+  },
+  {
+    "id": "LEV_S_08_05",
+    "type": "SYSTEM",
+    "title": "Провинция Мегиддо",
+    "original": "Assyrian province of Megiddo",
+    "subtitle": "центр ассирийского контроля над северными долинами",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "VIII–VII века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Провинция Мегиддо — центр ассирийского контроля над северными долинами.",
+    "importance": "Карточка раскрывает главу «Ассирийское завоевание Израиля» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: VIII–VII века до н. э..",
+      "Основной смысл: центр ассирийского контроля над северными долинами.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Ассирийское завоевание Израиля",
+      "system"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 5,
+      "legacy": 6,
+      "military": 4,
+      "culture": 8,
+      "politics": 6,
+      "religion": 4,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Мегиддо",
+      "lat": 32.585,
+      "lon": 35.184
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-08/lev_s_08_05.svg",
+      "caption": "Локальная учебная обложка: Провинция Мегиддо",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_08_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_08"
+  },
+  {
+    "id": "LEV_S_08_06",
+    "type": "EVENT",
+    "title": "Депортации из Израиля",
+    "original": "Deportations from Israel",
+    "subtitle": "перемещение части населения в другие области империи",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "VIII век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Депортации из Израиля — перемещение части населения в другие области империи.",
+    "importance": "Карточка раскрывает главу «Ассирийское завоевание Израиля» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: VIII век до н. э..",
+      "Основной смысл: перемещение части населения в другие области империи.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Ассирийское завоевание Израиля",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 5,
+      "culture": 9,
+      "politics": 7,
+      "religion": 5,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Самария",
+      "lat": 32.276,
+      "lon": 35.19
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-08/lev_s_08_06.svg",
+      "caption": "Локальная учебная обложка: Депортации из Израиля",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_08_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_08"
+  },
+  {
+    "id": "LEV_S_08_07",
+    "type": "EVENT",
+    "title": "Переселения в Самарию",
+    "original": "Resettlements in Samaria",
+    "subtitle": "размещение групп из других частей империи",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "VIII–VII века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Переселения в Самарию — размещение групп из других частей империи.",
+    "importance": "Карточка раскрывает главу «Ассирийское завоевание Израиля» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: VIII–VII века до н. э..",
+      "Основной смысл: размещение групп из других частей империи.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Ассирийское завоевание Израиля",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 6,
+      "culture": 5,
+      "politics": 8,
+      "religion": 6,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Самария",
+      "lat": 32.276,
+      "lon": 35.19
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-08/lev_s_08_07.svg",
+      "caption": "Локальная учебная обложка: Переселения в Самарию",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_08_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_08"
+  },
+  {
+    "id": "LEV_S_08_08",
+    "type": "SYSTEM",
+    "title": "Имперская интеграция Леванта",
+    "original": "Imperial integration of the Levant",
+    "subtitle": "дороги, налоги, гарнизоны и провинциальная власть Ассирии",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "VIII–VII века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Имперская интеграция Леванта — дороги, налоги, гарнизоны и провинциальная власть Ассирии.",
+    "importance": "Карточка раскрывает главу «Ассирийское завоевание Израиля» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: VIII–VII века до н. э..",
+      "Основной смысл: дороги, налоги, гарнизоны и провинциальная власть Ассирии.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Ассирийское завоевание Израиля",
+      "system"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 7,
+      "culture": 6,
+      "politics": 9,
+      "religion": 7,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Южный Левант",
+      "lat": 32.4,
+      "lon": 35.3
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-08/lev_s_08_08.svg",
+      "caption": "Локальная учебная обложка: Имперская интеграция Леванта",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_08_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Assyria to Iberia — Art and Culture in the Iron Age",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_08"
+  },
+  {
+    "id": "LEV_S_09_01",
+    "type": "PERSON",
+    "title": "Езекия",
+    "original": "Hezekiah",
+    "subtitle": "царь Иудеи во время похода Синаххериба",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "VIII век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Езекия — царь Иудеи во время похода Синаххериба.",
+    "importance": "Карточка раскрывает главу «Иудея против Синаххериба» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: VIII век до н. э..",
+      "Основной смысл: царь Иудеи во время похода Синаххериба.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Иудея против Синаххериба",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 7,
+      "culture": 5,
+      "politics": 9,
+      "religion": 7,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-09/lev_s_09_01.svg",
+      "caption": "Локальная учебная обложка: Езекия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_1855-1003-1",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_09_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Taylor Prism of Sennacherib",
+      "url": "https://www.britishmuseum.org/collection/object/W_1855-1003-1",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_09"
+  },
+  {
+    "id": "LEV_S_09_02",
+    "type": "PERSON",
+    "title": "Синаххериб",
+    "original": "Sennacherib",
+    "subtitle": "ассирийский царь, вторгшийся в Иудею",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "VIII–VII века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Синаххериб — ассирийский царь, вторгшийся в Иудею.",
+    "importance": "Карточка раскрывает главу «Иудея против Синаххериба» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: VIII–VII века до н. э..",
+      "Основной смысл: ассирийский царь, вторгшийся в Иудею.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Иудея против Синаххериба",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 8,
+      "culture": 6,
+      "politics": 5,
+      "religion": 8,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ниневия",
+      "lat": 36.359,
+      "lon": 43.152
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-09/lev_s_09_02.svg",
+      "caption": "Локальная учебная обложка: Синаххериб",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_1855-1003-1",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_09_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Taylor Prism of Sennacherib",
+      "url": "https://www.britishmuseum.org/collection/object/W_1855-1003-1",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_09"
+  },
+  {
+    "id": "LEV_S_09_03",
+    "type": "BATTLE",
+    "title": "Осада Лахиша",
+    "original": "Siege of Lachish",
+    "subtitle": "ассирийский штурм главного укреплённого города Иудеи",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "701 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Осада Лахиша — ассирийский штурм главного укреплённого города Иудеи.",
+    "importance": "Карточка раскрывает главу «Иудея против Синаххериба» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: 701 год до н. э..",
+      "Основной смысл: ассирийский штурм главного укреплённого города Иудеи.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Иудея против Синаххериба",
+      "battle"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 3,
+      "culture": 7,
+      "politics": 6,
+      "religion": 3,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Лахиш",
+      "lat": 31.565,
+      "lon": 34.849
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-09/lev_s_09_03.svg",
+      "caption": "Локальная учебная обложка: Осада Лахиша",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_1855-1003-1",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_09_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Taylor Prism of Sennacherib",
+      "url": "https://www.britishmuseum.org/collection/object/W_1855-1003-1",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_09"
+  },
+  {
+    "id": "LEV_S_09_04",
+    "type": "BUILDING",
+    "title": "Осадная рампа Лахиша",
+    "original": "Lachish siege ramp",
+    "subtitle": "насыпь, использованная ассирийской армией",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "701 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Осадная рампа Лахиша — насыпь, использованная ассирийской армией.",
+    "importance": "Карточка раскрывает главу «Иудея против Синаххериба» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: 701 год до н. э..",
+      "Основной смысл: насыпь, использованная ассирийской армией.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Иудея против Синаххериба",
+      "building"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 4,
+      "culture": 8,
+      "politics": 7,
+      "religion": 4,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Лахиш",
+      "lat": 31.565,
+      "lon": 34.849
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-09/lev_s_09_04.svg",
+      "caption": "Локальная учебная обложка: Осадная рампа Лахиша",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_1855-1003-1",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_09_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Taylor Prism of Sennacherib",
+      "url": "https://www.britishmuseum.org/collection/object/W_1855-1003-1",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_09"
+  },
+  {
+    "id": "LEV_S_09_05",
+    "type": "ARTIFACT",
+    "title": "Лахишские рельефы",
+    "original": "Lachish reliefs",
+    "subtitle": "дворцовый цикл изображений захвата города",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "ок. 700–692 годы до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Лахишские рельефы — дворцовый цикл изображений захвата города.",
+    "importance": "Карточка раскрывает главу «Иудея против Синаххериба» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: ок. 700–692 годы до н. э..",
+      "Основной смысл: дворцовый цикл изображений захвата города.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Иудея против Синаххериба",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 5,
+      "legacy": 7,
+      "military": 5,
+      "culture": 9,
+      "politics": 8,
+      "religion": 5,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Ниневия",
+      "lat": 36.359,
+      "lon": 43.152
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-09/lev_s_09_05.svg",
+      "caption": "Локальная учебная обложка: Лахишские рельефы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_1855-1003-1",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_09_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Taylor Prism of Sennacherib",
+      "url": "https://www.britishmuseum.org/collection/object/W_1855-1003-1",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_09"
+  },
+  {
+    "id": "LEV_S_09_06",
+    "type": "TEXT",
+    "title": "Призма Синаххериба",
+    "original": "Sennacherib Prism",
+    "subtitle": "царские анналы о походе и дани Езекии",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "ок. 691 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Призма Синаххериба — царские анналы о походе и дани Езекии.",
+    "importance": "Карточка раскрывает главу «Иудея против Синаххериба» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: ок. 691 год до н. э..",
+      "Основной смысл: царские анналы о походе и дани Езекии.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Иудея против Синаххериба",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 6,
+      "culture": 5,
+      "politics": 9,
+      "religion": 6,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ниневия",
+      "lat": 36.359,
+      "lon": 43.152
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-09/lev_s_09_06.svg",
+      "caption": "Локальная учебная обложка: Призма Синаххериба",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_1855-1003-1",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_09_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Taylor Prism of Sennacherib",
+      "url": "https://www.britishmuseum.org/collection/object/W_1855-1003-1",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_09"
+  },
+  {
+    "id": "LEV_S_09_07",
+    "type": "EVENT",
+    "title": "Осада Иерусалима 701 года",
+    "original": "Siege of Jerusalem 701 BCE",
+    "subtitle": "ассирийское давление на столицу Иудеи",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "701 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Осада Иерусалима 701 года — ассирийское давление на столицу Иудеи.",
+    "importance": "Карточка раскрывает главу «Иудея против Синаххериба» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: 701 год до н. э..",
+      "Основной смысл: ассирийское давление на столицу Иудеи.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Иудея против Синаххериба",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 7,
+      "culture": 6,
+      "politics": 5,
+      "religion": 7,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-09/lev_s_09_07.svg",
+      "caption": "Локальная учебная обложка: Осада Иерусалима 701 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_1855-1003-1",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_09_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Taylor Prism of Sennacherib",
+      "url": "https://www.britishmuseum.org/collection/object/W_1855-1003-1",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_09"
+  },
+  {
+    "id": "LEV_S_09_08",
+    "type": "CONCEPT",
+    "title": "Сравнение четырёх источников",
+    "original": "Four-source comparison",
+    "subtitle": "археология, рельеф, царские анналы и библейский текст",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "современный метод",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Сравнение четырёх источников — археология, рельеф, царские анналы и библейский текст.",
+    "importance": "Карточка раскрывает главу «Иудея против Синаххериба» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: современный метод.",
+      "Основной смысл: археология, рельеф, царские анналы и библейский текст.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Иудея против Синаххериба",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 8,
+      "culture": 7,
+      "politics": 6,
+      "religion": 8,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Лахиш",
+      "lat": 31.565,
+      "lon": 34.849
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-09/lev_s_09_08.svg",
+      "caption": "Локальная учебная обложка: Сравнение четырёх источников",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_1855-1003-1",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_09_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Taylor Prism of Sennacherib",
+      "url": "https://www.britishmuseum.org/collection/object/W_1855-1003-1",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_09"
+  },
+  {
+    "id": "LEV_S_10_01",
+    "type": "PERSON",
+    "title": "Иосия",
+    "original": "Josiah",
+    "subtitle": "царь Иудеи, связанный с религиозной реформой",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "VII век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Иосия — царь Иудеи, связанный с религиозной реформой.",
+    "importance": "Карточка раскрывает главу «Реформы, тексты и падение Иудеи» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: VII век до н. э..",
+      "Основной смысл: царь Иудеи, связанный с религиозной реформой.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Реформы, тексты и падение Иудеи",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 8,
+      "culture": 6,
+      "politics": 6,
+      "religion": 8,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-10/lev_s_10_01.svg",
+      "caption": "Локальная учебная обложка: Иосия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/art/collection/search/323163",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_10_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Judean pillar figurine from Lachish",
+      "url": "https://www.metmuseum.org/art/collection/search/323163",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_10"
+  },
+  {
+    "id": "LEV_S_10_02",
+    "type": "TEXT",
+    "title": "Книга Закона при Иосии",
+    "original": "Book of the Law under Josiah",
+    "subtitle": "текст, найденный в храме согласно библейскому повествованию",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "традиционно VII век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Книга Закона при Иосии — текст, найденный в храме согласно библейскому повествованию.",
+    "importance": "Карточка раскрывает главу «Реформы, тексты и падение Иудеи» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: традиционно VII век до н. э..",
+      "Основной смысл: текст, найденный в храме согласно библейскому повествованию.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Реформы, тексты и падение Иудеи",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 3,
+      "culture": 7,
+      "politics": 7,
+      "religion": 3,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-10/lev_s_10_02.svg",
+      "caption": "Локальная учебная обложка: Книга Закона при Иосии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/art/collection/search/323163",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_10_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Judean pillar figurine from Lachish",
+      "url": "https://www.metmuseum.org/art/collection/search/323163",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_10"
+  },
+  {
+    "id": "LEV_S_10_03",
+    "type": "EVENT",
+    "title": "Реформа Иосии",
+    "original": "Josianic reform",
+    "subtitle": "традиция централизации культа в Иерусалиме",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "конец VII века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Реформа Иосии — традиция централизации культа в Иерусалиме.",
+    "importance": "Карточка раскрывает главу «Реформы, тексты и падение Иудеи» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: конец VII века до н. э..",
+      "Основной смысл: традиция централизации культа в Иерусалиме.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Реформы, тексты и падение Иудеи",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 4,
+      "culture": 8,
+      "politics": 8,
+      "religion": 4,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-10/lev_s_10_03.svg",
+      "caption": "Локальная учебная обложка: Реформа Иосии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/art/collection/search/323163",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_10_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Judean pillar figurine from Lachish",
+      "url": "https://www.metmuseum.org/art/collection/search/323163",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_10"
+  },
+  {
+    "id": "LEV_S_10_04",
+    "type": "PERSON",
+    "title": "Навуходоносор II",
+    "original": "Nebuchadnezzar II",
+    "subtitle": "вавилонский царь, завоевавший Иудею",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "VI век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Навуходоносор II — вавилонский царь, завоевавший Иудею.",
+    "importance": "Карточка раскрывает главу «Реформы, тексты и падение Иудеи» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: VI век до н. э..",
+      "Основной смысл: вавилонский царь, завоевавший Иудею.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Реформы, тексты и падение Иудеи",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 9,
+      "politics": 9,
+      "religion": 5,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Вавилон",
+      "lat": 32.536,
+      "lon": 44.421
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-10/lev_s_10_04.svg",
+      "caption": "Локальная учебная обложка: Навуходоносор II",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/art/collection/search/323163",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_10_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Judean pillar figurine from Lachish",
+      "url": "https://www.metmuseum.org/art/collection/search/323163",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_10"
+  },
+  {
+    "id": "LEV_S_10_05",
+    "type": "EVENT",
+    "title": "Взятие Иерусалима 597 года",
+    "original": "Siege of Jerusalem 597 BCE",
+    "subtitle": "первое вавилонское взятие столицы",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "597 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Взятие Иерусалима 597 года — первое вавилонское взятие столицы.",
+    "importance": "Карточка раскрывает главу «Реформы, тексты и падение Иудеи» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: 597 год до н. э..",
+      "Основной смысл: первое вавилонское взятие столицы.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Реформы, тексты и падение Иудеи",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 5,
+      "legacy": 8,
+      "military": 6,
+      "culture": 5,
+      "politics": 5,
+      "religion": 6,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-10/lev_s_10_05.svg",
+      "caption": "Локальная учебная обложка: Взятие Иерусалима 597 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/art/collection/search/323163",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_10_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Judean pillar figurine from Lachish",
+      "url": "https://www.metmuseum.org/art/collection/search/323163",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_10"
+  },
+  {
+    "id": "LEV_S_10_06",
+    "type": "EVENT",
+    "title": "Разрушение Иерусалима",
+    "original": "Destruction of Jerusalem",
+    "subtitle": "конец независимого царства Иудея",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "586/587 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Разрушение Иерусалима — конец независимого царства Иудея.",
+    "importance": "Карточка раскрывает главу «Реформы, тексты и падение Иудеи» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: 586/587 год до н. э..",
+      "Основной смысл: конец независимого царства Иудея.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Реформы, тексты и падение Иудеи",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 6,
+      "religion": 7,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-10/lev_s_10_06.svg",
+      "caption": "Локальная учебная обложка: Разрушение Иерусалима",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/art/collection/search/323163",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_10_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Judean pillar figurine from Lachish",
+      "url": "https://www.metmuseum.org/art/collection/search/323163",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_10"
+  },
+  {
+    "id": "LEV_S_10_07",
+    "type": "EVENT",
+    "title": "Вавилонское изгнание",
+    "original": "Babylonian exile",
+    "subtitle": "перемещение части иудейской элиты в Вавилонию",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "VI век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Вавилонское изгнание — перемещение части иудейской элиты в Вавилонию.",
+    "importance": "Карточка раскрывает главу «Реформы, тексты и падение Иудеи» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: VI век до н. э..",
+      "Основной смысл: перемещение части иудейской элиты в Вавилонию.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Реформы, тексты и падение Иудеи",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 8,
+      "culture": 7,
+      "politics": 7,
+      "religion": 8,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Вавилон",
+      "lat": 32.536,
+      "lon": 44.421
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-10/lev_s_10_07.svg",
+      "caption": "Локальная учебная обложка: Вавилонское изгнание",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/art/collection/search/323163",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_10_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Judean pillar figurine from Lachish",
+      "url": "https://www.metmuseum.org/art/collection/search/323163",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_10"
+  },
+  {
+    "id": "LEV_S_10_08",
+    "type": "CONCEPT",
+    "title": "Библейская история как источник",
+    "original": "Biblical history as a source",
+    "subtitle": "литературная традиция, редакция и историческая память",
+    "era": "Железный век",
+    "region": "Южный Левант",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Библейская история как источник — литературная традиция, редакция и историческая память.",
+    "importance": "Карточка раскрывает главу «Реформы, тексты и падение Иудеи» и показывает политическую, социальную или источниковедческую сторону железного века Южного Леванта.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Основной смысл: литературная традиция, редакция и историческая память.",
+      "Вывод проверяется по археологии, местным и внешним надписям, а также литературной традиции."
+    ],
+    "tags": [
+      "железный век",
+      "Южный Левант",
+      "Реформы, тексты и падение Иудеи",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 3,
+      "culture": 8,
+      "politics": 8,
+      "religion": 3,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/israel-judah/chapter-10/lev_s_10_08.svg",
+      "caption": "Локальная учебная обложка: Библейская история как источник",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/art/collection/search/323163",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lev_s_10_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Judean pillar figurine from Lachish",
+      "url": "https://www.metmuseum.org/art/collection/search/323163",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ISRAEL_JUDAH",
+    "chapter": "LEV_CHAPTER_10"
+  }
+]

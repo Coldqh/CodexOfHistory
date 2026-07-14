@@ -8,7 +8,7 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "4.1.0"
+VERSION = "4.2.0"
 
 GROUP_CONTEXT = {
     "ROME": {
@@ -76,6 +76,10 @@ GROUP_CONTEXT = {
     "PHOENICIANS": {
         "terms": ["финик", "phoen", "тир", "tyre", "сидон", "sidon", "библ", "byblos", "карфаг", "carthage", "пунич", "punic", "кипр", "cyprus", "средизем"],
         "base": [("ru", "Финикия"), ("en", "Phoenicia"), ("en", "Phoenician art")],
+    },
+    "ISRAEL_JUDAH": {
+        "terms": ["израил", "israel", "иуде", "judah", "judaean", "самар", "samaria", "лахиш", "lachish", "левант", "levant", "моав", "moab", "аммон", "edom", "арам", "aramaean", "iron age"],
+        "base": [("ru", "Древний Израиль и Иудея"), ("en", "Kingdom of Israel (Samaria)"), ("en", "Kingdom of Judah")],
     },
     "MIXED": {
         "terms": ["древн", "ancient", "цивилизац", "civilization", "archaeolog", "археолог", "river", "река", "письмен"],
@@ -222,6 +226,10 @@ TYPE_FALLBACK = {
         "EVENT": [("en", "Late Bronze Age collapse"), ("en", "Sea Peoples")],
         "SOURCE": [("en", "Late Bronze Age collapse"), ("en", "Archaeology")],
         "CONCEPT": [("en", "Late Bronze Age collapse"), ("en", "Early Iron Age")],
+    },
+    "ISRAEL_JUDAH": {
+        "terms": ["израил", "israel", "иуде", "judah", "judaean", "самар", "samaria", "лахиш", "lachish", "левант", "levant", "моав", "moab", "аммон", "edom", "арам", "aramaean", "iron age"],
+        "base": [("ru", "Древний Израиль и Иудея"), ("en", "Kingdom of Israel (Samaria)"), ("en", "Kingdom of Judah")],
     },
     "MIXED": {
         "ARTIFACT": [("ru", "Археологический артефакт"), ("en", "Archaeological artifact")],
@@ -402,7 +410,7 @@ def group_for(path: Path, card: dict) -> str:
     p = path.as_posix()
     for token, group in [
         ("/rome/", "ROME"), ("/mesopotamia/", "MESOPOTAMIA"), ("/egypt/", "EGYPT"),
-        ("/indus/", "INDUS"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"), ("/aegean/", "AEGEAN_BRONZE"), ("/international-bronze/", "BRONZE_INTERNATIONAL"), ("/bronze-collapse/", "BRONZE_COLLAPSE"), ("/bronze-world/", "BRONZE_WORLD"), ("/assyria-babylon/", "ASSYRIA_BABYLON"), ("/phoenicians/", "PHOENICIANS"),
+        ("/indus/", "INDUS"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"), ("/aegean/", "AEGEAN_BRONZE"), ("/international-bronze/", "BRONZE_INTERNATIONAL"), ("/bronze-collapse/", "BRONZE_COLLAPSE"), ("/bronze-world/", "BRONZE_WORLD"), ("/assyria-babylon/", "ASSYRIA_BABYLON"), ("/phoenicians/", "PHOENICIANS"), ("/israel-judah/", "ISRAEL_JUDAH"),
     ]:
         if token in p:
             return group

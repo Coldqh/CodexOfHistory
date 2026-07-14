@@ -1,0 +1,335 @@
+{
+  "campaignId": "ISRAEL_JUDAH",
+  "campaigns": {
+    "ISRAEL_JUDAH": {
+      "id": "ISRAEL_JUDAH",
+      "title": "Израиль, Иудея и Левант",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "LEV_POOL_01",
+      "campaign": "ISRAEL_JUDAH",
+      "title": "Южный Левант после бронзового века",
+      "unlockMission": "LEV_01_02",
+      "cardIds": [
+        "LEV_A_01_01",
+        "LEV_A_01_02",
+        "LEV_A_01_03",
+        "LEV_A_01_04"
+      ]
+    },
+    {
+      "id": "LEV_POOL_02",
+      "campaign": "ISRAEL_JUDAH",
+      "title": "Побережье и филистимские города",
+      "unlockMission": "LEV_02_02",
+      "cardIds": [
+        "LEV_A_02_01",
+        "LEV_A_02_02",
+        "LEV_A_02_03",
+        "LEV_A_02_04"
+      ]
+    },
+    {
+      "id": "LEV_POOL_03",
+      "campaign": "ISRAEL_JUDAH",
+      "title": "Ранние царства и проблема единой монархии",
+      "unlockMission": "LEV_03_02",
+      "cardIds": [
+        "LEV_A_03_01",
+        "LEV_A_03_02",
+        "LEV_A_03_03",
+        "LEV_A_03_04"
+      ]
+    },
+    {
+      "id": "LEV_POOL_04",
+      "campaign": "ISRAEL_JUDAH",
+      "title": "Северное царство Израиль и Омриды",
+      "unlockMission": "LEV_04_02",
+      "cardIds": [
+        "LEV_A_04_01",
+        "LEV_A_04_02",
+        "LEV_A_04_03",
+        "LEV_A_04_04"
+      ]
+    },
+    {
+      "id": "LEV_POOL_05",
+      "campaign": "ISRAEL_JUDAH",
+      "title": "Иудея, Иерусалим и Лахиш",
+      "unlockMission": "LEV_05_02",
+      "cardIds": [
+        "LEV_A_05_01",
+        "LEV_A_05_02",
+        "LEV_A_05_03",
+        "LEV_A_05_04"
+      ]
+    },
+    {
+      "id": "LEV_POOL_06",
+      "campaign": "ISRAEL_JUDAH",
+      "title": "Моав, Аммон и Эдом",
+      "unlockMission": "LEV_06_02",
+      "cardIds": [
+        "LEV_A_06_01",
+        "LEV_A_06_02",
+        "LEV_A_06_03",
+        "LEV_A_06_04"
+      ]
+    },
+    {
+      "id": "LEV_POOL_07",
+      "campaign": "ISRAEL_JUDAH",
+      "title": "Арамейские царства и Дамаск",
+      "unlockMission": "LEV_07_02",
+      "cardIds": [
+        "LEV_A_07_01",
+        "LEV_A_07_02",
+        "LEV_A_07_03",
+        "LEV_A_07_04"
+      ]
+    },
+    {
+      "id": "LEV_POOL_08",
+      "campaign": "ISRAEL_JUDAH",
+      "title": "Ассирийское завоевание Израиля",
+      "unlockMission": "LEV_08_02",
+      "cardIds": [
+        "LEV_A_08_01",
+        "LEV_A_08_02",
+        "LEV_A_08_03",
+        "LEV_A_08_04"
+      ]
+    },
+    {
+      "id": "LEV_POOL_09",
+      "campaign": "ISRAEL_JUDAH",
+      "title": "Иудея против Синаххериба",
+      "unlockMission": "LEV_09_02",
+      "cardIds": [
+        "LEV_A_09_01",
+        "LEV_A_09_02",
+        "LEV_A_09_03",
+        "LEV_A_09_04"
+      ]
+    },
+    {
+      "id": "LEV_POOL_10",
+      "campaign": "ISRAEL_JUDAH",
+      "title": "Реформы, тексты и падение Иудеи",
+      "unlockMission": "LEV_10_02",
+      "cardIds": [
+        "LEV_A_10_01",
+        "LEV_A_10_02",
+        "LEV_A_10_03",
+        "LEV_A_10_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "LEV_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_01",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_01",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_01",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_01",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_02",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_02",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_02",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_02",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_03",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_03",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_03",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_03",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_04",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_04",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_04",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_04",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_05",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_05",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_05",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_05",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_06",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_06",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_06",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_06",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_07",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_07",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_07",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_07",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_08",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_08",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_08",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_08",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_09",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_09",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_09",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_09",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_10",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_10",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_10",
+      "campaign": "ISRAEL_JUDAH"
+    },
+    "LEV_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "LEV_POOL_10",
+      "campaign": "ISRAEL_JUDAH"
+    }
+  }
+}

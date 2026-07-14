@@ -1,0 +1,8 @@
+Repair patch for Codex of History v3.5.1
+
+Причина: предыдущий patch-only архив не включал базовый runtime-модуль js/maps/engine.js.
+
+Содержимое:
+- все 36 обязательных runtime-модулей из data/content-manifest.json;
+- tools/verify-install.mjs;
+- package.json с обязательной проверкой целостности перед npm test.

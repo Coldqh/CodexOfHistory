@@ -1,0 +1,2362 @@
+[
+  {
+    "id": "ZHO_A_01_01",
+    "type": "ARTIFACT",
+    "title": "Бронзовый сосуд Ли гуй",
+    "original": "Li gui",
+    "subtitle": "ранняя надпись, связанная с победой царя У",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "XI век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Бронзовый сосуд Ли гуй — ранняя надпись, связанная с победой царя У.",
+    "importance": "Архивная карточка дополняет главу «Завоевание Шан и основание Чжоу» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: XI век до н. э..",
+      "Связь с темой: ранняя надпись, связанная с победой царя У.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Завоевание Шан и основание Чжоу",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 7,
+      "religion": 6,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Муе",
+      "lat": 35.3,
+      "lon": 114.1
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-01/zho_a_01_01.svg",
+      "caption": "Локальная учебная обложка: Бронзовый сосуд Ли гуй",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_01_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Shang and Zhou Dynasties — The Bronze Age of China",
+      "url": "https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_01"
+  },
+  {
+    "id": "ZHO_A_01_02",
+    "type": "SITE",
+    "title": "Археология Чжоу原",
+    "original": "Zhouyuan archaeological site",
+    "subtitle": "комплексы, мастерские и надписи в области происхождения Чжоу",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "Западная Чжоу",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Археология Чжоу原 — комплексы, мастерские и надписи в области происхождения Чжоу.",
+    "importance": "Архивная карточка дополняет главу «Завоевание Шан и основание Чжоу» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: Западная Чжоу.",
+      "Связь с темой: комплексы, мастерские и надписи в области происхождения Чжоу.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Завоевание Шан и основание Чжоу",
+      "site"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 5,
+      "culture": 7,
+      "politics": 8,
+      "religion": 7,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Чжоу原 и долина Вэй",
+      "lat": 34.45,
+      "lon": 107.9
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-01/zho_a_01_02.svg",
+      "caption": "Локальная учебная обложка: Археология Чжоу原",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_01_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Shang and Zhou Dynasties — The Bronze Age of China",
+      "url": "https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_01"
+  },
+  {
+    "id": "ZHO_A_01_03",
+    "type": "TEXT",
+    "title": "Ранние бронзовые надписи Чжоу",
+    "original": "Early Western Zhou bronze inscriptions",
+    "subtitle": "краткие записи о дарах, походах и предках",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "XI–X века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Ранние бронзовые надписи Чжоу — краткие записи о дарах, походах и предках.",
+    "importance": "Архивная карточка дополняет главу «Завоевание Шан и основание Чжоу» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: XI–X века до н. э..",
+      "Связь с темой: краткие записи о дарах, походах и предках.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Завоевание Шан и основание Чжоу",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 9,
+      "politics": 9,
+      "religion": 8,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Фэнхао",
+      "lat": 34.22,
+      "lon": 108.72
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-01/zho_a_01_03.svg",
+      "caption": "Локальная учебная обложка: Ранние бронзовые надписи Чжоу",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_01_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Shang and Zhou Dynasties — The Bronze Age of China",
+      "url": "https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_01"
+  },
+  {
+    "id": "ZHO_A_01_04",
+    "type": "CONCEPT",
+    "title": "Спор о дате завоевания Шан",
+    "original": "Dating the Zhou conquest debate",
+    "subtitle": "различие традиционной хронологии и современных реконструкций",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "современная историография",
+    "rarity": "MYTHIC",
+    "difficulty": 7,
+    "summary": "Спор о дате завоевания Шан — различие традиционной хронологии и современных реконструкций.",
+    "importance": "Архивная карточка дополняет главу «Завоевание Шан и основание Чжоу» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Связь с темой: различие традиционной хронологии и современных реконструкций.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Завоевание Шан и основание Чжоу",
+      "concept"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 7,
+      "politics": 4,
+      "religion": 4,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Северный и Центральный Китай",
+      "lat": 34.5,
+      "lon": 112.0
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-01/zho_a_01_04.svg",
+      "caption": "Локальная учебная обложка: Спор о дате завоевания Шан",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_01_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Shang and Zhou Dynasties — The Bronze Age of China",
+      "url": "https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_01"
+  },
+  {
+    "id": "ZHO_A_02_01",
+    "type": "ARTIFACT",
+    "title": "Да Юй дин",
+    "original": "Da Yu ding",
+    "subtitle": "монументальный бронзовый сосуд с политической надписью",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "XI век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Да Юй дин — монументальный бронзовый сосуд с политической надписью.",
+    "importance": "Архивная карточка дополняет главу «Мандат Неба и ритуальная власть» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: XI век до н. э..",
+      "Связь с темой: монументальный бронзовый сосуд с политической надписью.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Мандат Неба и ритуальная власть",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 9,
+      "religion": 7,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Фэнхао",
+      "lat": 34.22,
+      "lon": 108.72
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-02/zho_a_02_01.svg",
+      "caption": "Локальная учебная обложка: Да Юй дин",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-dynasty/zhou-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_02_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smithsonian National Museum of Asian Art: Zhou dynasty",
+      "url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-dynasty/zhou-dynasty/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_02"
+  },
+  {
+    "id": "ZHO_A_02_02",
+    "type": "ARTIFACT",
+    "title": "Хэ цзунь",
+    "original": "He zun",
+    "subtitle": "бронзовый сосуд с ранним употреблением выражения, связанного с центральными землями",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "XI век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Хэ цзунь — бронзовый сосуд с ранним употреблением выражения, связанного с центральными землями.",
+    "importance": "Архивная карточка дополняет главу «Мандат Неба и ритуальная власть» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: XI век до н. э..",
+      "Связь с темой: бронзовый сосуд с ранним употреблением выражения, связанного с центральными землями.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Мандат Неба и ритуальная власть",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 6,
+      "culture": 8,
+      "politics": 4,
+      "religion": 8,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Лои / Лоян",
+      "lat": 34.68,
+      "lon": 112.45
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-02/zho_a_02_02.svg",
+      "caption": "Локальная учебная обложка: Хэ цзунь",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-dynasty/zhou-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_02_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smithsonian National Museum of Asian Art: Zhou dynasty",
+      "url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-dynasty/zhou-dynasty/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_02"
+  },
+  {
+    "id": "ZHO_A_02_03",
+    "type": "ARTIFACT",
+    "title": "Кан хоу гуй",
+    "original": "Kang Hou gui",
+    "subtitle": "ритуальный сосуд ранней Западной Чжоу",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "XI век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Кан хоу гуй — ритуальный сосуд ранней Западной Чжоу.",
+    "importance": "Архивная карточка дополняет главу «Мандат Неба и ритуальная власть» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: XI век до н. э..",
+      "Связь с темой: ритуальный сосуд ранней Западной Чжоу.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Мандат Неба и ритуальная власть",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 5,
+      "religion": 4,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Фэнхао",
+      "lat": 34.22,
+      "lon": 108.72
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-02/zho_a_02_03.svg",
+      "caption": "Локальная учебная обложка: Кан хоу гуй",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-dynasty/zhou-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_02_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smithsonian National Museum of Asian Art: Zhou dynasty",
+      "url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-dynasty/zhou-dynasty/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_02"
+  },
+  {
+    "id": "ZHO_A_02_04",
+    "type": "CONCEPT",
+    "title": "Спор о развитии Мандата Неба",
+    "original": "Mandate of Heaven development debate",
+    "subtitle": "вопрос о том, когда идея получила позднюю системную форму",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "современная историография",
+    "rarity": "MYTHIC",
+    "difficulty": 7,
+    "summary": "Спор о развитии Мандата Неба — вопрос о том, когда идея получила позднюю системную форму.",
+    "importance": "Архивная карточка дополняет главу «Мандат Неба и ритуальная власть» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Связь с темой: вопрос о том, когда идея получила позднюю системную форму.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Мандат Неба и ритуальная власть",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 2,
+      "culture": 8,
+      "politics": 6,
+      "religion": 5,
+      "economy": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Северный и Центральный Китай",
+      "lat": 34.5,
+      "lon": 112.0
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-02/zho_a_02_04.svg",
+      "caption": "Локальная учебная обложка: Спор о развитии Мандата Неба",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-dynasty/zhou-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_02_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smithsonian National Museum of Asian Art: Zhou dynasty",
+      "url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-dynasty/zhou-dynasty/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_02"
+  },
+  {
+    "id": "ZHO_A_03_01",
+    "type": "ARTIFACT",
+    "title": "Ши Цян пань",
+    "original": "Shi Qiang pan",
+    "subtitle": "бронзовый таз с родовой и царской историей",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "X век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Ши Цян пань — бронзовый таз с родовой и царской историей.",
+    "importance": "Архивная карточка дополняет главу «Западная Чжоу: роды, владения и бронзы» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: X век до н. э..",
+      "Связь с темой: бронзовый таз с родовой и царской историей.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Западная Чжоу: роды, владения и бронзы",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 7,
+      "politics": 5,
+      "religion": 8,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Чжоу原 и долина Вэй",
+      "lat": 34.45,
+      "lon": 107.9
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-03/zho_a_03_01.svg",
+      "caption": "Локальная учебная обложка: Ши Цян пань",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/A_1977-0404-1",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_03_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Kang Hou Gui, early Western Zhou bronze",
+      "url": "https://www.britishmuseum.org/collection/object/A_1977-0404-1",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_03"
+  },
+  {
+    "id": "ZHO_A_03_02",
+    "type": "SITE",
+    "title": "Клад Чжуанбай",
+    "original": "Zhuangbai bronze hoard",
+    "subtitle": "комплекс бронзов с длинными надписями",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "Западная Чжоу",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Клад Чжуанбай — комплекс бронзов с длинными надписями.",
+    "importance": "Архивная карточка дополняет главу «Западная Чжоу: роды, владения и бронзы» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: Западная Чжоу.",
+      "Связь с темой: комплекс бронзов с длинными надписями.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Западная Чжоу: роды, владения и бронзы",
+      "site"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 7,
+      "culture": 9,
+      "politics": 6,
+      "religion": 4,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Чжоу原 и долина Вэй",
+      "lat": 34.45,
+      "lon": 107.9
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-03/zho_a_03_02.svg",
+      "caption": "Локальная учебная обложка: Клад Чжуанбай",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/A_1977-0404-1",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_03_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Kang Hou Gui, early Western Zhou bronze",
+      "url": "https://www.britishmuseum.org/collection/object/A_1977-0404-1",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_03"
+  },
+  {
+    "id": "ZHO_A_03_03",
+    "type": "ARTIFACT",
+    "title": "Колокола Западной Чжоу",
+    "original": "Western Zhou bells",
+    "subtitle": "ритуальные музыкальные инструменты элит",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "IX–VIII века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Колокола Западной Чжоу — ритуальные музыкальные инструменты элит.",
+    "importance": "Архивная карточка дополняет главу «Западная Чжоу: роды, владения и бронзы» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: IX–VIII века до н. э..",
+      "Связь с темой: ритуальные музыкальные инструменты элит.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Западная Чжоу: роды, владения и бронзы",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 2,
+      "culture": 7,
+      "politics": 7,
+      "religion": 5,
+      "economy": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Фэнхао",
+      "lat": 34.22,
+      "lon": 108.72
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-03/zho_a_03_03.svg",
+      "caption": "Локальная учебная обложка: Колокола Западной Чжоу",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/A_1977-0404-1",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_03_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Kang Hou Gui, early Western Zhou bronze",
+      "url": "https://www.britishmuseum.org/collection/object/A_1977-0404-1",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_03"
+  },
+  {
+    "id": "ZHO_A_03_04",
+    "type": "CONCEPT",
+    "title": "Проблема слова «феодализм» для Чжоу",
+    "original": "Zhou feudalism terminology debate",
+    "subtitle": "спор о применимости европейской категории к системе фэнцзянь",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "современная историография",
+    "rarity": "LEGENDARY",
+    "difficulty": 7,
+    "summary": "Проблема слова «феодализм» для Чжоу — спор о применимости европейской категории к системе фэнцзянь.",
+    "importance": "Архивная карточка дополняет главу «Западная Чжоу: роды, владения и бронзы» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Связь с темой: спор о применимости европейской категории к системе фэнцзянь.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Западная Чжоу: роды, владения и бронзы",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 9,
+      "politics": 8,
+      "religion": 6,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Северный и Центральный Китай",
+      "lat": 34.5,
+      "lon": 112.0
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-03/zho_a_03_04.svg",
+      "caption": "Локальная учебная обложка: Проблема слова «феодализм» для Чжоу",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/A_1977-0404-1",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_03_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Kang Hou Gui, early Western Zhou bronze",
+      "url": "https://www.britishmuseum.org/collection/object/A_1977-0404-1",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_03"
+  },
+  {
+    "id": "ZHO_A_04_01",
+    "type": "ARTIFACT",
+    "title": "Клад из Гоцзячжуан",
+    "original": "Eastern Zhou royal bronzes",
+    "subtitle": "бронзовые комплексы перехода к восточному периоду",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "VIII–VII века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Клад из Гоцзячжуан — бронзовые комплексы перехода к восточному периоду.",
+    "importance": "Архивная карточка дополняет главу «Кризис 771 года и Восточная Чжоу» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: VIII–VII века до н. э..",
+      "Связь с темой: бронзовые комплексы перехода к восточному периоду.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Кризис 771 года и Восточная Чжоу",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 7,
+      "culture": 8,
+      "politics": 7,
+      "religion": 4,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Лои / Лоян",
+      "lat": 34.68,
+      "lon": 112.45
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-04/zho_a_04_01.svg",
+      "caption": "Локальная учебная обложка: Клад из Гоцзячжуан",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://smarthistory.org/zhou-dynasty-intro/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smarthistory: Zhou Dynasty, an introduction",
+      "url": "https://smarthistory.org/zhou-dynasty-intro/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_04"
+  },
+  {
+    "id": "ZHO_A_04_02",
+    "type": "SITE",
+    "title": "Могильники государства Го",
+    "original": "Guo state cemeteries",
+    "subtitle": "элитные погребения рубежа Западной и Восточной Чжоу",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "VIII–VII века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Могильники государства Го — элитные погребения рубежа Западной и Восточной Чжоу.",
+    "importance": "Архивная карточка дополняет главу «Кризис 771 года и Восточная Чжоу» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: VIII–VII века до н. э..",
+      "Связь с темой: элитные погребения рубежа Западной и Восточной Чжоу.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Кризис 771 года и Восточная Чжоу",
+      "site"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 2,
+      "culture": 6,
+      "politics": 8,
+      "religion": 5,
+      "economy": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Северный и Центральный Китай",
+      "lat": 34.5,
+      "lon": 112.0
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-04/zho_a_04_02.svg",
+      "caption": "Локальная учебная обложка: Могильники государства Го",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://smarthistory.org/zhou-dynasty-intro/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smarthistory: Zhou Dynasty, an introduction",
+      "url": "https://smarthistory.org/zhou-dynasty-intro/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_04"
+  },
+  {
+    "id": "ZHO_A_04_03",
+    "type": "TEXT",
+    "title": "Чуньцю как летописная традиция",
+    "original": "Spring and Autumn Annals",
+    "subtitle": "краткая хроника государства Лу",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "722–481 годы до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Чуньцю как летописная традиция — краткая хроника государства Лу.",
+    "importance": "Архивная карточка дополняет главу «Кризис 771 года и Восточная Чжоу» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: 722–481 годы до н. э..",
+      "Связь с темой: краткая хроника государства Лу.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Кризис 771 года и Восточная Чжоу",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 3,
+      "culture": 8,
+      "politics": 9,
+      "religion": 6,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Цюйфу",
+      "lat": 35.58,
+      "lon": 116.98
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-04/zho_a_04_03.svg",
+      "caption": "Локальная учебная обложка: Чуньцю как летописная традиция",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://smarthistory.org/zhou-dynasty-intro/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smarthistory: Zhou Dynasty, an introduction",
+      "url": "https://smarthistory.org/zhou-dynasty-intro/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_04"
+  },
+  {
+    "id": "ZHO_A_04_04",
+    "type": "CONCEPT",
+    "title": "История о сигнальных огнях и Бао Сы",
+    "original": "Bao Si beacon story",
+    "subtitle": "поздний сюжет, который нельзя принимать как прямую хронику 771 года",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "поздняя традиция",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "История о сигнальных огнях и Бао Сы — поздний сюжет, который нельзя принимать как прямую хронику 771 года.",
+    "importance": "Архивная карточка дополняет главу «Кризис 771 года и Восточная Чжоу» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: поздняя традиция.",
+      "Связь с темой: поздний сюжет, который нельзя принимать как прямую хронику 771 года.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Кризис 771 года и Восточная Чжоу",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 4,
+      "culture": 6,
+      "politics": 4,
+      "religion": 7,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Фэнхао",
+      "lat": 34.22,
+      "lon": 108.72
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-04/zho_a_04_04.svg",
+      "caption": "Локальная учебная обложка: История о сигнальных огнях и Бао Сы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://smarthistory.org/zhou-dynasty-intro/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_04_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smarthistory: Zhou Dynasty, an introduction",
+      "url": "https://smarthistory.org/zhou-dynasty-intro/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_04"
+  },
+  {
+    "id": "ZHO_A_05_01",
+    "type": "TEXT",
+    "title": "Союзные клятвы Хоума",
+    "original": "Houma covenant texts",
+    "subtitle": "записи клятв и политических обязательств",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "VI–V века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Союзные клятвы Хоума — записи клятв и политических обязательств.",
+    "importance": "Архивная карточка дополняет главу «Эпоха Вёсен и Осеней» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: VI–V века до н. э..",
+      "Связь с темой: записи клятв и политических обязательств.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Эпоха Вёсен и Осеней",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 2,
+      "culture": 9,
+      "politics": 9,
+      "religion": 5,
+      "economy": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Хоума",
+      "lat": 35.62,
+      "lon": 111.35
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-05/zho_a_05_01.svg",
+      "caption": "Локальная учебная обложка: Союзные клятвы Хоума",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://smarthistory.org/zhou-dynasty-intro/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smarthistory: Zhou Dynasty, an introduction",
+      "url": "https://smarthistory.org/zhou-dynasty-intro/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_05"
+  },
+  {
+    "id": "ZHO_A_05_02",
+    "type": "CITY",
+    "title": "Линьцзы эпохи Ци",
+    "original": "Linzi archaeological site",
+    "subtitle": "крупный городской центр Восточной Чжоу",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "Восточная Чжоу",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Линьцзы эпохи Ци — крупный городской центр Восточной Чжоу.",
+    "importance": "Архивная карточка дополняет главу «Эпоха Вёсен и Осеней» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: Восточная Чжоу.",
+      "Связь с темой: крупный городской центр Восточной Чжоу.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Эпоха Вёсен и Осеней",
+      "city"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 3,
+      "culture": 7,
+      "politics": 4,
+      "religion": 6,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Линьцзы",
+      "lat": 36.81,
+      "lon": 118.31
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-05/zho_a_05_02.svg",
+      "caption": "Локальная учебная обложка: Линьцзы эпохи Ци",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://smarthistory.org/zhou-dynasty-intro/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smarthistory: Zhou Dynasty, an introduction",
+      "url": "https://smarthistory.org/zhou-dynasty-intro/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_05"
+  },
+  {
+    "id": "ZHO_A_05_03",
+    "type": "ARTIFACT",
+    "title": "Бронзы государства Чу",
+    "original": "Chu bronzes",
+    "subtitle": "региональная ритуальная и художественная традиция",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "Восточная Чжоу",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Бронзы государства Чу — региональная ритуальная и художественная традиция.",
+    "importance": "Архивная карточка дополняет главу «Эпоха Вёсен и Осеней» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: Восточная Чжоу.",
+      "Связь с темой: региональная ритуальная и художественная традиция.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Эпоха Вёсен и Осеней",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 5,
+      "religion": 7,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ин, столица Чу",
+      "lat": 30.34,
+      "lon": 112.19
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-05/zho_a_05_03.svg",
+      "caption": "Локальная учебная обложка: Бронзы государства Чу",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://smarthistory.org/zhou-dynasty-intro/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smarthistory: Zhou Dynasty, an introduction",
+      "url": "https://smarthistory.org/zhou-dynasty-intro/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_05"
+  },
+  {
+    "id": "ZHO_A_05_04",
+    "type": "CONCEPT",
+    "title": "Проблема списка «пяти гегемонов»",
+    "original": "Five Hegemons debate",
+    "subtitle": "поздние варианты списка и различия традиций",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "современная историография",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Проблема списка «пяти гегемонов» — поздние варианты списка и различия традиций.",
+    "importance": "Архивная карточка дополняет главу «Эпоха Вёсен и Осеней» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Связь с темой: поздние варианты списка и различия традиций.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Эпоха Вёсен и Осеней",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 5,
+      "culture": 7,
+      "politics": 6,
+      "religion": 8,
+      "economy": 8,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Северный и Центральный Китай",
+      "lat": 34.5,
+      "lon": 112.0
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-05/zho_a_05_04.svg",
+      "caption": "Локальная учебная обложка: Проблема списка «пяти гегемонов»",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://smarthistory.org/zhou-dynasty-intro/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smarthistory: Zhou Dynasty, an introduction",
+      "url": "https://smarthistory.org/zhou-dynasty-intro/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_05"
+  },
+  {
+    "id": "ZHO_A_06_01",
+    "type": "TEXT",
+    "title": "Биография Конфуция у Сыма Цяня",
+    "original": "Sima Qian biography of Confucius",
+    "subtitle": "поздний рассказ о жизни мыслителя",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "II–I века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Биография Конфуция у Сыма Цяня — поздний рассказ о жизни мыслителя.",
+    "importance": "Архивная карточка дополняет главу «Конфуций, ритуал и образование» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: II–I века до н. э..",
+      "Связь с темой: поздний рассказ о жизни мыслителя.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Конфуций, ритуал и образование",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 3,
+      "culture": 6,
+      "politics": 5,
+      "religion": 6,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Северный и Центральный Китай",
+      "lat": 34.5,
+      "lon": 112.0
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-06/zho_a_06_01.svg",
+      "caption": "Локальная учебная обложка: Биография Конфуция у Сыма Цяня",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://plato.stanford.edu/entries/confucius/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Stanford Encyclopedia of Philosophy: Confucius",
+      "url": "https://plato.stanford.edu/entries/confucius/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_06"
+  },
+  {
+    "id": "ZHO_A_06_02",
+    "type": "BUILDING",
+    "title": "Храм Конфуция в Цюйфу",
+    "original": "Temple of Confucius Qufu",
+    "subtitle": "позднейший мемориальный комплекс на месте конфуцианской традиции",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "имперские эпохи",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Храм Конфуция в Цюйфу — позднейший мемориальный комплекс на месте конфуцианской традиции.",
+    "importance": "Архивная карточка дополняет главу «Конфуций, ритуал и образование» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: имперские эпохи.",
+      "Связь с темой: позднейший мемориальный комплекс на месте конфуцианской традиции.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Конфуций, ритуал и образование",
+      "building"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 4,
+      "culture": 8,
+      "politics": 6,
+      "religion": 7,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Цюйфу",
+      "lat": 35.58,
+      "lon": 116.98
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-06/zho_a_06_02.svg",
+      "caption": "Локальная учебная обложка: Храм Конфуция в Цюйфу",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://plato.stanford.edu/entries/confucius/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Stanford Encyclopedia of Philosophy: Confucius",
+      "url": "https://plato.stanford.edu/entries/confucius/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_06"
+  },
+  {
+    "id": "ZHO_A_06_03",
+    "type": "TEXT",
+    "title": "Бамбуковые списки классических текстов",
+    "original": "Early Chinese bamboo manuscripts",
+    "subtitle": "рукописные свидетельства передачи ранней мысли",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "Сражающиеся царства и Хань",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Бамбуковые списки классических текстов — рукописные свидетельства передачи ранней мысли.",
+    "importance": "Архивная карточка дополняет главу «Конфуций, ритуал и образование» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: Сражающиеся царства и Хань.",
+      "Связь с темой: рукописные свидетельства передачи ранней мысли.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Конфуций, ритуал и образование",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 7,
+      "religion": 8,
+      "economy": 8,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Северный и Центральный Китай",
+      "lat": 34.5,
+      "lon": 112.0
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-06/zho_a_06_03.svg",
+      "caption": "Локальная учебная обложка: Бамбуковые списки классических текстов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://plato.stanford.edu/entries/confucius/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Stanford Encyclopedia of Philosophy: Confucius",
+      "url": "https://plato.stanford.edu/entries/confucius/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_06"
+  },
+  {
+    "id": "ZHO_A_06_04",
+    "type": "CONCEPT",
+    "title": "Проблема слоёв «Лунь юй»",
+    "original": "Analects textual layers debate",
+    "subtitle": "вопрос о времени составления отдельных глав",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "современная текстология",
+    "rarity": "MYTHIC",
+    "difficulty": 8,
+    "summary": "Проблема слоёв «Лунь юй» — вопрос о времени составления отдельных глав.",
+    "importance": "Архивная карточка дополняет главу «Конфуций, ритуал и образование» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: современная текстология.",
+      "Связь с темой: вопрос о времени составления отдельных глав.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Конфуций, ритуал и образование",
+      "concept"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 6,
+      "culture": 8,
+      "politics": 8,
+      "religion": 4,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Цюйфу",
+      "lat": 35.58,
+      "lon": 116.98
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-06/zho_a_06_04.svg",
+      "caption": "Локальная учебная обложка: Проблема слоёв «Лунь юй»",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://plato.stanford.edu/entries/confucius/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Stanford Encyclopedia of Philosophy: Confucius",
+      "url": "https://plato.stanford.edu/entries/confucius/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_06"
+  },
+  {
+    "id": "ZHO_A_07_01",
+    "type": "INSTITUTION",
+    "title": "Школа Цзися",
+    "original": "Jixia Academy",
+    "subtitle": "интеллектуальный центр при дворе Ци",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "IV–III века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Школа Цзися — интеллектуальный центр при дворе Ци.",
+    "importance": "Архивная карточка дополняет главу «Сто школ и конкурирующие учения» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: IV–III века до н. э..",
+      "Связь с темой: интеллектуальный центр при дворе Ци.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Сто школ и конкурирующие учения",
+      "institution"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 4,
+      "culture": 7,
+      "politics": 7,
+      "religion": 7,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Линьцзы",
+      "lat": 36.81,
+      "lon": 118.31
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-07/zho_a_07_01.svg",
+      "caption": "Локальная учебная обложка: Школа Цзися",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://plato.stanford.edu/entries/ethics-chinese/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Stanford Encyclopedia of Philosophy: Chinese Ethics",
+      "url": "https://plato.stanford.edu/entries/ethics-chinese/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_07"
+  },
+  {
+    "id": "ZHO_A_07_02",
+    "type": "TEXT",
+    "title": "Годяньские бамбуковые тексты",
+    "original": "Guodian Chu Slips",
+    "subtitle": "ранние рукописи, важные для истории даосской и конфуцианской мысли",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "ок. 300 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Годяньские бамбуковые тексты — ранние рукописи, важные для истории даосской и конфуцианской мысли.",
+    "importance": "Архивная карточка дополняет главу «Сто школ и конкурирующие учения» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: ок. 300 год до н. э..",
+      "Связь с темой: ранние рукописи, важные для истории даосской и конфуцианской мысли.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Сто школ и конкурирующие учения",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 5,
+      "culture": 9,
+      "politics": 8,
+      "religion": 8,
+      "economy": 8,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Ин, столица Чу",
+      "lat": 30.34,
+      "lon": 112.19
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-07/zho_a_07_02.svg",
+      "caption": "Локальная учебная обложка: Годяньские бамбуковые тексты",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://plato.stanford.edu/entries/ethics-chinese/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Stanford Encyclopedia of Philosophy: Chinese Ethics",
+      "url": "https://plato.stanford.edu/entries/ethics-chinese/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_07"
+  },
+  {
+    "id": "ZHO_A_07_03",
+    "type": "TEXT",
+    "title": "Мэн-цзы как составной текст",
+    "original": "Mencius text",
+    "subtitle": "собрание диалогов и политических аргументов",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "Сражающиеся царства и Хань",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Мэн-цзы как составной текст — собрание диалогов и политических аргументов.",
+    "importance": "Архивная карточка дополняет главу «Сто школ и конкурирующие учения» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: Сражающиеся царства и Хань.",
+      "Связь с темой: собрание диалогов и политических аргументов.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Сто школ и конкурирующие учения",
+      "text"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 6,
+      "culture": 7,
+      "politics": 9,
+      "religion": 4,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Северный и Центральный Китай",
+      "lat": 34.5,
+      "lon": 112.0
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-07/zho_a_07_03.svg",
+      "caption": "Локальная учебная обложка: Мэн-цзы как составной текст",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://plato.stanford.edu/entries/ethics-chinese/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Stanford Encyclopedia of Philosophy: Chinese Ethics",
+      "url": "https://plato.stanford.edu/entries/ethics-chinese/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_07"
+  },
+  {
+    "id": "ZHO_A_07_04",
+    "type": "CONCEPT",
+    "title": "Проблема категории «школ»",
+    "original": "Hundred Schools classification debate",
+    "subtitle": "спор о поздней классификации ранних интеллектуальных традиций",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "современная историография",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Проблема категории «школ» — спор о поздней классификации ранних интеллектуальных традиций.",
+    "importance": "Архивная карточка дополняет главу «Сто школ и конкурирующие учения» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Связь с темой: спор о поздней классификации ранних интеллектуальных традиций.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Сто школ и конкурирующие учения",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 7,
+      "culture": 9,
+      "politics": 4,
+      "religion": 5,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Северный и Центральный Китай",
+      "lat": 34.5,
+      "lon": 112.0
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-07/zho_a_07_04.svg",
+      "caption": "Локальная учебная обложка: Проблема категории «школ»",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://plato.stanford.edu/entries/ethics-chinese/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_07_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Stanford Encyclopedia of Philosophy: Chinese Ethics",
+      "url": "https://plato.stanford.edu/entries/ethics-chinese/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_07"
+  },
+  {
+    "id": "ZHO_A_08_01",
+    "type": "SITE",
+    "title": "Гробница маркиза И Цзэнского",
+    "original": "Tomb of Marquis Yi of Zeng",
+    "subtitle": "элитное погребение с бронзами, оружием и музыкальными инструментами",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "433 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Гробница маркиза И Цзэнского — элитное погребение с бронзами, оружием и музыкальными инструментами.",
+    "importance": "Архивная карточка дополняет главу «Сражающиеся царства и военная революция» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: 433 год до н. э..",
+      "Связь с темой: элитное погребение с бронзами, оружием и музыкальными инструментами.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Сражающиеся царства и военная революция",
+      "site"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 5,
+      "culture": 8,
+      "politics": 9,
+      "religion": 8,
+      "economy": 8,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Цзэн и Суйчжоу",
+      "lat": 31.72,
+      "lon": 113.37
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-08/zho_a_08_01.svg",
+      "caption": "Локальная учебная обложка: Гробница маркиза И Цзэнского",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://smarthistory.org/tomb-of-marquis-yi-of-zeng-ambition/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smarthistory: Tomb of Marquis Yi of Zeng",
+      "url": "https://smarthistory.org/tomb-of-marquis-yi-of-zeng-ambition/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_08"
+  },
+  {
+    "id": "ZHO_A_08_02",
+    "type": "ARTIFACT",
+    "title": "Комплект колоколов бяньчжун",
+    "original": "Bianzhong of Marquis Yi of Zeng",
+    "subtitle": "монументальный музыкальный набор государства Цзэн",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "433 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Комплект колоколов бяньчжун — монументальный музыкальный набор государства Цзэн.",
+    "importance": "Архивная карточка дополняет главу «Сражающиеся царства и военная революция» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: 433 год до н. э..",
+      "Связь с темой: монументальный музыкальный набор государства Цзэн.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Сражающиеся царства и военная революция",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 6,
+      "culture": 6,
+      "politics": 4,
+      "religion": 4,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Цзэн и Суйчжоу",
+      "lat": 31.72,
+      "lon": 113.37
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-08/zho_a_08_02.svg",
+      "caption": "Локальная учебная обложка: Комплект колоколов бяньчжун",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://smarthistory.org/tomb-of-marquis-yi-of-zeng-ambition/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smarthistory: Tomb of Marquis Yi of Zeng",
+      "url": "https://smarthistory.org/tomb-of-marquis-yi-of-zeng-ambition/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_08"
+  },
+  {
+    "id": "ZHO_A_08_03",
+    "type": "ARTIFACT",
+    "title": "Монеты Сражающихся царств",
+    "original": "Warring States coinage",
+    "subtitle": "региональные ножевые, лопаточные и круглые монеты",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "V–III века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Монеты Сражающихся царств — региональные ножевые, лопаточные и круглые монеты.",
+    "importance": "Архивная карточка дополняет главу «Сражающиеся царства и военная революция» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: V–III века до н. э..",
+      "Связь с темой: региональные ножевые, лопаточные и круглые монеты.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Сражающиеся царства и военная революция",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 7,
+      "culture": 8,
+      "politics": 5,
+      "religion": 5,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Северный и Центральный Китай",
+      "lat": 34.5,
+      "lon": 112.0
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-08/zho_a_08_03.svg",
+      "caption": "Локальная учебная обложка: Монеты Сражающихся царств",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://smarthistory.org/tomb-of-marquis-yi-of-zeng-ambition/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smarthistory: Tomb of Marquis Yi of Zeng",
+      "url": "https://smarthistory.org/tomb-of-marquis-yi-of-zeng-ambition/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_08"
+  },
+  {
+    "id": "ZHO_A_08_04",
+    "type": "CONCEPT",
+    "title": "Спор о «военной революции» Восточной Чжоу",
+    "original": "Eastern Zhou military revolution debate",
+    "subtitle": "вопрос о темпе перехода от колесниц к массовой пехоте",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "современная историография",
+    "rarity": "LEGENDARY",
+    "difficulty": 9,
+    "summary": "Спор о «военной революции» Восточной Чжоу — вопрос о темпе перехода от колесниц к массовой пехоте.",
+    "importance": "Архивная карточка дополняет главу «Сражающиеся царства и военная революция» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Связь с темой: вопрос о темпе перехода от колесниц к массовой пехоте.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Сражающиеся царства и военная революция",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 2,
+      "culture": 6,
+      "politics": 6,
+      "religion": 6,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Северный и Центральный Китай",
+      "lat": 34.5,
+      "lon": 112.0
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-08/zho_a_08_04.svg",
+      "caption": "Локальная учебная обложка: Спор о «военной революции» Восточной Чжоу",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://smarthistory.org/tomb-of-marquis-yi-of-zeng-ambition/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_08_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smarthistory: Tomb of Marquis Yi of Zeng",
+      "url": "https://smarthistory.org/tomb-of-marquis-yi-of-zeng-ambition/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_08"
+  },
+  {
+    "id": "ZHO_A_09_01",
+    "type": "TEXT",
+    "title": "Циньские бамбуковые законы",
+    "original": "Qin legal texts",
+    "subtitle": "административные и правовые тексты позднего Цинь",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "III век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Циньские бамбуковые законы — административные и правовые тексты позднего Цинь.",
+    "importance": "Архивная карточка дополняет главу «Реформы, законы и бюрократия» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Связь с темой: административные и правовые тексты позднего Цинь.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Реформы, законы и бюрократия",
+      "text"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 6,
+      "culture": 9,
+      "politics": 5,
+      "religion": 4,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сяньян",
+      "lat": 34.33,
+      "lon": 108.7
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-09/zho_a_09_01.svg",
+      "caption": "Локальная учебная обложка: Циньские бамбуковые законы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://plato.stanford.edu/entries/ethics-chinese/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_09_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Stanford Encyclopedia of Philosophy: Chinese Ethics",
+      "url": "https://plato.stanford.edu/entries/ethics-chinese/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_09"
+  },
+  {
+    "id": "ZHO_A_09_02",
+    "type": "ARTIFACT",
+    "title": "Тигриный знак хупу",
+    "original": "Tiger tally",
+    "subtitle": "составной знак полномочий для военной мобилизации",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "Сражающиеся царства",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Тигриный знак хупу — составной знак полномочий для военной мобилизации.",
+    "importance": "Архивная карточка дополняет главу «Реформы, законы и бюрократия» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: Сражающиеся царства.",
+      "Связь с темой: составной знак полномочий для военной мобилизации.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Реформы, законы и бюрократия",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 7,
+      "culture": 7,
+      "politics": 6,
+      "religion": 5,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Северный и Центральный Китай",
+      "lat": 34.5,
+      "lon": 112.0
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-09/zho_a_09_02.svg",
+      "caption": "Локальная учебная обложка: Тигриный знак хупу",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://plato.stanford.edu/entries/ethics-chinese/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_09_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Stanford Encyclopedia of Philosophy: Chinese Ethics",
+      "url": "https://plato.stanford.edu/entries/ethics-chinese/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_09"
+  },
+  {
+    "id": "ZHO_A_09_03",
+    "type": "BUILDING",
+    "title": "Канал Чжэн Го",
+    "original": "Zhengguo Canal",
+    "subtitle": "ирригационный проект, усиливший сельское хозяйство Цинь",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "III век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Канал Чжэн Го — ирригационный проект, усиливший сельское хозяйство Цинь.",
+    "importance": "Архивная карточка дополняет главу «Реформы, законы и бюрократия» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Связь с темой: ирригационный проект, усиливший сельское хозяйство Цинь.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Реформы, законы и бюрократия",
+      "building"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 2,
+      "culture": 9,
+      "politics": 7,
+      "religion": 6,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Сяньян",
+      "lat": 34.33,
+      "lon": 108.7
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-09/zho_a_09_03.svg",
+      "caption": "Локальная учебная обложка: Канал Чжэн Го",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://plato.stanford.edu/entries/ethics-chinese/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_09_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Stanford Encyclopedia of Philosophy: Chinese Ethics",
+      "url": "https://plato.stanford.edu/entries/ethics-chinese/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_09"
+  },
+  {
+    "id": "ZHO_A_09_04",
+    "type": "CONCEPT",
+    "title": "Проблема термина «легизм»",
+    "original": "Legalism terminology debate",
+    "subtitle": "спор о позднем объединении разных авторов и практик",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "современная историография",
+    "rarity": "LEGENDARY",
+    "difficulty": 9,
+    "summary": "Проблема термина «легизм» — спор о позднем объединении разных авторов и практик.",
+    "importance": "Архивная карточка дополняет главу «Реформы, законы и бюрократия» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Связь с темой: спор о позднем объединении разных авторов и практик.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Реформы, законы и бюрократия",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 3,
+      "culture": 7,
+      "politics": 8,
+      "religion": 7,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Северный и Центральный Китай",
+      "lat": 34.5,
+      "lon": 112.0
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-09/zho_a_09_04.svg",
+      "caption": "Локальная учебная обложка: Проблема термина «легизм»",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://plato.stanford.edu/entries/ethics-chinese/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_09_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Stanford Encyclopedia of Philosophy: Chinese Ethics",
+      "url": "https://plato.stanford.edu/entries/ethics-chinese/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_09"
+  },
+  {
+    "id": "ZHO_A_10_01",
+    "type": "ARTIFACT",
+    "title": "Циньские бронзовые оружейные надписи",
+    "original": "Qin weapon inscriptions",
+    "subtitle": "серийные отметки мастерских и чиновников",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "III век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Циньские бронзовые оружейные надписи — серийные отметки мастерских и чиновников.",
+    "importance": "Архивная карточка дополняет главу «Возвышение Цинь и конец Чжоу» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Связь с темой: серийные отметки мастерских и чиновников.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Возвышение Цинь и конец Чжоу",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 7,
+      "religion": 5,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Сяньян",
+      "lat": 34.33,
+      "lon": 108.7
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-10/zho_a_10_01.svg",
+      "caption": "Локальная учебная обложка: Циньские бронзовые оружейные надписи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://smarthistory.org/tomb-first-emperor-qin/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_10_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smarthistory: Tomb of the First Emperor of Qin",
+      "url": "https://smarthistory.org/tomb-first-emperor-qin/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_10"
+  },
+  {
+    "id": "ZHO_A_10_02",
+    "type": "SITE",
+    "title": "Археология Чанпина",
+    "original": "Changping battlefield archaeology",
+    "subtitle": "материальные следы крупного конфликта Цинь и Чжао",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "III век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Археология Чанпина — материальные следы крупного конфликта Цинь и Чжао.",
+    "importance": "Архивная карточка дополняет главу «Возвышение Цинь и конец Чжоу» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Связь с темой: материальные следы крупного конфликта Цинь и Чжао.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Возвышение Цинь и конец Чжоу",
+      "site"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 2,
+      "culture": 8,
+      "politics": 8,
+      "religion": 6,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Чанпин",
+      "lat": 35.83,
+      "lon": 112.92
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-10/zho_a_10_02.svg",
+      "caption": "Локальная учебная обложка: Археология Чанпина",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://smarthistory.org/tomb-first-emperor-qin/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_10_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smarthistory: Tomb of the First Emperor of Qin",
+      "url": "https://smarthistory.org/tomb-first-emperor-qin/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_10"
+  },
+  {
+    "id": "ZHO_A_10_03",
+    "type": "ARTIFACT",
+    "title": "Циньские административные печати",
+    "original": "Qin administrative seals",
+    "subtitle": "инструменты управления и удостоверения полномочий",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "III век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Циньские административные печати — инструменты управления и удостоверения полномочий.",
+    "importance": "Архивная карточка дополняет главу «Возвышение Цинь и конец Чжоу» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Связь с темой: инструменты управления и удостоверения полномочий.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Возвышение Цинь и конец Чжоу",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 3,
+      "culture": 6,
+      "politics": 9,
+      "religion": 7,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сяньян",
+      "lat": 34.33,
+      "lon": 108.7
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-10/zho_a_10_03.svg",
+      "caption": "Локальная учебная обложка: Циньские административные печати",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://smarthistory.org/tomb-first-emperor-qin/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_10_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smarthistory: Tomb of the First Emperor of Qin",
+      "url": "https://smarthistory.org/tomb-first-emperor-qin/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_10"
+  },
+  {
+    "id": "ZHO_A_10_04",
+    "type": "CONCEPT",
+    "title": "Переход от царства Цинь к империи",
+    "original": "Qin unification transition debate",
+    "subtitle": "вопрос о преемственности реформ царства и институтов империи",
+    "era": "Железный век",
+    "region": "Китай эпохи Чжоу",
+    "date": "современная историография",
+    "rarity": "MYTHIC",
+    "difficulty": 9,
+    "summary": "Переход от царства Цинь к империи — вопрос о преемственности реформ царства и институтов империи.",
+    "importance": "Архивная карточка дополняет главу «Возвышение Цинь и конец Чжоу» отдельным памятником, рукописью или спором историков.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Связь с темой: вопрос о преемственности реформ царства и институтов империи.",
+      "Надёжность вывода зависит от происхождения, археологического контекста, редакционной истории и сопоставления с другими данными."
+    ],
+    "tags": [
+      "железный век",
+      "архив Чжоу",
+      "Возвышение Цинь и конец Чжоу",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 4,
+      "culture": 8,
+      "politics": 4,
+      "religion": 8,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Сяньян",
+      "lat": 34.33,
+      "lon": 108.7
+    },
+    "image": {
+      "local": "assets/cards/zhou-warring/chapter-10/zho_a_10_04.svg",
+      "caption": "Локальная учебная обложка: Переход от царства Цинь к империи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://smarthistory.org/tomb-first-emperor-qin/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "zho_a_10_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Smarthistory: Tomb of the First Emperor of Qin",
+      "url": "https://smarthistory.org/tomb-first-emperor-qin/",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ZHOU_WARRING",
+    "chapter": "ZHO_CHAPTER_10"
+  }
+]

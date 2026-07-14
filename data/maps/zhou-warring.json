@@ -1,0 +1,294 @@
+{
+  "points": {
+    "ZHOUYUAN": [
+      34.45,
+      107.9
+    ],
+    "FENGHAO": [
+      34.22,
+      108.72
+    ],
+    "MUYE": [
+      35.3,
+      114.1
+    ],
+    "LUOYI": [
+      34.68,
+      112.45
+    ],
+    "ANYANG": [
+      36.1,
+      114.33
+    ],
+    "QIFU": [
+      35.58,
+      116.98
+    ],
+    "LINZI": [
+      36.81,
+      118.31
+    ],
+    "JINYANG": [
+      37.87,
+      112.55
+    ],
+    "HOUma": [
+      35.62,
+      111.35
+    ],
+    "YING": [
+      30.34,
+      112.19
+    ],
+    "ZENG": [
+      31.72,
+      113.37
+    ],
+    "HANDAN": [
+      36.62,
+      114.49
+    ],
+    "DALiang": [
+      34.8,
+      114.31
+    ],
+    "JI": [
+      39.9,
+      116.4
+    ],
+    "XIANYANG": [
+      34.33,
+      108.7
+    ],
+    "SHANGYANG": [
+      34.5,
+      110.09
+    ],
+    "SHU": [
+      30.67,
+      104.07
+    ],
+    "DUJIANGYAN": [
+      31.0,
+      103.62
+    ],
+    "CHANGPING": [
+      35.83,
+      112.92
+    ],
+    "CHINA": [
+      34.5,
+      112.0
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "ZHO_S_01_01": "ZHOUYUAN",
+    "ZHO_S_01_02": "ZHOUYUAN",
+    "ZHO_S_01_03": "MUYE",
+    "ZHO_S_01_04": "MUYE",
+    "ZHO_S_01_05": "ANYANG",
+    "ZHO_S_01_06": "FENGHAO",
+    "ZHO_S_01_07": "LUOYI",
+    "ZHO_S_01_08": "FENGHAO",
+    "ZHO_A_01_01": "MUYE",
+    "ZHO_A_01_02": "ZHOUYUAN",
+    "ZHO_A_01_03": "FENGHAO",
+    "ZHO_A_01_04": "CHINA",
+    "ZHO_S_02_01": "FENGHAO",
+    "ZHO_S_02_02": "FENGHAO",
+    "ZHO_S_02_03": "LUOYI",
+    "ZHO_S_02_04": "FENGHAO",
+    "ZHO_S_02_05": "ZHOUYUAN",
+    "ZHO_S_02_06": "LUOYI",
+    "ZHO_S_02_07": "LUOYI",
+    "ZHO_S_02_08": "FENGHAO",
+    "ZHO_A_02_01": "FENGHAO",
+    "ZHO_A_02_02": "LUOYI",
+    "ZHO_A_02_03": "FENGHAO",
+    "ZHO_A_02_04": "CHINA",
+    "ZHO_S_03_01": "FENGHAO",
+    "ZHO_S_03_02": "ZHOUYUAN",
+    "ZHO_S_03_03": "FENGHAO",
+    "ZHO_S_03_04": "LUOYI",
+    "ZHO_S_03_05": "FENGHAO",
+    "ZHO_S_03_06": "ZHOUYUAN",
+    "ZHO_S_03_07": "FENGHAO",
+    "ZHO_S_03_08": "LUOYI",
+    "ZHO_A_03_01": "ZHOUYUAN",
+    "ZHO_A_03_02": "ZHOUYUAN",
+    "ZHO_A_03_03": "FENGHAO",
+    "ZHO_A_03_04": "CHINA",
+    "ZHO_S_04_01": "FENGHAO",
+    "ZHO_S_04_02": "FENGHAO",
+    "ZHO_S_04_03": "ZHOUYUAN",
+    "ZHO_S_04_04": "FENGHAO",
+    "ZHO_S_04_05": "LUOYI",
+    "ZHO_S_04_06": "LUOYI",
+    "ZHO_S_04_07": "CHINA",
+    "ZHO_S_04_08": "LUOYI",
+    "ZHO_A_04_01": "LUOYI",
+    "ZHO_A_04_02": "CHINA",
+    "ZHO_A_04_03": "QIFU",
+    "ZHO_A_04_04": "FENGHAO",
+    "ZHO_S_05_01": "CHINA",
+    "ZHO_S_05_02": "LINZI",
+    "ZHO_S_05_03": "LINZI",
+    "ZHO_S_05_04": "LINZI",
+    "ZHO_S_05_05": "JINYANG",
+    "ZHO_S_05_06": "YING",
+    "ZHO_S_05_07": "CHINA",
+    "ZHO_S_05_08": "CHINA",
+    "ZHO_A_05_01": "HOUma",
+    "ZHO_A_05_02": "LINZI",
+    "ZHO_A_05_03": "YING",
+    "ZHO_A_05_04": "CHINA",
+    "ZHO_S_06_01": "QIFU",
+    "ZHO_S_06_02": "QIFU",
+    "ZHO_S_06_03": "QIFU",
+    "ZHO_S_06_04": "QIFU",
+    "ZHO_S_06_05": "QIFU",
+    "ZHO_S_06_06": "QIFU",
+    "ZHO_S_06_07": "QIFU",
+    "ZHO_S_06_08": "QIFU",
+    "ZHO_A_06_01": "CHINA",
+    "ZHO_A_06_02": "QIFU",
+    "ZHO_A_06_03": "CHINA",
+    "ZHO_A_06_04": "QIFU",
+    "ZHO_S_07_01": "CHINA",
+    "ZHO_S_07_02": "CHINA",
+    "ZHO_S_07_03": "CHINA",
+    "ZHO_S_07_04": "CHINA",
+    "ZHO_S_07_05": "CHINA",
+    "ZHO_S_07_06": "CHINA",
+    "ZHO_S_07_07": "CHINA",
+    "ZHO_S_07_08": "CHINA",
+    "ZHO_A_07_01": "LINZI",
+    "ZHO_A_07_02": "YING",
+    "ZHO_A_07_03": "CHINA",
+    "ZHO_A_07_04": "CHINA",
+    "ZHO_S_08_01": "CHINA",
+    "ZHO_S_08_02": "CHINA",
+    "ZHO_S_08_03": "JINYANG",
+    "ZHO_S_08_04": "HANDAN",
+    "ZHO_S_08_05": "DALiang",
+    "ZHO_S_08_06": "JI",
+    "ZHO_S_08_07": "CHINA",
+    "ZHO_S_08_08": "CHINA",
+    "ZHO_A_08_01": "ZENG",
+    "ZHO_A_08_02": "ZENG",
+    "ZHO_A_08_03": "CHINA",
+    "ZHO_A_08_04": "CHINA",
+    "ZHO_S_09_01": "SHANGYANG",
+    "ZHO_S_09_02": "XIANYANG",
+    "ZHO_S_09_03": "CHINA",
+    "ZHO_S_09_04": "XIANYANG",
+    "ZHO_S_09_05": "CHINA",
+    "ZHO_S_09_06": "CHINA",
+    "ZHO_S_09_07": "CHINA",
+    "ZHO_S_09_08": "DUJIANGYAN",
+    "ZHO_A_09_01": "XIANYANG",
+    "ZHO_A_09_02": "CHINA",
+    "ZHO_A_09_03": "XIANYANG",
+    "ZHO_A_09_04": "CHINA",
+    "ZHO_S_10_01": "XIANYANG",
+    "ZHO_S_10_02": "XIANYANG",
+    "ZHO_S_10_03": "XIANYANG",
+    "ZHO_S_10_04": "SHU",
+    "ZHO_S_10_05": "XIANYANG",
+    "ZHO_S_10_06": "CHANGPING",
+    "ZHO_S_10_07": "LUOYI",
+    "ZHO_S_10_08": "XIANYANG",
+    "ZHO_A_10_01": "XIANYANG",
+    "ZHO_A_10_02": "CHANGPING",
+    "ZHO_A_10_03": "XIANYANG",
+    "ZHO_A_10_04": "XIANYANG"
+  },
+  "chapters": {
+    "ZHO_CHAPTER_01": {
+      "title": "Завоевание Шан и основание Чжоу",
+      "center": [
+        34.45,
+        107.9
+      ],
+      "zoom": 7
+    },
+    "ZHO_CHAPTER_02": {
+      "title": "Мандат Неба и ритуальная власть",
+      "center": [
+        34.22,
+        108.72
+      ],
+      "zoom": 7
+    },
+    "ZHO_CHAPTER_03": {
+      "title": "Западная Чжоу: роды, владения и бронзы",
+      "center": [
+        34.22,
+        108.72
+      ],
+      "zoom": 7
+    },
+    "ZHO_CHAPTER_04": {
+      "title": "Кризис 771 года и Восточная Чжоу",
+      "center": [
+        34.22,
+        108.72
+      ],
+      "zoom": 7
+    },
+    "ZHO_CHAPTER_05": {
+      "title": "Эпоха Вёсен и Осеней",
+      "center": [
+        36.81,
+        118.31
+      ],
+      "zoom": 7
+    },
+    "ZHO_CHAPTER_06": {
+      "title": "Конфуций, ритуал и образование",
+      "center": [
+        35.58,
+        116.98
+      ],
+      "zoom": 7
+    },
+    "ZHO_CHAPTER_07": {
+      "title": "Сто школ и конкурирующие учения",
+      "center": [
+        36.81,
+        118.31
+      ],
+      "zoom": 7
+    },
+    "ZHO_CHAPTER_08": {
+      "title": "Сражающиеся царства и военная революция",
+      "center": [
+        36.62,
+        114.49
+      ],
+      "zoom": 7
+    },
+    "ZHO_CHAPTER_09": {
+      "title": "Реформы, законы и бюрократия",
+      "center": [
+        34.5,
+        110.09
+      ],
+      "zoom": 7
+    },
+    "ZHO_CHAPTER_10": {
+      "title": "Возвышение Цинь и конец Чжоу",
+      "center": [
+        34.33,
+        108.7
+      ],
+      "zoom": 7
+    }
+  },
+  "missionCenter": [
+    34.8,
+    112.0
+  ],
+  "missionZoom": 5
+}

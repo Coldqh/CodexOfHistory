@@ -1,5 +1,5 @@
 {
-  "version": "4.3.0",
+  "version": "4.4.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -40,7 +40,9 @@
       "data/cards/israel-judah/story.json",
       "data/cards/israel-judah/archive.json",
       "data/cards/archaic-greece/story.json",
-      "data/cards/archaic-greece/archive.json"
+      "data/cards/archaic-greece/archive.json",
+      "data/cards/zhou-warring/story.json",
+      "data/cards/zhou-warring/archive.json"
     ],
     "relations": "data/core/relations.json",
     "pools": [
@@ -61,7 +63,8 @@
       "data/campaigns/assyria-babylon/pools.json",
       "data/campaigns/phoenicians/pools.json",
       "data/campaigns/israel-judah/pools.json",
-      "data/campaigns/archaic-greece/pools.json"
+      "data/campaigns/archaic-greece/pools.json",
+      "data/campaigns/zhou-warring/pools.json"
     ],
     "quizzes": [
       "data/quizzes/rome/chapter_01.json",
@@ -85,7 +88,8 @@
       "data/quizzes/assyria-babylon/campaign.json",
       "data/quizzes/phoenicians/campaign.json",
       "data/quizzes/israel-judah/campaign.json",
-      "data/quizzes/archaic-greece/campaign.json"
+      "data/quizzes/archaic-greece/campaign.json",
+      "data/quizzes/zhou-warring/campaign.json"
     ],
     "stories": [
       "data/stories/rome/personal.json",
@@ -105,7 +109,8 @@
       "data/stories/assyria-babylon/personal.json",
       "data/stories/phoenicians/personal.json",
       "data/stories/israel-judah/personal.json",
-      "data/stories/archaic-greece/personal.json"
+      "data/stories/archaic-greece/personal.json",
+      "data/stories/zhou-warring/personal.json"
     ],
     "mastery": "data/core/mastery.json",
     "packs": "data/core/packs.json",
@@ -129,7 +134,8 @@
       "ASSYRIA_BABYLON": "data/maps/assyria-babylon.json",
       "PHOENICIANS": "data/maps/phoenicians.json",
       "ISRAEL_JUDAH": "data/maps/israel-judah.json",
-      "GREECE_ARCHAIC": "data/maps/archaic-greece.json"
+      "GREECE_ARCHAIC": "data/maps/archaic-greece.json",
+      "ZHOU_WARRING": "data/maps/zhou-warring.json"
     },
     "daily": "data/core/daily-learning.json",
     "lessons": [
@@ -154,7 +160,8 @@
       "data/lessons/assyria-babylon/campaign.json",
       "data/lessons/phoenicians/campaign.json",
       "data/lessons/israel-judah/campaign.json",
-      "data/lessons/archaic-greece/campaign.json"
+      "data/lessons/archaic-greece/campaign.json",
+      "data/lessons/zhou-warring/campaign.json"
     ],
     "eras": "data/world/eras.json",
     "campaignCatalog": "data/world/campaigns.json",
@@ -177,7 +184,8 @@
       "data/campaigns/assyria-babylon/campaign.json",
       "data/campaigns/phoenicians/campaign.json",
       "data/campaigns/israel-judah/campaign.json",
-      "data/campaigns/archaic-greece/campaign.json"
+      "data/campaigns/archaic-greece/campaign.json",
+      "data/campaigns/zhou-warring/campaign.json"
     ],
     "imageQueries": "data/image_queries.json"
   },
@@ -221,6 +229,7 @@
     "js/features/v4-1-phoenicians.js",
     "js/features/v4-2-israel-judah.js",
     "js/features/v4-3-archaic-greece.js",
+    "js/features/v4-4-zhou-warring.js",
     "js/features/v3-1-1-hotfix.js",
     "js/features/v3-1-3-visual-semantics.js",
     "js/core/start.js"

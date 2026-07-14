@@ -1,0 +1,326 @@
+{
+  "points": {
+    "PARS": [
+      29.6,
+      52.5
+    ],
+    "ANSHAN": [
+      30.0,
+      52.0
+    ],
+    "PASARGADAE": [
+      30.2,
+      53.18
+    ],
+    "ECBATANA": [
+      34.8,
+      48.51
+    ],
+    "SARDIS": [
+      38.49,
+      28.04
+    ],
+    "BABYLON": [
+      32.54,
+      44.42
+    ],
+    "OPIS": [
+      33.35,
+      44.53
+    ],
+    "SUSA": [
+      32.19,
+      48.26
+    ],
+    "MEMPHIS": [
+      29.85,
+      31.25
+    ],
+    "BEHISTUN": [
+      34.39,
+      47.44
+    ],
+    "PERSEPOLIS": [
+      29.94,
+      52.89
+    ],
+    "NAQSH_RUSTAM": [
+      29.99,
+      52.87
+    ],
+    "BACTRIA": [
+      36.75,
+      66.9
+    ],
+    "SOGDIANA": [
+      39.65,
+      66.97
+    ],
+    "GANDHARA": [
+      34.0,
+      71.5
+    ],
+    "INDUS": [
+      30.0,
+      70.0
+    ],
+    "ROYAL_ROAD": [
+      37.0,
+      35.0
+    ],
+    "IONIA": [
+      38.0,
+      27.0
+    ],
+    "MILETUS": [
+      37.53,
+      27.28
+    ],
+    "MARATHON": [
+      38.15,
+      24.01
+    ],
+    "THERMOPYLAE": [
+      38.8,
+      22.54
+    ],
+    "SALAMIS": [
+      37.95,
+      23.49
+    ],
+    "PLATAEA": [
+      38.21,
+      23.27
+    ],
+    "CUNAXA": [
+      33.1,
+      44.2
+    ],
+    "GRANICUS": [
+      40.32,
+      27.28
+    ],
+    "ISSUS": [
+      36.84,
+      36.17
+    ],
+    "GAUGAMELA": [
+      36.36,
+      43.25
+    ],
+    "EMPIRE": [
+      31.5,
+      45.0
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "PER_S_01_01": "PARS",
+    "PER_S_01_02": "PARS",
+    "PER_S_01_03": "ANSHAN",
+    "PER_S_01_04": "ECBATANA",
+    "PER_S_01_05": "PARS",
+    "PER_S_01_06": "ANSHAN",
+    "PER_S_01_07": "SUSA",
+    "PER_S_01_08": "PARS",
+    "PER_A_01_01": "PARS",
+    "PER_A_01_02": "SUSA",
+    "PER_A_01_03": "ECBATANA",
+    "PER_A_01_04": "PARS",
+    "PER_S_02_01": "PASARGADAE",
+    "PER_S_02_02": "ECBATANA",
+    "PER_S_02_03": "SARDIS",
+    "PER_S_02_04": "SARDIS",
+    "PER_S_02_05": "BABYLON",
+    "PER_S_02_06": "OPIS",
+    "PER_S_02_07": "BABYLON",
+    "PER_S_02_08": "PASARGADAE",
+    "PER_A_02_01": "BABYLON",
+    "PER_A_02_02": "PASARGADAE",
+    "PER_A_02_03": "SARDIS",
+    "PER_A_02_04": "EMPIRE",
+    "PER_S_03_01": "BABYLON",
+    "PER_S_03_02": "BABYLON",
+    "PER_S_03_03": "BABYLON",
+    "PER_S_03_04": "BABYLON",
+    "PER_S_03_05": "BABYLON",
+    "PER_S_03_06": "EMPIRE",
+    "PER_S_03_07": "SUSA",
+    "PER_S_03_08": "EMPIRE",
+    "PER_A_03_01": "BABYLON",
+    "PER_A_03_02": "BABYLON",
+    "PER_A_03_03": "BABYLON",
+    "PER_A_03_04": "BABYLON",
+    "PER_S_04_01": "MEMPHIS",
+    "PER_S_04_02": "MEMPHIS",
+    "PER_S_04_03": "MEMPHIS",
+    "PER_S_04_04": "MEMPHIS",
+    "PER_S_04_05": "MEMPHIS",
+    "PER_S_04_06": "SUSA",
+    "PER_S_04_07": "BEHISTUN",
+    "PER_S_04_08": "BEHISTUN",
+    "PER_A_04_01": "MEMPHIS",
+    "PER_A_04_02": "MEMPHIS",
+    "PER_A_04_03": "BEHISTUN",
+    "PER_A_04_04": "MEMPHIS",
+    "PER_S_05_01": "PERSEPOLIS",
+    "PER_S_05_02": "BEHISTUN",
+    "PER_S_05_03": "BEHISTUN",
+    "PER_S_05_04": "BEHISTUN",
+    "PER_S_05_05": "BEHISTUN",
+    "PER_S_05_06": "PARS",
+    "PER_S_05_07": "BEHISTUN",
+    "PER_S_05_08": "EMPIRE",
+    "PER_A_05_01": "BEHISTUN",
+    "PER_A_05_02": "BEHISTUN",
+    "PER_A_05_03": "BEHISTUN",
+    "PER_A_05_04": "BEHISTUN",
+    "PER_S_06_01": "EMPIRE",
+    "PER_S_06_02": "SARDIS",
+    "PER_S_06_03": "ROYAL_ROAD",
+    "PER_S_06_04": "ROYAL_ROAD",
+    "PER_S_06_05": "SUSA",
+    "PER_S_06_06": "SUSA",
+    "PER_S_06_07": "SUSA",
+    "PER_S_06_08": "EMPIRE",
+    "PER_A_06_01": "PERSEPOLIS",
+    "PER_A_06_02": "SARDIS",
+    "PER_A_06_03": "MEMPHIS",
+    "PER_A_06_04": "EMPIRE",
+    "PER_S_07_01": "SUSA",
+    "PER_S_07_02": "PERSEPOLIS",
+    "PER_S_07_03": "PERSEPOLIS",
+    "PER_S_07_04": "PERSEPOLIS",
+    "PER_S_07_05": "NAQSH_RUSTAM",
+    "PER_S_07_06": "PERSEPOLIS",
+    "PER_S_07_07": "PERSEPOLIS",
+    "PER_S_07_08": "EMPIRE",
+    "PER_A_07_01": "PERSEPOLIS",
+    "PER_A_07_02": "PERSEPOLIS",
+    "PER_A_07_03": "PERSEPOLIS",
+    "PER_A_07_04": "PERSEPOLIS",
+    "PER_S_08_01": "PERSEPOLIS",
+    "PER_S_08_02": "PERSEPOLIS",
+    "PER_S_08_03": "EMPIRE",
+    "PER_S_08_04": "BACTRIA",
+    "PER_S_08_05": "GANDHARA",
+    "PER_S_08_06": "PERSEPOLIS",
+    "PER_S_08_07": "EMPIRE",
+    "PER_S_08_08": "EMPIRE",
+    "PER_A_08_01": "BACTRIA",
+    "PER_A_08_02": "PERSEPOLIS",
+    "PER_A_08_03": "PARS",
+    "PER_A_08_04": "INDUS",
+    "PER_S_09_01": "IONIA",
+    "PER_S_09_02": "MILETUS",
+    "PER_S_09_03": "SARDIS",
+    "PER_S_09_04": "MARATHON",
+    "PER_S_09_05": "PERSEPOLIS",
+    "PER_S_09_06": "THERMOPYLAE",
+    "PER_S_09_07": "SALAMIS",
+    "PER_S_09_08": "PLATAEA",
+    "PER_A_09_01": "IONIA",
+    "PER_A_09_02": "THERMOPYLAE",
+    "PER_A_09_03": "SALAMIS",
+    "PER_A_09_04": "MILETUS",
+    "PER_S_10_01": "SUSA",
+    "PER_S_10_02": "SUSA",
+    "PER_S_10_03": "CUNAXA",
+    "PER_S_10_04": "CUNAXA",
+    "PER_S_10_05": "MEMPHIS",
+    "PER_S_10_06": "GAUGAMELA",
+    "PER_S_10_07": "ISSUS",
+    "PER_S_10_08": "GAUGAMELA",
+    "PER_A_10_01": "CUNAXA",
+    "PER_A_10_02": "SARDIS",
+    "PER_A_10_03": "PERSEPOLIS",
+    "PER_A_10_04": "EMPIRE"
+  },
+  "chapters": {
+    "PER_CHAPTER_01": {
+      "title": "Персы, мидяне и Иранское плато",
+      "center": [
+        29.6,
+        52.5
+      ],
+      "zoom": 5
+    },
+    "PER_CHAPTER_02": {
+      "title": "Кир II и создание державы",
+      "center": [
+        34.8,
+        48.51
+      ],
+      "zoom": 5
+    },
+    "PER_CHAPTER_03": {
+      "title": "Кир в Вавилоне и язык законной власти",
+      "center": [
+        32.54,
+        44.42
+      ],
+      "zoom": 5
+    },
+    "PER_CHAPTER_04": {
+      "title": "Камбис II, Египет и кризис престолонаследия",
+      "center": [
+        29.85,
+        31.25
+      ],
+      "zoom": 5
+    },
+    "PER_CHAPTER_05": {
+      "title": "Дарий I и Бехистунская надпись",
+      "center": [
+        34.39,
+        47.44
+      ],
+      "zoom": 5
+    },
+    "PER_CHAPTER_06": {
+      "title": "Сатрапии, налоги и Царская дорога",
+      "center": [
+        38.49,
+        28.04
+      ],
+      "zoom": 5
+    },
+    "PER_CHAPTER_07": {
+      "title": "Сузы, Персеполь и царский двор",
+      "center": [
+        32.19,
+        48.26
+      ],
+      "zoom": 5
+    },
+    "PER_CHAPTER_08": {
+      "title": "Народы, армии и религии империи",
+      "center": [
+        29.94,
+        52.89
+      ],
+      "zoom": 5
+    },
+    "PER_CHAPTER_09": {
+      "title": "Ионийское восстание и войны с греческими полисами",
+      "center": [
+        38.0,
+        27.0
+      ],
+      "zoom": 5
+    },
+    "PER_CHAPTER_10": {
+      "title": "Поздняя держава и завоевание Александра",
+      "center": [
+        33.1,
+        44.2
+      ],
+      "zoom": 5
+    }
+  },
+  "missionCenter": [
+    33.0,
+    44.0
+  ],
+  "missionZoom": 4
+}

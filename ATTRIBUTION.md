@@ -285,3 +285,7 @@
 ## v4.6 — Железный век: общий сравнительный слой
 
 Локальные SVG-обложки 96 карточек и обложка общего пака созданы для Codex of History. Источники: Metropolitan Museum of Art, British Museum, UNESCO и Smarthistory.
+
+## v5.0 — Ахеменидская Персия
+
+Локальные SVG-обложки 120 карточек и обложка пака созданы для Codex of History. Источники: Metropolitan Museum of Art, British Museum, UNESCO и Encyclopaedia Iranica.

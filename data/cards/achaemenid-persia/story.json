@@ -1,0 +1,4722 @@
+[
+  {
+    "id": "PER_S_01_01",
+    "type": "REGION",
+    "title": "Иранское плато",
+    "original": "Iranian Plateau",
+    "subtitle": "пространство гор, степей и долин, где складывались ранние иранские государства",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Иранское плато — пространство гор, степей и долин, где складывались ранние иранские государства.",
+    "importance": "Карточка раскрывает главу «Персы, мидяне и Иранское плато» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Основной смысл: пространство гор, степей и долин, где складывались ранние иранские государства.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Персы, мидяне и Иранское плато",
+      "region"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Парса / Фарс",
+      "lat": 29.6,
+      "lon": 52.5
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-01/per_s_01_01.svg",
+      "caption": "Локальная учебная обложка: Иранское плато",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_01_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_01"
+  },
+  {
+    "id": "PER_S_01_02",
+    "type": "REGION",
+    "title": "Парса",
+    "original": "Parsa",
+    "subtitle": "область юго-западного Ирана, ставшая ядром персидской державы",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VII–VI века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Парса — область юго-западного Ирана, ставшая ядром персидской державы.",
+    "importance": "Карточка раскрывает главу «Персы, мидяне и Иранское плато» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VII–VI века до н. э..",
+      "Основной смысл: область юго-западного Ирана, ставшая ядром персидской державы.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Персы, мидяне и Иранское плато",
+      "region"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 8,
+      "culture": 8,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Парса / Фарс",
+      "lat": 29.6,
+      "lon": 52.5
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-01/per_s_01_02.svg",
+      "caption": "Локальная учебная обложка: Парса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_01_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_01"
+  },
+  {
+    "id": "PER_S_01_03",
+    "type": "CITY",
+    "title": "Аншан",
+    "original": "Anshan",
+    "subtitle": "древний центр, титул правителя которого использовал Кир II",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "II–I тысячелетия до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Аншан — древний центр, титул правителя которого использовал Кир II.",
+    "importance": "Карточка раскрывает главу «Персы, мидяне и Иранское плато» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: II–I тысячелетия до н. э..",
+      "Основной смысл: древний центр, титул правителя которого использовал Кир II.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Персы, мидяне и Иранское плато",
+      "city"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 3,
+      "culture": 9,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Аншан",
+      "lat": 30.0,
+      "lon": 52.0
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-01/per_s_01_03.svg",
+      "caption": "Локальная учебная обложка: Аншан",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_01_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_01"
+  },
+  {
+    "id": "PER_S_01_04",
+    "type": "STATE",
+    "title": "Мидийское царство",
+    "original": "Median Empire",
+    "subtitle": "политическое объединение западного Ирана, известное по внешним источникам",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VII–VI века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Мидийское царство — политическое объединение западного Ирана, известное по внешним источникам.",
+    "importance": "Карточка раскрывает главу «Персы, мидяне и Иранское плато» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VII–VI века до н. э..",
+      "Основной смысл: политическое объединение западного Ирана, известное по внешним источникам.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Персы, мидяне и Иранское плато",
+      "state"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 5,
+      "culture": 5,
+      "politics": 8,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Экбатана",
+      "lat": 34.8,
+      "lon": 48.51
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-01/per_s_01_04.svg",
+      "caption": "Локальная учебная обложка: Мидийское царство",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_01_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_01"
+  },
+  {
+    "id": "PER_S_01_05",
+    "type": "PERSON",
+    "title": "Ахемен",
+    "original": "Achaemenes",
+    "subtitle": "предок династии в поздней ахеменидской родословной",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "традиционная генеалогия",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Ахемен — предок династии в поздней ахеменидской родословной.",
+    "importance": "Карточка раскрывает главу «Персы, мидяне и Иранское плато» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: традиционная генеалогия.",
+      "Основной смысл: предок династии в поздней ахеменидской родословной.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Персы, мидяне и Иранское плато",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 7,
+      "culture": 6,
+      "politics": 9,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Парса / Фарс",
+      "lat": 29.6,
+      "lon": 52.5
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-01/per_s_01_05.svg",
+      "caption": "Локальная учебная обложка: Ахемен",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_01_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_01"
+  },
+  {
+    "id": "PER_S_01_06",
+    "type": "PERSON",
+    "title": "Теисп",
+    "original": "Teispes",
+    "subtitle": "ранний представитель ахеменидского дома, связанный с Аншаном",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VII век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Теисп — ранний представитель ахеменидского дома, связанный с Аншаном.",
+    "importance": "Карточка раскрывает главу «Персы, мидяне и Иранское плато» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VII век до н. э..",
+      "Основной смысл: ранний представитель ахеменидского дома, связанный с Аншаном.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Персы, мидяне и Иранское плато",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 9,
+      "culture": 7,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Аншан",
+      "lat": 30.0,
+      "lon": 52.0
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-01/per_s_01_06.svg",
+      "caption": "Локальная учебная обложка: Теисп",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_01_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_01"
+  },
+  {
+    "id": "PER_S_01_07",
+    "type": "CONCEPT",
+    "title": "Эламское наследие",
+    "original": "Elamite legacy in Achaemenid Persia",
+    "subtitle": "административные и культурные традиции юго-западного Ирана",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Эламское наследие — административные и культурные традиции юго-западного Ирана.",
+    "importance": "Карточка раскрывает главу «Персы, мидяне и Иранское плато» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Основной смысл: административные и культурные традиции юго-западного Ирана.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Персы, мидяне и Иранское плато",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 4,
+      "culture": 8,
+      "politics": 7,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сузы",
+      "lat": 32.19,
+      "lon": 48.26
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-01/per_s_01_07.svg",
+      "caption": "Локальная учебная обложка: Эламское наследие",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_01_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_01"
+  },
+  {
+    "id": "PER_S_01_08",
+    "type": "SYSTEM",
+    "title": "Персидская царская линия",
+    "original": "Early Achaemenid lineage",
+    "subtitle": "династическая сеть, из которой вышел Кир II",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VII–VI века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Персидская царская линия — династическая сеть, из которой вышел Кир II.",
+    "importance": "Карточка раскрывает главу «Персы, мидяне и Иранское плато» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VII–VI века до н. э..",
+      "Основной смысл: династическая сеть, из которой вышел Кир II.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Персы, мидяне и Иранское плато",
+      "system"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 6,
+      "culture": 9,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Парса / Фарс",
+      "lat": 29.6,
+      "lon": 52.5
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-01/per_s_01_08.svg",
+      "caption": "Локальная учебная обложка: Персидская царская линия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_01_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_01"
+  },
+  {
+    "id": "PER_S_02_01",
+    "type": "PERSON",
+    "title": "Кир II Великий",
+    "original": "Cyrus the Great",
+    "subtitle": "основатель Ахеменидской державы и завоеватель Вавилона",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "ок. 559–530 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Кир II Великий — основатель Ахеменидской державы и завоеватель Вавилона.",
+    "importance": "Карточка раскрывает главу «Кир II и создание державы» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: ок. 559–530 годы до н. э..",
+      "Основной смысл: основатель Ахеменидской державы и завоеватель Вавилона.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Кир II и создание державы",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 8,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Пасаргады",
+      "lat": 30.2,
+      "lon": 53.18
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-02/per_s_02_01.svg",
+      "caption": "Локальная учебная обложка: Кир II Великий",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_02_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Iran, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_02"
+  },
+  {
+    "id": "PER_S_02_02",
+    "type": "EVENT",
+    "title": "Покорение Мидии",
+    "original": "Persian conquest of Media",
+    "subtitle": "переход мидийского царства под власть Кира II",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "ок. 550 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Покорение Мидии — переход мидийского царства под власть Кира II.",
+    "importance": "Карточка раскрывает главу «Кир II и создание державы» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: ок. 550 год до н. э..",
+      "Основной смысл: переход мидийского царства под власть Кира II.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Кир II и создание державы",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 9,
+      "culture": 9,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Экбатана",
+      "lat": 34.8,
+      "lon": 48.51
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-02/per_s_02_02.svg",
+      "caption": "Локальная учебная обложка: Покорение Мидии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_02_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Iran, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_02"
+  },
+  {
+    "id": "PER_S_02_03",
+    "type": "PERSON",
+    "title": "Крез",
+    "original": "Croesus",
+    "subtitle": "лидийский царь, потерпевший поражение от Кира II",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Крез — лидийский царь, потерпевший поражение от Кира II.",
+    "importance": "Карточка раскрывает главу «Кир II и создание державы» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI век до н. э..",
+      "Основной смысл: лидийский царь, потерпевший поражение от Кира II.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Кир II и создание державы",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 4,
+      "culture": 5,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Сарды",
+      "lat": 38.49,
+      "lon": 28.04
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-02/per_s_02_03.svg",
+      "caption": "Локальная учебная обложка: Крез",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_02_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Iran, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_02"
+  },
+  {
+    "id": "PER_S_02_04",
+    "type": "EVENT",
+    "title": "Завоевание Лидии",
+    "original": "Persian conquest of Lydia",
+    "subtitle": "включение Сард и западной Малой Азии в державу",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "ок. 547–546 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Завоевание Лидии — включение Сард и западной Малой Азии в державу.",
+    "importance": "Карточка раскрывает главу «Кир II и создание державы» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: ок. 547–546 годы до н. э..",
+      "Основной смысл: включение Сард и западной Малой Азии в державу.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Кир II и создание державы",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 6,
+      "culture": 6,
+      "politics": 6,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сарды",
+      "lat": 38.49,
+      "lon": 28.04
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-02/per_s_02_04.svg",
+      "caption": "Локальная учебная обложка: Завоевание Лидии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_02_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Iran, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_02"
+  },
+  {
+    "id": "PER_S_02_05",
+    "type": "PERSON",
+    "title": "Набонид",
+    "original": "Nabonidus",
+    "subtitle": "последний царь Нововавилонского царства",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "556–539 годы до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Набонид — последний царь Нововавилонского царства.",
+    "importance": "Карточка раскрывает главу «Кир II и создание державы» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 556–539 годы до н. э..",
+      "Основной смысл: последний царь Нововавилонского царства.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Кир II и создание державы",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 8,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Вавилон",
+      "lat": 32.54,
+      "lon": 44.42
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-02/per_s_02_05.svg",
+      "caption": "Локальная учебная обложка: Набонид",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_02_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Iran, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_02"
+  },
+  {
+    "id": "PER_S_02_06",
+    "type": "BATTLE",
+    "title": "Битва при Описе",
+    "original": "Battle of Opis",
+    "subtitle": "сражение перед занятием Вавилонии персами",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "539 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Битва при Описе — сражение перед занятием Вавилонии персами.",
+    "importance": "Карточка раскрывает главу «Кир II и создание державы» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 539 год до н. э..",
+      "Основной смысл: сражение перед занятием Вавилонии персами.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Кир II и создание державы",
+      "battle"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 3,
+      "culture": 8,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Опис",
+      "lat": 33.35,
+      "lon": 44.53
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-02/per_s_02_06.svg",
+      "caption": "Локальная учебная обложка: Битва при Описе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_02_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Iran, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_02"
+  },
+  {
+    "id": "PER_S_02_07",
+    "type": "EVENT",
+    "title": "Завоевание Вавилона Киром",
+    "original": "Conquest of Babylon by Cyrus",
+    "subtitle": "переход Вавилона под власть Ахеменидов",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "539 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Завоевание Вавилона Киром — переход Вавилона под власть Ахеменидов.",
+    "importance": "Карточка раскрывает главу «Кир II и создание державы» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 539 год до н. э..",
+      "Основной смысл: переход Вавилона под власть Ахеменидов.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Кир II и создание державы",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 9,
+      "politics": 9,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Вавилон",
+      "lat": 32.54,
+      "lon": 44.42
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-02/per_s_02_07.svg",
+      "caption": "Локальная учебная обложка: Завоевание Вавилона Киром",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_02_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Iran, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_02"
+  },
+  {
+    "id": "PER_S_02_08",
+    "type": "CITY",
+    "title": "Пасаргады",
+    "original": "Pasargadae",
+    "subtitle": "первая династическая столица и место гробницы Кира",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Пасаргады — первая династическая столица и место гробницы Кира.",
+    "importance": "Карточка раскрывает главу «Кир II и создание державы» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI век до н. э..",
+      "Основной смысл: первая династическая столица и место гробницы Кира.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Кир II и создание державы",
+      "city"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 7,
+      "culture": 5,
+      "politics": 6,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Пасаргады",
+      "lat": 30.2,
+      "lon": 53.18
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-02/per_s_02_08.svg",
+      "caption": "Локальная учебная обложка: Пасаргады",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_02_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Iran, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_02"
+  },
+  {
+    "id": "PER_S_03_01",
+    "type": "ARTIFACT",
+    "title": "Цилиндр Кира",
+    "original": "Cyrus Cylinder",
+    "subtitle": "вавилонская закладная надпись о приходе Кира и восстановлении культов",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "после 539 года до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Цилиндр Кира — вавилонская закладная надпись о приходе Кира и восстановлении культов.",
+    "importance": "Карточка раскрывает главу «Кир в Вавилоне и язык законной власти» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: после 539 года до н. э..",
+      "Основной смысл: вавилонская закладная надпись о приходе Кира и восстановлении культов.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Кир в Вавилоне и язык законной власти",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 8,
+      "culture": 9,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Вавилон",
+      "lat": 32.54,
+      "lon": 44.42
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-03/per_s_03_01.svg",
+      "caption": "Локальная учебная обложка: Цилиндр Кира",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_03_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The Cyrus Cylinder",
+      "url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_03"
+  },
+  {
+    "id": "PER_S_03_02",
+    "type": "RELIGION",
+    "title": "Мардук в надписи Кира",
+    "original": "Marduk in the Cyrus Cylinder",
+    "subtitle": "вавилонский бог, представленный как источник законности нового царя",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Мардук в надписи Кира — вавилонский бог, представленный как источник законности нового царя.",
+    "importance": "Карточка раскрывает главу «Кир в Вавилоне и язык законной власти» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI век до н. э..",
+      "Основной смысл: вавилонский бог, представленный как источник законности нового царя.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Кир в Вавилоне и язык законной власти",
+      "religion"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 5,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Вавилон",
+      "lat": 32.54,
+      "lon": 44.42
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-03/per_s_03_02.svg",
+      "caption": "Локальная учебная обложка: Мардук в надписи Кира",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_03_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The Cyrus Cylinder",
+      "url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_03"
+  },
+  {
+    "id": "PER_S_03_03",
+    "type": "SYSTEM",
+    "title": "Титул царь Вавилона",
+    "original": "King of Babylon title",
+    "subtitle": "местная форма царского титула, принятая Киром",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Титул царь Вавилона — местная форма царского титула, принятая Киром.",
+    "importance": "Карточка раскрывает главу «Кир в Вавилоне и язык законной власти» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI век до н. э..",
+      "Основной смысл: местная форма царского титула, принятая Киром.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Кир в Вавилоне и язык законной власти",
+      "system"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 5,
+      "culture": 6,
+      "politics": 7,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Вавилон",
+      "lat": 32.54,
+      "lon": 44.42
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-03/per_s_03_03.svg",
+      "caption": "Локальная учебная обложка: Титул царь Вавилона",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_03_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The Cyrus Cylinder",
+      "url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_03"
+  },
+  {
+    "id": "PER_S_03_04",
+    "type": "EVENT",
+    "title": "Возвращение культовых статуй",
+    "original": "Restoration of cult statues under Cyrus",
+    "subtitle": "политика восстановления части храмовых культов",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Возвращение культовых статуй — политика восстановления части храмовых культов.",
+    "importance": "Карточка раскрывает главу «Кир в Вавилоне и язык законной власти» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI век до н. э..",
+      "Основной смысл: политика восстановления части храмовых культов.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Кир в Вавилоне и язык законной власти",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 7,
+      "culture": 7,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Вавилон",
+      "lat": 32.54,
+      "lon": 44.42
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-03/per_s_03_04.svg",
+      "caption": "Локальная учебная обложка: Возвращение культовых статуй",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_03_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The Cyrus Cylinder",
+      "url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_03"
+  },
+  {
+    "id": "PER_S_03_05",
+    "type": "SYSTEM",
+    "title": "Вавилонская царская традиция",
+    "original": "Babylonian royal tradition",
+    "subtitle": "набор титулов, ритуалов и строительных формул законной власти",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Вавилонская царская традиция — набор титулов, ритуалов и строительных формул законной власти.",
+    "importance": "Карточка раскрывает главу «Кир в Вавилоне и язык законной власти» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Основной смысл: набор титулов, ритуалов и строительных формул законной власти.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Кир в Вавилоне и язык законной власти",
+      "system"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 9,
+      "culture": 8,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Вавилон",
+      "lat": 32.54,
+      "lon": 44.42
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-03/per_s_03_05.svg",
+      "caption": "Локальная учебная обложка: Вавилонская царская традиция",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_03_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The Cyrus Cylinder",
+      "url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_03"
+  },
+  {
+    "id": "PER_S_03_06",
+    "type": "CONCEPT",
+    "title": "Имперская адаптация",
+    "original": "Achaemenid imperial accommodation",
+    "subtitle": "использование местных институтов вместо их полного уничтожения",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Имперская адаптация — использование местных институтов вместо их полного уничтожения.",
+    "importance": "Карточка раскрывает главу «Кир в Вавилоне и язык законной власти» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: использование местных институтов вместо их полного уничтожения.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Кир в Вавилоне и язык законной власти",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 4,
+      "culture": 9,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ахеменидская держава",
+      "lat": 31.5,
+      "lon": 45.0
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-03/per_s_03_06.svg",
+      "caption": "Локальная учебная обложка: Имперская адаптация",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_03_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The Cyrus Cylinder",
+      "url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_03"
+  },
+  {
+    "id": "PER_S_03_07",
+    "type": "LANGUAGE",
+    "title": "Арамейский как язык общения",
+    "original": "Imperial Aramaic",
+    "subtitle": "широко применявшийся язык переписки и управления",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Арамейский как язык общения — широко применявшийся язык переписки и управления.",
+    "importance": "Карточка раскрывает главу «Кир в Вавилоне и язык законной власти» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: широко применявшийся язык переписки и управления.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Кир в Вавилоне и язык законной власти",
+      "language"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 6,
+      "culture": 5,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сузы",
+      "lat": 32.19,
+      "lon": 48.26
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-03/per_s_03_07.svg",
+      "caption": "Локальная учебная обложка: Арамейский как язык общения",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_03_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The Cyrus Cylinder",
+      "url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_03"
+  },
+  {
+    "id": "PER_S_03_08",
+    "type": "SYSTEM",
+    "title": "Многоязычная монархия",
+    "original": "Multilingual Achaemenid monarchy",
+    "subtitle": "власть, выражавшая себя через разные языки и местные традиции",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Многоязычная монархия — власть, выражавшая себя через разные языки и местные традиции.",
+    "importance": "Карточка раскрывает главу «Кир в Вавилоне и язык законной власти» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: власть, выражавшая себя через разные языки и местные традиции.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Кир в Вавилоне и язык законной власти",
+      "system"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 8,
+      "culture": 6,
+      "politics": 8,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ахеменидская держава",
+      "lat": 31.5,
+      "lon": 45.0
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-03/per_s_03_08.svg",
+      "caption": "Локальная учебная обложка: Многоязычная монархия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_03_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The Cyrus Cylinder",
+      "url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_03"
+  },
+  {
+    "id": "PER_S_04_01",
+    "type": "PERSON",
+    "title": "Камбис II",
+    "original": "Cambyses II",
+    "subtitle": "сын Кира II и завоеватель Египта",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "530–522 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Камбис II — сын Кира II и завоеватель Египта.",
+    "importance": "Карточка раскрывает главу «Камбис II, Египет и кризис престолонаследия» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 530–522 годы до н. э..",
+      "Основной смысл: сын Кира II и завоеватель Египта.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Камбис II, Египет и кризис престолонаследия",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 9,
+      "culture": 5,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Мемфис",
+      "lat": 29.85,
+      "lon": 31.25
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-04/per_s_04_01.svg",
+      "caption": "Локальная учебная обложка: Камбис II",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_04"
+  },
+  {
+    "id": "PER_S_04_02",
+    "type": "EVENT",
+    "title": "Завоевание Египта Ахеменидами",
+    "original": "Achaemenid conquest of Egypt",
+    "subtitle": "переход Египта под власть персидского царя",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "525 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Завоевание Египта Ахеменидами — переход Египта под власть персидского царя.",
+    "importance": "Карточка раскрывает главу «Камбис II, Египет и кризис престолонаследия» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 525 год до н. э..",
+      "Основной смысл: переход Египта под власть персидского царя.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Камбис II, Египет и кризис престолонаследия",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 4,
+      "culture": 6,
+      "politics": 8,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мемфис",
+      "lat": 29.85,
+      "lon": 31.25
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-04/per_s_04_02.svg",
+      "caption": "Локальная учебная обложка: Завоевание Египта Ахеменидами",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_04"
+  },
+  {
+    "id": "PER_S_04_03",
+    "type": "BATTLE",
+    "title": "Битва при Пелусии",
+    "original": "Battle of Pelusium",
+    "subtitle": "сражение, связанное с падением XXVI династии",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "525 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Битва при Пелусии — сражение, связанное с падением XXVI династии.",
+    "importance": "Карточка раскрывает главу «Камбис II, Египет и кризис престолонаследия» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 525 год до н. э..",
+      "Основной смысл: сражение, связанное с падением XXVI династии.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Камбис II, Египет и кризис престолонаследия",
+      "battle"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 6,
+      "culture": 7,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Мемфис",
+      "lat": 29.85,
+      "lon": 31.25
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-04/per_s_04_03.svg",
+      "caption": "Локальная учебная обложка: Битва при Пелусии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_04"
+  },
+  {
+    "id": "PER_S_04_04",
+    "type": "PERSON",
+    "title": "Псамметих III",
+    "original": "Psamtik III",
+    "subtitle": "последний фараон XXVI династии",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "526–525 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Псамметих III — последний фараон XXVI династии.",
+    "importance": "Карточка раскрывает главу «Камбис II, Египет и кризис престолонаследия» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 526–525 годы до н. э..",
+      "Основной смысл: последний фараон XXVI династии.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Камбис II, Египет и кризис престолонаследия",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 8,
+      "culture": 8,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мемфис",
+      "lat": 29.85,
+      "lon": 31.25
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-04/per_s_04_04.svg",
+      "caption": "Локальная учебная обложка: Псамметих III",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_04_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_04"
+  },
+  {
+    "id": "PER_S_04_05",
+    "type": "REGION",
+    "title": "Египетская сатрапия",
+    "original": "Achaemenid Egypt",
+    "subtitle": "Египет как часть Ахеменидской державы",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "525–404 годы до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Египетская сатрапия — Египет как часть Ахеменидской державы.",
+    "importance": "Карточка раскрывает главу «Камбис II, Египет и кризис престолонаследия» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 525–404 годы до н. э..",
+      "Основной смысл: Египет как часть Ахеменидской державы.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Камбис II, Египет и кризис престолонаследия",
+      "region"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 3,
+      "culture": 9,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Мемфис",
+      "lat": 29.85,
+      "lon": 31.25
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-04/per_s_04_05.svg",
+      "caption": "Локальная учебная обложка: Египетская сатрапия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_04_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_04"
+  },
+  {
+    "id": "PER_S_04_06",
+    "type": "PERSON",
+    "title": "Бардия",
+    "original": "Bardiya",
+    "subtitle": "брат Камбиса и центр спора о власти 522 года",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Бардия — брат Камбиса и центр спора о власти 522 года.",
+    "importance": "Карточка раскрывает главу «Камбис II, Египет и кризис престолонаследия» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI век до н. э..",
+      "Основной смысл: брат Камбиса и центр спора о власти 522 года.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Камбис II, Египет и кризис престолонаследия",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 5,
+      "culture": 5,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сузы",
+      "lat": 32.19,
+      "lon": 48.26
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-04/per_s_04_06.svg",
+      "caption": "Локальная учебная обложка: Бардия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_04_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_04"
+  },
+  {
+    "id": "PER_S_04_07",
+    "type": "PERSON",
+    "title": "Гаумата",
+    "original": "Gaumata",
+    "subtitle": "претендент, названный Дарием самозванцем",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "522 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Гаумата — претендент, названный Дарием самозванцем.",
+    "importance": "Карточка раскрывает главу «Камбис II, Египет и кризис престолонаследия» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 522 год до н. э..",
+      "Основной смысл: претендент, названный Дарием самозванцем.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Камбис II, Египет и кризис престолонаследия",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 7,
+      "culture": 6,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Бехистун",
+      "lat": 34.39,
+      "lon": 47.44
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-04/per_s_04_07.svg",
+      "caption": "Локальная учебная обложка: Гаумата",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_04_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_04"
+  },
+  {
+    "id": "PER_S_04_08",
+    "type": "EVENT",
+    "title": "Кризис 522 года",
+    "original": "Achaemenid succession crisis of 522 BCE",
+    "subtitle": "серия восстаний и борьбы за царскую власть",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "522 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Кризис 522 года — серия восстаний и борьбы за царскую власть.",
+    "importance": "Карточка раскрывает главу «Камбис II, Египет и кризис престолонаследия» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 522 год до н. э..",
+      "Основной смысл: серия восстаний и борьбы за царскую власть.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Камбис II, Египет и кризис престолонаследия",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 9,
+      "culture": 7,
+      "politics": 6,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Бехистун",
+      "lat": 34.39,
+      "lon": 47.44
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-04/per_s_04_08.svg",
+      "caption": "Локальная учебная обложка: Кризис 522 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_04_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_04"
+  },
+  {
+    "id": "PER_S_05_01",
+    "type": "PERSON",
+    "title": "Дарий I",
+    "original": "Darius the Great",
+    "subtitle": "царь, восстановивший и перестроивший Ахеменидскую державу",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "522–486 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Дарий I — царь, восстановивший и перестроивший Ахеменидскую державу.",
+    "importance": "Карточка раскрывает главу «Дарий I и Бехистунская надпись» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 522–486 годы до н. э..",
+      "Основной смысл: царь, восстановивший и перестроивший Ахеменидскую державу.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Дарий I и Бехистунская надпись",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 3,
+      "culture": 6,
+      "politics": 9,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Персеполь",
+      "lat": 29.94,
+      "lon": 52.89
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-05/per_s_05_01.svg",
+      "caption": "Локальная учебная обложка: Дарий I",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/darius-iii/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Darius I the Great",
+      "url": "https://www.iranicaonline.org/articles/darius-iii/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_05"
+  },
+  {
+    "id": "PER_S_05_02",
+    "type": "TEXT",
+    "title": "Бехистунская надпись",
+    "original": "Behistun Inscription",
+    "subtitle": "многоязычная царская надпись о приходе Дария к власти",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "ок. 520 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Бехистунская надпись — многоязычная царская надпись о приходе Дария к власти.",
+    "importance": "Карточка раскрывает главу «Дарий I и Бехистунская надпись» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: ок. 520 год до н. э..",
+      "Основной смысл: многоязычная царская надпись о приходе Дария к власти.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Дарий I и Бехистунская надпись",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 5,
+      "culture": 7,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Бехистун",
+      "lat": 34.39,
+      "lon": 47.44
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-05/per_s_05_02.svg",
+      "caption": "Локальная учебная обложка: Бехистунская надпись",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/darius-iii/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Darius I the Great",
+      "url": "https://www.iranicaonline.org/articles/darius-iii/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_05"
+  },
+  {
+    "id": "PER_S_05_03",
+    "type": "LANGUAGE",
+    "title": "Древнеперсидская клинопись",
+    "original": "Old Persian cuneiform",
+    "subtitle": "письменная система царских надписей Ахеменидов",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Древнеперсидская клинопись — письменная система царских надписей Ахеменидов.",
+    "importance": "Карточка раскрывает главу «Дарий I и Бехистунская надпись» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: письменная система царских надписей Ахеменидов.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Дарий I и Бехистунская надпись",
+      "language"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 7,
+      "culture": 8,
+      "politics": 7,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Бехистун",
+      "lat": 34.39,
+      "lon": 47.44
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-05/per_s_05_03.svg",
+      "caption": "Локальная учебная обложка: Древнеперсидская клинопись",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/darius-iii/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Darius I the Great",
+      "url": "https://www.iranicaonline.org/articles/darius-iii/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_05"
+  },
+  {
+    "id": "PER_S_05_04",
+    "type": "RELIGION",
+    "title": "Ахура-Мазда в надписях Дария",
+    "original": "Ahura Mazda in Darius inscriptions",
+    "subtitle": "божество, от которого царь выводил законность и победу",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–V века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Ахура-Мазда в надписях Дария — божество, от которого царь выводил законность и победу.",
+    "importance": "Карточка раскрывает главу «Дарий I и Бехистунская надпись» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–V века до н. э..",
+      "Основной смысл: божество, от которого царь выводил законность и победу.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Дарий I и Бехистунская надпись",
+      "religion"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 9,
+      "culture": 9,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Бехистун",
+      "lat": 34.39,
+      "lon": 47.44
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-05/per_s_05_04.svg",
+      "caption": "Локальная учебная обложка: Ахура-Мазда в надписях Дария",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/darius-iii/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Darius I the Great",
+      "url": "https://www.iranicaonline.org/articles/darius-iii/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_05"
+  },
+  {
+    "id": "PER_S_05_05",
+    "type": "PEOPLE",
+    "title": "Мятежные цари Бехистуна",
+    "original": "Rebels in the Behistun Inscription",
+    "subtitle": "претенденты, показанные связанными перед Дарием",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "522–521 годы до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Мятежные цари Бехистуна — претенденты, показанные связанными перед Дарием.",
+    "importance": "Карточка раскрывает главу «Дарий I и Бехистунская надпись» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 522–521 годы до н. э..",
+      "Основной смысл: претенденты, показанные связанными перед Дарием.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Дарий I и Бехистунская надпись",
+      "people"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 5,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Бехистун",
+      "lat": 34.39,
+      "lon": 47.44
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-05/per_s_05_05.svg",
+      "caption": "Локальная учебная обложка: Мятежные цари Бехистуна",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/darius-iii/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_05_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Darius I the Great",
+      "url": "https://www.iranicaonline.org/articles/darius-iii/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_05"
+  },
+  {
+    "id": "PER_S_05_06",
+    "type": "PERSON",
+    "title": "Аршама и Гистасп",
+    "original": "Hystaspes father of Darius",
+    "subtitle": "отец Дария и опора его династической линии",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Аршама и Гистасп — отец Дария и опора его династической линии.",
+    "importance": "Карточка раскрывает главу «Дарий I и Бехистунская надпись» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI век до н. э..",
+      "Основной смысл: отец Дария и опора его династической линии.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Дарий I и Бехистунская надпись",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 6,
+      "culture": 6,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Парса / Фарс",
+      "lat": 29.6,
+      "lon": 52.5
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-05/per_s_05_06.svg",
+      "caption": "Локальная учебная обложка: Аршама и Гистасп",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/darius-iii/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_05_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Darius I the Great",
+      "url": "https://www.iranicaonline.org/articles/darius-iii/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_05"
+  },
+  {
+    "id": "PER_S_05_07",
+    "type": "CONCEPT",
+    "title": "Правда и ложь в царской идеологии",
+    "original": "Truth and lie in Achaemenid ideology",
+    "subtitle": "политическая и религиозная оппозиция в надписях Дария",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–V века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Правда и ложь в царской идеологии — политическая и религиозная оппозиция в надписях Дария.",
+    "importance": "Карточка раскрывает главу «Дарий I и Бехистунская надпись» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–V века до н. э..",
+      "Основной смысл: политическая и религиозная оппозиция в надписях Дария.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Дарий I и Бехистунская надпись",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 8,
+      "culture": 7,
+      "politics": 7,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Бехистун",
+      "lat": 34.39,
+      "lon": 47.44
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-05/per_s_05_07.svg",
+      "caption": "Локальная учебная обложка: Правда и ложь в царской идеологии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/darius-iii/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_05_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Darius I the Great",
+      "url": "https://www.iranicaonline.org/articles/darius-iii/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_05"
+  },
+  {
+    "id": "PER_S_05_08",
+    "type": "EVENT",
+    "title": "Восстановление державы Дарием",
+    "original": "Darius consolidation of the empire",
+    "subtitle": "подавление восстаний и закрепление нового правления",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "522–520 годы до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Восстановление державы Дарием — подавление восстаний и закрепление нового правления.",
+    "importance": "Карточка раскрывает главу «Дарий I и Бехистунская надпись» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 522–520 годы до н. э..",
+      "Основной смысл: подавление восстаний и закрепление нового правления.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Дарий I и Бехистунская надпись",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 3,
+      "culture": 8,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ахеменидская держава",
+      "lat": 31.5,
+      "lon": 45.0
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-05/per_s_05_08.svg",
+      "caption": "Локальная учебная обложка: Восстановление державы Дарием",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/darius-iii/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_05_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Darius I the Great",
+      "url": "https://www.iranicaonline.org/articles/darius-iii/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_05"
+  },
+  {
+    "id": "PER_S_06_01",
+    "type": "SYSTEM",
+    "title": "Сатрапия",
+    "original": "Satrapy",
+    "subtitle": "крупная административная область Ахеменидской державы",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Сатрапия — крупная административная область Ахеменидской державы.",
+    "importance": "Карточка раскрывает главу «Сатрапии, налоги и Царская дорога» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: крупная административная область Ахеменидской державы.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Сатрапии, налоги и Царская дорога",
+      "system"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 4,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ахеменидская держава",
+      "lat": 31.5,
+      "lon": 45.0
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-06/per_s_06_01.svg",
+      "caption": "Локальная учебная обложка: Сатрапия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-satrapies/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Satrapies",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-satrapies/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_06"
+  },
+  {
+    "id": "PER_S_06_02",
+    "type": "SOCIAL",
+    "title": "Сатрап",
+    "original": "Satrap",
+    "subtitle": "царский наместник с военными, налоговыми и судебными обязанностями",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Сатрап — царский наместник с военными, налоговыми и судебными обязанностями.",
+    "importance": "Карточка раскрывает главу «Сатрапии, налоги и Царская дорога» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: царский наместник с военными, налоговыми и судебными обязанностями.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Сатрапии, налоги и Царская дорога",
+      "social"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 6,
+      "culture": 8,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сарды",
+      "lat": 38.49,
+      "lon": 28.04
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-06/per_s_06_02.svg",
+      "caption": "Локальная учебная обложка: Сатрап",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-satrapies/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Satrapies",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-satrapies/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_06"
+  },
+  {
+    "id": "PER_S_06_03",
+    "type": "ROUTE",
+    "title": "Царская дорога",
+    "original": "Royal Road",
+    "subtitle": "сеть маршрутов, связывавшая Сарды, Месопотамию и Сузы",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Царская дорога — сеть маршрутов, связывавшая Сарды, Месопотамию и Сузы.",
+    "importance": "Карточка раскрывает главу «Сатрапии, налоги и Царская дорога» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: сеть маршрутов, связывавшая Сарды, Месопотамию и Сузы.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Сатрапии, налоги и Царская дорога",
+      "route"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 8,
+      "culture": 9,
+      "politics": 9,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Царская дорога",
+      "lat": 37.0,
+      "lon": 35.0
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-06/per_s_06_03.svg",
+      "caption": "Локальная учебная обложка: Царская дорога",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-satrapies/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Satrapies",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-satrapies/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_06"
+  },
+  {
+    "id": "PER_S_06_04",
+    "type": "SYSTEM",
+    "title": "Пиррадазиш",
+    "original": "Pirradazish courier system",
+    "subtitle": "царская курьерская служба со станциями и сменой лошадей",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Пиррадазиш — царская курьерская служба со станциями и сменой лошадей.",
+    "importance": "Карточка раскрывает главу «Сатрапии, налоги и Царская дорога» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: царская курьерская служба со станциями и сменой лошадей.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Сатрапии, налоги и Царская дорога",
+      "system"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 3,
+      "culture": 5,
+      "politics": 6,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Царская дорога",
+      "lat": 37.0,
+      "lon": 35.0
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-06/per_s_06_04.svg",
+      "caption": "Локальная учебная обложка: Пиррадазиш",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-satrapies/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Satrapies",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-satrapies/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_06"
+  },
+  {
+    "id": "PER_S_06_05",
+    "type": "SYSTEM",
+    "title": "Дань и налог",
+    "original": "Achaemenid tribute and taxation",
+    "subtitle": "регулярные поступления серебра, товаров и ресурсов",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Дань и налог — регулярные поступления серебра, товаров и ресурсов.",
+    "importance": "Карточка раскрывает главу «Сатрапии, налоги и Царская дорога» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: регулярные поступления серебра, товаров и ресурсов.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Сатрапии, налоги и Царская дорога",
+      "system"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Сузы",
+      "lat": 32.19,
+      "lon": 48.26
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-06/per_s_06_05.svg",
+      "caption": "Локальная учебная обложка: Дань и налог",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-satrapies/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_06_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Satrapies",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-satrapies/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_06"
+  },
+  {
+    "id": "PER_S_06_06",
+    "type": "SOCIAL",
+    "title": "Царский чиновник",
+    "original": "Achaemenid royal official",
+    "subtitle": "представитель двора, контролировавший провинциальные дела",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Царский чиновник — представитель двора, контролировавший провинциальные дела.",
+    "importance": "Карточка раскрывает главу «Сатрапии, налоги и Царская дорога» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: представитель двора, контролировавший провинциальные дела.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Сатрапии, налоги и Царская дорога",
+      "social"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 7,
+      "culture": 7,
+      "politics": 8,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сузы",
+      "lat": 32.19,
+      "lon": 48.26
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-06/per_s_06_06.svg",
+      "caption": "Локальная учебная обложка: Царский чиновник",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-satrapies/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_06_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Satrapies",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-satrapies/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_06"
+  },
+  {
+    "id": "PER_S_06_07",
+    "type": "LANGUAGE",
+    "title": "Имперский арамейский",
+    "original": "Imperial Aramaic",
+    "subtitle": "язык значительной части административной переписки",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Имперский арамейский — язык значительной части административной переписки.",
+    "importance": "Карточка раскрывает главу «Сатрапии, налоги и Царская дорога» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: язык значительной части административной переписки.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Сатрапии, налоги и Царская дорога",
+      "language"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 9,
+      "culture": 8,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Сузы",
+      "lat": 32.19,
+      "lon": 48.26
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-06/per_s_06_07.svg",
+      "caption": "Локальная учебная обложка: Имперский арамейский",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-satrapies/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_06_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Satrapies",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-satrapies/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_06"
+  },
+  {
+    "id": "PER_S_06_08",
+    "type": "CONCEPT",
+    "title": "Местная автономия в империи",
+    "original": "Local autonomy in the Achaemenid Empire",
+    "subtitle": "сохранение части местных правовых, храмовых и династических структур",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Местная автономия в империи — сохранение части местных правовых, храмовых и династических структур.",
+    "importance": "Карточка раскрывает главу «Сатрапии, налоги и Царская дорога» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: сохранение части местных правовых, храмовых и династических структур.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Сатрапии, налоги и Царская дорога",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 4,
+      "culture": 9,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Ахеменидская держава",
+      "lat": 31.5,
+      "lon": 45.0
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-06/per_s_06_08.svg",
+      "caption": "Локальная учебная обложка: Местная автономия в империи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-satrapies/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_06_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Satrapies",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-satrapies/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_06"
+  },
+  {
+    "id": "PER_S_07_01",
+    "type": "CITY",
+    "title": "Сузы Ахеменидов",
+    "original": "Achaemenid Susa",
+    "subtitle": "царская резиденция и административный центр в древнем эламском городе",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Сузы Ахеменидов — царская резиденция и административный центр в древнем эламском городе.",
+    "importance": "Карточка раскрывает главу «Сузы, Персеполь и царский двор» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: царская резиденция и административный центр в древнем эламском городе.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Сузы, Персеполь и царский двор",
+      "city"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 5,
+      "culture": 8,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сузы",
+      "lat": 32.19,
+      "lon": 48.26
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-07/per_s_07_01.svg",
+      "caption": "Локальная учебная обложка: Сузы Ахеменидов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/114/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Persepolis",
+      "url": "https://whc.unesco.org/en/list/114/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_07"
+  },
+  {
+    "id": "PER_S_07_02",
+    "type": "CITY",
+    "title": "Персеполь",
+    "original": "Persepolis",
+    "subtitle": "дворцовый комплекс, начатый Дарием I",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "ок. 518–330 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Персеполь — дворцовый комплекс, начатый Дарием I.",
+    "importance": "Карточка раскрывает главу «Сузы, Персеполь и царский двор» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: ок. 518–330 годы до н. э..",
+      "Основной смысл: дворцовый комплекс, начатый Дарием I.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Сузы, Персеполь и царский двор",
+      "city"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 7,
+      "culture": 9,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Персеполь",
+      "lat": 29.94,
+      "lon": 52.89
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-07/per_s_07_02.svg",
+      "caption": "Локальная учебная обложка: Персеполь",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/114/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Persepolis",
+      "url": "https://whc.unesco.org/en/list/114/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_07"
+  },
+  {
+    "id": "PER_S_07_03",
+    "type": "BUILDING",
+    "title": "Ападана Персеполя",
+    "original": "Apadana of Persepolis",
+    "subtitle": "большой приёмный зал с процессиями делегаций",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "V век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Ападана Персеполя — большой приёмный зал с процессиями делегаций.",
+    "importance": "Карточка раскрывает главу «Сузы, Персеполь и царский двор» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: V век до н. э..",
+      "Основной смысл: большой приёмный зал с процессиями делегаций.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Сузы, Персеполь и царский двор",
+      "building"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 9,
+      "culture": 5,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Персеполь",
+      "lat": 29.94,
+      "lon": 52.89
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-07/per_s_07_03.svg",
+      "caption": "Локальная учебная обложка: Ападана Персеполя",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/114/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Persepolis",
+      "url": "https://whc.unesco.org/en/list/114/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_07"
+  },
+  {
+    "id": "PER_S_07_04",
+    "type": "BUILDING",
+    "title": "Ворота всех народов",
+    "original": "Gate of All Nations",
+    "subtitle": "монументальный вход, созданный при Ксерксе",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "V век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Ворота всех народов — монументальный вход, созданный при Ксерксе.",
+    "importance": "Карточка раскрывает главу «Сузы, Персеполь и царский двор» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: V век до н. э..",
+      "Основной смысл: монументальный вход, созданный при Ксерксе.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Сузы, Персеполь и царский двор",
+      "building"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 4,
+      "culture": 6,
+      "politics": 8,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Персеполь",
+      "lat": 29.94,
+      "lon": 52.89
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-07/per_s_07_04.svg",
+      "caption": "Локальная учебная обложка: Ворота всех народов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/114/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_07_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Persepolis",
+      "url": "https://whc.unesco.org/en/list/114/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_07"
+  },
+  {
+    "id": "PER_S_07_05",
+    "type": "SITE",
+    "title": "Накше-Рустам",
+    "original": "Naqsh-e Rostam",
+    "subtitle": "скальные гробницы ахеменидских царей",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "V–IV века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Накше-Рустам — скальные гробницы ахеменидских царей.",
+    "importance": "Карточка раскрывает главу «Сузы, Персеполь и царский двор» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: V–IV века до н. э..",
+      "Основной смысл: скальные гробницы ахеменидских царей.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Сузы, Персеполь и царский двор",
+      "site"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 6,
+      "culture": 7,
+      "politics": 9,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Накше-Рустам",
+      "lat": 29.99,
+      "lon": 52.87
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-07/per_s_07_05.svg",
+      "caption": "Локальная учебная обложка: Накше-Рустам",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/114/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_07_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Persepolis",
+      "url": "https://whc.unesco.org/en/list/114/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_07"
+  },
+  {
+    "id": "PER_S_07_06",
+    "type": "TEXT",
+    "title": "Персепольские таблички укреплений",
+    "original": "Persepolis Fortification Tablets",
+    "subtitle": "административный архив о пайках, поездках и работниках",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "ок. 509–493 годы до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Персепольские таблички укреплений — административный архив о пайках, поездках и работниках.",
+    "importance": "Карточка раскрывает главу «Сузы, Персеполь и царский двор» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: ок. 509–493 годы до н. э..",
+      "Основной смысл: административный архив о пайках, поездках и работниках.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Сузы, Персеполь и царский двор",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 8,
+      "culture": 8,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Персеполь",
+      "lat": 29.94,
+      "lon": 52.89
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-07/per_s_07_06.svg",
+      "caption": "Локальная учебная обложка: Персепольские таблички укреплений",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/114/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_07_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Persepolis",
+      "url": "https://whc.unesco.org/en/list/114/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_07"
+  },
+  {
+    "id": "PER_S_07_07",
+    "type": "CONCEPT",
+    "title": "Имперский стиль Ахеменидов",
+    "original": "Achaemenid imperial art",
+    "subtitle": "художественный язык, соединявший разные региональные традиции",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Имперский стиль Ахеменидов — художественный язык, соединявший разные региональные традиции.",
+    "importance": "Карточка раскрывает главу «Сузы, Персеполь и царский двор» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: художественный язык, соединявший разные региональные традиции.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Сузы, Персеполь и царский двор",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 3,
+      "culture": 9,
+      "politics": 7,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Персеполь",
+      "lat": 29.94,
+      "lon": 52.89
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-07/per_s_07_07.svg",
+      "caption": "Локальная учебная обложка: Имперский стиль Ахеменидов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/114/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_07_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Persepolis",
+      "url": "https://whc.unesco.org/en/list/114/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_07"
+  },
+  {
+    "id": "PER_S_07_08",
+    "type": "SYSTEM",
+    "title": "Путешествующий царский двор",
+    "original": "Itinerant Achaemenid court",
+    "subtitle": "перемещение царя и администрации между резиденциями",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Путешествующий царский двор — перемещение царя и администрации между резиденциями.",
+    "importance": "Карточка раскрывает главу «Сузы, Персеполь и царский двор» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: перемещение царя и администрации между резиденциями.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Сузы, Персеполь и царский двор",
+      "system"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 5,
+      "culture": 5,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ахеменидская держава",
+      "lat": 31.5,
+      "lon": 45.0
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-07/per_s_07_08.svg",
+      "caption": "Локальная учебная обложка: Путешествующий царский двор",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/114/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_07_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Persepolis",
+      "url": "https://whc.unesco.org/en/list/114/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_07"
+  },
+  {
+    "id": "PER_S_08_01",
+    "type": "SYSTEM",
+    "title": "Царь царей",
+    "original": "King of Kings",
+    "subtitle": "титул правителя над множеством стран и царей",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Царь царей — титул правителя над множеством стран и царей.",
+    "importance": "Карточка раскрывает главу «Народы, армии и религии империи» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: титул правителя над множеством стран и царей.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Народы, армии и религии империи",
+      "system"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 6,
+      "culture": 9,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Персеполь",
+      "lat": 29.94,
+      "lon": 52.89
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-08/per_s_08_01.svg",
+      "caption": "Локальная учебная обложка: Царь царей",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/ancient-iran",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Ancient Iran",
+      "url": "https://www.britishmuseum.org/collection/galleries/ancient-iran",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_08"
+  },
+  {
+    "id": "PER_S_08_02",
+    "type": "MILITARY",
+    "title": "Бессмертные",
+    "original": "Immortals Achaemenid guard",
+    "subtitle": "элитное подразделение персидской армии в греческой традиции",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "V век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Бессмертные — элитное подразделение персидской армии в греческой традиции.",
+    "importance": "Карточка раскрывает главу «Народы, армии и религии империи» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: V век до н. э..",
+      "Основной смысл: элитное подразделение персидской армии в греческой традиции.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Народы, армии и религии империи",
+      "military"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 8,
+      "culture": 5,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Персеполь",
+      "lat": 29.94,
+      "lon": 52.89
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-08/per_s_08_02.svg",
+      "caption": "Локальная учебная обложка: Бессмертные",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/ancient-iran",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Ancient Iran",
+      "url": "https://www.britishmuseum.org/collection/galleries/ancient-iran",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_08"
+  },
+  {
+    "id": "PER_S_08_03",
+    "type": "MILITARY",
+    "title": "Персидская конница",
+    "original": "Achaemenid cavalry",
+    "subtitle": "важная часть армии, включавшая контингенты разных регионов",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Персидская конница — важная часть армии, включавшая контингенты разных регионов.",
+    "importance": "Карточка раскрывает главу «Народы, армии и религии империи» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: важная часть армии, включавшая контингенты разных регионов.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Народы, армии и религии империи",
+      "military"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 3,
+      "culture": 6,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ахеменидская держава",
+      "lat": 31.5,
+      "lon": 45.0
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-08/per_s_08_03.svg",
+      "caption": "Локальная учебная обложка: Персидская конница",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/ancient-iran",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Ancient Iran",
+      "url": "https://www.britishmuseum.org/collection/galleries/ancient-iran",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_08"
+  },
+  {
+    "id": "PER_S_08_04",
+    "type": "MILITARY",
+    "title": "Бактрийские контингенты",
+    "original": "Bactrian troops in Achaemenid army",
+    "subtitle": "воины восточной сатрапии в имперских армиях",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Бактрийские контингенты — воины восточной сатрапии в имперских армиях.",
+    "importance": "Карточка раскрывает главу «Народы, армии и религии империи» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: воины восточной сатрапии в имперских армиях.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Народы, армии и религии империи",
+      "military"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 5,
+      "culture": 7,
+      "politics": 6,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Бактрия",
+      "lat": 36.75,
+      "lon": 66.9
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-08/per_s_08_04.svg",
+      "caption": "Локальная учебная обложка: Бактрийские контингенты",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/ancient-iran",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_08_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Ancient Iran",
+      "url": "https://www.britishmuseum.org/collection/galleries/ancient-iran",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_08"
+  },
+  {
+    "id": "PER_S_08_05",
+    "type": "REGION",
+    "title": "Гандхара в державе",
+    "original": "Gandhara under Achaemenid rule",
+    "subtitle": "восточная область, связанная с дорогами к долине Инда",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Гандхара в державе — восточная область, связанная с дорогами к долине Инда.",
+    "importance": "Карточка раскрывает главу «Народы, армии и религии империи» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: восточная область, связанная с дорогами к долине Инда.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Народы, армии и религии империи",
+      "region"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 7,
+      "culture": 8,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Гандхара",
+      "lat": 34.0,
+      "lon": 71.5
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-08/per_s_08_05.svg",
+      "caption": "Локальная учебная обложка: Гандхара в державе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/ancient-iran",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_08_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Ancient Iran",
+      "url": "https://www.britishmuseum.org/collection/galleries/ancient-iran",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_08"
+  },
+  {
+    "id": "PER_S_08_06",
+    "type": "RELIGION",
+    "title": "Ахура-Мазда",
+    "original": "Ahura Mazda",
+    "subtitle": "главное божество в царских надписях Дария и его преемников",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Ахура-Мазда — главное божество в царских надписях Дария и его преемников.",
+    "importance": "Карточка раскрывает главу «Народы, армии и религии империи» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: главное божество в царских надписях Дария и его преемников.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Народы, армии и религии империи",
+      "religion"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 9,
+      "culture": 9,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Персеполь",
+      "lat": 29.94,
+      "lon": 52.89
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-08/per_s_08_06.svg",
+      "caption": "Локальная учебная обложка: Ахура-Мазда",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/ancient-iran",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_08_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Ancient Iran",
+      "url": "https://www.britishmuseum.org/collection/galleries/ancient-iran",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_08"
+  },
+  {
+    "id": "PER_S_08_07",
+    "type": "RELIGION",
+    "title": "Местные культы в империи",
+    "original": "Local cults under Achaemenid rule",
+    "subtitle": "храмы и религиозные традиции, продолжавшие действовать в провинциях",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Местные культы в империи — храмы и религиозные традиции, продолжавшие действовать в провинциях.",
+    "importance": "Карточка раскрывает главу «Народы, армии и религии империи» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: храмы и религиозные традиции, продолжавшие действовать в провинциях.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Народы, армии и религии империи",
+      "religion"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 4,
+      "culture": 5,
+      "politics": 9,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ахеменидская держава",
+      "lat": 31.5,
+      "lon": 45.0
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-08/per_s_08_07.svg",
+      "caption": "Локальная учебная обложка: Местные культы в империи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/ancient-iran",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_08_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Ancient Iran",
+      "url": "https://www.britishmuseum.org/collection/galleries/ancient-iran",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_08"
+  },
+  {
+    "id": "PER_S_08_08",
+    "type": "CONCEPT",
+    "title": "Имперское разнообразие",
+    "original": "Achaemenid imperial diversity",
+    "subtitle": "политическая система, соединявшая разные общества без полной унификации",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Имперское разнообразие — политическая система, соединявшая разные общества без полной унификации.",
+    "importance": "Карточка раскрывает главу «Народы, армии и религии империи» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: политическая система, соединявшая разные общества без полной унификации.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Народы, армии и религии империи",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 6,
+      "culture": 6,
+      "politics": 6,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Ахеменидская держава",
+      "lat": 31.5,
+      "lon": 45.0
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-08/per_s_08_08.svg",
+      "caption": "Локальная учебная обложка: Имперское разнообразие",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/ancient-iran",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_08_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Ancient Iran",
+      "url": "https://www.britishmuseum.org/collection/galleries/ancient-iran",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_08"
+  },
+  {
+    "id": "PER_S_09_01",
+    "type": "EVENT",
+    "title": "Ионийское восстание",
+    "original": "Ionian Revolt",
+    "subtitle": "восстание греческих городов Малой Азии против персидской власти",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "499–494 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Ионийское восстание — восстание греческих городов Малой Азии против персидской власти.",
+    "importance": "Карточка раскрывает главу «Ионийское восстание и войны с греческими полисами» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 499–494 годы до н. э..",
+      "Основной смысл: восстание греческих городов Малой Азии против персидской власти.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Ионийское восстание и войны с греческими полисами",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 7,
+      "culture": 5,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Иония",
+      "lat": 38.0,
+      "lon": 27.0
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-09/per_s_09_01.svg",
+      "caption": "Локальная учебная обложка: Ионийское восстание",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_09_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Iran, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_09"
+  },
+  {
+    "id": "PER_S_09_02",
+    "type": "PERSON",
+    "title": "Аристагор Милетский",
+    "original": "Aristagoras of Miletus",
+    "subtitle": "лидер раннего этапа ионийского восстания",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "V век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Аристагор Милетский — лидер раннего этапа ионийского восстания.",
+    "importance": "Карточка раскрывает главу «Ионийское восстание и войны с греческими полисами» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: V век до н. э..",
+      "Основной смысл: лидер раннего этапа ионийского восстания.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Ионийское восстание и войны с греческими полисами",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 9,
+      "culture": 6,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Милет",
+      "lat": 37.53,
+      "lon": 27.28
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-09/per_s_09_02.svg",
+      "caption": "Локальная учебная обложка: Аристагор Милетский",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_09_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Iran, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_09"
+  },
+  {
+    "id": "PER_S_09_03",
+    "type": "PERSON",
+    "title": "Артаферн",
+    "original": "Artaphernes",
+    "subtitle": "сатрап Лидии и участник подавления восстания",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "V век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Артаферн — сатрап Лидии и участник подавления восстания.",
+    "importance": "Карточка раскрывает главу «Ионийское восстание и войны с греческими полисами» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: V век до н. э..",
+      "Основной смысл: сатрап Лидии и участник подавления восстания.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Ионийское восстание и войны с греческими полисами",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 7,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сарды",
+      "lat": 38.49,
+      "lon": 28.04
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-09/per_s_09_03.svg",
+      "caption": "Локальная учебная обложка: Артаферн",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_09_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Iran, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_09"
+  },
+  {
+    "id": "PER_S_09_04",
+    "type": "BATTLE",
+    "title": "Битва при Марафоне",
+    "original": "Battle of Marathon",
+    "subtitle": "поражение экспедиции Дария в Аттике",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "490 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Битва при Марафоне — поражение экспедиции Дария в Аттике.",
+    "importance": "Карточка раскрывает главу «Ионийское восстание и войны с греческими полисами» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 490 год до н. э..",
+      "Основной смысл: поражение экспедиции Дария в Аттике.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Ионийское восстание и войны с греческими полисами",
+      "battle"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 6,
+      "culture": 8,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Марафон",
+      "lat": 38.15,
+      "lon": 24.01
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-09/per_s_09_04.svg",
+      "caption": "Локальная учебная обложка: Битва при Марафоне",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_09_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Iran, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_09"
+  },
+  {
+    "id": "PER_S_09_05",
+    "type": "PERSON",
+    "title": "Ксеркс I",
+    "original": "Xerxes I",
+    "subtitle": "царь, возглавивший большой поход в Грецию",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "486–465 годы до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Ксеркс I — царь, возглавивший большой поход в Грецию.",
+    "importance": "Карточка раскрывает главу «Ионийское восстание и войны с греческими полисами» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 486–465 годы до н. э..",
+      "Основной смысл: царь, возглавивший большой поход в Грецию.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Ионийское восстание и войны с греческими полисами",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 8,
+      "culture": 9,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Персеполь",
+      "lat": 29.94,
+      "lon": 52.89
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-09/per_s_09_05.svg",
+      "caption": "Локальная учебная обложка: Ксеркс I",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_09_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Iran, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_09"
+  },
+  {
+    "id": "PER_S_09_06",
+    "type": "BATTLE",
+    "title": "Битва при Фермопилах",
+    "original": "Battle of Thermopylae",
+    "subtitle": "сражение на проходе во время похода Ксеркса",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "480 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Битва при Фермопилах — сражение на проходе во время похода Ксеркса.",
+    "importance": "Карточка раскрывает главу «Ионийское восстание и войны с греческими полисами» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 480 год до н. э..",
+      "Основной смысл: сражение на проходе во время похода Ксеркса.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Ионийское восстание и войны с греческими полисами",
+      "battle"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 3,
+      "culture": 5,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Фермопилы",
+      "lat": 38.8,
+      "lon": 22.54
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-09/per_s_09_06.svg",
+      "caption": "Локальная учебная обложка: Битва при Фермопилах",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_09_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Iran, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_09"
+  },
+  {
+    "id": "PER_S_09_07",
+    "type": "BATTLE",
+    "title": "Битва при Саламине",
+    "original": "Battle of Salamis",
+    "subtitle": "морское поражение флота Ксеркса",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "480 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Битва при Саламине — морское поражение флота Ксеркса.",
+    "importance": "Карточка раскрывает главу «Ионийское восстание и войны с греческими полисами» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 480 год до н. э..",
+      "Основной смысл: морское поражение флота Ксеркса.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Ионийское восстание и войны с греческими полисами",
+      "battle"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 5,
+      "culture": 6,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Саламин",
+      "lat": 37.95,
+      "lon": 23.49
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-09/per_s_09_07.svg",
+      "caption": "Локальная учебная обложка: Битва при Саламине",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_09_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Iran, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_09"
+  },
+  {
+    "id": "PER_S_09_08",
+    "type": "BATTLE",
+    "title": "Битва при Платеях",
+    "original": "Battle of Plataea",
+    "subtitle": "поражение персидской армии в материковой Греции",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "479 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Битва при Платеях — поражение персидской армии в материковой Греции.",
+    "importance": "Карточка раскрывает главу «Ионийское восстание и войны с греческими полисами» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 479 год до н. э..",
+      "Основной смысл: поражение персидской армии в материковой Греции.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Ионийское восстание и войны с греческими полисами",
+      "battle"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 7,
+      "culture": 7,
+      "politics": 8,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Платеи",
+      "lat": 38.21,
+      "lon": 23.27
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-09/per_s_09_08.svg",
+      "caption": "Локальная учебная обложка: Битва при Платеях",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_09_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Iran, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/wai.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_09"
+  },
+  {
+    "id": "PER_S_10_01",
+    "type": "PERSON",
+    "title": "Артаксеркс I",
+    "original": "Artaxerxes I",
+    "subtitle": "царь Ахеменидской державы после убийства Ксеркса",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "465–424 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Артаксеркс I — царь Ахеменидской державы после убийства Ксеркса.",
+    "importance": "Карточка раскрывает главу «Поздняя держава и завоевание Александра» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 465–424 годы до н. э..",
+      "Основной смысл: царь Ахеменидской державы после убийства Ксеркса.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Поздняя держава и завоевание Александра",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 8,
+      "culture": 6,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Сузы",
+      "lat": 32.19,
+      "lon": 48.26
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-10/per_s_10_01.svg",
+      "caption": "Локальная учебная обложка: Артаксеркс I",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_10_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_10"
+  },
+  {
+    "id": "PER_S_10_02",
+    "type": "PERSON",
+    "title": "Дарий II",
+    "original": "Darius II",
+    "subtitle": "царь позднего V века и участник греческой политики",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "423–404 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Дарий II — царь позднего V века и участник греческой политики.",
+    "importance": "Карточка раскрывает главу «Поздняя держава и завоевание Александра» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 423–404 годы до н. э..",
+      "Основной смысл: царь позднего V века и участник греческой политики.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Поздняя держава и завоевание Александра",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 3,
+      "culture": 7,
+      "politics": 8,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сузы",
+      "lat": 32.19,
+      "lon": 48.26
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-10/per_s_10_02.svg",
+      "caption": "Локальная учебная обложка: Дарий II",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_10_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_10"
+  },
+  {
+    "id": "PER_S_10_03",
+    "type": "PERSON",
+    "title": "Кир Младший",
+    "original": "Cyrus the Younger",
+    "subtitle": "претендент, погибший при Кунаксе",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "ум. 401 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Кир Младший — претендент, погибший при Кунаксе.",
+    "importance": "Карточка раскрывает главу «Поздняя держава и завоевание Александра» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: ум. 401 год до н. э..",
+      "Основной смысл: претендент, погибший при Кунаксе.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Поздняя держава и завоевание Александра",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Кунакса",
+      "lat": 33.1,
+      "lon": 44.2
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-10/per_s_10_03.svg",
+      "caption": "Локальная учебная обложка: Кир Младший",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_10_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_10"
+  },
+  {
+    "id": "PER_S_10_04",
+    "type": "BATTLE",
+    "title": "Битва при Кунаксе",
+    "original": "Battle of Cunaxa",
+    "subtitle": "сражение Кира Младшего с Артаксерксом II",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "401 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Битва при Кунаксе — сражение Кира Младшего с Артаксерксом II.",
+    "importance": "Карточка раскрывает главу «Поздняя держава и завоевание Александра» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 401 год до н. э..",
+      "Основной смысл: сражение Кира Младшего с Артаксерксом II.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Поздняя держава и завоевание Александра",
+      "battle"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 7,
+      "culture": 9,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кунакса",
+      "lat": 33.1,
+      "lon": 44.2
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-10/per_s_10_04.svg",
+      "caption": "Локальная учебная обложка: Битва при Кунаксе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_10_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_10"
+  },
+  {
+    "id": "PER_S_10_05",
+    "type": "PERSON",
+    "title": "Артаксеркс III",
+    "original": "Artaxerxes III",
+    "subtitle": "царь, восстановивший власть над Египтом",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "358–338 годы до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Артаксеркс III — царь, восстановивший власть над Египтом.",
+    "importance": "Карточка раскрывает главу «Поздняя держава и завоевание Александра» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 358–338 годы до н. э..",
+      "Основной смысл: царь, восстановивший власть над Египтом.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Поздняя держава и завоевание Александра",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 9,
+      "culture": 5,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Мемфис",
+      "lat": 29.85,
+      "lon": 31.25
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-10/per_s_10_05.svg",
+      "caption": "Локальная учебная обложка: Артаксеркс III",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_10_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_10"
+  },
+  {
+    "id": "PER_S_10_06",
+    "type": "PERSON",
+    "title": "Дарий III",
+    "original": "Darius III",
+    "subtitle": "последний царь Ахеменидской державы",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "336–330 годы до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Дарий III — последний царь Ахеменидской державы.",
+    "importance": "Карточка раскрывает главу «Поздняя держава и завоевание Александра» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 336–330 годы до н. э..",
+      "Основной смысл: последний царь Ахеменидской державы.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Поздняя держава и завоевание Александра",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 4,
+      "culture": 6,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Гавгамелы",
+      "lat": 36.36,
+      "lon": 43.25
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-10/per_s_10_06.svg",
+      "caption": "Локальная учебная обложка: Дарий III",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_10_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_10"
+  },
+  {
+    "id": "PER_S_10_07",
+    "type": "BATTLE",
+    "title": "Битва при Иссе",
+    "original": "Battle of Issus",
+    "subtitle": "победа Александра над Дарием III",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "333 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Битва при Иссе — победа Александра над Дарием III.",
+    "importance": "Карточка раскрывает главу «Поздняя держава и завоевание Александра» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 333 год до н. э..",
+      "Основной смысл: победа Александра над Дарием III.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Поздняя держава и завоевание Александра",
+      "battle"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 6,
+      "culture": 7,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Исс",
+      "lat": 36.84,
+      "lon": 36.17
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-10/per_s_10_07.svg",
+      "caption": "Локальная учебная обложка: Битва при Иссе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_10_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_10"
+  },
+  {
+    "id": "PER_S_10_08",
+    "type": "BATTLE",
+    "title": "Битва при Гавгамелах",
+    "original": "Battle of Gaugamela",
+    "subtitle": "решающее поражение армии Дария III",
+    "era": "Классический мир",
+    "region": "Иран и Ахеменидская держава",
+    "date": "331 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Битва при Гавгамелах — решающее поражение армии Дария III.",
+    "importance": "Карточка раскрывает главу «Поздняя держава и завоевание Александра» и показывает военную, административную, культурную или источниковедческую сторону Ахеменидской державы.",
+    "facts": [
+      "Датировка: 331 год до н. э..",
+      "Основной смысл: решающее поражение армии Дария III.",
+      "Вывод проверяется по царским надписям, местным документам, археологии и греческим рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Ахеменидская Персия",
+      "Поздняя держава и завоевание Александра",
+      "battle"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 8,
+      "culture": 8,
+      "politics": 6,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Гавгамелы",
+      "lat": 36.36,
+      "lon": 43.25
+    },
+    "image": {
+      "local": "assets/cards/achaemenid-persia/chapter-10/per_s_10_08.svg",
+      "caption": "Локальная учебная обложка: Битва при Гавгамелах",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "per_s_10_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Achaemenid Dynasty",
+      "url": "https://www.iranicaonline.org/articles/achaemenid-dynasty/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "PERSIA",
+    "chapter": "PER_CHAPTER_10"
+  }
+]

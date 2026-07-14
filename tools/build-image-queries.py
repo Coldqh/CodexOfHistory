@@ -8,7 +8,7 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "4.6.0"
+VERSION = "5.0.0"
 
 GROUP_CONTEXT = {
     "ROME": {
@@ -96,6 +96,10 @@ GROUP_CONTEXT = {
     "IRON_WORLD": {
         "terms": ["железн", "iron age", "ассир", "assyria", "финик", "phoen", "левант", "levant", "гре", "greek", "чжоу", "zhou", "вед", "vedic", "полис", "polis", "empire"],
         "base": [("ru", "Железный век"), ("en", "Iron Age"), ("en", "Axial Age")],
+    },
+    "PERSIA": {
+        "terms": ["ахеменид", "achaemenid", "перс", "persia", "persian", "кир", "cyrus", "дарий", "darius", "ксеркс", "xerxes", "персепол", "persepolis", "сатрап", "satrap", "iran"],
+        "base": [("ru", "Ахеменидская держава"), ("en", "Achaemenid Empire"), ("en", "Ancient Persia")],
     },
     "MIXED": {
         "terms": ["древн", "ancient", "цивилизац", "civilization", "archaeolog", "археолог", "river", "река", "письмен"],
@@ -259,6 +263,10 @@ TYPE_FALLBACK = {
         "terms": ["железн", "iron age", "ассир", "assyria", "финик", "phoen", "левант", "levant", "гре", "greek", "чжоу", "zhou", "вед", "vedic", "полис", "polis", "empire"],
         "base": [("ru", "Железный век"), ("en", "Iron Age"), ("en", "Axial Age")],
     },
+    "PERSIA": {
+        "terms": ["ахеменид", "achaemenid", "перс", "persia", "persian", "кир", "cyrus", "дарий", "darius", "ксеркс", "xerxes", "персепол", "persepolis", "сатрап", "satrap", "iran"],
+        "base": [("ru", "Ахеменидская держава"), ("en", "Achaemenid Empire"), ("en", "Ancient Persia")],
+    },
     "MIXED": {
         "ARTIFACT": [("ru", "Археологический артефакт"), ("en", "Archaeological artifact")],
         "TEXT": [("ru", "Письменность"), ("en", "Writing")],
@@ -268,6 +276,12 @@ TYPE_FALLBACK = {
 
 # Exact disambiguations for known risky names. These are tried before any bare title.
 MANUAL_BY_ID = {
+    "PER_S_02_01": [("en", "Cyrus the Great"), ("ru", "Кир II Великий")],
+    "PER_S_03_01": [("en", "Cyrus Cylinder"), ("ru", "Цилиндр Кира")],
+    "PER_S_05_02": [("en", "Behistun Inscription"), ("ru", "Бехистунская надпись")],
+    "PER_S_07_02": [("en", "Persepolis"), ("ru", "Персеполь")],
+    "PER_S_09_07": [("en", "Battle of Salamis"), ("ru", "Битва при Саламине")],
+    "PER_S_10_08": [("en", "Battle of Gaugamela"), ("ru", "Битва при Гавгамелах")],
     "BAB_S_03_05": [("en", "Yamhad"), ("ru", "Ямхад")],
     "RIV_CHN_002": [("en", "Yangtze"), ("ru", "Янцзы")],
     "PER_CHN_004": [("en", "Fu Hao"), ("ru", "Фу Хао")],

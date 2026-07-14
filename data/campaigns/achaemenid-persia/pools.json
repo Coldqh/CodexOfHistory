@@ -1,0 +1,335 @@
+{
+  "campaignId": "PERSIA",
+  "campaigns": {
+    "PERSIA": {
+      "id": "PERSIA",
+      "title": "Ахеменидская Персия",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "PER_POOL_01",
+      "campaign": "PERSIA",
+      "title": "Персы, мидяне и Иранское плато",
+      "unlockMission": "PER_01_02",
+      "cardIds": [
+        "PER_A_01_01",
+        "PER_A_01_02",
+        "PER_A_01_03",
+        "PER_A_01_04"
+      ]
+    },
+    {
+      "id": "PER_POOL_02",
+      "campaign": "PERSIA",
+      "title": "Кир II и создание державы",
+      "unlockMission": "PER_02_02",
+      "cardIds": [
+        "PER_A_02_01",
+        "PER_A_02_02",
+        "PER_A_02_03",
+        "PER_A_02_04"
+      ]
+    },
+    {
+      "id": "PER_POOL_03",
+      "campaign": "PERSIA",
+      "title": "Кир в Вавилоне и язык законной власти",
+      "unlockMission": "PER_03_02",
+      "cardIds": [
+        "PER_A_03_01",
+        "PER_A_03_02",
+        "PER_A_03_03",
+        "PER_A_03_04"
+      ]
+    },
+    {
+      "id": "PER_POOL_04",
+      "campaign": "PERSIA",
+      "title": "Камбис II, Египет и кризис престолонаследия",
+      "unlockMission": "PER_04_02",
+      "cardIds": [
+        "PER_A_04_01",
+        "PER_A_04_02",
+        "PER_A_04_03",
+        "PER_A_04_04"
+      ]
+    },
+    {
+      "id": "PER_POOL_05",
+      "campaign": "PERSIA",
+      "title": "Дарий I и Бехистунская надпись",
+      "unlockMission": "PER_05_02",
+      "cardIds": [
+        "PER_A_05_01",
+        "PER_A_05_02",
+        "PER_A_05_03",
+        "PER_A_05_04"
+      ]
+    },
+    {
+      "id": "PER_POOL_06",
+      "campaign": "PERSIA",
+      "title": "Сатрапии, налоги и Царская дорога",
+      "unlockMission": "PER_06_02",
+      "cardIds": [
+        "PER_A_06_01",
+        "PER_A_06_02",
+        "PER_A_06_03",
+        "PER_A_06_04"
+      ]
+    },
+    {
+      "id": "PER_POOL_07",
+      "campaign": "PERSIA",
+      "title": "Сузы, Персеполь и царский двор",
+      "unlockMission": "PER_07_02",
+      "cardIds": [
+        "PER_A_07_01",
+        "PER_A_07_02",
+        "PER_A_07_03",
+        "PER_A_07_04"
+      ]
+    },
+    {
+      "id": "PER_POOL_08",
+      "campaign": "PERSIA",
+      "title": "Народы, армии и религии империи",
+      "unlockMission": "PER_08_02",
+      "cardIds": [
+        "PER_A_08_01",
+        "PER_A_08_02",
+        "PER_A_08_03",
+        "PER_A_08_04"
+      ]
+    },
+    {
+      "id": "PER_POOL_09",
+      "campaign": "PERSIA",
+      "title": "Ионийское восстание и войны с греческими полисами",
+      "unlockMission": "PER_09_02",
+      "cardIds": [
+        "PER_A_09_01",
+        "PER_A_09_02",
+        "PER_A_09_03",
+        "PER_A_09_04"
+      ]
+    },
+    {
+      "id": "PER_POOL_10",
+      "campaign": "PERSIA",
+      "title": "Поздняя держава и завоевание Александра",
+      "unlockMission": "PER_10_02",
+      "cardIds": [
+        "PER_A_10_01",
+        "PER_A_10_02",
+        "PER_A_10_03",
+        "PER_A_10_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "PER_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_01",
+      "campaign": "PERSIA"
+    },
+    "PER_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_01",
+      "campaign": "PERSIA"
+    },
+    "PER_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_01",
+      "campaign": "PERSIA"
+    },
+    "PER_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_01",
+      "campaign": "PERSIA"
+    },
+    "PER_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_02",
+      "campaign": "PERSIA"
+    },
+    "PER_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_02",
+      "campaign": "PERSIA"
+    },
+    "PER_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_02",
+      "campaign": "PERSIA"
+    },
+    "PER_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_02",
+      "campaign": "PERSIA"
+    },
+    "PER_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_03",
+      "campaign": "PERSIA"
+    },
+    "PER_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_03",
+      "campaign": "PERSIA"
+    },
+    "PER_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_03",
+      "campaign": "PERSIA"
+    },
+    "PER_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_03",
+      "campaign": "PERSIA"
+    },
+    "PER_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_04",
+      "campaign": "PERSIA"
+    },
+    "PER_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_04",
+      "campaign": "PERSIA"
+    },
+    "PER_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_04",
+      "campaign": "PERSIA"
+    },
+    "PER_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_04",
+      "campaign": "PERSIA"
+    },
+    "PER_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_05",
+      "campaign": "PERSIA"
+    },
+    "PER_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_05",
+      "campaign": "PERSIA"
+    },
+    "PER_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_05",
+      "campaign": "PERSIA"
+    },
+    "PER_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_05",
+      "campaign": "PERSIA"
+    },
+    "PER_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_06",
+      "campaign": "PERSIA"
+    },
+    "PER_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_06",
+      "campaign": "PERSIA"
+    },
+    "PER_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_06",
+      "campaign": "PERSIA"
+    },
+    "PER_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_06",
+      "campaign": "PERSIA"
+    },
+    "PER_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_07",
+      "campaign": "PERSIA"
+    },
+    "PER_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_07",
+      "campaign": "PERSIA"
+    },
+    "PER_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_07",
+      "campaign": "PERSIA"
+    },
+    "PER_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_07",
+      "campaign": "PERSIA"
+    },
+    "PER_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_08",
+      "campaign": "PERSIA"
+    },
+    "PER_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_08",
+      "campaign": "PERSIA"
+    },
+    "PER_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_08",
+      "campaign": "PERSIA"
+    },
+    "PER_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_08",
+      "campaign": "PERSIA"
+    },
+    "PER_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_09",
+      "campaign": "PERSIA"
+    },
+    "PER_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_09",
+      "campaign": "PERSIA"
+    },
+    "PER_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_09",
+      "campaign": "PERSIA"
+    },
+    "PER_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_09",
+      "campaign": "PERSIA"
+    },
+    "PER_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_10",
+      "campaign": "PERSIA"
+    },
+    "PER_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_10",
+      "campaign": "PERSIA"
+    },
+    "PER_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_10",
+      "campaign": "PERSIA"
+    },
+    "PER_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "PER_POOL_10",
+      "campaign": "PERSIA"
+    }
+  }
+}

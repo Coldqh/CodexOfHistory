@@ -8,7 +8,7 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "4.2.0"
+VERSION = "4.3.0"
 
 GROUP_CONTEXT = {
     "ROME": {
@@ -80,6 +80,10 @@ GROUP_CONTEXT = {
     "ISRAEL_JUDAH": {
         "terms": ["израил", "israel", "иуде", "judah", "judaean", "самар", "samaria", "лахиш", "lachish", "левант", "levant", "моав", "moab", "аммон", "edom", "арам", "aramaean", "iron age"],
         "base": [("ru", "Древний Израиль и Иудея"), ("en", "Kingdom of Israel (Samaria)"), ("en", "Kingdom of Judah")],
+    },
+    "GREECE_ARCHAIC": {
+        "terms": ["гре", "greek", "archaic", "архаич", "полис", "polis", "афин", "athens", "спарт", "sparta", "коринф", "corinth", "олимп", "delphi", "колони", "hoplite", "alphabet", "iron age"],
+        "base": [("ru", "Архаическая Греция"), ("en", "Archaic Greece"), ("en", "Ancient Greece")],
     },
     "MIXED": {
         "terms": ["древн", "ancient", "цивилизац", "civilization", "archaeolog", "археолог", "river", "река", "письмен"],
@@ -230,6 +234,10 @@ TYPE_FALLBACK = {
     "ISRAEL_JUDAH": {
         "terms": ["израил", "israel", "иуде", "judah", "judaean", "самар", "samaria", "лахиш", "lachish", "левант", "levant", "моав", "moab", "аммон", "edom", "арам", "aramaean", "iron age"],
         "base": [("ru", "Древний Израиль и Иудея"), ("en", "Kingdom of Israel (Samaria)"), ("en", "Kingdom of Judah")],
+    },
+    "GREECE_ARCHAIC": {
+        "terms": ["гре", "greek", "archaic", "архаич", "полис", "polis", "афин", "athens", "спарт", "sparta", "коринф", "corinth", "олимп", "delphi", "колони", "hoplite", "alphabet", "iron age"],
+        "base": [("ru", "Архаическая Греция"), ("en", "Archaic Greece"), ("en", "Ancient Greece")],
     },
     "MIXED": {
         "ARTIFACT": [("ru", "Археологический артефакт"), ("en", "Archaeological artifact")],
@@ -410,7 +418,7 @@ def group_for(path: Path, card: dict) -> str:
     p = path.as_posix()
     for token, group in [
         ("/rome/", "ROME"), ("/mesopotamia/", "MESOPOTAMIA"), ("/egypt/", "EGYPT"),
-        ("/indus/", "INDUS"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"), ("/aegean/", "AEGEAN_BRONZE"), ("/international-bronze/", "BRONZE_INTERNATIONAL"), ("/bronze-collapse/", "BRONZE_COLLAPSE"), ("/bronze-world/", "BRONZE_WORLD"), ("/assyria-babylon/", "ASSYRIA_BABYLON"), ("/phoenicians/", "PHOENICIANS"), ("/israel-judah/", "ISRAEL_JUDAH"),
+        ("/indus/", "INDUS"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"), ("/aegean/", "AEGEAN_BRONZE"), ("/international-bronze/", "BRONZE_INTERNATIONAL"), ("/bronze-collapse/", "BRONZE_COLLAPSE"), ("/bronze-world/", "BRONZE_WORLD"), ("/assyria-babylon/", "ASSYRIA_BABYLON"), ("/phoenicians/", "PHOENICIANS"), ("/israel-judah/", "ISRAEL_JUDAH"), ("/archaic-greece/", "GREECE_ARCHAIC"),
     ]:
         if token in p:
             return group

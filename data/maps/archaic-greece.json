@@ -1,0 +1,322 @@
+{
+  "points": {
+    "GREECE": [
+      38.35,
+      23.6
+    ],
+    "ATHENS": [
+      37.9838,
+      23.7275
+    ],
+    "SPARTA": [
+      37.0755,
+      22.4297
+    ],
+    "CORINTH": [
+      37.9056,
+      22.8772
+    ],
+    "ARGOS": [
+      37.6314,
+      22.9422
+    ],
+    "THEBES": [
+      38.325,
+      23.318
+    ],
+    "DELPHI": [
+      38.4824,
+      22.501
+    ],
+    "OLYMPIA": [
+      37.6386,
+      21.6298
+    ],
+    "ERETRIA": [
+      38.3976,
+      23.7939
+    ],
+    "CHALCIS": [
+      38.4635,
+      23.6028
+    ],
+    "MILETUS": [
+      37.5308,
+      27.2784
+    ],
+    "EPHESUS": [
+      37.939,
+      27.341
+    ],
+    "SAMOS": [
+      37.7548,
+      26.9778
+    ],
+    "LESBOS": [
+      39.1667,
+      26.3333
+    ],
+    "NAXOS": [
+      37.1036,
+      25.3764
+    ],
+    "AEGINA": [
+      37.7467,
+      23.4275
+    ],
+    "CORCYRA": [
+      39.6243,
+      19.9217
+    ],
+    "SYRACUSE": [
+      37.0755,
+      15.2866
+    ],
+    "CUMAE": [
+      40.848,
+      14.052
+    ],
+    "MASSALIA": [
+      43.2965,
+      5.3698
+    ],
+    "CYRENE": [
+      32.824,
+      21.858
+    ],
+    "NAUCRATIS": [
+      30.9,
+      30.6
+    ],
+    "BYZANTION": [
+      41.0082,
+      28.9784
+    ],
+    "OLBIA": [
+      46.692,
+      31.9
+    ],
+    "SARDIS": [
+      38.488,
+      28.04
+    ],
+    "IONIA": [
+      37.8,
+      27.4
+    ],
+    "MAGNA": [
+      38.5,
+      15.5
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "ARC_S_01_01": "GREECE",
+    "ARC_S_01_02": "ATHENS",
+    "ARC_S_01_03": "ATHENS",
+    "ARC_S_01_04": "ERETRIA",
+    "ARC_S_01_05": "ATHENS",
+    "ARC_S_01_06": "ARGOS",
+    "ARC_S_01_07": "GREECE",
+    "ARC_S_01_08": "GREECE",
+    "ARC_A_01_01": "ERETRIA",
+    "ARC_A_01_02": "ATHENS",
+    "ARC_A_01_03": "ATHENS",
+    "ARC_A_01_04": "GREECE",
+    "ARC_S_02_01": "GREECE",
+    "ARC_S_02_02": "ATHENS",
+    "ARC_S_02_03": "ATHENS",
+    "ARC_S_02_04": "CORINTH",
+    "ARC_S_02_05": "GREECE",
+    "ARC_S_02_06": "GREECE",
+    "ARC_S_02_07": "ARGOS",
+    "ARC_S_02_08": "GREECE",
+    "ARC_A_02_01": "ATHENS",
+    "ARC_A_02_02": "CORINTH",
+    "ARC_A_02_03": "DELPHI",
+    "ARC_A_02_04": "GREECE",
+    "ARC_S_03_01": "ERETRIA",
+    "ARC_S_03_02": "GREECE",
+    "ARC_S_03_03": "GREECE",
+    "ARC_S_03_04": "GREECE",
+    "ARC_S_03_05": "GREECE",
+    "ARC_S_03_06": "ATHENS",
+    "ARC_S_03_07": "LESBOS",
+    "ARC_S_03_08": "GREECE",
+    "ARC_A_03_01": "MAGNA",
+    "ARC_A_03_02": "ATHENS",
+    "ARC_A_03_03": "GREECE",
+    "ARC_A_03_04": "GREECE",
+    "ARC_S_04_01": "OLYMPIA",
+    "ARC_S_04_02": "DELPHI",
+    "ARC_S_04_03": "OLYMPIA",
+    "ARC_S_04_04": "DELPHI",
+    "ARC_S_04_05": "DELPHI",
+    "ARC_S_04_06": "DELPHI",
+    "ARC_S_04_07": "GREECE",
+    "ARC_S_04_08": "OLYMPIA",
+    "ARC_A_04_01": "OLYMPIA",
+    "ARC_A_04_02": "DELPHI",
+    "ARC_A_04_03": "DELPHI",
+    "ARC_A_04_04": "OLYMPIA",
+    "ARC_S_05_01": "MAGNA",
+    "ARC_S_05_02": "CORINTH",
+    "ARC_S_05_03": "SYRACUSE",
+    "ARC_S_05_04": "SYRACUSE",
+    "ARC_S_05_05": "CUMAE",
+    "ARC_S_05_06": "MASSALIA",
+    "ARC_S_05_07": "CYRENE",
+    "ARC_S_05_08": "OLBIA",
+    "ARC_A_05_01": "CUMAE",
+    "ARC_A_05_02": "NAUCRATIS",
+    "ARC_A_05_03": "MAGNA",
+    "ARC_A_05_04": "GREECE",
+    "ARC_S_06_01": "GREECE",
+    "ARC_S_06_02": "CORINTH",
+    "ARC_S_06_03": "CORINTH",
+    "ARC_S_06_04": "CORINTH",
+    "ARC_S_06_05": "GREECE",
+    "ARC_S_06_06": "GREECE",
+    "ARC_S_06_07": "ATHENS",
+    "ARC_S_06_08": "GREECE",
+    "ARC_A_06_01": "GREECE",
+    "ARC_A_06_02": "CORINTH",
+    "ARC_A_06_03": "LESBOS",
+    "ARC_A_06_04": "GREECE",
+    "ARC_S_07_01": "ARGOS",
+    "ARC_S_07_02": "ARGOS",
+    "ARC_S_07_03": "CORINTH",
+    "ARC_S_07_04": "GREECE",
+    "ARC_S_07_05": "GREECE",
+    "ARC_S_07_06": "GREECE",
+    "ARC_S_07_07": "ARGOS",
+    "ARC_S_07_08": "GREECE",
+    "ARC_A_07_01": "CORINTH",
+    "ARC_A_07_02": "ARGOS",
+    "ARC_A_07_03": "OLYMPIA",
+    "ARC_A_07_04": "GREECE",
+    "ARC_S_08_01": "SPARTA",
+    "ARC_S_08_02": "SPARTA",
+    "ARC_S_08_03": "SPARTA",
+    "ARC_S_08_04": "SPARTA",
+    "ARC_S_08_05": "SPARTA",
+    "ARC_S_08_06": "SPARTA",
+    "ARC_S_08_07": "SPARTA",
+    "ARC_S_08_08": "SPARTA",
+    "ARC_A_08_01": "SPARTA",
+    "ARC_A_08_02": "SPARTA",
+    "ARC_A_08_03": "SPARTA",
+    "ARC_A_08_04": "SPARTA",
+    "ARC_S_09_01": "ATHENS",
+    "ARC_S_09_02": "ATHENS",
+    "ARC_S_09_03": "ATHENS",
+    "ARC_S_09_04": "ATHENS",
+    "ARC_S_09_05": "ATHENS",
+    "ARC_S_09_06": "ATHENS",
+    "ARC_S_09_07": "ATHENS",
+    "ARC_S_09_08": "ATHENS",
+    "ARC_A_09_01": "ATHENS",
+    "ARC_A_09_02": "ATHENS",
+    "ARC_A_09_03": "ATHENS",
+    "ARC_A_09_04": "ATHENS",
+    "ARC_S_10_01": "NAXOS",
+    "ARC_S_10_02": "ATHENS",
+    "ARC_S_10_03": "GREECE",
+    "ARC_S_10_04": "CORINTH",
+    "ARC_S_10_05": "SAMOS",
+    "ARC_S_10_06": "ATHENS",
+    "ARC_S_10_07": "ATHENS",
+    "ARC_S_10_08": "IONIA",
+    "ARC_A_10_01": "GREECE",
+    "ARC_A_10_02": "SAMOS",
+    "ARC_A_10_03": "CORINTH",
+    "ARC_A_10_04": "GREECE"
+  },
+  "chapters": {
+    "ARC_CHAPTER_01": {
+      "title": "После микенских дворцов",
+      "center": [
+        37.9838,
+        23.7275
+      ],
+      "zoom": 7
+    },
+    "ARC_CHAPTER_02": {
+      "title": "Полис и гражданская община",
+      "center": [
+        37.9838,
+        23.7275
+      ],
+      "zoom": 7
+    },
+    "ARC_CHAPTER_03": {
+      "title": "Алфавит, Гомер и устная традиция",
+      "center": [
+        37.9838,
+        23.7275
+      ],
+      "zoom": 7
+    },
+    "ARC_CHAPTER_04": {
+      "title": "Святилища и общегреческие связи",
+      "center": [
+        37.6386,
+        21.6298
+      ],
+      "zoom": 7
+    },
+    "ARC_CHAPTER_05": {
+      "title": "Колонизация и средиземноморские сети",
+      "center": [
+        37.0755,
+        15.2866
+      ],
+      "zoom": 7
+    },
+    "ARC_CHAPTER_06": {
+      "title": "Аристократия, законы и тираны",
+      "center": [
+        37.9056,
+        22.8772
+      ],
+      "zoom": 7
+    },
+    "ARC_CHAPTER_07": {
+      "title": "Гоплиты и война полисов",
+      "center": [
+        37.6314,
+        22.9422
+      ],
+      "zoom": 7
+    },
+    "ARC_CHAPTER_08": {
+      "title": "Спарта и Лакония",
+      "center": [
+        37.0755,
+        22.4297
+      ],
+      "zoom": 7
+    },
+    "ARC_CHAPTER_09": {
+      "title": "Афины: от Драконта к Клисфену",
+      "center": [
+        37.9838,
+        23.7275
+      ],
+      "zoom": 7
+    },
+    "ARC_CHAPTER_10": {
+      "title": "Архаическое искусство и граница классической эпохи",
+      "center": [
+        37.1036,
+        25.3764
+      ],
+      "zoom": 7
+    }
+  },
+  "missionCenter": [
+    38.0,
+    23.8
+  ],
+  "missionZoom": 5
+}

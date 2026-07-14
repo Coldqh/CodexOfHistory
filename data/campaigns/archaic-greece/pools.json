@@ -1,0 +1,335 @@
+{
+  "campaignId": "GREECE_ARCHAIC",
+  "campaigns": {
+    "GREECE_ARCHAIC": {
+      "id": "GREECE_ARCHAIC",
+      "title": "Архаическая Греция",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "ARC_POOL_01",
+      "campaign": "GREECE_ARCHAIC",
+      "title": "После микенских дворцов",
+      "unlockMission": "ARC_01_02",
+      "cardIds": [
+        "ARC_A_01_01",
+        "ARC_A_01_02",
+        "ARC_A_01_03",
+        "ARC_A_01_04"
+      ]
+    },
+    {
+      "id": "ARC_POOL_02",
+      "campaign": "GREECE_ARCHAIC",
+      "title": "Полис и гражданская община",
+      "unlockMission": "ARC_02_02",
+      "cardIds": [
+        "ARC_A_02_01",
+        "ARC_A_02_02",
+        "ARC_A_02_03",
+        "ARC_A_02_04"
+      ]
+    },
+    {
+      "id": "ARC_POOL_03",
+      "campaign": "GREECE_ARCHAIC",
+      "title": "Алфавит, Гомер и устная традиция",
+      "unlockMission": "ARC_03_02",
+      "cardIds": [
+        "ARC_A_03_01",
+        "ARC_A_03_02",
+        "ARC_A_03_03",
+        "ARC_A_03_04"
+      ]
+    },
+    {
+      "id": "ARC_POOL_04",
+      "campaign": "GREECE_ARCHAIC",
+      "title": "Святилища и общегреческие связи",
+      "unlockMission": "ARC_04_02",
+      "cardIds": [
+        "ARC_A_04_01",
+        "ARC_A_04_02",
+        "ARC_A_04_03",
+        "ARC_A_04_04"
+      ]
+    },
+    {
+      "id": "ARC_POOL_05",
+      "campaign": "GREECE_ARCHAIC",
+      "title": "Колонизация и средиземноморские сети",
+      "unlockMission": "ARC_05_02",
+      "cardIds": [
+        "ARC_A_05_01",
+        "ARC_A_05_02",
+        "ARC_A_05_03",
+        "ARC_A_05_04"
+      ]
+    },
+    {
+      "id": "ARC_POOL_06",
+      "campaign": "GREECE_ARCHAIC",
+      "title": "Аристократия, законы и тираны",
+      "unlockMission": "ARC_06_02",
+      "cardIds": [
+        "ARC_A_06_01",
+        "ARC_A_06_02",
+        "ARC_A_06_03",
+        "ARC_A_06_04"
+      ]
+    },
+    {
+      "id": "ARC_POOL_07",
+      "campaign": "GREECE_ARCHAIC",
+      "title": "Гоплиты и война полисов",
+      "unlockMission": "ARC_07_02",
+      "cardIds": [
+        "ARC_A_07_01",
+        "ARC_A_07_02",
+        "ARC_A_07_03",
+        "ARC_A_07_04"
+      ]
+    },
+    {
+      "id": "ARC_POOL_08",
+      "campaign": "GREECE_ARCHAIC",
+      "title": "Спарта и Лакония",
+      "unlockMission": "ARC_08_02",
+      "cardIds": [
+        "ARC_A_08_01",
+        "ARC_A_08_02",
+        "ARC_A_08_03",
+        "ARC_A_08_04"
+      ]
+    },
+    {
+      "id": "ARC_POOL_09",
+      "campaign": "GREECE_ARCHAIC",
+      "title": "Афины: от Драконта к Клисфену",
+      "unlockMission": "ARC_09_02",
+      "cardIds": [
+        "ARC_A_09_01",
+        "ARC_A_09_02",
+        "ARC_A_09_03",
+        "ARC_A_09_04"
+      ]
+    },
+    {
+      "id": "ARC_POOL_10",
+      "campaign": "GREECE_ARCHAIC",
+      "title": "Архаическое искусство и граница классической эпохи",
+      "unlockMission": "ARC_10_02",
+      "cardIds": [
+        "ARC_A_10_01",
+        "ARC_A_10_02",
+        "ARC_A_10_03",
+        "ARC_A_10_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "ARC_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_01",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_01",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_01",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_01",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_02",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_02",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_02",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_02",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_03",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_03",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_03",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_03",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_04",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_04",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_04",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_04",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_05",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_05",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_05",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_05",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_06",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_06",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_06",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_06",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_07",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_07",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_07",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_07",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_08",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_08",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_08",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_08",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_09",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_09",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_09",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_09",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_10",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_10",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_10",
+      "campaign": "GREECE_ARCHAIC"
+    },
+    "ARC_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "ARC_POOL_10",
+      "campaign": "GREECE_ARCHAIC"
+    }
+  }
+}

@@ -1,0 +1,2362 @@
+[
+  {
+    "id": "ARC_A_01_01",
+    "type": "BUILDING",
+    "title": "Геройон Лефканди",
+    "original": "Lefkandi Heroon",
+    "subtitle": "монументальное сооружение и богатое погребение",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "X век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Геройон Лефканди — монументальное сооружение и богатое погребение.",
+    "importance": "Архивная карточка дополняет главу «После микенских дворцов» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: X век до н. э..",
+      "Связь с темой: монументальное сооружение и богатое погребение.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "После микенских дворцов",
+      "building"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 7,
+      "religion": 6,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Эретрия",
+      "lat": 38.3976,
+      "lon": 23.7939
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-01/arc_a_01_01.svg",
+      "caption": "Локальная учебная обложка: Геройон Лефканди",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/geometric-art-in-ancient-greece",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_01_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Geometric Art in Ancient Greece",
+      "url": "https://www.metmuseum.org/essays/geometric-art-in-ancient-greece",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_01"
+  },
+  {
+    "id": "ARC_A_01_02",
+    "type": "ARTIFACT",
+    "title": "Дипилонская амфора",
+    "original": "Dipylon Amphora",
+    "subtitle": "погребальный сосуд с многофигурной сценой",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "VIII век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Дипилонская амфора — погребальный сосуд с многофигурной сценой.",
+    "importance": "Архивная карточка дополняет главу «После микенских дворцов» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: VIII век до н. э..",
+      "Связь с темой: погребальный сосуд с многофигурной сценой.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "После микенских дворцов",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 5,
+      "culture": 7,
+      "politics": 8,
+      "religion": 7,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-01/arc_a_01_02.svg",
+      "caption": "Локальная учебная обложка: Дипилонская амфора",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/geometric-art-in-ancient-greece",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_01_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Geometric Art in Ancient Greece",
+      "url": "https://www.metmuseum.org/essays/geometric-art-in-ancient-greece",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_01"
+  },
+  {
+    "id": "ARC_A_01_03",
+    "type": "ARTIFACT",
+    "title": "Протогеометрическая амфора",
+    "original": "Protogeometric amphora",
+    "subtitle": "сосуд с циркульным орнаментом",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "X век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Протогеометрическая амфора — сосуд с циркульным орнаментом.",
+    "importance": "Архивная карточка дополняет главу «После микенских дворцов» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: X век до н. э..",
+      "Связь с темой: сосуд с циркульным орнаментом.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "После микенских дворцов",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 9,
+      "politics": 9,
+      "religion": 8,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-01/arc_a_01_03.svg",
+      "caption": "Локальная учебная обложка: Протогеометрическая амфора",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/geometric-art-in-ancient-greece",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_01_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Geometric Art in Ancient Greece",
+      "url": "https://www.metmuseum.org/essays/geometric-art-in-ancient-greece",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_01"
+  },
+  {
+    "id": "ARC_A_01_04",
+    "type": "CONCEPT",
+    "title": "Модель полного культурного разрыва",
+    "original": "Greek Dark Age discontinuity model",
+    "subtitle": "историографическая гипотеза о масштабах упадка",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "XX–XXI века",
+    "rarity": "MYTHIC",
+    "difficulty": 7,
+    "summary": "Модель полного культурного разрыва — историографическая гипотеза о масштабах упадка.",
+    "importance": "Архивная карточка дополняет главу «После микенских дворцов» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: XX–XXI века.",
+      "Связь с темой: историографическая гипотеза о масштабах упадка.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "После микенских дворцов",
+      "concept"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 7,
+      "politics": 4,
+      "religion": 4,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Греческий мир",
+      "lat": 38.35,
+      "lon": 23.6
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-01/arc_a_01_04.svg",
+      "caption": "Локальная учебная обложка: Модель полного культурного разрыва",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/geometric-art-in-ancient-greece",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_01_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Geometric Art in Ancient Greece",
+      "url": "https://www.metmuseum.org/essays/geometric-art-in-ancient-greece",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_01"
+  },
+  {
+    "id": "ARC_A_02_01",
+    "type": "SOURCE",
+    "title": "План архаической агоры",
+    "original": "Archaic agora plan",
+    "subtitle": "археологическая реконструкция публичного пространства",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "VII–VI века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "План архаической агоры — археологическая реконструкция публичного пространства.",
+    "importance": "Архивная карточка дополняет главу «Полис и гражданская община» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: VII–VI века до н. э..",
+      "Связь с темой: археологическая реконструкция публичного пространства.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Полис и гражданская община",
+      "source"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 9,
+      "religion": 7,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-02/arc_a_02_01.svg",
+      "caption": "Локальная учебная обложка: План архаической агоры",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_02_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Art in the Archaic Period",
+      "url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_02"
+  },
+  {
+    "id": "ARC_A_02_02",
+    "type": "BUILDING",
+    "title": "Городская стена Коринфа",
+    "original": "Archaic Corinth fortifications",
+    "subtitle": "укрепления крупного торгового полиса",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "VI век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Городская стена Коринфа — укрепления крупного торгового полиса.",
+    "importance": "Архивная карточка дополняет главу «Полис и гражданская община» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: VI век до н. э..",
+      "Связь с темой: укрепления крупного торгового полиса.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Полис и гражданская община",
+      "building"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 6,
+      "culture": 8,
+      "politics": 4,
+      "religion": 8,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Коринф",
+      "lat": 37.9056,
+      "lon": 22.8772
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-02/arc_a_02_02.svg",
+      "caption": "Локальная учебная обложка: Городская стена Коринфа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_02_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Art in the Archaic Period",
+      "url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_02"
+  },
+  {
+    "id": "ARC_A_02_03",
+    "type": "SOURCE",
+    "title": "Посвящения гражданских общин",
+    "original": "Civic dedications in Greek sanctuaries",
+    "subtitle": "надписи и дары от полисов и групп граждан",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "VII–VI века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Посвящения гражданских общин — надписи и дары от полисов и групп граждан.",
+    "importance": "Архивная карточка дополняет главу «Полис и гражданская община» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: VII–VI века до н. э..",
+      "Связь с темой: надписи и дары от полисов и групп граждан.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Полис и гражданская община",
+      "source"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 5,
+      "religion": 4,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Дельфы",
+      "lat": 38.4824,
+      "lon": 22.501
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-02/arc_a_02_03.svg",
+      "caption": "Локальная учебная обложка: Посвящения гражданских общин",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_02_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Art in the Archaic Period",
+      "url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_02"
+  },
+  {
+    "id": "ARC_A_02_04",
+    "type": "CONCEPT",
+    "title": "Проблема определения полиса",
+    "original": "Polis definition debate",
+    "subtitle": "спор о границах города, государства и общины",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "современная историография",
+    "rarity": "LEGENDARY",
+    "difficulty": 7,
+    "summary": "Проблема определения полиса — спор о границах города, государства и общины.",
+    "importance": "Архивная карточка дополняет главу «Полис и гражданская община» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Связь с темой: спор о границах города, государства и общины.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Полис и гражданская община",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 2,
+      "culture": 8,
+      "politics": 6,
+      "religion": 5,
+      "economy": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Греческий мир",
+      "lat": 38.35,
+      "lon": 23.6
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-02/arc_a_02_04.svg",
+      "caption": "Локальная учебная обложка: Проблема определения полиса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_02_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Art in the Archaic Period",
+      "url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_02"
+  },
+  {
+    "id": "ARC_A_03_01",
+    "type": "TEXT",
+    "title": "Кубок Нестора",
+    "original": "Nestor Cup inscription",
+    "subtitle": "ранняя стихотворная надпись на сосуде",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "VIII век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Кубок Нестора — ранняя стихотворная надпись на сосуде.",
+    "importance": "Архивная карточка дополняет главу «Алфавит, Гомер и устная традиция» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: VIII век до н. э..",
+      "Связь с темой: ранняя стихотворная надпись на сосуде.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Алфавит, Гомер и устная традиция",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 7,
+      "politics": 5,
+      "religion": 8,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Великая Греция",
+      "lat": 38.5,
+      "lon": 15.5
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-03/arc_a_03_01.svg",
+      "caption": "Локальная учебная обложка: Кубок Нестора",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/ancient-greek-colonization-and-trade-and-their-influence-on-greek-art",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_03_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Ancient Greek Colonization and Trade",
+      "url": "https://www.metmuseum.org/essays/ancient-greek-colonization-and-trade-and-their-influence-on-greek-art",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_03"
+  },
+  {
+    "id": "ARC_A_03_02",
+    "type": "TEXT",
+    "title": "Дипилонская надпись",
+    "original": "Dipylon inscription",
+    "subtitle": "одна из ранних алфавитных надписей Аттики",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "ок. 740 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Дипилонская надпись — одна из ранних алфавитных надписей Аттики.",
+    "importance": "Архивная карточка дополняет главу «Алфавит, Гомер и устная традиция» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: ок. 740 до н. э..",
+      "Связь с темой: одна из ранних алфавитных надписей Аттики.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Алфавит, Гомер и устная традиция",
+      "text"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 7,
+      "culture": 9,
+      "politics": 6,
+      "religion": 4,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-03/arc_a_03_02.svg",
+      "caption": "Локальная учебная обложка: Дипилонская надпись",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/ancient-greek-colonization-and-trade-and-their-influence-on-greek-art",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_03_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Ancient Greek Colonization and Trade",
+      "url": "https://www.metmuseum.org/essays/ancient-greek-colonization-and-trade-and-their-influence-on-greek-art",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_03"
+  },
+  {
+    "id": "ARC_A_03_03",
+    "type": "WRITING",
+    "title": "Финикийский алфавит",
+    "original": "Phoenician alphabet",
+    "subtitle": "система письма, повлиявшая на греческий алфавит",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "IX–VIII века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Финикийский алфавит — система письма, повлиявшая на греческий алфавит.",
+    "importance": "Архивная карточка дополняет главу «Алфавит, Гомер и устная традиция» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: IX–VIII века до н. э..",
+      "Связь с темой: система письма, повлиявшая на греческий алфавит.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Алфавит, Гомер и устная традиция",
+      "writing"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 2,
+      "culture": 7,
+      "politics": 7,
+      "religion": 5,
+      "economy": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Греческий мир",
+      "lat": 38.35,
+      "lon": 23.6
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-03/arc_a_03_03.svg",
+      "caption": "Локальная учебная обложка: Финикийский алфавит",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/ancient-greek-colonization-and-trade-and-their-influence-on-greek-art",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_03_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Ancient Greek Colonization and Trade",
+      "url": "https://www.metmuseum.org/essays/ancient-greek-colonization-and-trade-and-their-influence-on-greek-art",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_03"
+  },
+  {
+    "id": "ARC_A_03_04",
+    "type": "CONCEPT",
+    "title": "Гомеровский вопрос",
+    "original": "Homeric Question",
+    "subtitle": "спор об авторстве, устной традиции и редакции эпоса",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "современная историография",
+    "rarity": "LEGENDARY",
+    "difficulty": 7,
+    "summary": "Гомеровский вопрос — спор об авторстве, устной традиции и редакции эпоса.",
+    "importance": "Архивная карточка дополняет главу «Алфавит, Гомер и устная традиция» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Связь с темой: спор об авторстве, устной традиции и редакции эпоса.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Алфавит, Гомер и устная традиция",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 9,
+      "politics": 8,
+      "religion": 6,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Греческий мир",
+      "lat": 38.35,
+      "lon": 23.6
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-03/arc_a_03_04.svg",
+      "caption": "Локальная учебная обложка: Гомеровский вопрос",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/ancient-greek-colonization-and-trade-and-their-influence-on-greek-art",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_03_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Ancient Greek Colonization and Trade",
+      "url": "https://www.metmuseum.org/essays/ancient-greek-colonization-and-trade-and-their-influence-on-greek-art",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_03"
+  },
+  {
+    "id": "ARC_A_04_01",
+    "type": "ARTIFACT",
+    "title": "Треножники Олимпии",
+    "original": "Olympian bronze tripods",
+    "subtitle": "богатые бронзовые посвящения раннего святилища",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "IX–VII века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Треножники Олимпии — богатые бронзовые посвящения раннего святилища.",
+    "importance": "Архивная карточка дополняет главу «Святилища и общегреческие связи» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: IX–VII века до н. э..",
+      "Связь с темой: богатые бронзовые посвящения раннего святилища.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Святилища и общегреческие связи",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 7,
+      "culture": 8,
+      "politics": 7,
+      "religion": 4,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Олимпия",
+      "lat": 37.6386,
+      "lon": 21.6298
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-04/arc_a_04_01.svg",
+      "caption": "Локальная учебная обложка: Треножники Олимпии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Gods and Religious Practices",
+      "url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_04"
+  },
+  {
+    "id": "ARC_A_04_02",
+    "type": "BUILDING",
+    "title": "Сокровищница сифносцев",
+    "original": "Siphnian Treasury",
+    "subtitle": "ионийская сокровищница с рельефами",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "ок. 525 до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Сокровищница сифносцев — ионийская сокровищница с рельефами.",
+    "importance": "Архивная карточка дополняет главу «Святилища и общегреческие связи» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: ок. 525 до н. э..",
+      "Связь с темой: ионийская сокровищница с рельефами.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Святилища и общегреческие связи",
+      "building"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 2,
+      "culture": 6,
+      "politics": 8,
+      "religion": 5,
+      "economy": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Дельфы",
+      "lat": 38.4824,
+      "lon": 22.501
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-04/arc_a_04_02.svg",
+      "caption": "Локальная учебная обложка: Сокровищница сифносцев",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Gods and Religious Practices",
+      "url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_04"
+  },
+  {
+    "id": "ARC_A_04_03",
+    "type": "ARTIFACT",
+    "title": "Наксосский сфинкс",
+    "original": "Sphinx of Naxos",
+    "subtitle": "монументальное посвящение островной общины",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "ок. 560 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Наксосский сфинкс — монументальное посвящение островной общины.",
+    "importance": "Архивная карточка дополняет главу «Святилища и общегреческие связи» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: ок. 560 до н. э..",
+      "Связь с темой: монументальное посвящение островной общины.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Святилища и общегреческие связи",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 3,
+      "culture": 8,
+      "politics": 9,
+      "religion": 6,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Дельфы",
+      "lat": 38.4824,
+      "lon": 22.501
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-04/arc_a_04_03.svg",
+      "caption": "Локальная учебная обложка: Наксосский сфинкс",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Gods and Religious Practices",
+      "url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_04"
+  },
+  {
+    "id": "ARC_A_04_04",
+    "type": "CONCEPT",
+    "title": "Традиционная дата 776 года",
+    "original": "Traditional date of first Olympiad",
+    "subtitle": "поздняя хронографическая точка отсчёта",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "традиционно 776 до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 8,
+    "summary": "Традиционная дата 776 года — поздняя хронографическая точка отсчёта.",
+    "importance": "Архивная карточка дополняет главу «Святилища и общегреческие связи» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: традиционно 776 до н. э..",
+      "Связь с темой: поздняя хронографическая точка отсчёта.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Святилища и общегреческие связи",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 4,
+      "culture": 6,
+      "politics": 4,
+      "religion": 7,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Олимпия",
+      "lat": 37.6386,
+      "lon": 21.6298
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-04/arc_a_04_04.svg",
+      "caption": "Локальная учебная обложка: Традиционная дата 776 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_04_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Gods and Religious Practices",
+      "url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_04"
+  },
+  {
+    "id": "ARC_A_05_01",
+    "type": "SITE",
+    "title": "Питекуссы",
+    "original": "Pithekoussai",
+    "subtitle": "ранний торгово-поселенческий центр на Искье",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "VIII век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Питекуссы — ранний торгово-поселенческий центр на Искье.",
+    "importance": "Архивная карточка дополняет главу «Колонизация и средиземноморские сети» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: VIII век до н. э..",
+      "Связь с темой: ранний торгово-поселенческий центр на Искье.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Колонизация и средиземноморские сети",
+      "site"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 2,
+      "culture": 9,
+      "politics": 9,
+      "religion": 5,
+      "economy": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Кумы",
+      "lat": 40.848,
+      "lon": 14.052
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-05/arc_a_05_01.svg",
+      "caption": "Локальная учебная обложка: Питекуссы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/ancient-greek-colonization-and-trade-and-their-influence-on-greek-art",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Ancient Greek Colonization and Trade",
+      "url": "https://www.metmuseum.org/essays/ancient-greek-colonization-and-trade-and-their-influence-on-greek-art",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_05"
+  },
+  {
+    "id": "ARC_A_05_02",
+    "type": "CITY",
+    "title": "Навкратис",
+    "original": "Naucratis",
+    "subtitle": "греческий торговый центр в дельте Нила",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "VII–VI века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Навкратис — греческий торговый центр в дельте Нила.",
+    "importance": "Архивная карточка дополняет главу «Колонизация и средиземноморские сети» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: VII–VI века до н. э..",
+      "Связь с темой: греческий торговый центр в дельте Нила.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Колонизация и средиземноморские сети",
+      "city"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 3,
+      "culture": 7,
+      "politics": 4,
+      "religion": 6,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Навкратис",
+      "lat": 30.9,
+      "lon": 30.6
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-05/arc_a_05_02.svg",
+      "caption": "Локальная учебная обложка: Навкратис",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/ancient-greek-colonization-and-trade-and-their-influence-on-greek-art",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Ancient Greek Colonization and Trade",
+      "url": "https://www.metmuseum.org/essays/ancient-greek-colonization-and-trade-and-their-influence-on-greek-art",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_05"
+  },
+  {
+    "id": "ARC_A_05_03",
+    "type": "SOURCE",
+    "title": "Керамика греков и местных обществ",
+    "original": "Greek and indigenous pottery exchange",
+    "subtitle": "материал для изучения смешанных контактов",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "VIII–VI века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Керамика греков и местных обществ — материал для изучения смешанных контактов.",
+    "importance": "Архивная карточка дополняет главу «Колонизация и средиземноморские сети» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: VIII–VI века до н. э..",
+      "Связь с темой: материал для изучения смешанных контактов.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Колонизация и средиземноморские сети",
+      "source"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 5,
+      "religion": 7,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Великая Греция",
+      "lat": 38.5,
+      "lon": 15.5
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-05/arc_a_05_03.svg",
+      "caption": "Локальная учебная обложка: Керамика греков и местных обществ",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/ancient-greek-colonization-and-trade-and-their-influence-on-greek-art",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Ancient Greek Colonization and Trade",
+      "url": "https://www.metmuseum.org/essays/ancient-greek-colonization-and-trade-and-their-influence-on-greek-art",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_05"
+  },
+  {
+    "id": "ARC_A_05_04",
+    "type": "CONCEPT",
+    "title": "Модель «Великой колонизации»",
+    "original": "Great Greek Colonization debate",
+    "subtitle": "спор о масштабах, терминах и участии местных обществ",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "современная историография",
+    "rarity": "MYTHIC",
+    "difficulty": 8,
+    "summary": "Модель «Великой колонизации» — спор о масштабах, терминах и участии местных обществ.",
+    "importance": "Архивная карточка дополняет главу «Колонизация и средиземноморские сети» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Связь с темой: спор о масштабах, терминах и участии местных обществ.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Колонизация и средиземноморские сети",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 5,
+      "culture": 7,
+      "politics": 6,
+      "religion": 8,
+      "economy": 8,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Греческий мир",
+      "lat": 38.35,
+      "lon": 23.6
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-05/arc_a_05_04.svg",
+      "caption": "Локальная учебная обложка: Модель «Великой колонизации»",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/ancient-greek-colonization-and-trade-and-their-influence-on-greek-art",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Ancient Greek Colonization and Trade",
+      "url": "https://www.metmuseum.org/essays/ancient-greek-colonization-and-trade-and-their-influence-on-greek-art",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_05"
+  },
+  {
+    "id": "ARC_A_06_01",
+    "type": "TEXT",
+    "title": "Законы Дрероса",
+    "original": "Dreros law code",
+    "subtitle": "одна из ранних публичных греческих надписей",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "VII век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Законы Дрероса — одна из ранних публичных греческих надписей.",
+    "importance": "Архивная карточка дополняет главу «Аристократия, законы и тираны» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: VII век до н. э..",
+      "Связь с темой: одна из ранних публичных греческих надписей.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Аристократия, законы и тираны",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 3,
+      "culture": 6,
+      "politics": 5,
+      "religion": 6,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Греческий мир",
+      "lat": 38.35,
+      "lon": 23.6
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-06/arc_a_06_01.svg",
+      "caption": "Локальная учебная обложка: Законы Дрероса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Art in the Archaic Period",
+      "url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_06"
+  },
+  {
+    "id": "ARC_A_06_02",
+    "type": "ARTIFACT",
+    "title": "Кипселов ларец",
+    "original": "Chest of Cypselus tradition",
+    "subtitle": "описанный поздними авторами памятник власти Кипселидов",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "традиционная датировка VII–VI века",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Кипселов ларец — описанный поздними авторами памятник власти Кипселидов.",
+    "importance": "Архивная карточка дополняет главу «Аристократия, законы и тираны» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: традиционная датировка VII–VI века.",
+      "Связь с темой: описанный поздними авторами памятник власти Кипселидов.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Аристократия, законы и тираны",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 4,
+      "culture": 8,
+      "politics": 6,
+      "religion": 7,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Коринф",
+      "lat": 37.9056,
+      "lon": 22.8772
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-06/arc_a_06_02.svg",
+      "caption": "Локальная учебная обложка: Кипселов ларец",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Art in the Archaic Period",
+      "url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_06"
+  },
+  {
+    "id": "ARC_A_06_03",
+    "type": "TEXT",
+    "title": "Аристократическая лирика",
+    "original": "Archaic aristocratic lyric poetry",
+    "subtitle": "поэзия соперничества, пира и статуса",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "VII–VI века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Аристократическая лирика — поэзия соперничества, пира и статуса.",
+    "importance": "Архивная карточка дополняет главу «Аристократия, законы и тираны» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: VII–VI века до н. э..",
+      "Связь с темой: поэзия соперничества, пира и статуса.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Аристократия, законы и тираны",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 7,
+      "religion": 8,
+      "economy": 8,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Лесбос",
+      "lat": 39.1667,
+      "lon": 26.3333
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-06/arc_a_06_03.svg",
+      "caption": "Локальная учебная обложка: Аристократическая лирика",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Art in the Archaic Period",
+      "url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_06"
+  },
+  {
+    "id": "ARC_A_06_04",
+    "type": "CONCEPT",
+    "title": "Проблема термина «тиран»",
+    "original": "Greek tyrant terminology debate",
+    "subtitle": "изменение значения слова от правителя к отрицательному образу",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "современная историография",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Проблема термина «тиран» — изменение значения слова от правителя к отрицательному образу.",
+    "importance": "Архивная карточка дополняет главу «Аристократия, законы и тираны» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Связь с темой: изменение значения слова от правителя к отрицательному образу.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Аристократия, законы и тираны",
+      "concept"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 6,
+      "culture": 8,
+      "politics": 8,
+      "religion": 4,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Греческий мир",
+      "lat": 38.35,
+      "lon": 23.6
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-06/arc_a_06_04.svg",
+      "caption": "Локальная учебная обложка: Проблема термина «тиран»",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Art in the Archaic Period",
+      "url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_06"
+  },
+  {
+    "id": "ARC_A_07_01",
+    "type": "ARTIFACT",
+    "title": "Ваза Киджи",
+    "original": "Chigi Vase",
+    "subtitle": "раннее изображение ряда вооружённых воинов",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "VII век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Ваза Киджи — раннее изображение ряда вооружённых воинов.",
+    "importance": "Архивная карточка дополняет главу «Гоплиты и война полисов» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: VII век до н. э..",
+      "Связь с темой: раннее изображение ряда вооружённых воинов.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Гоплиты и война полисов",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 4,
+      "culture": 7,
+      "politics": 7,
+      "religion": 7,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Коринф",
+      "lat": 37.9056,
+      "lon": 22.8772
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-07/arc_a_07_01.svg",
+      "caption": "Локальная учебная обложка: Ваза Киджи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Art in the Archaic Period",
+      "url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_07"
+  },
+  {
+    "id": "ARC_A_07_02",
+    "type": "ARTIFACT",
+    "title": "Аргосские панцири",
+    "original": "Argive bronze armour",
+    "subtitle": "бронзовые элементы тяжёлого вооружения",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "VIII–VII века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Аргосские панцири — бронзовые элементы тяжёлого вооружения.",
+    "importance": "Архивная карточка дополняет главу «Гоплиты и война полисов» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: VIII–VII века до н. э..",
+      "Связь с темой: бронзовые элементы тяжёлого вооружения.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Гоплиты и война полисов",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 5,
+      "culture": 9,
+      "politics": 8,
+      "religion": 8,
+      "economy": 8,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Аргос",
+      "lat": 37.6314,
+      "lon": 22.9422
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-07/arc_a_07_02.svg",
+      "caption": "Локальная учебная обложка: Аргосские панцири",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Art in the Archaic Period",
+      "url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_07"
+  },
+  {
+    "id": "ARC_A_07_03",
+    "type": "ARTIFACT",
+    "title": "Щиты из Олимпии",
+    "original": "Shields from Olympia",
+    "subtitle": "военные посвящения в святилище",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "VII–VI века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Щиты из Олимпии — военные посвящения в святилище.",
+    "importance": "Архивная карточка дополняет главу «Гоплиты и война полисов» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: VII–VI века до н. э..",
+      "Связь с темой: военные посвящения в святилище.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Гоплиты и война полисов",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 6,
+      "culture": 7,
+      "politics": 9,
+      "religion": 4,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Олимпия",
+      "lat": 37.6386,
+      "lon": 21.6298
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-07/arc_a_07_03.svg",
+      "caption": "Локальная учебная обложка: Щиты из Олимпии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Art in the Archaic Period",
+      "url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_07"
+  },
+  {
+    "id": "ARC_A_07_04",
+    "type": "CONCEPT",
+    "title": "Модель гоплитской революции",
+    "original": "Hoplite revolution model",
+    "subtitle": "историографическая схема связи фаланги и политических перемен",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "XX век",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Модель гоплитской революции — историографическая схема связи фаланги и политических перемен.",
+    "importance": "Архивная карточка дополняет главу «Гоплиты и война полисов» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: XX век.",
+      "Связь с темой: историографическая схема связи фаланги и политических перемен.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Гоплиты и война полисов",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 7,
+      "culture": 9,
+      "politics": 4,
+      "religion": 5,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Греческий мир",
+      "lat": 38.35,
+      "lon": 23.6
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-07/arc_a_07_04.svg",
+      "caption": "Локальная учебная обложка: Модель гоплитской революции",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_07_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Art in the Archaic Period",
+      "url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_07"
+  },
+  {
+    "id": "ARC_A_08_01",
+    "type": "ARTIFACT",
+    "title": "Лаконская чаша",
+    "original": "Laconian cup",
+    "subtitle": "расписная керамика спартанских мастерских",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "VI век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Лаконская чаша — расписная керамика спартанских мастерских.",
+    "importance": "Архивная карточка дополняет главу «Спарта и Лакония» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: VI век до н. э..",
+      "Связь с темой: расписная керамика спартанских мастерских.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Спарта и Лакония",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 5,
+      "culture": 8,
+      "politics": 9,
+      "religion": 8,
+      "economy": 8,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Спарта",
+      "lat": 37.0755,
+      "lon": 22.4297
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-08/arc_a_08_01.svg",
+      "caption": "Локальная учебная обложка: Лаконская чаша",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/art-and-craft-in-archaic-sparta",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Art and Craft in Archaic Sparta",
+      "url": "https://www.metmuseum.org/essays/art-and-craft-in-archaic-sparta",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_08"
+  },
+  {
+    "id": "ARC_A_08_02",
+    "type": "ARTIFACT",
+    "title": "Свинцовые фигурки Орфии",
+    "original": "Lead votives from Artemis Orthia",
+    "subtitle": "массовые посвящения в спартанском святилище",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "VII–VI века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Свинцовые фигурки Орфии — массовые посвящения в спартанском святилище.",
+    "importance": "Архивная карточка дополняет главу «Спарта и Лакония» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: VII–VI века до н. э..",
+      "Связь с темой: массовые посвящения в спартанском святилище.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Спарта и Лакония",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 6,
+      "culture": 6,
+      "politics": 4,
+      "religion": 4,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Спарта",
+      "lat": 37.0755,
+      "lon": 22.4297
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-08/arc_a_08_02.svg",
+      "caption": "Локальная учебная обложка: Свинцовые фигурки Орфии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/art-and-craft-in-archaic-sparta",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Art and Craft in Archaic Sparta",
+      "url": "https://www.metmuseum.org/essays/art-and-craft-in-archaic-sparta",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_08"
+  },
+  {
+    "id": "ARC_A_08_03",
+    "type": "TEXT",
+    "title": "Большая ретра",
+    "original": "Great Rhetra tradition",
+    "subtitle": "поздняя традиция о спартанском устройстве",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "традиционно архаическая эпоха",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Большая ретра — поздняя традиция о спартанском устройстве.",
+    "importance": "Архивная карточка дополняет главу «Спарта и Лакония» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: традиционно архаическая эпоха.",
+      "Связь с темой: поздняя традиция о спартанском устройстве.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Спарта и Лакония",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 7,
+      "culture": 8,
+      "politics": 5,
+      "religion": 5,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Спарта",
+      "lat": 37.0755,
+      "lon": 22.4297
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-08/arc_a_08_03.svg",
+      "caption": "Локальная учебная обложка: Большая ретра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/art-and-craft-in-archaic-sparta",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Art and Craft in Archaic Sparta",
+      "url": "https://www.metmuseum.org/essays/art-and-craft-in-archaic-sparta",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_08"
+  },
+  {
+    "id": "ARC_A_08_04",
+    "type": "CONCEPT",
+    "title": "Спартанский мираж",
+    "original": "Spartan mirage",
+    "subtitle": "идеализированный образ Спарты в поздних источниках",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "современная историография",
+    "rarity": "LEGENDARY",
+    "difficulty": 9,
+    "summary": "Спартанский мираж — идеализированный образ Спарты в поздних источниках.",
+    "importance": "Архивная карточка дополняет главу «Спарта и Лакония» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Связь с темой: идеализированный образ Спарты в поздних источниках.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Спарта и Лакония",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 2,
+      "culture": 6,
+      "politics": 6,
+      "religion": 6,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Спарта",
+      "lat": 37.0755,
+      "lon": 22.4297
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-08/arc_a_08_04.svg",
+      "caption": "Локальная учебная обложка: Спартанский мираж",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/art-and-craft-in-archaic-sparta",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_08_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Art and Craft in Archaic Sparta",
+      "url": "https://www.metmuseum.org/essays/art-and-craft-in-archaic-sparta",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_08"
+  },
+  {
+    "id": "ARC_A_09_01",
+    "type": "TEXT",
+    "title": "Афинская полития Аристотеля",
+    "original": "Aristotle Constitution of the Athenians",
+    "subtitle": "поздний источник о ранних афинских реформах",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "IV век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Афинская полития Аристотеля — поздний источник о ранних афинских реформах.",
+    "importance": "Архивная карточка дополняет главу «Афины: от Драконта к Клисфену» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: IV век до н. э..",
+      "Связь с темой: поздний источник о ранних афинских реформах.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Афины: от Драконта к Клисфену",
+      "text"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 6,
+      "culture": 9,
+      "politics": 5,
+      "religion": 4,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-09/arc_a_09_01.svg",
+      "caption": "Локальная учебная обложка: Афинская полития Аристотеля",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_09_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Art in the Archaic Period",
+      "url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_09"
+  },
+  {
+    "id": "ARC_A_09_02",
+    "type": "TEXT",
+    "title": "Законы Солона",
+    "original": "Solonian laws tradition",
+    "subtitle": "фрагментарно сохранённая законодательная традиция",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "VI век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Законы Солона — фрагментарно сохранённая законодательная традиция.",
+    "importance": "Архивная карточка дополняет главу «Афины: от Драконта к Клисфену» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: VI век до н. э..",
+      "Связь с темой: фрагментарно сохранённая законодательная традиция.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Афины: от Драконта к Клисфену",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 7,
+      "culture": 7,
+      "politics": 6,
+      "religion": 5,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-09/arc_a_09_02.svg",
+      "caption": "Локальная учебная обложка: Законы Солона",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_09_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Art in the Archaic Period",
+      "url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_09"
+  },
+  {
+    "id": "ARC_A_09_03",
+    "type": "ARTIFACT",
+    "title": "Чёрнофигурная керамика Писистратидов",
+    "original": "Peisistratid black-figure pottery",
+    "subtitle": "визуальная культура Афин VI века",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "VI век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Чёрнофигурная керамика Писистратидов — визуальная культура Афин VI века.",
+    "importance": "Архивная карточка дополняет главу «Афины: от Драконта к Клисфену» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: VI век до н. э..",
+      "Связь с темой: визуальная культура Афин VI века.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Афины: от Драконта к Клисфену",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 2,
+      "culture": 9,
+      "politics": 7,
+      "religion": 6,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-09/arc_a_09_03.svg",
+      "caption": "Локальная учебная обложка: Чёрнофигурная керамика Писистратидов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_09_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Art in the Archaic Period",
+      "url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_09"
+  },
+  {
+    "id": "ARC_A_09_04",
+    "type": "CONCEPT",
+    "title": "Спор о рождении демократии",
+    "original": "Origins of Athenian democracy debate",
+    "subtitle": "оценка роли Солона, тирании и Клисфена",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "современная историография",
+    "rarity": "MYTHIC",
+    "difficulty": 9,
+    "summary": "Спор о рождении демократии — оценка роли Солона, тирании и Клисфена.",
+    "importance": "Архивная карточка дополняет главу «Афины: от Драконта к Клисфену» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Связь с темой: оценка роли Солона, тирании и Клисфена.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Афины: от Драконта к Клисфену",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 3,
+      "culture": 7,
+      "politics": 8,
+      "religion": 7,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-09/arc_a_09_04.svg",
+      "caption": "Локальная учебная обложка: Спор о рождении демократии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_09_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Art in the Archaic Period",
+      "url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_09"
+  },
+  {
+    "id": "ARC_A_10_01",
+    "type": "ARTIFACT",
+    "title": "Курос Метрополитен-музея",
+    "original": "Metropolitan Museum Kouros",
+    "subtitle": "ранняя монументальная статуя с египетским влиянием",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "ок. 590–580 до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Курос Метрополитен-музея — ранняя монументальная статуя с египетским влиянием.",
+    "importance": "Архивная карточка дополняет главу «Архаическое искусство и граница классической эпохи» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: ок. 590–580 до н. э..",
+      "Связь с темой: ранняя монументальная статуя с египетским влиянием.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Архаическое искусство и граница классической эпохи",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 7,
+      "religion": 5,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Греческий мир",
+      "lat": 38.35,
+      "lon": 23.6
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-10/arc_a_10_01.svg",
+      "caption": "Локальная учебная обложка: Курос Метрополитен-музея",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_10_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Art in the Archaic Period",
+      "url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_10"
+  },
+  {
+    "id": "ARC_A_10_02",
+    "type": "SANCTUARY",
+    "title": "Герайон Самоса",
+    "original": "Heraion of Samos",
+    "subtitle": "ионийское святилище с крупными храмами",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "VI век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Герайон Самоса — ионийское святилище с крупными храмами.",
+    "importance": "Архивная карточка дополняет главу «Архаическое искусство и граница классической эпохи» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: VI век до н. э..",
+      "Связь с темой: ионийское святилище с крупными храмами.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Архаическое искусство и граница классической эпохи",
+      "sanctuary"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 2,
+      "culture": 8,
+      "politics": 8,
+      "religion": 6,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Самос",
+      "lat": 37.7548,
+      "lon": 26.9778
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-10/arc_a_10_02.svg",
+      "caption": "Локальная учебная обложка: Герайон Самоса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_10_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Art in the Archaic Period",
+      "url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_10"
+  },
+  {
+    "id": "ARC_A_10_03",
+    "type": "BUILDING",
+    "title": "Храм Аполлона в Коринфе",
+    "original": "Temple of Apollo at Corinth",
+    "subtitle": "ранний пример дорической архитектуры",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "ок. 540 до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Храм Аполлона в Коринфе — ранний пример дорической архитектуры.",
+    "importance": "Архивная карточка дополняет главу «Архаическое искусство и граница классической эпохи» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: ок. 540 до н. э..",
+      "Связь с темой: ранний пример дорической архитектуры.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Архаическое искусство и граница классической эпохи",
+      "building"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 3,
+      "culture": 6,
+      "politics": 9,
+      "religion": 7,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Коринф",
+      "lat": 37.9056,
+      "lon": 22.8772
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-10/arc_a_10_03.svg",
+      "caption": "Локальная учебная обложка: Храм Аполлона в Коринфе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_10_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Art in the Archaic Period",
+      "url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_10"
+  },
+  {
+    "id": "ARC_A_10_04",
+    "type": "CONCEPT",
+    "title": "Граница 480 года",
+    "original": "Archaic-Classical transition",
+    "subtitle": "условная граница между архаической и классической эпохами",
+    "era": "Железный век",
+    "region": "Греческий мир",
+    "date": "ок. 480 до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 9,
+    "summary": "Граница 480 года — условная граница между архаической и классической эпохами.",
+    "importance": "Архивная карточка дополняет главу «Архаическое искусство и граница классической эпохи» отдельным памятником, текстом или спором историков.",
+    "facts": [
+      "Датировка: ок. 480 до н. э..",
+      "Связь с темой: условная граница между архаической и классической эпохами.",
+      "Надёжность вывода зависит от происхождения, слоя, жанра, сохранности и сопоставления с другими источниками."
+    ],
+    "tags": [
+      "железный век",
+      "архив полисов",
+      "Архаическое искусство и граница классической эпохи",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 4,
+      "culture": 8,
+      "politics": 4,
+      "religion": 8,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Греческий мир",
+      "lat": 38.35,
+      "lon": 23.6
+    },
+    "image": {
+      "local": "assets/cards/archaic-greece/chapter-10/arc_a_10_04.svg",
+      "caption": "Локальная учебная обложка: Граница 480 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "arc_a_10_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Greek Art in the Archaic Period",
+      "url": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_ARCHAIC",
+    "chapter": "ARC_CHAPTER_10"
+  }
+]

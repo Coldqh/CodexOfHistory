@@ -1,5 +1,5 @@
 {
-  "version": "4.2.0",
+  "version": "4.3.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -38,7 +38,9 @@
       "data/cards/phoenicians/story.json",
       "data/cards/phoenicians/archive.json",
       "data/cards/israel-judah/story.json",
-      "data/cards/israel-judah/archive.json"
+      "data/cards/israel-judah/archive.json",
+      "data/cards/archaic-greece/story.json",
+      "data/cards/archaic-greece/archive.json"
     ],
     "relations": "data/core/relations.json",
     "pools": [
@@ -58,7 +60,8 @@
       "data/campaigns/bronze-world/pools.json",
       "data/campaigns/assyria-babylon/pools.json",
       "data/campaigns/phoenicians/pools.json",
-      "data/campaigns/israel-judah/pools.json"
+      "data/campaigns/israel-judah/pools.json",
+      "data/campaigns/archaic-greece/pools.json"
     ],
     "quizzes": [
       "data/quizzes/rome/chapter_01.json",
@@ -81,7 +84,8 @@
       "data/quizzes/bronze-world/campaign.json",
       "data/quizzes/assyria-babylon/campaign.json",
       "data/quizzes/phoenicians/campaign.json",
-      "data/quizzes/israel-judah/campaign.json"
+      "data/quizzes/israel-judah/campaign.json",
+      "data/quizzes/archaic-greece/campaign.json"
     ],
     "stories": [
       "data/stories/rome/personal.json",
@@ -100,7 +104,8 @@
       "data/stories/bronze-world/personal.json",
       "data/stories/assyria-babylon/personal.json",
       "data/stories/phoenicians/personal.json",
-      "data/stories/israel-judah/personal.json"
+      "data/stories/israel-judah/personal.json",
+      "data/stories/archaic-greece/personal.json"
     ],
     "mastery": "data/core/mastery.json",
     "packs": "data/core/packs.json",
@@ -123,7 +128,8 @@
       "BRONZE_ERA_EXAM": "data/maps/bronze-world-exam.json",
       "ASSYRIA_BABYLON": "data/maps/assyria-babylon.json",
       "PHOENICIANS": "data/maps/phoenicians.json",
-      "ISRAEL_JUDAH": "data/maps/israel-judah.json"
+      "ISRAEL_JUDAH": "data/maps/israel-judah.json",
+      "GREECE_ARCHAIC": "data/maps/archaic-greece.json"
     },
     "daily": "data/core/daily-learning.json",
     "lessons": [
@@ -147,7 +153,8 @@
       "data/lessons/bronze-world/campaign.json",
       "data/lessons/assyria-babylon/campaign.json",
       "data/lessons/phoenicians/campaign.json",
-      "data/lessons/israel-judah/campaign.json"
+      "data/lessons/israel-judah/campaign.json",
+      "data/lessons/archaic-greece/campaign.json"
     ],
     "eras": "data/world/eras.json",
     "campaignCatalog": "data/world/campaigns.json",
@@ -169,7 +176,8 @@
       "data/campaigns/bronze-world/campaign.json",
       "data/campaigns/assyria-babylon/campaign.json",
       "data/campaigns/phoenicians/campaign.json",
-      "data/campaigns/israel-judah/campaign.json"
+      "data/campaigns/israel-judah/campaign.json",
+      "data/campaigns/archaic-greece/campaign.json"
     ],
     "imageQueries": "data/image_queries.json"
   },
@@ -212,6 +220,7 @@
     "js/features/v4-0-assyria-babylon.js",
     "js/features/v4-1-phoenicians.js",
     "js/features/v4-2-israel-judah.js",
+    "js/features/v4-3-archaic-greece.js",
     "js/features/v3-1-1-hotfix.js",
     "js/features/v3-1-3-visual-semantics.js",
     "js/core/start.js"

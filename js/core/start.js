@@ -1,4 +1,4 @@
-/* Codex v4.2.0 — stable startup without full-catalog image prefetch */
+/* Codex v4.3.0 — stable startup without full-catalog image prefetch */
 (() => {
   syncDiscovery();
   save();

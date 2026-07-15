@@ -348,6 +348,42 @@
         "ROM_A_09_03",
         "ROM_A_09_04"
       ]
+    },
+    {
+      "id": "ROME_AUGUSTUS",
+      "campaign": "ROME",
+      "title": "Август и принципат",
+      "unlockMission": "ROM_10_02",
+      "cardIds": [
+        "ROM_A_10_01",
+        "ROM_A_10_02",
+        "ROM_A_10_03",
+        "ROM_A_10_04"
+      ]
+    },
+    {
+      "id": "ROME_HIGH_EMPIRE",
+      "campaign": "ROME",
+      "title": "Расцвет и устройство Империи",
+      "unlockMission": "ROM_11_02",
+      "cardIds": [
+        "ROM_A_11_01",
+        "ROM_A_11_02",
+        "ROM_A_11_03",
+        "ROM_A_11_04"
+      ]
+    },
+    {
+      "id": "ROME_LATE_EMPIRE",
+      "campaign": "ROME",
+      "title": "Кризис и падение Запада",
+      "unlockMission": "ROM_12_02",
+      "cardIds": [
+        "ROM_A_12_01",
+        "ROM_A_12_02",
+        "ROM_A_12_03",
+        "ROM_A_12_04"
+      ]
     }
   ],
   "acquisition": {
@@ -557,9 +593,9 @@
       "chapter": "ROME_CHAPTER_09"
     },
     "PER_ROM_004": {
-      "kind": "ARCHIVE",
+      "kind": "STORY",
       "campaign": "ROME",
-      "pool": "ROME_PRINCIPATE"
+      "chapter": "ROME_CHAPTER_10"
     },
     "PER_REP_001": {
       "kind": "STORY",
@@ -1674,6 +1710,181 @@
     "ROM_A_09_04": {
       "kind": "ARCHIVE",
       "pool": "ROME_CAESAR_CIVIL",
+      "campaign": "ROME"
+    },
+    "ROM_S_10_01": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_10"
+    },
+    "ROM_S_10_02": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_10"
+    },
+    "ROM_S_10_03": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_10"
+    },
+    "ROM_S_10_04": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_10"
+    },
+    "ROM_S_10_05": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_10"
+    },
+    "ROM_S_10_07": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_10"
+    },
+    "ROM_S_10_08": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_10"
+    },
+    "ROM_S_11_01": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_11"
+    },
+    "ROM_S_11_02": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_11"
+    },
+    "ROM_S_11_03": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_11"
+    },
+    "ROM_S_11_04": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_11"
+    },
+    "ROM_S_11_05": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_11"
+    },
+    "ROM_S_11_06": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_11"
+    },
+    "ROM_S_11_07": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_11"
+    },
+    "ROM_S_11_08": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_11"
+    },
+    "ROM_S_12_01": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_12"
+    },
+    "ROM_S_12_02": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_12"
+    },
+    "ROM_S_12_03": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_12"
+    },
+    "ROM_S_12_04": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_12"
+    },
+    "ROM_S_12_05": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_12"
+    },
+    "ROM_S_12_06": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_12"
+    },
+    "ROM_S_12_07": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_12"
+    },
+    "ROM_S_12_08": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_12"
+    },
+    "ROM_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_AUGUSTUS",
+      "campaign": "ROME"
+    },
+    "ROM_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_AUGUSTUS",
+      "campaign": "ROME"
+    },
+    "ROM_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_AUGUSTUS",
+      "campaign": "ROME"
+    },
+    "ROM_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_AUGUSTUS",
+      "campaign": "ROME"
+    },
+    "ROM_A_11_01": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_HIGH_EMPIRE",
+      "campaign": "ROME"
+    },
+    "ROM_A_11_02": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_HIGH_EMPIRE",
+      "campaign": "ROME"
+    },
+    "ROM_A_11_03": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_HIGH_EMPIRE",
+      "campaign": "ROME"
+    },
+    "ROM_A_11_04": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_HIGH_EMPIRE",
+      "campaign": "ROME"
+    },
+    "ROM_A_12_01": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_LATE_EMPIRE",
+      "campaign": "ROME"
+    },
+    "ROM_A_12_02": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_LATE_EMPIRE",
+      "campaign": "ROME"
+    },
+    "ROM_A_12_03": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_LATE_EMPIRE",
+      "campaign": "ROME"
+    },
+    "ROM_A_12_04": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_LATE_EMPIRE",
       "campaign": "ROME"
     }
   }

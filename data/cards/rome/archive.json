@@ -9180,5 +9180,701 @@
     "acquisition": "ARCHIVE",
     "campaign": "ROME",
     "chapter": "ROME_CHAPTER_09"
+  },
+  {
+    "id": "ROM_A_10_01",
+    "type": "INSCRIPTION",
+    "title": "Деяния божественного Августа",
+    "original": "Res Gestae Divi Augusti",
+    "subtitle": "официальная автобиографическая надпись, перечислявшая должности, расходы и победы Августа",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "опубликована после 14 года н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Деяния божественного Августа — официальная автобиографическая надпись, перечислявшая должности, расходы и победы Августа.",
+    "importance": "Карточка раскрывает главу «Август и создание принципата» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: опубликована после 14 года н. э..",
+      "Основной смысл: официальная автобиографическая надпись, перечислявшая должности, расходы и победы Августа.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Август и создание принципата",
+      "inscription"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 5,
+      "culture": 8,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Анкира",
+      "lat": 39.933,
+      "lon": 32.859
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_10/rom_a_10_01.svg",
+      "caption": "Локальная учебная обложка: Деяния божественного Августа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_10_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Augustus: Res Gestae Divi Augusti",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_10"
+  },
+  {
+    "id": "ROM_A_10_02",
+    "type": "MONUMENT",
+    "title": "Алтарь Мира Августа",
+    "original": "Ara Pacis Augustae",
+    "subtitle": "монумент, связывавший возвращение Августа, семью, жертвоприношение и государственный порядок",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "13–9 годы до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Алтарь Мира Августа — монумент, связывавший возвращение Августа, семью, жертвоприношение и государственный порядок.",
+    "importance": "Карточка раскрывает главу «Август и создание принципата» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 13–9 годы до н. э..",
+      "Основной смысл: монумент, связывавший возвращение Августа, семью, жертвоприношение и государственный порядок.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Август и создание принципата",
+      "monument"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 5,
+      "culture": 7,
+      "politics": 7,
+      "religion": 7,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_10/rom_a_10_02.svg",
+      "caption": "Локальная учебная обложка: Алтарь Мира Августа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_10_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Augustus: Res Gestae Divi Augusti",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_10"
+  },
+  {
+    "id": "ROM_A_10_03",
+    "type": "ARTIFACT",
+    "title": "Август из Прима-Порта",
+    "original": "Augustus of Prima Porta",
+    "subtitle": "идеализированный официальный портрет принцепса с военной и религиозной символикой",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "начало I века н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Август из Прима-Порта — идеализированный официальный портрет принцепса с военной и религиозной символикой.",
+    "importance": "Карточка раскрывает главу «Август и создание принципата» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: начало I века н. э..",
+      "Основной смысл: идеализированный официальный портрет принцепса с военной и религиозной символикой.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Август и создание принципата",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 5,
+      "culture": 8,
+      "politics": 7,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_10/rom_a_10_03.svg",
+      "caption": "Локальная учебная обложка: Август из Прима-Порта",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_10_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Augustus: Res Gestae Divi Augusti",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_10"
+  },
+  {
+    "id": "ROM_A_10_04",
+    "type": "MONUMENT",
+    "title": "Мавзолей Августа",
+    "original": "Mausoleum of Augustus",
+    "subtitle": "династическая гробница на Марсовом поле, построенная ещё во время борьбы за власть",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "с 28 года до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 7,
+    "summary": "Мавзолей Августа — династическая гробница на Марсовом поле, построенная ещё во время борьбы за власть.",
+    "importance": "Карточка раскрывает главу «Август и создание принципата» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: с 28 года до н. э..",
+      "Основной смысл: династическая гробница на Марсовом поле, построенная ещё во время борьбы за власть.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Август и создание принципата",
+      "monument"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_10/rom_a_10_04.svg",
+      "caption": "Локальная учебная обложка: Мавзолей Августа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_10_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Augustus: Res Gestae Divi Augusti",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_10"
+  },
+  {
+    "id": "ROM_A_11_01",
+    "type": "DOCUMENT",
+    "title": "Таблички Виндоланды",
+    "original": "Vindolanda tablets",
+    "subtitle": "деревянные письма и ведомости, показывающие быт гарнизона и его связей на северной границе Британии",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "конец I – начало II века",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Таблички Виндоланды — деревянные письма и ведомости, показывающие быт гарнизона и его связей на северной границе Британии.",
+    "importance": "Карточка раскрывает главу «Расцвет и устройство Империи» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: конец I – начало II века.",
+      "Основной смысл: деревянные письма и ведомости, показывающие быт гарнизона и его связей на северной границе Британии.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Расцвет и устройство Империи",
+      "document"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 5,
+      "culture": 7,
+      "politics": 7,
+      "religion": 7,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Виндоланда",
+      "lat": 54.991,
+      "lon": -2.36
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_11/rom_a_11_01.svg",
+      "caption": "Локальная учебная обложка: Таблички Виндоланды",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_11_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: The Roman Empire (27 B.C.–393 A.D.)",
+      "url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_11"
+  },
+  {
+    "id": "ROM_A_11_02",
+    "type": "MONUMENT",
+    "title": "Колонна Траяна",
+    "original": "Trajan’s Column",
+    "subtitle": "спиральный рельеф и императорский памятник, представляющий Дакийские войны в официальном образе",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "113 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Колонна Траяна — спиральный рельеф и императорский памятник, представляющий Дакийские войны в официальном образе.",
+    "importance": "Карточка раскрывает главу «Расцвет и устройство Империи» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 113 год.",
+      "Основной смысл: спиральный рельеф и императорский памятник, представляющий Дакийские войны в официальном образе.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Расцвет и устройство Империи",
+      "monument"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 5,
+      "culture": 8,
+      "politics": 7,
+      "religion": 6,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_11/rom_a_11_02.svg",
+      "caption": "Локальная учебная обложка: Колонна Траяна",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_11_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: The Roman Empire (27 B.C.–393 A.D.)",
+      "url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_11"
+  },
+  {
+    "id": "ROM_A_11_03",
+    "type": "MONUMENT",
+    "title": "Вал Адриана",
+    "original": "Hadrian’s Wall",
+    "subtitle": "пограничный комплекс крепостей, дорог, ворот и гражданских поселений в Британии",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "с 122 года",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Вал Адриана — пограничный комплекс крепостей, дорог, ворот и гражданских поселений в Британии.",
+    "importance": "Карточка раскрывает главу «Расцвет и устройство Империи» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: с 122 года.",
+      "Основной смысл: пограничный комплекс крепостей, дорог, ворот и гражданских поселений в Британии.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Расцвет и устройство Империи",
+      "monument"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 7,
+      "politics": 7,
+      "religion": 7,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Вал Адриана",
+      "lat": 55.005,
+      "lon": -2.31
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_11/rom_a_11_03.svg",
+      "caption": "Локальная учебная обложка: Вал Адриана",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_11_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: The Roman Empire (27 B.C.–393 A.D.)",
+      "url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_11"
+  },
+  {
+    "id": "ROM_A_11_04",
+    "type": "DOCUMENT",
+    "title": "Римский военный диплом",
+    "original": "Roman military diploma",
+    "subtitle": "бронзовая копия императорского решения о правах ветерана вспомогательных войск",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "I–III века",
+    "rarity": "LEGENDARY",
+    "difficulty": 7,
+    "summary": "Римский военный диплом — бронзовая копия императорского решения о правах ветерана вспомогательных войск.",
+    "importance": "Карточка раскрывает главу «Расцвет и устройство Империи» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: I–III века.",
+      "Основной смысл: бронзовая копия императорского решения о правах ветерана вспомогательных войск.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Расцвет и устройство Империи",
+      "document"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 5,
+      "culture": 7,
+      "politics": 7,
+      "religion": 6,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Лондиний",
+      "lat": 51.507,
+      "lon": -0.128
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_11/rom_a_11_04.svg",
+      "caption": "Локальная учебная обложка: Римский военный диплом",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_11_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: The Roman Empire (27 B.C.–393 A.D.)",
+      "url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_11"
+  },
+  {
+    "id": "ROM_A_12_01",
+    "type": "INSCRIPTION",
+    "title": "Эдикт о максимальных ценах",
+    "original": "Edict on Maximum Prices",
+    "subtitle": "фрагментарно сохранившийся ценовой указ Диоклетиана, отражающий попытку контролировать рынок и снабжение",
+    "era": "Поздняя Римская империя",
+    "region": "Римская империя",
+    "date": "301 год",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Эдикт о максимальных ценах — фрагментарно сохранившийся ценовой указ Диоклетиана, отражающий попытку контролировать рынок и снабжение.",
+    "importance": "Карточка раскрывает главу «Кризис и падение Запада» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 301 год.",
+      "Основной смысл: фрагментарно сохранившийся ценовой указ Диоклетиана, отражающий попытку контролировать рынок и снабжение.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Кризис и падение Запада",
+      "inscription"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 5,
+      "culture": 8,
+      "politics": 7,
+      "religion": 6,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Никомедия",
+      "lat": 40.766,
+      "lon": 29.916
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_12/rom_a_12_01.svg",
+      "caption": "Локальная учебная обложка: Эдикт о максимальных ценах",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_12_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: Italian Peninsula, 1–500 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_12"
+  },
+  {
+    "id": "ROM_A_12_02",
+    "type": "MONUMENT",
+    "title": "Арка Константина",
+    "original": "Arch of Constantine",
+    "subtitle": "триумфальный памятник, использовавший рельефы более ранних императоров и новую политическую надпись",
+    "era": "Поздняя Римская империя",
+    "region": "Римская империя",
+    "date": "315 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Арка Константина — триумфальный памятник, использовавший рельефы более ранних императоров и новую политическую надпись.",
+    "importance": "Карточка раскрывает главу «Кризис и падение Запада» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 315 год.",
+      "Основной смысл: триумфальный памятник, использовавший рельефы более ранних императоров и новую политическую надпись.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Кризис и падение Запада",
+      "monument"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 5,
+      "culture": 8,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_12/rom_a_12_02.svg",
+      "caption": "Локальная учебная обложка: Арка Константина",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_12_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: Italian Peninsula, 1–500 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_12"
+  },
+  {
+    "id": "ROM_A_12_03",
+    "type": "DOCUMENT",
+    "title": "Notitia Dignitatum",
+    "original": "Notitia Dignitatum",
+    "subtitle": "позднеантичный перечень должностей и военных командований Востока и Запада",
+    "era": "Поздняя Римская империя",
+    "region": "Римская империя",
+    "date": "конец IV – начало V века",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Notitia Dignitatum — позднеантичный перечень должностей и военных командований Востока и Запада.",
+    "importance": "Карточка раскрывает главу «Кризис и падение Запада» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: конец IV – начало V века.",
+      "Основной смысл: позднеантичный перечень должностей и военных командований Востока и Запада.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Кризис и падение Запада",
+      "document"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 5,
+      "culture": 7,
+      "politics": 7,
+      "religion": 6,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Равенна",
+      "lat": 44.418,
+      "lon": 12.204
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_12/rom_a_12_03.svg",
+      "caption": "Локальная учебная обложка: Notitia Dignitatum",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_12_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: Italian Peninsula, 1–500 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_12"
+  },
+  {
+    "id": "ROM_A_12_04",
+    "type": "EVENT",
+    "title": "Разграбление Рима 410 года",
+    "original": "Sack of Rome in 410",
+    "subtitle": "захват столицы войском Алариха, ставший сильным символическим ударом, но не концом государства",
+    "era": "Поздняя Римская империя",
+    "region": "Римская империя",
+    "date": "410 год",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Разграбление Рима 410 года — захват столицы войском Алариха, ставший сильным символическим ударом, но не концом государства.",
+    "importance": "Карточка раскрывает главу «Кризис и падение Запада» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 410 год.",
+      "Основной смысл: захват столицы войском Алариха, ставший сильным символическим ударом, но не концом государства.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Кризис и падение Запада",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 8,
+      "religion": 6,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_12/rom_a_12_04.svg",
+      "caption": "Локальная учебная обложка: Разграбление Рима 410 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_12_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: Italian Peninsula, 1–500 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_12"
   }
 ]

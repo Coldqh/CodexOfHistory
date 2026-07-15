@@ -247,6 +247,62 @@
     "CURIA_POMPEY": [
       41.895,
       12.476
+    ],
+    "PHILIPPI": [
+      41.013,
+      24.286
+    ],
+    "ALEXANDRIA": [
+      31.2,
+      29.918
+    ],
+    "ACTIUM": [
+      38.95,
+      20.76
+    ],
+    "ANCYRA": [
+      39.933,
+      32.859
+    ],
+    "LONDINIUM": [
+      51.507,
+      -0.128
+    ],
+    "VINDOLANDA": [
+      54.991,
+      -2.36
+    ],
+    "SARMIZEGETUSA": [
+      45.516,
+      22.786
+    ],
+    "HADRIANS_WALL": [
+      55.005,
+      -2.31
+    ],
+    "ANTIOCH": [
+      36.202,
+      36.161
+    ],
+    "NICOMEDIA": [
+      40.766,
+      29.916
+    ],
+    "MILAN": [
+      45.464,
+      9.19
+    ],
+    "CONSTANTINOPLE": [
+      41.009,
+      28.978
+    ],
+    "ADRIANOPLE": [
+      41.677,
+      26.556
+    ],
+    "RAVENNA": [
+      44.418,
+      12.204
     ]
   },
   "regions": {
@@ -575,7 +631,42 @@
     "ROM_A_09_01": "ROME",
     "ROM_A_09_02": "ROME",
     "ROM_A_09_03": "ROME",
-    "ROM_A_09_04": "CURIA_POMPEY"
+    "ROM_A_09_04": "CURIA_POMPEY",
+    "ROM_S_10_01": "ROME",
+    "ROM_S_10_02": "ROME",
+    "ROM_S_10_03": "PHILIPPI",
+    "ROM_S_10_04": "ALEXANDRIA",
+    "ROM_S_10_05": "ACTIUM",
+    "ROM_S_10_07": "ROME",
+    "ROM_S_10_08": "ROME",
+    "ROM_A_10_01": "ANCYRA",
+    "ROM_A_10_02": "ROME",
+    "ROM_A_10_03": "ROME",
+    "ROM_A_10_04": "ROME",
+    "ROM_S_11_01": "ROME",
+    "ROM_S_11_02": "ROME",
+    "ROM_S_11_03": "ROME",
+    "ROM_S_11_04": "ROME",
+    "ROM_S_11_05": "ANTIOCH",
+    "ROM_S_11_06": "SARMIZEGETUSA",
+    "ROM_S_11_07": "HADRIANS_WALL",
+    "ROM_S_11_08": "ROME",
+    "ROM_A_11_01": "VINDOLANDA",
+    "ROM_A_11_02": "ROME",
+    "ROM_A_11_03": "HADRIANS_WALL",
+    "ROM_A_11_04": "LONDINIUM",
+    "ROM_S_12_01": "ROME",
+    "ROM_S_12_02": "ROME",
+    "ROM_S_12_03": "MILAN",
+    "ROM_S_12_04": "ROME",
+    "ROM_S_12_05": "NICOMEDIA",
+    "ROM_S_12_06": "CONSTANTINOPLE",
+    "ROM_S_12_07": "ADRIANOPLE",
+    "ROM_S_12_08": "RAVENNA",
+    "ROM_A_12_01": "NICOMEDIA",
+    "ROM_A_12_02": "ROME",
+    "ROM_A_12_03": "RAVENNA",
+    "ROM_A_12_04": "ROME"
   },
   "chapters": {
     "ROME_CHAPTER_01": {
@@ -734,11 +825,59 @@
         "ROM_09_05",
         "ROM_09_06"
       ]
+    },
+    "ROME_CHAPTER_10": {
+      "title": "Август и создание принципата",
+      "center": [
+        41.893,
+        12.482
+      ],
+      "zoom": 5,
+      "missionIds": [
+        "ROM_10_01",
+        "ROM_10_02",
+        "ROM_10_03",
+        "ROM_10_04",
+        "ROM_10_05",
+        "ROM_10_06"
+      ]
+    },
+    "ROME_CHAPTER_11": {
+      "title": "Расцвет и устройство Империи",
+      "center": [
+        41.893,
+        12.482
+      ],
+      "zoom": 4,
+      "missionIds": [
+        "ROM_11_01",
+        "ROM_11_02",
+        "ROM_11_03",
+        "ROM_11_04",
+        "ROM_11_05",
+        "ROM_11_06"
+      ]
+    },
+    "ROME_CHAPTER_12": {
+      "title": "Кризис и падение Запада",
+      "center": [
+        41.893,
+        12.482
+      ],
+      "zoom": 4,
+      "missionIds": [
+        "ROM_12_01",
+        "ROM_12_02",
+        "ROM_12_03",
+        "ROM_12_04",
+        "ROM_12_05",
+        "ROM_12_06"
+      ]
     }
   },
   "missionCenter": [
-    42.0,
-    12.0
+    41.0,
+    18.0
   ],
-  "missionZoom": 4
+  "missionZoom": 3
 }

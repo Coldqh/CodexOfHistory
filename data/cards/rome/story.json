@@ -5959,5 +5959,1398 @@
     "acquisition": "STORY",
     "campaign": "ROME",
     "chapter": "ROME_CHAPTER_09"
+  },
+  {
+    "id": "ROM_S_10_01",
+    "type": "INSTITUTION",
+    "title": "Второй триумвират",
+    "original": "Second Triumvirate",
+    "subtitle": "законно учреждённая коллегия Октавиана, Антония и Лепида с чрезвычайными полномочиями",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "43–33 годы до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Второй триумвират — законно учреждённая коллегия Октавиана, Антония и Лепида с чрезвычайными полномочиями.",
+    "importance": "Карточка раскрывает главу «Август и создание принципата» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 43–33 годы до н. э..",
+      "Основной смысл: законно учреждённая коллегия Октавиана, Антония и Лепида с чрезвычайными полномочиями.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Август и создание принципата",
+      "institution"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 5,
+      "culture": 7,
+      "politics": 8,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_10/rom_s_10_01.svg",
+      "caption": "Локальная учебная обложка: Второй триумвират",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_10_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Augustus: Res Gestae Divi Augusti",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_10"
+  },
+  {
+    "id": "ROM_S_10_02",
+    "type": "EVENT",
+    "title": "Проскрипции триумвиров",
+    "original": "Proscriptions of the Second Triumvirate",
+    "subtitle": "списки врагов, казни и конфискации, использованные для устранения противников и финансирования войны",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "43–42 годы до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Проскрипции триумвиров — списки врагов, казни и конфискации, использованные для устранения противников и финансирования войны.",
+    "importance": "Карточка раскрывает главу «Август и создание принципата» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 43–42 годы до н. э..",
+      "Основной смысл: списки врагов, казни и конфискации, использованные для устранения противников и финансирования войны.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Август и создание принципата",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 8,
+      "religion": 6,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_10/rom_s_10_02.svg",
+      "caption": "Локальная учебная обложка: Проскрипции триумвиров",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_10_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Augustus: Res Gestae Divi Augusti",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_10"
+  },
+  {
+    "id": "ROM_S_10_03",
+    "type": "BATTLE",
+    "title": "Битва при Филиппах",
+    "original": "Battle of Philippi",
+    "subtitle": "два сражения, завершившие организованное сопротивление Брута и Кассия",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "42 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Битва при Филиппах — два сражения, завершившие организованное сопротивление Брута и Кассия.",
+    "importance": "Карточка раскрывает главу «Август и создание принципата» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 42 год до н. э..",
+      "Основной смысл: два сражения, завершившие организованное сопротивление Брута и Кассия.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Август и создание принципата",
+      "battle"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 7,
+      "politics": 7,
+      "religion": 6,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Филиппы",
+      "lat": 41.013,
+      "lon": 24.286
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_10/rom_s_10_03.svg",
+      "caption": "Локальная учебная обложка: Битва при Филиппах",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_10_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Augustus: Res Gestae Divi Augusti",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_10"
+  },
+  {
+    "id": "ROM_S_10_04",
+    "type": "PERSON",
+    "title": "Марк Антоний и Клеопатра",
+    "original": "Mark Antony and Cleopatra VII",
+    "subtitle": "политический и династический союз, ставший центром последней войны Республики",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "40–30 годы до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 7,
+    "summary": "Марк Антоний и Клеопатра — политический и династический союз, ставший центром последней войны Республики.",
+    "importance": "Карточка раскрывает главу «Август и создание принципата» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 40–30 годы до н. э..",
+      "Основной смысл: политический и династический союз, ставший центром последней войны Республики.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Август и создание принципата",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 5,
+      "culture": 6,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Александрия",
+      "lat": 31.2,
+      "lon": 29.918
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_10/rom_s_10_04.svg",
+      "caption": "Локальная учебная обложка: Марк Антоний и Клеопатра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_10_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Augustus: Res Gestae Divi Augusti",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_10"
+  },
+  {
+    "id": "ROM_S_10_05",
+    "type": "BATTLE",
+    "title": "Акций и победа Октавиана",
+    "original": "Octavian’s victory at Actium",
+    "subtitle": "морская победа, разрушившая военную позицию Антония и Клеопатры",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "31 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Акций и победа Октавиана — морская победа, разрушившая военную позицию Антония и Клеопатры.",
+    "importance": "Карточка раскрывает главу «Август и создание принципата» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 31 год до н. э..",
+      "Основной смысл: морская победа, разрушившая военную позицию Антония и Клеопатры.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Август и создание принципата",
+      "battle"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 7,
+      "culture": 5,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Акций",
+      "lat": 38.95,
+      "lon": 20.76
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_10/rom_s_10_05.svg",
+      "caption": "Локальная учебная обложка: Акций и победа Октавиана",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_10_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Augustus: Res Gestae Divi Augusti",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_10"
+  },
+  {
+    "id": "PER_ROM_004",
+    "type": "PERSON",
+    "title": "Август",
+    "original": "Augustus",
+    "subtitle": "наследник Цезаря и создатель принципата, правивший через соединение республиканских полномочий",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "63 год до н. э. – 14 год н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 8,
+    "summary": "Август — наследник Цезаря и создатель принципата, правивший через соединение республиканских полномочий.",
+    "importance": "Карточка входит в главу «Август и создание принципата» и показывает устройство принципата.",
+    "facts": [
+      "Датировка: 63 год до н. э. – 14 год н. э..",
+      "Основной смысл: наследник Цезаря и создатель принципата, правивший через соединение республиканских полномочий.",
+      "Официальный образ Августа нужно сравнивать с законами, монетами, надписями и рассказами о гражданских войнах."
+    ],
+    "tags": [
+      "Римская империя",
+      "Август и создание принципата",
+      "person"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 8,
+      "legacy": 10,
+      "military": 7,
+      "culture": 9,
+      "politics": 10,
+      "religion": 7,
+      "economy": 8,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "file": "Augustus_of_Prima_Porta_(inv._2290).jpg",
+      "caption": "Август из Прима-Порта, Ватиканские музеи",
+      "credit": "Wikimedia Commons",
+      "license": "CC BY-SA / см. страницу файла",
+      "focus": "50% 50%",
+      "local": "assets/cards/rome/legacy/per_rom_004.svg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Augustus_of_Prima_Porta_(inv._2290).jpg",
+      "prefer_remote": true,
+      "kind": "historical-image"
+    },
+    "source": {
+      "title": "Augustus: Res Gestae Divi Augusti",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_10"
+  },
+  {
+    "id": "ROM_S_10_07",
+    "type": "LAW",
+    "title": "Августовские урегулирования",
+    "original": "Augustan settlements",
+    "subtitle": "решения 27 и 23 годов до н. э., оформившие провинциальные, военные и гражданские полномочия Августа",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "27 и 23 годы до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Августовские урегулирования — решения 27 и 23 годов до н. э., оформившие провинциальные, военные и гражданские полномочия Августа.",
+    "importance": "Карточка раскрывает главу «Август и создание принципата» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 27 и 23 годы до н. э..",
+      "Основной смысл: решения 27 и 23 годов до н. э., оформившие провинциальные, военные и гражданские полномочия Августа.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Август и создание принципата",
+      "law"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 5,
+      "culture": 5,
+      "politics": 8,
+      "religion": 7,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_10/rom_s_10_07.svg",
+      "caption": "Локальная учебная обложка: Августовские урегулирования",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_10_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Augustus: Res Gestae Divi Augusti",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_10"
+  },
+  {
+    "id": "ROM_S_10_08",
+    "type": "SYSTEM",
+    "title": "Принципат",
+    "original": "Principate",
+    "subtitle": "система, в которой принцепс контролировал армию и ключевые полномочия при сохранении республиканских форм",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "с 27 года до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Принципат — система, в которой принцепс контролировал армию и ключевые полномочия при сохранении республиканских форм.",
+    "importance": "Карточка раскрывает главу «Август и создание принципата» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: с 27 года до н. э..",
+      "Основной смысл: система, в которой принцепс контролировал армию и ключевые полномочия при сохранении республиканских форм.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Август и создание принципата",
+      "system"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 5,
+      "culture": 7,
+      "politics": 8,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_10/rom_s_10_08.svg",
+      "caption": "Локальная учебная обложка: Принципат",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_10_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Augustus: Res Gestae Divi Augusti",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_10"
+  },
+  {
+    "id": "ROM_S_11_01",
+    "type": "DYNASTY",
+    "title": "Преемство Юлиев-Клавдиев",
+    "original": "Julio-Claudian succession",
+    "subtitle": "передача власти внутри расширенной семьи Августа без формального наследственного закона",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "14–68 годы",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Преемство Юлиев-Клавдиев — передача власти внутри расширенной семьи Августа без формального наследственного закона.",
+    "importance": "Карточка раскрывает главу «Расцвет и устройство Империи» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 14–68 годы.",
+      "Основной смысл: передача власти внутри расширенной семьи Августа без формального наследственного закона.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Расцвет и устройство Империи",
+      "dynasty"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 5,
+      "culture": 6,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_11/rom_s_11_01.svg",
+      "caption": "Локальная учебная обложка: Преемство Юлиев-Клавдиев",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_11_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: The Roman Empire (27 B.C.–393 A.D.)",
+      "url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_11"
+  },
+  {
+    "id": "ROM_S_11_02",
+    "type": "POLITICS",
+    "title": "Клавдий и провинциальные элиты",
+    "original": "Claudius and provincial elites",
+    "subtitle": "расширение участия провинциальной знати в сенате и имперском управлении",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "41–54 годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Клавдий и провинциальные элиты — расширение участия провинциальной знати в сенате и имперском управлении.",
+    "importance": "Карточка раскрывает главу «Расцвет и устройство Империи» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 41–54 годы.",
+      "Основной смысл: расширение участия провинциальной знати в сенате и имперском управлении.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Расцвет и устройство Империи",
+      "politics"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 5,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_11/rom_s_11_02.svg",
+      "caption": "Локальная учебная обложка: Клавдий и провинциальные элиты",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_11_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: The Roman Empire (27 B.C.–393 A.D.)",
+      "url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_11"
+  },
+  {
+    "id": "ROM_S_11_03",
+    "type": "EVENT",
+    "title": "Год четырёх императоров",
+    "original": "Year of the Four Emperors",
+    "subtitle": "гражданская война, показавшая способность провинциальных армий создавать императоров",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "69 год",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Год четырёх императоров — гражданская война, показавшая способность провинциальных армий создавать императоров.",
+    "importance": "Карточка раскрывает главу «Расцвет и устройство Империи» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 69 год.",
+      "Основной смысл: гражданская война, показавшая способность провинциальных армий создавать императоров.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Расцвет и устройство Империи",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 5,
+      "culture": 6,
+      "politics": 8,
+      "religion": 7,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_11/rom_s_11_03.svg",
+      "caption": "Локальная учебная обложка: Год четырёх императоров",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_11_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: The Roman Empire (27 B.C.–393 A.D.)",
+      "url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_11"
+  },
+  {
+    "id": "ROM_S_11_04",
+    "type": "DYNASTY",
+    "title": "Флавийская династия",
+    "original": "Flavian dynasty",
+    "subtitle": "правление Веспасиана, Тита и Домициана после гражданской войны 69 года",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "69–96 годы",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Флавийская династия — правление Веспасиана, Тита и Домициана после гражданской войны 69 года.",
+    "importance": "Карточка раскрывает главу «Расцвет и устройство Империи» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 69–96 годы.",
+      "Основной смысл: правление Веспасиана, Тита и Домициана после гражданской войны 69 года.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Расцвет и устройство Империи",
+      "dynasty"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 8,
+      "religion": 7,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_11/rom_s_11_04.svg",
+      "caption": "Локальная учебная обложка: Флавийская династия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_11_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: The Roman Empire (27 B.C.–393 A.D.)",
+      "url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_11"
+  },
+  {
+    "id": "ROM_S_11_05",
+    "type": "SYSTEM",
+    "title": "Провинции и городское самоуправление",
+    "original": "Roman provinces and civic government",
+    "subtitle": "управление через наместников, местные советы, города, налоговые обязательства и судебные процедуры",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "I–II века",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Провинции и городское самоуправление — управление через наместников, местные советы, города, налоговые обязательства и судебные процедуры.",
+    "importance": "Карточка раскрывает главу «Расцвет и устройство Империи» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: I–II века.",
+      "Основной смысл: управление через наместников, местные советы, города, налоговые обязательства и судебные процедуры.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Расцвет и устройство Империи",
+      "system"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 5,
+      "culture": 5,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Антиохия",
+      "lat": 36.202,
+      "lon": 36.161
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_11/rom_s_11_05.svg",
+      "caption": "Локальная учебная обложка: Провинции и городское самоуправление",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_11_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: The Roman Empire (27 B.C.–393 A.D.)",
+      "url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_11"
+  },
+  {
+    "id": "ROM_S_11_06",
+    "type": "WAR",
+    "title": "Траян и Дакийские войны",
+    "original": "Trajan and the Dacian Wars",
+    "subtitle": "завоевательные кампании, принёсшие Риму новую провинцию, добычу и крупный мемориальный комплекс",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "101–106 годы",
+    "rarity": "LEGENDARY",
+    "difficulty": 7,
+    "summary": "Траян и Дакийские войны — завоевательные кампании, принёсшие Риму новую провинцию, добычу и крупный мемориальный комплекс.",
+    "importance": "Карточка раскрывает главу «Расцвет и устройство Империи» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 101–106 годы.",
+      "Основной смысл: завоевательные кампании, принёсшие Риму новую провинцию, добычу и крупный мемориальный комплекс.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Расцвет и устройство Империи",
+      "war"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 7,
+      "culture": 7,
+      "politics": 7,
+      "religion": 7,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сармизегетуза",
+      "lat": 45.516,
+      "lon": 22.786
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_11/rom_s_11_06.svg",
+      "caption": "Локальная учебная обложка: Траян и Дакийские войны",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_11_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: The Roman Empire (27 B.C.–393 A.D.)",
+      "url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_11"
+  },
+  {
+    "id": "ROM_S_11_07",
+    "type": "MILITARY",
+    "title": "Адриан и политика границ",
+    "original": "Hadrian and frontier policy",
+    "subtitle": "сочетание инспекций, укреплений, дипломатии и отказа от части завоеваний Траяна",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "117–138 годы",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Адриан и политика границ — сочетание инспекций, укреплений, дипломатии и отказа от части завоеваний Траяна.",
+    "importance": "Карточка раскрывает главу «Расцвет и устройство Империи» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 117–138 годы.",
+      "Основной смысл: сочетание инспекций, укреплений, дипломатии и отказа от части завоеваний Траяна.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Расцвет и устройство Империи",
+      "military"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 7,
+      "culture": 8,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Вал Адриана",
+      "lat": 55.005,
+      "lon": -2.31
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_11/rom_s_11_07.svg",
+      "caption": "Локальная учебная обложка: Адриан и политика границ",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_11_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: The Roman Empire (27 B.C.–393 A.D.)",
+      "url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_11"
+  },
+  {
+    "id": "ROM_S_11_08",
+    "type": "SYSTEM",
+    "title": "Антониновская империя",
+    "original": "Antonine Empire",
+    "subtitle": "империя II века с богатыми провинциальными городами, широкой мобильностью и постоянным пограничным напряжением",
+    "era": "Ранняя Римская империя",
+    "region": "Римская империя",
+    "date": "138–180 годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Антониновская империя — империя II века с богатыми провинциальными городами, широкой мобильностью и постоянным пограничным напряжением.",
+    "importance": "Карточка раскрывает главу «Расцвет и устройство Империи» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 138–180 годы.",
+      "Основной смысл: империя II века с богатыми провинциальными городами, широкой мобильностью и постоянным пограничным напряжением.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Расцвет и устройство Империи",
+      "system"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 5,
+      "culture": 8,
+      "politics": 8,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_11/rom_s_11_08.svg",
+      "caption": "Локальная учебная обложка: Антониновская империя",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_11_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: The Roman Empire (27 B.C.–393 A.D.)",
+      "url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_11"
+  },
+  {
+    "id": "ROM_S_12_01",
+    "type": "DYNASTY",
+    "title": "Династия Северов",
+    "original": "Severan dynasty",
+    "subtitle": "режим, опиравшийся на армии, расширенный двор и интенсивную императорскую коммуникацию",
+    "era": "Поздняя Римская империя",
+    "region": "Римская империя",
+    "date": "193–235 годы",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Династия Северов — режим, опиравшийся на армии, расширенный двор и интенсивную императорскую коммуникацию.",
+    "importance": "Карточка раскрывает главу «Кризис и падение Запада» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 193–235 годы.",
+      "Основной смысл: режим, опиравшийся на армии, расширенный двор и интенсивную императорскую коммуникацию.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Кризис и падение Запада",
+      "dynasty"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 5,
+      "culture": 8,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_12/rom_s_12_01.svg",
+      "caption": "Локальная учебная обложка: Династия Северов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_12_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: Italian Peninsula, 1–500 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_12"
+  },
+  {
+    "id": "ROM_S_12_02",
+    "type": "LAW",
+    "title": "Constitutio Antoniniana",
+    "original": "Constitutio Antoniniana",
+    "subtitle": "решение Каракаллы, распространившее римское гражданство на большинство свободных жителей Империи",
+    "era": "Поздняя Римская империя",
+    "region": "Римская империя",
+    "date": "212 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Constitutio Antoniniana — решение Каракаллы, распространившее римское гражданство на большинство свободных жителей Империи.",
+    "importance": "Карточка раскрывает главу «Кризис и падение Запада» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 212 год.",
+      "Основной смысл: решение Каракаллы, распространившее римское гражданство на большинство свободных жителей Империи.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Кризис и падение Запада",
+      "law"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 5,
+      "culture": 8,
+      "politics": 8,
+      "religion": 7,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_12/rom_s_12_02.svg",
+      "caption": "Локальная учебная обложка: Constitutio Antoniniana",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_12_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: Italian Peninsula, 1–500 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_12"
+  },
+  {
+    "id": "ROM_S_12_03",
+    "type": "PERIOD",
+    "title": "Кризис III века",
+    "original": "Crisis of the Third Century",
+    "subtitle": "эпоха частой смены императоров, внешних войн, региональных режимов и денежной нестабильности",
+    "era": "Поздняя Римская империя",
+    "region": "Римская империя",
+    "date": "235–284 годы",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Кризис III века — эпоха частой смены императоров, внешних войн, региональных режимов и денежной нестабильности.",
+    "importance": "Карточка раскрывает главу «Кризис и падение Запада» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 235–284 годы.",
+      "Основной смысл: эпоха частой смены императоров, внешних войн, региональных режимов и денежной нестабильности.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Кризис и падение Запада",
+      "period"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 5,
+      "culture": 8,
+      "politics": 7,
+      "religion": 7,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Медиолан",
+      "lat": 45.464,
+      "lon": 9.19
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_12/rom_s_12_03.svg",
+      "caption": "Локальная учебная обложка: Кризис III века",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_12_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: Italian Peninsula, 1–500 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_12"
+  },
+  {
+    "id": "ROM_S_12_04",
+    "type": "PERSON",
+    "title": "Аврелиан и восстановление Империи",
+    "original": "Aurelian and imperial reunification",
+    "subtitle": "император, вернувший под центральную власть Пальмиру и Галльскую империю",
+    "era": "Поздняя Римская империя",
+    "region": "Римская империя",
+    "date": "270–275 годы",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Аврелиан и восстановление Империи — император, вернувший под центральную власть Пальмиру и Галльскую империю.",
+    "importance": "Карточка раскрывает главу «Кризис и падение Запада» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 270–275 годы.",
+      "Основной смысл: император, вернувший под центральную власть Пальмиру и Галльскую империю.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Кризис и падение Запада",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 5,
+      "culture": 8,
+      "politics": 7,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_12/rom_s_12_04.svg",
+      "caption": "Локальная учебная обложка: Аврелиан и восстановление Империи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_12_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: Italian Peninsula, 1–500 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_12"
+  },
+  {
+    "id": "ROM_S_12_05",
+    "type": "SYSTEM",
+    "title": "Тетрархия Диоклетиана",
+    "original": "Diocletianic Tetrarchy",
+    "subtitle": "система нескольких правителей, резиденций и зон ответственности для управления войнами и наследованием",
+    "era": "Поздняя Римская империя",
+    "region": "Римская империя",
+    "date": "293–305 годы",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Тетрархия Диоклетиана — система нескольких правителей, резиденций и зон ответственности для управления войнами и наследованием.",
+    "importance": "Карточка раскрывает главу «Кризис и падение Запада» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 293–305 годы.",
+      "Основной смысл: система нескольких правителей, резиденций и зон ответственности для управления войнами и наследованием.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Кризис и падение Запада",
+      "system"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 5,
+      "culture": 7,
+      "politics": 8,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Никомедия",
+      "lat": 40.766,
+      "lon": 29.916
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_12/rom_s_12_05.svg",
+      "caption": "Локальная учебная обложка: Тетрархия Диоклетиана",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_12_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: Italian Peninsula, 1–500 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_12"
+  },
+  {
+    "id": "ROM_S_12_06",
+    "type": "PERSON",
+    "title": "Константин и Константинополь",
+    "original": "Constantine and Constantinople",
+    "subtitle": "правитель, победивший соперников, поддержавший христианство и основавший новую столицу на Босфоре",
+    "era": "Поздняя Римская империя",
+    "region": "Римская империя",
+    "date": "306–337 годы",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Константин и Константинополь — правитель, победивший соперников, поддержавший христианство и основавший новую столицу на Босфоре.",
+    "importance": "Карточка раскрывает главу «Кризис и падение Запада» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 306–337 годы.",
+      "Основной смысл: правитель, победивший соперников, поддержавший христианство и основавший новую столицу на Босфоре.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Кризис и падение Запада",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 5,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.009,
+      "lon": 28.978
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_12/rom_s_12_06.svg",
+      "caption": "Локальная учебная обложка: Константин и Константинополь",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_12_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: Italian Peninsula, 1–500 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_12"
+  },
+  {
+    "id": "ROM_S_12_07",
+    "type": "BATTLE",
+    "title": "Адрианополь и готские федераты",
+    "original": "Battle of Adrianople and Gothic federates",
+    "subtitle": "поражение 378 года и последующее включение готских военных групп в имперскую систему",
+    "era": "Поздняя Римская империя",
+    "region": "Римская империя",
+    "date": "378–382 годы",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Адрианополь и готские федераты — поражение 378 года и последующее включение готских военных групп в имперскую систему.",
+    "importance": "Карточка раскрывает главу «Кризис и падение Запада» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 378–382 годы.",
+      "Основной смысл: поражение 378 года и последующее включение готских военных групп в имперскую систему.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Кризис и падение Запада",
+      "battle"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 6,
+      "politics": 7,
+      "religion": 6,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Адрианополь",
+      "lat": 41.677,
+      "lon": 26.556
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_12/rom_s_12_07.svg",
+      "caption": "Локальная учебная обложка: Адрианополь и готские федераты",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_12_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: Italian Peninsula, 1–500 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_12"
+  },
+  {
+    "id": "ROM_S_12_08",
+    "type": "EVENT",
+    "title": "Конец западной императорской власти",
+    "original": "End of western imperial rule",
+    "subtitle": "смещение Ромула Августула и переход Италии под власть Одоакра при продолжении Восточной империи",
+    "era": "Поздняя Римская империя",
+    "region": "Римская империя",
+    "date": "476 год",
+    "rarity": "MYTHIC",
+    "difficulty": 8,
+    "summary": "Конец западной императорской власти — смещение Ромула Августула и переход Италии под власть Одоакра при продолжении Восточной империи.",
+    "importance": "Карточка раскрывает главу «Кризис и падение Запада» и показывает, как императорская власть, провинции, армии и местные общества менялись после Республики.",
+    "facts": [
+      "Датировка: 476 год.",
+      "Основной смысл: смещение Ромула Августула и переход Италии под власть Одоакра при продолжении Восточной империи.",
+      "Императорские тексты и поздние рассказы нужно сопоставлять с законами, монетами, надписями, археологией и региональными данными."
+    ],
+    "tags": [
+      "Римская империя",
+      "Кризис и падение Запада",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 5,
+      "culture": 5,
+      "politics": 8,
+      "religion": 7,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Равенна",
+      "lat": 44.418,
+      "lon": 12.204
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_12/rom_s_12_08.svg",
+      "caption": "Локальная учебная обложка: Конец западной императорской власти",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_12_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Metropolitan Museum: Italian Peninsula, 1–500 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/05/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_12"
   }
 ]

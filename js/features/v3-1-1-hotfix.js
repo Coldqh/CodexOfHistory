@@ -1,6 +1,6 @@
-/* Codex v6.2.0 — starter campaign and image-state hotfix */
+/* Codex v6.3.0 — starter campaign and image-state hotfix */
 (()=>{
-  const V='6.2.0';
+  const V='6.3.0';
   window.CODEX_VERSION=V;
   const LEGACY_ROME_STARTERS=['PER_ROM_001','PER_ROM_005','EVT_ROM_001'];
 

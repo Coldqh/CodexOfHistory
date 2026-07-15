@@ -2,7 +2,7 @@
 import fs from 'node:fs';import path from 'node:path';import assert from 'node:assert/strict';import {fileURLToPath} from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));const exists=p=>fs.existsSync(path.join(root,p));
-const manifest=read('data/content-manifest.json');assert.equal(manifest.version,'6.2.0');
+const manifest=read('data/content-manifest.json');assert.equal(manifest.version,'6.3.0');
 const required=['data/cards/archaic-greece/story.json','data/cards/archaic-greece/archive.json','data/campaigns/archaic-greece/campaign.json','data/campaigns/archaic-greece/pools.json','data/lessons/archaic-greece/campaign.json','data/quizzes/archaic-greece/campaign.json','data/stories/archaic-greece/personal.json','data/maps/archaic-greece.json','assets/packs/archaic-greece-pack.svg','js/features/v4-3-archaic-greece.js'];
 for(const p of required)assert.ok(exists(p),`missing ${p}`);
 const story=read('data/cards/archaic-greece/story.json'),archive=read('data/cards/archaic-greece/archive.json'),campaign=read('data/campaigns/archaic-greece/campaign.json'),pools=read('data/campaigns/archaic-greece/pools.json'),lessons=read('data/lessons/archaic-greece/campaign.json'),quizzes=read('data/quizzes/archaic-greece/campaign.json'),stories=read('data/stories/archaic-greece/personal.json'),map=read('data/maps/archaic-greece.json');
@@ -13,10 +13,10 @@ for(const c of [...story,...archive]){assert.ok(exists(c.image.local),`${c.id}: 
 assert.ok(story.every(c=>c.acquisition==='STORY'));assert.ok(archive.every(c=>c.acquisition==='ARCHIVE'));
 const world=read('data/world/campaigns.json').find(c=>c.id==='GREECE_ARCHAIC');assert.equal(world.status,'PLAYABLE');assert.equal(world.releasedChapters,10);assert.equal(world.chapterCount,10);
 const era=read('data/world/eras.json').find(e=>e.id==='ERA_IRON');assert.ok(era.campaignIds.includes('GREECE_ARCHAIC'));
-const queries=read('data/image_queries.json');assert.equal(queries.version,'6.2.0');assert.equal(queries.count,3052);assert.equal(Object.keys(queries.cards).length,3052);assert.equal(queries.cards.ARC_S_03_01.group,'GREECE_ARCHAIC');
-const images=read('data/image_manifest.json');assert.equal(images.version,'6.2.0');assert.equal(images.count,3052);assert.equal(images.staticHistoricalImageCount,42);assert.equal(images.projectCoverCount,3010);assert.equal(images.dynamicQueryCount,3010);
+const queries=read('data/image_queries.json');assert.equal(queries.version,'6.3.0');assert.equal(queries.count,3087);assert.equal(Object.keys(queries.cards).length,3087);assert.equal(queries.cards.ARC_S_03_01.group,'GREECE_ARCHAIC');
+const images=read('data/image_manifest.json');assert.equal(images.version,'6.3.0');assert.equal(images.count,3087);assert.equal(images.staticHistoricalImageCount,42);assert.equal(images.projectCoverCount,3045);assert.equal(images.dynamicQueryCount,3045);
 const rel=read('data/core/relations.json');assert.ok(rel.some(r=>r.source==='AEG_S_10_07'&&r.target==='ARC_S_01_01'));assert.ok(rel.some(r=>r.source==='PHO_S_02_07'&&r.target==='ARC_S_03_01'));
-const runtime=fs.readFileSync(path.join(root,'js/features/v4-3-archaic-greece.js'),'utf8');for(const token of ["const V='6.2.0'",'GREECE_ARCHAIC','assyria-phases','openArchaicExamModule','assets/packs/archaic-greece-pack.svg'])assert.match(runtime,new RegExp(token.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')));
+const runtime=fs.readFileSync(path.join(root,'js/features/v4-3-archaic-greece.js'),'utf8');for(const token of ["const V='6.3.0'",'GREECE_ARCHAIC','assyria-phases','openArchaicExamModule','assets/packs/archaic-greece-pack.svg'])assert.match(runtime,new RegExp(token.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')));
 const sw=fs.readFileSync(path.join(root,'sw.js'),'utf8');assert.match(sw,/v4-3-archaic-greece\.js/);assert.match(sw,/archaic-greece-pack\.svg/);
 const allText=JSON.stringify({story,archive,campaign,lessons});assert.match(allText,/полис/i);assert.match(allText,/археолог/i);assert.match(allText,/алфавит|надпис/i);
 console.log('✓ v4.3 Archaic Greece static smoke: 10 chapters, 60 missions, 120 cards');

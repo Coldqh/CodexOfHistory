@@ -17,7 +17,7 @@ const map=await read('data/maps/babylon.json');
 const bronze=await read('data/maps/bronze-world.json');
 const catalog=await read('data/world/campaigns.json');
 const js=await fs.readFile(path.join(root,'js/features/v3-1-babylon.js'),'utf8');
-manifest.version==='6.2.0'||fail('manifest version');
+manifest.version==='6.3.0'||fail('manifest version');
 campaign.chapters.length===8||fail('chapters');campaign.nodes.length===48||fail('missions');
 story.length===64||fail('story cards');archive.length===32||fail('archive cards');
 Object.keys(lessons).length===48||fail('lessons');Object.keys(quizzes).length===12||fail('quizzes');

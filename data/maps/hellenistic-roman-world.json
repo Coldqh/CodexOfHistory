@@ -1,0 +1,258 @@
+{
+  "points": {
+    "ALEXANDRIA": [
+      31.2,
+      29.92
+    ],
+    "ROME": [
+      41.9,
+      12.5
+    ],
+    "OSTIA": [
+      41.76,
+      12.29
+    ],
+    "PATALIPUTRA": [
+      25.61,
+      85.14
+    ],
+    "TAXILA": [
+      33.74,
+      72.84
+    ],
+    "SANCHI": [
+      23.49,
+      77.74
+    ],
+    "CHANGAN": [
+      34.27,
+      108.94
+    ],
+    "LUOYANG": [
+      34.62,
+      112.45
+    ],
+    "DUNHUANG": [
+      40.14,
+      94.66
+    ],
+    "MERV": [
+      37.66,
+      62.17
+    ],
+    "BACTRIA": [
+      36.75,
+      66.9
+    ],
+    "TILLYA": [
+      36.7,
+      66.9
+    ],
+    "ANTIOCH": [
+      36.2,
+      36.16
+    ],
+    "SELEUCIA": [
+      33.1,
+      44.52
+    ],
+    "CARTHAGE": [
+      36.85,
+      10.33
+    ],
+    "MONGOLIA": [
+      47.0,
+      104.0
+    ],
+    "NOINULA": [
+      48.2,
+      106.5
+    ],
+    "MEDITERRANEAN": [
+      37.0,
+      20.0
+    ],
+    "GANGES": [
+      25.3,
+      82.9
+    ],
+    "YELLOW": [
+      35.0,
+      110.0
+    ],
+    "STEPPE": [
+      45.0,
+      80.0
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "HRE_S_01_01": "ALEXANDRIA",
+    "HRE_S_01_02": "TAXILA",
+    "HRE_S_01_03": "PATALIPUTRA",
+    "HRE_S_01_04": "CHANGAN",
+    "HRE_S_01_05": "ROME",
+    "HRE_S_01_06": "CHANGAN",
+    "HRE_S_01_07": "ALEXANDRIA",
+    "HRE_S_01_08": "LUOYANG",
+    "HRE_S_01_09": "LUOYANG",
+    "HRE_A_01_01": "ROME",
+    "HRE_A_01_02": "TILLYA",
+    "HRE_A_01_03": "MERV",
+    "HRE_S_02_01": "ANTIOCH",
+    "HRE_S_02_02": "ROME",
+    "HRE_S_02_03": "ROME",
+    "HRE_S_02_04": "PATALIPUTRA",
+    "HRE_S_02_05": "CHANGAN",
+    "HRE_S_02_06": "MONGOLIA",
+    "HRE_S_02_07": "ALEXANDRIA",
+    "HRE_S_02_08": "LUOYANG",
+    "HRE_S_02_09": "MERV",
+    "HRE_A_02_01": "SELEUCIA",
+    "HRE_A_02_02": "PATALIPUTRA",
+    "HRE_A_02_03": "CHANGAN",
+    "HRE_S_03_01": "ANTIOCH",
+    "HRE_S_03_02": "ROME",
+    "HRE_S_03_03": "ROME",
+    "HRE_S_03_04": "GANGES",
+    "HRE_S_03_05": "DUNHUANG",
+    "HRE_S_03_06": "MONGOLIA",
+    "HRE_S_03_07": "MERV",
+    "HRE_S_03_08": "ROME",
+    "HRE_S_03_09": "STEPPE",
+    "HRE_A_03_01": "MERV",
+    "HRE_A_03_02": "TILLYA",
+    "HRE_A_03_03": "ROME",
+    "HRE_S_04_01": "ALEXANDRIA",
+    "HRE_S_04_02": "OSTIA",
+    "HRE_S_04_03": "PATALIPUTRA",
+    "HRE_S_04_04": "CHANGAN",
+    "HRE_S_04_05": "DUNHUANG",
+    "HRE_S_04_06": "MERV",
+    "HRE_S_04_07": "MERV",
+    "HRE_S_04_08": "ROME",
+    "HRE_S_04_09": "TAXILA",
+    "HRE_A_04_01": "PATALIPUTRA",
+    "HRE_A_04_02": "MEDITERRANEAN",
+    "HRE_A_04_03": "DUNHUANG",
+    "HRE_S_05_01": "ALEXANDRIA",
+    "HRE_S_05_02": "ROME",
+    "HRE_S_05_03": "OSTIA",
+    "HRE_S_05_04": "PATALIPUTRA",
+    "HRE_S_05_05": "PATALIPUTRA",
+    "HRE_S_05_06": "CHANGAN",
+    "HRE_S_05_07": "MERV",
+    "HRE_S_05_08": "NOINULA",
+    "HRE_S_05_09": "TAXILA",
+    "HRE_A_05_01": "MERV",
+    "HRE_A_05_02": "ALEXANDRIA",
+    "HRE_A_05_03": "CHANGAN",
+    "HRE_S_06_01": "ANTIOCH",
+    "HRE_S_06_02": "ROME",
+    "HRE_S_06_03": "ROME",
+    "HRE_S_06_04": "PATALIPUTRA",
+    "HRE_S_06_05": "CHANGAN",
+    "HRE_S_06_06": "DUNHUANG",
+    "HRE_S_06_07": "ALEXANDRIA",
+    "HRE_S_06_08": "ROME",
+    "HRE_S_06_09": "TAXILA",
+    "HRE_A_06_01": "ROME",
+    "HRE_A_06_02": "CHANGAN",
+    "HRE_A_06_03": "MERV",
+    "HRE_S_07_01": "ALEXANDRIA",
+    "HRE_S_07_02": "ROME",
+    "HRE_S_07_03": "PATALIPUTRA",
+    "HRE_S_07_04": "TAXILA",
+    "HRE_S_07_05": "CHANGAN",
+    "HRE_S_07_06": "LUOYANG",
+    "HRE_S_07_07": "TAXILA",
+    "HRE_S_07_08": "TILLYA",
+    "HRE_S_07_09": "DUNHUANG",
+    "HRE_A_07_01": "TAXILA",
+    "HRE_A_07_02": "DUNHUANG",
+    "HRE_A_07_03": "TILLYA",
+    "HRE_S_08_01": "ROME",
+    "HRE_S_08_02": "PATALIPUTRA",
+    "HRE_S_08_03": "PATALIPUTRA",
+    "HRE_S_08_04": "ALEXANDRIA",
+    "HRE_S_08_05": "MERV",
+    "HRE_S_08_06": "TAXILA",
+    "HRE_S_08_07": "ROME",
+    "HRE_S_08_08": "LUOYANG",
+    "HRE_S_08_09": "MERV",
+    "HRE_A_08_01": "ROME",
+    "HRE_A_08_02": "MERV",
+    "HRE_A_08_03": "MERV"
+  },
+  "chapters": {
+    "HRE_CHAPTER_01": {
+      "title": "Одна хронология, разные календари",
+      "center": [
+        31.2,
+        29.92
+      ],
+      "zoom": 4
+    },
+    "HRE_CHAPTER_02": {
+      "title": "Формы верховной власти",
+      "center": [
+        36.2,
+        36.16
+      ],
+      "zoom": 4
+    },
+    "HRE_CHAPTER_03": {
+      "title": "Армии, границы и снабжение",
+      "center": [
+        37.0,
+        20.0
+      ],
+      "zoom": 4
+    },
+    "HRE_CHAPTER_04": {
+      "title": "Города, порты и оазисы",
+      "center": [
+        31.2,
+        29.92
+      ],
+      "zoom": 4
+    },
+    "HRE_CHAPTER_05": {
+      "title": "Налоги, дань, деньги и зерно",
+      "center": [
+        31.2,
+        29.92
+      ],
+      "zoom": 4
+    },
+    "HRE_CHAPTER_06": {
+      "title": "Подданные, граждане и местные элиты",
+      "center": [
+        31.2,
+        29.92
+      ],
+      "zoom": 4
+    },
+    "HRE_CHAPTER_07": {
+      "title": "Религии, тексты, искусство и перевод",
+      "center": [
+        31.2,
+        29.92
+      ],
+      "zoom": 4
+    },
+    "HRE_CHAPTER_08": {
+      "title": "Источники и модели связанного античного мира",
+      "center": [
+        31.2,
+        29.92
+      ],
+      "zoom": 4
+    }
+  },
+  "missionCenter": [
+    35,
+    65
+  ],
+  "missionZoom": 3
+}

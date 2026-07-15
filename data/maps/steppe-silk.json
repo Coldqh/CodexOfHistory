@@ -1,0 +1,374 @@
+{
+  "points": {
+    "STEPPE": [
+      47.0,
+      70.0
+    ],
+    "PONTIC": [
+      47.0,
+      34.0
+    ],
+    "DNIEPER": [
+      47.5,
+      33.0
+    ],
+    "CRIMEA": [
+      45.2,
+      34.2
+    ],
+    "OLBIA": [
+      46.69,
+      31.9
+    ],
+    "DON": [
+      48.3,
+      41.0
+    ],
+    "VOLGA": [
+      48.7,
+      47.5
+    ],
+    "URAL": [
+      51.2,
+      55.1
+    ],
+    "FILIPPOVKA": [
+      51.0,
+      54.5
+    ],
+    "ALTAI": [
+      49.5,
+      87.0
+    ],
+    "PAZYRYK": [
+      50.75,
+      88.07
+    ],
+    "BEREL": [
+      49.34,
+      86.37
+    ],
+    "ISSYK": [
+      43.39,
+      77.45
+    ],
+    "ZHETYSU": [
+      44.8,
+      76.0
+    ],
+    "ARAL": [
+      45.0,
+      60.0
+    ],
+    "BACTRIA": [
+      36.75,
+      66.9
+    ],
+    "TILLYA": [
+      36.7,
+      66.9
+    ],
+    "MERV": [
+      37.66,
+      62.17
+    ],
+    "SAMARKAND": [
+      39.65,
+      66.97
+    ],
+    "FERGHANA": [
+      40.5,
+      71.5
+    ],
+    "KANGJU": [
+      41.3,
+      69.3
+    ],
+    "MONGOLIA": [
+      47.0,
+      104.0
+    ],
+    "NOINULA": [
+      48.2,
+      106.5
+    ],
+    "ORKHON": [
+      47.2,
+      102.8
+    ],
+    "ORDOS": [
+      39.0,
+      109.0
+    ],
+    "CHANGAN": [
+      34.27,
+      108.94
+    ],
+    "HEXI": [
+      38.3,
+      100.5
+    ],
+    "DUNHUANG": [
+      40.14,
+      94.66
+    ],
+    "YUMEN": [
+      40.35,
+      93.86
+    ],
+    "LOULAN": [
+      40.5,
+      89.8
+    ],
+    "TURFAN": [
+      42.95,
+      89.18
+    ],
+    "KASHGAR": [
+      39.47,
+      75.99
+    ],
+    "KHOTAN": [
+      37.11,
+      79.92
+    ],
+    "PALMYRA": [
+      34.55,
+      38.27
+    ],
+    "SELEUCIA": [
+      33.1,
+      44.52
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "STP_S_01_01": "STEPPE",
+    "STP_S_01_02": "URAL",
+    "STP_S_01_03": "ALTAI",
+    "STP_S_01_04": "STEPPE",
+    "STP_S_01_05": "DNIEPER",
+    "STP_S_01_06": "PONTIC",
+    "STP_S_01_07": "ALTAI",
+    "STP_S_01_08": "STEPPE",
+    "STP_A_01_01": "URAL",
+    "STP_A_01_02": "ALTAI",
+    "STP_A_01_03": "STEPPE",
+    "STP_A_01_04": "STEPPE",
+    "STP_S_02_01": "PONTIC",
+    "STP_S_02_02": "DNIEPER",
+    "STP_S_02_03": "PONTIC",
+    "STP_S_02_04": "OLBIA",
+    "STP_S_02_05": "DNIEPER",
+    "STP_S_02_06": "DNIEPER",
+    "STP_S_02_07": "CRIMEA",
+    "STP_S_02_08": "OLBIA",
+    "STP_A_02_01": "PONTIC",
+    "STP_A_02_02": "DNIEPER",
+    "STP_A_02_03": "CRIMEA",
+    "STP_A_02_04": "PONTIC",
+    "STP_S_03_01": "ZHETYSU",
+    "STP_S_03_02": "ISSYK",
+    "STP_S_03_03": "ARAL",
+    "STP_S_03_04": "ISSYK",
+    "STP_S_03_05": "ZHETYSU",
+    "STP_S_03_06": "SAMARKAND",
+    "STP_S_03_07": "ZHETYSU",
+    "STP_S_03_08": "ARAL",
+    "STP_A_03_01": "SAMARKAND",
+    "STP_A_03_02": "ISSYK",
+    "STP_A_03_03": "ZHETYSU",
+    "STP_A_03_04": "ZHETYSU",
+    "STP_S_04_01": "PAZYRYK",
+    "STP_S_04_02": "PAZYRYK",
+    "STP_S_04_03": "PAZYRYK",
+    "STP_S_04_04": "PAZYRYK",
+    "STP_S_04_05": "ALTAI",
+    "STP_S_04_06": "BEREL",
+    "STP_S_04_07": "PAZYRYK",
+    "STP_S_04_08": "ALTAI",
+    "STP_A_04_01": "PAZYRYK",
+    "STP_A_04_02": "ALTAI",
+    "STP_A_04_03": "ALTAI",
+    "STP_A_04_04": "ALTAI",
+    "STP_S_05_01": "URAL",
+    "STP_S_05_02": "FILIPPOVKA",
+    "STP_S_05_03": "VOLGA",
+    "STP_S_05_04": "DON",
+    "STP_S_05_05": "PONTIC",
+    "STP_S_05_06": "VOLGA",
+    "STP_S_05_07": "DON",
+    "STP_S_05_08": "CRIMEA",
+    "STP_A_05_01": "FILIPPOVKA",
+    "STP_A_05_02": "VOLGA",
+    "STP_A_05_03": "DON",
+    "STP_A_05_04": "URAL",
+    "STP_S_06_01": "MONGOLIA",
+    "STP_S_06_02": "ORKHON",
+    "STP_S_06_03": "MONGOLIA",
+    "STP_S_06_04": "MONGOLIA",
+    "STP_S_06_05": "ORDOS",
+    "STP_S_06_06": "ORDOS",
+    "STP_S_06_07": "MONGOLIA",
+    "STP_S_06_08": "ORKHON",
+    "STP_A_06_01": "MONGOLIA",
+    "STP_A_06_02": "NOINULA",
+    "STP_A_06_03": "NOINULA",
+    "STP_A_06_04": "MONGOLIA",
+    "STP_S_07_01": "ORDOS",
+    "STP_S_07_02": "ORDOS",
+    "STP_S_07_03": "HEXI",
+    "STP_S_07_04": "HEXI",
+    "STP_S_07_05": "ORDOS",
+    "STP_S_07_06": "MONGOLIA",
+    "STP_S_07_07": "CHANGAN",
+    "STP_S_07_08": "DUNHUANG",
+    "STP_A_07_01": "HEXI",
+    "STP_A_07_02": "HEXI",
+    "STP_A_07_03": "DUNHUANG",
+    "STP_A_07_04": "ORDOS",
+    "STP_S_08_01": "BACTRIA",
+    "STP_S_08_02": "BACTRIA",
+    "STP_S_08_03": "SAMARKAND",
+    "STP_S_08_04": "FERGHANA",
+    "STP_S_08_05": "KANGJU",
+    "STP_S_08_06": "BACTRIA",
+    "STP_S_08_07": "BACTRIA",
+    "STP_S_08_08": "BACTRIA",
+    "STP_A_08_01": "BACTRIA",
+    "STP_A_08_02": "TILLYA",
+    "STP_A_08_03": "FERGHANA",
+    "STP_A_08_04": "SAMARKAND",
+    "STP_S_09_01": "HEXI",
+    "STP_S_09_02": "YUMEN",
+    "STP_S_09_03": "DUNHUANG",
+    "STP_S_09_04": "LOULAN",
+    "STP_S_09_05": "TURFAN",
+    "STP_S_09_06": "KHOTAN",
+    "STP_S_09_07": "KASHGAR",
+    "STP_S_09_08": "LOULAN",
+    "STP_A_09_01": "HEXI",
+    "STP_A_09_02": "KHOTAN",
+    "STP_A_09_03": "TURFAN",
+    "STP_A_09_04": "LOULAN",
+    "STP_S_10_01": "MERV",
+    "STP_S_10_02": "BACTRIA",
+    "STP_S_10_03": "CHANGAN",
+    "STP_S_10_04": "FERGHANA",
+    "STP_S_10_05": "MERV",
+    "STP_S_10_06": "TILLYA",
+    "STP_S_10_07": "SAMARKAND",
+    "STP_S_10_08": "PALMYRA",
+    "STP_A_10_01": "PALMYRA",
+    "STP_A_10_02": "MERV",
+    "STP_A_10_03": "NOINULA",
+    "STP_A_10_04": "STEPPE",
+    "STP_S_11_01": "STEPPE",
+    "STP_S_11_02": "MERV",
+    "STP_S_11_03": "KASHGAR",
+    "STP_S_11_04": "BACTRIA",
+    "STP_S_11_05": "CHANGAN",
+    "STP_S_11_06": "MERV",
+    "STP_S_11_07": "STEPPE",
+    "STP_S_11_08": "STEPPE",
+    "STP_A_11_01": "STEPPE",
+    "STP_A_11_02": "TILLYA",
+    "STP_A_11_03": "MERV",
+    "STP_A_11_04": "HEXI"
+  },
+  "chapters": {
+    "STP_CHAPTER_01": {
+      "title": "Евразийская степь как историческое пространство",
+      "center": [
+        47.0,
+        34.0
+      ],
+      "zoom": 5
+    },
+    "STP_CHAPTER_02": {
+      "title": "Скифы Причерноморья",
+      "center": [
+        47.0,
+        34.0
+      ],
+      "zoom": 5
+    },
+    "STP_CHAPTER_03": {
+      "title": "Саки и общества Центральной Азии",
+      "center": [
+        43.39,
+        77.45
+      ],
+      "zoom": 5
+    },
+    "STP_CHAPTER_04": {
+      "title": "Алтай, Пазырык и замёрзшие курганы",
+      "center": [
+        49.5,
+        87.0
+      ],
+      "zoom": 6
+    },
+    "STP_CHAPTER_05": {
+      "title": "Сарматы и западная степь",
+      "center": [
+        51.2,
+        55.1
+      ],
+      "zoom": 5
+    },
+    "STP_CHAPTER_06": {
+      "title": "Сюнну как степная держава",
+      "center": [
+        47.0,
+        104.0
+      ],
+      "zoom": 5
+    },
+    "STP_CHAPTER_07": {
+      "title": "Хань и сюнну: война, договоры и пограничные рынки",
+      "center": [
+        39.0,
+        109.0
+      ],
+      "zoom": 5
+    },
+    "STP_CHAPTER_08": {
+      "title": "Государства и города Центральной Азии",
+      "center": [
+        36.75,
+        66.9
+      ],
+      "zoom": 5
+    },
+    "STP_CHAPTER_09": {
+      "title": "Коридор Хэси и Таримский бассейн",
+      "center": [
+        38.3,
+        100.5
+      ],
+      "zoom": 5
+    },
+    "STP_CHAPTER_10": {
+      "title": "Караванные цепи и товары",
+      "center": [
+        37.66,
+        62.17
+      ],
+      "zoom": 5
+    },
+    "STP_CHAPTER_11": {
+      "title": "Сети обмена: идеи, технологии, болезни и миф одной дороги",
+      "center": [
+        34.27,
+        108.94
+      ],
+      "zoom": 5
+    }
+  },
+  "missionCenter": [
+    43.0,
+    75.0
+  ],
+  "missionZoom": 3
+}

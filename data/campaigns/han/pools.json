@@ -1,0 +1,807 @@
+{
+  "campaignId": "HAN",
+  "campaigns": {
+    "HAN": {
+      "id": "HAN",
+      "title": "Империя Хань",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "HAN_POOL_01",
+      "campaign": "HAN",
+      "title": "Цинь и рождение имперской системы",
+      "unlockMission": "HAN_01_02",
+      "cardIds": [
+        "HAN_A_01_01",
+        "HAN_A_01_02",
+        "HAN_A_01_03",
+        "HAN_A_01_04"
+      ]
+    },
+    {
+      "id": "HAN_POOL_02",
+      "campaign": "HAN",
+      "title": "Падение Цинь и война Чу–Хань",
+      "unlockMission": "HAN_02_02",
+      "cardIds": [
+        "HAN_A_02_01",
+        "HAN_A_02_02",
+        "HAN_A_02_03",
+        "HAN_A_02_04"
+      ]
+    },
+    {
+      "id": "HAN_POOL_03",
+      "campaign": "HAN",
+      "title": "Гао-цзу и устройство ранней Хань",
+      "unlockMission": "HAN_03_02",
+      "cardIds": [
+        "HAN_A_03_01",
+        "HAN_A_03_02",
+        "HAN_A_03_03",
+        "HAN_A_03_04"
+      ]
+    },
+    {
+      "id": "HAN_POOL_04",
+      "campaign": "HAN",
+      "title": "Вэнь, Цзин и укрепление династии",
+      "unlockMission": "HAN_04_02",
+      "cardIds": [
+        "HAN_A_04_01",
+        "HAN_A_04_02",
+        "HAN_A_04_03",
+        "HAN_A_04_04"
+      ]
+    },
+    {
+      "id": "HAN_POOL_05",
+      "campaign": "HAN",
+      "title": "У-ди и перестройка империи",
+      "unlockMission": "HAN_05_02",
+      "cardIds": [
+        "HAN_A_05_01",
+        "HAN_A_05_02",
+        "HAN_A_05_03",
+        "HAN_A_05_04"
+      ]
+    },
+    {
+      "id": "HAN_POOL_06",
+      "campaign": "HAN",
+      "title": "Сюнну, Хэси и западные походы",
+      "unlockMission": "HAN_06_02",
+      "cardIds": [
+        "HAN_A_06_01",
+        "HAN_A_06_02",
+        "HAN_A_06_03",
+        "HAN_A_06_04"
+      ]
+    },
+    {
+      "id": "HAN_POOL_07",
+      "campaign": "HAN",
+      "title": "Чиновники, законы, налоги и города",
+      "unlockMission": "HAN_07_02",
+      "cardIds": [
+        "HAN_A_07_01",
+        "HAN_A_07_02",
+        "HAN_A_07_03",
+        "HAN_A_07_04"
+      ]
+    },
+    {
+      "id": "HAN_POOL_08",
+      "campaign": "HAN",
+      "title": "Двор, императрицы и борьба групп",
+      "unlockMission": "HAN_08_02",
+      "cardIds": [
+        "HAN_A_08_01",
+        "HAN_A_08_02",
+        "HAN_A_08_03",
+        "HAN_A_08_04"
+      ]
+    },
+    {
+      "id": "HAN_POOL_09",
+      "campaign": "HAN",
+      "title": "Письменная культура, историки и мир мёртвых",
+      "unlockMission": "HAN_09_02",
+      "cardIds": [
+        "HAN_A_09_01",
+        "HAN_A_09_02",
+        "HAN_A_09_03",
+        "HAN_A_09_04"
+      ]
+    },
+    {
+      "id": "HAN_POOL_10",
+      "campaign": "HAN",
+      "title": "Ван Ман, Синь и восстановление Хань",
+      "unlockMission": "HAN_10_02",
+      "cardIds": [
+        "HAN_A_10_01",
+        "HAN_A_10_02",
+        "HAN_A_10_03",
+        "HAN_A_10_04"
+      ]
+    },
+    {
+      "id": "HAN_POOL_11",
+      "campaign": "HAN",
+      "title": "Восточная Хань, дальние связи и падение",
+      "unlockMission": "HAN_11_02",
+      "cardIds": [
+        "HAN_A_11_01",
+        "HAN_A_11_02",
+        "HAN_A_11_03",
+        "HAN_A_11_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "HAN_S_01_01": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 1
+    },
+    "HAN_S_01_02": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 1
+    },
+    "HAN_S_01_03": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 1
+    },
+    "HAN_S_01_04": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 1
+    },
+    "HAN_S_01_05": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 1
+    },
+    "HAN_S_01_06": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 1
+    },
+    "HAN_S_01_07": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 1
+    },
+    "HAN_S_01_08": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 1
+    },
+    "HAN_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_01",
+      "campaign": "HAN"
+    },
+    "HAN_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_01",
+      "campaign": "HAN"
+    },
+    "HAN_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_01",
+      "campaign": "HAN"
+    },
+    "HAN_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_01",
+      "campaign": "HAN"
+    },
+    "HAN_S_02_01": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 2
+    },
+    "HAN_S_02_02": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 2
+    },
+    "HAN_S_02_03": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 2
+    },
+    "HAN_S_02_04": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 2
+    },
+    "HAN_S_02_05": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 2
+    },
+    "HAN_S_02_06": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 2
+    },
+    "HAN_S_02_07": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 2
+    },
+    "HAN_S_02_08": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 2
+    },
+    "HAN_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_02",
+      "campaign": "HAN"
+    },
+    "HAN_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_02",
+      "campaign": "HAN"
+    },
+    "HAN_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_02",
+      "campaign": "HAN"
+    },
+    "HAN_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_02",
+      "campaign": "HAN"
+    },
+    "HAN_S_03_01": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 3
+    },
+    "HAN_S_03_02": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 3
+    },
+    "HAN_S_03_03": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 3
+    },
+    "HAN_S_03_04": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 3
+    },
+    "HAN_S_03_05": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 3
+    },
+    "HAN_S_03_06": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 3
+    },
+    "HAN_S_03_07": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 3
+    },
+    "HAN_S_03_08": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 3
+    },
+    "HAN_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_03",
+      "campaign": "HAN"
+    },
+    "HAN_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_03",
+      "campaign": "HAN"
+    },
+    "HAN_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_03",
+      "campaign": "HAN"
+    },
+    "HAN_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_03",
+      "campaign": "HAN"
+    },
+    "HAN_S_04_01": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 4
+    },
+    "HAN_S_04_02": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 4
+    },
+    "HAN_S_04_03": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 4
+    },
+    "HAN_S_04_04": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 4
+    },
+    "HAN_S_04_05": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 4
+    },
+    "HAN_S_04_06": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 4
+    },
+    "HAN_S_04_07": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 4
+    },
+    "HAN_S_04_08": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 4
+    },
+    "HAN_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_04",
+      "campaign": "HAN"
+    },
+    "HAN_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_04",
+      "campaign": "HAN"
+    },
+    "HAN_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_04",
+      "campaign": "HAN"
+    },
+    "HAN_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_04",
+      "campaign": "HAN"
+    },
+    "HAN_S_05_01": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 5
+    },
+    "HAN_S_05_02": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 5
+    },
+    "HAN_S_05_03": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 5
+    },
+    "HAN_S_05_04": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 5
+    },
+    "HAN_S_05_05": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 5
+    },
+    "HAN_S_05_06": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 5
+    },
+    "HAN_S_05_07": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 5
+    },
+    "HAN_S_05_08": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 5
+    },
+    "HAN_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_05",
+      "campaign": "HAN"
+    },
+    "HAN_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_05",
+      "campaign": "HAN"
+    },
+    "HAN_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_05",
+      "campaign": "HAN"
+    },
+    "HAN_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_05",
+      "campaign": "HAN"
+    },
+    "HAN_S_06_01": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 6
+    },
+    "HAN_S_06_02": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 6
+    },
+    "HAN_S_06_03": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 6
+    },
+    "HAN_S_06_04": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 6
+    },
+    "HAN_S_06_05": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 6
+    },
+    "HAN_S_06_06": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 6
+    },
+    "HAN_S_06_07": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 6
+    },
+    "HAN_S_06_08": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 6
+    },
+    "HAN_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_06",
+      "campaign": "HAN"
+    },
+    "HAN_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_06",
+      "campaign": "HAN"
+    },
+    "HAN_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_06",
+      "campaign": "HAN"
+    },
+    "HAN_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_06",
+      "campaign": "HAN"
+    },
+    "HAN_S_07_01": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 7
+    },
+    "HAN_S_07_02": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 7
+    },
+    "HAN_S_07_03": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 7
+    },
+    "HAN_S_07_04": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 7
+    },
+    "HAN_S_07_05": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 7
+    },
+    "HAN_S_07_06": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 7
+    },
+    "HAN_S_07_07": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 7
+    },
+    "HAN_S_07_08": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 7
+    },
+    "HAN_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_07",
+      "campaign": "HAN"
+    },
+    "HAN_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_07",
+      "campaign": "HAN"
+    },
+    "HAN_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_07",
+      "campaign": "HAN"
+    },
+    "HAN_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_07",
+      "campaign": "HAN"
+    },
+    "HAN_S_08_01": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 8
+    },
+    "HAN_S_08_02": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 8
+    },
+    "HAN_S_08_03": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 8
+    },
+    "HAN_S_08_04": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 8
+    },
+    "HAN_S_08_05": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 8
+    },
+    "HAN_S_08_06": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 8
+    },
+    "HAN_S_08_07": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 8
+    },
+    "HAN_S_08_08": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 8
+    },
+    "HAN_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_08",
+      "campaign": "HAN"
+    },
+    "HAN_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_08",
+      "campaign": "HAN"
+    },
+    "HAN_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_08",
+      "campaign": "HAN"
+    },
+    "HAN_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_08",
+      "campaign": "HAN"
+    },
+    "HAN_S_09_01": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 9
+    },
+    "HAN_S_09_02": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 9
+    },
+    "HAN_S_09_03": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 9
+    },
+    "HAN_S_09_04": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 9
+    },
+    "HAN_S_09_05": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 9
+    },
+    "HAN_S_09_06": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 9
+    },
+    "HAN_S_09_07": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 9
+    },
+    "HAN_S_09_08": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 9
+    },
+    "HAN_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_09",
+      "campaign": "HAN"
+    },
+    "HAN_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_09",
+      "campaign": "HAN"
+    },
+    "HAN_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_09",
+      "campaign": "HAN"
+    },
+    "HAN_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_09",
+      "campaign": "HAN"
+    },
+    "HAN_S_10_01": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 10
+    },
+    "HAN_S_10_02": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 10
+    },
+    "HAN_S_10_03": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 10
+    },
+    "HAN_S_10_04": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 10
+    },
+    "HAN_S_10_05": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 10
+    },
+    "HAN_S_10_06": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 10
+    },
+    "HAN_S_10_07": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 10
+    },
+    "HAN_S_10_08": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 10
+    },
+    "HAN_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_10",
+      "campaign": "HAN"
+    },
+    "HAN_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_10",
+      "campaign": "HAN"
+    },
+    "HAN_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_10",
+      "campaign": "HAN"
+    },
+    "HAN_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_10",
+      "campaign": "HAN"
+    },
+    "HAN_S_11_01": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 11
+    },
+    "HAN_S_11_02": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 11
+    },
+    "HAN_S_11_03": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 11
+    },
+    "HAN_S_11_04": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 11
+    },
+    "HAN_S_11_05": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 11
+    },
+    "HAN_S_11_06": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 11
+    },
+    "HAN_S_11_07": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 11
+    },
+    "HAN_S_11_08": {
+      "kind": "STORY",
+      "campaignId": "HAN",
+      "chapter": 11
+    },
+    "HAN_A_11_01": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_11",
+      "campaign": "HAN"
+    },
+    "HAN_A_11_02": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_11",
+      "campaign": "HAN"
+    },
+    "HAN_A_11_03": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_11",
+      "campaign": "HAN"
+    },
+    "HAN_A_11_04": {
+      "kind": "ARCHIVE",
+      "pool": "HAN_POOL_11",
+      "campaign": "HAN"
+    }
+  }
+}

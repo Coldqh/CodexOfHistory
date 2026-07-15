@@ -1,6 +1,6 @@
-/* Early China campaign · runtime v6.4.0 */
+/* Early China campaign · runtime v6.7.0 */
 (()=>{
- const V='6.4.0';window.CODEX_VERSION=V;V22_CAMPAIGN_CODES.CHINA_EARLY='CHINA';
+ const V='6.7.0';window.CODEX_VERSION=V;V22_CAMPAIGN_CODES.CHINA_EARLY='CHINA';
  const oldNoun=activeCampaignNoun;activeCampaignNoun=function(){return activeCampaignId()==='CHINA_EARLY'?'РАННИЙ КИТАЙ':oldNoun();};
  const oldTitle=activeCampaignPackTitle;activeCampaignPackTitle=function(){return activeCampaignId()==='CHINA_EARLY'?'Китайский архивный пак':oldTitle();};
  const oldCover=activeCampaignPackCover;activeCampaignPackCover=function(){return activeCampaignId()==='CHINA_EARLY'?'assets/packs/china-pack.svg':oldCover();};

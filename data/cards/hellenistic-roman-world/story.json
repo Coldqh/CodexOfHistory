@@ -1,0 +1,4250 @@
+[
+  {
+    "id": "HRE_S_01_01",
+    "type": "EVENT",
+    "title": "Синхронность 323 года до н. э.",
+    "original": "Synchronism of 323 BCE",
+    "subtitle": "распад державы Александра на фоне самостоятельного развития Рима и Южной Азии",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "323 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Синхронность 323 года до н. э. — распад державы Александра на фоне самостоятельного развития Рима и Южной Азии.",
+    "importance": "Карточка раскрывает главу «Одна хронология, разные календари» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 323 год до н. э..",
+      "Основной смысл: распад державы Александра на фоне самостоятельного развития Рима и Южной Азии.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Одна хронология, разные календари",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Александрия",
+      "lat": 31.2,
+      "lon": 29.92
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-01/hre_s_01_01.svg",
+      "caption": "Локальная учебная обложка: Синхронность 323 года до н. э.",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/haht/hd_haht.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_01_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Art of the Hellenistic Age",
+      "url": "https://www.metmuseum.org/toah/hd/haht/hd_haht.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_01"
+  },
+  {
+    "id": "HRE_S_01_02",
+    "type": "DIPLOMACY",
+    "title": "Маурьи и ранняя эллинистическая дипломатия",
+    "original": "Mauryan and Hellenistic diplomacy",
+    "subtitle": "контакты Чандрагупты и Селевка без модели единого мира",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "ок. 305 года до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Маурьи и ранняя эллинистическая дипломатия — контакты Чандрагупты и Селевка без модели единого мира.",
+    "importance": "Карточка раскрывает главу «Одна хронология, разные календари» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: ок. 305 года до н. э..",
+      "Основной смысл: контакты Чандрагупты и Селевка без модели единого мира.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Одна хронология, разные календари",
+      "diplomacy"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 8,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Таксила",
+      "lat": 33.74,
+      "lon": 72.84
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-01/hre_s_01_02.svg",
+      "caption": "Локальная учебная обложка: Маурьи и ранняя эллинистическая дипломатия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/haht/hd_haht.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_01_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Art of the Hellenistic Age",
+      "url": "https://www.metmuseum.org/toah/hd/haht/hd_haht.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_01"
+  },
+  {
+    "id": "HRE_S_01_03",
+    "type": "PERIOD",
+    "title": "Ашока во время Первой Пунической войны",
+    "original": "Ashoka during the First Punic War",
+    "subtitle": "наложение индийской имперской истории и римско-карфагенской войны",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "264–241 годы до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Ашока во время Первой Пунической войны — наложение индийской имперской истории и римско-карфагенской войны.",
+    "importance": "Карточка раскрывает главу «Одна хронология, разные календари» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 264–241 годы до н. э..",
+      "Основной смысл: наложение индийской имперской истории и римско-карфагенской войны.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Одна хронология, разные календари",
+      "period"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.61,
+      "lon": 85.14
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-01/hre_s_01_03.svg",
+      "caption": "Локальная учебная обложка: Ашока во время Первой Пунической войны",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/haht/hd_haht.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_01_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Art of the Hellenistic Age",
+      "url": "https://www.metmuseum.org/toah/hd/haht/hd_haht.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_01"
+  },
+  {
+    "id": "HRE_S_01_04",
+    "type": "PERIOD",
+    "title": "Цинь и западное Средиземноморье в 221 году",
+    "original": "Qin and western Mediterranean in 221 BCE",
+    "subtitle": "одновременность объединения Китая и римской борьбы за Иберию",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "221 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Цинь и западное Средиземноморье в 221 году — одновременность объединения Китая и римской борьбы за Иберию.",
+    "importance": "Карточка раскрывает главу «Одна хронология, разные календари» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 221 год до н. э..",
+      "Основной смысл: одновременность объединения Китая и римской борьбы за Иберию.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Одна хронология, разные календари",
+      "period"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 6,
+      "culture": 5,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Чанъань",
+      "lat": 34.27,
+      "lon": 108.94
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-01/hre_s_01_04.svg",
+      "caption": "Локальная учебная обложка: Цинь и западное Средиземноморье в 221 году",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/haht/hd_haht.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_01_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Art of the Hellenistic Age",
+      "url": "https://www.metmuseum.org/toah/hd/haht/hd_haht.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_01"
+  },
+  {
+    "id": "HRE_S_01_05",
+    "type": "EVENT",
+    "title": "Зама и основание Хань",
+    "original": "Zama and foundation of Han",
+    "subtitle": "два независимых перелома одного календарного года",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "202 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Зама и основание Хань — два независимых перелома одного календарного года.",
+    "importance": "Карточка раскрывает главу «Одна хронология, разные календари» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 202 год до н. э..",
+      "Основной смысл: два независимых перелома одного календарного года.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Одна хронология, разные календари",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 8,
+      "culture": 6,
+      "politics": 7,
+      "religion": 5,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.9,
+      "lon": 12.5
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-01/hre_s_01_05.svg",
+      "caption": "Локальная учебная обложка: Зама и основание Хань",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/haht/hd_haht.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_01_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Art of the Hellenistic Age",
+      "url": "https://www.metmuseum.org/toah/hd/haht/hd_haht.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_01"
+  },
+  {
+    "id": "HRE_S_01_06",
+    "type": "PERIOD",
+    "title": "У-ди и поздняя Римская республика",
+    "original": "Emperor Wu and late Roman Republic",
+    "subtitle": "сравнение расширения Хань с кризисами республиканской политики",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "II–I века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "У-ди и поздняя Римская республика — сравнение расширения Хань с кризисами республиканской политики.",
+    "importance": "Карточка раскрывает главу «Одна хронология, разные календари» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: II–I века до н. э..",
+      "Основной смысл: сравнение расширения Хань с кризисами республиканской политики.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Одна хронология, разные календари",
+      "period"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Чанъань",
+      "lat": 34.27,
+      "lon": 108.94
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-01/hre_s_01_06.svg",
+      "caption": "Локальная учебная обложка: У-ди и поздняя Римская республика",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/haht/hd_haht.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_01_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Art of the Hellenistic Age",
+      "url": "https://www.metmuseum.org/toah/hd/haht/hd_haht.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_01"
+  },
+  {
+    "id": "HRE_S_01_07",
+    "type": "PERIOD",
+    "title": "Акций и двор Западной Хань",
+    "original": "Actium and Western Han court",
+    "subtitle": "смена режима в Риме при устойчивой ханьской династии",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "31 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 11,
+    "summary": "Акций и двор Западной Хань — смена режима в Риме при устойчивой ханьской династии.",
+    "importance": "Карточка раскрывает главу «Одна хронология, разные календари» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 31 год до н. э..",
+      "Основной смысл: смена режима в Риме при устойчивой ханьской династии.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Одна хронология, разные календари",
+      "period"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 6,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Александрия",
+      "lat": 31.2,
+      "lon": 29.92
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-01/hre_s_01_07.svg",
+      "caption": "Локальная учебная обложка: Акций и двор Западной Хань",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/haht/hd_haht.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_01_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Art of the Hellenistic Age",
+      "url": "https://www.metmuseum.org/toah/hd/haht/hd_haht.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_01"
+  },
+  {
+    "id": "HRE_S_01_08",
+    "type": "PERIOD",
+    "title": "Ван Ман и ранний принципат",
+    "original": "Wang Mang and early Principate",
+    "subtitle": "параллельные эксперименты с имперской легитимностью",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "9–23 годы н. э.",
+    "rarity": "EPIC",
+    "difficulty": 11,
+    "summary": "Ван Ман и ранний принципат — параллельные эксперименты с имперской легитимностью.",
+    "importance": "Карточка раскрывает главу «Одна хронология, разные календари» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 9–23 годы н. э..",
+      "Основной смысл: параллельные эксперименты с имперской легитимностью.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Одна хронология, разные календари",
+      "period"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 8,
+      "culture": 9,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Лоян",
+      "lat": 34.62,
+      "lon": 112.45
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-01/hre_s_01_08.svg",
+      "caption": "Локальная учебная обложка: Ван Ман и ранний принципат",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/haht/hd_haht.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_01_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Art of the Hellenistic Age",
+      "url": "https://www.metmuseum.org/toah/hd/haht/hd_haht.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_01"
+  },
+  {
+    "id": "HRE_S_01_09",
+    "type": "PERIOD",
+    "title": "Конец Хань внутри римской императорской эпохи",
+    "original": "End of Han within Roman imperial age",
+    "subtitle": "распад одной династии без общего краха Евразии",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "220 год н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 11,
+    "summary": "Конец Хань внутри римской императорской эпохи — распад одной династии без общего краха Евразии.",
+    "importance": "Карточка раскрывает главу «Одна хронология, разные календари» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 220 год н. э..",
+      "Основной смысл: распад одной династии без общего краха Евразии.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Одна хронология, разные календари",
+      "period"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 5,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Лоян",
+      "lat": 34.62,
+      "lon": 112.45
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-01/hre_s_01_09.svg",
+      "caption": "Локальная учебная обложка: Конец Хань внутри римской императорской эпохи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/haht/hd_haht.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_01_09.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Art of the Hellenistic Age",
+      "url": "https://www.metmuseum.org/toah/hd/haht/hd_haht.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_01"
+  },
+  {
+    "id": "HRE_S_02_01",
+    "type": "POLITICAL",
+    "title": "Эллинистический басилевс как военный монарх",
+    "original": "Hellenistic basileus",
+    "subtitle": "династическая власть, подкреплённая победой, двором и городами",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III–I века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Эллинистический басилевс как военный монарх — династическая власть, подкреплённая победой, двором и городами.",
+    "importance": "Карточка раскрывает главу «Формы верховной власти» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–I века до н. э..",
+      "Основной смысл: династическая власть, подкреплённая победой, двором и городами.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Формы верховной власти",
+      "political"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 8,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Антиохия",
+      "lat": 36.2,
+      "lon": 36.16
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-02/hre_s_02_01.svg",
+      "caption": "Локальная учебная обложка: Эллинистический басилевс как военный монарх",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_02_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Roman Empire",
+      "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_02"
+  },
+  {
+    "id": "HRE_S_02_02",
+    "type": "INSTITUTION",
+    "title": "Римский сенат как центр аристократического согласования",
+    "original": "Roman Senate as aristocratic council",
+    "subtitle": "орган, сохранявший влияние при республике и империи",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – III век н. э.",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Римский сенат как центр аристократического согласования — орган, сохранявший влияние при республике и империи.",
+    "importance": "Карточка раскрывает главу «Формы верховной власти» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – III век н. э..",
+      "Основной смысл: орган, сохранявший влияние при республике и империи.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Формы верховной власти",
+      "institution"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 3,
+      "culture": 9,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.9,
+      "lon": 12.5
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-02/hre_s_02_02.svg",
+      "caption": "Локальная учебная обложка: Римский сенат как центр аристократического согласования",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_02_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Roman Empire",
+      "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_02"
+  },
+  {
+    "id": "HRE_S_02_03",
+    "type": "POLITICAL",
+    "title": "Принцепс между республиканскими титулами и монархией",
+    "original": "Princeps between republic and monarchy",
+    "subtitle": "императорская власть, оформленная через набор должностей и авторитет",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "27 год до н. э. – III век н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Принцепс между республиканскими титулами и монархией — императорская власть, оформленная через набор должностей и авторитет.",
+    "importance": "Карточка раскрывает главу «Формы верховной власти» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 27 год до н. э. – III век н. э..",
+      "Основной смысл: императорская власть, оформленная через набор должностей и авторитет.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Формы верховной власти",
+      "political"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 5,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.9,
+      "lon": 12.5
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-02/hre_s_02_03.svg",
+      "caption": "Локальная учебная обложка: Принцепс между республиканскими титулами и монархией",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_02_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Roman Empire",
+      "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_02"
+  },
+  {
+    "id": "HRE_S_02_04",
+    "type": "POLITICAL",
+    "title": "Маурийский правитель и язык дхаммы",
+    "original": "Mauryan ruler and dhamma",
+    "subtitle": "царская власть, публично представленная через распоряжения и нравственную программу",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Маурийский правитель и язык дхаммы — царская власть, публично представленная через распоряжения и нравственную программу.",
+    "importance": "Карточка раскрывает главу «Формы верховной власти» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: царская власть, публично представленная через распоряжения и нравственную программу.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Формы верховной власти",
+      "political"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.61,
+      "lon": 85.14
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-02/hre_s_02_04.svg",
+      "caption": "Локальная учебная обложка: Маурийский правитель и язык дхаммы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_02_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Roman Empire",
+      "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_02"
+  },
+  {
+    "id": "HRE_S_02_05",
+    "type": "POLITICAL",
+    "title": "Ханьский император и Небесный мандат",
+    "original": "Han emperor and Mandate of Heaven",
+    "subtitle": "династическая власть, связанная с ритуалом, чиновниками и космическим порядком",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "II век до н. э. – II век н. э.",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Ханьский император и Небесный мандат — династическая власть, связанная с ритуалом, чиновниками и космическим порядком.",
+    "importance": "Карточка раскрывает главу «Формы верховной власти» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: II век до н. э. – II век н. э..",
+      "Основной смысл: династическая власть, связанная с ритуалом, чиновниками и космическим порядком.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Формы верховной власти",
+      "political"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 3,
+      "culture": 7,
+      "politics": 9,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Чанъань",
+      "lat": 34.27,
+      "lon": 108.94
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-02/hre_s_02_05.svg",
+      "caption": "Локальная учебная обложка: Ханьский император и Небесный мандат",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_02_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Roman Empire",
+      "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_02"
+  },
+  {
+    "id": "HRE_S_02_06",
+    "type": "POLITICAL",
+    "title": "Шаньюй сюнну и крылья конфедерации",
+    "original": "Xiongnu chanyu and confederation wings",
+    "subtitle": "верховная власть над родственными линиями и зависимыми группами",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – I век н. э.",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Шаньюй сюнну и крылья конфедерации — верховная власть над родственными линиями и зависимыми группами.",
+    "importance": "Карточка раскрывает главу «Формы верховной власти» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – I век н. э..",
+      "Основной смысл: верховная власть над родственными линиями и зависимыми группами.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Формы верховной власти",
+      "political"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Монгольская степь",
+      "lat": 47.0,
+      "lon": 104.0
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-02/hre_s_02_06.svg",
+      "caption": "Локальная учебная обложка: Шаньюй сюнну и крылья конфедерации",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_02_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Roman Empire",
+      "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_02"
+  },
+  {
+    "id": "HRE_S_02_07",
+    "type": "INSTITUTION",
+    "title": "Династический дом как политический институт",
+    "original": "Dynastic household as institution",
+    "subtitle": "родственники, браки, наследники и дворцовые ресурсы",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – III век н. э.",
+    "rarity": "EPIC",
+    "difficulty": 11,
+    "summary": "Династический дом как политический институт — родственники, браки, наследники и дворцовые ресурсы.",
+    "importance": "Карточка раскрывает главу «Формы верховной власти» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – III век н. э..",
+      "Основной смысл: родственники, браки, наследники и дворцовые ресурсы.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Формы верховной власти",
+      "institution"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 7,
+      "culture": 9,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Александрия",
+      "lat": 31.2,
+      "lon": 29.92
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-02/hre_s_02_07.svg",
+      "caption": "Локальная учебная обложка: Династический дом как политический институт",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_02_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Roman Empire",
+      "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_02"
+  },
+  {
+    "id": "HRE_S_02_08",
+    "type": "COURT",
+    "title": "Дворцовые группы и доступ к правителю",
+    "original": "Court factions and access",
+    "subtitle": "евнухи, родственники, советники, офицеры и служители как участники решений",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "I век до н. э. – III век н. э.",
+    "rarity": "EPIC",
+    "difficulty": 11,
+    "summary": "Дворцовые группы и доступ к правителю — евнухи, родственники, советники, офицеры и служители как участники решений.",
+    "importance": "Карточка раскрывает главу «Формы верховной власти» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I век до н. э. – III век н. э..",
+      "Основной смысл: евнухи, родственники, советники, офицеры и служители как участники решений.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Формы верховной власти",
+      "court"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 3,
+      "culture": 5,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Лоян",
+      "lat": 34.62,
+      "lon": 112.45
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-02/hre_s_02_08.svg",
+      "caption": "Локальная учебная обложка: Дворцовые группы и доступ к правителю",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_02_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Roman Empire",
+      "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_02"
+  },
+  {
+    "id": "HRE_S_02_09",
+    "type": "POLITICAL",
+    "title": "Местный царь внутри большой державы",
+    "original": "Local king within empire",
+    "subtitle": "посредническая власть между центром и региональным обществом",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – III век н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 11,
+    "summary": "Местный царь внутри большой державы — посредническая власть между центром и региональным обществом.",
+    "importance": "Карточка раскрывает главу «Формы верховной власти» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – III век н. э..",
+      "Основной смысл: посредническая власть между центром и региональным обществом.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Формы верховной власти",
+      "political"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Мерв",
+      "lat": 37.66,
+      "lon": 62.17
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-02/hre_s_02_09.svg",
+      "caption": "Локальная учебная обложка: Местный царь внутри большой державы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_02_09.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Roman Empire",
+      "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_02"
+  },
+  {
+    "id": "HRE_S_03_01",
+    "type": "MILITARY",
+    "title": "Фаланга и слоны эллинистического поля боя",
+    "original": "Phalanx and elephants",
+    "subtitle": "сочетание тяжёлой пехоты, конницы, слонов и наёмников",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III–I века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Фаланга и слоны эллинистического поля боя — сочетание тяжёлой пехоты, конницы, слонов и наёмников.",
+    "importance": "Карточка раскрывает главу «Армии, границы и снабжение» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–I века до н. э..",
+      "Основной смысл: сочетание тяжёлой пехоты, конницы, слонов и наёмников.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Армии, границы и снабжение",
+      "military"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 8,
+      "culture": 9,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Антиохия",
+      "lat": 36.2,
+      "lon": 36.16
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-03/hre_s_03_01.svg",
+      "caption": "Локальная учебная обложка: Фаланга и слоны эллинистического поля боя",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_03_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The World between Empires",
+      "url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_03"
+  },
+  {
+    "id": "HRE_S_03_02",
+    "type": "MILITARY",
+    "title": "Манипулярный легион и союзнические контингенты",
+    "original": "Manipular legion and allies",
+    "subtitle": "гибкая республиканская армия, опиравшаяся на граждан и союзников",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III–II века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Манипулярный легион и союзнические контингенты — гибкая республиканская армия, опиравшаяся на граждан и союзников.",
+    "importance": "Карточка раскрывает главу «Армии, границы и снабжение» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–II века до н. э..",
+      "Основной смысл: гибкая республиканская армия, опиравшаяся на граждан и союзников.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Армии, границы и снабжение",
+      "military"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 4,
+      "culture": 5,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.9,
+      "lon": 12.5
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-03/hre_s_03_02.svg",
+      "caption": "Локальная учебная обложка: Манипулярный легион и союзнические контингенты",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_03_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The World between Empires",
+      "url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_03"
+  },
+  {
+    "id": "HRE_S_03_03",
+    "type": "MILITARY",
+    "title": "Когортная армия и личная лояльность полководцу",
+    "original": "Cohort army and commander loyalty",
+    "subtitle": "профессионализация без простой даты единой реформы",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "I век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Когортная армия и личная лояльность полководцу — профессионализация без простой даты единой реформы.",
+    "importance": "Карточка раскрывает главу «Армии, границы и снабжение» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I век до н. э..",
+      "Основной смысл: профессионализация без простой даты единой реформы.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Армии, границы и снабжение",
+      "military"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 6,
+      "culture": 6,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.9,
+      "lon": 12.5
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-03/hre_s_03_03.svg",
+      "caption": "Локальная учебная обложка: Когортная армия и личная лояльность полководцу",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_03_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The World between Empires",
+      "url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_03"
+  },
+  {
+    "id": "HRE_S_03_04",
+    "type": "MILITARY",
+    "title": "Маурийские дороги и военная мобилизация",
+    "original": "Mauryan roads and mobilisation",
+    "subtitle": "связь армии с речными долинами, администрацией и поставками",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Маурийские дороги и военная мобилизация — связь армии с речными долинами, администрацией и поставками.",
+    "importance": "Карточка раскрывает главу «Армии, границы и снабжение» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: связь армии с речными долинами, администрацией и поставками.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Армии, границы и снабжение",
+      "military"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 8,
+      "culture": 7,
+      "politics": 5,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "долина Ганга",
+      "lat": 25.3,
+      "lon": 82.9
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-03/hre_s_03_04.svg",
+      "caption": "Локальная учебная обложка: Маурийские дороги и военная мобилизация",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_03_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The World between Empires",
+      "url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_03"
+  },
+  {
+    "id": "HRE_S_03_05",
+    "type": "MILITARY",
+    "title": "Ханьские гарнизоны западной границы",
+    "original": "Han western garrisons",
+    "subtitle": "укрепления, земледельческие колонии и склады в Хэси и Тариме",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "II век до н. э. – II век н. э.",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Ханьские гарнизоны западной границы — укрепления, земледельческие колонии и склады в Хэси и Тариме.",
+    "importance": "Карточка раскрывает главу «Армии, границы и снабжение» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: II век до н. э. – II век н. э..",
+      "Основной смысл: укрепления, земледельческие колонии и склады в Хэси и Тариме.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Армии, границы и снабжение",
+      "military"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 4,
+      "culture": 8,
+      "politics": 6,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Дуньхуан",
+      "lat": 40.14,
+      "lon": 94.66
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-03/hre_s_03_05.svg",
+      "caption": "Локальная учебная обложка: Ханьские гарнизоны западной границы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_03_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The World between Empires",
+      "url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_03"
+  },
+  {
+    "id": "HRE_S_03_06",
+    "type": "MILITARY",
+    "title": "Конные силы сюнну и распределённая мобилизация",
+    "original": "Xiongnu mounted mobilisation",
+    "subtitle": "быстрое соединение отрядов при сохранении региональных крыльев",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – I век н. э.",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Конные силы сюнну и распределённая мобилизация — быстрое соединение отрядов при сохранении региональных крыльев.",
+    "importance": "Карточка раскрывает главу «Армии, границы и снабжение» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – I век н. э..",
+      "Основной смысл: быстрое соединение отрядов при сохранении региональных крыльев.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Армии, границы и снабжение",
+      "military"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Монгольская степь",
+      "lat": 47.0,
+      "lon": 104.0
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-03/hre_s_03_06.svg",
+      "caption": "Локальная учебная обложка: Конные силы сюнну и распределённая мобилизация",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_03_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The World between Empires",
+      "url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_03"
+  },
+  {
+    "id": "HRE_S_03_07",
+    "type": "LOGISTICS",
+    "title": "Зерно, фураж и вода как предел похода",
+    "original": "Grain fodder and water limit",
+    "subtitle": "материальная граница армии до начала сражения",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "древность",
+    "rarity": "EPIC",
+    "difficulty": 11,
+    "summary": "Зерно, фураж и вода как предел похода — материальная граница армии до начала сражения.",
+    "importance": "Карточка раскрывает главу «Армии, границы и снабжение» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: древность.",
+      "Основной смысл: материальная граница армии до начала сражения.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Армии, границы и снабжение",
+      "logistics"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 8,
+      "culture": 5,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мерв",
+      "lat": 37.66,
+      "lon": 62.17
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-03/hre_s_03_07.svg",
+      "caption": "Локальная учебная обложка: Зерно, фураж и вода как предел похода",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_03_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The World between Empires",
+      "url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_03"
+  },
+  {
+    "id": "HRE_S_03_08",
+    "type": "SOCIAL",
+    "title": "Ветераны и военные поселения",
+    "original": "Veterans and military settlements",
+    "subtitle": "размещение солдат как инструмент удержания территории",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "II век до н. э. – III век н. э.",
+    "rarity": "EPIC",
+    "difficulty": 11,
+    "summary": "Ветераны и военные поселения — размещение солдат как инструмент удержания территории.",
+    "importance": "Карточка раскрывает главу «Армии, границы и снабжение» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: II век до н. э. – III век н. э..",
+      "Основной смысл: размещение солдат как инструмент удержания территории.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Армии, границы и снабжение",
+      "social"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 4,
+      "culture": 6,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.9,
+      "lon": 12.5
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-03/hre_s_03_08.svg",
+      "caption": "Локальная учебная обложка: Ветераны и военные поселения",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_03_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The World between Empires",
+      "url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_03"
+  },
+  {
+    "id": "HRE_S_03_09",
+    "type": "DIPLOMACY",
+    "title": "Заложники, браки и дары на границе",
+    "original": "Hostages marriages and gifts",
+    "subtitle": "инструменты безопасности рядом с войной и гарнизонами",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – III век н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 11,
+    "summary": "Заложники, браки и дары на границе — инструменты безопасности рядом с войной и гарнизонами.",
+    "importance": "Карточка раскрывает главу «Армии, границы и снабжение» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – III век н. э..",
+      "Основной смысл: инструменты безопасности рядом с войной и гарнизонами.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Армии, границы и снабжение",
+      "diplomacy"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 6,
+      "culture": 7,
+      "politics": 5,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Евразийская степь",
+      "lat": 45.0,
+      "lon": 80.0
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-03/hre_s_03_09.svg",
+      "caption": "Локальная учебная обложка: Заложники, браки и дары на границе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_03_09.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The World between Empires",
+      "url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_03"
+  },
+  {
+    "id": "HRE_S_04_01",
+    "type": "CITY",
+    "title": "Александрия как двор, порт и научный центр",
+    "original": "Alexandria as court port and centre",
+    "subtitle": "столица Птолемеев, соединявшая Нил, Средиземноморье и царский двор",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III–I века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Александрия как двор, порт и научный центр — столица Птолемеев, соединявшая Нил, Средиземноморье и царский двор.",
+    "importance": "Карточка раскрывает главу «Города, порты и оазисы» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–I века до н. э..",
+      "Основной смысл: столица Птолемеев, соединявшая Нил, Средиземноморье и царский двор.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Города, порты и оазисы",
+      "city"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 3,
+      "culture": 5,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Александрия",
+      "lat": 31.2,
+      "lon": 29.92
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-04/hre_s_04_01.svg",
+      "caption": "Локальная учебная обложка: Александрия как двор, порт и научный центр",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/139/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Taxila",
+      "url": "https://whc.unesco.org/en/list/139/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_04"
+  },
+  {
+    "id": "HRE_S_04_02",
+    "type": "CITY",
+    "title": "Рим и Остия как система столицы и порта",
+    "original": "Rome and Ostia system",
+    "subtitle": "связка потребляющего мегаполиса, речной доставки и морского порта",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "I век до н. э. – III век н. э.",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Рим и Остия как система столицы и порта — связка потребляющего мегаполиса, речной доставки и морского порта.",
+    "importance": "Карточка раскрывает главу «Города, порты и оазисы» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I век до н. э. – III век н. э..",
+      "Основной смысл: связка потребляющего мегаполиса, речной доставки и морского порта.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Города, порты и оазисы",
+      "city"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 5,
+      "culture": 6,
+      "politics": 5,
+      "religion": 5,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Остия",
+      "lat": 41.76,
+      "lon": 12.29
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-04/hre_s_04_02.svg",
+      "caption": "Локальная учебная обложка: Рим и Остия как система столицы и порта",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/139/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Taxila",
+      "url": "https://whc.unesco.org/en/list/139/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_04"
+  },
+  {
+    "id": "HRE_S_04_03",
+    "type": "CITY",
+    "title": "Паталипутра в долине Ганга",
+    "original": "Pataliputra in Ganges valley",
+    "subtitle": "столица, зависимая от рек, административного двора и региональных ресурсов",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Паталипутра в долине Ганга — столица, зависимая от рек, административного двора и региональных ресурсов.",
+    "importance": "Карточка раскрывает главу «Города, порты и оазисы» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: столица, зависимая от рек, административного двора и региональных ресурсов.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Города, порты и оазисы",
+      "city"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 7,
+      "culture": 7,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.61,
+      "lon": 85.14
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-04/hre_s_04_03.svg",
+      "caption": "Локальная учебная обложка: Паталипутра в долине Ганга",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/139/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Taxila",
+      "url": "https://whc.unesco.org/en/list/139/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_04"
+  },
+  {
+    "id": "HRE_S_04_04",
+    "type": "CITY",
+    "title": "Чанъань как имперский распределительный центр",
+    "original": "Changan as distribution centre",
+    "subtitle": "столица двора, складов, чиновников и дипломатических миссий",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "II–I века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Чанъань как имперский распределительный центр — столица двора, складов, чиновников и дипломатических миссий.",
+    "importance": "Карточка раскрывает главу «Города, порты и оазисы» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: II–I века до н. э..",
+      "Основной смысл: столица двора, складов, чиновников и дипломатических миссий.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Города, порты и оазисы",
+      "city"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 3,
+      "culture": 8,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Чанъань",
+      "lat": 34.27,
+      "lon": 108.94
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-04/hre_s_04_04.svg",
+      "caption": "Локальная учебная обложка: Чанъань как имперский распределительный центр",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/139/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_04_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Taxila",
+      "url": "https://whc.unesco.org/en/list/139/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_04"
+  },
+  {
+    "id": "HRE_S_04_05",
+    "type": "CITY",
+    "title": "Дуньхуан как гарнизонный и оазисный узел",
+    "original": "Dunhuang as garrison oasis",
+    "subtitle": "западная точка ханьской администрации и местного обмена",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "II век до н. э. – II век н. э.",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Дуньхуан как гарнизонный и оазисный узел — западная точка ханьской администрации и местного обмена.",
+    "importance": "Карточка раскрывает главу «Города, порты и оазисы» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: II век до н. э. – II век н. э..",
+      "Основной смысл: западная точка ханьской администрации и местного обмена.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Города, порты и оазисы",
+      "city"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 5,
+      "culture": 9,
+      "politics": 8,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Дуньхуан",
+      "lat": 40.14,
+      "lon": 94.66
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-04/hre_s_04_05.svg",
+      "caption": "Локальная учебная обложка: Дуньхуан как гарнизонный и оазисный узел",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/139/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_04_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Taxila",
+      "url": "https://whc.unesco.org/en/list/139/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_04"
+  },
+  {
+    "id": "HRE_S_04_06",
+    "type": "CITY",
+    "title": "Мерв между Ираном, степью и Бактрией",
+    "original": "Merv between Iran steppe and Bactria",
+    "subtitle": "оазисный город, менявший политических хозяев и торговые связи",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – III век н. э.",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Мерв между Ираном, степью и Бактрией — оазисный город, менявший политических хозяев и торговые связи.",
+    "importance": "Карточка раскрывает главу «Города, порты и оазисы» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – III век н. э..",
+      "Основной смысл: оазисный город, менявший политических хозяев и торговые связи.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Города, порты и оазисы",
+      "city"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 7,
+      "culture": 5,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мерв",
+      "lat": 37.66,
+      "lon": 62.17
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-04/hre_s_04_06.svg",
+      "caption": "Локальная учебная обложка: Мерв между Ираном, степью и Бактрией",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/139/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_04_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Taxila",
+      "url": "https://whc.unesco.org/en/list/139/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_04"
+  },
+  {
+    "id": "HRE_S_04_07",
+    "type": "BUILDING",
+    "title": "Путевая станция вместо вечного караван-сарая",
+    "original": "Way station instead of timeless caravanserai",
+    "subtitle": "разные формы ночлега, склада и контроля дороги без переноса средневековой модели",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "древность",
+    "rarity": "EPIC",
+    "difficulty": 11,
+    "summary": "Путевая станция вместо вечного караван-сарая — разные формы ночлега, склада и контроля дороги без переноса средневековой модели.",
+    "importance": "Карточка раскрывает главу «Города, порты и оазисы» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: древность.",
+      "Основной смысл: разные формы ночлега, склада и контроля дороги без переноса средневековой модели.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Города, порты и оазисы",
+      "building"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 3,
+      "culture": 6,
+      "politics": 5,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Мерв",
+      "lat": 37.66,
+      "lon": 62.17
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-04/hre_s_04_07.svg",
+      "caption": "Локальная учебная обложка: Путевая станция вместо вечного караван-сарая",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/139/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_04_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Taxila",
+      "url": "https://whc.unesco.org/en/list/139/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_04"
+  },
+  {
+    "id": "HRE_S_04_08",
+    "type": "ECONOMY",
+    "title": "Городской зерновой рынок",
+    "original": "Urban grain market",
+    "subtitle": "ежедневная система поставок, цен и хранения под дальними сетями",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – III век н. э.",
+    "rarity": "EPIC",
+    "difficulty": 11,
+    "summary": "Городской зерновой рынок — ежедневная система поставок, цен и хранения под дальними сетями.",
+    "importance": "Карточка раскрывает главу «Города, порты и оазисы» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – III век н. э..",
+      "Основной смысл: ежедневная система поставок, цен и хранения под дальними сетями.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Города, порты и оазисы",
+      "economy"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 5,
+      "culture": 7,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.9,
+      "lon": 12.5
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-04/hre_s_04_08.svg",
+      "caption": "Локальная учебная обложка: Городской зерновой рынок",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/139/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_04_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Taxila",
+      "url": "https://whc.unesco.org/en/list/139/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_04"
+  },
+  {
+    "id": "HRE_S_04_09",
+    "type": "PEOPLE",
+    "title": "Многоязычный городской посредник",
+    "original": "Multilingual urban broker",
+    "subtitle": "переводчик, купец или чиновник, соединявший правовые и языковые среды",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – III век н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 11,
+    "summary": "Многоязычный городской посредник — переводчик, купец или чиновник, соединявший правовые и языковые среды.",
+    "importance": "Карточка раскрывает главу «Города, порты и оазисы» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – III век н. э..",
+      "Основной смысл: переводчик, купец или чиновник, соединявший правовые и языковые среды.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Города, порты и оазисы",
+      "people"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 7,
+      "culture": 8,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Таксила",
+      "lat": 33.74,
+      "lon": 72.84
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-04/hre_s_04_09.svg",
+      "caption": "Локальная учебная обложка: Многоязычный городской посредник",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/139/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_04_09.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Taxila",
+      "url": "https://whc.unesco.org/en/list/139/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_04"
+  },
+  {
+    "id": "HRE_S_05_01",
+    "type": "ECONOMY",
+    "title": "Эллинистическая царская земля и сбор доходов",
+    "original": "Hellenistic royal land revenue",
+    "subtitle": "сочетание царских владений, городских платежей и местных практик",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III–I века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Эллинистическая царская земля и сбор доходов — сочетание царских владений, городских платежей и местных практик.",
+    "importance": "Карточка раскрывает главу «Налоги, дань, деньги и зерно» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–I века до н. э..",
+      "Основной смысл: сочетание царских владений, городских платежей и местных практик.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Налоги, дань, деньги и зерно",
+      "economy"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 6,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Александрия",
+      "lat": 31.2,
+      "lon": 29.92
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-05/hre_s_05_01.svg",
+      "caption": "Локальная учебная обложка: Эллинистическая царская земля и сбор доходов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/money",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Money and medals collection",
+      "url": "https://www.britishmuseum.org/collection/galleries/money",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_05"
+  },
+  {
+    "id": "HRE_S_05_02",
+    "type": "ECONOMY",
+    "title": "Римский tributum и провинциальные платежи",
+    "original": "Roman tributum and provincial payments",
+    "subtitle": "разные налоги, зависевшие от войны, статуса и провинции",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – III век н. э.",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Римский tributum и провинциальные платежи — разные налоги, зависевшие от войны, статуса и провинции.",
+    "importance": "Карточка раскрывает главу «Налоги, дань, деньги и зерно» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – III век н. э..",
+      "Основной смысл: разные налоги, зависевшие от войны, статуса и провинции.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Налоги, дань, деньги и зерно",
+      "economy"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.9,
+      "lon": 12.5
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-05/hre_s_05_02.svg",
+      "caption": "Локальная учебная обложка: Римский tributum и провинциальные платежи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/money",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Money and medals collection",
+      "url": "https://www.britishmuseum.org/collection/galleries/money",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_05"
+  },
+  {
+    "id": "HRE_S_05_03",
+    "type": "ECONOMY",
+    "title": "Аннона и снабжение города Рима",
+    "original": "Annona and Rome supply",
+    "subtitle": "система зерновых поставок, хранения и распределения",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "I век до н. э. – III век н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Аннона и снабжение города Рима — система зерновых поставок, хранения и распределения.",
+    "importance": "Карточка раскрывает главу «Налоги, дань, деньги и зерно» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I век до н. э. – III век н. э..",
+      "Основной смысл: система зерновых поставок, хранения и распределения.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Налоги, дань, деньги и зерно",
+      "economy"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 8,
+      "culture": 8,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Остия",
+      "lat": 41.76,
+      "lon": 12.29
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-05/hre_s_05_03.svg",
+      "caption": "Локальная учебная обложка: Аннона и снабжение города Рима",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/money",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Money and medals collection",
+      "url": "https://www.britishmuseum.org/collection/galleries/money",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_05"
+  },
+  {
+    "id": "HRE_S_05_04",
+    "type": "TEXT",
+    "title": "Доходы государства в Артхашастре",
+    "original": "State revenue in Arthashastra",
+    "subtitle": "нормативная модель ведомств, налогов и контроля, не равная прямому описанию Маурьев",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "древность",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Доходы государства в Артхашастре — нормативная модель ведомств, налогов и контроля, не равная прямому описанию Маурьев.",
+    "importance": "Карточка раскрывает главу «Налоги, дань, деньги и зерно» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: древность.",
+      "Основной смысл: нормативная модель ведомств, налогов и контроля, не равная прямому описанию Маурьев.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Налоги, дань, деньги и зерно",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.61,
+      "lon": 85.14
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-05/hre_s_05_04.svg",
+      "caption": "Локальная учебная обложка: Доходы государства в Артхашастре",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/money",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Money and medals collection",
+      "url": "https://www.britishmuseum.org/collection/galleries/money",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_05"
+  },
+  {
+    "id": "HRE_S_05_05",
+    "type": "ADMINISTRATION",
+    "title": "Ашоканский чиновник и публичное распоряжение",
+    "original": "Ashokan officer and public order",
+    "subtitle": "связь царской программы с региональными исполнителями",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Ашоканский чиновник и публичное распоряжение — связь царской программы с региональными исполнителями.",
+    "importance": "Карточка раскрывает главу «Налоги, дань, деньги и зерно» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: связь царской программы с региональными исполнителями.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Налоги, дань, деньги и зерно",
+      "administration"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 5,
+      "politics": 5,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.61,
+      "lon": 85.14
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-05/hre_s_05_05.svg",
+      "caption": "Локальная учебная обложка: Ашоканский чиновник и публичное распоряжение",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/money",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_05_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Money and medals collection",
+      "url": "https://www.britishmuseum.org/collection/galleries/money",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_05"
+  },
+  {
+    "id": "HRE_S_05_06",
+    "type": "ECONOMY",
+    "title": "Ханьские монополии соли и железа",
+    "original": "Han salt and iron monopolies",
+    "subtitle": "спор о государственных доходах, ценах и частной инициативе",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "II–I века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Ханьские монополии соли и железа — спор о государственных доходах, ценах и частной инициативе.",
+    "importance": "Карточка раскрывает главу «Налоги, дань, деньги и зерно» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: II–I века до н. э..",
+      "Основной смысл: спор о государственных доходах, ценах и частной инициативе.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Налоги, дань, деньги и зерно",
+      "economy"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 8,
+      "culture": 6,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Чанъань",
+      "lat": 34.27,
+      "lon": 108.94
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-05/hre_s_05_06.svg",
+      "caption": "Локальная учебная обложка: Ханьские монополии соли и железа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/money",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_05_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Money and medals collection",
+      "url": "https://www.britishmuseum.org/collection/galleries/money",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_05"
+  },
+  {
+    "id": "HRE_S_05_07",
+    "type": "ECONOMY",
+    "title": "Несовпадающие денежные зоны",
+    "original": "Non-equivalent monetary zones",
+    "subtitle": "монеты разных весов и политических систем без единой евразийской валюты",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – III век н. э.",
+    "rarity": "EPIC",
+    "difficulty": 11,
+    "summary": "Несовпадающие денежные зоны — монеты разных весов и политических систем без единой евразийской валюты.",
+    "importance": "Карточка раскрывает главу «Налоги, дань, деньги и зерно» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – III век н. э..",
+      "Основной смысл: монеты разных весов и политических систем без единой евразийской валюты.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Налоги, дань, деньги и зерно",
+      "economy"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Мерв",
+      "lat": 37.66,
+      "lon": 62.17
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-05/hre_s_05_07.svg",
+      "caption": "Локальная учебная обложка: Несовпадающие денежные зоны",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/money",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_05_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Money and medals collection",
+      "url": "https://www.britishmuseum.org/collection/galleries/money",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_05"
+  },
+  {
+    "id": "HRE_S_05_08",
+    "type": "ECONOMY",
+    "title": "Степная дань, дар и перераспределение",
+    "original": "Steppe tribute gift redistribution",
+    "subtitle": "ткань, зерно, животные и престижные вещи внутри дипломатии",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – I век н. э.",
+    "rarity": "EPIC",
+    "difficulty": 11,
+    "summary": "Степная дань, дар и перераспределение — ткань, зерно, животные и престижные вещи внутри дипломатии.",
+    "importance": "Карточка раскрывает главу «Налоги, дань, деньги и зерно» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – I век н. э..",
+      "Основной смысл: ткань, зерно, животные и престижные вещи внутри дипломатии.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Налоги, дань, деньги и зерно",
+      "economy"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 6,
+      "culture": 8,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Ноин-Ула",
+      "lat": 48.2,
+      "lon": 106.5
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-05/hre_s_05_08.svg",
+      "caption": "Локальная учебная обложка: Степная дань, дар и перераспределение",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/money",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_05_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Money and medals collection",
+      "url": "https://www.britishmuseum.org/collection/galleries/money",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_05"
+  },
+  {
+    "id": "HRE_S_05_09",
+    "type": "OFFICE",
+    "title": "Местный сборщик между двором и общиной",
+    "original": "Local collector between court and community",
+    "subtitle": "посредник, превращавший общие требования в конкретные платежи",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – III век н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 11,
+    "summary": "Местный сборщик между двором и общиной — посредник, превращавший общие требования в конкретные платежи.",
+    "importance": "Карточка раскрывает главу «Налоги, дань, деньги и зерно» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – III век н. э..",
+      "Основной смысл: посредник, превращавший общие требования в конкретные платежи.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Налоги, дань, деньги и зерно",
+      "office"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 8,
+      "culture": 9,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Таксила",
+      "lat": 33.74,
+      "lon": 72.84
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-05/hre_s_05_09.svg",
+      "caption": "Локальная учебная обложка: Местный сборщик между двором и общиной",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/money",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_05_09.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Money and medals collection",
+      "url": "https://www.britishmuseum.org/collection/galleries/money",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_05"
+  },
+  {
+    "id": "HRE_S_06_01",
+    "type": "SOCIAL",
+    "title": "Гражданство эллинистического полиса",
+    "original": "Hellenistic polis citizenship",
+    "subtitle": "локальные политические права внутри пространства царства",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III–I века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Гражданство эллинистического полиса — локальные политические права внутри пространства царства.",
+    "importance": "Карточка раскрывает главу «Подданные, граждане и местные элиты» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–I века до н. э..",
+      "Основной смысл: локальные политические права внутри пространства царства.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Подданные, граждане и местные элиты",
+      "social"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 5,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Антиохия",
+      "lat": 36.2,
+      "lon": 36.16
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-06/hre_s_06_01.svg",
+      "caption": "Локальная учебная обложка: Гражданство эллинистического полиса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Roman Empire",
+      "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_06"
+  },
+  {
+    "id": "HRE_S_06_02",
+    "type": "SOCIAL",
+    "title": "Расширение римского гражданства",
+    "original": "Expansion of Roman citizenship",
+    "subtitle": "постепенное изменение правового сообщества через войны, союзы и решения власти",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – III век н. э.",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Расширение римского гражданства — постепенное изменение правового сообщества через войны, союзы и решения власти.",
+    "importance": "Карточка раскрывает главу «Подданные, граждане и местные элиты» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – III век н. э..",
+      "Основной смысл: постепенное изменение правового сообщества через войны, союзы и решения власти.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Подданные, граждане и местные элиты",
+      "social"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 7,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.9,
+      "lon": 12.5
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-06/hre_s_06_02.svg",
+      "caption": "Локальная учебная обложка: Расширение римского гражданства",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Roman Empire",
+      "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_06"
+  },
+  {
+    "id": "HRE_S_06_03",
+    "type": "SOCIAL",
+    "title": "Итальянский союзник до Союзнической войны",
+    "original": "Italian ally before Social War",
+    "subtitle": "военная обязанность без полного набора римских политических прав",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III–I века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Итальянский союзник до Союзнической войны — военная обязанность без полного набора римских политических прав.",
+    "importance": "Карточка раскрывает главу «Подданные, граждане и местные элиты» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–I века до н. э..",
+      "Основной смысл: военная обязанность без полного набора римских политических прав.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Подданные, граждане и местные элиты",
+      "social"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 3,
+      "culture": 9,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.9,
+      "lon": 12.5
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-06/hre_s_06_03.svg",
+      "caption": "Локальная учебная обложка: Итальянский союзник до Союзнической войны",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Roman Empire",
+      "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_06"
+  },
+  {
+    "id": "HRE_S_06_04",
+    "type": "METHOD",
+    "title": "Социальные категории Маурийской Индии без простой кастовой схемы",
+    "original": "Mauryan social categories",
+    "subtitle": "разные общины, профессии и статусы, плохо сводимые к четырём варнам",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Социальные категории Маурийской Индии без простой кастовой схемы — разные общины, профессии и статусы, плохо сводимые к четырём варнам.",
+    "importance": "Карточка раскрывает главу «Подданные, граждане и местные элиты» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: разные общины, профессии и статусы, плохо сводимые к четырём варнам.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Подданные, граждане и местные элиты",
+      "method"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 5,
+      "culture": 5,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.61,
+      "lon": 85.14
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-06/hre_s_06_04.svg",
+      "caption": "Локальная учебная обложка: Социальные категории Маурийской Индии без простой кастовой схемы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Roman Empire",
+      "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_06"
+  },
+  {
+    "id": "HRE_S_06_05",
+    "type": "SOCIAL",
+    "title": "Ханьское зарегистрированное домохозяйство",
+    "original": "Han registered household",
+    "subtitle": "единица налогового, трудового и демографического учёта",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "II век до н. э. – II век н. э.",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Ханьское зарегистрированное домохозяйство — единица налогового, трудового и демографического учёта.",
+    "importance": "Карточка раскрывает главу «Подданные, граждане и местные элиты» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: II век до н. э. – II век н. э..",
+      "Основной смысл: единица налогового, трудового и демографического учёта.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Подданные, граждане и местные элиты",
+      "social"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 7,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Чанъань",
+      "lat": 34.27,
+      "lon": 108.94
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-06/hre_s_06_05.svg",
+      "caption": "Локальная учебная обложка: Ханьское зарегистрированное домохозяйство",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_06_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Roman Empire",
+      "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_06"
+  },
+  {
+    "id": "HRE_S_06_06",
+    "type": "SOCIAL",
+    "title": "Пограничный поселенец и военная повинность",
+    "original": "Frontier settler and service",
+    "subtitle": "земледелец или переселенец внутри системы гарнизона и снабжения",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "II век до н. э. – II век н. э.",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Пограничный поселенец и военная повинность — земледелец или переселенец внутри системы гарнизона и снабжения.",
+    "importance": "Карточка раскрывает главу «Подданные, граждане и местные элиты» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: II век до н. э. – II век н. э..",
+      "Основной смысл: земледелец или переселенец внутри системы гарнизона и снабжения.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Подданные, граждане и местные элиты",
+      "social"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 3,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Дуньхуан",
+      "lat": 40.14,
+      "lon": 94.66
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-06/hre_s_06_06.svg",
+      "caption": "Локальная учебная обложка: Пограничный поселенец и военная повинность",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_06_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Roman Empire",
+      "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_06"
+  },
+  {
+    "id": "HRE_S_06_07",
+    "type": "SOCIAL",
+    "title": "Женщины династического дома как политические участники",
+    "original": "Women of dynastic household",
+    "subtitle": "матери, супруги и родственницы в наследовании, браках и доступе ко двору",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – III век н. э.",
+    "rarity": "EPIC",
+    "difficulty": 11,
+    "summary": "Женщины династического дома как политические участники — матери, супруги и родственницы в наследовании, браках и доступе ко двору.",
+    "importance": "Карточка раскрывает главу «Подданные, граждане и местные элиты» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – III век н. э..",
+      "Основной смысл: матери, супруги и родственницы в наследовании, браках и доступе ко двору.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Подданные, граждане и местные элиты",
+      "social"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Александрия",
+      "lat": 31.2,
+      "lon": 29.92
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-06/hre_s_06_07.svg",
+      "caption": "Локальная учебная обложка: Женщины династического дома как политические участники",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_06_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Roman Empire",
+      "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_06"
+  },
+  {
+    "id": "HRE_S_06_08",
+    "type": "SOCIAL",
+    "title": "Пленник, раб и зависимый работник",
+    "original": "Captive slave dependent worker",
+    "subtitle": "разные формы несвободы, которые нельзя считать одним институтом во всех регионах",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – III век н. э.",
+    "rarity": "EPIC",
+    "difficulty": 11,
+    "summary": "Пленник, раб и зависимый работник — разные формы несвободы, которые нельзя считать одним институтом во всех регионах.",
+    "importance": "Карточка раскрывает главу «Подданные, граждане и местные элиты» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – III век н. э..",
+      "Основной смысл: разные формы несвободы, которые нельзя считать одним институтом во всех регионах.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Подданные, граждане и местные элиты",
+      "social"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 7,
+      "culture": 9,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.9,
+      "lon": 12.5
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-06/hre_s_06_08.svg",
+      "caption": "Локальная учебная обложка: Пленник, раб и зависимый работник",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_06_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Roman Empire",
+      "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_06"
+  },
+  {
+    "id": "HRE_S_06_09",
+    "type": "PEOPLE",
+    "title": "Местная элита как переводчик имперского требования",
+    "original": "Local elite as imperial broker",
+    "subtitle": "городской советник, землевладелец или чиновник между общиной и центром",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – III век н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 11,
+    "summary": "Местная элита как переводчик имперского требования — городской советник, землевладелец или чиновник между общиной и центром.",
+    "importance": "Карточка раскрывает главу «Подданные, граждане и местные элиты» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – III век н. э..",
+      "Основной смысл: городской советник, землевладелец или чиновник между общиной и центром.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Подданные, граждане и местные элиты",
+      "people"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 3,
+      "culture": 5,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Таксила",
+      "lat": 33.74,
+      "lon": 72.84
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-06/hre_s_06_09.svg",
+      "caption": "Локальная учебная обложка: Местная элита как переводчик имперского требования",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_06_09.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Roman Empire",
+      "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_06"
+  },
+  {
+    "id": "HRE_S_07_01",
+    "type": "RELIGION",
+    "title": "Эллинистический культ правителя",
+    "original": "Hellenistic ruler cult",
+    "subtitle": "городские и династические практики почитания монарха",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III–I века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Эллинистический культ правителя — городские и династические практики почитания монарха.",
+    "importance": "Карточка раскрывает главу «Религии, тексты, искусство и перевод» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–I века до н. э..",
+      "Основной смысл: городские и династические практики почитания монарха.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Религии, тексты, искусство и перевод",
+      "religion"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 6,
+      "culture": 8,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Александрия",
+      "lat": 31.2,
+      "lon": 29.92
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-07/hre_s_07_01.svg",
+      "caption": "Локальная учебная обложка: Эллинистический культ правителя",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/139/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Taxila",
+      "url": "https://whc.unesco.org/en/list/139/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_07"
+  },
+  {
+    "id": "HRE_S_07_02",
+    "type": "RELIGION",
+    "title": "Римский городской культ и общественная должность",
+    "original": "Roman civic cult and office",
+    "subtitle": "ритуал как часть публичной жизни, статуса и городского управления",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – III век н. э.",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Римский городской культ и общественная должность — ритуал как часть публичной жизни, статуса и городского управления.",
+    "importance": "Карточка раскрывает главу «Религии, тексты, искусство и перевод» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – III век н. э..",
+      "Основной смысл: ритуал как часть публичной жизни, статуса и городского управления.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Религии, тексты, искусство и перевод",
+      "religion"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 8,
+      "culture": 9,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.9,
+      "lon": 12.5
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-07/hre_s_07_02.svg",
+      "caption": "Локальная учебная обложка: Римский городской культ и общественная должность",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/139/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Taxila",
+      "url": "https://whc.unesco.org/en/list/139/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_07"
+  },
+  {
+    "id": "HRE_S_07_03",
+    "type": "TEXT",
+    "title": "Ашоканская дхамма в разных языках",
+    "original": "Ashokan dhamma in multiple languages",
+    "subtitle": "царская программа, адаптированная к аудитории и региону",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Ашоканская дхамма в разных языках — царская программа, адаптированная к аудитории и региону.",
+    "importance": "Карточка раскрывает главу «Религии, тексты, искусство и перевод» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: царская программа, адаптированная к аудитории и региону.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Религии, тексты, искусство и перевод",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 4,
+      "culture": 5,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.61,
+      "lon": 85.14
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-07/hre_s_07_03.svg",
+      "caption": "Локальная учебная обложка: Ашоканская дхамма в разных языках",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/139/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Taxila",
+      "url": "https://whc.unesco.org/en/list/139/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_07"
+  },
+  {
+    "id": "HRE_S_07_04",
+    "type": "RELIGION",
+    "title": "Буддийские общины северо-западной Индии",
+    "original": "Buddhist communities of northwest India",
+    "subtitle": "монастыри и покровители на пересечении индийских и центральноазиатских путей",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – III век н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Буддийские общины северо-западной Индии — монастыри и покровители на пересечении индийских и центральноазиатских путей.",
+    "importance": "Карточка раскрывает главу «Религии, тексты, искусство и перевод» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – III век н. э..",
+      "Основной смысл: монастыри и покровители на пересечении индийских и центральноазиатских путей.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Религии, тексты, искусство и перевод",
+      "religion"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 6,
+      "culture": 6,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Таксила",
+      "lat": 33.74,
+      "lon": 72.84
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-07/hre_s_07_04.svg",
+      "caption": "Локальная учебная обложка: Буддийские общины северо-западной Индии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/139/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_07_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Taxila",
+      "url": "https://whc.unesco.org/en/list/139/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_07"
+  },
+  {
+    "id": "HRE_S_07_05",
+    "type": "RELIGION",
+    "title": "Ханьский государственный ритуал и предки",
+    "original": "Han state ritual and ancestors",
+    "subtitle": "дворцовые жертвоприношения, династическая память и семейная практика",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "II век до н. э. – II век н. э.",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Ханьский государственный ритуал и предки — дворцовые жертвоприношения, династическая память и семейная практика.",
+    "importance": "Карточка раскрывает главу «Религии, тексты, искусство и перевод» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: II век до н. э. – II век н. э..",
+      "Основной смысл: дворцовые жертвоприношения, династическая память и семейная практика.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Религии, тексты, искусство и перевод",
+      "religion"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 8,
+      "culture": 7,
+      "politics": 9,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Чанъань",
+      "lat": 34.27,
+      "lon": 108.94
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-07/hre_s_07_05.svg",
+      "caption": "Локальная учебная обложка: Ханьский государственный ритуал и предки",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/139/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_07_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Taxila",
+      "url": "https://whc.unesco.org/en/list/139/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_07"
+  },
+  {
+    "id": "HRE_S_07_06",
+    "type": "TEXT",
+    "title": "Классические тексты при дворе Хань",
+    "original": "Classical texts at Han court",
+    "subtitle": "канонизация, обучение чиновников и политические споры о толковании",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "II век до н. э. – II век н. э.",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Классические тексты при дворе Хань — канонизация, обучение чиновников и политические споры о толковании.",
+    "importance": "Карточка раскрывает главу «Религии, тексты, искусство и перевод» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: II век до н. э. – II век н. э..",
+      "Основной смысл: канонизация, обучение чиновников и политические споры о толковании.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Религии, тексты, искусство и перевод",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 4,
+      "culture": 8,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Лоян",
+      "lat": 34.62,
+      "lon": 112.45
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-07/hre_s_07_06.svg",
+      "caption": "Локальная учебная обложка: Классические тексты при дворе Хань",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/139/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_07_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Taxila",
+      "url": "https://whc.unesco.org/en/list/139/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_07"
+  },
+  {
+    "id": "HRE_S_07_07",
+    "type": "ART",
+    "title": "Гандхарская мастерская и смешанный визуальный язык",
+    "original": "Gandharan workshop and mixed visual language",
+    "subtitle": "местная переработка индийских, иранских и эллинистических форм",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "I–III века н. э.",
+    "rarity": "EPIC",
+    "difficulty": 11,
+    "summary": "Гандхарская мастерская и смешанный визуальный язык — местная переработка индийских, иранских и эллинистических форм.",
+    "importance": "Карточка раскрывает главу «Религии, тексты, искусство и перевод» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I–III века н. э..",
+      "Основной смысл: местная переработка индийских, иранских и эллинистических форм.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Религии, тексты, искусство и перевод",
+      "art"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Таксила",
+      "lat": 33.74,
+      "lon": 72.84
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-07/hre_s_07_07.svg",
+      "caption": "Локальная учебная обложка: Гандхарская мастерская и смешанный визуальный язык",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/139/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_07_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Taxila",
+      "url": "https://whc.unesco.org/en/list/139/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_07"
+  },
+  {
+    "id": "HRE_S_07_08",
+    "type": "ARTIFACT",
+    "title": "Тилля-тепе и многослойная иконография",
+    "original": "Tillya Tepe multilayered iconography",
+    "subtitle": "вещи, соединяющие степные, иранские, индийские и эллинистические мотивы",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "I век до н. э. – I век н. э.",
+    "rarity": "EPIC",
+    "difficulty": 11,
+    "summary": "Тилля-тепе и многослойная иконография — вещи, соединяющие степные, иранские, индийские и эллинистические мотивы.",
+    "importance": "Карточка раскрывает главу «Религии, тексты, искусство и перевод» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I век до н. э. – I век н. э..",
+      "Основной смысл: вещи, соединяющие степные, иранские, индийские и эллинистические мотивы.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Религии, тексты, искусство и перевод",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 8,
+      "culture": 5,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Тилля-тепе",
+      "lat": 36.7,
+      "lon": 66.9
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-07/hre_s_07_08.svg",
+      "caption": "Локальная учебная обложка: Тилля-тепе и многослойная иконография",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/139/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_07_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Taxila",
+      "url": "https://whc.unesco.org/en/list/139/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_07"
+  },
+  {
+    "id": "HRE_S_07_09",
+    "type": "METHOD",
+    "title": "Перевод как изменение понятия",
+    "original": "Translation as conceptual change",
+    "subtitle": "создание нового словаря вместо механической замены слов",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – III век н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 11,
+    "summary": "Перевод как изменение понятия — создание нового словаря вместо механической замены слов.",
+    "importance": "Карточка раскрывает главу «Религии, тексты, искусство и перевод» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – III век н. э..",
+      "Основной смысл: создание нового словаря вместо механической замены слов.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Религии, тексты, искусство и перевод",
+      "method"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 4,
+      "culture": 6,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Дуньхуан",
+      "lat": 40.14,
+      "lon": 94.66
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-07/hre_s_07_09.svg",
+      "caption": "Локальная учебная обложка: Перевод как изменение понятия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/139/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_07_09.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Taxila",
+      "url": "https://whc.unesco.org/en/list/139/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_07"
+  },
+  {
+    "id": "HRE_S_08_01",
+    "type": "TEXT",
+    "title": "Полибий и Сыма Цянь как несходные историки",
+    "original": "Polybius and Sima Qian as different historians",
+    "subtitle": "сравнение авторской позиции, жанра и доступа к политической информации",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "II–I века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Полибий и Сыма Цянь как несходные историки — сравнение авторской позиции, жанра и доступа к политической информации.",
+    "importance": "Карточка раскрывает главу «Источники и модели связанного античного мира» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: II–I века до н. э..",
+      "Основной смысл: сравнение авторской позиции, жанра и доступа к политической информации.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Источники и модели связанного античного мира",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 7,
+      "culture": 9,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.9,
+      "lon": 12.5
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-08/hre_s_08_01.svg",
+      "caption": "Локальная учебная обложка: Полибий и Сыма Цянь как несходные историки",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://ctext.org/shiji",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Chinese Text Project: Shiji",
+      "url": "https://ctext.org/shiji",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_08"
+  },
+  {
+    "id": "HRE_S_08_02",
+    "type": "METHOD",
+    "title": "Эдикт Ашоки и династическая история",
+    "original": "Ashokan edict and dynastic history",
+    "subtitle": "сопоставление публичного распоряжения с ретроспективным повествованием",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III–I века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Эдикт Ашоки и династическая история — сопоставление публичного распоряжения с ретроспективным повествованием.",
+    "importance": "Карточка раскрывает главу «Источники и модели связанного античного мира» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–I века до н. э..",
+      "Основной смысл: сопоставление публичного распоряжения с ретроспективным повествованием.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Источники и модели связанного античного мира",
+      "method"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 3,
+      "culture": 5,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.61,
+      "lon": 85.14
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-08/hre_s_08_02.svg",
+      "caption": "Локальная учебная обложка: Эдикт Ашоки и династическая история",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://ctext.org/shiji",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Chinese Text Project: Shiji",
+      "url": "https://ctext.org/shiji",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_08"
+  },
+  {
+    "id": "HRE_S_08_03",
+    "type": "METHOD",
+    "title": "Археология столицы без полного города",
+    "original": "Archaeology of an incomplete capital",
+    "subtitle": "реконструкция мегаполиса по малой раскопанной части",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "современный метод",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Археология столицы без полного города — реконструкция мегаполиса по малой раскопанной части.",
+    "importance": "Карточка раскрывает главу «Источники и модели связанного античного мира» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: современный метод.",
+      "Основной смысл: реконструкция мегаполиса по малой раскопанной части.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Источники и модели связанного античного мира",
+      "method"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 5,
+      "culture": 6,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.61,
+      "lon": 85.14
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-08/hre_s_08_03.svg",
+      "caption": "Локальная учебная обложка: Археология столицы без полного города",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://ctext.org/shiji",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Chinese Text Project: Shiji",
+      "url": "https://ctext.org/shiji",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_08"
+  },
+  {
+    "id": "HRE_S_08_04",
+    "type": "METHOD",
+    "title": "Монета между пропагандой и обращением",
+    "original": "Coin between propaganda and circulation",
+    "subtitle": "изображение власти и материальная единица обмена в одном предмете",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – III век н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Монета между пропагандой и обращением — изображение власти и материальная единица обмена в одном предмете.",
+    "importance": "Карточка раскрывает главу «Источники и модели связанного античного мира» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – III век н. э..",
+      "Основной смысл: изображение власти и материальная единица обмена в одном предмете.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Источники и модели связанного античного мира",
+      "method"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 7,
+      "culture": 7,
+      "politics": 5,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Александрия",
+      "lat": 31.2,
+      "lon": 29.92
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-08/hre_s_08_04.svg",
+      "caption": "Локальная учебная обложка: Монета между пропагандой и обращением",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://ctext.org/shiji",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_08_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Chinese Text Project: Shiji",
+      "url": "https://ctext.org/shiji",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_08"
+  },
+  {
+    "id": "HRE_S_08_05",
+    "type": "MAP",
+    "title": "Карта зоны влияния вместо современной границы",
+    "original": "Zone-of-influence map",
+    "subtitle": "подвижное пространство договоров, гарнизонов и местных властей",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – III век н. э.",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Карта зоны влияния вместо современной границы — подвижное пространство договоров, гарнизонов и местных властей.",
+    "importance": "Карточка раскрывает главу «Источники и модели связанного античного мира» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – III век н. э..",
+      "Основной смысл: подвижное пространство договоров, гарнизонов и местных властей.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Источники и модели связанного античного мира",
+      "map"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 3,
+      "culture": 8,
+      "politics": 6,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мерв",
+      "lat": 37.66,
+      "lon": 62.17
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-08/hre_s_08_05.svg",
+      "caption": "Локальная учебная обложка: Карта зоны влияния вместо современной границы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://ctext.org/shiji",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_08_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Chinese Text Project: Shiji",
+      "url": "https://ctext.org/shiji",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_08"
+  },
+  {
+    "id": "HRE_S_08_06",
+    "type": "METHOD",
+    "title": "Ловушка одностороннего распространения",
+    "original": "One-way diffusion trap",
+    "subtitle": "ошибка, при которой местные общества изображаются пассивными получателями",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "современный метод",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Ловушка одностороннего распространения — ошибка, при которой местные общества изображаются пассивными получателями.",
+    "importance": "Карточка раскрывает главу «Источники и модели связанного античного мира» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: современный метод.",
+      "Основной смысл: ошибка, при которой местные общества изображаются пассивными получателями.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Источники и модели связанного античного мира",
+      "method"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 5,
+      "culture": 9,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Таксила",
+      "lat": 33.74,
+      "lon": 72.84
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-08/hre_s_08_06.svg",
+      "caption": "Локальная учебная обложка: Ловушка одностороннего распространения",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://ctext.org/shiji",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_08_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Chinese Text Project: Shiji",
+      "url": "https://ctext.org/shiji",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_08"
+  },
+  {
+    "id": "HRE_S_08_07",
+    "type": "METHOD",
+    "title": "Критерии сравнения империй",
+    "original": "Criteria for comparing empires",
+    "subtitle": "одинаковые вопросы о доходах, армии, статусах, городах и источниках",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "современный метод",
+    "rarity": "EPIC",
+    "difficulty": 11,
+    "summary": "Критерии сравнения империй — одинаковые вопросы о доходах, армии, статусах, городах и источниках.",
+    "importance": "Карточка раскрывает главу «Источники и модели связанного античного мира» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: современный метод.",
+      "Основной смысл: одинаковые вопросы о доходах, армии, статусах, городах и источниках.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Источники и модели связанного античного мира",
+      "method"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 7,
+      "culture": 5,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.9,
+      "lon": 12.5
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-08/hre_s_08_07.svg",
+      "caption": "Локальная учебная обложка: Критерии сравнения империй",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://ctext.org/shiji",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_08_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Chinese Text Project: Shiji",
+      "url": "https://ctext.org/shiji",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_08"
+  },
+  {
+    "id": "HRE_S_08_08",
+    "type": "CONCEPT",
+    "title": "Распад и институциональная преемственность",
+    "original": "Collapse and institutional continuity",
+    "subtitle": "смена династии или режима при сохранении части практик и населения",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "III век до н. э. – III век н. э.",
+    "rarity": "EPIC",
+    "difficulty": 11,
+    "summary": "Распад и институциональная преемственность — смена династии или режима при сохранении части практик и населения.",
+    "importance": "Карточка раскрывает главу «Источники и модели связанного античного мира» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век до н. э. – III век н. э..",
+      "Основной смысл: смена династии или режима при сохранении части практик и населения.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Источники и модели связанного античного мира",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 3,
+      "culture": 6,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Лоян",
+      "lat": 34.62,
+      "lon": 112.45
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-08/hre_s_08_08.svg",
+      "caption": "Локальная учебная обложка: Распад и институциональная преемственность",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://ctext.org/shiji",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_08_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Chinese Text Project: Shiji",
+      "url": "https://ctext.org/shiji",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_08"
+  },
+  {
+    "id": "HRE_S_08_09",
+    "type": "CONCEPT",
+    "title": "Связанный античный мир как проверяемая модель",
+    "original": "Connected ancient world as testable model",
+    "subtitle": "система локальных обществ и многозвенных контактов без единого центра",
+    "era": "Эллинистический и римский мир",
+    "region": "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+    "date": "323 год до н. э. – 220 год н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 11,
+    "summary": "Связанный античный мир как проверяемая модель — система локальных обществ и многозвенных контактов без единого центра.",
+    "importance": "Карточка раскрывает главу «Источники и модели связанного античного мира» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 323 год до н. э. – 220 год н. э..",
+      "Основной смысл: система локальных обществ и многозвенных контактов без единого центра.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Средиземноморье, Южная Азия, Китай и Евразийская степь",
+      "Античный мир: сравнительный экзамен",
+      "Источники и модели связанного античного мира",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 5,
+      "culture": 7,
+      "politics": 5,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Мерв",
+      "lat": 37.66,
+      "lon": 62.17
+    },
+    "image": {
+      "local": "assets/cards/hellenistic-roman-world/chapter-08/hre_s_08_09.svg",
+      "caption": "Локальная учебная обложка: Связанный античный мир как проверяемая модель",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://ctext.org/shiji",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "hre_s_08_09.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Chinese Text Project: Shiji",
+      "url": "https://ctext.org/shiji",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "HELLENISTIC_ROMAN_EXAM",
+    "chapter": "HRE_CHAPTER_08"
+  }
+]

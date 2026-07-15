@@ -1,0 +1,2598 @@
+[
+  {
+    "id": "STP_A_01_01",
+    "type": "SOURCE",
+    "title": "Костные остатки стад из степных поселений",
+    "original": "Faunal remains from steppe settlements",
+    "subtitle": "данные о составе стад, сезонах забоя и хозяйственной специализации",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Костные остатки стад из степных поселений — данные о составе стад, сезонах забоя и хозяйственной специализации.",
+    "importance": "Архивная карточка углубляет главу «Евразийская степь как историческое пространство» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Основной смысл: данные о составе стад, сезонах забоя и хозяйственной специализации.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Евразийская степь как историческое пространство",
+      "source"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Южный Урал",
+      "lat": 51.2,
+      "lon": 55.1
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-01/stp_a_01_01.svg",
+      "caption": "Локальная учебная обложка: Костные остатки стад из степных поселений",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/nomadic-art-of-the-eastern-eurasian-steppes-the-eugene-v-thaw-and-other-notable-new-york-collection",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_01_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Nomadic Art of the Eastern Eurasian Steppes",
+      "url": "https://www.metmuseum.org/met-publications/nomadic-art-of-the-eastern-eurasian-steppes-the-eugene-v-thaw-and-other-notable-new-york-collection",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_01"
+  },
+  {
+    "id": "STP_A_01_02",
+    "type": "ARTIFACT",
+    "title": "Следы уздечных наборов раннего железного века",
+    "original": "Early Iron Age bridle sets",
+    "subtitle": "детали конского снаряжения и изменение практик верховой езды",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "VIII–V века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Следы уздечных наборов раннего железного века — детали конского снаряжения и изменение практик верховой езды.",
+    "importance": "Архивная карточка углубляет главу «Евразийская степь как историческое пространство» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–V века до н. э..",
+      "Основной смысл: детали конского снаряжения и изменение практик верховой езды.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Евразийская степь как историческое пространство",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 6,
+      "culture": 9,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Алтай",
+      "lat": 49.5,
+      "lon": 87.0
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-01/stp_a_01_02.svg",
+      "caption": "Локальная учебная обложка: Следы уздечных наборов раннего железного века",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/nomadic-art-of-the-eastern-eurasian-steppes-the-eugene-v-thaw-and-other-notable-new-york-collection",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_01_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Nomadic Art of the Eastern Eurasian Steppes",
+      "url": "https://www.metmuseum.org/met-publications/nomadic-art-of-the-eastern-eurasian-steppes-the-eugene-v-thaw-and-other-notable-new-york-collection",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_01"
+  },
+  {
+    "id": "STP_A_01_03",
+    "type": "METHOD",
+    "title": "Пыльцевые и почвенные данные степных пастбищ",
+    "original": "Pollen and soil data of steppe pastures",
+    "subtitle": "экологические свидетельства древней растительности и нагрузки на ландшафт",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "современная реконструкция",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Пыльцевые и почвенные данные степных пастбищ — экологические свидетельства древней растительности и нагрузки на ландшафт.",
+    "importance": "Архивная карточка углубляет главу «Евразийская степь как историческое пространство» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: современная реконструкция.",
+      "Основной смысл: экологические свидетельства древней растительности и нагрузки на ландшафт.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Евразийская степь как историческое пространство",
+      "method"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Евразийская степь",
+      "lat": 47.0,
+      "lon": 70.0
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-01/stp_a_01_03.svg",
+      "caption": "Локальная учебная обложка: Пыльцевые и почвенные данные степных пастбищ",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/nomadic-art-of-the-eastern-eurasian-steppes-the-eugene-v-thaw-and-other-notable-new-york-collection",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_01_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Nomadic Art of the Eastern Eurasian Steppes",
+      "url": "https://www.metmuseum.org/met-publications/nomadic-art-of-the-eastern-eurasian-steppes-the-eugene-v-thaw-and-other-notable-new-york-collection",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_01"
+  },
+  {
+    "id": "STP_A_01_04",
+    "type": "METHOD",
+    "title": "Проблема ярлыка «кочевники»",
+    "original": "Problem of the nomad label",
+    "subtitle": "критика слишком общего понятия для разных способов жизни",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "современная историография",
+    "rarity": "LEGENDARY",
+    "difficulty": 10,
+    "summary": "Проблема ярлыка «кочевники» — критика слишком общего понятия для разных способов жизни.",
+    "importance": "Архивная карточка углубляет главу «Евразийская степь как историческое пространство» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Основной смысл: критика слишком общего понятия для разных способов жизни.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Евразийская степь как историческое пространство",
+      "method"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 7,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Евразийская степь",
+      "lat": 47.0,
+      "lon": 70.0
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-01/stp_a_01_04.svg",
+      "caption": "Локальная учебная обложка: Проблема ярлыка «кочевники»",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/nomadic-art-of-the-eastern-eurasian-steppes-the-eugene-v-thaw-and-other-notable-new-york-collection",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_01_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Nomadic Art of the Eastern Eurasian Steppes",
+      "url": "https://www.metmuseum.org/met-publications/nomadic-art-of-the-eastern-eurasian-steppes-the-eugene-v-thaw-and-other-notable-new-york-collection",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_01"
+  },
+  {
+    "id": "STP_A_02_01",
+    "type": "TEXT",
+    "title": "Рассказ Геродота о скифах",
+    "original": "Herodotus on the Scythians",
+    "subtitle": "внешнее греческое описание обычаев, географии и похода Дария",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "V век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Рассказ Геродота о скифах — внешнее греческое описание обычаев, географии и похода Дария.",
+    "importance": "Архивная карточка углубляет главу «Скифы Причерноморья» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: V век до н. э..",
+      "Основной смысл: внешнее греческое описание обычаев, географии и похода Дария.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Скифы Причерноморья",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Причерноморская степь",
+      "lat": 47.0,
+      "lon": 34.0
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-02/stp_a_02_01.svg",
+      "caption": "Локальная учебная обложка: Рассказ Геродота о скифах",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/blog/introducing-scythians",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_02_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Introducing the Scythians",
+      "url": "https://www.britishmuseum.org/blog/introducing-scythians",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_02"
+  },
+  {
+    "id": "STP_A_02_02",
+    "type": "ARTIFACT",
+    "title": "Золотая пектораль из Толстой Могилы",
+    "original": "Tolstaya Mogila pectoral",
+    "subtitle": "сложное золотое украшение из элитного погребения",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "IV век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Золотая пектораль из Толстой Могилы — сложное золотое украшение из элитного погребения.",
+    "importance": "Архивная карточка углубляет главу «Скифы Причерноморья» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IV век до н. э..",
+      "Основной смысл: сложное золотое украшение из элитного погребения.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Скифы Причерноморья",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 7,
+      "culture": 6,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Среднее Поднепровье",
+      "lat": 47.5,
+      "lon": 33.0
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-02/stp_a_02_02.svg",
+      "caption": "Локальная учебная обложка: Золотая пектораль из Толстой Могилы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/blog/introducing-scythians",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_02_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Introducing the Scythians",
+      "url": "https://www.britishmuseum.org/blog/introducing-scythians",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_02"
+  },
+  {
+    "id": "STP_A_02_03",
+    "type": "ARTIFACT",
+    "title": "Амфоры из степных курганов",
+    "original": "Amphorae from steppe kurgans",
+    "subtitle": "сосуды, показывающие обмен с греческими центрами",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "V–III века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Амфоры из степных курганов — сосуды, показывающие обмен с греческими центрами.",
+    "importance": "Архивная карточка углубляет главу «Скифы Причерноморья» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: V–III века до н. э..",
+      "Основной смысл: сосуды, показывающие обмен с греческими центрами.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Скифы Причерноморья",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 8,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Крым",
+      "lat": 45.2,
+      "lon": 34.2
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-02/stp_a_02_03.svg",
+      "caption": "Локальная учебная обложка: Амфоры из степных курганов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/blog/introducing-scythians",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_02_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Introducing the Scythians",
+      "url": "https://www.britishmuseum.org/blog/introducing-scythians",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_02"
+  },
+  {
+    "id": "STP_A_02_04",
+    "type": "METHOD",
+    "title": "Спор о границах Скифии",
+    "original": "Debate over Scythia boundaries",
+    "subtitle": "различие между картой Геродота, археологическими культурами и политическими зонами",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "современная историография",
+    "rarity": "LEGENDARY",
+    "difficulty": 10,
+    "summary": "Спор о границах Скифии — различие между картой Геродота, археологическими культурами и политическими зонами.",
+    "importance": "Архивная карточка углубляет главу «Скифы Причерноморья» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Основной смысл: различие между картой Геродота, археологическими культурами и политическими зонами.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Скифы Причерноморья",
+      "method"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 8,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Причерноморская степь",
+      "lat": 47.0,
+      "lon": 34.0
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-02/stp_a_02_04.svg",
+      "caption": "Локальная учебная обложка: Спор о границах Скифии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/blog/introducing-scythians",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_02_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Introducing the Scythians",
+      "url": "https://www.britishmuseum.org/blog/introducing-scythians",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_02"
+  },
+  {
+    "id": "STP_A_03_01",
+    "type": "ART",
+    "title": "Делегации саков на рельефах Персеполя",
+    "original": "Saka delegations at Persepolis",
+    "subtitle": "имперское изображение подданных и даров",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "V век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Делегации саков на рельефах Персеполя — имперское изображение подданных и даров.",
+    "importance": "Архивная карточка углубляет главу «Саки и общества Центральной Азии» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: V век до н. э..",
+      "Основной смысл: имперское изображение подданных и даров.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Саки и общества Центральной Азии",
+      "art"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 6,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Самарканд",
+      "lat": 39.65,
+      "lon": 66.97
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-03/stp_a_03_01.svg",
+      "caption": "Локальная учебная обложка: Делегации саков на рельефах Персеполя",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/nomadic-art-of-the-eastern-eurasian-steppes-the-eugene-v-thaw-and-other-notable-new-york-collection",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_03_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Nomadic Art of the Eastern Eurasian Steppes",
+      "url": "https://www.metmuseum.org/met-publications/nomadic-art-of-the-eastern-eurasian-steppes-the-eugene-v-thaw-and-other-notable-new-york-collection",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_03"
+  },
+  {
+    "id": "STP_A_03_02",
+    "type": "ARTIFACT",
+    "title": "Серебряная чаша из Иссыка",
+    "original": "Issyk silver bowl",
+    "subtitle": "сосуд с короткой спорной надписью",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "IV–III века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Серебряная чаша из Иссыка — сосуд с короткой спорной надписью.",
+    "importance": "Архивная карточка углубляет главу «Саки и общества Центральной Азии» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IV–III века до н. э..",
+      "Основной смысл: сосуд с короткой спорной надписью.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Саки и общества Центральной Азии",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 8,
+      "culture": 7,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Иссык",
+      "lat": 43.39,
+      "lon": 77.45
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-03/stp_a_03_02.svg",
+      "caption": "Локальная учебная обложка: Серебряная чаша из Иссыка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/nomadic-art-of-the-eastern-eurasian-steppes-the-eugene-v-thaw-and-other-notable-new-york-collection",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_03_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Nomadic Art of the Eastern Eurasian Steppes",
+      "url": "https://www.metmuseum.org/met-publications/nomadic-art-of-the-eastern-eurasian-steppes-the-eugene-v-thaw-and-other-notable-new-york-collection",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_03"
+  },
+  {
+    "id": "STP_A_03_03",
+    "type": "ARTIFACT",
+    "title": "Оружие из курганов Жетысу",
+    "original": "Weapons from Zhetysu kurgans",
+    "subtitle": "наборы стрел, кинжалов и деталей конского снаряжения",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "VI–III века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Оружие из курганов Жетысу — наборы стрел, кинжалов и деталей конского снаряжения.",
+    "importance": "Архивная карточка углубляет главу «Саки и общества Центральной Азии» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VI–III века до н. э..",
+      "Основной смысл: наборы стрел, кинжалов и деталей конского снаряжения.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Саки и общества Центральной Азии",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 3,
+      "culture": 8,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Жетысу",
+      "lat": 44.8,
+      "lon": 76.0
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-03/stp_a_03_03.svg",
+      "caption": "Локальная учебная обложка: Оружие из курганов Жетысу",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/nomadic-art-of-the-eastern-eurasian-steppes-the-eugene-v-thaw-and-other-notable-new-york-collection",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_03_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Nomadic Art of the Eastern Eurasian Steppes",
+      "url": "https://www.metmuseum.org/met-publications/nomadic-art-of-the-eastern-eurasian-steppes-the-eugene-v-thaw-and-other-notable-new-york-collection",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_03"
+  },
+  {
+    "id": "STP_A_03_04",
+    "type": "METHOD",
+    "title": "Проблема единой сакской культуры",
+    "original": "Problem of a unified Saka culture",
+    "subtitle": "различие между этнонимом источников и археологическими комплексами",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "современная историография",
+    "rarity": "LEGENDARY",
+    "difficulty": 10,
+    "summary": "Проблема единой сакской культуры — различие между этнонимом источников и археологическими комплексами.",
+    "importance": "Архивная карточка углубляет главу «Саки и общества Центральной Азии» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Основной смысл: различие между этнонимом источников и археологическими комплексами.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Саки и общества Центральной Азии",
+      "method"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 5,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Жетысу",
+      "lat": 44.8,
+      "lon": 76.0
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-03/stp_a_03_04.svg",
+      "caption": "Локальная учебная обложка: Проблема единой сакской культуры",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/nomadic-art-of-the-eastern-eurasian-steppes-the-eugene-v-thaw-and-other-notable-new-york-collection",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_03_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Nomadic Art of the Eastern Eurasian Steppes",
+      "url": "https://www.metmuseum.org/met-publications/nomadic-art-of-the-eastern-eurasian-steppes-the-eugene-v-thaw-and-other-notable-new-york-collection",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_03"
+  },
+  {
+    "id": "STP_A_04_01",
+    "type": "ARTIFACT",
+    "title": "Пазырыкский ворсовый ковёр",
+    "original": "Pazyryk pile carpet",
+    "subtitle": "один из ранних сохранившихся ворсовых ковров",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "V–IV века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Пазырыкский ворсовый ковёр — один из ранних сохранившихся ворсовых ковров.",
+    "importance": "Архивная карточка углубляет главу «Алтай, Пазырык и замёрзшие курганы» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: V–IV века до н. э..",
+      "Основной смысл: один из ранних сохранившихся ворсовых ковров.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Алтай, Пазырык и замёрзшие курганы",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 7,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Пазырык",
+      "lat": 50.75,
+      "lon": 88.07
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-04/stp_a_04_01.svg",
+      "caption": "Локальная учебная обложка: Пазырыкский ворсовый ковёр",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/blog/introducing-scythians",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Introducing the Scythians",
+      "url": "https://www.britishmuseum.org/blog/introducing-scythians",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_04"
+  },
+  {
+    "id": "STP_A_04_02",
+    "type": "ARTIFACT",
+    "title": "Деревянный саркофаг из Алтая",
+    "original": "Altai wooden coffin",
+    "subtitle": "резная погребальная конструкция из мерзлотного кургана",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "V–III века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Деревянный саркофаг из Алтая — резная погребальная конструкция из мерзлотного кургана.",
+    "importance": "Архивная карточка углубляет главу «Алтай, Пазырык и замёрзшие курганы» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: V–III века до н. э..",
+      "Основной смысл: резная погребальная конструкция из мерзлотного кургана.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Алтай, Пазырык и замёрзшие курганы",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 3,
+      "culture": 8,
+      "politics": 5,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Алтай",
+      "lat": 49.5,
+      "lon": 87.0
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-04/stp_a_04_02.svg",
+      "caption": "Локальная учебная обложка: Деревянный саркофаг из Алтая",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/blog/introducing-scythians",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Introducing the Scythians",
+      "url": "https://www.britishmuseum.org/blog/introducing-scythians",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_04"
+  },
+  {
+    "id": "STP_A_04_03",
+    "type": "SOURCE",
+    "title": "Мумия из плато Укок",
+    "original": "Ukok Plateau mummy",
+    "subtitle": "человеческие останки с одеждой и татуировками",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "V–III века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Мумия из плато Укок — человеческие останки с одеждой и татуировками.",
+    "importance": "Архивная карточка углубляет главу «Алтай, Пазырык и замёрзшие курганы» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: V–III века до н. э..",
+      "Основной смысл: человеческие останки с одеждой и татуировками.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Алтай, Пазырык и замёрзшие курганы",
+      "source"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 4,
+      "culture": 9,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Алтай",
+      "lat": 49.5,
+      "lon": 87.0
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-04/stp_a_04_03.svg",
+      "caption": "Локальная учебная обложка: Мумия из плато Укок",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/blog/introducing-scythians",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Introducing the Scythians",
+      "url": "https://www.britishmuseum.org/blog/introducing-scythians",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_04"
+  },
+  {
+    "id": "STP_A_04_04",
+    "type": "METHOD",
+    "title": "Этика исследования замёрзших погребений",
+    "original": "Ethics of frozen burial research",
+    "subtitle": "спор о хранении, показе и возвращении человеческих останков",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "современная практика",
+    "rarity": "MYTHIC",
+    "difficulty": 10,
+    "summary": "Этика исследования замёрзших погребений — спор о хранении, показе и возвращении человеческих останков.",
+    "importance": "Архивная карточка углубляет главу «Алтай, Пазырык и замёрзшие курганы» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: современная практика.",
+      "Основной смысл: спор о хранении, показе и возвращении человеческих останков.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Алтай, Пазырык и замёрзшие курганы",
+      "method"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Алтай",
+      "lat": 49.5,
+      "lon": 87.0
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-04/stp_a_04_04.svg",
+      "caption": "Локальная учебная обложка: Этика исследования замёрзших погребений",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/blog/introducing-scythians",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_04_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Introducing the Scythians",
+      "url": "https://www.britishmuseum.org/blog/introducing-scythians",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_04"
+  },
+  {
+    "id": "STP_A_05_01",
+    "type": "ARTIFACT",
+    "title": "Золотые олени Филипповки",
+    "original": "Golden deer from Filippovka",
+    "subtitle": "набор крупных золотых и серебряных фигур из курганов",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "IV век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Золотые олени Филипповки — набор крупных золотых и серебряных фигур из курганов.",
+    "importance": "Архивная карточка углубляет главу «Сарматы и западная степь» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IV век до н. э..",
+      "Основной смысл: набор крупных золотых и серебряных фигур из курганов.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Сарматы и западная степь",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 8,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Филипповка",
+      "lat": 51.0,
+      "lon": 54.5
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-05/stp_a_05_01.svg",
+      "caption": "Локальная учебная обложка: Золотые олени Филипповки",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/the-golden-deer-of-eurasia-perspectives-on-the-steppe-nomads-of-the-ancient-world",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Golden Deer of Eurasia",
+      "url": "https://www.metmuseum.org/met-publications/the-golden-deer-of-eurasia-perspectives-on-the-steppe-nomads-of-the-ancient-world",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_05"
+  },
+  {
+    "id": "STP_A_05_02",
+    "type": "ARTIFACT",
+    "title": "Сарматские мечи с кольцевым навершием",
+    "original": "Sarmatian ring-pommel swords",
+    "subtitle": "распространённый тип длинного клинкового оружия",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "I век до н. э. – II век н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Сарматские мечи с кольцевым навершием — распространённый тип длинного клинкового оружия.",
+    "importance": "Архивная карточка углубляет главу «Сарматы и западная степь» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: I век до н. э. – II век н. э..",
+      "Основной смысл: распространённый тип длинного клинкового оружия.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Сарматы и западная степь",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 4,
+      "culture": 9,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Нижняя Волга",
+      "lat": 48.7,
+      "lon": 47.5
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-05/stp_a_05_02.svg",
+      "caption": "Локальная учебная обложка: Сарматские мечи с кольцевым навершием",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/the-golden-deer-of-eurasia-perspectives-on-the-steppe-nomads-of-the-ancient-world",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Golden Deer of Eurasia",
+      "url": "https://www.metmuseum.org/met-publications/the-golden-deer-of-eurasia-perspectives-on-the-steppe-nomads-of-the-ancient-world",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_05"
+  },
+  {
+    "id": "STP_A_05_03",
+    "type": "TEXT",
+    "title": "Римские сообщения об аланах",
+    "original": "Roman accounts of the Alans",
+    "subtitle": "внешние описания войн и перемещений аланских групп",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "I–III века н. э.",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Римские сообщения об аланах — внешние описания войн и перемещений аланских групп.",
+    "importance": "Архивная карточка углубляет главу «Сарматы и западная степь» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: I–III века н. э..",
+      "Основной смысл: внешние описания войн и перемещений аланских групп.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Сарматы и западная степь",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 5,
+      "culture": 6,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Нижний Дон",
+      "lat": 48.3,
+      "lon": 41.0
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-05/stp_a_05_03.svg",
+      "caption": "Локальная учебная обложка: Римские сообщения об аланах",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/the-golden-deer-of-eurasia-perspectives-on-the-steppe-nomads-of-the-ancient-world",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Golden Deer of Eurasia",
+      "url": "https://www.metmuseum.org/met-publications/the-golden-deer-of-eurasia-perspectives-on-the-steppe-nomads-of-the-ancient-world",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_05"
+  },
+  {
+    "id": "STP_A_05_04",
+    "type": "METHOD",
+    "title": "Проблема сарматских этнонимов",
+    "original": "Problem of Sarmatian ethnonyms",
+    "subtitle": "несовпадение названий авторов и археологических групп",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "современная историография",
+    "rarity": "LEGENDARY",
+    "difficulty": 10,
+    "summary": "Проблема сарматских этнонимов — несовпадение названий авторов и археологических групп.",
+    "importance": "Архивная карточка углубляет главу «Сарматы и западная степь» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Основной смысл: несовпадение названий авторов и археологических групп.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Сарматы и западная степь",
+      "method"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 7,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Южный Урал",
+      "lat": 51.2,
+      "lon": 55.1
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-05/stp_a_05_04.svg",
+      "caption": "Локальная учебная обложка: Проблема сарматских этнонимов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/the-golden-deer-of-eurasia-perspectives-on-the-steppe-nomads-of-the-ancient-world",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Golden Deer of Eurasia",
+      "url": "https://www.metmuseum.org/met-publications/the-golden-deer-of-eurasia-perspectives-on-the-steppe-nomads-of-the-ancient-world",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_05"
+  },
+  {
+    "id": "STP_A_06_01",
+    "type": "TEXT",
+    "title": "Глава о сюнну в «Ши цзи»",
+    "original": "Shiji chapter on the Xiongnu",
+    "subtitle": "ханьское историческое описание происхождения и политики сюнну",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "I век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Глава о сюнну в «Ши цзи» — ханьское историческое описание происхождения и политики сюнну.",
+    "importance": "Архивная карточка углубляет главу «Сюнну как степная держава» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: I век до н. э..",
+      "Основной смысл: ханьское историческое описание происхождения и политики сюнну.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Сюнну как степная держава",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Монгольская степь",
+      "lat": 47.0,
+      "lon": 104.0
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-06/stp_a_06_01.svg",
+      "caption": "Локальная учебная обложка: Глава о сюнну в «Ши цзи»",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://ctext.org/shiji",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Chinese Text Project: Shiji",
+      "url": "https://ctext.org/shiji",
+      "type": "primary-source"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_06"
+  },
+  {
+    "id": "STP_A_06_02",
+    "type": "SITE",
+    "title": "Ноин-Улинские элитные курганы",
+    "original": "Noin-Ula elite tombs",
+    "subtitle": "погребения с текстилем, деревом и импортными вещами",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "I век до н. э. – I век н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Ноин-Улинские элитные курганы — погребения с текстилем, деревом и импортными вещами.",
+    "importance": "Архивная карточка углубляет главу «Сюнну как степная держава» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: I век до н. э. – I век н. э..",
+      "Основной смысл: погребения с текстилем, деревом и импортными вещами.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Сюнну как степная держава",
+      "site"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 5,
+      "culture": 6,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Ноин-Ула",
+      "lat": 48.2,
+      "lon": 106.5
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-06/stp_a_06_02.svg",
+      "caption": "Локальная учебная обложка: Ноин-Улинские элитные курганы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://ctext.org/shiji",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Chinese Text Project: Shiji",
+      "url": "https://ctext.org/shiji",
+      "type": "primary-source"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_06"
+  },
+  {
+    "id": "STP_A_06_03",
+    "type": "ARTIFACT",
+    "title": "Китайские шёлка из монгольских погребений",
+    "original": "Chinese silks from Mongolian tombs",
+    "subtitle": "ткани, попавшие в степь через дипломатию и обмен",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "I век до н. э. – I век н. э.",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Китайские шёлка из монгольских погребений — ткани, попавшие в степь через дипломатию и обмен.",
+    "importance": "Архивная карточка углубляет главу «Сюнну как степная держава» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: I век до н. э. – I век н. э..",
+      "Основной смысл: ткани, попавшие в степь через дипломатию и обмен.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Сюнну как степная держава",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ноин-Ула",
+      "lat": 48.2,
+      "lon": 106.5
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-06/stp_a_06_03.svg",
+      "caption": "Локальная учебная обложка: Китайские шёлка из монгольских погребений",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://ctext.org/shiji",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Chinese Text Project: Shiji",
+      "url": "https://ctext.org/shiji",
+      "type": "primary-source"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_06"
+  },
+  {
+    "id": "STP_A_06_04",
+    "type": "METHOD",
+    "title": "Сюнну вне ханьской оптики",
+    "original": "Xiongnu beyond Han perspective",
+    "subtitle": "попытка соединить китайские тексты с археологией Монголии",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "современная историография",
+    "rarity": "LEGENDARY",
+    "difficulty": 10,
+    "summary": "Сюнну вне ханьской оптики — попытка соединить китайские тексты с археологией Монголии.",
+    "importance": "Архивная карточка углубляет главу «Сюнну как степная держава» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Основной смысл: попытка соединить китайские тексты с археологией Монголии.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Сюнну как степная держава",
+      "method"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 8,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Монгольская степь",
+      "lat": 47.0,
+      "lon": 104.0
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-06/stp_a_06_04.svg",
+      "caption": "Локальная учебная обложка: Сюнну вне ханьской оптики",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://ctext.org/shiji",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Chinese Text Project: Shiji",
+      "url": "https://ctext.org/shiji",
+      "type": "primary-source"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_06"
+  },
+  {
+    "id": "STP_A_07_01",
+    "type": "TEXT",
+    "title": "Деревянные документы Цзюйяня",
+    "original": "Juyan wooden documents",
+    "subtitle": "повседневный учёт караулов, пайков и переписки",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "I век до н. э. – I век н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Деревянные документы Цзюйяня — повседневный учёт караулов, пайков и переписки.",
+    "importance": "Архивная карточка углубляет главу «Хань и сюнну: война, договоры и пограничные рынки» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: I век до н. э. – I век н. э..",
+      "Основной смысл: повседневный учёт караулов, пайков и переписки.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Хань и сюнну: война, договоры и пограничные рынки",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "коридор Хэси",
+      "lat": 38.3,
+      "lon": 100.5
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-07/stp_a_07_01.svg",
+      "caption": "Локальная учебная обложка: Деревянные документы Цзюйяня",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://ctext.org/han-shu",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Chinese Text Project: Han Shu",
+      "url": "https://ctext.org/han-shu",
+      "type": "primary-source"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_07"
+  },
+  {
+    "id": "STP_A_07_02",
+    "type": "ARCHITECTURE",
+    "title": "Сигнальные башни коридора Хэси",
+    "original": "Hexi beacon towers",
+    "subtitle": "цепь визуальной связи вдоль пограничных маршрутов",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "II век до н. э. – I век н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Сигнальные башни коридора Хэси — цепь визуальной связи вдоль пограничных маршрутов.",
+    "importance": "Архивная карточка углубляет главу «Хань и сюнну: война, договоры и пограничные рынки» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: II век до н. э. – I век н. э..",
+      "Основной смысл: цепь визуальной связи вдоль пограничных маршрутов.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Хань и сюнну: война, договоры и пограничные рынки",
+      "architecture"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 6,
+      "culture": 7,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "коридор Хэси",
+      "lat": 38.3,
+      "lon": 100.5
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-07/stp_a_07_02.svg",
+      "caption": "Локальная учебная обложка: Сигнальные башни коридора Хэси",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://ctext.org/han-shu",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Chinese Text Project: Han Shu",
+      "url": "https://ctext.org/han-shu",
+      "type": "primary-source"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_07"
+  },
+  {
+    "id": "STP_A_07_03",
+    "type": "ARTIFACT",
+    "title": "Ханьские наконечники стрел из гарнизонов",
+    "original": "Han arrowheads from frontier forts",
+    "subtitle": "массовое вооружение и следы снабжения пограничных войск",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "II век до н. э. – I век н. э.",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Ханьские наконечники стрел из гарнизонов — массовое вооружение и следы снабжения пограничных войск.",
+    "importance": "Архивная карточка углубляет главу «Хань и сюнну: война, договоры и пограничные рынки» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: II век до н. э. – I век н. э..",
+      "Основной смысл: массовое вооружение и следы снабжения пограничных войск.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Хань и сюнну: война, договоры и пограничные рынки",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 8,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Дуньхуан",
+      "lat": 40.14,
+      "lon": 94.66
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-07/stp_a_07_03.svg",
+      "caption": "Локальная учебная обложка: Ханьские наконечники стрел из гарнизонов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://ctext.org/han-shu",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Chinese Text Project: Han Shu",
+      "url": "https://ctext.org/han-shu",
+      "type": "primary-source"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_07"
+  },
+  {
+    "id": "STP_A_07_04",
+    "type": "METHOD",
+    "title": "Модель границы как контактной зоны",
+    "original": "Frontier as contact zone",
+    "subtitle": "отказ от изображения границы только как линии стены",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "современная историография",
+    "rarity": "LEGENDARY",
+    "difficulty": 10,
+    "summary": "Модель границы как контактной зоны — отказ от изображения границы только как линии стены.",
+    "importance": "Архивная карточка углубляет главу «Хань и сюнну: война, договоры и пограничные рынки» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Основной смысл: отказ от изображения границы только как линии стены.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Хань и сюнну: война, договоры и пограничные рынки",
+      "method"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 9,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ордос",
+      "lat": 39.0,
+      "lon": 109.0
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-07/stp_a_07_04.svg",
+      "caption": "Локальная учебная обложка: Модель границы как контактной зоны",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://ctext.org/han-shu",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_07_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Chinese Text Project: Han Shu",
+      "url": "https://ctext.org/han-shu",
+      "type": "primary-source"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_07"
+  },
+  {
+    "id": "STP_A_08_01",
+    "type": "ARTIFACT",
+    "title": "Монеты Евкратида из Бактрии",
+    "original": "Coins of Eucratides",
+    "subtitle": "царская чеканка с греческими легендами и портретом",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "II век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Монеты Евкратида из Бактрии — царская чеканка с греческими легендами и портретом.",
+    "importance": "Архивная карточка углубляет главу «Государства и города Центральной Азии» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: II век до н. э..",
+      "Основной смысл: царская чеканка с греческими легендами и портретом.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Государства и города Центральной Азии",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 7,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Бактрия",
+      "lat": 36.75,
+      "lon": 66.9
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-08/stp_a_08_01.svg",
+      "caption": "Локальная учебная обложка: Монеты Евкратида из Бактрии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/afghanistan-forging-civilizations-along-the-silk-road",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Afghanistan—Forging Civilizations along the Silk Road",
+      "url": "https://www.metmuseum.org/met-publications/afghanistan-forging-civilizations-along-the-silk-road",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_08"
+  },
+  {
+    "id": "STP_A_08_02",
+    "type": "ARTIFACT",
+    "title": "Золото Тилля-тепе",
+    "original": "Tillya Tepe gold",
+    "subtitle": "погребальные вещи со смешанными художественными традициями",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "I век до н. э. – I век н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Золото Тилля-тепе — погребальные вещи со смешанными художественными традициями.",
+    "importance": "Архивная карточка углубляет главу «Государства и города Центральной Азии» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: I век до н. э. – I век н. э..",
+      "Основной смысл: погребальные вещи со смешанными художественными традициями.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Государства и города Центральной Азии",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 7,
+      "culture": 8,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Тилля-тепе",
+      "lat": 36.7,
+      "lon": 66.9
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-08/stp_a_08_02.svg",
+      "caption": "Локальная учебная обложка: Золото Тилля-тепе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/afghanistan-forging-civilizations-along-the-silk-road",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Afghanistan—Forging Civilizations along the Silk Road",
+      "url": "https://www.metmuseum.org/met-publications/afghanistan-forging-civilizations-along-the-silk-road",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_08"
+  },
+  {
+    "id": "STP_A_08_03",
+    "type": "TEXT",
+    "title": "Китайские сведения о Давани и Кангюе",
+    "original": "Chinese accounts of Dayuan and Kangju",
+    "subtitle": "внешние описания расстояний, товаров и политической силы",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "II–I века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Китайские сведения о Давани и Кангюе — внешние описания расстояний, товаров и политической силы.",
+    "importance": "Архивная карточка углубляет главу «Государства и города Центральной Азии» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: II–I века до н. э..",
+      "Основной смысл: внешние описания расстояний, товаров и политической силы.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Государства и города Центральной Азии",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 8,
+      "culture": 9,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ферганская долина",
+      "lat": 40.5,
+      "lon": 71.5
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-08/stp_a_08_03.svg",
+      "caption": "Локальная учебная обложка: Китайские сведения о Давани и Кангюе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/afghanistan-forging-civilizations-along-the-silk-road",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Afghanistan—Forging Civilizations along the Silk Road",
+      "url": "https://www.metmuseum.org/met-publications/afghanistan-forging-civilizations-along-the-silk-road",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_08"
+  },
+  {
+    "id": "STP_A_08_04",
+    "type": "METHOD",
+    "title": "Несовпадение древних географических названий",
+    "original": "Mismatch of ancient geographical names",
+    "subtitle": "осторожное сопоставление китайских, греческих и археологических данных",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "современная историография",
+    "rarity": "MYTHIC",
+    "difficulty": 10,
+    "summary": "Несовпадение древних географических названий — осторожное сопоставление китайских, греческих и археологических данных.",
+    "importance": "Архивная карточка углубляет главу «Государства и города Центральной Азии» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Основной смысл: осторожное сопоставление китайских, греческих и археологических данных.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Государства и города Центральной Азии",
+      "method"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 6,
+      "politics": 5,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Самарканд",
+      "lat": 39.65,
+      "lon": 66.97
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-08/stp_a_08_04.svg",
+      "caption": "Локальная учебная обложка: Несовпадение древних географических названий",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/afghanistan-forging-civilizations-along-the-silk-road",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_08_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Afghanistan—Forging Civilizations along the Silk Road",
+      "url": "https://www.metmuseum.org/met-publications/afghanistan-forging-civilizations-along-the-silk-road",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_08"
+  },
+  {
+    "id": "STP_A_09_01",
+    "type": "SITE",
+    "title": "Почтовая станция Сюаньцюань",
+    "original": "Xuanquan posthouse",
+    "subtitle": "документы и остатки станции на пути через Хэси",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "II–I века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Почтовая станция Сюаньцюань — документы и остатки станции на пути через Хэси.",
+    "importance": "Архивная карточка углубляет главу «Коридор Хэси и Таримский бассейн» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: II–I века до н. э..",
+      "Основной смысл: документы и остатки станции на пути через Хэси.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Коридор Хэси и Таримский бассейн",
+      "site"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 8,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "коридор Хэси",
+      "lat": 38.3,
+      "lon": 100.5
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-09/stp_a_09_01.svg",
+      "caption": "Локальная учебная обложка: Почтовая станция Сюаньцюань",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1442/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_09_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Silk Roads—Chang’an-Tianshan Corridor",
+      "url": "https://whc.unesco.org/en/list/1442/",
+      "type": "institutional"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_09"
+  },
+  {
+    "id": "STP_A_09_02",
+    "type": "TEXT",
+    "title": "Нияские документы Таримского бассейна",
+    "original": "Niya documents",
+    "subtitle": "позднейшие административные тексты о жизни оазисного государства",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "III–IV века н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Нияские документы Таримского бассейна — позднейшие административные тексты о жизни оазисного государства.",
+    "importance": "Архивная карточка углубляет главу «Коридор Хэси и Таримский бассейн» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: III–IV века н. э..",
+      "Основной смысл: позднейшие административные тексты о жизни оазисного государства.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Коридор Хэси и Таримский бассейн",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 8,
+      "culture": 9,
+      "politics": 5,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Хотан",
+      "lat": 37.11,
+      "lon": 79.92
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-09/stp_a_09_02.svg",
+      "caption": "Локальная учебная обложка: Нияские документы Таримского бассейна",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1442/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_09_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Silk Roads—Chang’an-Tianshan Corridor",
+      "url": "https://whc.unesco.org/en/list/1442/",
+      "type": "institutional"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_09"
+  },
+  {
+    "id": "STP_A_09_03",
+    "type": "ARCHITECTURE",
+    "title": "Башни Кизилгаха",
+    "original": "Kizilgaha beacon towers",
+    "subtitle": "сигнальные сооружения северной ветви Тарима",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "древность",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Башни Кизилгаха — сигнальные сооружения северной ветви Тарима.",
+    "importance": "Архивная карточка углубляет главу «Коридор Хэси и Таримский бассейн» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: древность.",
+      "Основной смысл: сигнальные сооружения северной ветви Тарима.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Коридор Хэси и Таримский бассейн",
+      "architecture"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 3,
+      "culture": 6,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Турфан",
+      "lat": 42.95,
+      "lon": 89.18
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-09/stp_a_09_03.svg",
+      "caption": "Локальная учебная обложка: Башни Кизилгаха",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1442/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_09_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Silk Roads—Chang’an-Tianshan Corridor",
+      "url": "https://whc.unesco.org/en/list/1442/",
+      "type": "institutional"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_09"
+  },
+  {
+    "id": "STP_A_09_04",
+    "type": "METHOD",
+    "title": "Карта маршрутов вокруг Такла-Макана",
+    "original": "Taklamakan route map",
+    "subtitle": "учебная схема нескольких ветвей, а не одной дороги",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "современная реконструкция",
+    "rarity": "LEGENDARY",
+    "difficulty": 10,
+    "summary": "Карта маршрутов вокруг Такла-Макана — учебная схема нескольких ветвей, а не одной дороги.",
+    "importance": "Архивная карточка углубляет главу «Коридор Хэси и Таримский бассейн» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: современная реконструкция.",
+      "Основной смысл: учебная схема нескольких ветвей, а не одной дороги.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Коридор Хэси и Таримский бассейн",
+      "method"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Лоулань",
+      "lat": 40.5,
+      "lon": 89.8
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-09/stp_a_09_04.svg",
+      "caption": "Локальная учебная обложка: Карта маршрутов вокруг Такла-Макана",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1442/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_09_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Silk Roads—Chang’an-Tianshan Corridor",
+      "url": "https://whc.unesco.org/en/list/1442/",
+      "type": "institutional"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_09"
+  },
+  {
+    "id": "STP_A_10_01",
+    "type": "TEXT",
+    "title": "Пальмирская торговая надпись",
+    "original": "Palmyrene trade inscription",
+    "subtitle": "публичная фиксация купцов, пошлин или караванных заслуг",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "I–III века н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Пальмирская торговая надпись — публичная фиксация купцов, пошлин или караванных заслуг.",
+    "importance": "Архивная карточка углубляет главу «Караванные цепи и товары» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: I–III века н. э..",
+      "Основной смысл: публичная фиксация купцов, пошлин или караванных заслуг.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Караванные цепи и товары",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 9,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Пальмира",
+      "lat": 34.55,
+      "lon": 38.27
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-10/stp_a_10_01.svg",
+      "caption": "Локальная учебная обложка: Пальмирская торговая надпись",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/886/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_10_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Ancient Merv",
+      "url": "https://whc.unesco.org/en/list/886/",
+      "type": "institutional"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_10"
+  },
+  {
+    "id": "STP_A_10_02",
+    "type": "ARTIFACT",
+    "title": "Монеты из Мервского оазиса",
+    "original": "Coins from Merv oasis",
+    "subtitle": "свидетельство смены политических и денежных систем",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "III век до н. э. – III век н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Монеты из Мервского оазиса — свидетельство смены политических и денежных систем.",
+    "importance": "Архивная карточка углубляет главу «Караванные цепи и товары» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: III век до н. э. – III век н. э..",
+      "Основной смысл: свидетельство смены политических и денежных систем.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Караванные цепи и товары",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 3,
+      "culture": 6,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мерв",
+      "lat": 37.66,
+      "lon": 62.17
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-10/stp_a_10_02.svg",
+      "caption": "Локальная учебная обложка: Монеты из Мервского оазиса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/886/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_10_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Ancient Merv",
+      "url": "https://whc.unesco.org/en/list/886/",
+      "type": "institutional"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_10"
+  },
+  {
+    "id": "STP_A_10_03",
+    "type": "ARTIFACT",
+    "title": "Текстиль из Ноин-Улы как путь дара",
+    "original": "Noin-Ula textiles as gift route",
+    "subtitle": "пример перемещения ткани через дипломатическое перераспределение",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "I век до н. э. – I век н. э.",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Текстиль из Ноин-Улы как путь дара — пример перемещения ткани через дипломатическое перераспределение.",
+    "importance": "Архивная карточка углубляет главу «Караванные цепи и товары» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: I век до н. э. – I век н. э..",
+      "Основной смысл: пример перемещения ткани через дипломатическое перераспределение.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Караванные цепи и товары",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 4,
+      "culture": 7,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ноин-Ула",
+      "lat": 48.2,
+      "lon": 106.5
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-10/stp_a_10_03.svg",
+      "caption": "Локальная учебная обложка: Текстиль из Ноин-Улы как путь дара",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/886/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_10_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Ancient Merv",
+      "url": "https://whc.unesco.org/en/list/886/",
+      "type": "institutional"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_10"
+  },
+  {
+    "id": "STP_A_10_04",
+    "type": "METHOD",
+    "title": "Модель цепи посредников",
+    "original": "Chain-of-intermediaries model",
+    "subtitle": "объяснение обмена без выдуманного прямого каравана Чанъань–Рим",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "современная историография",
+    "rarity": "LEGENDARY",
+    "difficulty": 10,
+    "summary": "Модель цепи посредников — объяснение обмена без выдуманного прямого каравана Чанъань–Рим.",
+    "importance": "Архивная карточка углубляет главу «Караванные цепи и товары» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Основной смысл: объяснение обмена без выдуманного прямого каравана Чанъань–Рим.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Караванные цепи и товары",
+      "method"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Евразийская степь",
+      "lat": 47.0,
+      "lon": 70.0
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-10/stp_a_10_04.svg",
+      "caption": "Локальная учебная обложка: Модель цепи посредников",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/886/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_10_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Ancient Merv",
+      "url": "https://whc.unesco.org/en/list/886/",
+      "type": "institutional"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_10"
+  },
+  {
+    "id": "STP_A_11_01",
+    "type": "TEXT",
+    "title": "Термин Зайденштрассе XIX века",
+    "original": "Nineteenth-century Seidenstrasse term",
+    "subtitle": "новое научное название, перенесённое на древние сети",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "XIX век",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Термин Зайденштрассе XIX века — новое научное название, перенесённое на древние сети.",
+    "importance": "Архивная карточка углубляет главу «Сети обмена: идеи, технологии, болезни и миф одной дороги» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: XIX век.",
+      "Основной смысл: новое научное название, перенесённое на древние сети.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Сети обмена: идеи, технологии, болезни и миф одной дороги",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 6,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Евразийская степь",
+      "lat": 47.0,
+      "lon": 70.0
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-11/stp_a_11_01.svg",
+      "caption": "Локальная учебная обложка: Термин Зайденштрассе XIX века",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_11_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The World between Empires",
+      "url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_11"
+  },
+  {
+    "id": "STP_A_11_02",
+    "type": "ARTIFACT",
+    "title": "Смешанная иконография Тилля-тепе",
+    "original": "Mixed iconography of Tillya Tepe",
+    "subtitle": "сочетание эллинистических, иранских, индийских и степных мотивов",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "I век до н. э. – I век н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Смешанная иконография Тилля-тепе — сочетание эллинистических, иранских, индийских и степных мотивов.",
+    "importance": "Архивная карточка углубляет главу «Сети обмена: идеи, технологии, болезни и миф одной дороги» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: I век до н. э. – I век н. э..",
+      "Основной смысл: сочетание эллинистических, иранских, индийских и степных мотивов.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Сети обмена: идеи, технологии, болезни и миф одной дороги",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 4,
+      "culture": 7,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Тилля-тепе",
+      "lat": 36.7,
+      "lon": 66.9
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-11/stp_a_11_02.svg",
+      "caption": "Локальная учебная обложка: Смешанная иконография Тилля-тепе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_11_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The World between Empires",
+      "url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_11"
+  },
+  {
+    "id": "STP_A_11_03",
+    "type": "METHOD",
+    "title": "Импортная вещь без известного маршрута",
+    "original": "Imported object without known route",
+    "subtitle": "предмет доказывает дальнюю связь, но не точную цепь перевозки",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "археологический метод",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Импортная вещь без известного маршрута — предмет доказывает дальнюю связь, но не точную цепь перевозки.",
+    "importance": "Архивная карточка углубляет главу «Сети обмена: идеи, технологии, болезни и миф одной дороги» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: археологический метод.",
+      "Основной смысл: предмет доказывает дальнюю связь, но не точную цепь перевозки.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Сети обмена: идеи, технологии, болезни и миф одной дороги",
+      "method"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 5,
+      "culture": 8,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мерв",
+      "lat": 37.66,
+      "lon": 62.17
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-11/stp_a_11_03.svg",
+      "caption": "Локальная учебная обложка: Импортная вещь без известного маршрута",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_11_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The World between Empires",
+      "url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_11"
+  },
+  {
+    "id": "STP_A_11_04",
+    "type": "ARTIFACT",
+    "title": "Ранние бумажные фрагменты Хэси",
+    "original": "Early paper fragments from Hexi",
+    "subtitle": "материал административного и бытового письма",
+    "era": "Эллинистический и римский мир",
+    "region": "Евразийская степь и Центральная Азия",
+    "date": "I–II века н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 10,
+    "summary": "Ранние бумажные фрагменты Хэси — материал административного и бытового письма.",
+    "importance": "Архивная карточка углубляет главу «Сети обмена: идеи, технологии, болезни и миф одной дороги» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: I–II века н. э..",
+      "Основной смысл: материал административного и бытового письма.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Евразийская степь и Центральная Азия",
+      "архив",
+      "Сети обмена: идеи, технологии, болезни и миф одной дороги",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "коридор Хэси",
+      "lat": 38.3,
+      "lon": 100.5
+    },
+    "image": {
+      "local": "assets/cards/steppe-silk/chapter-11/stp_a_11_04.svg",
+      "caption": "Локальная учебная обложка: Ранние бумажные фрагменты Хэси",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "stp_a_11_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The World between Empires",
+      "url": "https://www.metmuseum.org/met-publications/the-world-between-empires-art-and-identity-in-the-ancient-middle-east",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "STEPPE_SILK",
+    "chapter": "STP_CHAPTER_11"
+  }
+]

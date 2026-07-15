@@ -1,0 +1,583 @@
+{
+  "campaignId": "HELLENISTIC_ROMAN_EXAM",
+  "campaigns": {
+    "HELLENISTIC_ROMAN_EXAM": {
+      "id": "HELLENISTIC_ROMAN_EXAM",
+      "title": "Античный мир: сравнительный экзамен",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "HRE_POOL_01",
+      "campaign": "HELLENISTIC_ROMAN_EXAM",
+      "title": "Одна хронология, разные календари",
+      "unlockMission": "HRE_01_02",
+      "cardIds": [
+        "HRE_A_01_01",
+        "HRE_A_01_02",
+        "HRE_A_01_03"
+      ]
+    },
+    {
+      "id": "HRE_POOL_02",
+      "campaign": "HELLENISTIC_ROMAN_EXAM",
+      "title": "Формы верховной власти",
+      "unlockMission": "HRE_02_02",
+      "cardIds": [
+        "HRE_A_02_01",
+        "HRE_A_02_02",
+        "HRE_A_02_03"
+      ]
+    },
+    {
+      "id": "HRE_POOL_03",
+      "campaign": "HELLENISTIC_ROMAN_EXAM",
+      "title": "Армии, границы и снабжение",
+      "unlockMission": "HRE_03_02",
+      "cardIds": [
+        "HRE_A_03_01",
+        "HRE_A_03_02",
+        "HRE_A_03_03"
+      ]
+    },
+    {
+      "id": "HRE_POOL_04",
+      "campaign": "HELLENISTIC_ROMAN_EXAM",
+      "title": "Города, порты и оазисы",
+      "unlockMission": "HRE_04_02",
+      "cardIds": [
+        "HRE_A_04_01",
+        "HRE_A_04_02",
+        "HRE_A_04_03"
+      ]
+    },
+    {
+      "id": "HRE_POOL_05",
+      "campaign": "HELLENISTIC_ROMAN_EXAM",
+      "title": "Налоги, дань, деньги и зерно",
+      "unlockMission": "HRE_05_02",
+      "cardIds": [
+        "HRE_A_05_01",
+        "HRE_A_05_02",
+        "HRE_A_05_03"
+      ]
+    },
+    {
+      "id": "HRE_POOL_06",
+      "campaign": "HELLENISTIC_ROMAN_EXAM",
+      "title": "Подданные, граждане и местные элиты",
+      "unlockMission": "HRE_06_02",
+      "cardIds": [
+        "HRE_A_06_01",
+        "HRE_A_06_02",
+        "HRE_A_06_03"
+      ]
+    },
+    {
+      "id": "HRE_POOL_07",
+      "campaign": "HELLENISTIC_ROMAN_EXAM",
+      "title": "Религии, тексты, искусство и перевод",
+      "unlockMission": "HRE_07_02",
+      "cardIds": [
+        "HRE_A_07_01",
+        "HRE_A_07_02",
+        "HRE_A_07_03"
+      ]
+    },
+    {
+      "id": "HRE_POOL_08",
+      "campaign": "HELLENISTIC_ROMAN_EXAM",
+      "title": "Источники и модели связанного античного мира",
+      "unlockMission": "HRE_08_02",
+      "cardIds": [
+        "HRE_A_08_01",
+        "HRE_A_08_02",
+        "HRE_A_08_03"
+      ]
+    }
+  ],
+  "acquisition": {
+    "HRE_S_01_01": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 1
+    },
+    "HRE_S_01_02": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 1
+    },
+    "HRE_S_01_03": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 1
+    },
+    "HRE_S_01_04": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 1
+    },
+    "HRE_S_01_05": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 1
+    },
+    "HRE_S_01_06": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 1
+    },
+    "HRE_S_01_07": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 1
+    },
+    "HRE_S_01_08": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 1
+    },
+    "HRE_S_01_09": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 1
+    },
+    "HRE_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_01",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_01",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_01",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_S_02_01": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 2
+    },
+    "HRE_S_02_02": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 2
+    },
+    "HRE_S_02_03": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 2
+    },
+    "HRE_S_02_04": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 2
+    },
+    "HRE_S_02_05": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 2
+    },
+    "HRE_S_02_06": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 2
+    },
+    "HRE_S_02_07": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 2
+    },
+    "HRE_S_02_08": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 2
+    },
+    "HRE_S_02_09": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 2
+    },
+    "HRE_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_02",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_02",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_02",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_S_03_01": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 3
+    },
+    "HRE_S_03_02": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 3
+    },
+    "HRE_S_03_03": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 3
+    },
+    "HRE_S_03_04": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 3
+    },
+    "HRE_S_03_05": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 3
+    },
+    "HRE_S_03_06": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 3
+    },
+    "HRE_S_03_07": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 3
+    },
+    "HRE_S_03_08": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 3
+    },
+    "HRE_S_03_09": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 3
+    },
+    "HRE_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_03",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_03",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_03",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_S_04_01": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 4
+    },
+    "HRE_S_04_02": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 4
+    },
+    "HRE_S_04_03": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 4
+    },
+    "HRE_S_04_04": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 4
+    },
+    "HRE_S_04_05": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 4
+    },
+    "HRE_S_04_06": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 4
+    },
+    "HRE_S_04_07": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 4
+    },
+    "HRE_S_04_08": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 4
+    },
+    "HRE_S_04_09": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 4
+    },
+    "HRE_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_04",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_04",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_04",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_S_05_01": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 5
+    },
+    "HRE_S_05_02": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 5
+    },
+    "HRE_S_05_03": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 5
+    },
+    "HRE_S_05_04": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 5
+    },
+    "HRE_S_05_05": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 5
+    },
+    "HRE_S_05_06": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 5
+    },
+    "HRE_S_05_07": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 5
+    },
+    "HRE_S_05_08": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 5
+    },
+    "HRE_S_05_09": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 5
+    },
+    "HRE_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_05",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_05",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_05",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_S_06_01": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 6
+    },
+    "HRE_S_06_02": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 6
+    },
+    "HRE_S_06_03": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 6
+    },
+    "HRE_S_06_04": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 6
+    },
+    "HRE_S_06_05": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 6
+    },
+    "HRE_S_06_06": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 6
+    },
+    "HRE_S_06_07": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 6
+    },
+    "HRE_S_06_08": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 6
+    },
+    "HRE_S_06_09": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 6
+    },
+    "HRE_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_06",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_06",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_06",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_S_07_01": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 7
+    },
+    "HRE_S_07_02": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 7
+    },
+    "HRE_S_07_03": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 7
+    },
+    "HRE_S_07_04": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 7
+    },
+    "HRE_S_07_05": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 7
+    },
+    "HRE_S_07_06": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 7
+    },
+    "HRE_S_07_07": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 7
+    },
+    "HRE_S_07_08": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 7
+    },
+    "HRE_S_07_09": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 7
+    },
+    "HRE_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_07",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_07",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_07",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_S_08_01": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 8
+    },
+    "HRE_S_08_02": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 8
+    },
+    "HRE_S_08_03": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 8
+    },
+    "HRE_S_08_04": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 8
+    },
+    "HRE_S_08_05": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 8
+    },
+    "HRE_S_08_06": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 8
+    },
+    "HRE_S_08_07": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 8
+    },
+    "HRE_S_08_08": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 8
+    },
+    "HRE_S_08_09": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC_ROMAN_EXAM",
+      "chapter": 8
+    },
+    "HRE_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_08",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_08",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    },
+    "HRE_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "HRE_POOL_08",
+      "campaign": "HELLENISTIC_ROMAN_EXAM"
+    }
+  }
+}

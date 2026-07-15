@@ -1,0 +1,378 @@
+{
+  "points": {
+    "XIANYANG": [
+      34.33,
+      108.71
+    ],
+    "CHANGAN": [
+      34.265,
+      108.943
+    ],
+    "WEIYANG": [
+      34.304,
+      108.857
+    ],
+    "HANGU": [
+      34.63,
+      110.92
+    ],
+    "JULU": [
+      37.22,
+      115.04
+    ],
+    "PENGCHENG": [
+      34.26,
+      117.18
+    ],
+    "GAIXIA": [
+      33.16,
+      117.89
+    ],
+    "LUOYANG": [
+      34.62,
+      112.45
+    ],
+    "MAOLING": [
+      34.34,
+      108.57
+    ],
+    "YANGLING": [
+      34.42,
+      108.93
+    ],
+    "CHANGSHA": [
+      28.228,
+      112.939
+    ],
+    "MAWANGDUI": [
+      28.195,
+      113.01
+    ],
+    "MANCHENG": [
+      39.0,
+      115.32
+    ],
+    "DUNHUANG": [
+      40.142,
+      94.662
+    ],
+    "YUMEN": [
+      40.353,
+      93.864
+    ],
+    "HEXICORRIDOR": [
+      38.3,
+      100.5
+    ],
+    "JUYAN": [
+      41.0,
+      100.0
+    ],
+    "ORDOS": [
+      39.0,
+      109.0
+    ],
+    "MOBEI": [
+      45.0,
+      110.0
+    ],
+    "FERGHANA": [
+      40.5,
+      71.5
+    ],
+    "TARIM": [
+      40.3,
+      82.7
+    ],
+    "KASHGAR": [
+      39.47,
+      75.99
+    ],
+    "KHOTAN": [
+      37.11,
+      79.92
+    ],
+    "NANYUE": [
+      23.13,
+      113.26
+    ],
+    "DIAN": [
+      24.88,
+      102.83
+    ],
+    "LELANG": [
+      39.03,
+      125.75
+    ],
+    "CHENGDU": [
+      30.66,
+      104.07
+    ],
+    "SHANDONG": [
+      36.67,
+      117.02
+    ],
+    "YELLOW_RIVER": [
+      35.0,
+      112.0
+    ],
+    "NANYANG": [
+      32.99,
+      112.53
+    ],
+    "KUNYANG": [
+      33.62,
+      113.36
+    ],
+    "HEBEI": [
+      38.0,
+      115.0
+    ],
+    "YINGCHUAN": [
+      34.0,
+      113.8
+    ],
+    "WULIANG": [
+      35.4,
+      116.25
+    ],
+    "GANSU": [
+      37.9,
+      102.64
+    ],
+    "HAN_WORLD": [
+      35.0,
+      106.0
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "HAN_S_01_01": "XIANYANG",
+    "HAN_S_01_02": "XIANYANG",
+    "HAN_S_01_03": "HAN_WORLD",
+    "HAN_S_01_04": "XIANYANG",
+    "HAN_S_01_05": "HANGU",
+    "HAN_S_01_06": "ORDOS",
+    "HAN_S_01_07": "XIANYANG",
+    "HAN_S_01_08": "CHANGAN",
+    "HAN_A_01_01": "HAN_WORLD",
+    "HAN_A_01_02": "CHANGAN",
+    "HAN_A_01_03": "CHANGAN",
+    "HAN_A_01_04": "HAN_WORLD",
+    "HAN_S_02_01": "XIANYANG",
+    "HAN_S_02_02": "HAN_WORLD",
+    "HAN_S_02_03": "JULU",
+    "HAN_S_02_04": "XIANYANG",
+    "HAN_S_02_05": "JULU",
+    "HAN_S_02_06": "PENGCHENG",
+    "HAN_S_02_07": "PENGCHENG",
+    "HAN_S_02_08": "GAIXIA",
+    "HAN_A_02_01": "XIANYANG",
+    "HAN_A_02_02": "HAN_WORLD",
+    "HAN_A_02_03": "JULU",
+    "HAN_A_02_04": "XIANYANG",
+    "HAN_S_03_01": "CHANGAN",
+    "HAN_S_03_02": "CHANGAN",
+    "HAN_S_03_03": "HAN_WORLD",
+    "HAN_S_03_04": "WEIYANG",
+    "HAN_S_03_05": "HAN_WORLD",
+    "HAN_S_03_06": "ORDOS",
+    "HAN_S_03_07": "SHANDONG",
+    "HAN_S_03_08": "CHANGAN",
+    "HAN_A_03_01": "CHANGAN",
+    "HAN_A_03_02": "CHANGAN",
+    "HAN_A_03_03": "SHANDONG",
+    "HAN_A_03_04": "CHANGAN",
+    "HAN_S_04_01": "CHANGAN",
+    "HAN_S_04_02": "CHANGAN",
+    "HAN_S_04_03": "CHANGAN",
+    "HAN_S_04_04": "YELLOW_RIVER",
+    "HAN_S_04_05": "CHANGAN",
+    "HAN_S_04_06": "SHANDONG",
+    "HAN_S_04_07": "YELLOW_RIVER",
+    "HAN_S_04_08": "YANGLING",
+    "HAN_A_04_01": "YANGLING",
+    "HAN_A_04_02": "HAN_WORLD",
+    "HAN_A_04_03": "HAN_WORLD",
+    "HAN_A_04_04": "CHANGAN",
+    "HAN_S_05_01": "CHANGAN",
+    "HAN_S_05_02": "HAN_WORLD",
+    "HAN_S_05_03": "CHANGAN",
+    "HAN_S_05_04": "HAN_WORLD",
+    "HAN_S_05_05": "CHANGAN",
+    "HAN_S_05_06": "CHANGAN",
+    "HAN_S_05_07": "CHANGAN",
+    "HAN_S_05_08": "MAOLING",
+    "HAN_A_05_01": "CHANGAN",
+    "HAN_A_05_02": "HAN_WORLD",
+    "HAN_A_05_03": "HAN_WORLD",
+    "HAN_A_05_04": "CHANGAN",
+    "HAN_S_06_01": "MOBEI",
+    "HAN_S_06_02": "TARIM",
+    "HAN_S_06_03": "ORDOS",
+    "HAN_S_06_04": "HEXICORRIDOR",
+    "HAN_S_06_05": "HEXICORRIDOR",
+    "HAN_S_06_06": "YUMEN",
+    "HAN_S_06_07": "FERGHANA",
+    "HAN_S_06_08": "DUNHUANG",
+    "HAN_A_06_01": "JUYAN",
+    "HAN_A_06_02": "DUNHUANG",
+    "HAN_A_06_03": "DUNHUANG",
+    "HAN_A_06_04": "ORDOS",
+    "HAN_S_07_01": "HAN_WORLD",
+    "HAN_S_07_02": "HAN_WORLD",
+    "HAN_S_07_03": "YELLOW_RIVER",
+    "HAN_S_07_04": "HAN_WORLD",
+    "HAN_S_07_05": "HAN_WORLD",
+    "HAN_S_07_06": "CHANGAN",
+    "HAN_S_07_07": "YELLOW_RIVER",
+    "HAN_S_07_08": "HAN_WORLD",
+    "HAN_A_07_01": "LELANG",
+    "HAN_A_07_02": "HAN_WORLD",
+    "HAN_A_07_03": "LUOYANG",
+    "HAN_A_07_04": "HAN_WORLD",
+    "HAN_S_08_01": "CHANGAN",
+    "HAN_S_08_02": "CHANGAN",
+    "HAN_S_08_03": "WEIYANG",
+    "HAN_S_08_04": "CHANGAN",
+    "HAN_S_08_05": "WEIYANG",
+    "HAN_S_08_06": "WEIYANG",
+    "HAN_S_08_07": "WEIYANG",
+    "HAN_S_08_08": "CHANGAN",
+    "HAN_A_08_01": "CHANGAN",
+    "HAN_A_08_02": "CHANGAN",
+    "HAN_A_08_03": "WEIYANG",
+    "HAN_A_08_04": "CHANGAN",
+    "HAN_S_09_01": "CHANGAN",
+    "HAN_S_09_02": "CHANGAN",
+    "HAN_S_09_03": "LUOYANG",
+    "HAN_S_09_04": "LUOYANG",
+    "HAN_S_09_05": "CHANGAN",
+    "HAN_S_09_06": "CHANGAN",
+    "HAN_S_09_07": "MAWANGDUI",
+    "HAN_S_09_08": "MANCHENG",
+    "HAN_A_09_01": "MAWANGDUI",
+    "HAN_A_09_02": "MAWANGDUI",
+    "HAN_A_09_03": "LUOYANG",
+    "HAN_A_09_04": "CHANGAN",
+    "HAN_S_10_01": "CHANGAN",
+    "HAN_S_10_02": "YELLOW_RIVER",
+    "HAN_S_10_03": "CHANGAN",
+    "HAN_S_10_04": "YELLOW_RIVER",
+    "HAN_S_10_05": "SHANDONG",
+    "HAN_S_10_06": "KUNYANG",
+    "HAN_S_10_07": "LUOYANG",
+    "HAN_S_10_08": "LUOYANG",
+    "HAN_A_10_01": "CHANGAN",
+    "HAN_A_10_02": "HAN_WORLD",
+    "HAN_A_10_03": "CHANGAN",
+    "HAN_A_10_04": "HAN_WORLD",
+    "HAN_S_11_01": "LUOYANG",
+    "HAN_S_11_02": "TARIM",
+    "HAN_S_11_03": "TARIM",
+    "HAN_S_11_04": "LUOYANG",
+    "HAN_S_11_05": "LUOYANG",
+    "HAN_S_11_06": "LUOYANG",
+    "HAN_S_11_07": "YINGCHUAN",
+    "HAN_S_11_08": "LUOYANG",
+    "HAN_A_11_01": "WULIANG",
+    "HAN_A_11_02": "LUOYANG",
+    "HAN_A_11_03": "DUNHUANG",
+    "HAN_A_11_04": "HAN_WORLD"
+  },
+  "chapters": {
+    "HAN_CHAPTER_01": {
+      "title": "Цинь и рождение имперской системы",
+      "center": [
+        34.33,
+        108.71
+      ],
+      "zoom": 6
+    },
+    "HAN_CHAPTER_02": {
+      "title": "Падение Цинь и война Чу–Хань",
+      "center": [
+        34.33,
+        108.71
+      ],
+      "zoom": 6
+    },
+    "HAN_CHAPTER_03": {
+      "title": "Гао-цзу и устройство ранней Хань",
+      "center": [
+        34.265,
+        108.943
+      ],
+      "zoom": 6
+    },
+    "HAN_CHAPTER_04": {
+      "title": "Вэнь, Цзин и укрепление династии",
+      "center": [
+        34.265,
+        108.943
+      ],
+      "zoom": 6
+    },
+    "HAN_CHAPTER_05": {
+      "title": "У-ди и перестройка империи",
+      "center": [
+        34.265,
+        108.943
+      ],
+      "zoom": 6
+    },
+    "HAN_CHAPTER_06": {
+      "title": "Сюнну, Хэси и западные походы",
+      "center": [
+        39.0,
+        109.0
+      ],
+      "zoom": 6
+    },
+    "HAN_CHAPTER_07": {
+      "title": "Чиновники, законы, налоги и города",
+      "center": [
+        34.265,
+        108.943
+      ],
+      "zoom": 6
+    },
+    "HAN_CHAPTER_08": {
+      "title": "Двор, императрицы и борьба групп",
+      "center": [
+        34.265,
+        108.943
+      ],
+      "zoom": 6
+    },
+    "HAN_CHAPTER_09": {
+      "title": "Письменная культура, историки и мир мёртвых",
+      "center": [
+        34.265,
+        108.943
+      ],
+      "zoom": 6
+    },
+    "HAN_CHAPTER_10": {
+      "title": "Ван Ман, Синь и восстановление Хань",
+      "center": [
+        34.265,
+        108.943
+      ],
+      "zoom": 6
+    },
+    "HAN_CHAPTER_11": {
+      "title": "Восточная Хань, дальние связи и падение",
+      "center": [
+        34.62,
+        112.45
+      ],
+      "zoom": 6
+    }
+  },
+  "missionCenter": [
+    35.0,
+    106.0
+  ],
+  "missionZoom": 4
+}

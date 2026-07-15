@@ -1,0 +1,807 @@
+{
+  "campaignId": "STEPPE_SILK",
+  "campaigns": {
+    "STEPPE_SILK": {
+      "id": "STEPPE_SILK",
+      "title": "Степь и Шёлковые пути",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "STP_POOL_01",
+      "campaign": "STEPPE_SILK",
+      "title": "Евразийская степь как историческое пространство",
+      "unlockMission": "STP_01_02",
+      "cardIds": [
+        "STP_A_01_01",
+        "STP_A_01_02",
+        "STP_A_01_03",
+        "STP_A_01_04"
+      ]
+    },
+    {
+      "id": "STP_POOL_02",
+      "campaign": "STEPPE_SILK",
+      "title": "Скифы Причерноморья",
+      "unlockMission": "STP_02_02",
+      "cardIds": [
+        "STP_A_02_01",
+        "STP_A_02_02",
+        "STP_A_02_03",
+        "STP_A_02_04"
+      ]
+    },
+    {
+      "id": "STP_POOL_03",
+      "campaign": "STEPPE_SILK",
+      "title": "Саки и общества Центральной Азии",
+      "unlockMission": "STP_03_02",
+      "cardIds": [
+        "STP_A_03_01",
+        "STP_A_03_02",
+        "STP_A_03_03",
+        "STP_A_03_04"
+      ]
+    },
+    {
+      "id": "STP_POOL_04",
+      "campaign": "STEPPE_SILK",
+      "title": "Алтай, Пазырык и замёрзшие курганы",
+      "unlockMission": "STP_04_02",
+      "cardIds": [
+        "STP_A_04_01",
+        "STP_A_04_02",
+        "STP_A_04_03",
+        "STP_A_04_04"
+      ]
+    },
+    {
+      "id": "STP_POOL_05",
+      "campaign": "STEPPE_SILK",
+      "title": "Сарматы и западная степь",
+      "unlockMission": "STP_05_02",
+      "cardIds": [
+        "STP_A_05_01",
+        "STP_A_05_02",
+        "STP_A_05_03",
+        "STP_A_05_04"
+      ]
+    },
+    {
+      "id": "STP_POOL_06",
+      "campaign": "STEPPE_SILK",
+      "title": "Сюнну как степная держава",
+      "unlockMission": "STP_06_02",
+      "cardIds": [
+        "STP_A_06_01",
+        "STP_A_06_02",
+        "STP_A_06_03",
+        "STP_A_06_04"
+      ]
+    },
+    {
+      "id": "STP_POOL_07",
+      "campaign": "STEPPE_SILK",
+      "title": "Хань и сюнну: война, договоры и пограничные рынки",
+      "unlockMission": "STP_07_02",
+      "cardIds": [
+        "STP_A_07_01",
+        "STP_A_07_02",
+        "STP_A_07_03",
+        "STP_A_07_04"
+      ]
+    },
+    {
+      "id": "STP_POOL_08",
+      "campaign": "STEPPE_SILK",
+      "title": "Государства и города Центральной Азии",
+      "unlockMission": "STP_08_02",
+      "cardIds": [
+        "STP_A_08_01",
+        "STP_A_08_02",
+        "STP_A_08_03",
+        "STP_A_08_04"
+      ]
+    },
+    {
+      "id": "STP_POOL_09",
+      "campaign": "STEPPE_SILK",
+      "title": "Коридор Хэси и Таримский бассейн",
+      "unlockMission": "STP_09_02",
+      "cardIds": [
+        "STP_A_09_01",
+        "STP_A_09_02",
+        "STP_A_09_03",
+        "STP_A_09_04"
+      ]
+    },
+    {
+      "id": "STP_POOL_10",
+      "campaign": "STEPPE_SILK",
+      "title": "Караванные цепи и товары",
+      "unlockMission": "STP_10_02",
+      "cardIds": [
+        "STP_A_10_01",
+        "STP_A_10_02",
+        "STP_A_10_03",
+        "STP_A_10_04"
+      ]
+    },
+    {
+      "id": "STP_POOL_11",
+      "campaign": "STEPPE_SILK",
+      "title": "Сети обмена: идеи, технологии, болезни и миф одной дороги",
+      "unlockMission": "STP_11_02",
+      "cardIds": [
+        "STP_A_11_01",
+        "STP_A_11_02",
+        "STP_A_11_03",
+        "STP_A_11_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "STP_S_01_01": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 1
+    },
+    "STP_S_01_02": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 1
+    },
+    "STP_S_01_03": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 1
+    },
+    "STP_S_01_04": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 1
+    },
+    "STP_S_01_05": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 1
+    },
+    "STP_S_01_06": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 1
+    },
+    "STP_S_01_07": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 1
+    },
+    "STP_S_01_08": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 1
+    },
+    "STP_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_01",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_01",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_01",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_01",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_S_02_01": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 2
+    },
+    "STP_S_02_02": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 2
+    },
+    "STP_S_02_03": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 2
+    },
+    "STP_S_02_04": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 2
+    },
+    "STP_S_02_05": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 2
+    },
+    "STP_S_02_06": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 2
+    },
+    "STP_S_02_07": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 2
+    },
+    "STP_S_02_08": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 2
+    },
+    "STP_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_02",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_02",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_02",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_02",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_S_03_01": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 3
+    },
+    "STP_S_03_02": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 3
+    },
+    "STP_S_03_03": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 3
+    },
+    "STP_S_03_04": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 3
+    },
+    "STP_S_03_05": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 3
+    },
+    "STP_S_03_06": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 3
+    },
+    "STP_S_03_07": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 3
+    },
+    "STP_S_03_08": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 3
+    },
+    "STP_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_03",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_03",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_03",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_03",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_S_04_01": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 4
+    },
+    "STP_S_04_02": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 4
+    },
+    "STP_S_04_03": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 4
+    },
+    "STP_S_04_04": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 4
+    },
+    "STP_S_04_05": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 4
+    },
+    "STP_S_04_06": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 4
+    },
+    "STP_S_04_07": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 4
+    },
+    "STP_S_04_08": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 4
+    },
+    "STP_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_04",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_04",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_04",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_04",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_S_05_01": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 5
+    },
+    "STP_S_05_02": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 5
+    },
+    "STP_S_05_03": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 5
+    },
+    "STP_S_05_04": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 5
+    },
+    "STP_S_05_05": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 5
+    },
+    "STP_S_05_06": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 5
+    },
+    "STP_S_05_07": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 5
+    },
+    "STP_S_05_08": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 5
+    },
+    "STP_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_05",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_05",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_05",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_05",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_S_06_01": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 6
+    },
+    "STP_S_06_02": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 6
+    },
+    "STP_S_06_03": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 6
+    },
+    "STP_S_06_04": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 6
+    },
+    "STP_S_06_05": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 6
+    },
+    "STP_S_06_06": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 6
+    },
+    "STP_S_06_07": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 6
+    },
+    "STP_S_06_08": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 6
+    },
+    "STP_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_06",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_06",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_06",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_06",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_S_07_01": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 7
+    },
+    "STP_S_07_02": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 7
+    },
+    "STP_S_07_03": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 7
+    },
+    "STP_S_07_04": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 7
+    },
+    "STP_S_07_05": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 7
+    },
+    "STP_S_07_06": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 7
+    },
+    "STP_S_07_07": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 7
+    },
+    "STP_S_07_08": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 7
+    },
+    "STP_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_07",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_07",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_07",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_07",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_S_08_01": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 8
+    },
+    "STP_S_08_02": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 8
+    },
+    "STP_S_08_03": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 8
+    },
+    "STP_S_08_04": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 8
+    },
+    "STP_S_08_05": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 8
+    },
+    "STP_S_08_06": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 8
+    },
+    "STP_S_08_07": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 8
+    },
+    "STP_S_08_08": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 8
+    },
+    "STP_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_08",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_08",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_08",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_08",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_S_09_01": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 9
+    },
+    "STP_S_09_02": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 9
+    },
+    "STP_S_09_03": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 9
+    },
+    "STP_S_09_04": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 9
+    },
+    "STP_S_09_05": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 9
+    },
+    "STP_S_09_06": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 9
+    },
+    "STP_S_09_07": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 9
+    },
+    "STP_S_09_08": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 9
+    },
+    "STP_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_09",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_09",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_09",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_09",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_S_10_01": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 10
+    },
+    "STP_S_10_02": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 10
+    },
+    "STP_S_10_03": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 10
+    },
+    "STP_S_10_04": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 10
+    },
+    "STP_S_10_05": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 10
+    },
+    "STP_S_10_06": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 10
+    },
+    "STP_S_10_07": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 10
+    },
+    "STP_S_10_08": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 10
+    },
+    "STP_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_10",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_10",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_10",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_10",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_S_11_01": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 11
+    },
+    "STP_S_11_02": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 11
+    },
+    "STP_S_11_03": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 11
+    },
+    "STP_S_11_04": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 11
+    },
+    "STP_S_11_05": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 11
+    },
+    "STP_S_11_06": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 11
+    },
+    "STP_S_11_07": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 11
+    },
+    "STP_S_11_08": {
+      "kind": "STORY",
+      "campaignId": "STEPPE_SILK",
+      "chapter": 11
+    },
+    "STP_A_11_01": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_11",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_11_02": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_11",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_11_03": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_11",
+      "campaign": "STEPPE_SILK"
+    },
+    "STP_A_11_04": {
+      "kind": "ARCHIVE",
+      "pool": "STP_POOL_11",
+      "campaign": "STEPPE_SILK"
+    }
+  }
+}

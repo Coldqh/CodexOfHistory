@@ -1,6 +1,6 @@
-/* Codex v6.4.0 — Classical World shared comparative layer and era exam */
+/* Codex v6.7.0 — Classical World shared comparative layer and era exam */
 (()=>{
-  const V='6.4.0';
+  const V='6.7.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.CLASSICAL_ERA_EXAM='CLASSICAL_WORLD';
   state.classicalWorldRegion=state.classicalWorldRegion||'PERSIA';

@@ -327,3 +327,18 @@
 ## v6.4 — Индия: Будда, Магадха и Маурьи
 
 Локальные SVG-обложки 132 карточек и обложка пака созданы для Codex of History. Источники: Metropolitan Museum of Art, UNESCO World Heritage Centre, British Museum, SuttaCentral и музейные материалы по буддизму, джайнизму, Ашоке и Маурийской державе. Динамические исторические изображения загружаются только для видимых карточек и хранятся до конца сессии.
+
+
+## v6.5 — Империя Хань
+
+Локальные SVG-обложки 132 карточек и обложка пака созданы для Codex of History. Источники: Metropolitan Museum of Art, National Museum of Asian Art, UNESCO World Heritage Centre, British Museum и Chinese Text Project. Динамические исторические изображения загружаются только для видимых карточек и хранятся до конца сессии.
+
+
+## v6.6 — Степь и Шёлковые пути
+
+Локальные SVG-обложки 132 карточек и пака созданы для Codex of History. Фактологическая база сверена по материалам Metropolitan Museum of Art, British Museum и UNESCO World Heritage Centre.
+
+
+## v6.7 — Сравнительный слой античного мира
+
+Локальные SVG-обложки 96 карточек и общего пака созданы для Codex of History. Источниковая рамка опирается на музейные и институциональные материалы Metropolitan Museum of Art, British Museum, UNESCO и Chinese Text Project.

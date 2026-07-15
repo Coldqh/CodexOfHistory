@@ -1,6 +1,6 @@
-/* Codex v6.7.0 — Israel, Judah and the Southern Levant */
+/* Codex v6.8.0 — Israel, Judah and the Southern Levant */
 (()=>{
-  const V='6.7.0';
+  const V='6.8.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.ISRAEL_JUDAH='ISRAEL_JUDAH';
   state.levantPhase=state.levantPhase||'FORMATION';

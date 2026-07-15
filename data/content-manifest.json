@@ -1,5 +1,5 @@
 {
-  "version": "6.7.0",
+  "version": "6.8.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -64,7 +64,9 @@
       "data/cards/steppe-silk/story.json",
       "data/cards/steppe-silk/archive.json",
       "data/cards/hellenistic-roman-world/story.json",
-      "data/cards/hellenistic-roman-world/archive.json"
+      "data/cards/hellenistic-roman-world/archive.json",
+      "data/cards/late-roman/story.json",
+      "data/cards/late-roman/archive.json"
     ],
     "relations": "data/core/relations.json",
     "pools": [
@@ -97,7 +99,8 @@
       "data/campaigns/maurya/pools.json",
       "data/campaigns/han/pools.json",
       "data/campaigns/steppe-silk/pools.json",
-      "data/campaigns/hellenistic-roman-world/pools.json"
+      "data/campaigns/hellenistic-roman-world/pools.json",
+      "data/campaigns/late-roman/pools.json"
     ],
     "quizzes": [
       "data/quizzes/rome/chapter_01.json",
@@ -142,7 +145,8 @@
       "data/quizzes/maurya/campaign.json",
       "data/quizzes/han/campaign.json",
       "data/quizzes/steppe-silk/campaign.json",
-      "data/quizzes/hellenistic-roman-world/campaign.json"
+      "data/quizzes/hellenistic-roman-world/campaign.json",
+      "data/quizzes/late-roman/campaign.json"
     ],
     "stories": [
       "data/stories/rome/personal.json",
@@ -174,7 +178,8 @@
       "data/stories/maurya/personal.json",
       "data/stories/han/personal.json",
       "data/stories/steppe-silk/personal.json",
-      "data/stories/hellenistic-roman-world/personal.json"
+      "data/stories/hellenistic-roman-world/personal.json",
+      "data/stories/late-roman/personal.json"
     ],
     "mastery": "data/core/mastery.json",
     "packs": "data/core/packs.json",
@@ -210,7 +215,8 @@
       "INDIA_MAURYA": "data/maps/maurya.json",
       "HAN": "data/maps/han.json",
       "STEPPE_SILK": "data/maps/steppe-silk.json",
-      "HELLENISTIC_ROMAN_EXAM": "data/maps/hellenistic-roman-world.json"
+      "HELLENISTIC_ROMAN_EXAM": "data/maps/hellenistic-roman-world.json",
+      "LATE_ANTIQUITY": "data/maps/late-roman.json"
     },
     "daily": "data/core/daily-learning.json",
     "lessons": [
@@ -256,7 +262,8 @@
       "data/lessons/maurya/campaign.json",
       "data/lessons/han/campaign.json",
       "data/lessons/steppe-silk/campaign.json",
-      "data/lessons/hellenistic-roman-world/campaign.json"
+      "data/lessons/hellenistic-roman-world/campaign.json",
+      "data/lessons/late-roman/campaign.json"
     ],
     "eras": "data/world/eras.json",
     "campaignCatalog": "data/world/campaigns.json",
@@ -291,7 +298,8 @@
       "data/campaigns/maurya/campaign.json",
       "data/campaigns/han/campaign.json",
       "data/campaigns/steppe-silk/campaign.json",
-      "data/campaigns/hellenistic-roman-world/campaign.json"
+      "data/campaigns/hellenistic-roman-world/campaign.json",
+      "data/campaigns/late-roman/campaign.json"
     ],
     "imageQueries": "data/image_queries.json"
   },
@@ -348,6 +356,7 @@
     "js/features/v6-5-han.js",
     "js/features/v6-6-steppe-silk.js",
     "js/features/v6-7-hellenistic-roman-world.js",
+    "js/features/v6-8-late-roman.js",
     "js/features/v3-1-1-hotfix.js",
     "js/features/v3-1-3-visual-semantics.js",
     "js/core/start.js"

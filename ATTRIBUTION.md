@@ -342,3 +342,8 @@
 ## v6.7 — Сравнительный слой античного мира
 
 Локальные SVG-обложки 96 карточек и общего пака созданы для Codex of History. Источниковая рамка опирается на музейные и институциональные материалы Metropolitan Museum of Art, British Museum, UNESCO и Chinese Text Project.
+
+
+## v6.8 — Поздняя Римская империя
+
+Локальные SVG-обложки 132 карточек и обложка пака созданы для Codex of History. Источниковая рамка использует Encyclopaedia Britannica, UNESCO World Heritage Centre, Perseus Digital Library, Bodleian Libraries, Roman Law Library и Fordham Internet Sourcebooks.

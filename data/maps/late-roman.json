@@ -1,0 +1,370 @@
+{
+  "points": {
+    "ROME": [
+      41.893,
+      12.483
+    ],
+    "MILAN": [
+      45.464,
+      9.19
+    ],
+    "RAVENNA": [
+      44.418,
+      12.204
+    ],
+    "AQUILEIA": [
+      45.769,
+      13.368
+    ],
+    "TREVES": [
+      49.756,
+      6.641
+    ],
+    "COLOGNE": [
+      50.941,
+      6.958
+    ],
+    "YORK": [
+      53.959,
+      -1.081
+    ],
+    "LONDON": [
+      51.507,
+      -0.128
+    ],
+    "SIRMIUM": [
+      44.981,
+      19.61
+    ],
+    "NAISSUS": [
+      43.32,
+      21.896
+    ],
+    "NICOMEDIA": [
+      40.766,
+      29.916
+    ],
+    "ANTIOCH": [
+      36.202,
+      36.161
+    ],
+    "ALEXANDRIA": [
+      31.2,
+      29.918
+    ],
+    "PALMYRA": [
+      34.55,
+      38.267
+    ],
+    "EDESSA": [
+      37.159,
+      38.796
+    ],
+    "CTESIPHON": [
+      33.093,
+      44.581
+    ],
+    "DURA": [
+      34.747,
+      40.729
+    ],
+    "EMESA": [
+      34.73,
+      36.71
+    ],
+    "DANUBE": [
+      44.8,
+      20.45
+    ],
+    "RHINE": [
+      50.0,
+      7.0
+    ],
+    "BLACKSEA": [
+      44.0,
+      34.0
+    ],
+    "CONSTANTINOPLE": [
+      41.008,
+      28.978
+    ],
+    "THESSALONICA": [
+      40.64,
+      22.944
+    ],
+    "ADRIANOPLE": [
+      41.677,
+      26.556
+    ],
+    "SPLIT": [
+      43.508,
+      16.44
+    ],
+    "CARNUNTUM": [
+      48.116,
+      16.861
+    ],
+    "SERDICA": [
+      42.697,
+      23.321
+    ],
+    "NISIBIS": [
+      37.07,
+      41.22
+    ],
+    "ARMENIA": [
+      40.18,
+      44.51
+    ],
+    "AFRICA": [
+      36.85,
+      10.33
+    ],
+    "EGYPT": [
+      29.98,
+      31.13
+    ],
+    "GAUL": [
+      46.5,
+      2.5
+    ],
+    "HISPANIA": [
+      40.0,
+      -4.0
+    ],
+    "LATE_ROMAN_WORLD": [
+      42.0,
+      20.0
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "LAR_S_01_01": "RHINE",
+    "LAR_S_01_02": "RHINE",
+    "LAR_S_01_03": "AFRICA",
+    "LAR_S_01_04": "ROME",
+    "LAR_S_01_05": "ROME",
+    "LAR_S_01_06": "ANTIOCH",
+    "LAR_S_01_07": "ROME",
+    "LAR_S_01_08": "LATE_ROMAN_WORLD",
+    "LAR_A_01_01": "ROME",
+    "LAR_A_01_02": "ROME",
+    "LAR_A_01_03": "ROME",
+    "LAR_A_01_04": "LATE_ROMAN_WORLD",
+    "LAR_S_02_01": "DANUBE",
+    "LAR_S_02_02": "EGYPT",
+    "LAR_S_02_03": "DANUBE",
+    "LAR_S_02_04": "DANUBE",
+    "LAR_S_02_05": "ALEXANDRIA",
+    "LAR_S_02_06": "ANTIOCH",
+    "LAR_S_02_07": "BLACKSEA",
+    "LAR_S_02_08": "LATE_ROMAN_WORLD",
+    "LAR_A_02_01": "EGYPT",
+    "LAR_A_02_02": "GAUL",
+    "LAR_A_02_03": "AFRICA",
+    "LAR_A_02_04": "LATE_ROMAN_WORLD",
+    "LAR_S_03_01": "CTESIPHON",
+    "LAR_S_03_02": "DURA",
+    "LAR_S_03_03": "EDESSA",
+    "LAR_S_03_04": "EDESSA",
+    "LAR_S_03_05": "CTESIPHON",
+    "LAR_S_03_06": "PALMYRA",
+    "LAR_S_03_07": "MILAN",
+    "LAR_S_03_08": "BLACKSEA",
+    "LAR_A_03_01": "CTESIPHON",
+    "LAR_A_03_02": "DURA",
+    "LAR_A_03_03": "DURA",
+    "LAR_A_03_04": "EDESSA",
+    "LAR_S_04_01": "COLOGNE",
+    "LAR_S_04_02": "TREVES",
+    "LAR_S_04_03": "TREVES",
+    "LAR_S_04_04": "PALMYRA",
+    "LAR_S_04_05": "PALMYRA",
+    "LAR_S_04_06": "ALEXANDRIA",
+    "LAR_S_04_07": "ANTIOCH",
+    "LAR_S_04_08": "LATE_ROMAN_WORLD",
+    "LAR_A_04_01": "TREVES",
+    "LAR_A_04_02": "ANTIOCH",
+    "LAR_A_04_03": "PALMYRA",
+    "LAR_A_04_04": "GAUL",
+    "LAR_S_05_01": "ROME",
+    "LAR_S_05_02": "ANTIOCH",
+    "LAR_S_05_03": "PALMYRA",
+    "LAR_S_05_04": "ROME",
+    "LAR_S_05_05": "GAUL",
+    "LAR_S_05_06": "ROME",
+    "LAR_S_05_07": "ROME",
+    "LAR_S_05_08": "EMESA",
+    "LAR_A_05_01": "ROME",
+    "LAR_A_05_02": "ROME",
+    "LAR_A_05_03": "ROME",
+    "LAR_A_05_04": "LATE_ROMAN_WORLD",
+    "LAR_S_06_01": "DANUBE",
+    "LAR_S_06_02": "MILAN",
+    "LAR_S_06_03": "LATE_ROMAN_WORLD",
+    "LAR_S_06_04": "SIRMIUM",
+    "LAR_S_06_05": "TREVES",
+    "LAR_S_06_06": "NICOMEDIA",
+    "LAR_S_06_07": "SIRMIUM",
+    "LAR_S_06_08": "NICOMEDIA",
+    "LAR_A_06_01": "CONSTANTINOPLE",
+    "LAR_A_06_02": "SPLIT",
+    "LAR_A_06_03": "TREVES",
+    "LAR_A_06_04": "LATE_ROMAN_WORLD",
+    "LAR_S_07_01": "LATE_ROMAN_WORLD",
+    "LAR_S_07_02": "LATE_ROMAN_WORLD",
+    "LAR_S_07_03": "LATE_ROMAN_WORLD",
+    "LAR_S_07_04": "EGYPT",
+    "LAR_S_07_05": "DANUBE",
+    "LAR_S_07_06": "ANTIOCH",
+    "LAR_S_07_07": "NICOMEDIA",
+    "LAR_S_07_08": "CONSTANTINOPLE",
+    "LAR_A_07_01": "ANTIOCH",
+    "LAR_A_07_02": "EGYPT",
+    "LAR_A_07_03": "LATE_ROMAN_WORLD",
+    "LAR_A_07_04": "LATE_ROMAN_WORLD",
+    "LAR_S_08_01": "YORK",
+    "LAR_S_08_02": "ROME",
+    "LAR_S_08_03": "ROME",
+    "LAR_S_08_04": "MILAN",
+    "LAR_S_08_05": "NICOMEDIA",
+    "LAR_S_08_06": "CONSTANTINOPLE",
+    "LAR_S_08_07": "NICOMEDIA",
+    "LAR_S_08_08": "LATE_ROMAN_WORLD",
+    "LAR_A_08_01": "ROME",
+    "LAR_A_08_02": "CONSTANTINOPLE",
+    "LAR_A_08_03": "NICOMEDIA",
+    "LAR_A_08_04": "LATE_ROMAN_WORLD",
+    "LAR_S_09_01": "CONSTANTINOPLE",
+    "LAR_S_09_02": "CONSTANTINOPLE",
+    "LAR_S_09_03": "CONSTANTINOPLE",
+    "LAR_S_09_04": "CONSTANTINOPLE",
+    "LAR_S_09_05": "CONSTANTINOPLE",
+    "LAR_S_09_06": "LATE_ROMAN_WORLD",
+    "LAR_S_09_07": "SIRMIUM",
+    "LAR_S_09_08": "CONSTANTINOPLE",
+    "LAR_A_09_01": "CONSTANTINOPLE",
+    "LAR_A_09_02": "CONSTANTINOPLE",
+    "LAR_A_09_03": "CONSTANTINOPLE",
+    "LAR_A_09_04": "LATE_ROMAN_WORLD",
+    "LAR_S_10_01": "LATE_ROMAN_WORLD",
+    "LAR_S_10_02": "DANUBE",
+    "LAR_S_10_03": "CONSTANTINOPLE",
+    "LAR_S_10_04": "ROME",
+    "LAR_S_10_05": "RHINE",
+    "LAR_S_10_06": "CTESIPHON",
+    "LAR_S_10_07": "DANUBE",
+    "LAR_S_10_08": "ADRIANOPLE",
+    "LAR_A_10_01": "CONSTANTINOPLE",
+    "LAR_A_10_02": "CONSTANTINOPLE",
+    "LAR_A_10_03": "DANUBE",
+    "LAR_A_10_04": "LATE_ROMAN_WORLD",
+    "LAR_S_11_01": "THESSALONICA",
+    "LAR_S_11_02": "THESSALONICA",
+    "LAR_S_11_03": "CONSTANTINOPLE",
+    "LAR_S_11_04": "DANUBE",
+    "LAR_S_11_05": "TREVES",
+    "LAR_S_11_06": "AQUILEIA",
+    "LAR_S_11_07": "CONSTANTINOPLE",
+    "LAR_S_11_08": "MILAN",
+    "LAR_A_11_01": "CONSTANTINOPLE",
+    "LAR_A_11_02": "CONSTANTINOPLE",
+    "LAR_A_11_03": "MILAN",
+    "LAR_A_11_04": "LATE_ROMAN_WORLD"
+  },
+  "chapters": {
+    "LAR_CHAPTER_01": {
+      "title": "Империя после Северов",
+      "center": [
+        41.893,
+        12.483
+      ],
+      "zoom": 6
+    },
+    "LAR_CHAPTER_02": {
+      "title": "Армейские императоры и гражданские войны",
+      "center": [
+        41.893,
+        12.483
+      ],
+      "zoom": 6
+    },
+    "LAR_CHAPTER_03": {
+      "title": "Персия, готы и пленение Валериана",
+      "center": [
+        37.159,
+        38.796
+      ],
+      "zoom": 6
+    },
+    "LAR_CHAPTER_04": {
+      "title": "Галльская империя и Пальмира",
+      "center": [
+        49.756,
+        6.641
+      ],
+      "zoom": 6
+    },
+    "LAR_CHAPTER_05": {
+      "title": "Аврелиан и восстановление единства",
+      "center": [
+        41.893,
+        12.483
+      ],
+      "zoom": 6
+    },
+    "LAR_CHAPTER_06": {
+      "title": "Диоклетиан и тетрархия",
+      "center": [
+        40.766,
+        29.916
+      ],
+      "zoom": 6
+    },
+    "LAR_CHAPTER_07": {
+      "title": "Налоги, провинции и новая администрация",
+      "center": [
+        40.766,
+        29.916
+      ],
+      "zoom": 6
+    },
+    "LAR_CHAPTER_08": {
+      "title": "Константин и гражданские войны",
+      "center": [
+        53.959,
+        -1.081
+      ],
+      "zoom": 6
+    },
+    "LAR_CHAPTER_09": {
+      "title": "Константинополь и новые центры власти",
+      "center": [
+        41.008,
+        28.978
+      ],
+      "zoom": 6
+    },
+    "LAR_CHAPTER_10": {
+      "title": "Позднеримская армия и фронтир",
+      "center": [
+        50.0,
+        7.0
+      ],
+      "zoom": 6
+    },
+    "LAR_CHAPTER_11": {
+      "title": "Феодосий и раздел 395 года",
+      "center": [
+        40.64,
+        22.944
+      ],
+      "zoom": 6
+    }
+  },
+  "missionCenter": [
+    42.0,
+    20.0
+  ],
+  "missionZoom": 4
+}

@@ -1,0 +1,5194 @@
+[
+  {
+    "id": "LAR_S_01_01",
+    "type": "EVENT",
+    "title": "Убийство Александра Севера в Могонциаке",
+    "original": "Murder of Alexander Severus at Mogontiacum",
+    "subtitle": "гибель последнего императора династии Северов от рук солдат",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "235 год",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Убийство Александра Севера в Могонциаке — гибель последнего императора династии Северов от рук солдат.",
+    "importance": "Карточка раскрывает главу «Империя после Северов» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 235 год.",
+      "Основной смысл: гибель последнего императора династии Северов от рук солдат.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Империя после Северов",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 7,
+      "politics": 9,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "рейнская граница",
+      "lat": 50.0,
+      "lon": 7.0
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-01/lar_s_01_01.svg",
+      "caption": "Локальная учебная обложка: Убийство Александра Севера в Могонциаке",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_01_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Ancient Rome — Political and military anarchy, 235–285",
+      "url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_01"
+  },
+  {
+    "id": "LAR_S_01_02",
+    "type": "PERSON",
+    "title": "Максимин Фракиец и власть армии",
+    "original": "Maximinus Thrax and army power",
+    "subtitle": "император, выдвинутый рейнскими войсками без сенатской карьеры",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "235–238 годы",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Максимин Фракиец и власть армии — император, выдвинутый рейнскими войсками без сенатской карьеры.",
+    "importance": "Карточка раскрывает главу «Империя после Северов» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 235–238 годы.",
+      "Основной смысл: император, выдвинутый рейнскими войсками без сенатской карьеры.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Империя после Северов",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 9,
+      "culture": 8,
+      "politics": 6,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "рейнская граница",
+      "lat": 50.0,
+      "lon": 7.0
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-01/lar_s_01_02.svg",
+      "caption": "Локальная учебная обложка: Максимин Фракиец и власть армии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_01_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Ancient Rome — Political and military anarchy, 235–285",
+      "url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_01"
+  },
+  {
+    "id": "LAR_S_01_03",
+    "type": "EVENT",
+    "title": "Сенатское восстание 238 года",
+    "original": "Senatorial revolt of 238",
+    "subtitle": "попытка африканских и сенатских элит сместить Максимина",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "238 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Сенатское восстание 238 года — попытка африканских и сенатских элит сместить Максимина.",
+    "importance": "Карточка раскрывает главу «Империя после Северов» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 238 год.",
+      "Основной смысл: попытка африканских и сенатских элит сместить Максимина.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Империя после Северов",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 9,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Африка",
+      "lat": 36.85,
+      "lon": 10.33
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-01/lar_s_01_03.svg",
+      "caption": "Локальная учебная обложка: Сенатское восстание 238 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_01_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Ancient Rome — Political and military anarchy, 235–285",
+      "url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_01"
+  },
+  {
+    "id": "LAR_S_01_04",
+    "type": "EVENT",
+    "title": "Год шести императоров",
+    "original": "Year of the Six Emperors",
+    "subtitle": "цепь провозглашений и смертей в течение одного года",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "238 год",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Год шести императоров — цепь провозглашений и смертей в течение одного года.",
+    "importance": "Карточка раскрывает главу «Империя после Северов» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 238 год.",
+      "Основной смысл: цепь провозглашений и смертей в течение одного года.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Империя после Северов",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 7,
+      "culture": 5,
+      "politics": 8,
+      "religion": 9,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.483
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-01/lar_s_01_04.svg",
+      "caption": "Локальная учебная обложка: Год шести императоров",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_01_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Ancient Rome — Political and military anarchy, 235–285",
+      "url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_01"
+  },
+  {
+    "id": "LAR_S_01_05",
+    "type": "PERSON",
+    "title": "Гордиан III и молодой двор",
+    "original": "Gordian III and the young court",
+    "subtitle": "правление юного императора при сильных придворных советниках",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "238–244 годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Гордиан III и молодой двор — правление юного императора при сильных придворных советниках.",
+    "importance": "Карточка раскрывает главу «Империя после Северов» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 238–244 годы.",
+      "Основной смысл: правление юного императора при сильных придворных советниках.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Империя после Северов",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 9,
+      "culture": 6,
+      "politics": 9,
+      "religion": 4,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.483
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-01/lar_s_01_05.svg",
+      "caption": "Локальная учебная обложка: Гордиан III и молодой двор",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_01_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Ancient Rome — Political and military anarchy, 235–285",
+      "url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_01"
+  },
+  {
+    "id": "LAR_S_01_06",
+    "type": "PERSON",
+    "title": "Филипп Араб на восточном престоле",
+    "original": "Philip the Arab in the East",
+    "subtitle": "император, пришедший к власти после персидской кампании",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "244–249 годы",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Филипп Араб на восточном престоле — император, пришедший к власти после персидской кампании.",
+    "importance": "Карточка раскрывает главу «Империя после Северов» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 244–249 годы.",
+      "Основной смысл: император, пришедший к власти после персидской кампании.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Империя после Северов",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 7,
+      "politics": 6,
+      "religion": 5,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Антиохия",
+      "lat": 36.202,
+      "lon": 36.161
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-01/lar_s_01_06.svg",
+      "caption": "Локальная учебная обложка: Филипп Араб на восточном престоле",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_01_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Ancient Rome — Political and military anarchy, 235–285",
+      "url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_01"
+  },
+  {
+    "id": "LAR_S_01_07",
+    "type": "EVENT",
+    "title": "Тысячелетие Рима при Филиппе",
+    "original": "Millennium of Rome under Philip",
+    "subtitle": "официальное празднование тысячной годовщины основания города",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "248 год",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Тысячелетие Рима при Филиппе — официальное празднование тысячной годовщины основания города.",
+    "importance": "Карточка раскрывает главу «Империя после Северов» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 248 год.",
+      "Основной смысл: официальное празднование тысячной годовщины основания города.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Империя после Северов",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 7,
+      "culture": 8,
+      "politics": 7,
+      "religion": 6,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.483
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-01/lar_s_01_07.svg",
+      "caption": "Локальная учебная обложка: Тысячелетие Рима при Филиппе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_01_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Ancient Rome — Political and military anarchy, 235–285",
+      "url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_01"
+  },
+  {
+    "id": "LAR_S_01_08",
+    "type": "CONCEPT",
+    "title": "Армейское провозглашение как политический механизм",
+    "original": "Military acclamation as politics",
+    "subtitle": "выдвижение императора войсками на региональном фронте",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "III век",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Армейское провозглашение как политический механизм — выдвижение императора войсками на региональном фронте.",
+    "importance": "Карточка раскрывает главу «Империя после Северов» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: III век.",
+      "Основной смысл: выдвижение императора войсками на региональном фронте.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Империя после Северов",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 9,
+      "culture": 9,
+      "politics": 8,
+      "religion": 7,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Поздняя Римская империя",
+      "lat": 42.0,
+      "lon": 20.0
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-01/lar_s_01_08.svg",
+      "caption": "Локальная учебная обложка: Армейское провозглашение как политический механизм",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_01_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Ancient Rome — Political and military anarchy, 235–285",
+      "url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_01"
+  },
+  {
+    "id": "LAR_S_02_01",
+    "type": "PERSON",
+    "title": "Деций и дунайская армия",
+    "original": "Decius and the Danubian army",
+    "subtitle": "император, пришедший к власти после мятежа против Филиппа",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "249–251 годы",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Деций и дунайская армия — император, пришедший к власти после мятежа против Филиппа.",
+    "importance": "Карточка раскрывает главу «Армейские императоры и гражданские войны» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 249–251 годы.",
+      "Основной смысл: император, пришедший к власти после мятежа против Филиппа.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Армейские императоры и гражданские войны",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 8,
+      "culture": 8,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "дунайская граница",
+      "lat": 44.8,
+      "lon": 20.45
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-02/lar_s_02_01.svg",
+      "caption": "Локальная учебная обложка: Деций и дунайская армия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_02_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Ancient Rome — Political and military anarchy, 235–285",
+      "url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_02"
+  },
+  {
+    "id": "LAR_S_02_02",
+    "type": "TEXT",
+    "title": "Либеллы о жертвоприношениях",
+    "original": "Certificates of sacrifice",
+    "subtitle": "папирусные подтверждения участия в имперском религиозном ритуале",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "250 год",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Либеллы о жертвоприношениях — папирусные подтверждения участия в имперском религиозном ритуале.",
+    "importance": "Карточка раскрывает главу «Армейские императоры и гражданские войны» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 250 год.",
+      "Основной смысл: папирусные подтверждения участия в имперском религиозном ритуале.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Армейские императоры и гражданские войны",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 4,
+      "culture": 9,
+      "politics": 8,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Египет",
+      "lat": 29.98,
+      "lon": 31.13
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-02/lar_s_02_02.svg",
+      "caption": "Локальная учебная обложка: Либеллы о жертвоприношениях",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_02_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Ancient Rome — Political and military anarchy, 235–285",
+      "url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_02"
+  },
+  {
+    "id": "LAR_S_02_03",
+    "type": "WAR",
+    "title": "Битва при Абритте",
+    "original": "Battle of Abritus",
+    "subtitle": "поражение римской армии и гибель императора Деция",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "251 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Битва при Абритте — поражение римской армии и гибель императора Деция.",
+    "importance": "Карточка раскрывает главу «Армейские императоры и гражданские войны» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 251 год.",
+      "Основной смысл: поражение римской армии и гибель императора Деция.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Армейские императоры и гражданские войны",
+      "war"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 6,
+      "culture": 5,
+      "politics": 9,
+      "religion": 9,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "дунайская граница",
+      "lat": 44.8,
+      "lon": 20.45
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-02/lar_s_02_03.svg",
+      "caption": "Локальная учебная обложка: Битва при Абритте",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_02_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Ancient Rome — Political and military anarchy, 235–285",
+      "url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_02"
+  },
+  {
+    "id": "LAR_S_02_04",
+    "type": "PERSON",
+    "title": "Требониан Галл и мир с готами",
+    "original": "Trebonianus Gallus and Gothic settlement",
+    "subtitle": "правитель, заключивший соглашение после катастрофы при Абритте",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "251–253 годы",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Требониан Галл и мир с готами — правитель, заключивший соглашение после катастрофы при Абритте.",
+    "importance": "Карточка раскрывает главу «Армейские императоры и гражданские войны» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 251–253 годы.",
+      "Основной смысл: правитель, заключивший соглашение после катастрофы при Абритте.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Армейские императоры и гражданские войны",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 8,
+      "culture": 6,
+      "politics": 6,
+      "religion": 4,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "дунайская граница",
+      "lat": 44.8,
+      "lon": 20.45
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-02/lar_s_02_04.svg",
+      "caption": "Локальная учебная обложка: Требониан Галл и мир с готами",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_02_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Ancient Rome — Political and military anarchy, 235–285",
+      "url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_02"
+  },
+  {
+    "id": "LAR_S_02_05",
+    "type": "EVENT",
+    "title": "Чума Киприана",
+    "original": "Plague of Cyprian",
+    "subtitle": "длительная эпидемическая волна в городах империи",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "ок. 249–262 годов",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Чума Киприана — длительная эпидемическая волна в городах империи.",
+    "importance": "Карточка раскрывает главу «Армейские императоры и гражданские войны» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: ок. 249–262 годов.",
+      "Основной смысл: длительная эпидемическая волна в городах империи.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Армейские императоры и гражданские войны",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 4,
+      "culture": 7,
+      "politics": 7,
+      "religion": 5,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Александрия",
+      "lat": 31.2,
+      "lon": 29.918
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-02/lar_s_02_05.svg",
+      "caption": "Локальная учебная обложка: Чума Киприана",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_02_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Ancient Rome — Political and military anarchy, 235–285",
+      "url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_02"
+  },
+  {
+    "id": "LAR_S_02_06",
+    "type": "POLITICAL",
+    "title": "Валериан и Галлиен как соправители",
+    "original": "Valerian and Gallienus as co-emperors",
+    "subtitle": "распределение восточных и западных военных задач",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "253–260 годы",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Валериан и Галлиен как соправители — распределение восточных и западных военных задач.",
+    "importance": "Карточка раскрывает главу «Армейские императоры и гражданские войны» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 253–260 годы.",
+      "Основной смысл: распределение восточных и западных военных задач.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Армейские императоры и гражданские войны",
+      "political"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 8,
+      "politics": 8,
+      "religion": 6,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Антиохия",
+      "lat": 36.202,
+      "lon": 36.161
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-02/lar_s_02_06.svg",
+      "caption": "Локальная учебная обложка: Валериан и Галлиен как соправители",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_02_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Ancient Rome — Political and military anarchy, 235–285",
+      "url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_02"
+  },
+  {
+    "id": "LAR_S_02_07",
+    "type": "WAR",
+    "title": "Готские походы в Эгейское пространство",
+    "original": "Gothic raids in the Aegean",
+    "subtitle": "морские и сухопутные нападения на Балканы и побережья",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "III век",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Готские походы в Эгейское пространство — морские и сухопутные нападения на Балканы и побережья.",
+    "importance": "Карточка раскрывает главу «Армейские императоры и гражданские войны» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: III век.",
+      "Основной смысл: морские и сухопутные нападения на Балканы и побережья.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Армейские императоры и гражданские войны",
+      "war"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 8,
+      "culture": 9,
+      "politics": 9,
+      "religion": 7,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Черноморье",
+      "lat": 44.0,
+      "lon": 34.0
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-02/lar_s_02_07.svg",
+      "caption": "Локальная учебная обложка: Готские походы в Эгейское пространство",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_02_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Ancient Rome — Political and military anarchy, 235–285",
+      "url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_02"
+  },
+  {
+    "id": "LAR_S_02_08",
+    "type": "MILITARY",
+    "title": "Региональные армии кризисного века",
+    "original": "Regional armies of the crisis",
+    "subtitle": "силы, привязанные к фронтирам и собственным командующим",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "III век",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Региональные армии кризисного века — силы, привязанные к фронтирам и собственным командующим.",
+    "importance": "Карточка раскрывает главу «Армейские императоры и гражданские войны» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: III век.",
+      "Основной смысл: силы, привязанные к фронтирам и собственным командующим.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Армейские императоры и гражданские войны",
+      "military"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 4,
+      "culture": 5,
+      "politics": 6,
+      "religion": 8,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Поздняя Римская империя",
+      "lat": 42.0,
+      "lon": 20.0
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-02/lar_s_02_08.svg",
+      "caption": "Локальная учебная обложка: Региональные армии кризисного века",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_02_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Ancient Rome — Political and military anarchy, 235–285",
+      "url": "https://www.britannica.com/place/ancient-Rome/Political-and-military-anarchy-235-285",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_02"
+  },
+  {
+    "id": "LAR_S_03_01",
+    "type": "PERSON",
+    "title": "Шапур I против Римской империи",
+    "original": "Shapur I against Rome",
+    "subtitle": "сасанидский шах, победивший несколько римских армий",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "III век",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Шапур I против Римской империи — сасанидский шах, победивший несколько римских армий.",
+    "importance": "Карточка раскрывает главу «Персия, готы и пленение Валериана» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: III век.",
+      "Основной смысл: сасанидский шах, победивший несколько римских армий.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Персия, готы и пленение Валериана",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 9,
+      "culture": 9,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Ктесифон",
+      "lat": 33.093,
+      "lon": 44.581
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-03/lar_s_03_01.svg",
+      "caption": "Локальная учебная обложка: Шапур I против Римской империи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0085",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_03_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Ammianus Marcellinus, Roman History",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0085",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_03"
+  },
+  {
+    "id": "LAR_S_03_02",
+    "type": "EVENT",
+    "title": "Разрушение Дура-Европос",
+    "original": "Destruction of Dura-Europos",
+    "subtitle": "гибель пограничного города во время сасанидской осады",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "ок. 256 года",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Разрушение Дура-Европос — гибель пограничного города во время сасанидской осады.",
+    "importance": "Карточка раскрывает главу «Персия, готы и пленение Валериана» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: ок. 256 года.",
+      "Основной смысл: гибель пограничного города во время сасанидской осады.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Персия, готы и пленение Валериана",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 5,
+      "culture": 5,
+      "politics": 6,
+      "religion": 9,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Дура-Европос",
+      "lat": 34.747,
+      "lon": 40.729
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-03/lar_s_03_02.svg",
+      "caption": "Локальная учебная обложка: Разрушение Дура-Европос",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0085",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_03_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Ammianus Marcellinus, Roman History",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0085",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_03"
+  },
+  {
+    "id": "LAR_S_03_03",
+    "type": "WAR",
+    "title": "Поход Валериана в Месопотамию",
+    "original": "Valerian campaign in Mesopotamia",
+    "subtitle": "попытка стабилизировать восточную границу после персидских вторжений",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "259–260 годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Поход Валериана в Месопотамию — попытка стабилизировать восточную границу после персидских вторжений.",
+    "importance": "Карточка раскрывает главу «Персия, готы и пленение Валериана» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 259–260 годы.",
+      "Основной смысл: попытка стабилизировать восточную границу после персидских вторжений.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Персия, готы и пленение Валериана",
+      "war"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 7,
+      "culture": 6,
+      "politics": 7,
+      "religion": 4,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Эдесса",
+      "lat": 37.159,
+      "lon": 38.796
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-03/lar_s_03_03.svg",
+      "caption": "Локальная учебная обложка: Поход Валериана в Месопотамию",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0085",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_03_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Ammianus Marcellinus, Roman History",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0085",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_03"
+  },
+  {
+    "id": "LAR_S_03_04",
+    "type": "EVENT",
+    "title": "Пленение Валериана у Эдессы",
+    "original": "Capture of Valerian at Edessa",
+    "subtitle": "первый случай пленения действующего римского императора внешним врагом",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "260 год",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Пленение Валериана у Эдессы — первый случай пленения действующего римского императора внешним врагом.",
+    "importance": "Карточка раскрывает главу «Персия, готы и пленение Валериана» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 260 год.",
+      "Основной смысл: первый случай пленения действующего римского императора внешним врагом.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Персия, готы и пленение Валериана",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 9,
+      "culture": 7,
+      "politics": 8,
+      "religion": 5,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Эдесса",
+      "lat": 37.159,
+      "lon": 38.796
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-03/lar_s_03_04.svg",
+      "caption": "Локальная учебная обложка: Пленение Валериана у Эдессы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0085",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_03_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Ammianus Marcellinus, Roman History",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0085",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_03"
+  },
+  {
+    "id": "LAR_S_03_05",
+    "type": "ARTIFACT",
+    "title": "Рельеф победы Шапура в Накш-е Ростам",
+    "original": "Shapur victory relief at Naqsh-e Rostam",
+    "subtitle": "сасанидский образ покорённых римских императоров",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "III век",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Рельеф победы Шапура в Накш-е Ростам — сасанидский образ покорённых римских императоров.",
+    "importance": "Карточка раскрывает главу «Персия, готы и пленение Валериана» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: III век.",
+      "Основной смысл: сасанидский образ покорённых римских императоров.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Персия, готы и пленение Валериана",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 5,
+      "culture": 8,
+      "politics": 9,
+      "religion": 6,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Ктесифон",
+      "lat": 33.093,
+      "lon": 44.581
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-03/lar_s_03_05.svg",
+      "caption": "Локальная учебная обложка: Рельеф победы Шапура в Накш-е Ростам",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0085",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_03_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Ammianus Marcellinus, Roman History",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0085",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_03"
+  },
+  {
+    "id": "LAR_S_03_06",
+    "type": "PERSON",
+    "title": "Оденат как защитник римского Востока",
+    "original": "Odaenathus as defender of Roman East",
+    "subtitle": "пальмирский правитель, атакующий сасанидские владения",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "260-е годы",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Оденат как защитник римского Востока — пальмирский правитель, атакующий сасанидские владения.",
+    "importance": "Карточка раскрывает главу «Персия, готы и пленение Валериана» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 260-е годы.",
+      "Основной смысл: пальмирский правитель, атакующий сасанидские владения.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Персия, готы и пленение Валериана",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 9,
+      "politics": 6,
+      "religion": 7,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Пальмира",
+      "lat": 34.55,
+      "lon": 38.267
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-03/lar_s_03_06.svg",
+      "caption": "Локальная учебная обложка: Оденат как защитник римского Востока",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0085",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_03_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Ammianus Marcellinus, Roman History",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0085",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_03"
+  },
+  {
+    "id": "LAR_S_03_07",
+    "type": "POLITICAL",
+    "title": "Галлиен и распределение командований",
+    "original": "Gallienus and distributed commands",
+    "subtitle": "управление империей через доверенных полководцев на разных фронтах",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "260-е годы",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Галлиен и распределение командований — управление империей через доверенных полководцев на разных фронтах.",
+    "importance": "Карточка раскрывает главу «Персия, готы и пленение Валериана» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 260-е годы.",
+      "Основной смысл: управление империей через доверенных полководцев на разных фронтах.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Персия, готы и пленение Валериана",
+      "political"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 9,
+      "culture": 5,
+      "politics": 7,
+      "religion": 8,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Медиолан",
+      "lat": 45.464,
+      "lon": 9.19
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-03/lar_s_03_07.svg",
+      "caption": "Локальная учебная обложка: Галлиен и распределение командований",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0085",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_03_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Ammianus Marcellinus, Roman History",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0085",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_03"
+  },
+  {
+    "id": "LAR_S_03_08",
+    "type": "MILITARY",
+    "title": "Черноморские флотилии готов",
+    "original": "Gothic fleets in the Black Sea",
+    "subtitle": "морская мобильность групп, нападавших на римские побережья",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "III век",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Черноморские флотилии готов — морская мобильность групп, нападавших на римские побережья.",
+    "importance": "Карточка раскрывает главу «Персия, готы и пленение Валериана» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: III век.",
+      "Основной смысл: морская мобильность групп, нападавших на римские побережья.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Персия, готы и пленение Валериана",
+      "military"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 5,
+      "culture": 6,
+      "politics": 8,
+      "religion": 9,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Черноморье",
+      "lat": 44.0,
+      "lon": 34.0
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-03/lar_s_03_08.svg",
+      "caption": "Локальная учебная обложка: Черноморские флотилии готов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0085",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_03_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Ammianus Marcellinus, Roman History",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0085",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_03"
+  },
+  {
+    "id": "LAR_S_04_01",
+    "type": "PERSON",
+    "title": "Постум и галльский императорский двор",
+    "original": "Postumus and the Gallic imperial court",
+    "subtitle": "правитель Галлии, Британии и части Испании",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "260–269 годы",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Постум и галльский императорский двор — правитель Галлии, Британии и части Испании.",
+    "importance": "Карточка раскрывает главу «Галльская империя и Пальмира» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 260–269 годы.",
+      "Основной смысл: правитель Галлии, Британии и части Испании.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Галльская империя и Пальмира",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 4,
+      "culture": 5,
+      "politics": 7,
+      "religion": 9,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Колония Агриппина",
+      "lat": 50.941,
+      "lon": 6.958
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-04/lar_s_04_01.svg",
+      "caption": "Локальная учебная обложка: Постум и галльский императорский двор",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Aurelian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Aurelian",
+      "url": "https://www.britannica.com/biography/Aurelian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_04"
+  },
+  {
+    "id": "LAR_S_04_02",
+    "type": "CITY",
+    "title": "Августа Треверов как северная столица",
+    "original": "Augusta Treverorum as northern capital",
+    "subtitle": "городской и административный центр рейнского режима",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "III век",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Августа Треверов как северная столица — городской и административный центр рейнского режима.",
+    "importance": "Карточка раскрывает главу «Галльская империя и Пальмира» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: III век.",
+      "Основной смысл: городской и административный центр рейнского режима.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Галльская империя и Пальмира",
+      "city"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 6,
+      "culture": 6,
+      "politics": 8,
+      "religion": 4,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Августа Треверов",
+      "lat": 49.756,
+      "lon": 6.641
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-04/lar_s_04_02.svg",
+      "caption": "Локальная учебная обложка: Августа Треверов как северная столица",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Aurelian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Aurelian",
+      "url": "https://www.britannica.com/biography/Aurelian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_04"
+  },
+  {
+    "id": "LAR_S_04_03",
+    "type": "ECONOMIC",
+    "title": "Монетные дворы Галльской империи",
+    "original": "Mints of the Gallic Empire",
+    "subtitle": "региональная чеканка с императорскими портретами и титулами",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "260–274 годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Монетные дворы Галльской империи — региональная чеканка с императорскими портретами и титулами.",
+    "importance": "Карточка раскрывает главу «Галльская империя и Пальмира» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 260–274 годы.",
+      "Основной смысл: региональная чеканка с императорскими портретами и титулами.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Галльская империя и Пальмира",
+      "economic"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 8,
+      "culture": 7,
+      "politics": 9,
+      "religion": 5,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Августа Треверов",
+      "lat": 49.756,
+      "lon": 6.641
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-04/lar_s_04_03.svg",
+      "caption": "Локальная учебная обложка: Монетные дворы Галльской империи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Aurelian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Aurelian",
+      "url": "https://www.britannica.com/biography/Aurelian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_04"
+  },
+  {
+    "id": "LAR_S_04_04",
+    "type": "PERSON",
+    "title": "Оденат и пальмирская военная власть",
+    "original": "Odaenathus and Palmyrene military power",
+    "subtitle": "союзный римский командующий, создавший восточную династию",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "III век",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Оденат и пальмирская военная власть — союзный римский командующий, создавший восточную династию.",
+    "importance": "Карточка раскрывает главу «Галльская империя и Пальмира» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: III век.",
+      "Основной смысл: союзный римский командующий, создавший восточную династию.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Галльская империя и Пальмира",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 4,
+      "culture": 8,
+      "politics": 6,
+      "religion": 6,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Пальмира",
+      "lat": 34.55,
+      "lon": 38.267
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-04/lar_s_04_04.svg",
+      "caption": "Локальная учебная обложка: Оденат и пальмирская военная власть",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Aurelian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_04_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Aurelian",
+      "url": "https://www.britannica.com/biography/Aurelian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_04"
+  },
+  {
+    "id": "LAR_S_04_05",
+    "type": "PERSON",
+    "title": "Зенобия и восточное царство",
+    "original": "Zenobia and the eastern kingdom",
+    "subtitle": "правительница Пальмиры, расширившая контроль до Египта",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "ок. 267–272 годов",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Зенобия и восточное царство — правительница Пальмиры, расширившая контроль до Египта.",
+    "importance": "Карточка раскрывает главу «Галльская империя и Пальмира» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: ок. 267–272 годов.",
+      "Основной смысл: правительница Пальмиры, расширившая контроль до Египта.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Галльская империя и Пальмира",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 6,
+      "culture": 9,
+      "politics": 7,
+      "religion": 7,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Пальмира",
+      "lat": 34.55,
+      "lon": 38.267
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-04/lar_s_04_05.svg",
+      "caption": "Локальная учебная обложка: Зенобия и восточное царство",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Aurelian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_04_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Aurelian",
+      "url": "https://www.britannica.com/biography/Aurelian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_04"
+  },
+  {
+    "id": "LAR_S_04_06",
+    "type": "WAR",
+    "title": "Пальмирское завоевание Египта",
+    "original": "Palmyrene conquest of Egypt",
+    "subtitle": "захват ключевой налоговой и зерновой провинции",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "270 год",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Пальмирское завоевание Египта — захват ключевой налоговой и зерновой провинции.",
+    "importance": "Карточка раскрывает главу «Галльская империя и Пальмира» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 270 год.",
+      "Основной смысл: захват ключевой налоговой и зерновой провинции.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Галльская империя и Пальмира",
+      "war"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 5,
+      "politics": 8,
+      "religion": 8,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Александрия",
+      "lat": 31.2,
+      "lon": 29.918
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-04/lar_s_04_06.svg",
+      "caption": "Локальная учебная обложка: Пальмирское завоевание Египта",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Aurelian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_04_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Aurelian",
+      "url": "https://www.britannica.com/biography/Aurelian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_04"
+  },
+  {
+    "id": "LAR_S_04_07",
+    "type": "POLITICAL",
+    "title": "Вабаллат и римские титулы",
+    "original": "Vaballathus and Roman titles",
+    "subtitle": "использование пальмирской династией римской императорской легитимности",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "III век",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Вабаллат и римские титулы — использование пальмирской династией римской императорской легитимности.",
+    "importance": "Карточка раскрывает главу «Галльская империя и Пальмира» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: III век.",
+      "Основной смысл: использование пальмирской династией римской императорской легитимности.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Галльская империя и Пальмира",
+      "political"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 4,
+      "culture": 6,
+      "politics": 9,
+      "religion": 9,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Антиохия",
+      "lat": 36.202,
+      "lon": 36.161
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-04/lar_s_04_07.svg",
+      "caption": "Локальная учебная обложка: Вабаллат и римские титулы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Aurelian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_04_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Aurelian",
+      "url": "https://www.britannica.com/biography/Aurelian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_04"
+  },
+  {
+    "id": "LAR_S_04_08",
+    "type": "CONCEPT",
+    "title": "Региональная империя внутри Рима",
+    "original": "Regional empire within Rome",
+    "subtitle": "политический режим, сохраняющий римскую форму вне единого двора",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "III век",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Региональная империя внутри Рима — политический режим, сохраняющий римскую форму вне единого двора.",
+    "importance": "Карточка раскрывает главу «Галльская империя и Пальмира» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: III век.",
+      "Основной смысл: политический режим, сохраняющий римскую форму вне единого двора.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Галльская империя и Пальмира",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 6,
+      "culture": 7,
+      "politics": 6,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Поздняя Римская империя",
+      "lat": 42.0,
+      "lon": 20.0
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-04/lar_s_04_08.svg",
+      "caption": "Локальная учебная обложка: Региональная империя внутри Рима",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Aurelian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_04_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Aurelian",
+      "url": "https://www.britannica.com/biography/Aurelian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_04"
+  },
+  {
+    "id": "LAR_S_05_01",
+    "type": "PERSON",
+    "title": "Аврелиан как restitutor orbis",
+    "original": "Aurelian as restitutor orbis",
+    "subtitle": "император, представленный восстановителем римского мира",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "270–275 годы",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Аврелиан как restitutor orbis — император, представленный восстановителем римского мира.",
+    "importance": "Карточка раскрывает главу «Аврелиан и восстановление единства» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 270–275 годы.",
+      "Основной смысл: император, представленный восстановителем римского мира.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Аврелиан и восстановление единства",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 5,
+      "culture": 6,
+      "politics": 9,
+      "religion": 4,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.483
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-05/lar_s_05_01.svg",
+      "caption": "Локальная учебная обложка: Аврелиан как restitutor orbis",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Aurelian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Aurelian",
+      "url": "https://www.britannica.com/biography/Aurelian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_05"
+  },
+  {
+    "id": "LAR_S_05_02",
+    "type": "WAR",
+    "title": "Битва при Иммах",
+    "original": "Battle of Immae",
+    "subtitle": "победа Аврелиана над пальмирской конницей близ Антиохии",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "272 год",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Битва при Иммах — победа Аврелиана над пальмирской конницей близ Антиохии.",
+    "importance": "Карточка раскрывает главу «Аврелиан и восстановление единства» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 272 год.",
+      "Основной смысл: победа Аврелиана над пальмирской конницей близ Антиохии.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Аврелиан и восстановление единства",
+      "war"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 7,
+      "culture": 7,
+      "politics": 6,
+      "religion": 5,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Антиохия",
+      "lat": 36.202,
+      "lon": 36.161
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-05/lar_s_05_02.svg",
+      "caption": "Локальная учебная обложка: Битва при Иммах",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Aurelian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Aurelian",
+      "url": "https://www.britannica.com/biography/Aurelian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_05"
+  },
+  {
+    "id": "LAR_S_05_03",
+    "type": "WAR",
+    "title": "Осада Пальмиры Аврелианом",
+    "original": "Aurelian siege of Palmyra",
+    "subtitle": "капитуляция восточной столицы после похода императора",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "272 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Осада Пальмиры Аврелианом — капитуляция восточной столицы после похода императора.",
+    "importance": "Карточка раскрывает главу «Аврелиан и восстановление единства» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 272 год.",
+      "Основной смысл: капитуляция восточной столицы после похода императора.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Аврелиан и восстановление единства",
+      "war"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 9,
+      "culture": 8,
+      "politics": 7,
+      "religion": 6,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Пальмира",
+      "lat": 34.55,
+      "lon": 38.267
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-05/lar_s_05_03.svg",
+      "caption": "Локальная учебная обложка: Осада Пальмиры Аврелианом",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Aurelian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Aurelian",
+      "url": "https://www.britannica.com/biography/Aurelian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_05"
+  },
+  {
+    "id": "LAR_S_05_04",
+    "type": "EVENT",
+    "title": "Триумф с Зенобией",
+    "original": "Triumph with Zenobia",
+    "subtitle": "римское представление восстановления восточных провинций",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "274 год",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Триумф с Зенобией — римское представление восстановления восточных провинций.",
+    "importance": "Карточка раскрывает главу «Аврелиан и восстановление единства» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 274 год.",
+      "Основной смысл: римское представление восстановления восточных провинций.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Аврелиан и восстановление единства",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 5,
+      "culture": 9,
+      "politics": 8,
+      "religion": 7,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.483
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-05/lar_s_05_04.svg",
+      "caption": "Локальная учебная обложка: Триумф с Зенобией",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Aurelian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Aurelian",
+      "url": "https://www.britannica.com/biography/Aurelian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_05"
+  },
+  {
+    "id": "LAR_S_05_05",
+    "type": "WAR",
+    "title": "Поражение Тетрика при Шалоне",
+    "original": "Defeat of Tetricus at Châlons",
+    "subtitle": "завершение галльского императорского режима",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "274 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Поражение Тетрика при Шалоне — завершение галльского императорского режима.",
+    "importance": "Карточка раскрывает главу «Аврелиан и восстановление единства» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 274 год.",
+      "Основной смысл: завершение галльского императорского режима.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Аврелиан и восстановление единства",
+      "war"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 7,
+      "culture": 5,
+      "politics": 9,
+      "religion": 8,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Галлия",
+      "lat": 46.5,
+      "lon": 2.5
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-05/lar_s_05_05.svg",
+      "caption": "Локальная учебная обложка: Поражение Тетрика при Шалоне",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Aurelian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_05_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Aurelian",
+      "url": "https://www.britannica.com/biography/Aurelian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_05"
+  },
+  {
+    "id": "LAR_S_05_06",
+    "type": "BUILDING",
+    "title": "Аврелиановы стены Рима",
+    "original": "Aurelian Walls of Rome",
+    "subtitle": "новая городская оборона вокруг расширившейся столицы",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "271–275 годы",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Аврелиановы стены Рима — новая городская оборона вокруг расширившейся столицы.",
+    "importance": "Карточка раскрывает главу «Аврелиан и восстановление единства» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 271–275 годы.",
+      "Основной смысл: новая городская оборона вокруг расширившейся столицы.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Аврелиан и восстановление единства",
+      "building"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 9,
+      "culture": 6,
+      "politics": 6,
+      "religion": 9,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.483
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-05/lar_s_05_06.svg",
+      "caption": "Локальная учебная обложка: Аврелиановы стены Рима",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Aurelian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_05_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Aurelian",
+      "url": "https://www.britannica.com/biography/Aurelian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_05"
+  },
+  {
+    "id": "LAR_S_05_07",
+    "type": "ECONOMIC",
+    "title": "Реформа антониниана Аврелиана",
+    "original": "Aurelian coin reform",
+    "subtitle": "попытка улучшить контроль качества императорской монеты",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "274 год",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Реформа антониниана Аврелиана — попытка улучшить контроль качества императорской монеты.",
+    "importance": "Карточка раскрывает главу «Аврелиан и восстановление единства» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 274 год.",
+      "Основной смысл: попытка улучшить контроль качества императорской монеты.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Аврелиан и восстановление единства",
+      "economic"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 5,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.483
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-05/lar_s_05_07.svg",
+      "caption": "Локальная учебная обложка: Реформа антониниана Аврелиана",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Aurelian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_05_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Aurelian",
+      "url": "https://www.britannica.com/biography/Aurelian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_05"
+  },
+  {
+    "id": "LAR_S_05_08",
+    "type": "RELIGION",
+    "title": "Культ Непобедимого Солнца при дворе",
+    "original": "Sol Invictus at Aurelian court",
+    "subtitle": "императорский культ, связанный с победой и единством",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "III век",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Культ Непобедимого Солнца при дворе — императорский культ, связанный с победой и единством.",
+    "importance": "Карточка раскрывает главу «Аврелиан и восстановление единства» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: III век.",
+      "Основной смысл: императорский культ, связанный с победой и единством.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Аврелиан и восстановление единства",
+      "religion"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 7,
+      "culture": 8,
+      "politics": 8,
+      "religion": 5,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Эмеса",
+      "lat": 34.73,
+      "lon": 36.71
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-05/lar_s_05_08.svg",
+      "caption": "Локальная учебная обложка: Культ Непобедимого Солнца при дворе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Aurelian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_05_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Aurelian",
+      "url": "https://www.britannica.com/biography/Aurelian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_05"
+  },
+  {
+    "id": "LAR_S_06_01",
+    "type": "PERSON",
+    "title": "Диоклетиан после победы над Карином",
+    "original": "Diocletian after defeating Carinus",
+    "subtitle": "правитель, завершивший последнюю гражданскую войну кризиса III века",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "285 год",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Диоклетиан после победы над Карином — правитель, завершивший последнюю гражданскую войну кризиса III века.",
+    "importance": "Карточка раскрывает главу «Диоклетиан и тетрархия» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 285 год.",
+      "Основной смысл: правитель, завершивший последнюю гражданскую войну кризиса III века.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Диоклетиан и тетрархия",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 7,
+      "religion": 5,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "дунайская граница",
+      "lat": 44.8,
+      "lon": 20.45
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-06/lar_s_06_01.svg",
+      "caption": "Локальная учебная обложка: Диоклетиан после победы над Карином",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Diocletian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Diocletian",
+      "url": "https://www.britannica.com/biography/Diocletian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_06"
+  },
+  {
+    "id": "LAR_S_06_02",
+    "type": "PERSON",
+    "title": "Максимиан как западный август",
+    "original": "Maximian as western Augustus",
+    "subtitle": "соправитель Диоклетиана на западных фронтах",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "286–305 годы",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Максимиан как западный август — соправитель Диоклетиана на западных фронтах.",
+    "importance": "Карточка раскрывает главу «Диоклетиан и тетрархия» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 286–305 годы.",
+      "Основной смысл: соправитель Диоклетиана на западных фронтах.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Диоклетиан и тетрархия",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 8,
+      "culture": 8,
+      "politics": 8,
+      "religion": 6,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Медиолан",
+      "lat": 45.464,
+      "lon": 9.19
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-06/lar_s_06_02.svg",
+      "caption": "Локальная учебная обложка: Максимиан как западный август",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Diocletian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Diocletian",
+      "url": "https://www.britannica.com/biography/Diocletian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_06"
+  },
+  {
+    "id": "LAR_S_06_03",
+    "type": "POLITICAL",
+    "title": "Четыре двора тетрархии",
+    "original": "Four courts of the Tetrarchy",
+    "subtitle": "распределение императорского присутствия между несколькими центрами",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "293–305 годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Четыре двора тетрархии — распределение императорского присутствия между несколькими центрами.",
+    "importance": "Карточка раскрывает главу «Диоклетиан и тетрархия» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 293–305 годы.",
+      "Основной смысл: распределение императорского присутствия между несколькими центрами.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Диоклетиан и тетрархия",
+      "political"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 9,
+      "religion": 7,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Поздняя Римская империя",
+      "lat": 42.0,
+      "lon": 20.0
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-06/lar_s_06_03.svg",
+      "caption": "Локальная учебная обложка: Четыре двора тетрархии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Diocletian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Diocletian",
+      "url": "https://www.britannica.com/biography/Diocletian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_06"
+  },
+  {
+    "id": "LAR_S_06_04",
+    "type": "PERSON",
+    "title": "Галерий на Балканах и Востоке",
+    "original": "Galerius in Balkans and East",
+    "subtitle": "цезарь и военный командующий дунайского и персидского направлений",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "293–305 годы",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Галерий на Балканах и Востоке — цезарь и военный командующий дунайского и персидского направлений.",
+    "importance": "Карточка раскрывает главу «Диоклетиан и тетрархия» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 293–305 годы.",
+      "Основной смысл: цезарь и военный командующий дунайского и персидского направлений.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Диоклетиан и тетрархия",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 6,
+      "culture": 5,
+      "politics": 6,
+      "religion": 8,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сирмий",
+      "lat": 44.981,
+      "lon": 19.61
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-06/lar_s_06_04.svg",
+      "caption": "Локальная учебная обложка: Галерий на Балканах и Востоке",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Diocletian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Diocletian",
+      "url": "https://www.britannica.com/biography/Diocletian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_06"
+  },
+  {
+    "id": "LAR_S_06_05",
+    "type": "PERSON",
+    "title": "Констанций Хлор в Галлии и Британии",
+    "original": "Constantius Chlorus in Gaul and Britain",
+    "subtitle": "цезарь Запада, вернувший Британию империи",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "293–306 годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Констанций Хлор в Галлии и Британии — цезарь Запада, вернувший Британию империи.",
+    "importance": "Карточка раскрывает главу «Диоклетиан и тетрархия» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 293–306 годы.",
+      "Основной смысл: цезарь Запада, вернувший Британию империи.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Диоклетиан и тетрархия",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 8,
+      "culture": 6,
+      "politics": 7,
+      "religion": 9,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Августа Треверов",
+      "lat": 49.756,
+      "lon": 6.641
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-06/lar_s_06_05.svg",
+      "caption": "Локальная учебная обложка: Констанций Хлор в Галлии и Британии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Diocletian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_06_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Diocletian",
+      "url": "https://www.britannica.com/biography/Diocletian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_06"
+  },
+  {
+    "id": "LAR_S_06_06",
+    "type": "CITY",
+    "title": "Никомедия как двор Диоклетиана",
+    "original": "Nicomedia as Diocletian court",
+    "subtitle": "восточная императорская резиденция у проливов и азиатских дорог",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "конец III века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Никомедия как двор Диоклетиана — восточная императорская резиденция у проливов и азиатских дорог.",
+    "importance": "Карточка раскрывает главу «Диоклетиан и тетрархия» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: конец III века.",
+      "Основной смысл: восточная императорская резиденция у проливов и азиатских дорог.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Диоклетиан и тетрархия",
+      "city"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 8,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Никомедия",
+      "lat": 40.766,
+      "lon": 29.916
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-06/lar_s_06_06.svg",
+      "caption": "Локальная учебная обложка: Никомедия как двор Диоклетиана",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Diocletian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_06_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Diocletian",
+      "url": "https://www.britannica.com/biography/Diocletian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_06"
+  },
+  {
+    "id": "LAR_S_06_07",
+    "type": "CITY",
+    "title": "Сирмий как дунайский центр",
+    "original": "Sirmium as Danubian centre",
+    "subtitle": "стратегический двор и военная база тетрархии",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "конец III века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Сирмий как дунайский центр — стратегический двор и военная база тетрархии.",
+    "importance": "Карточка раскрывает главу «Диоклетиан и тетрархия» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: конец III века.",
+      "Основной смысл: стратегический двор и военная база тетрархии.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Диоклетиан и тетрархия",
+      "city"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 6,
+      "culture": 8,
+      "politics": 9,
+      "religion": 5,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Сирмий",
+      "lat": 44.981,
+      "lon": 19.61
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-06/lar_s_06_07.svg",
+      "caption": "Локальная учебная обложка: Сирмий как дунайский центр",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Diocletian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_06_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Diocletian",
+      "url": "https://www.britannica.com/biography/Diocletian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_06"
+  },
+  {
+    "id": "LAR_S_06_08",
+    "type": "EVENT",
+    "title": "Отречение 305 года",
+    "original": "Abdication of 305",
+    "subtitle": "добровольный уход двух августов и проверка системы преемства",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "305 год",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Отречение 305 года — добровольный уход двух августов и проверка системы преемства.",
+    "importance": "Карточка раскрывает главу «Диоклетиан и тетрархия» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 305 год.",
+      "Основной смысл: добровольный уход двух августов и проверка системы преемства.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Диоклетиан и тетрархия",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 8,
+      "culture": 9,
+      "politics": 6,
+      "religion": 6,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Никомедия",
+      "lat": 40.766,
+      "lon": 29.916
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-06/lar_s_06_08.svg",
+      "caption": "Локальная учебная обложка: Отречение 305 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Diocletian",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_06_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Diocletian",
+      "url": "https://www.britannica.com/biography/Diocletian",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_06"
+  },
+  {
+    "id": "LAR_S_07_01",
+    "type": "POLITICAL",
+    "title": "Диоцезы позднеримской администрации",
+    "original": "Late Roman dioceses",
+    "subtitle": "группы провинций под управлением викариев",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "IV век",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Диоцезы позднеримской администрации — группы провинций под управлением викариев.",
+    "importance": "Карточка раскрывает главу «Налоги, провинции и новая администрация» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: группы провинций под управлением викариев.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Налоги, провинции и новая администрация",
+      "political"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 8,
+      "politics": 9,
+      "religion": 6,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Поздняя Римская империя",
+      "lat": 42.0,
+      "lon": 20.0
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-07/lar_s_07_01.svg",
+      "caption": "Локальная учебная обложка: Диоцезы позднеримской администрации",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/ancient/301price-edict.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Fordham University Internet Medieval Sourcebook: Diocletian’s Edict on Maximum Prices",
+      "url": "https://sourcebooks.fordham.edu/ancient/301price-edict.asp",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_07"
+  },
+  {
+    "id": "LAR_S_07_02",
+    "type": "POLITICAL",
+    "title": "Преторианские префектуры как гражданские округа",
+    "original": "Praetorian prefectures as civil districts",
+    "subtitle": "крупные уровни управления поздней империи",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "IV век",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Преторианские префектуры как гражданские округа — крупные уровни управления поздней империи.",
+    "importance": "Карточка раскрывает главу «Налоги, провинции и новая администрация» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: крупные уровни управления поздней империи.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Налоги, провинции и новая администрация",
+      "political"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 9,
+      "culture": 9,
+      "politics": 6,
+      "religion": 7,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Поздняя Римская империя",
+      "lat": 42.0,
+      "lon": 20.0
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-07/lar_s_07_02.svg",
+      "caption": "Локальная учебная обложка: Преторианские префектуры как гражданские округа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/ancient/301price-edict.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Fordham University Internet Medieval Sourcebook: Diocletian’s Edict on Maximum Prices",
+      "url": "https://sourcebooks.fordham.edu/ancient/301price-edict.asp",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_07"
+  },
+  {
+    "id": "LAR_S_07_03",
+    "type": "CONCEPT",
+    "title": "Разделение гражданской и военной власти",
+    "original": "Separation of civil and military authority",
+    "subtitle": "ограничение концентрации полномочий в руках губернатора",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "конец III–IV век",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Разделение гражданской и военной власти — ограничение концентрации полномочий в руках губернатора.",
+    "importance": "Карточка раскрывает главу «Налоги, провинции и новая администрация» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: конец III–IV век.",
+      "Основной смысл: ограничение концентрации полномочий в руках губернатора.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Налоги, провинции и новая администрация",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 5,
+      "politics": 7,
+      "religion": 8,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Поздняя Римская империя",
+      "lat": 42.0,
+      "lon": 20.0
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-07/lar_s_07_03.svg",
+      "caption": "Локальная учебная обложка: Разделение гражданской и военной власти",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/ancient/301price-edict.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Fordham University Internet Medieval Sourcebook: Diocletian’s Edict on Maximum Prices",
+      "url": "https://sourcebooks.fordham.edu/ancient/301price-edict.asp",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_07"
+  },
+  {
+    "id": "LAR_S_07_04",
+    "type": "ECONOMIC",
+    "title": "Налоговая оценка земли и людей",
+    "original": "Land and population tax assessment",
+    "subtitle": "система расчёта поставок и денежных обязательств",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "конец III–IV век",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Налоговая оценка земли и людей — система расчёта поставок и денежных обязательств.",
+    "importance": "Карточка раскрывает главу «Налоги, провинции и новая администрация» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: конец III–IV век.",
+      "Основной смысл: система расчёта поставок и денежных обязательств.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Налоги, провинции и новая администрация",
+      "economic"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 8,
+      "religion": 9,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Египет",
+      "lat": 29.98,
+      "lon": 31.13
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-07/lar_s_07_04.svg",
+      "caption": "Локальная учебная обложка: Налоговая оценка земли и людей",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/ancient/301price-edict.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_07_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Fordham University Internet Medieval Sourcebook: Diocletian’s Edict on Maximum Prices",
+      "url": "https://sourcebooks.fordham.edu/ancient/301price-edict.asp",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_07"
+  },
+  {
+    "id": "LAR_S_07_05",
+    "type": "ECONOMIC",
+    "title": "Аннона милитарис",
+    "original": "Annona militaris",
+    "subtitle": "поставки зерна, животных и иных ресурсов для армии",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "III–IV века",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Аннона милитарис — поставки зерна, животных и иных ресурсов для армии.",
+    "importance": "Карточка раскрывает главу «Налоги, провинции и новая администрация» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: III–IV века.",
+      "Основной смысл: поставки зерна, животных и иных ресурсов для армии.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Налоги, провинции и новая администрация",
+      "economic"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 9,
+      "culture": 7,
+      "politics": 9,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "дунайская граница",
+      "lat": 44.8,
+      "lon": 20.45
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-07/lar_s_07_05.svg",
+      "caption": "Локальная учебная обложка: Аннона милитарис",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/ancient/301price-edict.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_07_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Fordham University Internet Medieval Sourcebook: Diocletian’s Edict on Maximum Prices",
+      "url": "https://sourcebooks.fordham.edu/ancient/301price-edict.asp",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_07"
+  },
+  {
+    "id": "LAR_S_07_06",
+    "type": "POLITICAL",
+    "title": "Курии и ответственность городских советов",
+    "original": "Curiae and municipal responsibility",
+    "subtitle": "обязанность местных декурионов обеспечивать сбор налогов",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "IV век",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Курии и ответственность городских советов — обязанность местных декурионов обеспечивать сбор налогов.",
+    "importance": "Карточка раскрывает главу «Налоги, провинции и новая администрация» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: обязанность местных декурионов обеспечивать сбор налогов.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Налоги, провинции и новая администрация",
+      "political"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 6,
+      "religion": 5,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Антиохия",
+      "lat": 36.202,
+      "lon": 36.161
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-07/lar_s_07_06.svg",
+      "caption": "Локальная учебная обложка: Курии и ответственность городских советов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/ancient/301price-edict.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_07_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Fordham University Internet Medieval Sourcebook: Diocletian’s Edict on Maximum Prices",
+      "url": "https://sourcebooks.fordham.edu/ancient/301price-edict.asp",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_07"
+  },
+  {
+    "id": "LAR_S_07_07",
+    "type": "TEXT",
+    "title": "Ценовой эдикт Диоклетиана 301 года",
+    "original": "Edict on Maximum Prices",
+    "subtitle": "перечень предельных цен и заработков 301 года",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "301 год",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Ценовой эдикт Диоклетиана 301 года — перечень предельных цен и заработков 301 года.",
+    "importance": "Карточка раскрывает главу «Налоги, провинции и новая администрация» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 301 год.",
+      "Основной смысл: перечень предельных цен и заработков 301 года.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Налоги, провинции и новая администрация",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 7,
+      "culture": 9,
+      "politics": 7,
+      "religion": 6,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Никомедия",
+      "lat": 40.766,
+      "lon": 29.916
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-07/lar_s_07_07.svg",
+      "caption": "Локальная учебная обложка: Ценовой эдикт Диоклетиана 301 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/ancient/301price-edict.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_07_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Fordham University Internet Medieval Sourcebook: Diocletian’s Edict on Maximum Prices",
+      "url": "https://sourcebooks.fordham.edu/ancient/301price-edict.asp",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_07"
+  },
+  {
+    "id": "LAR_S_07_08",
+    "type": "ECONOMIC",
+    "title": "Золотой солид как расчётная опора",
+    "original": "Gold solidus as fiscal anchor",
+    "subtitle": "стабильная золотая монета эпохи Константина",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "IV век",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Золотой солид как расчётная опора — стабильная золотая монета эпохи Константина.",
+    "importance": "Карточка раскрывает главу «Налоги, провинции и новая администрация» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: стабильная золотая монета эпохи Константина.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Налоги, провинции и новая администрация",
+      "economic"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 9,
+      "culture": 5,
+      "politics": 8,
+      "religion": 7,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.008,
+      "lon": 28.978
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-07/lar_s_07_08.svg",
+      "caption": "Локальная учебная обложка: Золотой солид как расчётная опора",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/ancient/301price-edict.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_07_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Fordham University Internet Medieval Sourcebook: Diocletian’s Edict on Maximum Prices",
+      "url": "https://sourcebooks.fordham.edu/ancient/301price-edict.asp",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_07"
+  },
+  {
+    "id": "LAR_S_08_01",
+    "type": "EVENT",
+    "title": "Провозглашение Константина в Эбораке",
+    "original": "Acclamation of Constantine at Eboracum",
+    "subtitle": "выдвижение сына Констанция войсками после смерти отца",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "306 год",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Провозглашение Константина в Эбораке — выдвижение сына Констанция войсками после смерти отца.",
+    "importance": "Карточка раскрывает главу «Константин и гражданские войны» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 306 год.",
+      "Основной смысл: выдвижение сына Констанция войсками после смерти отца.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Константин и гражданские войны",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 8,
+      "culture": 9,
+      "politics": 7,
+      "religion": 7,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Эборак",
+      "lat": 53.959,
+      "lon": -1.081
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-08/lar_s_08_01.svg",
+      "caption": "Локальная учебная обложка: Провозглашение Константина в Эбораке",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Constantine I",
+      "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_08"
+  },
+  {
+    "id": "LAR_S_08_02",
+    "type": "PERSON",
+    "title": "Максенций и власть в Риме",
+    "original": "Maxentius and rule in Rome",
+    "subtitle": "соперник Константина, опиравшийся на Италию и преторианцев",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "306–312 годы",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Максенций и власть в Риме — соперник Константина, опиравшийся на Италию и преторианцев.",
+    "importance": "Карточка раскрывает главу «Константин и гражданские войны» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 306–312 годы.",
+      "Основной смысл: соперник Константина, опиравшийся на Италию и преторианцев.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Константин и гражданские войны",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 4,
+      "culture": 5,
+      "politics": 8,
+      "religion": 8,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.483
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-08/lar_s_08_02.svg",
+      "caption": "Локальная учебная обложка: Максенций и власть в Риме",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Constantine I",
+      "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_08"
+  },
+  {
+    "id": "LAR_S_08_03",
+    "type": "WAR",
+    "title": "Битва у Мульвийского моста",
+    "original": "Battle of the Milvian Bridge",
+    "subtitle": "решающая победа Константина над Максенцием",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "312 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Битва у Мульвийского моста — решающая победа Константина над Максенцием.",
+    "importance": "Карточка раскрывает главу «Константин и гражданские войны» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 312 год.",
+      "Основной смысл: решающая победа Константина над Максенцием.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Константин и гражданские войны",
+      "war"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 6,
+      "culture": 6,
+      "politics": 9,
+      "religion": 9,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.483
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-08/lar_s_08_03.svg",
+      "caption": "Локальная учебная обложка: Битва у Мульвийского моста",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Constantine I",
+      "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_08"
+  },
+  {
+    "id": "LAR_S_08_04",
+    "type": "TEXT",
+    "title": "Миланские соглашения 313 года",
+    "original": "Milan agreements of 313",
+    "subtitle": "императорские меры о свободе культа и возврате имущества",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "313 год",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Миланские соглашения 313 года — императорские меры о свободе культа и возврате имущества.",
+    "importance": "Карточка раскрывает главу «Константин и гражданские войны» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 313 год.",
+      "Основной смысл: императорские меры о свободе культа и возврате имущества.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Константин и гражданские войны",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 8,
+      "culture": 7,
+      "politics": 6,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Медиолан",
+      "lat": 45.464,
+      "lon": 9.19
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-08/lar_s_08_04.svg",
+      "caption": "Локальная учебная обложка: Миланские соглашения 313 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_08_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Constantine I",
+      "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_08"
+  },
+  {
+    "id": "LAR_S_08_05",
+    "type": "PERSON",
+    "title": "Лициний как восточный август",
+    "original": "Licinius as eastern Augustus",
+    "subtitle": "соправитель и позднее противник Константина",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "308–324 годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Лициний как восточный август — соправитель и позднее противник Константина.",
+    "importance": "Карточка раскрывает главу «Константин и гражданские войны» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 308–324 годы.",
+      "Основной смысл: соправитель и позднее противник Константина.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Константин и гражданские войны",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 4,
+      "culture": 8,
+      "politics": 7,
+      "religion": 5,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Никомедия",
+      "lat": 40.766,
+      "lon": 29.916
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-08/lar_s_08_05.svg",
+      "caption": "Локальная учебная обложка: Лициний как восточный август",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_08_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Constantine I",
+      "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_08"
+  },
+  {
+    "id": "LAR_S_08_06",
+    "type": "ECONOMIC",
+    "title": "Золотой солид Константина",
+    "original": "Constantinian gold solidus",
+    "subtitle": "монета, ставшая долговечной основой имперской золотой системы",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "IV век",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Золотой солид Константина — монета, ставшая долговечной основой имперской золотой системы.",
+    "importance": "Карточка раскрывает главу «Константин и гражданские войны» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: монета, ставшая долговечной основой имперской золотой системы.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Константин и гражданские войны",
+      "economic"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 8,
+      "religion": 6,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.008,
+      "lon": 28.978
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-08/lar_s_08_06.svg",
+      "caption": "Локальная учебная обложка: Золотой солид Константина",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_08_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Constantine I",
+      "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_08"
+  },
+  {
+    "id": "LAR_S_08_07",
+    "type": "RELIGION",
+    "title": "Никейский собор 325 года",
+    "original": "Council of Nicaea of 325",
+    "subtitle": "собрание епископов при участии императора",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "325 год",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Никейский собор 325 года — собрание епископов при участии императора.",
+    "importance": "Карточка раскрывает главу «Константин и гражданские войны» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 325 год.",
+      "Основной смысл: собрание епископов при участии императора.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Константин и гражданские войны",
+      "religion"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 8,
+      "culture": 5,
+      "politics": 9,
+      "religion": 7,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Никомедия",
+      "lat": 40.766,
+      "lon": 29.916
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-08/lar_s_08_07.svg",
+      "caption": "Локальная учебная обложка: Никейский собор 325 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_08_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Constantine I",
+      "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_08"
+  },
+  {
+    "id": "LAR_S_08_08",
+    "type": "POLITICAL",
+    "title": "Династия Константина",
+    "original": "Constantinian dynasty",
+    "subtitle": "семейная передача власти после победы в гражданских войнах",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "IV век",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Династия Константина — семейная передача власти после победы в гражданских войнах.",
+    "importance": "Карточка раскрывает главу «Константин и гражданские войны» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: семейная передача власти после победы в гражданских войнах.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Константин и гражданские войны",
+      "political"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 4,
+      "culture": 6,
+      "politics": 6,
+      "religion": 8,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Поздняя Римская империя",
+      "lat": 42.0,
+      "lon": 20.0
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-08/lar_s_08_08.svg",
+      "caption": "Локальная учебная обложка: Династия Константина",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_08_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Constantine I",
+      "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_08"
+  },
+  {
+    "id": "LAR_S_09_01",
+    "type": "EVENT",
+    "title": "Основание Нового Рима",
+    "original": "Foundation of New Rome",
+    "subtitle": "перестройка Византия в императорскую столицу",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "324–330 годы",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Основание Нового Рима — перестройка Византия в императорскую столицу.",
+    "importance": "Карточка раскрывает главу «Константинополь и новые центры власти» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 324–330 годы.",
+      "Основной смысл: перестройка Византия в императорскую столицу.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Константинополь и новые центры власти",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 9,
+      "culture": 5,
+      "politics": 9,
+      "religion": 8,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.008,
+      "lon": 28.978
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-09/lar_s_09_01.svg",
+      "caption": "Локальная учебная обложка: Основание Нового Рима",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/356/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_09_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Historic Areas of Istanbul",
+      "url": "https://whc.unesco.org/en/list/356/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_09"
+  },
+  {
+    "id": "LAR_S_09_02",
+    "type": "GEOGRAPHY",
+    "title": "Босфор как стратегический узел",
+    "original": "Bosporus as strategic hub",
+    "subtitle": "контроль морских путей между Чёрным и Средиземным морями",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "IV век",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Босфор как стратегический узел — контроль морских путей между Чёрным и Средиземным морями.",
+    "importance": "Карточка раскрывает главу «Константинополь и новые центры власти» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: контроль морских путей между Чёрным и Средиземным морями.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Константинополь и новые центры власти",
+      "geography"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 5,
+      "culture": 6,
+      "politics": 6,
+      "religion": 9,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.008,
+      "lon": 28.978
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-09/lar_s_09_02.svg",
+      "caption": "Локальная учебная обложка: Босфор как стратегический узел",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/356/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_09_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Historic Areas of Istanbul",
+      "url": "https://whc.unesco.org/en/list/356/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_09"
+  },
+  {
+    "id": "LAR_S_09_03",
+    "type": "POLITICAL",
+    "title": "Константинопольский сенат",
+    "original": "Senate of Constantinople",
+    "subtitle": "новая элитная корпорация восточной столицы",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "IV век",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Константинопольский сенат — новая элитная корпорация восточной столицы.",
+    "importance": "Карточка раскрывает главу «Константинополь и новые центры власти» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: новая элитная корпорация восточной столицы.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Константинополь и новые центры власти",
+      "political"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 7,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.008,
+      "lon": 28.978
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-09/lar_s_09_03.svg",
+      "caption": "Локальная учебная обложка: Константинопольский сенат",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/356/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_09_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Historic Areas of Istanbul",
+      "url": "https://whc.unesco.org/en/list/356/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_09"
+  },
+  {
+    "id": "LAR_S_09_04",
+    "type": "BUILDING",
+    "title": "Ипподром новой столицы",
+    "original": "Hippodrome of Constantinople",
+    "subtitle": "пространство церемоний, гонок и общения власти с городом",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "IV век",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Ипподром новой столицы — пространство церемоний, гонок и общения власти с городом.",
+    "importance": "Карточка раскрывает главу «Константинополь и новые центры власти» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: пространство церемоний, гонок и общения власти с городом.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Константинополь и новые центры власти",
+      "building"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 9,
+      "culture": 8,
+      "politics": 8,
+      "religion": 5,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.008,
+      "lon": 28.978
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-09/lar_s_09_04.svg",
+      "caption": "Локальная учебная обложка: Ипподром новой столицы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/356/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_09_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Historic Areas of Istanbul",
+      "url": "https://whc.unesco.org/en/list/356/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_09"
+  },
+  {
+    "id": "LAR_S_09_05",
+    "type": "BUILDING",
+    "title": "Колонна Константина",
+    "original": "Column of Constantine",
+    "subtitle": "монумент посвящения города и династической памяти",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "330 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Колонна Константина — монумент посвящения города и династической памяти.",
+    "importance": "Карточка раскрывает главу «Константинополь и новые центры власти» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 330 год.",
+      "Основной смысл: монумент посвящения города и династической памяти.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Константинополь и новые центры власти",
+      "building"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 5,
+      "culture": 9,
+      "politics": 9,
+      "religion": 6,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.008,
+      "lon": 28.978
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-09/lar_s_09_05.svg",
+      "caption": "Локальная учебная обложка: Колонна Константина",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/356/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_09_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Historic Areas of Istanbul",
+      "url": "https://whc.unesco.org/en/list/356/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_09"
+  },
+  {
+    "id": "LAR_S_09_06",
+    "type": "CONCEPT",
+    "title": "Императорские резиденции вне Рима",
+    "original": "Imperial residences outside Rome",
+    "subtitle": "сеть столиц и дворов у ключевых фронтиров",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "III–IV века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Императорские резиденции вне Рима — сеть столиц и дворов у ключевых фронтиров.",
+    "importance": "Карточка раскрывает главу «Константинополь и новые центры власти» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: III–IV века.",
+      "Основной смысл: сеть столиц и дворов у ключевых фронтиров.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Константинополь и новые центры власти",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 5,
+      "politics": 6,
+      "religion": 7,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Поздняя Римская империя",
+      "lat": 42.0,
+      "lon": 20.0
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-09/lar_s_09_06.svg",
+      "caption": "Локальная учебная обложка: Императорские резиденции вне Рима",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/356/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_09_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Historic Areas of Istanbul",
+      "url": "https://whc.unesco.org/en/list/356/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_09"
+  },
+  {
+    "id": "LAR_S_09_07",
+    "type": "EVENT",
+    "title": "Раздел империи между сыновьями Константина",
+    "original": "Division among sons of Constantine",
+    "subtitle": "династическое распределение территорий после 337 года",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "337 год",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Раздел империи между сыновьями Константина — династическое распределение территорий после 337 года.",
+    "importance": "Карточка раскрывает главу «Константинополь и новые центры власти» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 337 год.",
+      "Основной смысл: династическое распределение территорий после 337 года.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Константинополь и новые центры власти",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 9,
+      "culture": 6,
+      "politics": 7,
+      "religion": 8,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сирмий",
+      "lat": 44.981,
+      "lon": 19.61
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-09/lar_s_09_07.svg",
+      "caption": "Локальная учебная обложка: Раздел империи между сыновьями Константина",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/356/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_09_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Historic Areas of Istanbul",
+      "url": "https://whc.unesco.org/en/list/356/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_09"
+  },
+  {
+    "id": "LAR_S_09_08",
+    "type": "PERSON",
+    "title": "Юлиан и возвращение единой власти",
+    "original": "Julian and return to sole rule",
+    "subtitle": "последний правитель константиновской династии",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "361–363 годы",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Юлиан и возвращение единой власти — последний правитель константиновской династии.",
+    "importance": "Карточка раскрывает главу «Константинополь и новые центры власти» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 361–363 годы.",
+      "Основной смысл: последний правитель константиновской династии.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Константинополь и новые центры власти",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 5,
+      "culture": 7,
+      "politics": 8,
+      "religion": 9,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.008,
+      "lon": 28.978
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-09/lar_s_09_08.svg",
+      "caption": "Локальная учебная обложка: Юлиан и возвращение единой власти",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/356/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_09_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Historic Areas of Istanbul",
+      "url": "https://whc.unesco.org/en/list/356/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_09"
+  },
+  {
+    "id": "LAR_S_10_01",
+    "type": "MILITARY",
+    "title": "Comitatenses как полевые армии",
+    "original": "Comitatenses field armies",
+    "subtitle": "мобильные соединения при высшем командовании",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "IV век",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Comitatenses как полевые армии — мобильные соединения при высшем командовании.",
+    "importance": "Карточка раскрывает главу «Позднеримская армия и фронтир» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: мобильные соединения при высшем командовании.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Позднеримская армия и фронтир",
+      "military"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 4,
+      "culture": 6,
+      "politics": 7,
+      "religion": 9,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Поздняя Римская империя",
+      "lat": 42.0,
+      "lon": 20.0
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-10/lar_s_10_01.svg",
+      "caption": "Локальная учебная обложка: Comitatenses как полевые армии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://digital.bodleian.ox.ac.uk/objects/21aeaa95-8b90-4c19-9456-7d1db54d0a59/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_10_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Bodleian Libraries: Notitia Dignitatum",
+      "url": "https://digital.bodleian.ox.ac.uk/objects/21aeaa95-8b90-4c19-9456-7d1db54d0a59/",
+      "type": "manuscript"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_10"
+  },
+  {
+    "id": "LAR_S_10_02",
+    "type": "MILITARY",
+    "title": "Limitanei на пограничной службе",
+    "original": "Limitanei frontier troops",
+    "subtitle": "гарнизоны крепостей и речных рубежей",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "IV век",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Limitanei на пограничной службе — гарнизоны крепостей и речных рубежей.",
+    "importance": "Карточка раскрывает главу «Позднеримская армия и фронтир» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: гарнизоны крепостей и речных рубежей.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Позднеримская армия и фронтир",
+      "military"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 6,
+      "culture": 7,
+      "politics": 8,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "дунайская граница",
+      "lat": 44.8,
+      "lon": 20.45
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-10/lar_s_10_02.svg",
+      "caption": "Локальная учебная обложка: Limitanei на пограничной службе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://digital.bodleian.ox.ac.uk/objects/21aeaa95-8b90-4c19-9456-7d1db54d0a59/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_10_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Bodleian Libraries: Notitia Dignitatum",
+      "url": "https://digital.bodleian.ox.ac.uk/objects/21aeaa95-8b90-4c19-9456-7d1db54d0a59/",
+      "type": "manuscript"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_10"
+  },
+  {
+    "id": "LAR_S_10_03",
+    "type": "POLITICAL",
+    "title": "Magistri militum в высшем командовании",
+    "original": "Magistri militum in high command",
+    "subtitle": "военные магистры позднеримского двора",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "IV век",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Magistri militum в высшем командовании — военные магистры позднеримского двора.",
+    "importance": "Карточка раскрывает главу «Позднеримская армия и фронтир» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: военные магистры позднеримского двора.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Позднеримская армия и фронтир",
+      "political"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 8,
+      "culture": 8,
+      "politics": 9,
+      "religion": 5,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.008,
+      "lon": 28.978
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-10/lar_s_10_03.svg",
+      "caption": "Локальная учебная обложка: Magistri militum в высшем командовании",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://digital.bodleian.ox.ac.uk/objects/21aeaa95-8b90-4c19-9456-7d1db54d0a59/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_10_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Bodleian Libraries: Notitia Dignitatum",
+      "url": "https://digital.bodleian.ox.ac.uk/objects/21aeaa95-8b90-4c19-9456-7d1db54d0a59/",
+      "type": "manuscript"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_10"
+  },
+  {
+    "id": "LAR_S_10_04",
+    "type": "EVENT",
+    "title": "Роспуск преторианцев Константином",
+    "original": "Dissolution of Praetorian Guard",
+    "subtitle": "ликвидация старой столичной гвардии после победы над Максенцием",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "312 год",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Роспуск преторианцев Константином — ликвидация старой столичной гвардии после победы над Максенцием.",
+    "importance": "Карточка раскрывает главу «Позднеримская армия и фронтир» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 312 год.",
+      "Основной смысл: ликвидация старой столичной гвардии после победы над Максенцием.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Позднеримская армия и фронтир",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 4,
+      "culture": 9,
+      "politics": 6,
+      "religion": 6,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.483
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-10/lar_s_10_04.svg",
+      "caption": "Локальная учебная обложка: Роспуск преторианцев Константином",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://digital.bodleian.ox.ac.uk/objects/21aeaa95-8b90-4c19-9456-7d1db54d0a59/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_10_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Bodleian Libraries: Notitia Dignitatum",
+      "url": "https://digital.bodleian.ox.ac.uk/objects/21aeaa95-8b90-4c19-9456-7d1db54d0a59/",
+      "type": "manuscript"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_10"
+  },
+  {
+    "id": "LAR_S_10_05",
+    "type": "WAR",
+    "title": "Аргенторат и армия Юлиана",
+    "original": "Battle of Argentoratum",
+    "subtitle": "победа римских сил над аламаннами на рейнском фронте",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "357 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Аргенторат и армия Юлиана — победа римских сил над аламаннами на рейнском фронте.",
+    "importance": "Карточка раскрывает главу «Позднеримская армия и фронтир» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 357 год.",
+      "Основной смысл: победа римских сил над аламаннами на рейнском фронте.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Позднеримская армия и фронтир",
+      "war"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 6,
+      "culture": 5,
+      "politics": 7,
+      "religion": 7,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "рейнская граница",
+      "lat": 50.0,
+      "lon": 7.0
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-10/lar_s_10_05.svg",
+      "caption": "Локальная учебная обложка: Аргенторат и армия Юлиана",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://digital.bodleian.ox.ac.uk/objects/21aeaa95-8b90-4c19-9456-7d1db54d0a59/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_10_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Bodleian Libraries: Notitia Dignitatum",
+      "url": "https://digital.bodleian.ox.ac.uk/objects/21aeaa95-8b90-4c19-9456-7d1db54d0a59/",
+      "type": "manuscript"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_10"
+  },
+  {
+    "id": "LAR_S_10_06",
+    "type": "WAR",
+    "title": "Персидский поход Юлиана",
+    "original": "Julian Persian campaign",
+    "subtitle": "неудачное вторжение в Месопотамию и гибель императора",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "363 год",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Персидский поход Юлиана — неудачное вторжение в Месопотамию и гибель императора.",
+    "importance": "Карточка раскрывает главу «Позднеримская армия и фронтир» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 363 год.",
+      "Основной смысл: неудачное вторжение в Месопотамию и гибель императора.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Позднеримская армия и фронтир",
+      "war"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 6,
+      "politics": 8,
+      "religion": 8,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Ктесифон",
+      "lat": 33.093,
+      "lon": 44.581
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-10/lar_s_10_06.svg",
+      "caption": "Локальная учебная обложка: Персидский поход Юлиана",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://digital.bodleian.ox.ac.uk/objects/21aeaa95-8b90-4c19-9456-7d1db54d0a59/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_10_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Bodleian Libraries: Notitia Dignitatum",
+      "url": "https://digital.bodleian.ox.ac.uk/objects/21aeaa95-8b90-4c19-9456-7d1db54d0a59/",
+      "type": "manuscript"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_10"
+  },
+  {
+    "id": "LAR_S_10_07",
+    "type": "EVENT",
+    "title": "Готское переселение через Дунай",
+    "original": "Gothic crossing of the Danube",
+    "subtitle": "допуск крупных групп переселенцев на римскую территорию",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "376 год",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Готское переселение через Дунай — допуск крупных групп переселенцев на римскую территорию.",
+    "importance": "Карточка раскрывает главу «Позднеримская армия и фронтир» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 376 год.",
+      "Основной смысл: допуск крупных групп переселенцев на римскую территорию.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Позднеримская армия и фронтир",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 4,
+      "culture": 7,
+      "politics": 9,
+      "religion": 9,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "дунайская граница",
+      "lat": 44.8,
+      "lon": 20.45
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-10/lar_s_10_07.svg",
+      "caption": "Локальная учебная обложка: Готское переселение через Дунай",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://digital.bodleian.ox.ac.uk/objects/21aeaa95-8b90-4c19-9456-7d1db54d0a59/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_10_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Bodleian Libraries: Notitia Dignitatum",
+      "url": "https://digital.bodleian.ox.ac.uk/objects/21aeaa95-8b90-4c19-9456-7d1db54d0a59/",
+      "type": "manuscript"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_10"
+  },
+  {
+    "id": "LAR_S_10_08",
+    "type": "WAR",
+    "title": "Битва при Адрианополе",
+    "original": "Battle of Adrianople",
+    "subtitle": "поражение восточной армии и гибель императора Валента",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "378 год",
+    "rarity": "EPIC",
+    "difficulty": 11,
+    "summary": "Битва при Адрианополе — поражение восточной армии и гибель императора Валента.",
+    "importance": "Карточка раскрывает главу «Позднеримская армия и фронтир» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 378 год.",
+      "Основной смысл: поражение восточной армии и гибель императора Валента.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Позднеримская армия и фронтир",
+      "war"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 6,
+      "culture": 8,
+      "politics": 6,
+      "religion": 4,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Адрианополь",
+      "lat": 41.677,
+      "lon": 26.556
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-10/lar_s_10_08.svg",
+      "caption": "Локальная учебная обложка: Битва при Адрианополе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://digital.bodleian.ox.ac.uk/objects/21aeaa95-8b90-4c19-9456-7d1db54d0a59/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_10_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Bodleian Libraries: Notitia Dignitatum",
+      "url": "https://digital.bodleian.ox.ac.uk/objects/21aeaa95-8b90-4c19-9456-7d1db54d0a59/",
+      "type": "manuscript"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_10"
+  },
+  {
+    "id": "LAR_S_11_01",
+    "type": "PERSON",
+    "title": "Феодосий I на восточном престоле",
+    "original": "Theodosius I on the eastern throne",
+    "subtitle": "император, назначенный после катастрофы Валента",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "379–395 годы",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Феодосий I на восточном престоле — император, назначенный после катастрофы Валента.",
+    "importance": "Карточка раскрывает главу «Феодосий и раздел 395 года» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 379–395 годы.",
+      "Основной смысл: император, назначенный после катастрофы Валента.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Феодосий и раздел 395 года",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 5,
+      "culture": 7,
+      "politics": 9,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Фессалоника",
+      "lat": 40.64,
+      "lon": 22.944
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-11/lar_s_11_01.svg",
+      "caption": "Локальная учебная обложка: Феодосий I на восточном престоле",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh01_mommsen.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_11_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Roman Law Library: Codex Theodosianus",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh01_mommsen.htm",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_11"
+  },
+  {
+    "id": "LAR_S_11_02",
+    "type": "TEXT",
+    "title": "Фессалоникийский эдикт 380 года",
+    "original": "Edict of Thessalonica of 380",
+    "subtitle": "императорская поддержка никейской формы христианства",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "380 год",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Фессалоникийский эдикт 380 года — императорская поддержка никейской формы христианства.",
+    "importance": "Карточка раскрывает главу «Феодосий и раздел 395 года» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 380 год.",
+      "Основной смысл: императорская поддержка никейской формы христианства.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Феодосий и раздел 395 года",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 7,
+      "culture": 8,
+      "politics": 6,
+      "religion": 5,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Фессалоника",
+      "lat": 40.64,
+      "lon": 22.944
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-11/lar_s_11_02.svg",
+      "caption": "Локальная учебная обложка: Фессалоникийский эдикт 380 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh01_mommsen.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_11_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Roman Law Library: Codex Theodosianus",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh01_mommsen.htm",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_11"
+  },
+  {
+    "id": "LAR_S_11_03",
+    "type": "RELIGION",
+    "title": "Константинопольский собор 381 года",
+    "original": "Council of Constantinople of 381",
+    "subtitle": "собрание, развившее никейское вероучение и церковный порядок",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "381 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Константинопольский собор 381 года — собрание, развившее никейское вероучение и церковный порядок.",
+    "importance": "Карточка раскрывает главу «Феодосий и раздел 395 года» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 381 год.",
+      "Основной смысл: собрание, развившее никейское вероучение и церковный порядок.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Феодосий и раздел 395 года",
+      "religion"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 9,
+      "culture": 9,
+      "politics": 7,
+      "religion": 6,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.008,
+      "lon": 28.978
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-11/lar_s_11_03.svg",
+      "caption": "Локальная учебная обложка: Константинопольский собор 381 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh01_mommsen.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_11_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Roman Law Library: Codex Theodosianus",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh01_mommsen.htm",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_11"
+  },
+  {
+    "id": "LAR_S_11_04",
+    "type": "POLITICAL",
+    "title": "Готское соглашение 382 года",
+    "original": "Gothic settlement of 382",
+    "subtitle": "договорные отношения между двором и военными переселенцами",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "382 год",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Готское соглашение 382 года — договорные отношения между двором и военными переселенцами.",
+    "importance": "Карточка раскрывает главу «Феодосий и раздел 395 года» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 382 год.",
+      "Основной смысл: договорные отношения между двором и военными переселенцами.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Феодосий и раздел 395 года",
+      "political"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 5,
+      "culture": 5,
+      "politics": 8,
+      "religion": 7,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "дунайская граница",
+      "lat": 44.8,
+      "lon": 20.45
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-11/lar_s_11_04.svg",
+      "caption": "Локальная учебная обложка: Готское соглашение 382 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh01_mommsen.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_11_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Roman Law Library: Codex Theodosianus",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh01_mommsen.htm",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_11"
+  },
+  {
+    "id": "LAR_S_11_05",
+    "type": "PERSON",
+    "title": "Магн Максим и западная узурпация",
+    "original": "Magnus Maximus and western usurpation",
+    "subtitle": "военный правитель Британии, Галлии и части Италии",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "383–388 годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Магн Максим и западная узурпация — военный правитель Британии, Галлии и части Италии.",
+    "importance": "Карточка раскрывает главу «Феодосий и раздел 395 года» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 383–388 годы.",
+      "Основной смысл: военный правитель Британии, Галлии и части Италии.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Феодосий и раздел 395 года",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 7,
+      "culture": 6,
+      "politics": 9,
+      "religion": 8,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Августа Треверов",
+      "lat": 49.756,
+      "lon": 6.641
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-11/lar_s_11_05.svg",
+      "caption": "Локальная учебная обложка: Магн Максим и западная узурпация",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh01_mommsen.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_11_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Roman Law Library: Codex Theodosianus",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh01_mommsen.htm",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_11"
+  },
+  {
+    "id": "LAR_S_11_06",
+    "type": "WAR",
+    "title": "Феодосий против Евгения",
+    "original": "Theodosius against Eugenius",
+    "subtitle": "последняя гражданская война единоличного правителя империи",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "394 год",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Феодосий против Евгения — последняя гражданская война единоличного правителя империи.",
+    "importance": "Карточка раскрывает главу «Феодосий и раздел 395 года» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 394 год.",
+      "Основной смысл: последняя гражданская война единоличного правителя империи.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Феодосий и раздел 395 года",
+      "war"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 9,
+      "culture": 7,
+      "politics": 6,
+      "religion": 9,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Аквилея",
+      "lat": 45.769,
+      "lon": 13.368
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-11/lar_s_11_06.svg",
+      "caption": "Локальная учебная обложка: Феодосий против Евгения",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh01_mommsen.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_11_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Roman Law Library: Codex Theodosianus",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh01_mommsen.htm",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_11"
+  },
+  {
+    "id": "LAR_S_11_07",
+    "type": "PERSON",
+    "title": "Аркадий и восточный двор",
+    "original": "Arcadius and eastern court",
+    "subtitle": "сын Феодосия, получивший управление Востоком",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "395 год",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Аркадий и восточный двор — сын Феодосия, получивший управление Востоком.",
+    "importance": "Карточка раскрывает главу «Феодосий и раздел 395 года» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 395 год.",
+      "Основной смысл: сын Феодосия, получивший управление Востоком.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Феодосий и раздел 395 года",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 5,
+      "culture": 8,
+      "politics": 7,
+      "religion": 4,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.008,
+      "lon": 28.978
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-11/lar_s_11_07.svg",
+      "caption": "Локальная учебная обложка: Аркадий и восточный двор",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh01_mommsen.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_11_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Roman Law Library: Codex Theodosianus",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh01_mommsen.htm",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_11"
+  },
+  {
+    "id": "LAR_S_11_08",
+    "type": "PERSON",
+    "title": "Гонорий и западный двор",
+    "original": "Honorius and western court",
+    "subtitle": "сын Феодосия, получивший управление Западом",
+    "era": "Поздняя Античность",
+    "region": "Поздняя Римская империя",
+    "date": "395 год",
+    "rarity": "EPIC",
+    "difficulty": 11,
+    "summary": "Гонорий и западный двор — сын Феодосия, получивший управление Западом.",
+    "importance": "Карточка раскрывает главу «Феодосий и раздел 395 года» и показывает политическую, военную, хозяйственную, религиозную или источниковедческую сторону поздней Римской империи.",
+    "facts": [
+      "Датировка: 395 год.",
+      "Основной смысл: сын Феодосия, получивший управление Западом.",
+      "Вывод проверяется по законам, монетам, надписям, папирусам, археологии и нарративным источникам."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "Поздняя Римская империя",
+      "Феодосий и раздел 395 года",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 7,
+      "culture": 9,
+      "politics": 8,
+      "religion": 5,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Медиолан",
+      "lat": 45.464,
+      "lon": 9.19
+    },
+    "image": {
+      "local": "assets/cards/late-roman/chapter-11/lar_s_11_08.svg",
+      "caption": "Локальная учебная обложка: Гонорий и западный двор",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh01_mommsen.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "lar_s_11_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Roman Law Library: Codex Theodosianus",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh01_mommsen.htm",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "LATE_ANTIQUITY",
+    "chapter": "LAR_CHAPTER_11"
+  }
+]

@@ -1,0 +1,807 @@
+{
+  "campaignId": "LATE_ANTIQUITY",
+  "campaigns": {
+    "LATE_ANTIQUITY": {
+      "id": "LATE_ANTIQUITY",
+      "title": "Поздняя Римская империя",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "LAR_POOL_01",
+      "campaign": "LATE_ANTIQUITY",
+      "title": "Империя после Северов",
+      "unlockMission": "LAR_01_02",
+      "cardIds": [
+        "LAR_A_01_01",
+        "LAR_A_01_02",
+        "LAR_A_01_03",
+        "LAR_A_01_04"
+      ]
+    },
+    {
+      "id": "LAR_POOL_02",
+      "campaign": "LATE_ANTIQUITY",
+      "title": "Армейские императоры и гражданские войны",
+      "unlockMission": "LAR_02_02",
+      "cardIds": [
+        "LAR_A_02_01",
+        "LAR_A_02_02",
+        "LAR_A_02_03",
+        "LAR_A_02_04"
+      ]
+    },
+    {
+      "id": "LAR_POOL_03",
+      "campaign": "LATE_ANTIQUITY",
+      "title": "Персия, готы и пленение Валериана",
+      "unlockMission": "LAR_03_02",
+      "cardIds": [
+        "LAR_A_03_01",
+        "LAR_A_03_02",
+        "LAR_A_03_03",
+        "LAR_A_03_04"
+      ]
+    },
+    {
+      "id": "LAR_POOL_04",
+      "campaign": "LATE_ANTIQUITY",
+      "title": "Галльская империя и Пальмира",
+      "unlockMission": "LAR_04_02",
+      "cardIds": [
+        "LAR_A_04_01",
+        "LAR_A_04_02",
+        "LAR_A_04_03",
+        "LAR_A_04_04"
+      ]
+    },
+    {
+      "id": "LAR_POOL_05",
+      "campaign": "LATE_ANTIQUITY",
+      "title": "Аврелиан и восстановление единства",
+      "unlockMission": "LAR_05_02",
+      "cardIds": [
+        "LAR_A_05_01",
+        "LAR_A_05_02",
+        "LAR_A_05_03",
+        "LAR_A_05_04"
+      ]
+    },
+    {
+      "id": "LAR_POOL_06",
+      "campaign": "LATE_ANTIQUITY",
+      "title": "Диоклетиан и тетрархия",
+      "unlockMission": "LAR_06_02",
+      "cardIds": [
+        "LAR_A_06_01",
+        "LAR_A_06_02",
+        "LAR_A_06_03",
+        "LAR_A_06_04"
+      ]
+    },
+    {
+      "id": "LAR_POOL_07",
+      "campaign": "LATE_ANTIQUITY",
+      "title": "Налоги, провинции и новая администрация",
+      "unlockMission": "LAR_07_02",
+      "cardIds": [
+        "LAR_A_07_01",
+        "LAR_A_07_02",
+        "LAR_A_07_03",
+        "LAR_A_07_04"
+      ]
+    },
+    {
+      "id": "LAR_POOL_08",
+      "campaign": "LATE_ANTIQUITY",
+      "title": "Константин и гражданские войны",
+      "unlockMission": "LAR_08_02",
+      "cardIds": [
+        "LAR_A_08_01",
+        "LAR_A_08_02",
+        "LAR_A_08_03",
+        "LAR_A_08_04"
+      ]
+    },
+    {
+      "id": "LAR_POOL_09",
+      "campaign": "LATE_ANTIQUITY",
+      "title": "Константинополь и новые центры власти",
+      "unlockMission": "LAR_09_02",
+      "cardIds": [
+        "LAR_A_09_01",
+        "LAR_A_09_02",
+        "LAR_A_09_03",
+        "LAR_A_09_04"
+      ]
+    },
+    {
+      "id": "LAR_POOL_10",
+      "campaign": "LATE_ANTIQUITY",
+      "title": "Позднеримская армия и фронтир",
+      "unlockMission": "LAR_10_02",
+      "cardIds": [
+        "LAR_A_10_01",
+        "LAR_A_10_02",
+        "LAR_A_10_03",
+        "LAR_A_10_04"
+      ]
+    },
+    {
+      "id": "LAR_POOL_11",
+      "campaign": "LATE_ANTIQUITY",
+      "title": "Феодосий и раздел 395 года",
+      "unlockMission": "LAR_11_02",
+      "cardIds": [
+        "LAR_A_11_01",
+        "LAR_A_11_02",
+        "LAR_A_11_03",
+        "LAR_A_11_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "LAR_S_01_01": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 1
+    },
+    "LAR_S_01_02": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 1
+    },
+    "LAR_S_01_03": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 1
+    },
+    "LAR_S_01_04": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 1
+    },
+    "LAR_S_01_05": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 1
+    },
+    "LAR_S_01_06": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 1
+    },
+    "LAR_S_01_07": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 1
+    },
+    "LAR_S_01_08": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 1
+    },
+    "LAR_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_01",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_01",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_01",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_01",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_S_02_01": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 2
+    },
+    "LAR_S_02_02": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 2
+    },
+    "LAR_S_02_03": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 2
+    },
+    "LAR_S_02_04": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 2
+    },
+    "LAR_S_02_05": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 2
+    },
+    "LAR_S_02_06": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 2
+    },
+    "LAR_S_02_07": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 2
+    },
+    "LAR_S_02_08": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 2
+    },
+    "LAR_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_02",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_02",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_02",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_02",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_S_03_01": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 3
+    },
+    "LAR_S_03_02": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 3
+    },
+    "LAR_S_03_03": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 3
+    },
+    "LAR_S_03_04": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 3
+    },
+    "LAR_S_03_05": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 3
+    },
+    "LAR_S_03_06": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 3
+    },
+    "LAR_S_03_07": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 3
+    },
+    "LAR_S_03_08": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 3
+    },
+    "LAR_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_03",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_03",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_03",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_03",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_S_04_01": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 4
+    },
+    "LAR_S_04_02": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 4
+    },
+    "LAR_S_04_03": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 4
+    },
+    "LAR_S_04_04": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 4
+    },
+    "LAR_S_04_05": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 4
+    },
+    "LAR_S_04_06": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 4
+    },
+    "LAR_S_04_07": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 4
+    },
+    "LAR_S_04_08": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 4
+    },
+    "LAR_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_04",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_04",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_04",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_04",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_S_05_01": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 5
+    },
+    "LAR_S_05_02": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 5
+    },
+    "LAR_S_05_03": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 5
+    },
+    "LAR_S_05_04": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 5
+    },
+    "LAR_S_05_05": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 5
+    },
+    "LAR_S_05_06": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 5
+    },
+    "LAR_S_05_07": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 5
+    },
+    "LAR_S_05_08": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 5
+    },
+    "LAR_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_05",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_05",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_05",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_05",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_S_06_01": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 6
+    },
+    "LAR_S_06_02": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 6
+    },
+    "LAR_S_06_03": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 6
+    },
+    "LAR_S_06_04": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 6
+    },
+    "LAR_S_06_05": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 6
+    },
+    "LAR_S_06_06": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 6
+    },
+    "LAR_S_06_07": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 6
+    },
+    "LAR_S_06_08": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 6
+    },
+    "LAR_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_06",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_06",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_06",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_06",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_S_07_01": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 7
+    },
+    "LAR_S_07_02": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 7
+    },
+    "LAR_S_07_03": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 7
+    },
+    "LAR_S_07_04": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 7
+    },
+    "LAR_S_07_05": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 7
+    },
+    "LAR_S_07_06": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 7
+    },
+    "LAR_S_07_07": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 7
+    },
+    "LAR_S_07_08": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 7
+    },
+    "LAR_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_07",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_07",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_07",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_07",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_S_08_01": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 8
+    },
+    "LAR_S_08_02": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 8
+    },
+    "LAR_S_08_03": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 8
+    },
+    "LAR_S_08_04": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 8
+    },
+    "LAR_S_08_05": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 8
+    },
+    "LAR_S_08_06": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 8
+    },
+    "LAR_S_08_07": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 8
+    },
+    "LAR_S_08_08": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 8
+    },
+    "LAR_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_08",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_08",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_08",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_08",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_S_09_01": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 9
+    },
+    "LAR_S_09_02": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 9
+    },
+    "LAR_S_09_03": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 9
+    },
+    "LAR_S_09_04": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 9
+    },
+    "LAR_S_09_05": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 9
+    },
+    "LAR_S_09_06": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 9
+    },
+    "LAR_S_09_07": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 9
+    },
+    "LAR_S_09_08": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 9
+    },
+    "LAR_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_09",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_09",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_09",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_09",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_S_10_01": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 10
+    },
+    "LAR_S_10_02": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 10
+    },
+    "LAR_S_10_03": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 10
+    },
+    "LAR_S_10_04": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 10
+    },
+    "LAR_S_10_05": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 10
+    },
+    "LAR_S_10_06": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 10
+    },
+    "LAR_S_10_07": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 10
+    },
+    "LAR_S_10_08": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 10
+    },
+    "LAR_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_10",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_10",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_10",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_10",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_S_11_01": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 11
+    },
+    "LAR_S_11_02": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 11
+    },
+    "LAR_S_11_03": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 11
+    },
+    "LAR_S_11_04": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 11
+    },
+    "LAR_S_11_05": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 11
+    },
+    "LAR_S_11_06": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 11
+    },
+    "LAR_S_11_07": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 11
+    },
+    "LAR_S_11_08": {
+      "kind": "STORY",
+      "campaignId": "LATE_ANTIQUITY",
+      "chapter": 11
+    },
+    "LAR_A_11_01": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_11",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_11_02": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_11",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_11_03": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_11",
+      "campaign": "LATE_ANTIQUITY"
+    },
+    "LAR_A_11_04": {
+      "kind": "ARCHIVE",
+      "pool": "LAR_POOL_11",
+      "campaign": "LATE_ANTIQUITY"
+    }
+  }
+}

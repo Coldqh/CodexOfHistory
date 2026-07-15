@@ -1,0 +1,334 @@
+{
+  "points": {
+    "ATHENS": [
+      37.9838,
+      23.7275
+    ],
+    "ACROPOLIS": [
+      37.9715,
+      23.7267
+    ],
+    "AGORA": [
+      37.9753,
+      23.722
+    ],
+    "PIRAEUS": [
+      37.942,
+      23.6469
+    ],
+    "MARATHON": [
+      38.153,
+      24.01
+    ],
+    "SALAMIS": [
+      37.955,
+      23.494
+    ],
+    "PLATAEA": [
+      38.212,
+      23.267
+    ],
+    "DELOS": [
+      37.396,
+      25.267
+    ],
+    "SPARTA": [
+      37.075,
+      22.43
+    ],
+    "CORINTH": [
+      37.938,
+      22.932
+    ],
+    "THEBES": [
+      38.322,
+      23.318
+    ],
+    "DELPHI": [
+      38.482,
+      22.501
+    ],
+    "OLYMPIA": [
+      37.638,
+      21.63
+    ],
+    "NAXOS": [
+      37.103,
+      25.377
+    ],
+    "THASOS": [
+      40.779,
+      24.709
+    ],
+    "POTIDAEA": [
+      40.194,
+      23.329
+    ],
+    "PYLOS": [
+      36.913,
+      21.696
+    ],
+    "SPHACTERIA": [
+      36.944,
+      21.669
+    ],
+    "AMPHIPOLIS": [
+      40.823,
+      23.847
+    ],
+    "SYRACUSE": [
+      37.075,
+      15.287
+    ],
+    "DECELEA": [
+      38.136,
+      23.83
+    ],
+    "AEGOSPOTAMI": [
+      40.35,
+      26.62
+    ],
+    "SARDIS": [
+      38.488,
+      28.04
+    ],
+    "LEUCTRA": [
+      38.252,
+      23.187
+    ],
+    "MANTINEA": [
+      37.618,
+      22.389
+    ],
+    "MESSENE": [
+      37.178,
+      21.92
+    ],
+    "MACEDONIA": [
+      40.75,
+      22.5
+    ],
+    "CHAERONEA": [
+      38.492,
+      22.844
+    ],
+    "AMPHIPOLIS_NORTH": [
+      40.823,
+      23.847
+    ],
+    "GREECE": [
+      38.5,
+      23.2
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "CLG_S_01_01": "PLATAEA",
+    "CLG_S_01_02": "SARDIS",
+    "CLG_S_01_03": "ATHENS",
+    "CLG_S_01_04": "ATHENS",
+    "CLG_S_01_05": "PIRAEUS",
+    "CLG_S_01_06": "SPARTA",
+    "CLG_S_01_07": "GREECE",
+    "CLG_S_01_08": "GREECE",
+    "CLG_A_01_01": "PLATAEA",
+    "CLG_A_01_02": "PLATAEA",
+    "CLG_A_01_03": "DELPHI",
+    "CLG_A_01_04": "GREECE",
+    "CLG_S_02_01": "AGORA",
+    "CLG_S_02_02": "AGORA",
+    "CLG_S_02_03": "AGORA",
+    "CLG_S_02_04": "ATHENS",
+    "CLG_S_02_05": "AGORA",
+    "CLG_S_02_06": "ATHENS",
+    "CLG_S_02_07": "PIRAEUS",
+    "CLG_S_02_08": "ATHENS",
+    "CLG_A_02_01": "AGORA",
+    "CLG_A_02_02": "AGORA",
+    "CLG_A_02_03": "AGORA",
+    "CLG_A_02_04": "ATHENS",
+    "CLG_S_03_01": "DELOS",
+    "CLG_S_03_02": "DELOS",
+    "CLG_S_03_03": "PIRAEUS",
+    "CLG_S_03_04": "ATHENS",
+    "CLG_S_03_05": "NAXOS",
+    "CLG_S_03_06": "THASOS",
+    "CLG_S_03_07": "ATHENS",
+    "CLG_S_03_08": "ATHENS",
+    "CLG_A_03_01": "ACROPOLIS",
+    "CLG_A_03_02": "ATHENS",
+    "CLG_A_03_03": "GREECE",
+    "CLG_A_03_04": "DELOS",
+    "CLG_S_04_01": "ATHENS",
+    "CLG_S_04_02": "ACROPOLIS",
+    "CLG_S_04_03": "ACROPOLIS",
+    "CLG_S_04_04": "ACROPOLIS",
+    "CLG_S_04_05": "ATHENS",
+    "CLG_S_04_06": "AGORA",
+    "CLG_S_04_07": "ATHENS",
+    "CLG_S_04_08": "ATHENS",
+    "CLG_A_04_01": "ACROPOLIS",
+    "CLG_A_04_02": "ACROPOLIS",
+    "CLG_A_04_03": "ATHENS",
+    "CLG_A_04_04": "ATHENS",
+    "CLG_S_05_01": "SPARTA",
+    "CLG_S_05_02": "SPARTA",
+    "CLG_S_05_03": "SPARTA",
+    "CLG_S_05_04": "SPARTA",
+    "CLG_S_05_05": "SPARTA",
+    "CLG_S_05_06": "SPARTA",
+    "CLG_S_05_07": "MESSENE",
+    "CLG_S_05_08": "CORINTH",
+    "CLG_A_05_01": "SPARTA",
+    "CLG_A_05_02": "SPARTA",
+    "CLG_A_05_03": "SPARTA",
+    "CLG_A_05_04": "SPARTA",
+    "CLG_S_06_01": "GREECE",
+    "CLG_S_06_02": "SPARTA",
+    "CLG_S_06_03": "ATHENS",
+    "CLG_S_06_04": "ATHENS",
+    "CLG_S_06_05": "ATHENS",
+    "CLG_S_06_06": "AMPHIPOLIS",
+    "CLG_S_06_07": "PYLOS",
+    "CLG_S_06_08": "ATHENS",
+    "CLG_A_06_01": "ATHENS",
+    "CLG_A_06_02": "CORINTH",
+    "CLG_A_06_03": "ATHENS",
+    "CLG_A_06_04": "AMPHIPOLIS",
+    "CLG_S_07_01": "ATHENS",
+    "CLG_S_07_02": "SYRACUSE",
+    "CLG_S_07_03": "SYRACUSE",
+    "CLG_S_07_04": "SYRACUSE",
+    "CLG_S_07_05": "DECELEA",
+    "CLG_S_07_06": "AEGOSPOTAMI",
+    "CLG_S_07_07": "AEGOSPOTAMI",
+    "CLG_S_07_08": "ATHENS",
+    "CLG_A_07_01": "ATHENS",
+    "CLG_A_07_02": "ATHENS",
+    "CLG_A_07_03": "SARDIS",
+    "CLG_A_07_04": "ATHENS",
+    "CLG_S_08_01": "SPARTA",
+    "CLG_S_08_02": "SPARTA",
+    "CLG_S_08_03": "CORINTH",
+    "CLG_S_08_04": "SARDIS",
+    "CLG_S_08_05": "ATHENS",
+    "CLG_S_08_06": "THEBES",
+    "CLG_S_08_07": "LEUCTRA",
+    "CLG_S_08_08": "MESSENE",
+    "CLG_A_08_01": "GREECE",
+    "CLG_A_08_02": "THEBES",
+    "CLG_A_08_03": "ATHENS",
+    "CLG_A_08_04": "MANTINEA",
+    "CLG_S_09_01": "ATHENS",
+    "CLG_S_09_02": "ATHENS",
+    "CLG_S_09_03": "ATHENS",
+    "CLG_S_09_04": "ATHENS",
+    "CLG_S_09_05": "AGORA",
+    "CLG_S_09_06": "ATHENS",
+    "CLG_S_09_07": "ATHENS",
+    "CLG_S_09_08": "ATHENS",
+    "CLG_A_09_01": "ATHENS",
+    "CLG_A_09_02": "ATHENS",
+    "CLG_A_09_03": "GREECE",
+    "CLG_A_09_04": "ATHENS",
+    "CLG_S_10_01": "MACEDONIA",
+    "CLG_S_10_02": "MACEDONIA",
+    "CLG_S_10_03": "MACEDONIA",
+    "CLG_S_10_04": "MACEDONIA",
+    "CLG_S_10_05": "DELPHI",
+    "CLG_S_10_06": "ATHENS",
+    "CLG_S_10_07": "CHAERONEA",
+    "CLG_S_10_08": "CORINTH",
+    "CLG_A_10_01": "ATHENS",
+    "CLG_A_10_02": "MACEDONIA",
+    "CLG_A_10_03": "MACEDONIA",
+    "CLG_A_10_04": "GREECE"
+  },
+  "chapters": {
+    "CLG_CHAPTER_01": {
+      "title": "После Персидских войн",
+      "center": [
+        38.212,
+        23.267
+      ],
+      "zoom": 6
+    },
+    "CLG_CHAPTER_02": {
+      "title": "Афинская демократия и границы гражданства",
+      "center": [
+        37.9753,
+        23.722
+      ],
+      "zoom": 6
+    },
+    "CLG_CHAPTER_03": {
+      "title": "Делосский союз и Афинская морская держава",
+      "center": [
+        37.396,
+        25.267
+      ],
+      "zoom": 6
+    },
+    "CLG_CHAPTER_04": {
+      "title": "Перикловы Афины и Акрополь",
+      "center": [
+        37.9838,
+        23.7275
+      ],
+      "zoom": 6
+    },
+    "CLG_CHAPTER_05": {
+      "title": "Спарта и Пелопоннесский союз",
+      "center": [
+        37.075,
+        22.43
+      ],
+      "zoom": 6
+    },
+    "CLG_CHAPTER_06": {
+      "title": "Пелопоннесская война: первый этап",
+      "center": [
+        37.9838,
+        23.7275
+      ],
+      "zoom": 6
+    },
+    "CLG_CHAPTER_07": {
+      "title": "Сицилийская экспедиция и поражение Афин",
+      "center": [
+        37.075,
+        15.287
+      ],
+      "zoom": 6
+    },
+    "CLG_CHAPTER_08": {
+      "title": "Гегемонии IV века: Спарта, Афины и Фивы",
+      "center": [
+        37.938,
+        22.932
+      ],
+      "zoom": 6
+    },
+    "CLG_CHAPTER_09": {
+      "title": "Философия, театр и историческое письмо",
+      "center": [
+        37.9838,
+        23.7275
+      ],
+      "zoom": 6
+    },
+    "CLG_CHAPTER_10": {
+      "title": "Македония и конец системы независимых полисов",
+      "center": [
+        40.75,
+        22.5
+      ],
+      "zoom": 6
+    }
+  },
+  "missionCenter": [
+    38.2,
+    23.2
+  ],
+  "missionZoom": 6
+}

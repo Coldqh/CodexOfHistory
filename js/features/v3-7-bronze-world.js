@@ -1,6 +1,6 @@
-/* Codex v5.0.0 — Bronze Age shared comparative layer and era exam */
+/* Codex v5.1.0 — Bronze Age shared comparative layer and era exam */
 (()=>{
-  const V='5.0.0';
+  const V='5.1.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.BRONZE_ERA_EXAM='BRONZE_WORLD';
   state.bronzeWorldRegion=state.bronzeWorldRegion||'BABYLON';

@@ -1,0 +1,335 @@
+{
+  "campaignId": "GREECE_CLASSICAL",
+  "campaigns": {
+    "GREECE_CLASSICAL": {
+      "id": "GREECE_CLASSICAL",
+      "title": "Классическая Греция",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "CLG_POOL_01",
+      "campaign": "GREECE_CLASSICAL",
+      "title": "После Персидских войн",
+      "unlockMission": "CLG_01_02",
+      "cardIds": [
+        "CLG_A_01_01",
+        "CLG_A_01_02",
+        "CLG_A_01_03",
+        "CLG_A_01_04"
+      ]
+    },
+    {
+      "id": "CLG_POOL_02",
+      "campaign": "GREECE_CLASSICAL",
+      "title": "Афинская демократия и границы гражданства",
+      "unlockMission": "CLG_02_02",
+      "cardIds": [
+        "CLG_A_02_01",
+        "CLG_A_02_02",
+        "CLG_A_02_03",
+        "CLG_A_02_04"
+      ]
+    },
+    {
+      "id": "CLG_POOL_03",
+      "campaign": "GREECE_CLASSICAL",
+      "title": "Делосский союз и Афинская морская держава",
+      "unlockMission": "CLG_03_02",
+      "cardIds": [
+        "CLG_A_03_01",
+        "CLG_A_03_02",
+        "CLG_A_03_03",
+        "CLG_A_03_04"
+      ]
+    },
+    {
+      "id": "CLG_POOL_04",
+      "campaign": "GREECE_CLASSICAL",
+      "title": "Перикловы Афины и Акрополь",
+      "unlockMission": "CLG_04_02",
+      "cardIds": [
+        "CLG_A_04_01",
+        "CLG_A_04_02",
+        "CLG_A_04_03",
+        "CLG_A_04_04"
+      ]
+    },
+    {
+      "id": "CLG_POOL_05",
+      "campaign": "GREECE_CLASSICAL",
+      "title": "Спарта и Пелопоннесский союз",
+      "unlockMission": "CLG_05_02",
+      "cardIds": [
+        "CLG_A_05_01",
+        "CLG_A_05_02",
+        "CLG_A_05_03",
+        "CLG_A_05_04"
+      ]
+    },
+    {
+      "id": "CLG_POOL_06",
+      "campaign": "GREECE_CLASSICAL",
+      "title": "Пелопоннесская война: первый этап",
+      "unlockMission": "CLG_06_02",
+      "cardIds": [
+        "CLG_A_06_01",
+        "CLG_A_06_02",
+        "CLG_A_06_03",
+        "CLG_A_06_04"
+      ]
+    },
+    {
+      "id": "CLG_POOL_07",
+      "campaign": "GREECE_CLASSICAL",
+      "title": "Сицилийская экспедиция и поражение Афин",
+      "unlockMission": "CLG_07_02",
+      "cardIds": [
+        "CLG_A_07_01",
+        "CLG_A_07_02",
+        "CLG_A_07_03",
+        "CLG_A_07_04"
+      ]
+    },
+    {
+      "id": "CLG_POOL_08",
+      "campaign": "GREECE_CLASSICAL",
+      "title": "Гегемонии IV века: Спарта, Афины и Фивы",
+      "unlockMission": "CLG_08_02",
+      "cardIds": [
+        "CLG_A_08_01",
+        "CLG_A_08_02",
+        "CLG_A_08_03",
+        "CLG_A_08_04"
+      ]
+    },
+    {
+      "id": "CLG_POOL_09",
+      "campaign": "GREECE_CLASSICAL",
+      "title": "Философия, театр и историческое письмо",
+      "unlockMission": "CLG_09_02",
+      "cardIds": [
+        "CLG_A_09_01",
+        "CLG_A_09_02",
+        "CLG_A_09_03",
+        "CLG_A_09_04"
+      ]
+    },
+    {
+      "id": "CLG_POOL_10",
+      "campaign": "GREECE_CLASSICAL",
+      "title": "Македония и конец системы независимых полисов",
+      "unlockMission": "CLG_10_02",
+      "cardIds": [
+        "CLG_A_10_01",
+        "CLG_A_10_02",
+        "CLG_A_10_03",
+        "CLG_A_10_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "CLG_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_01",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_01",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_01",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_01",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_02",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_02",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_02",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_02",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_03",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_03",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_03",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_03",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_04",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_04",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_04",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_04",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_05",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_05",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_05",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_05",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_06",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_06",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_06",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_06",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_07",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_07",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_07",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_07",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_08",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_08",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_08",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_08",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_09",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_09",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_09",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_09",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_10",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_10",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_10",
+      "campaign": "GREECE_CLASSICAL"
+    },
+    "CLG_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "CLG_POOL_10",
+      "campaign": "GREECE_CLASSICAL"
+    }
+  }
+}

@@ -289,3 +289,7 @@
 ## v5.0 — Ахеменидская Персия
 
 Локальные SVG-обложки 120 карточек и обложка пака созданы для Codex of History. Источники: Metropolitan Museum of Art, British Museum, UNESCO и Encyclopaedia Iranica.
+
+## v5.1 — Классическая Греция
+
+Локальные SVG-обложки 120 карточек и обложка пака созданы для Codex of History. Источники: Metropolitan Museum of Art, British Museum, UNESCO и Perseus Digital Library.

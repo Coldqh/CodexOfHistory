@@ -1074,11 +1074,60 @@
     "sourcePatch": "v5.0"
   },
   {
+    "year": -479,
+    "label": "Платеи и Микале",
+    "detail": "Победы союзников завершают вторжение Ксеркса и меняют баланс в Эгейском мире.",
+    "campaignId": "GREECE_CLASSICAL",
+    "sourcePatch": "v5.1"
+  },
+  {
+    "year": -478,
+    "label": "Создание Делосского союза",
+    "detail": "Морские полисы объединяются под руководством Афин.",
+    "campaignId": "GREECE_CLASSICAL",
+    "sourcePatch": "v5.1"
+  },
+  {
+    "year": -454,
+    "label": "Казна союза перенесена в Афины",
+    "detail": "Афинский контроль над союзной системой становится заметнее.",
+    "campaignId": "GREECE_CLASSICAL",
+    "sourcePatch": "v5.1"
+  },
+  {
     "year": -453,
     "label": "Фактический раздел Цзинь",
     "detail": "Рост Хань, Чжао и Вэй.",
     "campaignId": "ZHOU_WARRING",
     "sourcePatch": "v4.4"
+  },
+  {
+    "year": -447,
+    "label": "Начало строительства Парфенона",
+    "detail": "Акрополь становится центром монументальной программы Афин.",
+    "campaignId": "GREECE_CLASSICAL",
+    "sourcePatch": "v5.1"
+  },
+  {
+    "year": -431,
+    "label": "Начало Пелопоннесской войны",
+    "detail": "Конфликт Афинского и Пелопоннесского союзов охватывает греческий мир.",
+    "campaignId": "GREECE_CLASSICAL",
+    "sourcePatch": "v5.1"
+  },
+  {
+    "year": -415,
+    "label": "Сицилийская экспедиция",
+    "detail": "Афины отправляют крупные силы против Сиракуз.",
+    "campaignId": "GREECE_CLASSICAL",
+    "sourcePatch": "v5.1"
+  },
+  {
+    "year": -404,
+    "label": "Капитуляция Афин",
+    "detail": "Победа Спарты завершает Пелопоннесскую войну.",
+    "campaignId": "GREECE_CLASSICAL",
+    "sourcePatch": "v5.1"
   },
   {
     "year": -401,
@@ -1088,11 +1137,32 @@
     "sourcePatch": "v5.0"
   },
   {
+    "year": -371,
+    "label": "Битва при Левктрах",
+    "detail": "Фиванцы разрушают спартанскую сухопутную гегемонию.",
+    "campaignId": "GREECE_CLASSICAL",
+    "sourcePatch": "v5.1"
+  },
+  {
+    "year": -362,
+    "label": "Битва при Мантинее",
+    "detail": "Фиванское лидерство не превращается в устойчивый общий порядок.",
+    "campaignId": "GREECE_CLASSICAL",
+    "sourcePatch": "v5.1"
+  },
+  {
     "year": -356,
     "label": "Реформы Шан Яна в Цинь",
     "detail": "Регистрация, ранги заслуг и территориальное управление усиливают Цинь.",
     "campaignId": "ZHOU_WARRING",
     "sourcePatch": "v4.4"
+  },
+  {
+    "year": -338,
+    "label": "Битва при Херонее",
+    "detail": "Филипп II подчиняет ключевые полисы македонской гегемонии.",
+    "campaignId": "GREECE_CLASSICAL",
+    "sourcePatch": "v5.1"
   },
   {
     "year": -334,

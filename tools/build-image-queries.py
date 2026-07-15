@@ -8,7 +8,7 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "5.0.0"
+VERSION = "5.1.0"
 
 GROUP_CONTEXT = {
     "ROME": {
@@ -100,6 +100,10 @@ GROUP_CONTEXT = {
     "PERSIA": {
         "terms": ["ахеменид", "achaemenid", "перс", "persia", "persian", "кир", "cyrus", "дарий", "darius", "ксеркс", "xerxes", "персепол", "persepolis", "сатрап", "satrap", "iran"],
         "base": [("ru", "Ахеменидская держава"), ("en", "Achaemenid Empire"), ("en", "Ancient Persia")],
+    },
+    "GREECE_CLASSICAL": {
+        "terms": ["классическ", "classical", "гре", "greek", "афин", "athens", "спарт", "sparta", "полис", "polis", "delian", "пелопоннес", "peloponnesian", "фив", "thebes", "македон", "macedon"],
+        "base": [("ru", "Классическая Греция"), ("en", "Classical Greece"), ("en", "Ancient Greece")],
     },
     "MIXED": {
         "terms": ["древн", "ancient", "цивилизац", "civilization", "archaeolog", "археолог", "river", "река", "письмен"],
@@ -266,6 +270,10 @@ TYPE_FALLBACK = {
     "PERSIA": {
         "terms": ["ахеменид", "achaemenid", "перс", "persia", "persian", "кир", "cyrus", "дарий", "darius", "ксеркс", "xerxes", "персепол", "persepolis", "сатрап", "satrap", "iran"],
         "base": [("ru", "Ахеменидская держава"), ("en", "Achaemenid Empire"), ("en", "Ancient Persia")],
+    },
+    "GREECE_CLASSICAL": {
+        "terms": ["классическ", "classical", "гре", "greek", "афин", "athens", "спарт", "sparta", "полис", "polis", "delian", "пелопоннес", "peloponnesian", "фив", "thebes", "македон", "macedon"],
+        "base": [("ru", "Классическая Греция"), ("en", "Classical Greece"), ("en", "Ancient Greece")],
     },
     "MIXED": {
         "ARTIFACT": [("ru", "Археологический артефакт"), ("en", "Archaeological artifact")],
@@ -452,7 +460,7 @@ def group_for(path: Path, card: dict) -> str:
     p = path.as_posix()
     for token, group in [
         ("/rome/", "ROME"), ("/mesopotamia/", "MESOPOTAMIA"), ("/egypt/", "EGYPT"),
-        ("/indus/", "INDUS"), ("/zhou-warring/", "ZHOU_WARRING"), ("/vedic-india/", "INDIA_VEDIC"), ("/iron-world/", "IRON_WORLD"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"), ("/aegean/", "AEGEAN_BRONZE"), ("/international-bronze/", "BRONZE_INTERNATIONAL"), ("/bronze-collapse/", "BRONZE_COLLAPSE"), ("/bronze-world/", "BRONZE_WORLD"), ("/assyria-babylon/", "ASSYRIA_BABYLON"), ("/phoenicians/", "PHOENICIANS"), ("/israel-judah/", "ISRAEL_JUDAH"), ("/archaic-greece/", "GREECE_ARCHAIC"),
+        ("/indus/", "INDUS"), ("/zhou-warring/", "ZHOU_WARRING"), ("/vedic-india/", "INDIA_VEDIC"), ("/iron-world/", "IRON_WORLD"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"), ("/aegean/", "AEGEAN_BRONZE"), ("/international-bronze/", "BRONZE_INTERNATIONAL"), ("/bronze-collapse/", "BRONZE_COLLAPSE"), ("/bronze-world/", "BRONZE_WORLD"), ("/assyria-babylon/", "ASSYRIA_BABYLON"), ("/phoenicians/", "PHOENICIANS"), ("/israel-judah/", "ISRAEL_JUDAH"), ("/archaic-greece/", "GREECE_ARCHAIC"), ("/classical-greece/", "GREECE_CLASSICAL"),
     ]:
         if token in p:
             return group

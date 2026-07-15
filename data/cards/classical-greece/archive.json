@@ -1,0 +1,2362 @@
+[
+  {
+    "id": "CLG_A_01_01",
+    "type": "TEXT",
+    "title": "Клятва Платей",
+    "original": "Oath of Plataea",
+    "subtitle": "поздно засвидетельствованный текст о коллективной памяти победы",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "спорная традиция",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Клятва Платей — поздно засвидетельствованный текст о коллективной памяти победы.",
+    "importance": "Архивная карточка дополняет главу «После Персидских войн» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: спорная традиция.",
+      "Связь с темой: поздно засвидетельствованный текст о коллективной памяти победы.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "После Персидских войн",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 5,
+      "culture": 8,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Платеи",
+      "lat": 38.212,
+      "lon": 23.267
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-01/clg_a_01_01.svg",
+      "caption": "Локальная учебная обложка: Клятва Платей",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/collections",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_01_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Greek and Roman Materials",
+      "url": "https://www.perseus.tufts.edu/hopper/collections",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_01"
+  },
+  {
+    "id": "CLG_A_01_02",
+    "type": "ARTIFACT",
+    "title": "Трофей при Платеях",
+    "original": "Plataea victory monument",
+    "subtitle": "памятник победы союзников над персидской армией",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "V век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Трофей при Платеях — памятник победы союзников над персидской армией.",
+    "importance": "Архивная карточка дополняет главу «После Персидских войн» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: V век до н. э..",
+      "Связь с темой: памятник победы союзников над персидской армией.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "После Персидских войн",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 6,
+      "culture": 5,
+      "politics": 9,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Платеи",
+      "lat": 38.212,
+      "lon": 23.267
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-01/clg_a_01_02.svg",
+      "caption": "Локальная учебная обложка: Трофей при Платеях",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/collections",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_01_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Greek and Roman Materials",
+      "url": "https://www.perseus.tufts.edu/hopper/collections",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_01"
+  },
+  {
+    "id": "CLG_A_01_03",
+    "type": "ARTIFACT",
+    "title": "Змеиная колонна",
+    "original": "Serpent Column",
+    "subtitle": "посвящение греческих союзников в Дельфах",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "479 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Змеиная колонна — посвящение греческих союзников в Дельфах.",
+    "importance": "Архивная карточка дополняет главу «После Персидских войн» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: 479 год до н. э..",
+      "Связь с темой: посвящение греческих союзников в Дельфах.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "После Персидских войн",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 7,
+      "culture": 7,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Дельфы",
+      "lat": 38.482,
+      "lon": 22.501
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-01/clg_a_01_03.svg",
+      "caption": "Локальная учебная обложка: Змеиная колонна",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/collections",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_01_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Greek and Roman Materials",
+      "url": "https://www.perseus.tufts.edu/hopper/collections",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_01"
+  },
+  {
+    "id": "CLG_A_01_04",
+    "type": "CONCEPT",
+    "title": "Спор о лидерстве после войн",
+    "original": "Greek leadership after Persian Wars",
+    "subtitle": "конкуренция афинского и спартанского представлений о руководстве",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "современная историография",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Спор о лидерстве после войн — конкуренция афинского и спартанского представлений о руководстве.",
+    "importance": "Архивная карточка дополняет главу «После Персидских войн» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Связь с темой: конкуренция афинского и спартанского представлений о руководстве.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "После Персидских войн",
+      "concept"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 8,
+      "culture": 9,
+      "politics": 6,
+      "religion": 3,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Греческий мир",
+      "lat": 38.5,
+      "lon": 23.2
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-01/clg_a_01_04.svg",
+      "caption": "Локальная учебная обложка: Спор о лидерстве после войн",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/collections",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_01_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Greek and Roman Materials",
+      "url": "https://www.perseus.tufts.edu/hopper/collections",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_01"
+  },
+  {
+    "id": "CLG_A_02_01",
+    "type": "ARTIFACT",
+    "title": "Клеротерион",
+    "original": "Kleroterion",
+    "subtitle": "устройство для распределения граждан по судебным коллегиям",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "IV век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Клеротерион — устройство для распределения граждан по судебным коллегиям.",
+    "importance": "Архивная карточка дополняет главу «Афинская демократия и границы гражданства» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: IV век до н. э..",
+      "Связь с темой: устройство для распределения граждан по судебным коллегиям.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Афинская демократия и границы гражданства",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 6,
+      "culture": 9,
+      "politics": 5,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Афинская агора",
+      "lat": 37.9753,
+      "lon": 23.722
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-02/clg_a_02_01.svg",
+      "caption": "Локальная учебная обложка: Клеротерион",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/blog/historical-city-travel-guide-athens-5th-century-bc",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_02_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Historical city travel guide — Athens, 5th century BC",
+      "url": "https://www.britishmuseum.org/blog/historical-city-travel-guide-athens-5th-century-bc",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_02"
+  },
+  {
+    "id": "CLG_A_02_02",
+    "type": "ARTIFACT",
+    "title": "Остракон Фемистокла",
+    "original": "Ostracon of Themistocles",
+    "subtitle": "черепок с именем политика для голосования об изгнании",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "V век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Остракон Фемистокла — черепок с именем политика для голосования об изгнании.",
+    "importance": "Архивная карточка дополняет главу «Афинская демократия и границы гражданства» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: V век до н. э..",
+      "Связь с темой: черепок с именем политика для голосования об изгнании.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Афинская демократия и границы гражданства",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 6,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Афинская агора",
+      "lat": 37.9753,
+      "lon": 23.722
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-02/clg_a_02_02.svg",
+      "caption": "Локальная учебная обложка: Остракон Фемистокла",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/blog/historical-city-travel-guide-athens-5th-century-bc",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_02_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Historical city travel guide — Athens, 5th century BC",
+      "url": "https://www.britishmuseum.org/blog/historical-city-travel-guide-athens-5th-century-bc",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_02"
+  },
+  {
+    "id": "CLG_A_02_03",
+    "type": "ARTIFACT",
+    "title": "Клепсидра афинского суда",
+    "original": "Water clock ancient Greece",
+    "subtitle": "водяные часы для ограничения времени речей",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "V–IV века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Клепсидра афинского суда — водяные часы для ограничения времени речей.",
+    "importance": "Архивная карточка дополняет главу «Афинская демократия и границы гражданства» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: V–IV века до н. э..",
+      "Связь с темой: водяные часы для ограничения времени речей.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Афинская демократия и границы гражданства",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 8,
+      "culture": 8,
+      "politics": 7,
+      "religion": 3,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Афинская агора",
+      "lat": 37.9753,
+      "lon": 23.722
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-02/clg_a_02_03.svg",
+      "caption": "Локальная учебная обложка: Клепсидра афинского суда",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/blog/historical-city-travel-guide-athens-5th-century-bc",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_02_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Historical city travel guide — Athens, 5th century BC",
+      "url": "https://www.britishmuseum.org/blog/historical-city-travel-guide-athens-5th-century-bc",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_02"
+  },
+  {
+    "id": "CLG_A_02_04",
+    "type": "LAW",
+    "title": "Закон Перикла о гражданстве",
+    "original": "Periclean citizenship law",
+    "subtitle": "ограничение гражданства происхождением от двух гражданских родителей",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "451/450 год до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 8,
+    "summary": "Закон Перикла о гражданстве — ограничение гражданства происхождением от двух гражданских родителей.",
+    "importance": "Архивная карточка дополняет главу «Афинская демократия и границы гражданства» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: 451/450 год до н. э..",
+      "Связь с темой: ограничение гражданства происхождением от двух гражданских родителей.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Афинская демократия и границы гражданства",
+      "law"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 3,
+      "culture": 5,
+      "politics": 8,
+      "religion": 4,
+      "economy": 4,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-02/clg_a_02_04.svg",
+      "caption": "Локальная учебная обложка: Закон Перикла о гражданстве",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/blog/historical-city-travel-guide-athens-5th-century-bc",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_02_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Historical city travel guide — Athens, 5th century BC",
+      "url": "https://www.britishmuseum.org/blog/historical-city-travel-guide-athens-5th-century-bc",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_02"
+  },
+  {
+    "id": "CLG_A_03_01",
+    "type": "TEXT",
+    "title": "Афинские списки дани",
+    "original": "Athenian tribute lists",
+    "subtitle": "надписи с учётом части союзных платежей Афине",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "V век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Афинские списки дани — надписи с учётом части союзных платежей Афине.",
+    "importance": "Архивная карточка дополняет главу «Делосский союз и Афинская морская держава» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: V век до н. э..",
+      "Связь с темой: надписи с учётом части союзных платежей Афине.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Делосский союз и Афинская морская держава",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 7,
+      "culture": 5,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Акрополь",
+      "lat": 37.9715,
+      "lon": 23.7267
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-03/clg_a_03_01.svg",
+      "caption": "Локальная учебная обложка: Афинские списки дани",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/393/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_03_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Archaeological Site of Delphi",
+      "url": "https://whc.unesco.org/en/list/393/",
+      "type": "institutional"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_03"
+  },
+  {
+    "id": "CLG_A_03_02",
+    "type": "LAW",
+    "title": "Халкидский декрет",
+    "original": "Chalcis Decree",
+    "subtitle": "надпись об условиях контроля над союзным городом",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "446/445 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Халкидский декрет — надпись об условиях контроля над союзным городом.",
+    "importance": "Архивная карточка дополняет главу «Делосский союз и Афинская морская держава» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: 446/445 год до н. э..",
+      "Связь с темой: надпись об условиях контроля над союзным городом.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Делосский союз и Афинская морская держава",
+      "law"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 8,
+      "culture": 7,
+      "politics": 8,
+      "religion": 3,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-03/clg_a_03_02.svg",
+      "caption": "Локальная учебная обложка: Халкидский декрет",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/393/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_03_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Archaeological Site of Delphi",
+      "url": "https://whc.unesco.org/en/list/393/",
+      "type": "institutional"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_03"
+  },
+  {
+    "id": "CLG_A_03_03",
+    "type": "SYSTEM",
+    "title": "Клерухия",
+    "original": "Cleruchy",
+    "subtitle": "поселение афинских граждан на землях союзников",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "V век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Клерухия — поселение афинских граждан на землях союзников.",
+    "importance": "Архивная карточка дополняет главу «Делосский союз и Афинская морская держава» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: V век до н. э..",
+      "Связь с темой: поселение афинских граждан на землях союзников.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Делосский союз и Афинская морская держава",
+      "system"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 3,
+      "culture": 9,
+      "politics": 9,
+      "religion": 4,
+      "economy": 4,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Греческий мир",
+      "lat": 38.5,
+      "lon": 23.2
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-03/clg_a_03_03.svg",
+      "caption": "Локальная учебная обложка: Клерухия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/393/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_03_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Archaeological Site of Delphi",
+      "url": "https://whc.unesco.org/en/list/393/",
+      "type": "institutional"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_03"
+  },
+  {
+    "id": "CLG_A_03_04",
+    "type": "CONCEPT",
+    "title": "Спор: союз или империя",
+    "original": "Athenian Empire debate",
+    "subtitle": "вопрос о границе между коллективной обороной и принуждением",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "современная историография",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Спор: союз или империя — вопрос о границе между коллективной обороной и принуждением.",
+    "importance": "Архивная карточка дополняет главу «Делосский союз и Афинская морская держава» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Связь с темой: вопрос о границе между коллективной обороной и принуждением.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Делосский союз и Афинская морская держава",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 4,
+      "culture": 6,
+      "politics": 5,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Делос",
+      "lat": 37.396,
+      "lon": 25.267
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-03/clg_a_03_04.svg",
+      "caption": "Локальная учебная обложка: Спор: союз или империя",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/393/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_03_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Archaeological Site of Delphi",
+      "url": "https://whc.unesco.org/en/list/393/",
+      "type": "institutional"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_03"
+  },
+  {
+    "id": "CLG_A_04_01",
+    "type": "ARTIFACT",
+    "title": "Фриз Парфенона",
+    "original": "Parthenon Frieze",
+    "subtitle": "мраморный фриз с процессией и культовым контекстом",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "447–432 годы до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Фриз Парфенона — мраморный фриз с процессией и культовым контекстом.",
+    "importance": "Архивная карточка дополняет главу «Перикловы Афины и Акрополь» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: 447–432 годы до н. э..",
+      "Связь с темой: мраморный фриз с процессией и культовым контекстом.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Перикловы Афины и Акрополь",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 8,
+      "culture": 6,
+      "politics": 9,
+      "religion": 3,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Акрополь",
+      "lat": 37.9715,
+      "lon": 23.7267
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-04/clg_a_04_01.svg",
+      "caption": "Локальная учебная обложка: Фриз Парфенона",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/parthenon-sculptures",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The Parthenon Sculptures",
+      "url": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/parthenon-sculptures",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_04"
+  },
+  {
+    "id": "CLG_A_04_02",
+    "type": "ARTIFACT",
+    "title": "Статуя Афины Парфенос",
+    "original": "Athena Parthenos",
+    "subtitle": "утраченная хрисоэлефантинная статуя работы Фидия",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "V век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Статуя Афины Парфенос — утраченная хрисоэлефантинная статуя работы Фидия.",
+    "importance": "Архивная карточка дополняет главу «Перикловы Афины и Акрополь» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: V век до н. э..",
+      "Связь с темой: утраченная хрисоэлефантинная статуя работы Фидия.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Перикловы Афины и Акрополь",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 3,
+      "culture": 8,
+      "politics": 5,
+      "religion": 4,
+      "economy": 4,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Акрополь",
+      "lat": 37.9715,
+      "lon": 23.7267
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-04/clg_a_04_02.svg",
+      "caption": "Локальная учебная обложка: Статуя Афины Парфенос",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/parthenon-sculptures",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The Parthenon Sculptures",
+      "url": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/parthenon-sculptures",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_04"
+  },
+  {
+    "id": "CLG_A_04_03",
+    "type": "TEXT",
+    "title": "Надписи строительных счетов",
+    "original": "Athenian building accounts",
+    "subtitle": "эпиграфические записи расходов и материалов",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "V век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Надписи строительных счетов — эпиграфические записи расходов и материалов.",
+    "importance": "Архивная карточка дополняет главу «Перикловы Афины и Акрополь» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: V век до н. э..",
+      "Связь с темой: эпиграфические записи расходов и материалов.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Перикловы Афины и Акрополь",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 4,
+      "culture": 5,
+      "politics": 6,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-04/clg_a_04_03.svg",
+      "caption": "Локальная учебная обложка: Надписи строительных счетов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/parthenon-sculptures",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The Parthenon Sculptures",
+      "url": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/parthenon-sculptures",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_04"
+  },
+  {
+    "id": "CLG_A_04_04",
+    "type": "TEXT",
+    "title": "Надгробная речь Перикла",
+    "original": "Pericles Funeral Oration",
+    "subtitle": "речь в передаче Фукидида о гражданском идеале Афин",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "430-е годы до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 9,
+    "summary": "Надгробная речь Перикла — речь в передаче Фукидида о гражданском идеале Афин.",
+    "importance": "Архивная карточка дополняет главу «Перикловы Афины и Акрополь» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: 430-е годы до н. э..",
+      "Связь с темой: речь в передаче Фукидида о гражданском идеале Афин.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Перикловы Афины и Акрополь",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 5,
+      "culture": 7,
+      "politics": 7,
+      "religion": 6,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-04/clg_a_04_04.svg",
+      "caption": "Локальная учебная обложка: Надгробная речь Перикла",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/parthenon-sculptures",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_04_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The Parthenon Sculptures",
+      "url": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/parthenon-sculptures",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_04"
+  },
+  {
+    "id": "CLG_A_05_01",
+    "type": "TEXT",
+    "title": "Великая ретра",
+    "original": "Great Rhetra",
+    "subtitle": "традиционный текст об устройстве Спарты, известный по поздней передаче",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "архаическая традиция",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Великая ретра — традиционный текст об устройстве Спарты, известный по поздней передаче.",
+    "importance": "Архивная карточка дополняет главу «Спарта и Пелопоннесский союз» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: архаическая традиция.",
+      "Связь с темой: традиционный текст об устройстве Спарты, известный по поздней передаче.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Спарта и Пелопоннесский союз",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 3,
+      "culture": 7,
+      "politics": 6,
+      "religion": 4,
+      "economy": 4,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Спарта",
+      "lat": 37.075,
+      "lon": 22.43
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-05/clg_a_05_01.svg",
+      "caption": "Локальная учебная обложка: Великая ретра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-greece",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Ancient Greece",
+      "url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-greece",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_05"
+  },
+  {
+    "id": "CLG_A_05_02",
+    "type": "CONCEPT",
+    "title": "Спартанский мираж в историографии",
+    "original": "Spartan mirage",
+    "subtitle": "идеализированный образ неизменной и дисциплинированной Спарты",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "современная историография",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Спартанский мираж в историографии — идеализированный образ неизменной и дисциплинированной Спарты.",
+    "importance": "Архивная карточка дополняет главу «Спарта и Пелопоннесский союз» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Связь с темой: идеализированный образ неизменной и дисциплинированной Спарты.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Спарта и Пелопоннесский союз",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 7,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Спарта",
+      "lat": 37.075,
+      "lon": 22.43
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-05/clg_a_05_02.svg",
+      "caption": "Локальная учебная обложка: Спартанский мираж в историографии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-greece",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Ancient Greece",
+      "url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-greece",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_05"
+  },
+  {
+    "id": "CLG_A_05_03",
+    "type": "ARTIFACT",
+    "title": "Бронзовая фигурка из Лаконии",
+    "original": "Laconian bronze figurine",
+    "subtitle": "материальное свидетельство лаконийского ремесла и культа",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "VI–V века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Бронзовая фигурка из Лаконии — материальное свидетельство лаконийского ремесла и культа.",
+    "importance": "Архивная карточка дополняет главу «Спарта и Пелопоннесский союз» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: VI–V века до н. э..",
+      "Связь с темой: материальное свидетельство лаконийского ремесла и культа.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Спарта и Пелопоннесский союз",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 5,
+      "culture": 6,
+      "politics": 8,
+      "religion": 6,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Спарта",
+      "lat": 37.075,
+      "lon": 22.43
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-05/clg_a_05_03.svg",
+      "caption": "Локальная учебная обложка: Бронзовая фигурка из Лаконии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-greece",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Ancient Greece",
+      "url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-greece",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_05"
+  },
+  {
+    "id": "CLG_A_05_04",
+    "type": "EVENT",
+    "title": "Землетрясение 464 года",
+    "original": "464 BC Sparta earthquake",
+    "subtitle": "катастрофа, связанная с большим восстанием илотов",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "464 год до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 9,
+    "summary": "Землетрясение 464 года — катастрофа, связанная с большим восстанием илотов.",
+    "importance": "Архивная карточка дополняет главу «Спарта и Пелопоннесский союз» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: 464 год до н. э..",
+      "Связь с темой: катастрофа, связанная с большим восстанием илотов.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Спарта и Пелопоннесский союз",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 6,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Спарта",
+      "lat": 37.075,
+      "lon": 22.43
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-05/clg_a_05_04.svg",
+      "caption": "Локальная учебная обложка: Землетрясение 464 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-greece",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Ancient Greece",
+      "url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-greece",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_05"
+  },
+  {
+    "id": "CLG_A_06_01",
+    "type": "TEXT",
+    "title": "Фукидид об эпидемии",
+    "original": "Plague of Athens in Thucydides",
+    "subtitle": "описание симптомов и общественного кризиса очевидцем",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "V век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Фукидид об эпидемии — описание симптомов и общественного кризиса очевидцем.",
+    "importance": "Архивная карточка дополняет главу «Пелопоннесская война: первый этап» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: V век до н. э..",
+      "Связь с темой: описание симптомов и общественного кризиса очевидцем.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Пелопоннесская война: первый этап",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 4,
+      "culture": 8,
+      "politics": 8,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-06/clg_a_06_01.svg",
+      "caption": "Локальная учебная обложка: Фукидид об эпидемии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/collections",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Greek and Roman Materials",
+      "url": "https://www.perseus.tufts.edu/hopper/collections",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_06"
+  },
+  {
+    "id": "CLG_A_06_02",
+    "type": "LAW",
+    "title": "Мегарская псефизма",
+    "original": "Megarian decree",
+    "subtitle": "афинские меры против Мегары, известные из спорной традиции",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "ок. 432 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Мегарская псефизма — афинские меры против Мегары, известные из спорной традиции.",
+    "importance": "Архивная карточка дополняет главу «Пелопоннесская война: первый этап» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: ок. 432 год до н. э..",
+      "Связь с темой: афинские меры против Мегары, известные из спорной традиции.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Пелопоннесская война: первый этап",
+      "law"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 5,
+      "politics": 9,
+      "religion": 6,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Коринф",
+      "lat": 37.938,
+      "lon": 22.932
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-06/clg_a_06_02.svg",
+      "caption": "Локальная учебная обложка: Мегарская псефизма",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/collections",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Greek and Roman Materials",
+      "url": "https://www.perseus.tufts.edu/hopper/collections",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_06"
+  },
+  {
+    "id": "CLG_A_06_03",
+    "type": "TEXT",
+    "title": "Митиленский спор",
+    "original": "Mytilenean Debate",
+    "subtitle": "речи у Фукидида о наказании восставшего союзника",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "427 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Митиленский спор — речи у Фукидида о наказании восставшего союзника.",
+    "importance": "Архивная карточка дополняет главу «Пелопоннесская война: первый этап» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: 427 год до н. э..",
+      "Связь с темой: речи у Фукидида о наказании восставшего союзника.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Пелопоннесская война: первый этап",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 6,
+      "culture": 7,
+      "politics": 5,
+      "religion": 7,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-06/clg_a_06_03.svg",
+      "caption": "Локальная учебная обложка: Митиленский спор",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/collections",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Greek and Roman Materials",
+      "url": "https://www.perseus.tufts.edu/hopper/collections",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_06"
+  },
+  {
+    "id": "CLG_A_06_04",
+    "type": "SOURCE",
+    "title": "Амфиполь у Фукидида",
+    "original": "Battle of Amphipolis",
+    "subtitle": "рассказ историка, лично связанного с командованием в регионе",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "422 год до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 9,
+    "summary": "Амфиполь у Фукидида — рассказ историка, лично связанного с командованием в регионе.",
+    "importance": "Архивная карточка дополняет главу «Пелопоннесская война: первый этап» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: 422 год до н. э..",
+      "Связь с темой: рассказ историка, лично связанного с командованием в регионе.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Пелопоннесская война: первый этап",
+      "source"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 7,
+      "culture": 9,
+      "politics": 6,
+      "religion": 3,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Амфиполь",
+      "lat": 40.823,
+      "lon": 23.847
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-06/clg_a_06_04.svg",
+      "caption": "Локальная учебная обложка: Амфиполь у Фукидида",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/collections",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Greek and Roman Materials",
+      "url": "https://www.perseus.tufts.edu/hopper/collections",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_06"
+  },
+  {
+    "id": "CLG_A_07_01",
+    "type": "EVENT",
+    "title": "Осквернение герм",
+    "original": "Mutilation of the hermai",
+    "subtitle": "религиозно-политический скандал перед отплытием флота",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "415 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Осквернение герм — религиозно-политический скандал перед отплытием флота.",
+    "importance": "Архивная карточка дополняет главу «Сицилийская экспедиция и поражение Афин» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: 415 год до н. э..",
+      "Связь с темой: религиозно-политический скандал перед отплытием флота.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Сицилийская экспедиция и поражение Афин",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 5,
+      "culture": 9,
+      "politics": 5,
+      "religion": 6,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-07/clg_a_07_01.svg",
+      "caption": "Локальная учебная обложка: Осквернение герм",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/collections",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Greek and Roman Materials",
+      "url": "https://www.perseus.tufts.edu/hopper/collections",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_07"
+  },
+  {
+    "id": "CLG_A_07_02",
+    "type": "TEXT",
+    "title": "Фукидид о сицилийских дебатах",
+    "original": "Sicilian Debate Thucydides",
+    "subtitle": "литературно обработанные речи Никия и Алкивиада",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "V век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Фукидид о сицилийских дебатах — литературно обработанные речи Никия и Алкивиада.",
+    "importance": "Архивная карточка дополняет главу «Сицилийская экспедиция и поражение Афин» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: V век до н. э..",
+      "Связь с темой: литературно обработанные речи Никия и Алкивиада.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Сицилийская экспедиция и поражение Афин",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 6,
+      "culture": 6,
+      "politics": 6,
+      "religion": 7,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-07/clg_a_07_02.svg",
+      "caption": "Локальная учебная обложка: Фукидид о сицилийских дебатах",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/collections",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Greek and Roman Materials",
+      "url": "https://www.perseus.tufts.edu/hopper/collections",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_07"
+  },
+  {
+    "id": "CLG_A_07_03",
+    "type": "SYSTEM",
+    "title": "Персидское финансирование Спарты",
+    "original": "Persian support for Sparta",
+    "subtitle": "субсидии сатрапов для строительства и оплаты спартанского флота",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "412–405 годы до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Персидское финансирование Спарты — субсидии сатрапов для строительства и оплаты спартанского флота.",
+    "importance": "Архивная карточка дополняет главу «Сицилийская экспедиция и поражение Афин» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: 412–405 годы до н. э..",
+      "Связь с темой: субсидии сатрапов для строительства и оплаты спартанского флота.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Сицилийская экспедиция и поражение Афин",
+      "system"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 7,
+      "culture": 8,
+      "politics": 7,
+      "religion": 3,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сарды",
+      "lat": 38.488,
+      "lon": 28.04
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-07/clg_a_07_03.svg",
+      "caption": "Локальная учебная обложка: Персидское финансирование Спарты",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/collections",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Greek and Roman Materials",
+      "url": "https://www.perseus.tufts.edu/hopper/collections",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_07"
+  },
+  {
+    "id": "CLG_A_07_04",
+    "type": "EVENT",
+    "title": "Суд над стратегами после Аргинус",
+    "original": "Trial of the generals",
+    "subtitle": "коллективное осуждение военачальников после морской победы",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "406 год до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 9,
+    "summary": "Суд над стратегами после Аргинус — коллективное осуждение военачальников после морской победы.",
+    "importance": "Архивная карточка дополняет главу «Сицилийская экспедиция и поражение Афин» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: 406 год до н. э..",
+      "Связь с темой: коллективное осуждение военачальников после морской победы.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Сицилийская экспедиция и поражение Афин",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 8,
+      "culture": 5,
+      "politics": 8,
+      "religion": 4,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-07/clg_a_07_04.svg",
+      "caption": "Локальная учебная обложка: Суд над стратегами после Аргинус",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/collections",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_07_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Greek and Roman Materials",
+      "url": "https://www.perseus.tufts.edu/hopper/collections",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_07"
+  },
+  {
+    "id": "CLG_A_08_01",
+    "type": "TEXT",
+    "title": "Ксенофонт, «Греческая история»",
+    "original": "Hellenica Xenophon",
+    "subtitle": "продолжение истории греческих войн после Фукидида",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "IV век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Ксенофонт, «Греческая история» — продолжение истории греческих войн после Фукидида.",
+    "importance": "Архивная карточка дополняет главу «Гегемонии IV века: Спарта, Афины и Фивы» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: IV век до н. э..",
+      "Связь с темой: продолжение истории греческих войн после Фукидида.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Гегемонии IV века: Спарта, Афины и Фивы",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 6,
+      "culture": 5,
+      "politics": 7,
+      "religion": 7,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Греческий мир",
+      "lat": 38.5,
+      "lon": 23.2
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-08/clg_a_08_01.svg",
+      "caption": "Локальная учебная обложка: Ксенофонт, «Греческая история»",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/collections",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Greek and Roman Materials",
+      "url": "https://www.perseus.tufts.edu/hopper/collections",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_08"
+  },
+  {
+    "id": "CLG_A_08_02",
+    "type": "MILITARY",
+    "title": "Священный отряд Фив",
+    "original": "Sacred Band of Thebes",
+    "subtitle": "элитное подразделение фиванской армии",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "IV век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Священный отряд Фив — элитное подразделение фиванской армии.",
+    "importance": "Архивная карточка дополняет главу «Гегемонии IV века: Спарта, Афины и Фивы» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: IV век до н. э..",
+      "Связь с темой: элитное подразделение фиванской армии.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Гегемонии IV века: Спарта, Афины и Фивы",
+      "military"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 7,
+      "culture": 7,
+      "politics": 8,
+      "religion": 3,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Фивы",
+      "lat": 38.322,
+      "lon": 23.318
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-08/clg_a_08_02.svg",
+      "caption": "Локальная учебная обложка: Священный отряд Фив",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/collections",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Greek and Roman Materials",
+      "url": "https://www.perseus.tufts.edu/hopper/collections",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_08"
+  },
+  {
+    "id": "CLG_A_08_03",
+    "type": "LAW",
+    "title": "Декрет Второго Афинского союза",
+    "original": "Second Athenian League decree",
+    "subtitle": "надпись с обещанием автономии союзников",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "378/377 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Декрет Второго Афинского союза — надпись с обещанием автономии союзников.",
+    "importance": "Архивная карточка дополняет главу «Гегемонии IV века: Спарта, Афины и Фивы» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: 378/377 год до н. э..",
+      "Связь с темой: надпись с обещанием автономии союзников.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Гегемонии IV века: Спарта, Афины и Фивы",
+      "law"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 8,
+      "culture": 9,
+      "politics": 9,
+      "religion": 4,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-08/clg_a_08_03.svg",
+      "caption": "Локальная учебная обложка: Декрет Второго Афинского союза",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/collections",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Greek and Roman Materials",
+      "url": "https://www.perseus.tufts.edu/hopper/collections",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_08"
+  },
+  {
+    "id": "CLG_A_08_04",
+    "type": "BATTLE",
+    "title": "Битва при Мантинее",
+    "original": "Battle of Mantinea 362 BC",
+    "subtitle": "сражение, после которого фиванское лидерство ослабло",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "362 год до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 10,
+    "summary": "Битва при Мантинее — сражение, после которого фиванское лидерство ослабло.",
+    "importance": "Архивная карточка дополняет главу «Гегемонии IV века: Спарта, Афины и Фивы» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: 362 год до н. э..",
+      "Связь с темой: сражение, после которого фиванское лидерство ослабло.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Гегемонии IV века: Спарта, Афины и Фивы",
+      "battle"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 3,
+      "culture": 6,
+      "politics": 5,
+      "religion": 5,
+      "economy": 4,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Мантинея",
+      "lat": 37.618,
+      "lon": 22.389
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-08/clg_a_08_04.svg",
+      "caption": "Локальная учебная обложка: Битва при Мантинее",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/collections",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_08_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Greek and Roman Materials",
+      "url": "https://www.perseus.tufts.edu/hopper/collections",
+      "type": "academic"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_08"
+  },
+  {
+    "id": "CLG_A_09_01",
+    "type": "BUILDING",
+    "title": "Театр Диониса",
+    "original": "Theatre of Dionysus",
+    "subtitle": "пространство драматических состязаний у Акрополя",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "V–IV века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Театр Диониса — пространство драматических состязаний у Акрополя.",
+    "importance": "Архивная карточка дополняет главу «Философия, театр и историческое письмо» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: V–IV века до н. э..",
+      "Связь с темой: пространство драматических состязаний у Акрополя.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Философия, театр и историческое письмо",
+      "building"
+    ],
+    "stats": {
+      "influence": 5,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 6,
+      "politics": 9,
+      "religion": 3,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-09/clg_a_09_01.svg",
+      "caption": "Локальная учебная обложка: Театр Диониса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_09_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of Classical Greece (ca. 480–323 B.C.)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_09"
+  },
+  {
+    "id": "CLG_A_09_02",
+    "type": "TEXT",
+    "title": "«Персы» Эсхила",
+    "original": "The Persians Aeschylus",
+    "subtitle": "трагедия о поражении Ксеркса, поставленная в Афинах",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "472 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "«Персы» Эсхила — трагедия о поражении Ксеркса, поставленная в Афинах.",
+    "importance": "Архивная карточка дополняет главу «Философия, театр и историческое письмо» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: 472 год до н. э..",
+      "Связь с темой: трагедия о поражении Ксеркса, поставленная в Афинах.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Философия, театр и историческое письмо",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 8,
+      "culture": 8,
+      "politics": 5,
+      "religion": 4,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-09/clg_a_09_02.svg",
+      "caption": "Локальная учебная обложка: «Персы» Эсхила",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_09_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of Classical Greece (ca. 480–323 B.C.)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_09"
+  },
+  {
+    "id": "CLG_A_09_03",
+    "type": "TEXT",
+    "title": "Корпус Гиппократа",
+    "original": "Hippocratic Corpus",
+    "subtitle": "сборник медицинских трактатов разных авторов",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "V–IV века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Корпус Гиппократа — сборник медицинских трактатов разных авторов.",
+    "importance": "Архивная карточка дополняет главу «Философия, театр и историческое письмо» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: V–IV века до н. э..",
+      "Связь с темой: сборник медицинских трактатов разных авторов.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Философия, театр и историческое письмо",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 3,
+      "culture": 5,
+      "politics": 6,
+      "religion": 5,
+      "economy": 4,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Греческий мир",
+      "lat": 38.5,
+      "lon": 23.2
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-09/clg_a_09_03.svg",
+      "caption": "Локальная учебная обложка: Корпус Гиппократа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_09_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of Classical Greece (ca. 480–323 B.C.)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_09"
+  },
+  {
+    "id": "CLG_A_09_04",
+    "type": "CONCEPT",
+    "title": "Проблема исторического Сократа",
+    "original": "Socratic problem",
+    "subtitle": "расхождения между портретами Сократа у Платона, Ксенофонта и Аристофана",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "современная историография",
+    "rarity": "MYTHIC",
+    "difficulty": 10,
+    "summary": "Проблема исторического Сократа — расхождения между портретами Сократа у Платона, Ксенофонта и Аристофана.",
+    "importance": "Архивная карточка дополняет главу «Философия, театр и историческое письмо» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: современная историография.",
+      "Связь с темой: расхождения между портретами Сократа у Платона, Ксенофонта и Аристофана.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Философия, театр и историческое письмо",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 7,
+      "religion": 6,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-09/clg_a_09_04.svg",
+      "caption": "Локальная учебная обложка: Проблема исторического Сократа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_09_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of Classical Greece (ca. 480–323 B.C.)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_09"
+  },
+  {
+    "id": "CLG_A_10_01",
+    "type": "TEXT",
+    "title": "Филиппики Демосфена",
+    "original": "Philippics Demosthenes",
+    "subtitle": "политические речи против Филиппа II",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "IV век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Филиппики Демосфена — политические речи против Филиппа II.",
+    "importance": "Архивная карточка дополняет главу «Македония и конец системы независимых полисов» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: IV век до н. э..",
+      "Связь с темой: политические речи против Филиппа II.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Македония и конец системы независимых полисов",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 7,
+      "politics": 6,
+      "religion": 4,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Афины",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-10/clg_a_10_01.svg",
+      "caption": "Локальная учебная обложка: Филиппики Демосфена",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_10_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of Classical Greece (ca. 480–323 B.C.)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_10"
+  },
+  {
+    "id": "CLG_A_10_02",
+    "type": "ARTIFACT",
+    "title": "Золотой статер Филиппа II",
+    "original": "Philip II gold stater",
+    "subtitle": "царская монета с широким распространением",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "IV век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Золотой статер Филиппа II — царская монета с широким распространением.",
+    "importance": "Архивная карточка дополняет главу «Македония и конец системы независимых полисов» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: IV век до н. э..",
+      "Связь с темой: царская монета с широким распространением.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Македония и конец системы независимых полисов",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 3,
+      "culture": 9,
+      "politics": 7,
+      "religion": 5,
+      "economy": 4,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Македония",
+      "lat": 40.75,
+      "lon": 22.5
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-10/clg_a_10_02.svg",
+      "caption": "Локальная учебная обложка: Золотой статер Филиппа II",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_10_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of Classical Greece (ca. 480–323 B.C.)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_10"
+  },
+  {
+    "id": "CLG_A_10_03",
+    "type": "SITE",
+    "title": "Гробницы в Вергине",
+    "original": "Royal Tombs at Aigai",
+    "subtitle": "царский некрополь с дискуссией об атрибуции отдельных погребений",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "IV век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Гробницы в Вергине — царский некрополь с дискуссией об атрибуции отдельных погребений.",
+    "importance": "Архивная карточка дополняет главу «Македония и конец системы независимых полисов» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: IV век до н. э..",
+      "Связь с темой: царский некрополь с дискуссией об атрибуции отдельных погребений.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Македония и конец системы независимых полисов",
+      "site"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 4,
+      "culture": 6,
+      "politics": 8,
+      "religion": 6,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Македония",
+      "lat": 40.75,
+      "lon": 22.5
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-10/clg_a_10_03.svg",
+      "caption": "Локальная учебная обложка: Гробницы в Вергине",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_10_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of Classical Greece (ca. 480–323 B.C.)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_10"
+  },
+  {
+    "id": "CLG_A_10_04",
+    "type": "CONCEPT",
+    "title": "Граница классического периода",
+    "original": "End of Classical Greece",
+    "subtitle": "условная периодизация между Херонеей, смертью Филиппа и походами Александра",
+    "era": "Классический мир",
+    "region": "Греция и Эгейский мир",
+    "date": "338–323 годы до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 10,
+    "summary": "Граница классического периода — условная периодизация между Херонеей, смертью Филиппа и походами Александра.",
+    "importance": "Архивная карточка дополняет главу «Македония и конец системы независимых полисов» отдельным текстом, памятником или спором исследователей.",
+    "facts": [
+      "Датировка: 338–323 годы до н. э..",
+      "Связь с темой: условная периодизация между Херонеей, смертью Филиппа и походами Александра.",
+      "Надёжность вывода зависит от жанра, датировки, авторской позиции и археологического контекста."
+    ],
+    "tags": [
+      "классический мир",
+      "греческий архив",
+      "Македония и конец системы независимых полисов",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Греческий мир",
+      "lat": 38.5,
+      "lon": 23.2
+    },
+    "image": {
+      "local": "assets/cards/classical-greece/chapter-10/clg_a_10_04.svg",
+      "caption": "Локальная учебная обложка: Граница классического периода",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "clg_a_10_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of Classical Greece (ca. 480–323 B.C.)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "GREECE_CLASSICAL",
+    "chapter": "CLG_CHAPTER_10"
+  }
+]

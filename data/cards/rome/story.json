@@ -4565,5 +4565,1399 @@
     "acquisition": "STORY",
     "campaign": "ROME",
     "chapter": "ROME_CHAPTER_06"
+  },
+  {
+    "id": "ROM_S_07_01",
+    "type": "PERSON",
+    "title": "Тиберий Семпроний Гракх",
+    "original": "Tiberius Sempronius Gracchus",
+    "subtitle": "народный трибун, связавший земельный вопрос с военной и гражданской устойчивостью Республики",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "ок. 163–133 годы до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Тиберий Семпроний Гракх — народный трибун, связавший земельный вопрос с военной и гражданской устойчивостью Республики.",
+    "importance": "Карточка раскрывает главу «Гракхи и социальный кризис» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: ок. 163–133 годы до н. э..",
+      "Основной смысл: народный трибун, связавший земельный вопрос с военной и гражданской устойчивостью Республики.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Гракхи и социальный кризис",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 5,
+      "culture": 5,
+      "politics": 7,
+      "religion": 6,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_07/rom_s_07_01.svg",
+      "caption": "Локальная учебная обложка: Тиберий Семпроний Гракх",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Tiberius_Gracchus*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Tiberius Gracchus",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Tiberius_Gracchus*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_07"
+  },
+  {
+    "id": "ROM_S_07_02",
+    "type": "ECONOMY",
+    "title": "Общественная земля ager publicus",
+    "original": "Ager publicus",
+    "subtitle": "земля, считавшаяся собственностью римского народа и ставшая предметом аграрного конфликта",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "II век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Общественная земля ager publicus — земля, считавшаяся собственностью римского народа и ставшая предметом аграрного конфликта.",
+    "importance": "Карточка раскрывает главу «Гракхи и социальный кризис» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: II век до н. э..",
+      "Основной смысл: земля, считавшаяся собственностью римского народа и ставшая предметом аграрного конфликта.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Гракхи и социальный кризис",
+      "economy"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 5,
+      "culture": 6,
+      "politics": 7,
+      "religion": 3,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Этрурия",
+      "lat": 42.55,
+      "lon": 11.2
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_07/rom_s_07_02.svg",
+      "caption": "Локальная учебная обложка: Общественная земля ager publicus",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Tiberius_Gracchus*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Tiberius Gracchus",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Tiberius_Gracchus*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_07"
+  },
+  {
+    "id": "ROM_S_07_03",
+    "type": "INSTITUTION",
+    "title": "Аграрная комиссия Гракхов",
+    "original": "Gracchan land commission",
+    "subtitle": "коллегия трёх уполномоченных, измерявшая и распределявшая часть общественной земли",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "с 133 года до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Аграрная комиссия Гракхов — коллегия трёх уполномоченных, измерявшая и распределявшая часть общественной земли.",
+    "importance": "Карточка раскрывает главу «Гракхи и социальный кризис» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: с 133 года до н. э..",
+      "Основной смысл: коллегия трёх уполномоченных, измерявшая и распределявшая часть общественной земли.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Гракхи и социальный кризис",
+      "institution"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 5,
+      "culture": 5,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кампания",
+      "lat": 40.83,
+      "lon": 14.25
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_07/rom_s_07_03.svg",
+      "caption": "Локальная учебная обложка: Аграрная комиссия Гракхов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Tiberius_Gracchus*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Tiberius Gracchus",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Tiberius_Gracchus*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_07"
+  },
+  {
+    "id": "ROM_S_07_04",
+    "type": "EVENT",
+    "title": "Смещение трибуна Марка Октавия",
+    "original": "Deposition of Marcus Octavius",
+    "subtitle": "спорный прецедент отстранения трибуна, блокировавшего аграрный закон",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "133 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Смещение трибуна Марка Октавия — спорный прецедент отстранения трибуна, блокировавшего аграрный закон.",
+    "importance": "Карточка раскрывает главу «Гракхи и социальный кризис» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: 133 год до н. э..",
+      "Основной смысл: спорный прецедент отстранения трибуна, блокировавшего аграрный закон.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Гракхи и социальный кризис",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 5,
+      "culture": 6,
+      "politics": 8,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Forum",
+      "lat": 41.892,
+      "lon": 12.485
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_07/rom_s_07_04.svg",
+      "caption": "Локальная учебная обложка: Смещение трибуна Марка Октавия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Tiberius_Gracchus*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_07_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Tiberius Gracchus",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Tiberius_Gracchus*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_07"
+  },
+  {
+    "id": "ROM_S_07_05",
+    "type": "EVENT",
+    "title": "Убийство Тиберия Гракха",
+    "original": "Death of Tiberius Gracchus",
+    "subtitle": "первое крупное кровопролитие внутри римской политики поздней Республики",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "133 год до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Убийство Тиберия Гракха — первое крупное кровопролитие внутри римской политики поздней Республики.",
+    "importance": "Карточка раскрывает главу «Гракхи и социальный кризис» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: 133 год до н. э..",
+      "Основной смысл: первое крупное кровопролитие внутри римской политики поздней Республики.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Гракхи и социальный кризис",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 5,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Капитолий",
+      "lat": 41.893,
+      "lon": 12.483
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_07/rom_s_07_05.svg",
+      "caption": "Локальная учебная обложка: Убийство Тиберия Гракха",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Tiberius_Gracchus*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_07_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Tiberius Gracchus",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Tiberius_Gracchus*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_07"
+  },
+  {
+    "id": "ROM_S_07_06",
+    "type": "PERSON",
+    "title": "Гай Семпроний Гракх",
+    "original": "Gaius Sempronius Gracchus",
+    "subtitle": "трибун, соединивший земельную, зерновую, судебную, дорожную и колониальную программы",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "ок. 154–121 годы до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Гай Семпроний Гракх — трибун, соединивший земельную, зерновую, судебную, дорожную и колониальную программы.",
+    "importance": "Карточка раскрывает главу «Гракхи и социальный кризис» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: ок. 154–121 годы до н. э..",
+      "Основной смысл: трибун, соединивший земельную, зерновую, судебную, дорожную и колониальную программы.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Гракхи и социальный кризис",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 5,
+      "culture": 6,
+      "politics": 7,
+      "religion": 6,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_07/rom_s_07_06.svg",
+      "caption": "Локальная учебная обложка: Гай Семпроний Гракх",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Tiberius_Gracchus*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_07_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Tiberius Gracchus",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Tiberius_Gracchus*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_07"
+  },
+  {
+    "id": "ROM_S_07_07",
+    "type": "LAW",
+    "title": "Зерновой закон Гая Гракха",
+    "original": "Lex frumentaria of Gaius Gracchus",
+    "subtitle": "регулярная продажа зерна гражданам по установленной цене",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "123 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Зерновой закон Гая Гракха — регулярная продажа зерна гражданам по установленной цене.",
+    "importance": "Карточка раскрывает главу «Гракхи и социальный кризис» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: 123 год до н. э..",
+      "Основной смысл: регулярная продажа зерна гражданам по установленной цене.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Гракхи и социальный кризис",
+      "law"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 5,
+      "culture": 6,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_07/rom_s_07_07.svg",
+      "caption": "Локальная учебная обложка: Зерновой закон Гая Гракха",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Tiberius_Gracchus*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_07_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Tiberius Gracchus",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Tiberius_Gracchus*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_07"
+  },
+  {
+    "id": "ROM_S_07_08",
+    "type": "LAW",
+    "title": "Чрезвычайное постановление сената",
+    "original": "Senatus consultum ultimum",
+    "subtitle": "политическая формула, позволявшая консулам действовать против объявленной внутренней угрозы",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "121 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Чрезвычайное постановление сената — политическая формула, позволявшая консулам действовать против объявленной внутренней угрозы.",
+    "importance": "Карточка раскрывает главу «Гракхи и социальный кризис» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: 121 год до н. э..",
+      "Основной смысл: политическая формула, позволявшая консулам действовать против объявленной внутренней угрозы.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Гракхи и социальный кризис",
+      "law"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Авентин",
+      "lat": 41.883,
+      "lon": 12.481
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_07/rom_s_07_08.svg",
+      "caption": "Локальная учебная обложка: Чрезвычайное постановление сената",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Tiberius_Gracchus*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_07_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Tiberius Gracchus",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Tiberius_Gracchus*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_07"
+  },
+  {
+    "id": "ROM_S_08_01",
+    "type": "WAR",
+    "title": "Югуртинская война",
+    "original": "Jugurthine War",
+    "subtitle": "затяжная война в Нумидии, обострившая споры о коррупции и командовании",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "112–105 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Югуртинская война — затяжная война в Нумидии, обострившая споры о коррупции и командовании.",
+    "importance": "Карточка раскрывает главу «Марий, союзники и Сулла» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: 112–105 годы до н. э..",
+      "Основной смысл: затяжная война в Нумидии, обострившая споры о коррупции и командовании.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Марий, союзники и Сулла",
+      "war"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 6,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Нумидия",
+      "lat": 36.45,
+      "lon": 6.61
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_08/rom_s_08_01.svg",
+      "caption": "Локальная учебная обложка: Югуртинская война",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marius*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Marius",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marius*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_08"
+  },
+  {
+    "id": "ROM_S_08_02",
+    "type": "PERSON",
+    "title": "Гай Марий",
+    "original": "Gaius Marius",
+    "subtitle": "полководец и семикратный консул, чья карьера связала внешние войны с внутренним кризисом",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "ок. 157–86 годы до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Гай Марий — полководец и семикратный консул, чья карьера связала внешние войны с внутренним кризисом.",
+    "importance": "Карточка раскрывает главу «Марий, союзники и Сулла» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: ок. 157–86 годы до н. э..",
+      "Основной смысл: полководец и семикратный консул, чья карьера связала внешние войны с внутренним кризисом.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Марий, союзники и Сулла",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 5,
+      "culture": 5,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_08/rom_s_08_02.svg",
+      "caption": "Локальная учебная обложка: Гай Марий",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marius*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Marius",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marius*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_08"
+  },
+  {
+    "id": "ROM_S_08_03",
+    "type": "MILITARY",
+    "title": "Набор бедных граждан в легионы",
+    "original": "Recruitment of poorer Roman citizens",
+    "subtitle": "расширение практики набора граждан без значительного имущества в длительные провинциальные армии",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "конец II века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Набор бедных граждан в легионы — расширение практики набора граждан без значительного имущества в длительные провинциальные армии.",
+    "importance": "Карточка раскрывает главу «Марий, союзники и Сулла» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: конец II века до н. э..",
+      "Основной смысл: расширение практики набора граждан без значительного имущества в длительные провинциальные армии.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Марий, союзники и Сулла",
+      "military"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 6,
+      "culture": 5,
+      "politics": 7,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_08/rom_s_08_03.svg",
+      "caption": "Локальная учебная обложка: Набор бедных граждан в легионы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marius*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Marius",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marius*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_08"
+  },
+  {
+    "id": "ROM_S_08_04",
+    "type": "WAR",
+    "title": "Кимврская угроза",
+    "original": "Cimbrian War",
+    "subtitle": "серия войн с кимврами, тевтонами и их союзниками после поражения при Араузионе",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "113–101 годы до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Кимврская угроза — серия войн с кимврами, тевтонами и их союзниками после поражения при Араузионе.",
+    "importance": "Карточка раскрывает главу «Марий, союзники и Сулла» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: 113–101 годы до н. э..",
+      "Основной смысл: серия войн с кимврами, тевтонами и их союзниками после поражения при Араузионе.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Марий, союзники и Сулла",
+      "war"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 6,
+      "culture": 5,
+      "politics": 7,
+      "religion": 3,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Аквы Секстиевы",
+      "lat": 43.53,
+      "lon": 5.45
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_08/rom_s_08_04.svg",
+      "caption": "Локальная учебная обложка: Кимврская угроза",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marius*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_08_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Marius",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marius*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_08"
+  },
+  {
+    "id": "ROM_S_08_05",
+    "type": "WAR",
+    "title": "Союзническая война",
+    "original": "Social War",
+    "subtitle": "восстание италийских союзников за гражданство и политическое равенство",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "91–88 годы до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Союзническая война — восстание италийских союзников за гражданство и политическое равенство.",
+    "importance": "Карточка раскрывает главу «Марий, союзники и Сулла» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: 91–88 годы до н. э..",
+      "Основной смысл: восстание италийских союзников за гражданство и политическое равенство.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Марий, союзники и Сулла",
+      "war"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 6,
+      "culture": 7,
+      "politics": 7,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Корфиний",
+      "lat": 42.12,
+      "lon": 13.84
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_08/rom_s_08_05.svg",
+      "caption": "Локальная учебная обложка: Союзническая война",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marius*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_08_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Marius",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marius*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_08"
+  },
+  {
+    "id": "ROM_S_08_06",
+    "type": "LAW",
+    "title": "Расширение римского гражданства в Италии",
+    "original": "Extension of Roman citizenship in Italy",
+    "subtitle": "законы, включившие большинство союзных общин в римское гражданское тело",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "90–89 годы до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Расширение римского гражданства в Италии — законы, включившие большинство союзных общин в римское гражданское тело.",
+    "importance": "Карточка раскрывает главу «Марий, союзники и Сулла» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: 90–89 годы до н. э..",
+      "Основной смысл: законы, включившие большинство союзных общин в римское гражданское тело.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Марий, союзники и Сулла",
+      "law"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 5,
+      "culture": 8,
+      "politics": 8,
+      "religion": 3,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Italy",
+      "lat": 42.0,
+      "lon": 13.0
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_08/rom_s_08_06.svg",
+      "caption": "Локальная учебная обложка: Расширение римского гражданства в Италии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marius*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_08_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Marius",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marius*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_08"
+  },
+  {
+    "id": "ROM_S_08_07",
+    "type": "EVENT",
+    "title": "Первый поход Суллы на Рим",
+    "original": "Sulla’s first march on Rome",
+    "subtitle": "использование консульской армии против столицы в борьбе за восточное командование",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "88 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Первый поход Суллы на Рим — использование консульской армии против столицы в борьбе за восточное командование.",
+    "importance": "Карточка раскрывает главу «Марий, союзники и Сулла» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: 88 год до н. э..",
+      "Основной смысл: использование консульской армии против столицы в борьбе за восточное командование.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Марий, союзники и Сулла",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 5,
+      "culture": 8,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_08/rom_s_08_07.svg",
+      "caption": "Локальная учебная обложка: Первый поход Суллы на Рим",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marius*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_08_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Marius",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marius*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_08"
+  },
+  {
+    "id": "ROM_S_08_08",
+    "type": "SYSTEM",
+    "title": "Диктатура и проскрипции Суллы",
+    "original": "Sulla’s dictatorship and proscriptions",
+    "subtitle": "конфискации, казни и конституционная перестройка после победы в гражданской войне",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "82–79 годы до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 8,
+    "summary": "Диктатура и проскрипции Суллы — конфискации, казни и конституционная перестройка после победы в гражданской войне.",
+    "importance": "Карточка раскрывает главу «Марий, союзники и Сулла» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: 82–79 годы до н. э..",
+      "Основной смысл: конфискации, казни и конституционная перестройка после победы в гражданской войне.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Марий, союзники и Сулла",
+      "system"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 5,
+      "culture": 7,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Коллинские ворота",
+      "lat": 41.91,
+      "lon": 12.5
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_08/rom_s_08_08.svg",
+      "caption": "Локальная учебная обложка: Диктатура и проскрипции Суллы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marius*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_08_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Marius",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marius*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_08"
+  },
+  {
+    "id": "ROM_S_09_01",
+    "type": "PERSON",
+    "title": "Гней Помпей Великий",
+    "original": "Pompey the Great",
+    "subtitle": "полководец с чрезвычайными командованиями против пиратов и Митридата",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "106–48 годы до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Гней Помпей Великий — полководец с чрезвычайными командованиями против пиратов и Митридата.",
+    "importance": "Карточка раскрывает главу «Цезарь и гражданская война» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: 106–48 годы до н. э..",
+      "Основной смысл: полководец с чрезвычайными командованиями против пиратов и Митридата.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Цезарь и гражданская война",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 5,
+      "culture": 5,
+      "politics": 7,
+      "religion": 6,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_09/rom_s_09_01.svg",
+      "caption": "Локальная учебная обложка: Гней Помпей Великий",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_09_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Caesar",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_09"
+  },
+  {
+    "id": "ROM_S_09_02",
+    "type": "PERSON",
+    "title": "Марк Лициний Красс",
+    "original": "Marcus Licinius Crassus",
+    "subtitle": "богатейший политик Республики, консул и участник частной коалиции с Помпеем и Цезарем",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "ок. 115–53 годы до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Марк Лициний Красс — богатейший политик Республики, консул и участник частной коалиции с Помпеем и Цезарем.",
+    "importance": "Карточка раскрывает главу «Цезарь и гражданская война» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: ок. 115–53 годы до н. э..",
+      "Основной смысл: богатейший политик Республики, консул и участник частной коалиции с Помпеем и Цезарем.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Цезарь и гражданская война",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 7,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_09/rom_s_09_02.svg",
+      "caption": "Локальная учебная обложка: Марк Лициний Красс",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_09_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Caesar",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_09"
+  },
+  {
+    "id": "ROM_S_09_03",
+    "type": "DIPLOMACY",
+    "title": "Первый триумвират",
+    "original": "First Triumvirate",
+    "subtitle": "неформальное политическое соглашение Цезаря, Помпея и Красса",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "ок. 60–53 годы до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Первый триумвират — неформальное политическое соглашение Цезаря, Помпея и Красса.",
+    "importance": "Карточка раскрывает главу «Цезарь и гражданская война» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: ок. 60–53 годы до н. э..",
+      "Основной смысл: неформальное политическое соглашение Цезаря, Помпея и Красса.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Цезарь и гражданская война",
+      "diplomacy"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 5,
+      "culture": 6,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_09/rom_s_09_03.svg",
+      "caption": "Локальная учебная обложка: Первый триумвират",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_09_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Caesar",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_09"
+  },
+  {
+    "id": "PER_ROM_003",
+    "type": "PERSON",
+    "title": "Юлий Цезарь",
+    "original": "Julius Caesar",
+    "subtitle": "полководец, диктатор и центральная фигура последнего кризиса Республики",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "100–44 годы до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 7,
+    "summary": "Юлий Цезарь — полководец, диктатор и центральная фигура последнего кризиса Республики.",
+    "importance": "Карточка входит в главу «Цезарь и гражданская война» и показывает последний кризис Республики.",
+    "facts": [
+      "Датировка: 100–44 годы до н. э..",
+      "Основной смысл: полководец, диктатор и центральная фигура последнего кризиса Республики.",
+      "Событие известно через политически заинтересованные и часто более поздние литературные традиции."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Цезарь и гражданская война",
+      "person"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 7,
+      "legacy": 10,
+      "military": 9,
+      "culture": 8,
+      "politics": 10,
+      "religion": 3,
+      "economy": 6,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Галлия",
+      "lat": 46.5,
+      "lon": 2.5
+    },
+    "image": {
+      "file": "Julius_Caesar_Coustou_Louvre_MR1798.jpg",
+      "caption": "Статуя Юлия Цезаря работы Николя Кусту",
+      "credit": "Wikimedia Commons / Louvre",
+      "license": "Public Domain / см. страницу файла",
+      "focus": "50% 50%",
+      "local": "assets/cards/rome/legacy/per_rom_003.svg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Julius_Caesar_Coustou_Louvre_MR1798.jpg",
+      "prefer_remote": true,
+      "kind": "historical-image"
+    },
+    "source": {
+      "title": "Plutarch: Life of Caesar",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_09"
+  },
+  {
+    "id": "ROM_S_09_05",
+    "type": "WAR",
+    "title": "Галльские войны Цезаря",
+    "original": "Gallic Wars",
+    "subtitle": "серия кампаний, давшая Цезарю армию, богатство и политический престиж",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "58–50 годы до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Галльские войны Цезаря — серия кампаний, давшая Цезарю армию, богатство и политический престиж.",
+    "importance": "Карточка раскрывает главу «Цезарь и гражданская война» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: 58–50 годы до н. э..",
+      "Основной смысл: серия кампаний, давшая Цезарю армию, богатство и политический престиж.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Цезарь и гражданская война",
+      "war"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 6,
+      "culture": 8,
+      "politics": 7,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Галлия",
+      "lat": 46.5,
+      "lon": 2.5
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_09/rom_s_09_05.svg",
+      "caption": "Локальная учебная обложка: Галльские войны Цезаря",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_09_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Caesar",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_09"
+  },
+  {
+    "id": "EVT_ROM_003",
+    "type": "EVENT",
+    "title": "Переход через Рубикон",
+    "original": "Crossing of the Rubicon",
+    "subtitle": "ввод армии в Италию и открытый разрыв с политическими противниками",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "49 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Переход через Рубикон — ввод армии в Италию и открытый разрыв с политическими противниками.",
+    "importance": "Карточка входит в главу «Цезарь и гражданская война» и показывает последний кризис Республики.",
+    "facts": [
+      "Датировка: 49 год до н. э..",
+      "Основной смысл: ввод армии в Италию и открытый разрыв с политическими противниками.",
+      "Событие известно через политически заинтересованные и часто более поздние литературные традиции."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Цезарь и гражданская война",
+      "event"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 4,
+      "legacy": 10,
+      "military": 7,
+      "culture": 8,
+      "politics": 10,
+      "religion": 1,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рубикон",
+      "lat": 44.16,
+      "lon": 12.4
+    },
+    "image": {
+      "file": "Jean_Fouquet_-_Caesar_Crossing_the_Rubicon_-_WGA08034.jpg",
+      "caption": "Жан Фуке. Цезарь переходит Рубикон",
+      "credit": "Wikimedia Commons / Web Gallery of Art",
+      "license": "Public Domain / см. страницу файла",
+      "focus": "50% 50%",
+      "local": "assets/cards/rome/legacy/evt_rom_003.svg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jean_Fouquet_-_Caesar_Crossing_the_Rubicon_-_WGA08034.jpg",
+      "prefer_remote": true,
+      "kind": "historical-image"
+    },
+    "source": {
+      "title": "Plutarch: Life of Caesar",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_09"
+  },
+  {
+    "id": "ROM_S_09_07",
+    "type": "BATTLE",
+    "title": "Битва при Фарсале",
+    "original": "Battle of Pharsalus",
+    "subtitle": "решающая победа Цезаря над основной армией Помпея",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "48 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Битва при Фарсале — решающая победа Цезаря над основной армией Помпея.",
+    "importance": "Карточка раскрывает главу «Цезарь и гражданская война» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: 48 год до н. э..",
+      "Основной смысл: решающая победа Цезаря над основной армией Помпея.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Цезарь и гражданская война",
+      "battle"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 6,
+      "culture": 8,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Фарсал",
+      "lat": 39.3,
+      "lon": 22.38
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_09/rom_s_09_07.svg",
+      "caption": "Локальная учебная обложка: Битва при Фарсале",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_09_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Caesar",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_09"
+  },
+  {
+    "id": "ROM_S_09_08",
+    "type": "EVENT",
+    "title": "Диктатура и убийство Цезаря",
+    "original": "Dictatorship and assassination of Julius Caesar",
+    "subtitle": "сосредоточение власти и заговор, завершившийся убийством в мартовские иды",
+    "era": "Поздняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "46–44 годы до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 9,
+    "summary": "Диктатура и убийство Цезаря — сосредоточение власти и заговор, завершившийся убийством в мартовские иды.",
+    "importance": "Карточка раскрывает главу «Цезарь и гражданская война» и показывает, как социальные конфликты, армии и личные коалиции изменяли республиканские институты.",
+    "facts": [
+      "Датировка: 46–44 годы до н. э..",
+      "Основной смысл: сосредоточение власти и заговор, завершившийся убийством в мартовские иды.",
+      "Литературные рассказы нужно сопоставлять с законами, монетами, надписями, археологией и политической задачей автора."
+    ],
+    "tags": [
+      "Поздняя Республика",
+      "Цезарь и гражданская война",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 8,
+      "religion": 6,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Курия Помпея",
+      "lat": 41.895,
+      "lon": 12.476
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_09/rom_s_09_08.svg",
+      "caption": "Локальная учебная обложка: Диктатура и убийство Цезаря",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar*.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_09_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Plutarch: Life of Caesar",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar*.html",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_09"
   }
 ]

@@ -1,6 +1,6 @@
-/* Codex v6.1.0 — Rome chapters 4–6: Punic Wars, Eastern expansion and republican institutions */
+/* Codex v6.2.0 — Rome chapters 4–9: Mediterranean conquest and late republican crisis */
 (()=>{
-  const V='6.1.0';
+  const V='6.2.0';
   window.CODEX_VERSION=V;
   state.romeMiddlePhase=state.romeMiddlePhase||'FOUNDATIONS';
   state.romeCheckpoint=state.romeCheckpoint||{};
@@ -10,7 +10,10 @@
     {id:'ITALY',title:'Борьба за Италию',date:'IV–III века до н. э.',chapters:[3]},
     {id:'PUNIC',title:'Пунические войны',date:'264–201 до н. э.',chapters:[4]},
     {id:'EAST',title:'Восточное Средиземноморье',date:'215–146 до н. э.',chapters:[5]},
-    {id:'SYSTEM',title:'Механика Республики',date:'III–II века до н. э.',chapters:[6]}
+    {id:'SYSTEM',title:'Механика Республики',date:'III–II века до н. э.',chapters:[6]},
+    {id:'GRACCHI',title:'Гракхи и социальный кризис',date:'133–121 до н. э.',chapters:[7]},
+    {id:'ARMIES',title:'Марий, союзники и Сулла',date:'112–79 до н. э.',chapters:[8]},
+    {id:'CIVIL',title:'Цезарь и гражданская война',date:'70–44 до н. э.',chapters:[9]}
   ];
   function isRome(){return activeCampaignId()==='ROME_CAMPAIGN';}
   function phaseForChapter(number){return phases.find(p=>p.chapters.includes(number))||phases[0];}
@@ -44,7 +47,7 @@
   campaign=function(){
     let html=oldCampaign();
     if(!isRome())return html;
-    html=html.replace(/РИМСКАЯ КАМПАНИЯ/g,'РИМ · РЕСПУБЛИКА И СРЕДИЗЕМНОМОРЬЕ');
+    html=html.replace(/РИМСКАЯ КАМПАНИЯ/g,'РИМ · РЕСПУБЛИКА И ГРАЖДАНСКИЕ ВОЙНЫ');
     return html.replace('</div></main><nav',`${phaseStrip()}</div></main><nav`);
   };
 
@@ -60,9 +63,12 @@
   };
   const oldActivity=lessonActivity;
   lessonActivity=function(m,l){
-    if(!String(m?.id||'').startsWith('ROM_06_')||!m.romeCheckpointModules)return oldActivity(m,l);
+    if(!m?.romeCheckpointModules)return oldActivity(m,l);
     const modules=m.romeCheckpointModules||[],passed=modules.filter(x=>isQuizPassed(x.id)).length,all=passed===modules.length;
-    const exam=`<div class="era-exam assyria-exam"><header><small>КОНТРОЛЬНАЯ ТОЧКА</small><h3>${all?'Средняя Республика закреплена':`${passed}/${modules.length} модулей`}</h3><p>Карта, хронология, устройство Республики и критика источников проверяются отдельно.</p><div class="progress"><span style="width:${Math.round(passed/Math.max(1,modules.length)*100)}%"></span></div></header><div class="era-exam-grid">${modules.map((x,i)=>{const r=quizResult(x.id),done=isQuizPassed(x.id);return `<article class="${done?'done':''}"><span>${done?'✓':String(i+1).padStart(2,'0')}</span><div><b>${x.title}</b><small>${r?`лучший результат ${r.bestPercent}%`:'5 вопросов'}</small></div><button class="btn ${done?'secondary':''}" onclick="openRomeCheckpointModule('${x.id}','${m.id}')">${done?'Повторить':'Начать'}</button></article>`;}).join('')}</div>${all?`<button class="btn" onclick="if(!missionCompleted('${m.id}'))completeMission('${m.id}')">Завершить главу</button>`:''}</div>`;
+    const late=String(m.id).startsWith('ROM_09_');
+    const checkpointTitle=late?'Поздняя Республика закреплена':'Средняя Республика закреплена';
+    const checkpointText=late?'Карта, хронология, социальный кризис, армии и критика источников проверяются отдельно.':'Карта, хронология, устройство Республики и критика источников проверяются отдельно.';
+    const exam=`<div class="era-exam assyria-exam"><header><small>КОНТРОЛЬНАЯ ТОЧКА</small><h3>${all?checkpointTitle:`${passed}/${modules.length} модулей`}</h3><p>${checkpointText}</p><div class="progress"><span style="width:${Math.round(passed/Math.max(1,modules.length)*100)}%"></span></div></header><div class="era-exam-grid">${modules.map((x,i)=>{const r=quizResult(x.id),done=isQuizPassed(x.id);return `<article class="${done?'done':''}"><span>${done?'✓':String(i+1).padStart(2,'0')}</span><div><b>${x.title}</b><small>${r?`лучший результат ${r.bestPercent}%`:'5 вопросов'}</small></div><button class="btn ${done?'secondary':''}" onclick="openRomeCheckpointModule('${x.id}','${m.id}')">${done?'Повторить':'Начать'}</button></article>`;}).join('')}</div>${all?`<button class="btn" onclick="if(!missionCompleted('${m.id}'))completeMission('${m.id}')">Завершить главу</button>`:''}</div>`;
     return `<section class="lesson-stage learning-practice"><div class="lesson-stage-head"><div><small>ЭТАП 5</small><h2>Практика и закрепление</h2></div><span class="lesson-stage-number">05</span></div>${exam}<div class="learning-next"><button class="btn ghost" onclick="setLessonStage('${m.id}',3)">← Вернуться к теории</button></div></section>`;
   };
 

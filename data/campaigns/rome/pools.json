@@ -312,6 +312,42 @@
         "ROM_A_06_03",
         "ROM_A_06_04"
       ]
+    },
+    {
+      "id": "ROME_GRACCHI",
+      "campaign": "ROME",
+      "title": "Гракхи и социальный кризис",
+      "unlockMission": "ROM_07_02",
+      "cardIds": [
+        "ROM_A_07_01",
+        "ROM_A_07_02",
+        "ROM_A_07_03",
+        "ROM_A_07_04"
+      ]
+    },
+    {
+      "id": "ROME_MARIUS_SULLA",
+      "campaign": "ROME",
+      "title": "Марий, союзники и Сулла",
+      "unlockMission": "ROM_08_02",
+      "cardIds": [
+        "ROM_A_08_01",
+        "ROM_A_08_02",
+        "ROM_A_08_03",
+        "ROM_A_08_04"
+      ]
+    },
+    {
+      "id": "ROME_CAESAR_CIVIL",
+      "campaign": "ROME",
+      "title": "Цезарь и гражданская война",
+      "unlockMission": "ROM_09_02",
+      "cardIds": [
+        "ROM_A_09_01",
+        "ROM_A_09_02",
+        "ROM_A_09_03",
+        "ROM_A_09_04"
+      ]
     }
   ],
   "acquisition": {
@@ -511,14 +547,14 @@
       "chapter": "ROME_CHAPTER_04"
     },
     "PER_ROM_003": {
-      "kind": "ARCHIVE",
+      "kind": "STORY",
       "campaign": "ROME",
-      "pool": "ROME_LATE_REPUBLIC"
+      "chapter": "ROME_CHAPTER_09"
     },
     "EVT_ROM_003": {
-      "kind": "ARCHIVE",
+      "kind": "STORY",
       "campaign": "ROME",
-      "pool": "ROME_LATE_REPUBLIC"
+      "chapter": "ROME_CHAPTER_09"
     },
     "PER_ROM_004": {
       "kind": "ARCHIVE",
@@ -1468,6 +1504,176 @@
     "ROM_A_06_04": {
       "kind": "ARCHIVE",
       "pool": "ROME_REPUBLIC_SYSTEM",
+      "campaign": "ROME"
+    },
+    "ROM_S_07_01": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_07"
+    },
+    "ROM_S_07_02": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_07"
+    },
+    "ROM_S_07_03": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_07"
+    },
+    "ROM_S_07_04": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_07"
+    },
+    "ROM_S_07_05": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_07"
+    },
+    "ROM_S_07_06": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_07"
+    },
+    "ROM_S_07_07": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_07"
+    },
+    "ROM_S_07_08": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_07"
+    },
+    "ROM_S_08_01": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_08"
+    },
+    "ROM_S_08_02": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_08"
+    },
+    "ROM_S_08_03": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_08"
+    },
+    "ROM_S_08_04": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_08"
+    },
+    "ROM_S_08_05": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_08"
+    },
+    "ROM_S_08_06": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_08"
+    },
+    "ROM_S_08_07": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_08"
+    },
+    "ROM_S_08_08": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_08"
+    },
+    "ROM_S_09_01": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_09"
+    },
+    "ROM_S_09_02": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_09"
+    },
+    "ROM_S_09_03": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_09"
+    },
+    "ROM_S_09_05": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_09"
+    },
+    "ROM_S_09_07": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_09"
+    },
+    "ROM_S_09_08": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_09"
+    },
+    "ROM_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_GRACCHI",
+      "campaign": "ROME"
+    },
+    "ROM_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_GRACCHI",
+      "campaign": "ROME"
+    },
+    "ROM_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_GRACCHI",
+      "campaign": "ROME"
+    },
+    "ROM_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_GRACCHI",
+      "campaign": "ROME"
+    },
+    "ROM_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_MARIUS_SULLA",
+      "campaign": "ROME"
+    },
+    "ROM_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_MARIUS_SULLA",
+      "campaign": "ROME"
+    },
+    "ROM_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_MARIUS_SULLA",
+      "campaign": "ROME"
+    },
+    "ROM_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_MARIUS_SULLA",
+      "campaign": "ROME"
+    },
+    "ROM_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_CAESAR_CIVIL",
+      "campaign": "ROME"
+    },
+    "ROM_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_CAESAR_CIVIL",
+      "campaign": "ROME"
+    },
+    "ROM_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_CAESAR_CIVIL",
+      "campaign": "ROME"
+    },
+    "ROM_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_CAESAR_CIVIL",
       "campaign": "ROME"
     }
   }

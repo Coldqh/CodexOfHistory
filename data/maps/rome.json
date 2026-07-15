@@ -9,8 +9,8 @@
       12.4875
     ],
     "CAPITOL": [
-      41.8933,
-      12.4829
+      41.893,
+      12.483
     ],
     "FORUM": [
       41.892,
@@ -25,8 +25,8 @@
       13.03
     ],
     "ETRURIA": [
-      42.15,
-      11.82
+      42.55,
+      11.2
     ],
     "CARTHAGE": [
       36.853,
@@ -41,12 +41,12 @@
       9.45
     ],
     "RUBICON": [
-      44.17,
-      12.44
+      44.16,
+      12.4
     ],
     "AVENTINE": [
-      41.8837,
-      12.4809
+      41.883,
+      12.481
     ],
     "SACRED_MOUNT": [
       42.023,
@@ -203,6 +203,50 @@
     "ITALY": [
       42.0,
       13.0
+    ],
+    "CAMPANIA": [
+      40.83,
+      14.25
+    ],
+    "NUMIDIA": [
+      36.45,
+      6.61
+    ],
+    "AQUAE_SEXTIAE": [
+      43.53,
+      5.45
+    ],
+    "VERCELLAE": [
+      45.32,
+      8.42
+    ],
+    "CORFINIUM": [
+      42.12,
+      13.84
+    ],
+    "COLLINE_GATE": [
+      41.91,
+      12.5
+    ],
+    "GAUL": [
+      46.5,
+      2.5
+    ],
+    "ALESIA": [
+      47.54,
+      4.5
+    ],
+    "PHARSALUS": [
+      39.3,
+      22.38
+    ],
+    "MUNDA": [
+      37.37,
+      -4.77
+    ],
+    "CURIA_POMPEY": [
+      41.895,
+      12.476
     ]
   },
   "regions": {
@@ -345,7 +389,7 @@
     "BAT_ROM_001": "CANNAE",
     "PER_ROM_002": "NEW_CARTHAGE",
     "BAT_ROM_002": "ZAMA",
-    "PER_ROM_003": "ROME",
+    "PER_ROM_003": "GAUL",
     "EVT_ROM_003": "RUBICON",
     "BAT_ROM_003": [
       39.15,
@@ -497,7 +541,41 @@
     "ROM_A_06_01": "ROME",
     "ROM_A_06_02": "FORUM",
     "ROM_A_06_03": "SICILY_PROVINCE",
-    "ROM_A_06_04": "MARS_FIELD"
+    "ROM_A_06_04": "MARS_FIELD",
+    "ROM_S_07_01": "ROME",
+    "ROM_S_07_02": "ETRURIA",
+    "ROM_S_07_03": "CAMPANIA",
+    "ROM_S_07_04": "FORUM",
+    "ROM_S_07_05": "CAPITOL",
+    "ROM_S_07_06": "ROME",
+    "ROM_S_07_07": "ROME",
+    "ROM_S_07_08": "AVENTINE",
+    "ROM_A_07_01": "ROME",
+    "ROM_A_07_02": "CAMPANIA",
+    "ROM_A_07_03": "ROME",
+    "ROM_A_07_04": "AVENTINE",
+    "ROM_S_08_01": "NUMIDIA",
+    "ROM_S_08_02": "ROME",
+    "ROM_S_08_03": "ROME",
+    "ROM_S_08_04": "AQUAE_SEXTIAE",
+    "ROM_S_08_05": "CORFINIUM",
+    "ROM_S_08_06": "ITALY",
+    "ROM_S_08_07": "ROME",
+    "ROM_S_08_08": "COLLINE_GATE",
+    "ROM_A_08_01": "NUMIDIA",
+    "ROM_A_08_02": "NUMIDIA",
+    "ROM_A_08_03": "CORFINIUM",
+    "ROM_A_08_04": "ROME",
+    "ROM_S_09_01": "ROME",
+    "ROM_S_09_02": "ROME",
+    "ROM_S_09_03": "ROME",
+    "ROM_S_09_05": "GAUL",
+    "ROM_S_09_07": "PHARSALUS",
+    "ROM_S_09_08": "CURIA_POMPEY",
+    "ROM_A_09_01": "ROME",
+    "ROM_A_09_02": "ROME",
+    "ROM_A_09_03": "ROME",
+    "ROM_A_09_04": "CURIA_POMPEY"
   },
   "chapters": {
     "ROME_CHAPTER_01": {
@@ -608,11 +686,59 @@
         "ROM_06_05",
         "ROM_06_06"
       ]
+    },
+    "ROME_CHAPTER_07": {
+      "title": "Гракхи и социальный кризис",
+      "center": [
+        41.893,
+        12.482
+      ],
+      "zoom": 7,
+      "missionIds": [
+        "ROM_07_01",
+        "ROM_07_02",
+        "ROM_07_03",
+        "ROM_07_04",
+        "ROM_07_05",
+        "ROM_07_06"
+      ]
+    },
+    "ROME_CHAPTER_08": {
+      "title": "Марий, союзники и Сулла",
+      "center": [
+        36.45,
+        6.61
+      ],
+      "zoom": 5,
+      "missionIds": [
+        "ROM_08_01",
+        "ROM_08_02",
+        "ROM_08_03",
+        "ROM_08_04",
+        "ROM_08_05",
+        "ROM_08_06"
+      ]
+    },
+    "ROME_CHAPTER_09": {
+      "title": "Цезарь и гражданская война",
+      "center": [
+        41.893,
+        12.482
+      ],
+      "zoom": 5,
+      "missionIds": [
+        "ROM_09_01",
+        "ROM_09_02",
+        "ROM_09_03",
+        "ROM_09_04",
+        "ROM_09_05",
+        "ROM_09_06"
+      ]
     }
   },
   "missionCenter": [
-    39.5,
-    15.0
+    42.0,
+    12.0
   ],
   "missionZoom": 4
 }

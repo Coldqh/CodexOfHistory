@@ -2,7 +2,7 @@
 import fs from 'node:fs';import path from 'node:path';import assert from 'node:assert/strict';import {fileURLToPath} from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));const exists=p=>fs.existsSync(path.join(root,p));
-const manifest=read('data/content-manifest.json');assert.equal(manifest.version,'6.1.0');
+const manifest=read('data/content-manifest.json');assert.equal(manifest.version,'6.2.0');
 const required=['data/cards/vedic-india/story.json','data/cards/vedic-india/archive.json','data/campaigns/vedic-india/campaign.json','data/campaigns/vedic-india/pools.json','data/lessons/vedic-india/campaign.json','data/quizzes/vedic-india/campaign.json','data/stories/vedic-india/personal.json','data/maps/vedic-india.json','assets/packs/vedic-india-pack.svg','js/features/v4-5-vedic-india.js'];
 for(const p of required)assert.ok(exists(p),`missing ${p}`);
 const story=read('data/cards/vedic-india/story.json'),archive=read('data/cards/vedic-india/archive.json'),campaign=read('data/campaigns/vedic-india/campaign.json'),pools=read('data/campaigns/vedic-india/pools.json'),lessons=read('data/lessons/vedic-india/campaign.json'),quizzes=read('data/quizzes/vedic-india/campaign.json'),stories=read('data/stories/vedic-india/personal.json'),map=read('data/maps/vedic-india.json');
@@ -13,10 +13,10 @@ for(const c of [...story,...archive]){assert.ok(exists(c.image.local),`${c.id}: 
 assert.ok(story.every(c=>c.acquisition==='STORY'));assert.ok(archive.every(c=>c.acquisition==='ARCHIVE'));
 const world=read('data/world/campaigns.json').find(c=>c.id==='INDIA_VEDIC');assert.equal(world.status,'PLAYABLE');assert.equal(world.releasedChapters,10);assert.equal(world.chapterCount,10);
 const era=read('data/world/eras.json').find(e=>e.id==='ERA_IRON');assert.ok(era.campaignIds.includes('INDIA_VEDIC'));
-const queries=read('data/image_queries.json');assert.equal(queries.version,'6.1.0');assert.equal(queries.count,3018);assert.equal(Object.keys(queries.cards).length,3018);assert.equal(queries.cards.VED_S_03_01.group,'INDIA_VEDIC');
-const images=read('data/image_manifest.json');assert.equal(images.version,'6.1.0');assert.equal(images.count,3018);assert.equal(images.staticHistoricalImageCount,42);assert.equal(images.projectCoverCount,2976);assert.equal(images.dynamicQueryCount,2976);
+const queries=read('data/image_queries.json');assert.equal(queries.version,'6.2.0');assert.equal(queries.count,3052);assert.equal(Object.keys(queries.cards).length,3052);assert.equal(queries.cards.VED_S_03_01.group,'INDIA_VEDIC');
+const images=read('data/image_manifest.json');assert.equal(images.version,'6.2.0');assert.equal(images.count,3052);assert.equal(images.staticHistoricalImageCount,42);assert.equal(images.projectCoverCount,3010);assert.equal(images.dynamicQueryCount,3010);
 const rel=read('data/core/relations.json');assert.ok(rel.some(r=>r.source==='RIV_INDA_001'&&r.target==='VED_S_01_03'));assert.ok(rel.some(r=>r.source==='TEXT_IND_001'&&r.target==='VED_S_01_05'));
-const runtime=fs.readFileSync(path.join(root,'js/features/v4-5-vedic-india.js'),'utf8');for(const token of ["const V='6.1.0'",'INDIA_VEDIC','assyria-phases','openVedicExamModule','assets/packs/vedic-india-pack.svg'])assert.match(runtime,new RegExp(token.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')));
+const runtime=fs.readFileSync(path.join(root,'js/features/v4-5-vedic-india.js'),'utf8');for(const token of ["const V='6.2.0'",'INDIA_VEDIC','assyria-phases','openVedicExamModule','assets/packs/vedic-india-pack.svg'])assert.match(runtime,new RegExp(token.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')));
 const sw=fs.readFileSync(path.join(root,'sw.js'),'utf8');assert.match(sw,/v4-5-vedic-india\.js/);assert.match(sw,/vedic-india-pack\.svg/);
 const allText=JSON.stringify({story,archive,campaign,lessons});assert.match(allText,/ригвед|ведий/i);assert.match(allText,/археолог/i);assert.match(allText,/ритуал|санскрит|археолог/i);
 console.log('✓ v4.5 Vedic India and early states static smoke: 10 chapters, 60 missions, 120 cards');

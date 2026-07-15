@@ -4,7 +4,7 @@ import json, html
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]
-VERSION='5.2.0'
+VERSION='6.0.0'
 CHECKED='2026-07-15'
 
 S_MET={'title':'The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great','url':'https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great','type':'museum'}

@@ -1,0 +1,386 @@
+{
+  "points": {
+    "BABYLON": [
+      32.536,
+      44.421
+    ],
+    "TRIPARADEISUS": [
+      34.0,
+      36.0
+    ],
+    "MEMPHIS": [
+      29.849,
+      31.254
+    ],
+    "NILE": [
+      30.0,
+      31.0
+    ],
+    "IPSUS": [
+      38.25,
+      30.65
+    ],
+    "GAZA": [
+      31.501,
+      34.466
+    ],
+    "SALAMIS_CY": [
+      35.17,
+      33.9
+    ],
+    "PTOLEMAIS": [
+      32.7,
+      20.95
+    ],
+    "ALEXANDRIA": [
+      31.2,
+      29.918
+    ],
+    "FAYUM": [
+      29.31,
+      30.84
+    ],
+    "RAPHIA": [
+      31.27,
+      34.245
+    ],
+    "EDFU": [
+      24.978,
+      32.874
+    ],
+    "SELEUCIA": [
+      33.1,
+      44.58
+    ],
+    "ANTIOCH": [
+      36.202,
+      36.16
+    ],
+    "SARDIS": [
+      38.488,
+      28.04
+    ],
+    "AI_KHANOUM": [
+      37.17,
+      69.408
+    ],
+    "MAGNESIA": [
+      38.05,
+      27.35
+    ],
+    "PELLA": [
+      40.761,
+      22.526
+    ],
+    "DEMETRIAS": [
+      39.36,
+      22.93
+    ],
+    "CORINTH": [
+      37.906,
+      22.878
+    ],
+    "PYDNA": [
+      40.374,
+      22.578
+    ],
+    "MEGALOPOLIS": [
+      37.401,
+      22.138
+    ],
+    "THERMON": [
+      38.58,
+      21.67
+    ],
+    "ATHENS": [
+      37.984,
+      23.728
+    ],
+    "PERGAMON": [
+      39.132,
+      27.184
+    ],
+    "RHODES": [
+      36.442,
+      28.227
+    ],
+    "DELOS": [
+      37.4,
+      25.267
+    ],
+    "SAMOTHRACE": [
+      40.475,
+      25.529
+    ],
+    "EPHESUS": [
+      37.941,
+      27.341
+    ],
+    "MILETUS": [
+      37.53,
+      27.278
+    ],
+    "TANAGRA": [
+      38.326,
+      23.536
+    ],
+    "COS": [
+      36.892,
+      27.287
+    ],
+    "CYRENE": [
+      32.822,
+      21.856
+    ],
+    "PERSEPOLIS": [
+      29.935,
+      52.891
+    ],
+    "JERUSALEM": [
+      31.778,
+      35.235
+    ],
+    "EDESSA": [
+      37.16,
+      38.79
+    ],
+    "ROME": [
+      41.893,
+      12.482
+    ],
+    "CYNOSCEPHALAE": [
+      39.35,
+      22.45
+    ],
+    "ACTIUM": [
+      38.95,
+      20.75
+    ],
+    "CORINTH_DEST": [
+      37.906,
+      22.878
+    ],
+    "MEDITERRANEAN": [
+      34.5,
+      25.0
+    ],
+    "ASIA": [
+      34.0,
+      50.0
+    ],
+    "HELLENISTIC_WORLD": [
+      34.0,
+      33.0
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "HEL_S_01_01": "BABYLON",
+    "HEL_S_01_02": "BABYLON",
+    "HEL_S_01_03": "BABYLON",
+    "HEL_S_01_04": "BABYLON",
+    "HEL_S_01_05": "MEMPHIS",
+    "HEL_S_01_06": "MEMPHIS",
+    "HEL_S_01_07": "NILE",
+    "HEL_S_01_08": "TRIPARADEISUS",
+    "HEL_A_01_01": "BABYLON",
+    "HEL_A_01_02": "MEMPHIS",
+    "HEL_A_01_03": "BABYLON",
+    "HEL_A_01_04": "HELLENISTIC_WORLD",
+    "HEL_S_02_01": "IPSUS",
+    "HEL_S_02_02": "SALAMIS_CY",
+    "HEL_S_02_03": "BABYLON",
+    "HEL_S_02_04": "PELLA",
+    "HEL_S_02_05": "ASIA",
+    "HEL_S_02_06": "GAZA",
+    "HEL_S_02_07": "HELLENISTIC_WORLD",
+    "HEL_S_02_08": "IPSUS",
+    "HEL_A_02_01": "ASIA",
+    "HEL_A_02_02": "IPSUS",
+    "HEL_A_02_03": "HELLENISTIC_WORLD",
+    "HEL_A_02_04": "HELLENISTIC_WORLD",
+    "HEL_S_03_01": "ALEXANDRIA",
+    "HEL_S_03_02": "ALEXANDRIA",
+    "HEL_S_03_03": "ALEXANDRIA",
+    "HEL_S_03_04": "FAYUM",
+    "HEL_S_03_05": "FAYUM",
+    "HEL_S_03_06": "ALEXANDRIA",
+    "HEL_S_03_07": "RAPHIA",
+    "HEL_S_03_08": "MEMPHIS",
+    "HEL_A_03_01": "FAYUM",
+    "HEL_A_03_02": "ALEXANDRIA",
+    "HEL_A_03_03": "ALEXANDRIA",
+    "HEL_A_03_04": "EDFU",
+    "HEL_S_04_01": "ASIA",
+    "HEL_S_04_02": "SELEUCIA",
+    "HEL_S_04_03": "ANTIOCH",
+    "HEL_S_04_04": "SELEUCIA",
+    "HEL_S_04_05": "AI_KHANOUM",
+    "HEL_S_04_06": "MEDITERRANEAN",
+    "HEL_S_04_07": "ANTIOCH",
+    "HEL_S_04_08": "MAGNESIA",
+    "HEL_A_04_01": "BABYLON",
+    "HEL_A_04_02": "SELEUCIA",
+    "HEL_A_04_03": "AI_KHANOUM",
+    "HEL_A_04_04": "BABYLON",
+    "HEL_S_05_01": "PELLA",
+    "HEL_S_05_02": "PELLA",
+    "HEL_S_05_03": "ATHENS",
+    "HEL_S_05_04": "MEGALOPOLIS",
+    "HEL_S_05_05": "THERMON",
+    "HEL_S_05_06": "CORINTH",
+    "HEL_S_05_07": "MEGALOPOLIS",
+    "HEL_S_05_08": "PYDNA",
+    "HEL_A_05_01": "ATHENS",
+    "HEL_A_05_02": "PELLA",
+    "HEL_A_05_03": "MEGALOPOLIS",
+    "HEL_A_05_04": "PYDNA",
+    "HEL_S_06_01": "PERGAMON",
+    "HEL_S_06_02": "PERGAMON",
+    "HEL_S_06_03": "ASIA",
+    "HEL_S_06_04": "PERGAMON",
+    "HEL_S_06_05": "PERGAMON",
+    "HEL_S_06_06": "RHODES",
+    "HEL_S_06_07": "RHODES",
+    "HEL_S_06_08": "DELOS",
+    "HEL_A_06_01": "SAMOTHRACE",
+    "HEL_A_06_02": "PERGAMON",
+    "HEL_A_06_03": "RHODES",
+    "HEL_A_06_04": "ASIA",
+    "HEL_S_07_01": "HELLENISTIC_WORLD",
+    "HEL_S_07_02": "ASIA",
+    "HEL_S_07_03": "HELLENISTIC_WORLD",
+    "HEL_S_07_04": "ASIA",
+    "HEL_S_07_05": "HELLENISTIC_WORLD",
+    "HEL_S_07_06": "MEDITERRANEAN",
+    "HEL_S_07_07": "DELOS",
+    "HEL_S_07_08": "HELLENISTIC_WORLD",
+    "HEL_A_07_01": "FAYUM",
+    "HEL_A_07_02": "RHODES",
+    "HEL_A_07_03": "MILETUS",
+    "HEL_A_07_04": "DELOS",
+    "HEL_S_08_01": "ALEXANDRIA",
+    "HEL_S_08_02": "ALEXANDRIA",
+    "HEL_S_08_03": "ALEXANDRIA",
+    "HEL_S_08_04": "ALEXANDRIA",
+    "HEL_S_08_05": "ALEXANDRIA",
+    "HEL_S_08_06": "MEDITERRANEAN",
+    "HEL_S_08_07": "ATHENS",
+    "HEL_S_08_08": "ATHENS",
+    "HEL_A_08_01": "ALEXANDRIA",
+    "HEL_A_08_02": "MEDITERRANEAN",
+    "HEL_A_08_03": "ALEXANDRIA",
+    "HEL_A_08_04": "ALEXANDRIA",
+    "HEL_S_09_01": "HELLENISTIC_WORLD",
+    "HEL_S_09_02": "ALEXANDRIA",
+    "HEL_S_09_03": "ALEXANDRIA",
+    "HEL_S_09_04": "ALEXANDRIA",
+    "HEL_S_09_05": "JERUSALEM",
+    "HEL_S_09_06": "ALEXANDRIA",
+    "HEL_S_09_07": "JERUSALEM",
+    "HEL_S_09_08": "JERUSALEM",
+    "HEL_A_09_01": "ALEXANDRIA",
+    "HEL_A_09_02": "DELOS",
+    "HEL_A_09_03": "TANAGRA",
+    "HEL_A_09_04": "HELLENISTIC_WORLD",
+    "HEL_S_10_01": "CYNOSCEPHALAE",
+    "HEL_S_10_02": "CYNOSCEPHALAE",
+    "HEL_S_10_03": "CORINTH",
+    "HEL_S_10_04": "MAGNESIA",
+    "HEL_S_10_05": "CORINTH_DEST",
+    "HEL_S_10_06": "PERGAMON",
+    "HEL_S_10_07": "ALEXANDRIA",
+    "HEL_S_10_08": "ACTIUM",
+    "HEL_A_10_01": "MEDITERRANEAN",
+    "HEL_A_10_02": "ALEXANDRIA",
+    "HEL_A_10_03": "ACTIUM",
+    "HEL_A_10_04": "HELLENISTIC_WORLD"
+  },
+  "chapters": {
+    "HEL_CHAPTER_01": {
+      "title": "После смерти Александра",
+      "center": [
+        32.536,
+        44.421
+      ],
+      "zoom": 6
+    },
+    "HEL_CHAPTER_02": {
+      "title": "Войны диадохов и рождение царств",
+      "center": [
+        31.501,
+        34.466
+      ],
+      "zoom": 6
+    },
+    "HEL_CHAPTER_03": {
+      "title": "Птолемеевский Египет",
+      "center": [
+        31.2,
+        29.918
+      ],
+      "zoom": 6
+    },
+    "HEL_CHAPTER_04": {
+      "title": "Селевкидская держава",
+      "center": [
+        33.1,
+        44.58
+      ],
+      "zoom": 6
+    },
+    "HEL_CHAPTER_05": {
+      "title": "Македония и греческие союзы",
+      "center": [
+        40.761,
+        22.526
+      ],
+      "zoom": 6
+    },
+    "HEL_CHAPTER_06": {
+      "title": "Пергам, Родос и малые державы",
+      "center": [
+        39.132,
+        27.184
+      ],
+      "zoom": 6
+    },
+    "HEL_CHAPTER_07": {
+      "title": "Города, деньги и мобильность",
+      "center": [
+        36.202,
+        36.16
+      ],
+      "zoom": 6
+    },
+    "HEL_CHAPTER_08": {
+      "title": "Александрия и мир знаний",
+      "center": [
+        31.2,
+        29.918
+      ],
+      "zoom": 6
+    },
+    "HEL_CHAPTER_09": {
+      "title": "Религии, культы и идентичности",
+      "center": [
+        31.2,
+        29.918
+      ],
+      "zoom": 6
+    },
+    "HEL_CHAPTER_10": {
+      "title": "Рим и конец эллинистических царств",
+      "center": [
+        39.35,
+        22.45
+      ],
+      "zoom": 6
+    }
+  },
+  "missionCenter": [
+    34.5,
+    32.0
+  ],
+  "missionZoom": 4
+}

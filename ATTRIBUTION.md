@@ -297,3 +297,13 @@
 ## v5.2 — Александр Македонский
 
 Локальные SVG-обложки 120 карточек и обложка пака созданы для Codex of History. Источники: Metropolitan Museum of Art, British Museum, UNESCO и Perseus Digital Library.
+
+
+## v5.3 — Классический мир: общий сравнительный слой
+
+Локальные SVG-обложки 96 карточек и обложка общего пака созданы для Codex of History. Источники: Metropolitan Museum of Art, UNESCO и Perseus Digital Library. Динамические исторические изображения загружаются только для видимых карточек и живут до конца текущей сессии.
+
+
+## v6.0 — Эллинистический мир
+
+Локальные SVG-обложки 120 карточек и обложка пака созданы для Codex of History. Источники: Metropolitan Museum of Art, British Museum, Encyclopaedia Iranica, UNESCO и Perseus Digital Library. Динамические исторические изображения загружаются только для видимых карточек и живут до конца текущей сессии.

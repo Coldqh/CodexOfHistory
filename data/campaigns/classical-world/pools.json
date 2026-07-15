@@ -1,0 +1,223 @@
+{
+  "campaignId": "CLASSICAL_ERA_EXAM",
+  "campaigns": {
+    "CLASSICAL_ERA_EXAM": {
+      "id": "CLASSICAL_ERA_EXAM",
+      "title": "Классический мир: общий сравнительный слой",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "CLW_POOL_01",
+      "campaign": "CLASSICAL_WORLD",
+      "title": "Параллельная хронология классического мира",
+      "unlockMission": "CLW_01_02",
+      "cardIds": [
+        "CLW_A_01_01",
+        "CLW_A_01_02",
+        "CLW_A_01_03"
+      ]
+    },
+    {
+      "id": "CLW_POOL_02",
+      "campaign": "CLASSICAL_WORLD",
+      "title": "Империя, полис и царская монархия",
+      "unlockMission": "CLW_02_02",
+      "cardIds": [
+        "CLW_A_02_01",
+        "CLW_A_02_02",
+        "CLW_A_02_03"
+      ]
+    },
+    {
+      "id": "CLW_POOL_03",
+      "campaign": "CLASSICAL_WORLD",
+      "title": "Армии, флоты и логистика",
+      "unlockMission": "CLW_03_02",
+      "cardIds": [
+        "CLW_A_03_01",
+        "CLW_A_03_02",
+        "CLW_A_03_03"
+      ]
+    },
+    {
+      "id": "CLW_POOL_04",
+      "campaign": "CLASSICAL_WORLD",
+      "title": "Граждане, подданные и местные элиты",
+      "unlockMission": "CLW_04_02",
+      "cardIds": [
+        "CLW_A_04_01",
+        "CLW_A_04_02",
+        "CLW_A_04_03"
+      ]
+    },
+    {
+      "id": "CLW_POOL_05",
+      "campaign": "CLASSICAL_WORLD",
+      "title": "Налоги, монета и обмен",
+      "unlockMission": "CLW_05_02",
+      "cardIds": [
+        "CLW_A_05_01",
+        "CLW_A_05_02",
+        "CLW_A_05_03"
+      ]
+    },
+    {
+      "id": "CLW_POOL_06",
+      "campaign": "CLASSICAL_WORLD",
+      "title": "Религия и законность власти",
+      "unlockMission": "CLW_06_02",
+      "cardIds": [
+        "CLW_A_06_01",
+        "CLW_A_06_02",
+        "CLW_A_06_03"
+      ]
+    },
+    {
+      "id": "CLW_POOL_07",
+      "campaign": "CLASSICAL_WORLD",
+      "title": "История, философия и художественный язык",
+      "unlockMission": "CLW_07_02",
+      "cardIds": [
+        "CLW_A_07_01",
+        "CLW_A_07_02",
+        "CLW_A_07_03"
+      ]
+    },
+    {
+      "id": "CLW_POOL_08",
+      "campaign": "CLASSICAL_WORLD",
+      "title": "Как историки собирают классический мир",
+      "unlockMission": "CLW_08_02",
+      "cardIds": [
+        "CLW_A_08_01",
+        "CLW_A_08_02",
+        "CLW_A_08_03"
+      ]
+    }
+  ],
+  "acquisition": {
+    "CLW_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_01",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_01",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_01",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_02",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_02",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_02",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_03",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_03",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_03",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_04",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_04",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_04",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_05",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_05",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_05",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_06",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_06",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_06",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_07",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_07",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_07",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_08",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_08",
+      "campaign": "CLASSICAL_WORLD"
+    },
+    "CLW_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "CLW_POOL_08",
+      "campaign": "CLASSICAL_WORLD"
+    }
+  }
+}

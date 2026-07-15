@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import json,re
 from pathlib import Path
-ROOT=Path(__file__).resolve().parents[1];V='5.2.0'
+ROOT=Path(__file__).resolve().parents[1];V='6.0.0'
 def load(p):return json.loads((ROOT/p).read_text(encoding='utf-8'))
 def dump(p,o):
  p=ROOT/p;p.parent.mkdir(parents=True,exist_ok=True);p.write_text(json.dumps(o,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
@@ -39,14 +39,14 @@ for c in load(Path('data/cards/alexander/story.json'))+load(Path('data/cards/ale
 images=list(existing.values());historical=sum(1 for x in images if x.get('prefer_remote'));im.update({'version':V,'generatedAt':'2026-07-15','count':len(images),'historicalImageCount':historical,'staticHistoricalImageCount':historical,'projectCoverCount':len(images)-historical,'dynamicQueryCount':len(images)-historical,'images':images});dump(Path('data/image_manifest.json'),im)
 
 (ROOT/'docs/NEXT_PATCH_PLAN.md').write_text('# Следующий этап после v5.2\n\n## v5.3 — общий слой классического мира\n\n- Персия, полисы и Македония на одной карте;\n- параллельная хронология 550–323 годов до н. э.;\n- сравнение империи, полиса и завоевательной монархии;\n- экзамен эпохи.\n',encoding='utf-8')
-(ROOT/'docs/PATCH_NOTES_v5_2.md').write_text('# Patch v5.2.0 — Александр Македонский\n\n- 10 глав, 60 миссий и 120 карточек.\n- Македония, Персия, Египет, Центральная Азия, Индия и кризис наследования.\n- 10 пулов, 10 личных историй, карта и отдельный пак.\n',encoding='utf-8')
-(ROOT/'docs/QA_v5_2.md').write_text('# QA v5.2.0\n\n- 120 карточек, 60 миссий, 14 квизов;\n- старт только с ALX_S_01_01–03;\n- пак выдаёт только ALX_A_*;\n- карта, четыре фазы и итоговый экзамен;\n- версии, изображения и runtime-модули.\n',encoding='utf-8')
+(ROOT/'docs/PATCH_NOTES_v5_2.md').write_text('# Patch v6.0.0 — Александр Македонский\n\n- 10 глав, 60 миссий и 120 карточек.\n- Македония, Персия, Египет, Центральная Азия, Индия и кризис наследования.\n- 10 пулов, 10 личных историй, карта и отдельный пак.\n',encoding='utf-8')
+(ROOT/'docs/QA_v5_2.md').write_text('# QA v6.0.0\n\n- 120 карточек, 60 миссий, 14 квизов;\n- старт только с ALX_S_01_01–03;\n- пак выдаёт только ALX_A_*;\n- карта, четыре фазы и итоговый экзамен;\n- версии, изображения и runtime-модули.\n',encoding='utf-8')
 
-p=ROOT/'README.md';txt=p.read_text(encoding='utf-8');txt=re.sub(r'^# Codex of History v[^\n]+','# Codex of History v5.2.0',txt,count=1,flags=re.M);sec='\n## v5.2.0 — Александр Македонский\n\n- 10 глав, 60 миссий и 120 карточек.\n- От Македонии и Граника до Индии, Вавилона и кризиса наследования.\n- Patch-only архив.\n\n';txt=txt if '## v5.2.0' in txt else txt.replace('\n',sec,1);p.write_text(txt,encoding='utf-8')
+p=ROOT/'README.md';txt=p.read_text(encoding='utf-8');txt=re.sub(r'^# Codex of History v[^\n]+','# Codex of History v6.0.0',txt,count=1,flags=re.M);sec='\n## v6.0.0 — Александр Македонский\n\n- 10 глав, 60 миссий и 120 карточек.\n- От Македонии и Граника до Индии, Вавилона и кризиса наследования.\n- Patch-only архив.\n\n';txt=txt if '## v6.0.0' in txt else txt.replace('\n',sec,1);p.write_text(txt,encoding='utf-8')
 p=ROOT/'ATTRIBUTION.md';txt=p.read_text(encoding='utf-8');sec='\n## v5.2 — Александр Македонский\n\nЛокальные SVG-обложки 120 карточек и обложка пака созданы для Codex of History. Источники: Metropolitan Museum of Art, British Museum, UNESCO и Perseus Digital Library.\n';p.write_text(txt if '## v5.2 —' in txt else txt+sec,encoding='utf-8')
 
 # Image query generator: add campaign context and update version.
-p=ROOT/'tools/build-image-queries.py';txt=p.read_text(encoding='utf-8').replace('VERSION = "5.1.0"','VERSION = "5.2.0"')
+p=ROOT/'tools/build-image-queries.py';txt=p.read_text(encoding='utf-8').replace('VERSION = "5.1.0"','VERSION = "6.0.0"')
 if '"ALEXANDER": {' not in txt:
  marker='    "MIXED": {'
  block='    "ALEXANDER": {\n        "terms": ["александр", "alexander", "македон", "macedon", "дарий", "darius", "перс", "persian", "гавгамел", "gaugamela", "бактр", "bactria", "инд", "india"],\n        "base": [("ru", "Александр Македонский"), ("en", "Alexander the Great"), ("en", "Wars of Alexander the Great")],\n    },\n'
@@ -62,6 +62,6 @@ pkg=load(Path('package.json'));pkg['version']=V
 if 'smoke-v52-alexander.mjs' not in pkg['scripts']['test']:pkg['scripts']['test']+=' && node tools/smoke-v52-alexander.mjs && node tools/runtime-v52-alexander.mjs'
 pkg['scripts']['test:v52']='node tools/smoke-v52-alexander.mjs && node tools/runtime-v52-alexander.mjs';dump(Path('package.json'),pkg)
 for rel in ['index.html','manifest.webmanifest','js/bootstrap.js','sw.js']:
- p=ROOT/rel;p.write_text(p.read_text(encoding='utf-8').replace('5.1.0',V).replace('codex-v5.1.0','codex-v5.2.0'),encoding='utf-8')
+ p=ROOT/rel;p.write_text(p.read_text(encoding='utf-8').replace('5.1.0',V).replace('codex-v5.1.0','codex-v6.0.0'),encoding='utf-8')
 p=ROOT/'sw.js';txt=p.read_text(encoding='utf-8');txt=txt.replace("'./assets/packs/alexander-pack.svg',",'').replace("'./assets/packs/alexander-pack.svg'",'').replace("'./js/features/v5-2-alexander.js',",'').replace("'./js/features/v5-2-alexander.js'",'');txt=txt.replace("'./assets/packs/classical-greece-pack.svg',","'./assets/packs/classical-greece-pack.svg','./assets/packs/alexander-pack.svg',").replace("'./js/features/v5-1-classical-greece.js',","'./js/features/v5-1-classical-greece.js','./js/features/v5-2-alexander.js',");p.write_text(txt,encoding='utf-8')
 print('integrated v5.2')

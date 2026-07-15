@@ -1,12 +1,41 @@
 {
-  "version": "0.8",
+  "version": "6.0.0",
   "states": [
-    {"id":"UNKNOWN","percent":0,"label":"Неизвестна"},
-    {"id":"DISCOVERED","percent":20,"label":"Обнаружена"},
-    {"id":"OPENED","percent":40,"label":"Открыта"},
-    {"id":"STUDIED","percent":65,"label":"Изучена"},
-    {"id":"MASTERED","percent":85,"label":"Освоена"},
-    {"id":"CONSOLIDATED","percent":100,"label":"Закреплена"}
+    {
+      "id": "UNKNOWN",
+      "percent": 0,
+      "label": "Неизвестна"
+    },
+    {
+      "id": "DISCOVERED",
+      "percent": 20,
+      "label": "Обнаружена"
+    },
+    {
+      "id": "OPENED",
+      "percent": 40,
+      "label": "Открыта"
+    },
+    {
+      "id": "STUDIED",
+      "percent": 65,
+      "label": "Изучена"
+    },
+    {
+      "id": "MASTERED",
+      "percent": 85,
+      "label": "Освоена"
+    },
+    {
+      "id": "CONSOLIDATED",
+      "percent": 100,
+      "label": "Закреплена"
+    }
   ],
-  "mastery_check": {"questions":3,"pass_percent":67,"first_pass_xp":35,"first_pass_fragments":10}
+  "mastery_check": {
+    "questions": 3,
+    "pass_percent": 67,
+    "first_pass_xp": 35,
+    "first_pass_fragments": 10
+  }
 }

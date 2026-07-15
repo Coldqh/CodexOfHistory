@@ -1,0 +1,735 @@
+{
+  "campaignId": "HELLENISTIC",
+  "campaigns": {
+    "HELLENISTIC": {
+      "id": "HELLENISTIC",
+      "title": "Эллинистический мир",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "HEL_POOL_01",
+      "campaign": "HELLENISTIC",
+      "title": "После смерти Александра",
+      "unlockMission": "HEL_01_02",
+      "cardIds": [
+        "HEL_A_01_01",
+        "HEL_A_01_02",
+        "HEL_A_01_03",
+        "HEL_A_01_04"
+      ]
+    },
+    {
+      "id": "HEL_POOL_02",
+      "campaign": "HELLENISTIC",
+      "title": "Войны диадохов и рождение царств",
+      "unlockMission": "HEL_02_02",
+      "cardIds": [
+        "HEL_A_02_01",
+        "HEL_A_02_02",
+        "HEL_A_02_03",
+        "HEL_A_02_04"
+      ]
+    },
+    {
+      "id": "HEL_POOL_03",
+      "campaign": "HELLENISTIC",
+      "title": "Птолемеевский Египет",
+      "unlockMission": "HEL_03_02",
+      "cardIds": [
+        "HEL_A_03_01",
+        "HEL_A_03_02",
+        "HEL_A_03_03",
+        "HEL_A_03_04"
+      ]
+    },
+    {
+      "id": "HEL_POOL_04",
+      "campaign": "HELLENISTIC",
+      "title": "Селевкидская держава",
+      "unlockMission": "HEL_04_02",
+      "cardIds": [
+        "HEL_A_04_01",
+        "HEL_A_04_02",
+        "HEL_A_04_03",
+        "HEL_A_04_04"
+      ]
+    },
+    {
+      "id": "HEL_POOL_05",
+      "campaign": "HELLENISTIC",
+      "title": "Македония и греческие союзы",
+      "unlockMission": "HEL_05_02",
+      "cardIds": [
+        "HEL_A_05_01",
+        "HEL_A_05_02",
+        "HEL_A_05_03",
+        "HEL_A_05_04"
+      ]
+    },
+    {
+      "id": "HEL_POOL_06",
+      "campaign": "HELLENISTIC",
+      "title": "Пергам, Родос и малые державы",
+      "unlockMission": "HEL_06_02",
+      "cardIds": [
+        "HEL_A_06_01",
+        "HEL_A_06_02",
+        "HEL_A_06_03",
+        "HEL_A_06_04"
+      ]
+    },
+    {
+      "id": "HEL_POOL_07",
+      "campaign": "HELLENISTIC",
+      "title": "Города, деньги и мобильность",
+      "unlockMission": "HEL_07_02",
+      "cardIds": [
+        "HEL_A_07_01",
+        "HEL_A_07_02",
+        "HEL_A_07_03",
+        "HEL_A_07_04"
+      ]
+    },
+    {
+      "id": "HEL_POOL_08",
+      "campaign": "HELLENISTIC",
+      "title": "Александрия и мир знаний",
+      "unlockMission": "HEL_08_02",
+      "cardIds": [
+        "HEL_A_08_01",
+        "HEL_A_08_02",
+        "HEL_A_08_03",
+        "HEL_A_08_04"
+      ]
+    },
+    {
+      "id": "HEL_POOL_09",
+      "campaign": "HELLENISTIC",
+      "title": "Религии, культы и идентичности",
+      "unlockMission": "HEL_09_02",
+      "cardIds": [
+        "HEL_A_09_01",
+        "HEL_A_09_02",
+        "HEL_A_09_03",
+        "HEL_A_09_04"
+      ]
+    },
+    {
+      "id": "HEL_POOL_10",
+      "campaign": "HELLENISTIC",
+      "title": "Рим и конец эллинистических царств",
+      "unlockMission": "HEL_10_02",
+      "cardIds": [
+        "HEL_A_10_01",
+        "HEL_A_10_02",
+        "HEL_A_10_03",
+        "HEL_A_10_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "HEL_S_01_01": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 1
+    },
+    "HEL_S_01_02": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 1
+    },
+    "HEL_S_01_03": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 1
+    },
+    "HEL_S_01_04": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 1
+    },
+    "HEL_S_01_05": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 1
+    },
+    "HEL_S_01_06": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 1
+    },
+    "HEL_S_01_07": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 1
+    },
+    "HEL_S_01_08": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 1
+    },
+    "HEL_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_01",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_01",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_01",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_01",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_S_02_01": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 2
+    },
+    "HEL_S_02_02": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 2
+    },
+    "HEL_S_02_03": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 2
+    },
+    "HEL_S_02_04": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 2
+    },
+    "HEL_S_02_05": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 2
+    },
+    "HEL_S_02_06": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 2
+    },
+    "HEL_S_02_07": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 2
+    },
+    "HEL_S_02_08": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 2
+    },
+    "HEL_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_02",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_02",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_02",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_02",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_S_03_01": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 3
+    },
+    "HEL_S_03_02": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 3
+    },
+    "HEL_S_03_03": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 3
+    },
+    "HEL_S_03_04": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 3
+    },
+    "HEL_S_03_05": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 3
+    },
+    "HEL_S_03_06": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 3
+    },
+    "HEL_S_03_07": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 3
+    },
+    "HEL_S_03_08": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 3
+    },
+    "HEL_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_03",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_03",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_03",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_03",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_S_04_01": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 4
+    },
+    "HEL_S_04_02": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 4
+    },
+    "HEL_S_04_03": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 4
+    },
+    "HEL_S_04_04": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 4
+    },
+    "HEL_S_04_05": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 4
+    },
+    "HEL_S_04_06": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 4
+    },
+    "HEL_S_04_07": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 4
+    },
+    "HEL_S_04_08": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 4
+    },
+    "HEL_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_04",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_04",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_04",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_04",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_S_05_01": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 5
+    },
+    "HEL_S_05_02": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 5
+    },
+    "HEL_S_05_03": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 5
+    },
+    "HEL_S_05_04": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 5
+    },
+    "HEL_S_05_05": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 5
+    },
+    "HEL_S_05_06": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 5
+    },
+    "HEL_S_05_07": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 5
+    },
+    "HEL_S_05_08": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 5
+    },
+    "HEL_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_05",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_05",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_05",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_05",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_S_06_01": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 6
+    },
+    "HEL_S_06_02": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 6
+    },
+    "HEL_S_06_03": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 6
+    },
+    "HEL_S_06_04": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 6
+    },
+    "HEL_S_06_05": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 6
+    },
+    "HEL_S_06_06": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 6
+    },
+    "HEL_S_06_07": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 6
+    },
+    "HEL_S_06_08": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 6
+    },
+    "HEL_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_06",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_06",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_06",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_06",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_S_07_01": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 7
+    },
+    "HEL_S_07_02": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 7
+    },
+    "HEL_S_07_03": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 7
+    },
+    "HEL_S_07_04": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 7
+    },
+    "HEL_S_07_05": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 7
+    },
+    "HEL_S_07_06": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 7
+    },
+    "HEL_S_07_07": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 7
+    },
+    "HEL_S_07_08": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 7
+    },
+    "HEL_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_07",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_07",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_07",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_07",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_S_08_01": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 8
+    },
+    "HEL_S_08_02": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 8
+    },
+    "HEL_S_08_03": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 8
+    },
+    "HEL_S_08_04": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 8
+    },
+    "HEL_S_08_05": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 8
+    },
+    "HEL_S_08_06": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 8
+    },
+    "HEL_S_08_07": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 8
+    },
+    "HEL_S_08_08": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 8
+    },
+    "HEL_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_08",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_08",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_08",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_08",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_S_09_01": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 9
+    },
+    "HEL_S_09_02": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 9
+    },
+    "HEL_S_09_03": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 9
+    },
+    "HEL_S_09_04": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 9
+    },
+    "HEL_S_09_05": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 9
+    },
+    "HEL_S_09_06": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 9
+    },
+    "HEL_S_09_07": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 9
+    },
+    "HEL_S_09_08": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 9
+    },
+    "HEL_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_09",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_09",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_09",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_09",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_S_10_01": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 10
+    },
+    "HEL_S_10_02": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 10
+    },
+    "HEL_S_10_03": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 10
+    },
+    "HEL_S_10_04": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 10
+    },
+    "HEL_S_10_05": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 10
+    },
+    "HEL_S_10_06": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 10
+    },
+    "HEL_S_10_07": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 10
+    },
+    "HEL_S_10_08": {
+      "kind": "STORY",
+      "campaignId": "HELLENISTIC",
+      "chapter": 10
+    },
+    "HEL_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_10",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_10",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_10",
+      "campaign": "HELLENISTIC"
+    },
+    "HEL_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "HEL_POOL_10",
+      "campaign": "HELLENISTIC"
+    }
+  }
+}

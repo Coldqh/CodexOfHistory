@@ -1,5 +1,5 @@
-/* Codex of History v5.2.0 — bounded GitHub Pages service worker with session-only remote card images */
-const VERSION='codex-v5.2.0';
+/* Codex of History v6.0.0 — bounded GitHub Pages service worker with session-only remote card images */
+const VERSION='codex-v6.0.0';
 const APP_CACHE=`${VERSION}-app`;
 const IMAGE_CACHE=`${VERSION}-images`;
 const TILE_CACHE=`${VERSION}-tiles`;
@@ -9,9 +9,9 @@ const CORE=[
   './','./index.html','./styles.css','./manifest.webmanifest','./data/content-manifest.json',
   './js/bootstrap.js','./assets/ui/codex-logo-mark.png','./assets/ui/codex-logo-mark.svg','./assets/ui/codex-app-icon.svg','./assets/ui/codex-favicon-32.png','./assets/ui/codex-favicon-16.png','./assets/ui/codex-icon-192.png',
   './assets/ui/codex-icon-512.png','./assets/ui/codex-icon-maskable-512.png','./assets/ui/fallback-card.svg',
-  './assets/packs/civilizations-pack.svg','./assets/packs/babylon-pack.svg','./assets/packs/egypt-bronze-pack.svg','./assets/packs/international-bronze-pack.svg','./assets/packs/bronze-collapse-pack.svg','./assets/packs/hittites-pack.svg','./assets/packs/aegean-pack.svg','./assets/packs/bronze-era-pack.svg','./assets/packs/assyria-babylon-pack.svg','./assets/packs/phoenicians-pack.svg','./assets/packs/israel-judah-pack.svg','./assets/packs/archaic-greece-pack.svg','./assets/packs/zhou-warring-pack.svg','./assets/packs/vedic-india-pack.svg','./assets/packs/iron-era-pack.svg','./assets/packs/achaemenid-persia-pack.svg','./assets/packs/classical-greece-pack.svg','./assets/packs/alexander-pack.svg',
+  './assets/packs/civilizations-pack.svg','./assets/packs/babylon-pack.svg','./assets/packs/egypt-bronze-pack.svg','./assets/packs/international-bronze-pack.svg','./assets/packs/bronze-collapse-pack.svg','./assets/packs/hittites-pack.svg','./assets/packs/aegean-pack.svg','./assets/packs/bronze-era-pack.svg','./assets/packs/assyria-babylon-pack.svg','./assets/packs/phoenicians-pack.svg','./assets/packs/israel-judah-pack.svg','./assets/packs/archaic-greece-pack.svg','./assets/packs/zhou-warring-pack.svg','./assets/packs/vedic-india-pack.svg','./assets/packs/iron-era-pack.svg','./assets/packs/achaemenid-persia-pack.svg','./assets/packs/classical-greece-pack.svg','./assets/packs/alexander-pack.svg','./assets/packs/classical-era-pack.svg','./assets/packs/hellenistic-pack.svg',
   './data/image_manifest.json','./data/image_queries.json',
-  './js/features/v3-2-egypt-middle-new.js','./js/features/v3-3-hittites.js','./js/features/v3-4-aegean.js','./js/features/v3-5-international.js','./js/features/v3-6-collapse.js','./js/features/v3-7-bronze-world.js','./js/features/v4-0-assyria-babylon.js','./js/features/v4-1-phoenicians.js','./js/features/v4-2-israel-judah.js','./js/features/v4-3-archaic-greece.js','./js/features/v4-4-zhou-warring.js','./js/features/v4-5-vedic-india.js','./js/features/v4-6-iron-world.js','./js/features/v5-0-achaemenid-persia.js','./js/features/v5-1-classical-greece.js','./js/features/v5-2-alexander.js','./js/features/v3-1-1-hotfix.js','./js/features/v3-1-3-visual-semantics.js'
+  './js/features/v3-2-egypt-middle-new.js','./js/features/v3-3-hittites.js','./js/features/v3-4-aegean.js','./js/features/v3-5-international.js','./js/features/v3-6-collapse.js','./js/features/v3-7-bronze-world.js','./js/features/v4-0-assyria-babylon.js','./js/features/v4-1-phoenicians.js','./js/features/v4-2-israel-judah.js','./js/features/v4-3-archaic-greece.js','./js/features/v4-4-zhou-warring.js','./js/features/v4-5-vedic-india.js','./js/features/v4-6-iron-world.js','./js/features/v5-0-achaemenid-persia.js','./js/features/v5-1-classical-greece.js','./js/features/v5-2-alexander.js','./js/features/v5-3-classical-world.js','./js/features/v6-0-hellenistic.js','./js/features/v3-1-1-hotfix.js','./js/features/v3-1-3-visual-semantics.js'
 ];
 
 self.addEventListener('install',event=>{

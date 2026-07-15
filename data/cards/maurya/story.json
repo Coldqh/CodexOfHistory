@@ -1,0 +1,5194 @@
+[
+  {
+    "id": "MAU_S_01_01",
+    "type": "STATE",
+    "title": "Политическая карта махаджанапад",
+    "original": "Mahajanapadas",
+    "subtitle": "крупные политические образования Северной Индии",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "VI–V века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Махаджанапады — крупные политические образования Северной Индии.",
+    "importance": "Карточка раскрывает главу «Махаджанапады и вторая урбанизация» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: VI–V века до н. э..",
+      "Основной смысл: крупные политические образования Северной Индии.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Махаджанапады и вторая урбанизация",
+      "state"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 8,
+      "politics": 8,
+      "religion": 7,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "долина Ганга",
+      "lat": 25.3,
+      "lon": 83.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-01/mau_s_01_01.svg",
+      "caption": "Локальная учебная обложка: Политическая карта махаджанапад",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_01_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_01"
+  },
+  {
+    "id": "MAU_S_01_02",
+    "type": "EVENT",
+    "title": "Вторая урбанизация Индии",
+    "original": "Second urbanization of India",
+    "subtitle": "рост городов и обмена в долине Ганга",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "ок. 600–300 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Вторая урбанизация Индии — рост городов и обмена в долине Ганга.",
+    "importance": "Карточка раскрывает главу «Махаджанапады и вторая урбанизация» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: ок. 600–300 годы до н. э..",
+      "Основной смысл: рост городов и обмена в долине Ганга.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Махаджанапады и вторая урбанизация",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 8,
+      "culture": 9,
+      "politics": 9,
+      "religion": 8,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "долина Ганга",
+      "lat": 25.3,
+      "lon": 83.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-01/mau_s_01_02.svg",
+      "caption": "Локальная учебная обложка: Вторая урбанизация Индии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_01_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_01"
+  },
+  {
+    "id": "MAU_S_01_03",
+    "type": "CITY",
+    "title": "Вайшали и Вриджи",
+    "original": "Vaishali and Vajji",
+    "subtitle": "центр союза общин и важный город",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "VI–V века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Вайшали и Вриджи — центр союза общин и важный город.",
+    "importance": "Карточка раскрывает главу «Махаджанапады и вторая урбанизация» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: VI–V века до н. э..",
+      "Основной смысл: центр союза общин и важный город.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Махаджанапады и вторая урбанизация",
+      "city"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 4,
+      "culture": 6,
+      "politics": 5,
+      "religion": 9,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Вайшали",
+      "lat": 25.986,
+      "lon": 85.13
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-01/mau_s_01_03.svg",
+      "caption": "Локальная учебная обложка: Вайшали и Вриджи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_01_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_01"
+  },
+  {
+    "id": "MAU_S_01_04",
+    "type": "CITY",
+    "title": "Каушамби и Ватса",
+    "original": "Kaushambi and Vatsa",
+    "subtitle": "город и царство на путях среднего Ганга",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "VI–V века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Каушамби и Ватса — город и царство на путях среднего Ганга.",
+    "importance": "Карточка раскрывает главу «Махаджанапады и вторая урбанизация» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: VI–V века до н. э..",
+      "Основной смысл: город и царство на путях среднего Ганга.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Махаджанапады и вторая урбанизация",
+      "city"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 6,
+      "religion": 5,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Каушамби",
+      "lat": 25.338,
+      "lon": 81.394
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-01/mau_s_01_04.svg",
+      "caption": "Локальная учебная обложка: Каушамби и Ватса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_01_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_01"
+  },
+  {
+    "id": "MAU_S_01_05",
+    "type": "STATE",
+    "title": "Косала железного века",
+    "original": "Kosala in the Iron Age",
+    "subtitle": "сильное царство среднего Ганга",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "VI–V века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Косала железного века — сильное царство среднего Ганга.",
+    "importance": "Карточка раскрывает главу «Махаджанапады и вторая урбанизация» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: VI–V века до н. э..",
+      "Основной смысл: сильное царство среднего Ганга.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Махаджанапады и вторая урбанизация",
+      "state"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 8,
+      "culture": 8,
+      "politics": 7,
+      "religion": 6,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Шравасти",
+      "lat": 27.517,
+      "lon": 82.05
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-01/mau_s_01_05.svg",
+      "caption": "Локальная учебная обложка: Косала железного века",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_01_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_01"
+  },
+  {
+    "id": "MAU_S_01_06",
+    "type": "CITY",
+    "title": "Варанаси и Каши",
+    "original": "Varanasi and Kashi",
+    "subtitle": "городской и ремесленный центр",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "VI–V века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Варанаси и Каши — городской и ремесленный центр.",
+    "importance": "Карточка раскрывает главу «Махаджанапады и вторая урбанизация» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: VI–V века до н. э..",
+      "Основной смысл: городской и ремесленный центр.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Махаджанапады и вторая урбанизация",
+      "city"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 8,
+      "religion": 7,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Варанаси",
+      "lat": 25.317,
+      "lon": 82.974
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-01/mau_s_01_06.svg",
+      "caption": "Локальная учебная обложка: Варанаси и Каши",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_01_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_01"
+  },
+  {
+    "id": "MAU_S_01_07",
+    "type": "ARTIFACT",
+    "title": "Северная чёрная лощёная керамика ранних городов",
+    "original": "Northern Black Polished Ware",
+    "subtitle": "археологический маркер раннегородской среды",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "ок. 700–200 годы до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Северная чёрная лощёная керамика — археологический маркер раннегородской среды.",
+    "importance": "Карточка раскрывает главу «Махаджанапады и вторая урбанизация» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: ок. 700–200 годы до н. э..",
+      "Основной смысл: археологический маркер раннегородской среды.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Махаджанапады и вторая урбанизация",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 6,
+      "culture": 6,
+      "politics": 9,
+      "religion": 8,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "долина Ганга",
+      "lat": 25.3,
+      "lon": 83.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-01/mau_s_01_07.svg",
+      "caption": "Локальная учебная обложка: Северная чёрная лощёная керамика ранних городов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_01_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_01"
+  },
+  {
+    "id": "MAU_S_01_08",
+    "type": "CONCEPT",
+    "title": "Проблема списка шестнадцати государств",
+    "original": "Sixteen Mahajanapadas tradition",
+    "subtitle": "поздняя текстовая схема политической географии",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "раннебуддийская традиция",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Проблема списка шестнадцати государств — поздняя текстовая схема политической географии.",
+    "importance": "Карточка раскрывает главу «Махаджанапады и вторая урбанизация» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: раннебуддийская традиция.",
+      "Основной смысл: поздняя текстовая схема политической географии.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Махаджанапады и вторая урбанизация",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 8,
+      "culture": 7,
+      "politics": 5,
+      "religion": 9,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "долина Ганга",
+      "lat": 25.3,
+      "lon": 83.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-01/mau_s_01_08.svg",
+      "caption": "Локальная учебная обложка: Проблема списка шестнадцати государств",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_01_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_01"
+  },
+  {
+    "id": "MAU_S_02_01",
+    "type": "CITY",
+    "title": "Городская сеть Ганга",
+    "original": "Ganges urban network",
+    "subtitle": "система городов и речных путей Северной Индии",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Городская сеть Ганга — система городов и речных путей Северной Индии.",
+    "importance": "Карточка раскрывает главу «Города, торговля и новые общества» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: система городов и речных путей Северной Индии.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Города, торговля и новые общества",
+      "city"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 9,
+      "politics": 5,
+      "religion": 8,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "долина Ганга",
+      "lat": 25.3,
+      "lon": 83.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-02/mau_s_02_01.svg",
+      "caption": "Локальная учебная обложка: Городская сеть Ганга",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_02_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_02"
+  },
+  {
+    "id": "MAU_S_02_02",
+    "type": "CONCEPT",
+    "title": "Караванные пути Северной Индии",
+    "original": "Northern Indian caravan routes",
+    "subtitle": "сухопутные маршруты между городами и регионами",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "VI–III века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Караванные пути Северной Индии — сухопутные маршруты между городами и регионами.",
+    "importance": "Карточка раскрывает главу «Города, торговля и новые общества» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: VI–III века до н. э..",
+      "Основной смысл: сухопутные маршруты между городами и регионами.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Города, торговля и новые общества",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 3,
+      "culture": 6,
+      "politics": 6,
+      "religion": 9,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "долина Ганга",
+      "lat": 25.3,
+      "lon": 83.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-02/mau_s_02_02.svg",
+      "caption": "Локальная учебная обложка: Караванные пути Северной Индии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_02_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_02"
+  },
+  {
+    "id": "MAU_S_02_03",
+    "type": "CONCEPT",
+    "title": "Шрештхин",
+    "original": "Shreshthin",
+    "subtitle": "богатый торговец или глава хозяйственной группы в текстах",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Шрештхин — богатый торговец или глава хозяйственной группы в текстах.",
+    "importance": "Карточка раскрывает главу «Города, торговля и новые общества» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Основной смысл: богатый торговец или глава хозяйственной группы в текстах.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Города, торговля и новые общества",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 7,
+      "politics": 7,
+      "religion": 5,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Варанаси",
+      "lat": 25.317,
+      "lon": 82.974
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-02/mau_s_02_03.svg",
+      "caption": "Локальная учебная обложка: Шрештхин",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_02_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_02"
+  },
+  {
+    "id": "MAU_S_02_04",
+    "type": "FACTION",
+    "title": "Ремесленные группы ранних городов",
+    "original": "Craft groups in early Indian cities",
+    "subtitle": "специализированные производители городской среды",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "VI–III века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Ремесленные группы ранних городов — специализированные производители городской среды.",
+    "importance": "Карточка раскрывает главу «Города, торговля и новые общества» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: VI–III века до н. э..",
+      "Основной смысл: специализированные производители городской среды.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Города, торговля и новые общества",
+      "faction"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 7,
+      "culture": 8,
+      "politics": 8,
+      "religion": 6,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Каушамби",
+      "lat": 25.338,
+      "lon": 81.394
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-02/mau_s_02_04.svg",
+      "caption": "Локальная учебная обложка: Ремесленные группы ранних городов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_02_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_02"
+  },
+  {
+    "id": "MAU_S_02_05",
+    "type": "CITY",
+    "title": "Рынок Раджагрихи",
+    "original": "Rajagriha market",
+    "subtitle": "городская экономика ранней Магадхи",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "VI–V века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Рынок Раджагрихи — городская экономика ранней Магадхи.",
+    "importance": "Карточка раскрывает главу «Города, торговля и новые общества» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: VI–V века до н. э..",
+      "Основной смысл: городская экономика ранней Магадхи.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Города, торговля и новые общества",
+      "city"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 3,
+      "culture": 9,
+      "politics": 9,
+      "religion": 7,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Раджагриха",
+      "lat": 25.026,
+      "lon": 85.42
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-02/mau_s_02_05.svg",
+      "caption": "Локальная учебная обложка: Рынок Раджагрихи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_02_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_02"
+  },
+  {
+    "id": "MAU_S_02_06",
+    "type": "CITY",
+    "title": "Чампа и восточная торговля",
+    "original": "Champa ancient India",
+    "subtitle": "город Анги на восточных маршрутах",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Чампа и восточная торговля — город Анги на восточных маршрутах.",
+    "importance": "Карточка раскрывает главу «Города, торговля и новые общества» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: город Анги на восточных маршрутах.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Города, торговля и новые общества",
+      "city"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 5,
+      "religion": 8,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Чампа",
+      "lat": 25.25,
+      "lon": 87.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-02/mau_s_02_06.svg",
+      "caption": "Локальная учебная обложка: Чампа и восточная торговля",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_02_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_02"
+  },
+  {
+    "id": "MAU_S_02_07",
+    "type": "CONCEPT",
+    "title": "Дороги и переправы Ганга",
+    "original": "Ganges roads and ferries",
+    "subtitle": "инфраструктура движения людей и товаров",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "VI–III века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Дороги и переправы Ганга — инфраструктура движения людей и товаров.",
+    "importance": "Карточка раскрывает главу «Города, торговля и новые общества» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: VI–III века до н. э..",
+      "Основной смысл: инфраструктура движения людей и товаров.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Города, торговля и новые общества",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 7,
+      "culture": 7,
+      "politics": 6,
+      "religion": 9,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "долина Ганга",
+      "lat": 25.3,
+      "lon": 83.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-02/mau_s_02_07.svg",
+      "caption": "Локальная учебная обложка: Дороги и переправы Ганга",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_02_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_02"
+  },
+  {
+    "id": "MAU_S_02_08",
+    "type": "POLITICAL",
+    "title": "Налог и царская казна",
+    "original": "Taxation in early Indian states",
+    "subtitle": "сбор ресурсов для двора, армии и управления",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "VI–III века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Налог и царская казна — сбор ресурсов для двора, армии и управления.",
+    "importance": "Карточка раскрывает главу «Города, торговля и новые общества» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: VI–III века до н. э..",
+      "Основной смысл: сбор ресурсов для двора, армии и управления.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Города, торговля и новые общества",
+      "political"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 3,
+      "culture": 8,
+      "politics": 7,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.594,
+      "lon": 85.137
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-02/mau_s_02_08.svg",
+      "caption": "Локальная учебная обложка: Налог и царская казна",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_02_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_02"
+  },
+  {
+    "id": "MAU_S_03_01",
+    "type": "RELIGION",
+    "title": "Шраманы долины Ганга",
+    "original": "Shramana movements",
+    "subtitle": "разные аскетические и философские движения",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "VI–V века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Шраманы долины Ганга — разные аскетические и философские движения.",
+    "importance": "Карточка раскрывает главу «Шраманские движения» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: VI–V века до н. э..",
+      "Основной смысл: разные аскетические и философские движения.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Шраманские движения",
+      "religion"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 8,
+      "culture": 6,
+      "politics": 7,
+      "religion": 9,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "долина Ганга",
+      "lat": 25.3,
+      "lon": 83.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-03/mau_s_03_01.svg",
+      "caption": "Локальная учебная обложка: Шраманы долины Ганга",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/south-asian-art-and-culture",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_03_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asian Art and Culture",
+      "url": "https://www.metmuseum.org/essays/south-asian-art-and-culture",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_03"
+  },
+  {
+    "id": "MAU_S_03_02",
+    "type": "RELIGION",
+    "title": "Адживики",
+    "original": "Ajivika",
+    "subtitle": "аскетическая традиция, известная по чужим текстам",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Адживики — аскетическая традиция, известная по чужим текстам.",
+    "importance": "Карточка раскрывает главу «Шраманские движения» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Основной смысл: аскетическая традиция, известная по чужим текстам.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Шраманские движения",
+      "religion"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 4,
+      "culture": 7,
+      "politics": 8,
+      "religion": 5,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "долина Ганга",
+      "lat": 25.3,
+      "lon": 83.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-03/mau_s_03_02.svg",
+      "caption": "Локальная учебная обложка: Адживики",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/south-asian-art-and-culture",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_03_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asian Art and Culture",
+      "url": "https://www.metmuseum.org/essays/south-asian-art-and-culture",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_03"
+  },
+  {
+    "id": "MAU_S_03_03",
+    "type": "PERSON",
+    "title": "Маккхали Госала",
+    "original": "Makkhali Gosala",
+    "subtitle": "учитель, связанный в традиции с адживиками",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "VI–V века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Маккхали Госала — учитель, связанный в традиции с адживиками.",
+    "importance": "Карточка раскрывает главу «Шраманские движения» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: VI–V века до н. э..",
+      "Основной смысл: учитель, связанный в традиции с адживиками.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Шраманские движения",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 6,
+      "culture": 8,
+      "politics": 9,
+      "religion": 6,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "долина Ганга",
+      "lat": 25.3,
+      "lon": 83.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-03/mau_s_03_03.svg",
+      "caption": "Локальная учебная обложка: Маккхали Госала",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/south-asian-art-and-culture",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_03_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asian Art and Culture",
+      "url": "https://www.metmuseum.org/essays/south-asian-art-and-culture",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_03"
+  },
+  {
+    "id": "MAU_S_03_04",
+    "type": "CONCEPT",
+    "title": "Карма в ранних дебатах",
+    "original": "Karma in early Indian thought",
+    "subtitle": "действие и его последствия в разных учениях",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "VI–V века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Карма в ранних дебатах — действие и его последствия в разных учениях.",
+    "importance": "Карточка раскрывает главу «Шраманские движения» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: VI–V века до н. э..",
+      "Основной смысл: действие и его последствия в разных учениях.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Шраманские движения",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 8,
+      "culture": 9,
+      "politics": 5,
+      "religion": 7,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "долина Ганга",
+      "lat": 25.3,
+      "lon": 83.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-03/mau_s_03_04.svg",
+      "caption": "Локальная учебная обложка: Карма в ранних дебатах",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/south-asian-art-and-culture",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_03_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asian Art and Culture",
+      "url": "https://www.metmuseum.org/essays/south-asian-art-and-culture",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_03"
+  },
+  {
+    "id": "MAU_S_03_05",
+    "type": "CONCEPT",
+    "title": "Самсара и освобождение",
+    "original": "Samsara and liberation",
+    "subtitle": "цикл перерождений и пути выхода из него",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Самсара и освобождение — цикл перерождений и пути выхода из него.",
+    "importance": "Карточка раскрывает главу «Шраманские движения» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Основной смысл: цикл перерождений и пути выхода из него.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Шраманские движения",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 4,
+      "culture": 6,
+      "politics": 6,
+      "religion": 8,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "долина Ганга",
+      "lat": 25.3,
+      "lon": 83.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-03/mau_s_03_05.svg",
+      "caption": "Локальная учебная обложка: Самсара и освобождение",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/south-asian-art-and-culture",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_03_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asian Art and Culture",
+      "url": "https://www.metmuseum.org/essays/south-asian-art-and-culture",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_03"
+  },
+  {
+    "id": "MAU_S_03_06",
+    "type": "CONCEPT",
+    "title": "Аскеза и дисциплина",
+    "original": "Ascetic discipline in ancient India",
+    "subtitle": "телесные и умственные практики странствующих учителей",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "VI–V века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Аскеза и дисциплина — телесные и умственные практики странствующих учителей.",
+    "importance": "Карточка раскрывает главу «Шраманские движения» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: VI–V века до н. э..",
+      "Основной смысл: телесные и умственные практики странствующих учителей.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Шраманские движения",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 7,
+      "politics": 7,
+      "religion": 9,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Раджагриха",
+      "lat": 25.026,
+      "lon": 85.42
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-03/mau_s_03_06.svg",
+      "caption": "Локальная учебная обложка: Аскеза и дисциплина",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/south-asian-art-and-culture",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_03_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asian Art and Culture",
+      "url": "https://www.metmuseum.org/essays/south-asian-art-and-culture",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_03"
+  },
+  {
+    "id": "MAU_S_03_07",
+    "type": "FACTION",
+    "title": "Учитель и ученическая община",
+    "original": "Teacher and disciples in ancient India",
+    "subtitle": "сеть передачи учения и правил",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "VI–V века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Учитель и ученическая община — сеть передачи учения и правил.",
+    "importance": "Карточка раскрывает главу «Шраманские движения» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: VI–V века до н. э..",
+      "Основной смысл: сеть передачи учения и правил.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Шраманские движения",
+      "faction"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 8,
+      "culture": 8,
+      "politics": 8,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Вайшали",
+      "lat": 25.986,
+      "lon": 85.13
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-03/mau_s_03_07.svg",
+      "caption": "Локальная учебная обложка: Учитель и ученическая община",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/south-asian-art-and-culture",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_03_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asian Art and Culture",
+      "url": "https://www.metmuseum.org/essays/south-asian-art-and-culture",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_03"
+  },
+  {
+    "id": "MAU_S_03_08",
+    "type": "EVENT",
+    "title": "Споры царских дворов",
+    "original": "Debates at royal courts in ancient India",
+    "subtitle": "покровительство и публичные диспуты",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "VI–IV века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Споры царских дворов — покровительство и публичные диспуты.",
+    "importance": "Карточка раскрывает главу «Шраманские движения» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: VI–IV века до н. э..",
+      "Основной смысл: покровительство и публичные диспуты.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Шраманские движения",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 4,
+      "culture": 9,
+      "politics": 9,
+      "religion": 6,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Раджагриха",
+      "lat": 25.026,
+      "lon": 85.42
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-03/mau_s_03_08.svg",
+      "caption": "Локальная учебная обложка: Споры царских дворов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/south-asian-art-and-culture",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_03_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asian Art and Culture",
+      "url": "https://www.metmuseum.org/essays/south-asian-art-and-culture",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_03"
+  },
+  {
+    "id": "MAU_S_04_01",
+    "type": "PERSON",
+    "title": "Сиддхартха Гаутама",
+    "original": "Siddhartha Gautama",
+    "subtitle": "исторический учитель, ставший Буддой традиции",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "вероятно V век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Сиддхартха Гаутама — исторический учитель, ставший Буддой традиции.",
+    "importance": "Карточка раскрывает главу «Будда и ранняя сангха» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: вероятно V век до н. э..",
+      "Основной смысл: исторический учитель, ставший Буддой традиции.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Будда и ранняя сангха",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 3,
+      "culture": 7,
+      "politics": 9,
+      "religion": 5,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Бодх-Гая",
+      "lat": 24.696,
+      "lon": 84.991
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-04/mau_s_04_01.svg",
+      "caption": "Локальная учебная обложка: Сиддхартха Гаутама",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://suttacentral.net/introduction",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "SuttaCentral: Early Buddhist texts",
+      "url": "https://suttacentral.net/introduction",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_04"
+  },
+  {
+    "id": "MAU_S_04_02",
+    "type": "EVENT",
+    "title": "Просветление в Бодх-Гае",
+    "original": "Enlightenment at Bodh Gaya",
+    "subtitle": "центральное событие буддийской памяти",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "традиционная датировка",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Просветление в Бодх-Гае — центральное событие буддийской памяти.",
+    "importance": "Карточка раскрывает главу «Будда и ранняя сангха» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: традиционная датировка.",
+      "Основной смысл: центральное событие буддийской памяти.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Будда и ранняя сангха",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 5,
+      "culture": 8,
+      "politics": 5,
+      "religion": 6,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Бодх-Гая",
+      "lat": 24.696,
+      "lon": 84.991
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-04/mau_s_04_02.svg",
+      "caption": "Локальная учебная обложка: Просветление в Бодх-Гае",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://suttacentral.net/introduction",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "SuttaCentral: Early Buddhist texts",
+      "url": "https://suttacentral.net/introduction",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_04"
+  },
+  {
+    "id": "MAU_S_04_03",
+    "type": "EVENT",
+    "title": "Первая проповедь в Сарнатхе",
+    "original": "First sermon at Sarnath",
+    "subtitle": "традиционное начало проповеди дхармы",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "традиционная датировка",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Первая проповедь в Сарнатхе — традиционное начало проповеди дхармы.",
+    "importance": "Карточка раскрывает главу «Будда и ранняя сангха» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: традиционная датировка.",
+      "Основной смысл: традиционное начало проповеди дхармы.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Будда и ранняя сангха",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 7,
+      "culture": 9,
+      "politics": 6,
+      "religion": 7,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Сарнатх",
+      "lat": 25.381,
+      "lon": 83.021
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-04/mau_s_04_03.svg",
+      "caption": "Локальная учебная обложка: Первая проповедь в Сарнатхе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://suttacentral.net/introduction",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "SuttaCentral: Early Buddhist texts",
+      "url": "https://suttacentral.net/introduction",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_04"
+  },
+  {
+    "id": "MAU_S_04_04",
+    "type": "CONCEPT",
+    "title": "Четыре благородные истины",
+    "original": "Four Noble Truths",
+    "subtitle": "схема страдания, его причины и прекращения",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "раннебуддийская традиция",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Четыре благородные истины — схема страдания, его причины и прекращения.",
+    "importance": "Карточка раскрывает главу «Будда и ранняя сангха» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: раннебуддийская традиция.",
+      "Основной смысл: схема страдания, его причины и прекращения.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Будда и ранняя сангха",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 3,
+      "culture": 6,
+      "politics": 7,
+      "religion": 8,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сарнатх",
+      "lat": 25.381,
+      "lon": 83.021
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-04/mau_s_04_04.svg",
+      "caption": "Локальная учебная обложка: Четыре благородные истины",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://suttacentral.net/introduction",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_04_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "SuttaCentral: Early Buddhist texts",
+      "url": "https://suttacentral.net/introduction",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_04"
+  },
+  {
+    "id": "MAU_S_04_05",
+    "type": "CONCEPT",
+    "title": "Восьмеричный путь",
+    "original": "Noble Eightfold Path",
+    "subtitle": "путь этики, сосредоточения и мудрости",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "раннебуддийская традиция",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Восьмеричный путь — путь этики, сосредоточения и мудрости.",
+    "importance": "Карточка раскрывает главу «Будда и ранняя сангха» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: раннебуддийская традиция.",
+      "Основной смысл: путь этики, сосредоточения и мудрости.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Будда и ранняя сангха",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 5,
+      "culture": 7,
+      "politics": 8,
+      "religion": 9,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Сарнатх",
+      "lat": 25.381,
+      "lon": 83.021
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-04/mau_s_04_05.svg",
+      "caption": "Локальная учебная обложка: Восьмеричный путь",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://suttacentral.net/introduction",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_04_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "SuttaCentral: Early Buddhist texts",
+      "url": "https://suttacentral.net/introduction",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_04"
+  },
+  {
+    "id": "MAU_S_04_06",
+    "type": "FACTION",
+    "title": "Сангха",
+    "original": "Sangha",
+    "subtitle": "монашеская община и институт передачи учения",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "V век до н. э. и позднее",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Сангха — монашеская община и институт передачи учения.",
+    "importance": "Карточка раскрывает главу «Будда и ранняя сангха» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: V век до н. э. и позднее.",
+      "Основной смысл: монашеская община и институт передачи учения.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Будда и ранняя сангха",
+      "faction"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 7,
+      "culture": 8,
+      "politics": 9,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "долина Ганга",
+      "lat": 25.3,
+      "lon": 83.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-04/mau_s_04_06.svg",
+      "caption": "Локальная учебная обложка: Сангха",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://suttacentral.net/introduction",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_04_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "SuttaCentral: Early Buddhist texts",
+      "url": "https://suttacentral.net/introduction",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_04"
+  },
+  {
+    "id": "MAU_S_04_07",
+    "type": "PERSON",
+    "title": "Махападжапати Готами",
+    "original": "Mahapajapati Gotami",
+    "subtitle": "фигура традиции о женской монашеской общине",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "раннебуддийская традиция",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Махападжапати Готами — фигура традиции о женской монашеской общине.",
+    "importance": "Карточка раскрывает главу «Будда и ранняя сангха» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: раннебуддийская традиция.",
+      "Основной смысл: фигура традиции о женской монашеской общине.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Будда и ранняя сангха",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 3,
+      "culture": 9,
+      "politics": 5,
+      "religion": 6,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Капилавасту",
+      "lat": 27.575,
+      "lon": 83.05
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-04/mau_s_04_07.svg",
+      "caption": "Локальная учебная обложка: Махападжапати Готами",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://suttacentral.net/introduction",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_04_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "SuttaCentral: Early Buddhist texts",
+      "url": "https://suttacentral.net/introduction",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_04"
+  },
+  {
+    "id": "MAU_S_04_08",
+    "type": "EVENT",
+    "title": "Паринирвана в Кушинагаре",
+    "original": "Parinirvana at Kushinagar",
+    "subtitle": "смерть Будды и начало реликтовой памяти",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "традиционная датировка",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Паринирвана в Кушинагаре — смерть Будды и начало реликтовой памяти.",
+    "importance": "Карточка раскрывает главу «Будда и ранняя сангха» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: традиционная датировка.",
+      "Основной смысл: смерть Будды и начало реликтовой памяти.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Будда и ранняя сангха",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 5,
+      "culture": 6,
+      "politics": 6,
+      "religion": 7,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кушинагар",
+      "lat": 26.739,
+      "lon": 83.888
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-04/mau_s_04_08.svg",
+      "caption": "Локальная учебная обложка: Паринирвана в Кушинагаре",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://suttacentral.net/introduction",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_04_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "SuttaCentral: Early Buddhist texts",
+      "url": "https://suttacentral.net/introduction",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_04"
+  },
+  {
+    "id": "MAU_S_05_01",
+    "type": "PERSON",
+    "title": "Махавира",
+    "original": "Mahavira",
+    "subtitle": "двадцать четвёртый тиртханкара джайнской традиции",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "традиционно VI век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Махавира — двадцать четвёртый тиртханкара джайнской традиции.",
+    "importance": "Карточка раскрывает главу «Махавира и ранний джайнизм» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: традиционно VI век до н. э..",
+      "Основной смысл: двадцать четвёртый тиртханкара джайнской традиции.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Махавира и ранний джайнизм",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 8,
+      "politics": 6,
+      "religion": 6,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Вайшали",
+      "lat": 25.986,
+      "lon": 85.13
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-05/mau_s_05_01.svg",
+      "caption": "Локальная учебная обложка: Махавира",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/jain-sculpture",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Jain Sculpture",
+      "url": "https://www.metmuseum.org/essays/jain-sculpture",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_05"
+  },
+  {
+    "id": "MAU_S_05_02",
+    "type": "CONCEPT",
+    "title": "Тиртханкара",
+    "original": "Tirthankara",
+    "subtitle": "освобождённый учитель и образец пути",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "джайнская традиция",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Тиртханкара — освобождённый учитель и образец пути.",
+    "importance": "Карточка раскрывает главу «Махавира и ранний джайнизм» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: джайнская традиция.",
+      "Основной смысл: освобождённый учитель и образец пути.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Махавира и ранний джайнизм",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 6,
+      "culture": 9,
+      "politics": 7,
+      "religion": 7,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Вайшали",
+      "lat": 25.986,
+      "lon": 85.13
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-05/mau_s_05_02.svg",
+      "caption": "Локальная учебная обложка: Тиртханкара",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/jain-sculpture",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Jain Sculpture",
+      "url": "https://www.metmuseum.org/essays/jain-sculpture",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_05"
+  },
+  {
+    "id": "MAU_S_05_03",
+    "type": "CONCEPT",
+    "title": "Ахимса в джайнизме",
+    "original": "Ahimsa in Jainism",
+    "subtitle": "принцип строгого ненасилия",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Ахимса в джайнизме — принцип строгого ненасилия.",
+    "importance": "Карточка раскрывает главу «Махавира и ранний джайнизм» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Основной смысл: принцип строгого ненасилия.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Махавира и ранний джайнизм",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 8,
+      "culture": 6,
+      "politics": 8,
+      "religion": 8,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "долина Ганга",
+      "lat": 25.3,
+      "lon": 83.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-05/mau_s_05_03.svg",
+      "caption": "Локальная учебная обложка: Ахимса в джайнизме",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/jain-sculpture",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Jain Sculpture",
+      "url": "https://www.metmuseum.org/essays/jain-sculpture",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_05"
+  },
+  {
+    "id": "MAU_S_05_04",
+    "type": "CONCEPT",
+    "title": "Джива и аджива",
+    "original": "Jiva and ajiva",
+    "subtitle": "различение души и неодушевлённых субстанций",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "джайнская философия",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Джива и аджива — различение души и неодушевлённых субстанций.",
+    "importance": "Карточка раскрывает главу «Махавира и ранний джайнизм» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: джайнская философия.",
+      "Основной смысл: различение души и неодушевлённых субстанций.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Махавира и ранний джайнизм",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 9,
+      "religion": 9,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "долина Ганга",
+      "lat": 25.3,
+      "lon": 83.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-05/mau_s_05_04.svg",
+      "caption": "Локальная учебная обложка: Джива и аджива",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/jain-sculpture",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Jain Sculpture",
+      "url": "https://www.metmuseum.org/essays/jain-sculpture",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_05"
+  },
+  {
+    "id": "MAU_S_05_05",
+    "type": "CONCEPT",
+    "title": "Карма как вещество",
+    "original": "Jain theory of karma",
+    "subtitle": "особая джайнская модель загрязнения души",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "джайнская философия",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Карма как вещество — особая джайнская модель загрязнения души.",
+    "importance": "Карточка раскрывает главу «Махавира и ранний джайнизм» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: джайнская философия.",
+      "Основной смысл: особая джайнская модель загрязнения души.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Махавира и ранний джайнизм",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 8,
+      "politics": 5,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "долина Ганга",
+      "lat": 25.3,
+      "lon": 83.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-05/mau_s_05_05.svg",
+      "caption": "Локальная учебная обложка: Карма как вещество",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/jain-sculpture",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_05_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Jain Sculpture",
+      "url": "https://www.metmuseum.org/essays/jain-sculpture",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_05"
+  },
+  {
+    "id": "MAU_S_05_06",
+    "type": "FACTION",
+    "title": "Джайнская сангха",
+    "original": "Jain sangha",
+    "subtitle": "община монахов, монахинь и мирян",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "VI век до н. э. и позднее",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Джайнская сангха — община монахов, монахинь и мирян.",
+    "importance": "Карточка раскрывает главу «Махавира и ранний джайнизм» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: VI век до н. э. и позднее.",
+      "Основной смысл: община монахов, монахинь и мирян.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Махавира и ранний джайнизм",
+      "faction"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 8,
+      "culture": 9,
+      "politics": 6,
+      "religion": 6,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Вайшали",
+      "lat": 25.986,
+      "lon": 85.13
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-05/mau_s_05_06.svg",
+      "caption": "Локальная учебная обложка: Джайнская сангха",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/jain-sculpture",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_05_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Jain Sculpture",
+      "url": "https://www.metmuseum.org/essays/jain-sculpture",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_05"
+  },
+  {
+    "id": "MAU_S_05_07",
+    "type": "CITY",
+    "title": "Пава в памяти Махавиры",
+    "original": "Pawapuri and Mahavira",
+    "subtitle": "место традиции о нирване Махавиры",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "традиционная датировка",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Пава в памяти Махавиры — место традиции о нирване Махавиры.",
+    "importance": "Карточка раскрывает главу «Махавира и ранний джайнизм» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: традиционная датировка.",
+      "Основной смысл: место традиции о нирване Махавиры.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Махавира и ранний джайнизм",
+      "city"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 4,
+      "culture": 6,
+      "politics": 7,
+      "religion": 7,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Пава",
+      "lat": 26.84,
+      "lon": 84.13
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-05/mau_s_05_07.svg",
+      "caption": "Локальная учебная обложка: Пава в памяти Махавиры",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/jain-sculpture",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_05_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Jain Sculpture",
+      "url": "https://www.metmuseum.org/essays/jain-sculpture",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_05"
+  },
+  {
+    "id": "MAU_S_05_08",
+    "type": "PERSON",
+    "title": "Паршванатха в джайнской традиции",
+    "original": "Parshvanatha",
+    "subtitle": "двадцать третий тиртханкара традиции",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "традиционная датировка",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Паршванатха в джайнской традиции — двадцать третий тиртханкара традиции.",
+    "importance": "Карточка раскрывает главу «Махавира и ранний джайнизм» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: традиционная датировка.",
+      "Основной смысл: двадцать третий тиртханкара традиции.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Махавира и ранний джайнизм",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 8,
+      "religion": 8,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Варанаси",
+      "lat": 25.317,
+      "lon": 82.974
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-05/mau_s_05_08.svg",
+      "caption": "Локальная учебная обложка: Паршванатха в джайнской традиции",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/jain-sculpture",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_05_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Jain Sculpture",
+      "url": "https://www.metmuseum.org/essays/jain-sculpture",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_05"
+  },
+  {
+    "id": "MAU_S_06_01",
+    "type": "PERSON",
+    "title": "Бимбисара",
+    "original": "Bimbisara",
+    "subtitle": "царь Магадхи в буддийской и джайнской традиции",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "традиционно VI–V века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Бимбисара — царь Магадхи в буддийской и джайнской традиции.",
+    "importance": "Карточка раскрывает главу «Возвышение Магадхи» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: традиционно VI–V века до н. э..",
+      "Основной смысл: царь Магадхи в буддийской и джайнской традиции.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Возвышение Магадхи",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 5,
+      "culture": 9,
+      "politics": 8,
+      "religion": 7,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Раджагриха",
+      "lat": 25.026,
+      "lon": 85.42
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-06/mau_s_06_01.svg",
+      "caption": "Локальная учебная обложка: Бимбисара",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_06"
+  },
+  {
+    "id": "MAU_S_06_02",
+    "type": "PERSON",
+    "title": "Аджаташатру",
+    "original": "Ajatashatru",
+    "subtitle": "правитель Магадхи и участник войн с соседями",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "традиционно V век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Аджаташатру — правитель Магадхи и участник войн с соседями.",
+    "importance": "Карточка раскрывает главу «Возвышение Магадхи» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: традиционно V век до н. э..",
+      "Основной смысл: правитель Магадхи и участник войн с соседями.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Возвышение Магадхи",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 9,
+      "religion": 8,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Раджагриха",
+      "lat": 25.026,
+      "lon": 85.42
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-06/mau_s_06_02.svg",
+      "caption": "Локальная учебная обложка: Аджаташатру",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_06"
+  },
+  {
+    "id": "MAU_S_06_03",
+    "type": "CITY",
+    "title": "Раджагриха как столица",
+    "original": "Rajgir ancient capital",
+    "subtitle": "ранний политический центр Магадхи",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "VI–V века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Раджагриха как столица — ранний политический центр Магадхи.",
+    "importance": "Карточка раскрывает главу «Возвышение Магадхи» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: VI–V века до н. э..",
+      "Основной смысл: ранний политический центр Магадхи.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Возвышение Магадхи",
+      "city"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 3,
+      "culture": 7,
+      "politics": 5,
+      "religion": 9,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Раджагриха",
+      "lat": 25.026,
+      "lon": 85.42
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-06/mau_s_06_03.svg",
+      "caption": "Локальная учебная обложка: Раджагриха как столица",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_06"
+  },
+  {
+    "id": "MAU_S_06_04",
+    "type": "WAR",
+    "title": "Завоевание Анги",
+    "original": "Conquest of Anga by Magadha",
+    "subtitle": "расширение Магадхи на восток",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "традиционная датировка",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Завоевание Анги — расширение Магадхи на восток.",
+    "importance": "Карточка раскрывает главу «Возвышение Магадхи» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: традиционная датировка.",
+      "Основной смысл: расширение Магадхи на восток.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Возвышение Магадхи",
+      "war"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 6,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Анга",
+      "lat": 25.25,
+      "lon": 87.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-06/mau_s_06_04.svg",
+      "caption": "Локальная учебная обложка: Завоевание Анги",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_06"
+  },
+  {
+    "id": "MAU_S_06_05",
+    "type": "WAR",
+    "title": "Конфликт с Вриджи",
+    "original": "Magadha–Vajji war",
+    "subtitle": "война Магадхи с союзом Вриджи",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "традиционно V век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Конфликт с Вриджи — война Магадхи с союзом Вриджи.",
+    "importance": "Карточка раскрывает главу «Возвышение Магадхи» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: традиционно V век до н. э..",
+      "Основной смысл: война Магадхи с союзом Вриджи.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Возвышение Магадхи",
+      "war"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 9,
+      "politics": 7,
+      "religion": 6,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Вайшали",
+      "lat": 25.986,
+      "lon": 85.13
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-06/mau_s_06_05.svg",
+      "caption": "Локальная учебная обложка: Конфликт с Вриджи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_06_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_06"
+  },
+  {
+    "id": "MAU_S_06_06",
+    "type": "CITY",
+    "title": "Паталипутра",
+    "original": "Pataliputra",
+    "subtitle": "столица на слиянии речных путей",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "с V–IV веков до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Паталипутра — столица на слиянии речных путей.",
+    "importance": "Карточка раскрывает главу «Возвышение Магадхи» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: с V–IV веков до н. э..",
+      "Основной смысл: столица на слиянии речных путей.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Возвышение Магадхи",
+      "city"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 3,
+      "culture": 6,
+      "politics": 8,
+      "religion": 7,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.594,
+      "lon": 85.137
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-06/mau_s_06_06.svg",
+      "caption": "Локальная учебная обложка: Паталипутра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_06_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_06"
+  },
+  {
+    "id": "MAU_S_06_07",
+    "type": "STATE",
+    "title": "Нандская держава",
+    "original": "Nanda Empire",
+    "subtitle": "могущественная предшественница Маурьев",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "IV век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Нандская держава — могущественная предшественница Маурьев.",
+    "importance": "Карточка раскрывает главу «Возвышение Магадхи» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: IV век до н. э..",
+      "Основной смысл: могущественная предшественница Маурьев.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Возвышение Магадхи",
+      "state"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 7,
+      "politics": 9,
+      "religion": 8,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.594,
+      "lon": 85.137
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-06/mau_s_06_07.svg",
+      "caption": "Локальная учебная обложка: Нандская держава",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_06_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_06"
+  },
+  {
+    "id": "MAU_S_06_08",
+    "type": "CONCEPT",
+    "title": "Магадха как имперское ядро",
+    "original": "Magadha imperial core",
+    "subtitle": "долгий процесс концентрации власти в регионе",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "VI–III века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Магадха как имперское ядро — долгий процесс концентрации власти в регионе.",
+    "importance": "Карточка раскрывает главу «Возвышение Магадхи» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: VI–III века до н. э..",
+      "Основной смысл: долгий процесс концентрации власти в регионе.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Возвышение Магадхи",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 7,
+      "culture": 8,
+      "politics": 5,
+      "religion": 9,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Магадха",
+      "lat": 25.25,
+      "lon": 85.25
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-06/mau_s_06_08.svg",
+      "caption": "Локальная учебная обложка: Магадха как имперское ядро",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_06_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_06"
+  },
+  {
+    "id": "MAU_S_07_01",
+    "type": "PERSON",
+    "title": "Чандрагупта Маурья",
+    "original": "Chandragupta Maurya",
+    "subtitle": "основатель Маурийской династии",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "правил ок. 322–297 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Чандрагупта Маурья — основатель Маурийской династии.",
+    "importance": "Карточка раскрывает главу «Северо-запад и Чандрагупта» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: правил ок. 322–297 годы до н. э..",
+      "Основной смысл: основатель Маурийской династии.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Северо-запад и Чандрагупта",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 6,
+      "culture": 6,
+      "politics": 5,
+      "religion": 8,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.594,
+      "lon": 85.137
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-07/mau_s_07_01.svg",
+      "caption": "Локальная учебная обложка: Чандрагупта Маурья",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Achaemenid Persian Empire",
+      "url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_07"
+  },
+  {
+    "id": "MAU_S_07_02",
+    "type": "EVENT",
+    "title": "Свержение Нандов",
+    "original": "Overthrow of the Nanda dynasty",
+    "subtitle": "переход власти в Магадхе к Маурьям",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "конец IV века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Свержение Нандов — переход власти в Магадхе к Маурьям.",
+    "importance": "Карточка раскрывает главу «Северо-запад и Чандрагупта» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: конец IV века до н. э..",
+      "Основной смысл: переход власти в Магадхе к Маурьям.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Северо-запад и Чандрагупта",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 8,
+      "culture": 7,
+      "politics": 6,
+      "religion": 9,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.594,
+      "lon": 85.137
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-07/mau_s_07_02.svg",
+      "caption": "Локальная учебная обложка: Свержение Нандов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Achaemenid Persian Empire",
+      "url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_07"
+  },
+  {
+    "id": "MAU_S_07_03",
+    "type": "CITY",
+    "title": "Таксила после Александра",
+    "original": "Taxila after Alexander",
+    "subtitle": "центр северо-западных политических и торговых сетей",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "конец IV века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Таксила после Александра — центр северо-западных политических и торговых сетей.",
+    "importance": "Карточка раскрывает главу «Северо-запад и Чандрагупта» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: конец IV века до н. э..",
+      "Основной смысл: центр северо-западных политических и торговых сетей.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Северо-запад и Чандрагупта",
+      "city"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 4,
+      "culture": 8,
+      "politics": 7,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Таксила",
+      "lat": 33.746,
+      "lon": 72.839
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-07/mau_s_07_03.svg",
+      "caption": "Локальная учебная обложка: Таксила после Александра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Achaemenid Persian Empire",
+      "url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_07"
+  },
+  {
+    "id": "MAU_S_07_04",
+    "type": "EVENT",
+    "title": "Соглашение Чандрагупты и Селевка",
+    "original": "Seleucus–Maurya war and treaty",
+    "subtitle": "война и дипломатический компромисс",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "ок. 305–303 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Соглашение Чандрагупты и Селевка — война и дипломатический компромисс.",
+    "importance": "Карточка раскрывает главу «Северо-запад и Чандрагупта» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: ок. 305–303 годы до н. э..",
+      "Основной смысл: война и дипломатический компромисс.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Северо-запад и Чандрагупта",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 8,
+      "religion": 6,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "северо-западная граница",
+      "lat": 32.0,
+      "lon": 66.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-07/mau_s_07_04.svg",
+      "caption": "Локальная учебная обложка: Соглашение Чандрагупты и Селевка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_07_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Achaemenid Persian Empire",
+      "url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_07"
+  },
+  {
+    "id": "MAU_S_07_05",
+    "type": "PERSON",
+    "title": "Мегасфен при маурийском дворе",
+    "original": "Megasthenes",
+    "subtitle": "греческий посол и автор утраченной Индики",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "конец IV–начало III века до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Мегасфен при маурийском дворе — греческий посол и автор утраченной Индики.",
+    "importance": "Карточка раскрывает главу «Северо-запад и Чандрагупта» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: конец IV–начало III века до н. э..",
+      "Основной смысл: греческий посол и автор утраченной Индики.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Северо-запад и Чандрагупта",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 8,
+      "culture": 6,
+      "politics": 9,
+      "religion": 7,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.594,
+      "lon": 85.137
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-07/mau_s_07_05.svg",
+      "caption": "Локальная учебная обложка: Мегасфен при маурийском дворе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_07_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Achaemenid Persian Empire",
+      "url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_07"
+  },
+  {
+    "id": "MAU_S_07_06",
+    "type": "MILITARY",
+    "title": "Боевые слоны в соглашении",
+    "original": "War elephants in Seleucid–Mauryan relations",
+    "subtitle": "слоны, переданные Селевку по античной традиции",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "ок. 303 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Боевые слоны в соглашении — слоны, переданные Селевку по античной традиции.",
+    "importance": "Карточка раскрывает главу «Северо-запад и Чандрагупта» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: ок. 303 год до н. э..",
+      "Основной смысл: слоны, переданные Селевку по античной традиции.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Северо-запад и Чандрагупта",
+      "military"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 4,
+      "culture": 7,
+      "politics": 5,
+      "religion": 8,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "северо-западная граница",
+      "lat": 32.0,
+      "lon": 66.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-07/mau_s_07_06.svg",
+      "caption": "Локальная учебная обложка: Боевые слоны в соглашении",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_07_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Achaemenid Persian Empire",
+      "url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_07"
+  },
+  {
+    "id": "MAU_S_07_07",
+    "type": "PERSON",
+    "title": "Каутилья в поздней традиции",
+    "original": "Kautilya tradition",
+    "subtitle": "советник Чандрагупты в литературной памяти",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "традиционная датировка",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Каутилья в поздней традиции — советник Чандрагупты в литературной памяти.",
+    "importance": "Карточка раскрывает главу «Северо-запад и Чандрагупта» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: традиционная датировка.",
+      "Основной смысл: советник Чандрагупты в литературной памяти.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Северо-запад и Чандрагупта",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 6,
+      "culture": 8,
+      "politics": 6,
+      "religion": 9,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.594,
+      "lon": 85.137
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-07/mau_s_07_07.svg",
+      "caption": "Локальная учебная обложка: Каутилья в поздней традиции",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_07_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Achaemenid Persian Empire",
+      "url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_07"
+  },
+  {
+    "id": "MAU_S_07_08",
+    "type": "STATE",
+    "title": "Маурийская династия",
+    "original": "Maurya dynasty",
+    "subtitle": "первая крупная держава большей части субконтинента",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "ок. 322–185 годы до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Маурийская династия — первая крупная держава большей части субконтинента.",
+    "importance": "Карточка раскрывает главу «Северо-запад и Чандрагупта» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: ок. 322–185 годы до н. э..",
+      "Основной смысл: первая крупная держава большей части субконтинента.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Северо-запад и Чандрагупта",
+      "state"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 8,
+      "culture": 9,
+      "politics": 7,
+      "religion": 5,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Маурийская Индия",
+      "lat": 24.5,
+      "lon": 80.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-07/mau_s_07_08.svg",
+      "caption": "Локальная учебная обложка: Маурийская династия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_07_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Achaemenid Persian Empire",
+      "url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_07"
+  },
+  {
+    "id": "MAU_S_08_01",
+    "type": "CITY",
+    "title": "Паталипутра Маурьев",
+    "original": "Mauryan Pataliputra",
+    "subtitle": "царская столица и административный центр",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "IV–III века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Паталипутра Маурьев — царская столица и административный центр.",
+    "importance": "Карточка раскрывает главу «Маурийская держава и управление» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: IV–III века до н. э..",
+      "Основной смысл: царская столица и административный центр.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Маурийская держава и управление",
+      "city"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 7,
+      "culture": 7,
+      "politics": 7,
+      "religion": 9,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.594,
+      "lon": 85.137
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-08/mau_s_08_01.svg",
+      "caption": "Локальная учебная обложка: Паталипутра Маурьев",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/term/x25076",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Mauryan culture and objects",
+      "url": "https://www.britishmuseum.org/collection/term/x25076",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_08"
+  },
+  {
+    "id": "MAU_S_08_02",
+    "type": "CITY",
+    "title": "Таксила как провинциальный центр",
+    "original": "Taxila under the Mauryas",
+    "subtitle": "северо-западный центр империи",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Таксила как провинциальный центр — северо-западный центр империи.",
+    "importance": "Карточка раскрывает главу «Маурийская держава и управление» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: северо-западный центр империи.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Маурийская держава и управление",
+      "city"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 3,
+      "culture": 8,
+      "politics": 8,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Таксила",
+      "lat": 33.746,
+      "lon": 72.839
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-08/mau_s_08_02.svg",
+      "caption": "Локальная учебная обложка: Таксила как провинциальный центр",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/term/x25076",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Mauryan culture and objects",
+      "url": "https://www.britishmuseum.org/collection/term/x25076",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_08"
+  },
+  {
+    "id": "MAU_S_08_03",
+    "type": "CITY",
+    "title": "Удджайн при Маурьях",
+    "original": "Ujjain under the Mauryas",
+    "subtitle": "западный провинциальный и торговый центр",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Удджайн при Маурьях — западный провинциальный и торговый центр.",
+    "importance": "Карточка раскрывает главу «Маурийская держава и управление» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: западный провинциальный и торговый центр.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Маурийская держава и управление",
+      "city"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 5,
+      "culture": 9,
+      "politics": 9,
+      "religion": 6,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Удджайн",
+      "lat": 23.176,
+      "lon": 75.788
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-08/mau_s_08_03.svg",
+      "caption": "Локальная учебная обложка: Удджайн при Маурьях",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/term/x25076",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Mauryan culture and objects",
+      "url": "https://www.britishmuseum.org/collection/term/x25076",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_08"
+  },
+  {
+    "id": "MAU_S_08_04",
+    "type": "CITY",
+    "title": "Тосали и Калинга",
+    "original": "Tosali Mauryan province",
+    "subtitle": "восточный административный центр",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Тосали и Калинга — восточный административный центр.",
+    "importance": "Карточка раскрывает главу «Маурийская держава и управление» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: восточный административный центр.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Маурийская держава и управление",
+      "city"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 7,
+      "culture": 6,
+      "politics": 5,
+      "religion": 7,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Тосали",
+      "lat": 20.5,
+      "lon": 85.9
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-08/mau_s_08_04.svg",
+      "caption": "Локальная учебная обложка: Тосали и Калинга",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/term/x25076",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_08_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Mauryan culture and objects",
+      "url": "https://www.britishmuseum.org/collection/term/x25076",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_08"
+  },
+  {
+    "id": "MAU_S_08_05",
+    "type": "FACTION",
+    "title": "Махаматры",
+    "original": "Mahamatras",
+    "subtitle": "царские должностные лица в эдиктах Ашоки",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Махаматры — царские должностные лица в эдиктах Ашоки.",
+    "importance": "Карточка раскрывает главу «Маурийская держава и управление» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: царские должностные лица в эдиктах Ашоки.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Маурийская держава и управление",
+      "faction"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 3,
+      "culture": 7,
+      "politics": 6,
+      "religion": 8,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Маурийская Индия",
+      "lat": 24.5,
+      "lon": 80.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-08/mau_s_08_05.svg",
+      "caption": "Локальная учебная обложка: Махаматры",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/term/x25076",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_08_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Mauryan culture and objects",
+      "url": "https://www.britishmuseum.org/collection/term/x25076",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_08"
+  },
+  {
+    "id": "MAU_S_08_06",
+    "type": "MILITARY",
+    "title": "Маурийская армия",
+    "original": "Mauryan army",
+    "subtitle": "крупная военная система, известная по косвенным данным",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "IV–III века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Маурийская армия — крупная военная система, известная по косвенным данным.",
+    "importance": "Карточка раскрывает главу «Маурийская держава и управление» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: IV–III века до н. э..",
+      "Основной смысл: крупная военная система, известная по косвенным данным.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Маурийская держава и управление",
+      "military"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 5,
+      "culture": 8,
+      "politics": 7,
+      "religion": 9,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Маурийская Индия",
+      "lat": 24.5,
+      "lon": 80.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-08/mau_s_08_06.svg",
+      "caption": "Локальная учебная обложка: Маурийская армия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/term/x25076",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_08_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Mauryan culture and objects",
+      "url": "https://www.britishmuseum.org/collection/term/x25076",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_08"
+  },
+  {
+    "id": "MAU_S_08_07",
+    "type": "CONCEPT",
+    "title": "Царские дороги Маурьев",
+    "original": "Mauryan roads",
+    "subtitle": "пути связи столицы, провинций и рынков",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "IV–III века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Царские дороги Маурьев — пути связи столицы, провинций и рынков.",
+    "importance": "Карточка раскрывает главу «Маурийская держава и управление» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: IV–III века до н. э..",
+      "Основной смысл: пути связи столицы, провинций и рынков.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Маурийская держава и управление",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 7,
+      "culture": 9,
+      "politics": 8,
+      "religion": 5,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Маурийская Индия",
+      "lat": 24.5,
+      "lon": 80.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-08/mau_s_08_07.svg",
+      "caption": "Локальная учебная обложка: Царские дороги Маурьев",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/term/x25076",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_08_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Mauryan culture and objects",
+      "url": "https://www.britishmuseum.org/collection/term/x25076",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_08"
+  },
+  {
+    "id": "MAU_S_08_08",
+    "type": "CONCEPT",
+    "title": "Многоязычная империя",
+    "original": "Languages of the Mauryan Empire",
+    "subtitle": "пракриты, греческий, арамейский и разные письменности",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Многоязычная империя — пракриты, греческий, арамейский и разные письменности.",
+    "importance": "Карточка раскрывает главу «Маурийская держава и управление» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: пракриты, греческий, арамейский и разные письменности.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Маурийская держава и управление",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 3,
+      "culture": 6,
+      "politics": 9,
+      "religion": 6,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Маурийская Индия",
+      "lat": 24.5,
+      "lon": 80.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-08/mau_s_08_08.svg",
+      "caption": "Локальная учебная обложка: Многоязычная империя",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/term/x25076",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_08_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Mauryan culture and objects",
+      "url": "https://www.britishmuseum.org/collection/term/x25076",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_08"
+  },
+  {
+    "id": "MAU_S_09_01",
+    "type": "PERSON",
+    "title": "Ашока Маурья",
+    "original": "Ashoka",
+    "subtitle": "третий правитель Маурийской династии",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "ок. 268–232 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Ашока Маурья — третий правитель Маурийской династии.",
+    "importance": "Карточка раскрывает главу «Ашока, Калинга и дхамма» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: ок. 268–232 годы до н. э..",
+      "Основной смысл: третий правитель Маурийской династии.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Ашока, Калинга и дхамма",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 8,
+      "culture": 8,
+      "politics": 9,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.594,
+      "lon": 85.137
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-09/mau_s_09_01.svg",
+      "caption": "Локальная учебная обложка: Ашока Маурья",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/A_1880-21",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_09_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: fragment of Ashoka’s Major Pillar Edict VI",
+      "url": "https://www.britishmuseum.org/collection/object/A_1880-21",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_09"
+  },
+  {
+    "id": "MAU_S_09_02",
+    "type": "WAR",
+    "title": "Калингская война",
+    "original": "Kalinga War",
+    "subtitle": "завоевание, описанное в эдикте с языком сожаления",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "ок. 261 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Калингская война — завоевание, описанное в эдикте с языком сожаления.",
+    "importance": "Карточка раскрывает главу «Ашока, Калинга и дхамма» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: ок. 261 год до н. э..",
+      "Основной смысл: завоевание, описанное в эдикте с языком сожаления.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Ашока, Калинга и дхамма",
+      "war"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 5,
+      "religion": 6,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Калинга",
+      "lat": 20.2,
+      "lon": 85.83
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-09/mau_s_09_02.svg",
+      "caption": "Локальная учебная обложка: Калингская война",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/A_1880-21",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_09_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: fragment of Ashoka’s Major Pillar Edict VI",
+      "url": "https://www.britishmuseum.org/collection/object/A_1880-21",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_09"
+  },
+  {
+    "id": "MAU_S_09_03",
+    "type": "CONCEPT",
+    "title": "Дхамма Ашоки",
+    "original": "Dhamma of Ashoka",
+    "subtitle": "царская этическая программа поведения и управления",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Дхамма Ашоки — царская этическая программа поведения и управления.",
+    "importance": "Карточка раскрывает главу «Ашока, Калинга и дхамма» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: царская этическая программа поведения и управления.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Ашока, Калинга и дхамма",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 6,
+      "culture": 6,
+      "politics": 6,
+      "religion": 7,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Маурийская Индия",
+      "lat": 24.5,
+      "lon": 80.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-09/mau_s_09_03.svg",
+      "caption": "Локальная учебная обложка: Дхамма Ашоки",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/A_1880-21",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_09_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: fragment of Ashoka’s Major Pillar Edict VI",
+      "url": "https://www.britishmuseum.org/collection/object/A_1880-21",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_09"
+  },
+  {
+    "id": "MAU_S_09_04",
+    "type": "TEXT",
+    "title": "Большие наскальные эдикты",
+    "original": "Major Rock Edicts",
+    "subtitle": "серия царских надписей в разных регионах",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Большие наскальные эдикты — серия царских надписей в разных регионах.",
+    "importance": "Карточка раскрывает главу «Ашока, Калинга и дхамма» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: серия царских надписей в разных регионах.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Ашока, Калинга и дхамма",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 8,
+      "culture": 7,
+      "politics": 7,
+      "religion": 8,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Гирнар",
+      "lat": 21.52,
+      "lon": 70.55
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-09/mau_s_09_04.svg",
+      "caption": "Локальная учебная обложка: Большие наскальные эдикты",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/A_1880-21",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_09_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: fragment of Ashoka’s Major Pillar Edict VI",
+      "url": "https://www.britishmuseum.org/collection/object/A_1880-21",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_09"
+  },
+  {
+    "id": "MAU_S_09_05",
+    "type": "TEXT",
+    "title": "Колонные эдикты",
+    "original": "Pillar Edicts of Ashoka",
+    "subtitle": "надписи на монолитных каменных колоннах",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Колонные эдикты — надписи на монолитных каменных колоннах.",
+    "importance": "Карточка раскрывает главу «Ашока, Калинга и дхамма» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: надписи на монолитных каменных колоннах.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Ашока, Калинга и дхамма",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 8,
+      "politics": 8,
+      "religion": 9,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Лаурия-Нандангарх",
+      "lat": 26.991,
+      "lon": 84.404
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-09/mau_s_09_05.svg",
+      "caption": "Локальная учебная обложка: Колонные эдикты",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/A_1880-21",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_09_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: fragment of Ashoka’s Major Pillar Edict VI",
+      "url": "https://www.britishmuseum.org/collection/object/A_1880-21",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_09"
+  },
+  {
+    "id": "MAU_S_09_06",
+    "type": "FACTION",
+    "title": "Дхамма-махаматры",
+    "original": "Dhamma-mahamatras",
+    "subtitle": "должностные лица, связанные с программой дхаммы",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Дхамма-махаматры — должностные лица, связанные с программой дхаммы.",
+    "importance": "Карточка раскрывает главу «Ашока, Калинга и дхамма» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: должностные лица, связанные с программой дхаммы.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Ашока, Калинга и дхамма",
+      "faction"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 6,
+      "culture": 9,
+      "politics": 9,
+      "religion": 5,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Маурийская Индия",
+      "lat": 24.5,
+      "lon": 80.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-09/mau_s_09_06.svg",
+      "caption": "Локальная учебная обложка: Дхамма-махаматры",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/A_1880-21",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_09_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: fragment of Ashoka’s Major Pillar Edict VI",
+      "url": "https://www.britishmuseum.org/collection/object/A_1880-21",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_09"
+  },
+  {
+    "id": "MAU_S_09_07",
+    "type": "TEXT",
+    "title": "Греко-арамейские эдикты",
+    "original": "Kandahar Greek Edicts of Ashoka",
+    "subtitle": "надписи Ашоки для северо-западной аудитории",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Греко-арамейские эдикты — надписи Ашоки для северо-западной аудитории.",
+    "importance": "Карточка раскрывает главу «Ашока, Калинга и дхамма» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: надписи Ашоки для северо-западной аудитории.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Ашока, Калинга и дхамма",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 8,
+      "culture": 6,
+      "politics": 5,
+      "religion": 6,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кандагар",
+      "lat": 31.628,
+      "lon": 65.738
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-09/mau_s_09_07.svg",
+      "caption": "Локальная учебная обложка: Греко-арамейские эдикты",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/A_1880-21",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_09_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: fragment of Ashoka’s Major Pillar Edict VI",
+      "url": "https://www.britishmuseum.org/collection/object/A_1880-21",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_09"
+  },
+  {
+    "id": "MAU_S_09_08",
+    "type": "CONCEPT",
+    "title": "Публичный голос царя",
+    "original": "Royal communication under Ashoka",
+    "subtitle": "прямое обращение правителя через надписи",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Публичный голос царя — прямое обращение правителя через надписи.",
+    "importance": "Карточка раскрывает главу «Ашока, Калинга и дхамма» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: прямое обращение правителя через надписи.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Ашока, Калинга и дхамма",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 6,
+      "religion": 7,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Маурийская Индия",
+      "lat": 24.5,
+      "lon": 80.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-09/mau_s_09_08.svg",
+      "caption": "Локальная учебная обложка: Публичный голос царя",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/object/A_1880-21",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_09_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: fragment of Ashoka’s Major Pillar Edict VI",
+      "url": "https://www.britishmuseum.org/collection/object/A_1880-21",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_09"
+  },
+  {
+    "id": "MAU_S_10_01",
+    "type": "ARTIFACT",
+    "title": "Ступа Санчи I",
+    "original": "Great Stupa at Sanchi",
+    "subtitle": "главная ступа комплекса с маурийским ядром и поздними перестройками",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III–I века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Ступа Санчи I — главная ступа комплекса с маурийским ядром и поздними перестройками.",
+    "importance": "Карточка раскрывает главу «Колонны, ступы и буддийские сети» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III–I века до н. э..",
+      "Основной смысл: главная ступа комплекса с маурийским ядром и поздними перестройками.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Колонны, ступы и буддийские сети",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 3,
+      "culture": 9,
+      "politics": 6,
+      "religion": 6,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Санчи",
+      "lat": 23.479,
+      "lon": 77.739
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-10/mau_s_10_01.svg",
+      "caption": "Локальная учебная обложка: Ступа Санчи I",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/524/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_10_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Buddhist Monuments at Sanchi",
+      "url": "https://whc.unesco.org/en/list/524/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_10"
+  },
+  {
+    "id": "MAU_S_10_02",
+    "type": "ARTIFACT",
+    "title": "Колонна Ашоки в Сарнатхе",
+    "original": "Ashoka pillar at Sarnath",
+    "subtitle": "монолитная колонна и львиная капитель",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Колонна Ашоки в Сарнатхе — монолитная колонна и львиная капитель.",
+    "importance": "Карточка раскрывает главу «Колонны, ступы и буддийские сети» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: монолитная колонна и львиная капитель.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Колонны, ступы и буддийские сети",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 7,
+      "religion": 7,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сарнатх",
+      "lat": 25.381,
+      "lon": 83.021
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-10/mau_s_10_02.svg",
+      "caption": "Локальная учебная обложка: Колонна Ашоки в Сарнатхе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/524/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_10_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Buddhist Monuments at Sanchi",
+      "url": "https://whc.unesco.org/en/list/524/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_10"
+  },
+  {
+    "id": "MAU_S_10_03",
+    "type": "TEXT",
+    "title": "Лумбинский эдикт",
+    "original": "Lumbini pillar inscription",
+    "subtitle": "надпись о посещении места рождения Будды",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Лумбинский эдикт — надпись о посещении места рождения Будды.",
+    "importance": "Карточка раскрывает главу «Колонны, ступы и буддийские сети» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: надпись о посещении места рождения Будды.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Колонны, ступы и буддийские сети",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 7,
+      "culture": 7,
+      "politics": 8,
+      "religion": 8,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Лумбини",
+      "lat": 27.469,
+      "lon": 83.275
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-10/mau_s_10_03.svg",
+      "caption": "Локальная учебная обложка: Лумбинский эдикт",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/524/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_10_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Buddhist Monuments at Sanchi",
+      "url": "https://whc.unesco.org/en/list/524/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_10"
+  },
+  {
+    "id": "MAU_S_10_04",
+    "type": "CITY",
+    "title": "Бодх-Гая при Маурьях",
+    "original": "Bodh Gaya under the Mauryas",
+    "subtitle": "ранняя монументализация места просветления",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Бодх-Гая при Маурьях — ранняя монументализация места просветления.",
+    "importance": "Карточка раскрывает главу «Колонны, ступы и буддийские сети» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: ранняя монументализация места просветления.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Колонны, ступы и буддийские сети",
+      "city"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 3,
+      "culture": 8,
+      "politics": 9,
+      "religion": 9,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Бодх-Гая",
+      "lat": 24.696,
+      "lon": 84.991
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-10/mau_s_10_04.svg",
+      "caption": "Локальная учебная обложка: Бодх-Гая при Маурьях",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/524/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_10_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Buddhist Monuments at Sanchi",
+      "url": "https://whc.unesco.org/en/list/524/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_10"
+  },
+  {
+    "id": "MAU_S_10_05",
+    "type": "CONCEPT",
+    "title": "Ступа и реликвии",
+    "original": "Buddhist stupa and relics",
+    "subtitle": "монумент хранения реликвий и обхода",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "I тысячелетие до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Ступа и реликвии — монумент хранения реликвий и обхода.",
+    "importance": "Карточка раскрывает главу «Колонны, ступы и буддийские сети» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э..",
+      "Основной смысл: монумент хранения реликвий и обхода.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Колонны, ступы и буддийские сети",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 5,
+      "culture": 9,
+      "politics": 5,
+      "religion": 5,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Санчи",
+      "lat": 23.479,
+      "lon": 77.739
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-10/mau_s_10_05.svg",
+      "caption": "Локальная учебная обложка: Ступа и реликвии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/524/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_10_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Buddhist Monuments at Sanchi",
+      "url": "https://whc.unesco.org/en/list/524/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_10"
+  },
+  {
+    "id": "MAU_S_10_06",
+    "type": "FACTION",
+    "title": "Буддийские доноры",
+    "original": "Buddhist donors in ancient India",
+    "subtitle": "миряне и монашествующие, финансировавшие памятники",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III–I века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Буддийские доноры — миряне и монашествующие, финансировавшие памятники.",
+    "importance": "Карточка раскрывает главу «Колонны, ступы и буддийские сети» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III–I века до н. э..",
+      "Основной смысл: миряне и монашествующие, финансировавшие памятники.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Колонны, ступы и буддийские сети",
+      "faction"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 6,
+      "religion": 6,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Санчи",
+      "lat": 23.479,
+      "lon": 77.739
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-10/mau_s_10_06.svg",
+      "caption": "Локальная учебная обложка: Буддийские доноры",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/524/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_10_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Buddhist Monuments at Sanchi",
+      "url": "https://whc.unesco.org/en/list/524/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_10"
+  },
+  {
+    "id": "MAU_S_10_07",
+    "type": "EVENT",
+    "title": "Миссии и распространение буддизма",
+    "original": "Buddhist missions under Ashoka tradition",
+    "subtitle": "поздняя традиция о распространении учения",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III век до н. э. в традиции",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Миссии и распространение буддизма — поздняя традиция о распространении учения.",
+    "importance": "Карточка раскрывает главу «Колонны, ступы и буддийские сети» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III век до н. э. в традиции.",
+      "Основной смысл: поздняя традиция о распространении учения.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Колонны, ступы и буддийские сети",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 3,
+      "culture": 7,
+      "politics": 7,
+      "religion": 7,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Шри-Ланка",
+      "lat": 7.873,
+      "lon": 80.772
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-10/mau_s_10_07.svg",
+      "caption": "Локальная учебная обложка: Миссии и распространение буддизма",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/524/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_10_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Buddhist Monuments at Sanchi",
+      "url": "https://whc.unesco.org/en/list/524/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_10"
+  },
+  {
+    "id": "MAU_S_10_08",
+    "type": "CONCEPT",
+    "title": "Раннее аниконическое искусство",
+    "original": "Aniconic Buddhist art",
+    "subtitle": "символические формы изображения Будды и событий",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III–I века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Раннее аниконическое искусство — символические формы изображения Будды и событий.",
+    "importance": "Карточка раскрывает главу «Колонны, ступы и буддийские сети» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III–I века до н. э..",
+      "Основной смысл: символические формы изображения Будды и событий.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "Колонны, ступы и буддийские сети",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 8,
+      "religion": 8,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Санчи",
+      "lat": 23.479,
+      "lon": 77.739
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-10/mau_s_10_08.svg",
+      "caption": "Локальная учебная обложка: Раннее аниконическое искусство",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/524/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_10_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Buddhist Monuments at Sanchi",
+      "url": "https://whc.unesco.org/en/list/524/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_10"
+  },
+  {
+    "id": "MAU_S_11_01",
+    "type": "STATE",
+    "title": "Поздние Маурьи",
+    "original": "Later Mauryas",
+    "subtitle": "правители после Ашоки с ограниченной источниковой базой",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III–II века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Поздние Маурьи — правители после Ашоки с ограниченной источниковой базой.",
+    "importance": "Карточка раскрывает главу «После Ашоки и наследие Маурьев» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III–II века до н. э..",
+      "Основной смысл: правители после Ашоки с ограниченной источниковой базой.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "После Ашоки и наследие Маурьев",
+      "state"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 4,
+      "culture": 6,
+      "politics": 8,
+      "religion": 7,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.594,
+      "lon": 85.137
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-11/mau_s_11_01.svg",
+      "caption": "Локальная учебная обложка: Поздние Маурьи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_11_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_11"
+  },
+  {
+    "id": "MAU_S_11_02",
+    "type": "PERSON",
+    "title": "Дашаратха Маурья",
+    "original": "Dasharatha Maurya",
+    "subtitle": "правитель, связанный с посвящениями пещер адживикам",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Дашаратха Маурья — правитель, связанный с посвящениями пещер адживикам.",
+    "importance": "Карточка раскрывает главу «После Ашоки и наследие Маурьев» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: правитель, связанный с посвящениями пещер адживикам.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "После Ашоки и наследие Маурьев",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 7,
+      "politics": 9,
+      "religion": 8,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "пещеры Барабар",
+      "lat": 25.006,
+      "lon": 85.064
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-11/mau_s_11_02.svg",
+      "caption": "Локальная учебная обложка: Дашаратха Маурья",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_11_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_11"
+  },
+  {
+    "id": "MAU_S_11_03",
+    "type": "ARTIFACT",
+    "title": "Пещеры Нагарджуни",
+    "original": "Nagarjuni caves",
+    "subtitle": "полированные пещеры с надписями Дашаратхи",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Пещеры Нагарджуни — полированные пещеры с надписями Дашаратхи.",
+    "importance": "Карточка раскрывает главу «После Ашоки и наследие Маурьев» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: полированные пещеры с надписями Дашаратхи.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "После Ашоки и наследие Маурьев",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 8,
+      "culture": 8,
+      "politics": 5,
+      "religion": 9,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "пещеры Барабар",
+      "lat": 25.006,
+      "lon": 85.064
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-11/mau_s_11_03.svg",
+      "caption": "Локальная учебная обложка: Пещеры Нагарджуни",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_11_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_11"
+  },
+  {
+    "id": "MAU_S_11_04",
+    "type": "PERSON",
+    "title": "Брихадратха Маурья",
+    "original": "Brihadratha Maurya",
+    "subtitle": "последний правитель династии в поздней традиции",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "ум. ок. 185 года до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Брихадратха Маурья — последний правитель династии в поздней традиции.",
+    "importance": "Карточка раскрывает главу «После Ашоки и наследие Маурьев» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: ум. ок. 185 года до н. э..",
+      "Основной смысл: последний правитель династии в поздней традиции.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "После Ашоки и наследие Маурьев",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 4,
+      "culture": 9,
+      "politics": 6,
+      "religion": 5,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.594,
+      "lon": 85.137
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-11/mau_s_11_04.svg",
+      "caption": "Локальная учебная обложка: Брихадратха Маурья",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_11_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_11"
+  },
+  {
+    "id": "MAU_S_11_05",
+    "type": "PERSON",
+    "title": "Пушьямитра Шунга",
+    "original": "Pushyamitra Shunga",
+    "subtitle": "основатель новой династии после Маурьев",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "II век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Пушьямитра Шунга — основатель новой династии после Маурьев.",
+    "importance": "Карточка раскрывает главу «После Ашоки и наследие Маурьев» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: II век до н. э..",
+      "Основной смысл: основатель новой династии после Маурьев.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "После Ашоки и наследие Маурьев",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 6,
+      "culture": 6,
+      "politics": 7,
+      "religion": 6,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.594,
+      "lon": 85.137
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-11/mau_s_11_05.svg",
+      "caption": "Локальная учебная обложка: Пушьямитра Шунга",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_11_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_11"
+  },
+  {
+    "id": "MAU_S_11_06",
+    "type": "EVENT",
+    "title": "Конец Маурийской династии",
+    "original": "Fall of the Maurya Empire",
+    "subtitle": "переход к региональным государствам",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "ок. 185 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Конец Маурийской династии — переход к региональным государствам.",
+    "importance": "Карточка раскрывает главу «После Ашоки и наследие Маурьев» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: ок. 185 год до н. э..",
+      "Основной смысл: переход к региональным государствам.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "После Ашоки и наследие Маурьев",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 8,
+      "culture": 7,
+      "politics": 8,
+      "religion": 7,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Паталипутра",
+      "lat": 25.594,
+      "lon": 85.137
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-11/mau_s_11_06.svg",
+      "caption": "Локальная учебная обложка: Конец Маурийской династии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_11_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_11"
+  },
+  {
+    "id": "MAU_S_11_07",
+    "type": "CONCEPT",
+    "title": "Наследие маурийской письменности",
+    "original": "Legacy of Mauryan inscriptions",
+    "subtitle": "долговременное значение брахми, кхароштхи и царских текстов",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "III век до н. э. и позднее",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Наследие маурийской письменности — долговременное значение брахми, кхароштхи и царских текстов.",
+    "importance": "Карточка раскрывает главу «После Ашоки и наследие Маурьев» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: III век до н. э. и позднее.",
+      "Основной смысл: долговременное значение брахми, кхароштхи и царских текстов.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "После Ашоки и наследие Маурьев",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 4,
+      "culture": 8,
+      "politics": 9,
+      "religion": 8,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Маурийская Индия",
+      "lat": 24.5,
+      "lon": 80.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-11/mau_s_11_07.svg",
+      "caption": "Локальная учебная обложка: Наследие маурийской письменности",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_11_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_11"
+  },
+  {
+    "id": "MAU_S_11_08",
+    "type": "CONCEPT",
+    "title": "Маурьи в исторической памяти",
+    "original": "Mauryas in historical memory",
+    "subtitle": "позднее открытие и переосмысление династии",
+    "era": "Эллинистический и римский мир",
+    "region": "Северная Индия и Маурийская держава",
+    "date": "новое время",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Маурьи в исторической памяти — позднее открытие и переосмысление династии.",
+    "importance": "Карточка раскрывает главу «После Ашоки и наследие Маурьев» и показывает политическую, социальную, религиозную, хозяйственную или источниковедческую сторону ранней исторической Индии.",
+    "facts": [
+      "Датировка: новое время.",
+      "Основной смысл: позднее открытие и переосмысление династии.",
+      "Вывод проверяется по археологии, надписям, монетам и текстам разных традиций."
+    ],
+    "tags": [
+      "Индия",
+      "Магадха и Маурьи",
+      "После Ашоки и наследие Маурьев",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 5,
+      "religion": 9,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Маурийская Индия",
+      "lat": 24.5,
+      "lon": 80.0
+    },
+    "image": {
+      "local": "assets/cards/maurya/chapter-11/mau_s_11_08.svg",
+      "caption": "Локальная учебная обложка: Маурьи в исторической памяти",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mau_s_11_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: South Asia, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "INDIA_MAURYA",
+    "chapter": "MAU_CHAPTER_11"
+  }
+]

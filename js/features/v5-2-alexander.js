@@ -1,6 +1,6 @@
-/* Codex v6.3.0 — Alexander the Great */
+/* Codex v6.4.0 — Alexander the Great */
 (()=>{
-  const V='6.3.0';
+  const V='6.4.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.ALEXANDER='ALEXANDER';
   state.alexanderPhase=state.alexanderPhase||'MACEDONIAN_START';

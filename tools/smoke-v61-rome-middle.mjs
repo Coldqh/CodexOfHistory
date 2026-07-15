@@ -2,7 +2,7 @@
 import fs from 'node:fs';import path from 'node:path';import assert from 'node:assert/strict';import {fileURLToPath} from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));const exists=p=>fs.existsSync(path.join(root,p));
-const manifest=read('data/content-manifest.json');assert.equal(manifest.version,'6.3.0');
+const manifest=read('data/content-manifest.json');assert.equal(manifest.version,'6.4.0');
 const required=['data/campaigns/rome/chapter_04.json','data/campaigns/rome/chapter_05.json','data/campaigns/rome/chapter_06.json','data/lessons/rome/chapter_04.json','data/lessons/rome/chapter_05.json','data/lessons/rome/chapter_06.json','data/quizzes/rome/chapter_04.json','data/quizzes/rome/chapter_05.json','data/quizzes/rome/chapter_06.json','js/features/v6-1-rome-middle.js'];for(const p of required)assert.ok(exists(p),`missing ${p}`);
 const story=read('data/cards/rome/story.json'),archive=read('data/cards/rome/archive.json'),future=read('data/cards/rome/future.json'),campaign=read('data/campaigns/rome/campaign.json'),pools=read('data/campaigns/rome/pools.json'),map=read('data/maps/rome.json'),stories=read('data/stories/rome/personal.json');
 assert.ok(campaign.chapters.length>=9);assert.ok(campaign.nodes.length>=67);assert.equal(campaign.chapters[3].title,'Пунические войны');assert.equal(campaign.chapters[4].title,'Завоевание эллинистического мира');assert.equal(campaign.chapters[5].title,'Как работала Республика');
@@ -15,9 +15,9 @@ for(const [pid,unlock,prefix] of [['ROME_PUNIC','ROM_04_02','ROM_A_04_'],['ROME_
 assert.ok(stories.STORY_ROM_04&&stories.STORY_ROM_05&&stories.STORY_ROM_06);for(const key of ['MESSANA','EGATES','NEW_CARTHAGE','CYNOSCEPHALAE','MAGNESIA','PYDNA','CURIA','MARS_FIELD'])assert.ok(map.points[key],`missing map point ${key}`);for(const id of ['ROME_CHAPTER_04','ROME_CHAPTER_05','ROME_CHAPTER_06'])assert.ok(map.chapters[id],`missing map chapter ${id}`);
 const q6=read('data/quizzes/rome/chapter_06.json');for(const id of ['QUIZ_ROM_CH6','QUIZ_ROM_MID_MAP','QUIZ_ROM_MID_TIME','QUIZ_ROM_MID_RULE','QUIZ_ROM_MID_SOURCE'])assert.ok(q6[id],`missing quiz ${id}`);const mid=campaign.nodes.find(x=>x.id==='ROM_06_06');assert.ok(mid);assert.equal(mid.romeCheckpointModules.length,4);
 const world=read('data/world/campaigns.json').find(c=>c.id==='ROME_CAMPAIGN');assert.ok(world.releasedChapters>=9);assert.equal(world.chapterCount,12);
-const queries=read('data/image_queries.json');assert.equal(queries.version,'6.3.0');assert.equal(queries.count,3087);for(const c of [...newStory,...newArchive])assert.equal(queries.cards[c.id].group,'ROME');
-const images=read('data/image_manifest.json');assert.equal(images.version,'6.3.0');assert.equal(images.count,3087);assert.equal(images.staticHistoricalImageCount,42);assert.equal(images.projectCoverCount,3045);
+const queries=read('data/image_queries.json');assert.equal(queries.version,'6.4.0');assert.equal(queries.count,3219);for(const c of [...newStory,...newArchive])assert.equal(queries.cards[c.id].group,'ROME');
+const images=read('data/image_manifest.json');assert.equal(images.version,'6.4.0');assert.equal(images.count,3219);assert.equal(images.staticHistoricalImageCount,42);assert.equal(images.projectCoverCount,3177);
 const relations=read('data/core/relations.json');assert.ok(relations.some(r=>r.source==='PHO_S_09_08'&&r.target==='WAR_ROM_010'));assert.ok(relations.some(r=>r.source==='HEL_S_10_04'&&r.target==='ROM_S_05_05'));
-const runtime=fs.readFileSync(path.join(root,'js/features/v6-1-rome-middle.js'),'utf8');for(const token of ["const V='6.3.0'",'romeMiddlePhase','openRomeCheckpointModule','КОНТРОЛЬНАЯ ТОЧКА'])assert.match(runtime,new RegExp(token.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')));
-const sw=fs.readFileSync(path.join(root,'sw.js'),'utf8');assert.match(sw,/codex-v6\.3\.0/);assert.match(sw,/v6-1-rome-middle\.js/);
+const runtime=fs.readFileSync(path.join(root,'js/features/v6-1-rome-middle.js'),'utf8');for(const token of ["const V='6.4.0'",'romeMiddlePhase','openRomeCheckpointModule','КОНТРОЛЬНАЯ ТОЧКА'])assert.match(runtime,new RegExp(token.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')));
+const sw=fs.readFileSync(path.join(root,'sw.js'),'utf8');assert.match(sw,/codex-v6\.4\.0/);assert.match(sw,/v6-1-rome-middle\.js/);
 console.log('✓ v6.1 Rome chapters 4–6 static smoke: 3 chapters, 18 missions, 36 cards');

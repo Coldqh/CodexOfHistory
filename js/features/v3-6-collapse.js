@@ -1,6 +1,6 @@
-/* Codex v6.3.0 — Bronze Age collapse and transition */
+/* Codex v6.4.0 — Bronze Age collapse and transition */
 (()=>{
-  const V='6.3.0';
+  const V='6.4.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.BRONZE_COLLAPSE='BRONZE_COLLAPSE';
   state.collapsePhase=state.collapsePhase||'PRESSURE';

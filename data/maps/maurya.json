@@ -1,0 +1,378 @@
+{
+  "points": {
+    "GANGA": [
+      25.3,
+      83.0
+    ],
+    "VAISHALI": [
+      25.986,
+      85.13
+    ],
+    "KOSAMBI": [
+      25.338,
+      81.394
+    ],
+    "VARANASI": [
+      25.317,
+      82.974
+    ],
+    "RAJAGRIHA": [
+      25.026,
+      85.42
+    ],
+    "BODH_GAYA": [
+      24.696,
+      84.991
+    ],
+    "SARNATH": [
+      25.381,
+      83.021
+    ],
+    "KUSHINAGAR": [
+      26.739,
+      83.888
+    ],
+    "SHRAVASTI": [
+      27.517,
+      82.05
+    ],
+    "KAPILAVASTU": [
+      27.575,
+      83.05
+    ],
+    "PAWA": [
+      26.84,
+      84.13
+    ],
+    "CHAMPA": [
+      25.25,
+      87.0
+    ],
+    "MAGADHA": [
+      25.25,
+      85.25
+    ],
+    "PATALIPUTRA": [
+      25.594,
+      85.137
+    ],
+    "ANGA": [
+      25.25,
+      87.0
+    ],
+    "AVANTI": [
+      23.18,
+      75.78
+    ],
+    "TAXILA": [
+      33.746,
+      72.839
+    ],
+    "INDUS": [
+      31.0,
+      72.0
+    ],
+    "PUNJAB": [
+      31.15,
+      75.35
+    ],
+    "SELEUCID_BORDER": [
+      32.0,
+      66.0
+    ],
+    "UJJAIN": [
+      23.176,
+      75.788
+    ],
+    "TOSALI": [
+      20.5,
+      85.9
+    ],
+    "KALINGA": [
+      20.2,
+      85.83
+    ],
+    "GIRNAR": [
+      21.52,
+      70.55
+    ],
+    "KANDAHAR": [
+      31.628,
+      65.738
+    ],
+    "SHAHBAZGARHI": [
+      34.22,
+      72.16
+    ],
+    "LUMBINI": [
+      27.469,
+      83.275
+    ],
+    "SANCHI": [
+      23.479,
+      77.739
+    ],
+    "BARABAR": [
+      25.006,
+      85.064
+    ],
+    "SARNATH_PILLAR": [
+      25.381,
+      83.021
+    ],
+    "LAURIA": [
+      26.991,
+      84.404
+    ],
+    "RAMPURVA": [
+      27.27,
+      84.5
+    ],
+    "DECCAN": [
+      18.5,
+      78.5
+    ],
+    "SRI_LANKA": [
+      7.873,
+      80.772
+    ],
+    "VIDISHA": [
+      23.526,
+      77.812
+    ],
+    "MAURYA_WORLD": [
+      24.5,
+      80.0
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "MAU_S_01_01": "GANGA",
+    "MAU_S_01_02": "GANGA",
+    "MAU_S_01_03": "VAISHALI",
+    "MAU_S_01_04": "KOSAMBI",
+    "MAU_S_01_05": "SHRAVASTI",
+    "MAU_S_01_06": "VARANASI",
+    "MAU_S_01_07": "GANGA",
+    "MAU_S_01_08": "GANGA",
+    "MAU_A_01_01": "GANGA",
+    "MAU_A_01_02": "KOSAMBI",
+    "MAU_A_01_03": "GANGA",
+    "MAU_A_01_04": "GANGA",
+    "MAU_S_02_01": "GANGA",
+    "MAU_S_02_02": "GANGA",
+    "MAU_S_02_03": "VARANASI",
+    "MAU_S_02_04": "KOSAMBI",
+    "MAU_S_02_05": "RAJAGRIHA",
+    "MAU_S_02_06": "CHAMPA",
+    "MAU_S_02_07": "GANGA",
+    "MAU_S_02_08": "PATALIPUTRA",
+    "MAU_A_02_01": "GANGA",
+    "MAU_A_02_02": "KOSAMBI",
+    "MAU_A_02_03": "VARANASI",
+    "MAU_A_02_04": "GANGA",
+    "MAU_S_03_01": "GANGA",
+    "MAU_S_03_02": "GANGA",
+    "MAU_S_03_03": "GANGA",
+    "MAU_S_03_04": "GANGA",
+    "MAU_S_03_05": "GANGA",
+    "MAU_S_03_06": "RAJAGRIHA",
+    "MAU_S_03_07": "VAISHALI",
+    "MAU_S_03_08": "RAJAGRIHA",
+    "MAU_A_03_01": "BARABAR",
+    "MAU_A_03_02": "RAJAGRIHA",
+    "MAU_A_03_03": "GANGA",
+    "MAU_A_03_04": "GANGA",
+    "MAU_S_04_01": "BODH_GAYA",
+    "MAU_S_04_02": "BODH_GAYA",
+    "MAU_S_04_03": "SARNATH",
+    "MAU_S_04_04": "SARNATH",
+    "MAU_S_04_05": "SARNATH",
+    "MAU_S_04_06": "GANGA",
+    "MAU_S_04_07": "KAPILAVASTU",
+    "MAU_S_04_08": "KUSHINAGAR",
+    "MAU_A_04_01": "GANGA",
+    "MAU_A_04_02": "SARNATH",
+    "MAU_A_04_03": "BODH_GAYA",
+    "MAU_A_04_04": "BODH_GAYA",
+    "MAU_S_05_01": "VAISHALI",
+    "MAU_S_05_02": "VAISHALI",
+    "MAU_S_05_03": "GANGA",
+    "MAU_S_05_04": "GANGA",
+    "MAU_S_05_05": "GANGA",
+    "MAU_S_05_06": "VAISHALI",
+    "MAU_S_05_07": "PAWA",
+    "MAU_S_05_08": "VARANASI",
+    "MAU_A_05_01": "GANGA",
+    "MAU_A_05_02": "GANGA",
+    "MAU_A_05_03": "GANGA",
+    "MAU_A_05_04": "GANGA",
+    "MAU_S_06_01": "RAJAGRIHA",
+    "MAU_S_06_02": "RAJAGRIHA",
+    "MAU_S_06_03": "RAJAGRIHA",
+    "MAU_S_06_04": "ANGA",
+    "MAU_S_06_05": "VAISHALI",
+    "MAU_S_06_06": "PATALIPUTRA",
+    "MAU_S_06_07": "PATALIPUTRA",
+    "MAU_S_06_08": "MAGADHA",
+    "MAU_A_06_01": "RAJAGRIHA",
+    "MAU_A_06_02": "PATALIPUTRA",
+    "MAU_A_06_03": "PATALIPUTRA",
+    "MAU_A_06_04": "MAGADHA",
+    "MAU_S_07_01": "PATALIPUTRA",
+    "MAU_S_07_02": "PATALIPUTRA",
+    "MAU_S_07_03": "TAXILA",
+    "MAU_S_07_04": "SELEUCID_BORDER",
+    "MAU_S_07_05": "PATALIPUTRA",
+    "MAU_S_07_06": "SELEUCID_BORDER",
+    "MAU_S_07_07": "PATALIPUTRA",
+    "MAU_S_07_08": "MAURYA_WORLD",
+    "MAU_A_07_01": "PATALIPUTRA",
+    "MAU_A_07_02": "PATALIPUTRA",
+    "MAU_A_07_03": "PATALIPUTRA",
+    "MAU_A_07_04": "PATALIPUTRA",
+    "MAU_S_08_01": "PATALIPUTRA",
+    "MAU_S_08_02": "TAXILA",
+    "MAU_S_08_03": "UJJAIN",
+    "MAU_S_08_04": "TOSALI",
+    "MAU_S_08_05": "MAURYA_WORLD",
+    "MAU_S_08_06": "MAURYA_WORLD",
+    "MAU_S_08_07": "MAURYA_WORLD",
+    "MAU_S_08_08": "MAURYA_WORLD",
+    "MAU_A_08_01": "PATALIPUTRA",
+    "MAU_A_08_02": "PATALIPUTRA",
+    "MAU_A_08_03": "MAURYA_WORLD",
+    "MAU_A_08_04": "MAURYA_WORLD",
+    "MAU_S_09_01": "PATALIPUTRA",
+    "MAU_S_09_02": "KALINGA",
+    "MAU_S_09_03": "MAURYA_WORLD",
+    "MAU_S_09_04": "GIRNAR",
+    "MAU_S_09_05": "LAURIA",
+    "MAU_S_09_06": "MAURYA_WORLD",
+    "MAU_S_09_07": "KANDAHAR",
+    "MAU_S_09_08": "MAURYA_WORLD",
+    "MAU_A_09_01": "KALINGA",
+    "MAU_A_09_02": "SHAHBAZGARHI",
+    "MAU_A_09_03": "MAURYA_WORLD",
+    "MAU_A_09_04": "PATALIPUTRA",
+    "MAU_S_10_01": "SANCHI",
+    "MAU_S_10_02": "SARNATH_PILLAR",
+    "MAU_S_10_03": "LUMBINI",
+    "MAU_S_10_04": "BODH_GAYA",
+    "MAU_S_10_05": "SANCHI",
+    "MAU_S_10_06": "SANCHI",
+    "MAU_S_10_07": "SRI_LANKA",
+    "MAU_S_10_08": "SANCHI",
+    "MAU_A_10_01": "SARNATH_PILLAR",
+    "MAU_A_10_02": "RAMPURVA",
+    "MAU_A_10_03": "BODH_GAYA",
+    "MAU_A_10_04": "SANCHI",
+    "MAU_S_11_01": "PATALIPUTRA",
+    "MAU_S_11_02": "BARABAR",
+    "MAU_S_11_03": "BARABAR",
+    "MAU_S_11_04": "PATALIPUTRA",
+    "MAU_S_11_05": "PATALIPUTRA",
+    "MAU_S_11_06": "PATALIPUTRA",
+    "MAU_S_11_07": "MAURYA_WORLD",
+    "MAU_S_11_08": "MAURYA_WORLD",
+    "MAU_A_11_01": "BARABAR",
+    "MAU_A_11_02": "PATALIPUTRA",
+    "MAU_A_11_03": "MAURYA_WORLD",
+    "MAU_A_11_04": "MAURYA_WORLD"
+  },
+  "chapters": {
+    "MAU_CHAPTER_01": {
+      "title": "Махаджанапады и вторая урбанизация",
+      "center": [
+        25.3,
+        83.0
+      ],
+      "zoom": 6
+    },
+    "MAU_CHAPTER_02": {
+      "title": "Города, торговля и новые общества",
+      "center": [
+        25.317,
+        82.974
+      ],
+      "zoom": 6
+    },
+    "MAU_CHAPTER_03": {
+      "title": "Шраманские движения",
+      "center": [
+        25.026,
+        85.42
+      ],
+      "zoom": 6
+    },
+    "MAU_CHAPTER_04": {
+      "title": "Будда и ранняя сангха",
+      "center": [
+        27.469,
+        83.275
+      ],
+      "zoom": 6
+    },
+    "MAU_CHAPTER_05": {
+      "title": "Махавира и ранний джайнизм",
+      "center": [
+        25.986,
+        85.13
+      ],
+      "zoom": 6
+    },
+    "MAU_CHAPTER_06": {
+      "title": "Возвышение Магадхи",
+      "center": [
+        25.026,
+        85.42
+      ],
+      "zoom": 6
+    },
+    "MAU_CHAPTER_07": {
+      "title": "Северо-запад и Чандрагупта",
+      "center": [
+        33.746,
+        72.839
+      ],
+      "zoom": 6
+    },
+    "MAU_CHAPTER_08": {
+      "title": "Маурийская держава и управление",
+      "center": [
+        25.594,
+        85.137
+      ],
+      "zoom": 6
+    },
+    "MAU_CHAPTER_09": {
+      "title": "Ашока, Калинга и дхамма",
+      "center": [
+        25.594,
+        85.137
+      ],
+      "zoom": 6
+    },
+    "MAU_CHAPTER_10": {
+      "title": "Колонны, ступы и буддийские сети",
+      "center": [
+        23.479,
+        77.739
+      ],
+      "zoom": 6
+    },
+    "MAU_CHAPTER_11": {
+      "title": "После Ашоки и наследие Маурьев",
+      "center": [
+        25.594,
+        85.137
+      ],
+      "zoom": 6
+    }
+  },
+  "missionCenter": [
+    25.5,
+    80.0
+  ],
+  "missionZoom": 5
+}

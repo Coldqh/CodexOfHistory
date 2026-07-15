@@ -1,5 +1,5 @@
 {
-  "version": "6.8.0",
+  "version": "6.9.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -66,7 +66,9 @@
       "data/cards/hellenistic-roman-world/story.json",
       "data/cards/hellenistic-roman-world/archive.json",
       "data/cards/late-roman/story.json",
-      "data/cards/late-roman/archive.json"
+      "data/cards/late-roman/archive.json",
+      "data/cards/late-religions/story.json",
+      "data/cards/late-religions/archive.json"
     ],
     "relations": "data/core/relations.json",
     "pools": [
@@ -100,7 +102,8 @@
       "data/campaigns/han/pools.json",
       "data/campaigns/steppe-silk/pools.json",
       "data/campaigns/hellenistic-roman-world/pools.json",
-      "data/campaigns/late-roman/pools.json"
+      "data/campaigns/late-roman/pools.json",
+      "data/campaigns/late-religions/pools.json"
     ],
     "quizzes": [
       "data/quizzes/rome/chapter_01.json",
@@ -146,7 +149,8 @@
       "data/quizzes/han/campaign.json",
       "data/quizzes/steppe-silk/campaign.json",
       "data/quizzes/hellenistic-roman-world/campaign.json",
-      "data/quizzes/late-roman/campaign.json"
+      "data/quizzes/late-roman/campaign.json",
+      "data/quizzes/late-religions/campaign.json"
     ],
     "stories": [
       "data/stories/rome/personal.json",
@@ -179,7 +183,8 @@
       "data/stories/han/personal.json",
       "data/stories/steppe-silk/personal.json",
       "data/stories/hellenistic-roman-world/personal.json",
-      "data/stories/late-roman/personal.json"
+      "data/stories/late-roman/personal.json",
+      "data/stories/late-religions/personal.json"
     ],
     "mastery": "data/core/mastery.json",
     "packs": "data/core/packs.json",
@@ -216,7 +221,8 @@
       "HAN": "data/maps/han.json",
       "STEPPE_SILK": "data/maps/steppe-silk.json",
       "HELLENISTIC_ROMAN_EXAM": "data/maps/hellenistic-roman-world.json",
-      "LATE_ANTIQUITY": "data/maps/late-roman.json"
+      "LATE_ANTIQUITY": "data/maps/late-roman.json",
+      "EARLY_CHRISTIANITY": "data/maps/late-religions.json"
     },
     "daily": "data/core/daily-learning.json",
     "lessons": [
@@ -263,7 +269,8 @@
       "data/lessons/han/campaign.json",
       "data/lessons/steppe-silk/campaign.json",
       "data/lessons/hellenistic-roman-world/campaign.json",
-      "data/lessons/late-roman/campaign.json"
+      "data/lessons/late-roman/campaign.json",
+      "data/lessons/late-religions/campaign.json"
     ],
     "eras": "data/world/eras.json",
     "campaignCatalog": "data/world/campaigns.json",
@@ -299,7 +306,8 @@
       "data/campaigns/han/campaign.json",
       "data/campaigns/steppe-silk/campaign.json",
       "data/campaigns/hellenistic-roman-world/campaign.json",
-      "data/campaigns/late-roman/campaign.json"
+      "data/campaigns/late-roman/campaign.json",
+      "data/campaigns/late-religions/campaign.json"
     ],
     "imageQueries": "data/image_queries.json"
   },
@@ -357,6 +365,7 @@
     "js/features/v6-6-steppe-silk.js",
     "js/features/v6-7-hellenistic-roman-world.js",
     "js/features/v6-8-late-roman.js",
+    "js/features/v6-9-late-religions.js",
     "js/features/v3-1-1-hotfix.js",
     "js/features/v3-1-3-visual-semantics.js",
     "js/core/start.js"

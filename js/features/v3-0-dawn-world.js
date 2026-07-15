@@ -1,6 +1,6 @@
-/* Codex v6.8.0 — first civilizations shared era layer */
+/* Codex v6.9.0 — first civilizations shared era layer */
 (()=>{
-  const V='6.8.0';window.CODEX_VERSION=V;V22_CAMPAIGN_CODES.DAWN_WORLD='CIVILIZATIONS';
+  const V='6.9.0';window.CODEX_VERSION=V;V22_CAMPAIGN_CODES.DAWN_WORLD='CIVILIZATIONS';
   state.eraExam=state.eraExam||{};
 
   const oldSync=syncActiveCampaignRuntime;

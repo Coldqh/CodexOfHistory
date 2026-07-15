@@ -1,0 +1,382 @@
+{
+  "points": {
+    "JERUSALEM": [
+      31.778,
+      35.235
+    ],
+    "GALILEE": [
+      32.8,
+      35.5
+    ],
+    "CAESAREA": [
+      32.5,
+      34.9
+    ],
+    "QUMRAN": [
+      31.742,
+      35.459
+    ],
+    "MASADA": [
+      31.315,
+      35.353
+    ],
+    "YAVNE": [
+      31.878,
+      34.739
+    ],
+    "TIBERIAS": [
+      32.795,
+      35.531
+    ],
+    "BETH_SHEARIM": [
+      32.703,
+      35.128
+    ],
+    "BABYLONIA": [
+      32.54,
+      44.42
+    ],
+    "ANTIOCH": [
+      36.202,
+      36.161
+    ],
+    "DAMASCUS": [
+      33.513,
+      36.292
+    ],
+    "TARSUS": [
+      36.917,
+      34.893
+    ],
+    "EPHESUS": [
+      37.941,
+      27.342
+    ],
+    "CORINTH": [
+      37.906,
+      22.88
+    ],
+    "THESSALONICA": [
+      40.64,
+      22.944
+    ],
+    "ROME": [
+      41.893,
+      12.483
+    ],
+    "CARTHAGE": [
+      36.852,
+      10.323
+    ],
+    "ALEXANDRIA": [
+      31.2,
+      29.918
+    ],
+    "EDESSA": [
+      37.159,
+      38.796
+    ],
+    "NISIBIS": [
+      37.07,
+      41.22
+    ],
+    "DURA": [
+      34.747,
+      40.729
+    ],
+    "NAG_HAMMADI": [
+      26.057,
+      32.242
+    ],
+    "OXyrhynchus": [
+      28.532,
+      30.657
+    ],
+    "SINAI": [
+      28.556,
+      33.976
+    ],
+    "NITRIA": [
+      30.842,
+      30.316
+    ],
+    "TABENNESI": [
+      26.04,
+      32.15
+    ],
+    "CAPPADOCIA": [
+      38.65,
+      34.85
+    ],
+    "MILAN": [
+      45.464,
+      9.19
+    ],
+    "NICOMEDIA": [
+      40.766,
+      29.916
+    ],
+    "NICAEA": [
+      40.429,
+      29.719
+    ],
+    "CONSTANTINOPLE": [
+      41.008,
+      28.978
+    ],
+    "RAVENNA": [
+      44.418,
+      12.204
+    ],
+    "SARDIS": [
+      38.488,
+      28.04
+    ],
+    "BETH_ALPHA": [
+      32.518,
+      35.429
+    ],
+    "ARMENIA": [
+      40.18,
+      44.51
+    ],
+    "CTESIPHON": [
+      33.093,
+      44.581
+    ],
+    "RELIGIOUS_WORLD": [
+      35.5,
+      28.0
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "ECR_S_01_01": "CAESAREA",
+    "ECR_S_01_02": "JERUSALEM",
+    "ECR_S_01_03": "JERUSALEM",
+    "ECR_S_01_04": "JERUSALEM",
+    "ECR_S_01_05": "QUMRAN",
+    "ECR_S_01_06": "RELIGIOUS_WORLD",
+    "ECR_S_01_07": "JERUSALEM",
+    "ECR_S_01_08": "JERUSALEM",
+    "ECR_A_01_01": "QUMRAN",
+    "ECR_A_01_02": "ROME",
+    "ECR_A_01_03": "JERUSALEM",
+    "ECR_A_01_04": "JERUSALEM",
+    "ECR_S_02_01": "GALILEE",
+    "ECR_S_02_02": "JERUSALEM",
+    "ECR_S_02_03": "GALILEE",
+    "ECR_S_02_04": "GALILEE",
+    "ECR_S_02_05": "JERUSALEM",
+    "ECR_S_02_06": "JERUSALEM",
+    "ECR_S_02_07": "JERUSALEM",
+    "ECR_S_02_08": "RELIGIOUS_WORLD",
+    "ECR_A_02_01": "ROME",
+    "ECR_A_02_02": "ROME",
+    "ECR_A_02_03": "OXyrhynchus",
+    "ECR_A_02_04": "GALILEE",
+    "ECR_S_03_01": "JERUSALEM",
+    "ECR_S_03_02": "JERUSALEM",
+    "ECR_S_03_03": "JERUSALEM",
+    "ECR_S_03_04": "DAMASCUS",
+    "ECR_S_03_05": "ANTIOCH",
+    "ECR_S_03_06": "CORINTH",
+    "ECR_S_03_07": "JERUSALEM",
+    "ECR_S_03_08": "RELIGIOUS_WORLD",
+    "ECR_A_03_01": "THESSALONICA",
+    "ECR_A_03_02": "ROME",
+    "ECR_A_03_03": "ANTIOCH",
+    "ECR_A_03_04": "EPHESUS",
+    "ECR_S_04_01": "RELIGIOUS_WORLD",
+    "ECR_S_04_02": "RELIGIOUS_WORLD",
+    "ECR_S_04_03": "DURA",
+    "ECR_S_04_04": "ANTIOCH",
+    "ECR_S_04_05": "ANTIOCH",
+    "ECR_S_04_06": "ANTIOCH",
+    "ECR_S_04_07": "ROME",
+    "ECR_S_04_08": "ALEXANDRIA",
+    "ECR_A_04_01": "OXyrhynchus",
+    "ECR_A_04_02": "SINAI",
+    "ECR_A_04_03": "NAG_HAMMADI",
+    "ECR_A_04_04": "ROME",
+    "ECR_S_05_01": "RELIGIOUS_WORLD",
+    "ECR_S_05_02": "ROME",
+    "ECR_S_05_03": "RELIGIOUS_WORLD",
+    "ECR_S_05_04": "CARTHAGE",
+    "ECR_S_05_05": "ALEXANDRIA",
+    "ECR_S_05_06": "ROME",
+    "ECR_S_05_07": "NICOMEDIA",
+    "ECR_S_05_08": "RELIGIOUS_WORLD",
+    "ECR_A_05_01": "RELIGIOUS_WORLD",
+    "ECR_A_05_02": "CARTHAGE",
+    "ECR_A_05_03": "ALEXANDRIA",
+    "ECR_A_05_04": "RELIGIOUS_WORLD",
+    "ECR_S_06_01": "YAVNE",
+    "ECR_S_06_02": "YAVNE",
+    "ECR_S_06_03": "JERUSALEM",
+    "ECR_S_06_04": "TIBERIAS",
+    "ECR_S_06_05": "TIBERIAS",
+    "ECR_S_06_06": "BETH_SHEARIM",
+    "ECR_S_06_07": "BABYLONIA",
+    "ECR_S_06_08": "SARDIS",
+    "ECR_A_06_01": "DURA",
+    "ECR_A_06_02": "BETH_ALPHA",
+    "ECR_A_06_03": "BETH_SHEARIM",
+    "ECR_A_06_04": "YAVNE",
+    "ECR_S_07_01": "MILAN",
+    "ECR_S_07_02": "RELIGIOUS_WORLD",
+    "ECR_S_07_03": "ROME",
+    "ECR_S_07_04": "ROME",
+    "ECR_S_07_05": "ROME",
+    "ECR_S_07_06": "RELIGIOUS_WORLD",
+    "ECR_S_07_07": "CARTHAGE",
+    "ECR_S_07_08": "RELIGIOUS_WORLD",
+    "ECR_A_07_01": "NICOMEDIA",
+    "ECR_A_07_02": "CAESAREA",
+    "ECR_A_07_03": "ROME",
+    "ECR_A_07_04": "CONSTANTINOPLE",
+    "ECR_S_08_01": "ALEXANDRIA",
+    "ECR_S_08_02": "ALEXANDRIA",
+    "ECR_S_08_03": "NICAEA",
+    "ECR_S_08_04": "NICAEA",
+    "ECR_S_08_05": "ALEXANDRIA",
+    "ECR_S_08_06": "CONSTANTINOPLE",
+    "ECR_S_08_07": "CAPPADOCIA",
+    "ECR_S_08_08": "CONSTANTINOPLE",
+    "ECR_A_08_01": "NICAEA",
+    "ECR_A_08_02": "CAESAREA",
+    "ECR_A_08_03": "ALEXANDRIA",
+    "ECR_A_08_04": "CONSTANTINOPLE",
+    "ECR_S_09_01": "NITRIA",
+    "ECR_S_09_02": "TABENNESI",
+    "ECR_S_09_03": "NITRIA",
+    "ECR_S_09_04": "CAPPADOCIA",
+    "ECR_S_09_05": "RELIGIOUS_WORLD",
+    "ECR_S_09_06": "JERUSALEM",
+    "ECR_S_09_07": "JERUSALEM",
+    "ECR_S_09_08": "SINAI",
+    "ECR_A_09_01": "ALEXANDRIA",
+    "ECR_A_09_02": "TABENNESI",
+    "ECR_A_09_03": "JERUSALEM",
+    "ECR_A_09_04": "SINAI",
+    "ECR_S_10_01": "CTESIPHON",
+    "ECR_S_10_02": "RELIGIOUS_WORLD",
+    "ECR_S_10_03": "RELIGIOUS_WORLD",
+    "ECR_S_10_04": "EDESSA",
+    "ECR_S_10_05": "ROME",
+    "ECR_S_10_06": "SARDIS",
+    "ECR_S_10_07": "ROME",
+    "ECR_S_10_08": "ALEXANDRIA",
+    "ECR_A_10_01": "RELIGIOUS_WORLD",
+    "ECR_A_10_02": "NAG_HAMMADI",
+    "ECR_A_10_03": "DURA",
+    "ECR_A_10_04": "CONSTANTINOPLE",
+    "ECR_S_11_01": "CONSTANTINOPLE",
+    "ECR_S_11_02": "ALEXANDRIA",
+    "ECR_S_11_03": "EPHESUS",
+    "ECR_S_11_04": "ANTIOCH",
+    "ECR_S_11_05": "ROME",
+    "ECR_S_11_06": "CONSTANTINOPLE",
+    "ECR_S_11_07": "ARMENIA",
+    "ECR_S_11_08": "CTESIPHON",
+    "ECR_A_11_01": "EPHESUS",
+    "ECR_A_11_02": "ROME",
+    "ECR_A_11_03": "CONSTANTINOPLE",
+    "ECR_A_11_04": "RELIGIOUS_WORLD"
+  },
+  "chapters": {
+    "ECR_CHAPTER_01": {
+      "title": "Иудея, Храм и религиозное многообразие",
+      "center": [
+        31.778,
+        35.235
+      ],
+      "zoom": 6
+    },
+    "ECR_CHAPTER_02": {
+      "title": "Иисус и рождение движения",
+      "center": [
+        32.8,
+        35.5
+      ],
+      "zoom": 6
+    },
+    "ECR_CHAPTER_03": {
+      "title": "Апостолы, Павел и городские сети",
+      "center": [
+        31.778,
+        35.235
+      ],
+      "zoom": 6
+    },
+    "ECR_CHAPTER_04": {
+      "title": "Общины, ритуалы и формирование канона",
+      "center": [
+        36.202,
+        36.161
+      ],
+      "zoom": 6
+    },
+    "ECR_CHAPTER_05": {
+      "title": "Епископы, мученики и Римское государство",
+      "center": [
+        41.893,
+        12.483
+      ],
+      "zoom": 6
+    },
+    "ECR_CHAPTER_06": {
+      "title": "Иудаизм после разрушения Храма",
+      "center": [
+        31.878,
+        34.739
+      ],
+      "zoom": 6
+    },
+    "ECR_CHAPTER_07": {
+      "title": "Константин и новый юридический порядок",
+      "center": [
+        41.893,
+        12.483
+      ],
+      "zoom": 6
+    },
+    "ECR_CHAPTER_08": {
+      "title": "Никея, арианский спор и императорские соборы",
+      "center": [
+        31.2,
+        29.918
+      ],
+      "zoom": 6
+    },
+    "ECR_CHAPTER_09": {
+      "title": "Монашество, святые и паломничества",
+      "center": [
+        30.842,
+        30.316
+      ],
+      "zoom": 6
+    },
+    "ECR_CHAPTER_10": {
+      "title": "Манихейство и поздние традиционные культы",
+      "center": [
+        33.093,
+        44.581
+      ],
+      "zoom": 6
+    },
+    "ECR_CHAPTER_11": {
+      "title": "Эфес, Халкидон и разные христианские Востоки",
+      "center": [
+        41.008,
+        28.978
+      ],
+      "zoom": 6
+    }
+  },
+  "missionCenter": [
+    35.5,
+    28.0
+  ],
+  "missionZoom": 4
+}

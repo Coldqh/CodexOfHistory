@@ -1,0 +1,5194 @@
+[
+  {
+    "id": "ECR_S_01_01",
+    "type": "POLITICAL",
+    "title": "Римская Иудея как пограничная провинция",
+    "original": "Roman Judaea as a frontier province",
+    "subtitle": "провинция с римскими наместниками, местными элитами и сильной храмовой традицией",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "I век",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Римская Иудея как пограничная провинция — провинция с римскими наместниками, местными элитами и сильной храмовой традицией.",
+    "importance": "Карточка раскрывает главу «Иудея, Храм и религиозное многообразие» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: I век.",
+      "Основной смысл: провинция с римскими наместниками, местными элитами и сильной храмовой традицией.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иудея, Храм и религиозное многообразие",
+      "political"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 4,
+      "culture": 9,
+      "politics": 8,
+      "religion": 10,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кесария Приморская",
+      "lat": 32.5,
+      "lon": 34.9
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-01/ecr_s_01_01.svg",
+      "caption": "Локальная учебная обложка: Римская Иудея как пограничная провинция",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Judaism/The-Roman-period-63-bce-135-ce",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_01_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Judaism — The Roman period",
+      "url": "https://www.britannica.com/topic/Judaism/The-Roman-period-63-bce-135-ce",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_01"
+  },
+  {
+    "id": "ECR_S_01_02",
+    "type": "INSTITUTION",
+    "title": "Иерусалимский Храм как институт",
+    "original": "Jerusalem Temple as an institution",
+    "subtitle": "святилище, центр паломничества, жертвоприношений, хранения богатств и политических конфликтов",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "I век",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Иерусалимский Храм как институт — святилище, центр паломничества, жертвоприношений, хранения богатств и политических конфликтов.",
+    "importance": "Карточка раскрывает главу «Иудея, Храм и религиозное многообразие» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: I век.",
+      "Основной смысл: святилище, центр паломничества, жертвоприношений, хранения богатств и политических конфликтов.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иудея, Храм и религиозное многообразие",
+      "institution"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 7,
+      "politics": 9,
+      "religion": 8,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-01/ecr_s_01_02.svg",
+      "caption": "Локальная учебная обложка: Иерусалимский Храм как институт",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Judaism/The-Roman-period-63-bce-135-ce",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_01_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Judaism — The Roman period",
+      "url": "https://www.britannica.com/topic/Judaism/The-Roman-period-63-bce-135-ce",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_01"
+  },
+  {
+    "id": "ECR_S_01_03",
+    "type": "RELIGION",
+    "title": "Фарисеи и толкование закона",
+    "original": "Pharisees and interpretation of law",
+    "subtitle": "движение, связанное с практиками закона вне храмового жречества",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "I век",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Фарисеи и толкование закона — движение, связанное с практиками закона вне храмового жречества.",
+    "importance": "Карточка раскрывает главу «Иудея, Храм и религиозное многообразие» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: I век.",
+      "Основной смысл: движение, связанное с практиками закона вне храмового жречества.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иудея, Храм и религиозное многообразие",
+      "religion"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 6,
+      "culture": 8,
+      "politics": 5,
+      "religion": 9,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-01/ecr_s_01_03.svg",
+      "caption": "Локальная учебная обложка: Фарисеи и толкование закона",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Judaism/The-Roman-period-63-bce-135-ce",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_01_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Judaism — The Roman period",
+      "url": "https://www.britannica.com/topic/Judaism/The-Roman-period-63-bce-135-ce",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_01"
+  },
+  {
+    "id": "ECR_S_01_04",
+    "type": "RELIGION",
+    "title": "Саддукеи и храмовая аристократия",
+    "original": "Sadducees and the Temple aristocracy",
+    "subtitle": "группа, тесно связанная с первосвященническими и знатными кругами",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "I век",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Саддукеи и храмовая аристократия — группа, тесно связанная с первосвященническими и знатными кругами.",
+    "importance": "Карточка раскрывает главу «Иудея, Храм и религиозное многообразие» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: I век.",
+      "Основной смысл: группа, тесно связанная с первосвященническими и знатными кругами.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иудея, Храм и религиозное многообразие",
+      "religion"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 2,
+      "culture": 9,
+      "politics": 6,
+      "religion": 10,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-01/ecr_s_01_04.svg",
+      "caption": "Локальная учебная обложка: Саддукеи и храмовая аристократия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Judaism/The-Roman-period-63-bce-135-ce",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_01_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Judaism — The Roman period",
+      "url": "https://www.britannica.com/topic/Judaism/The-Roman-period-63-bce-135-ce",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_01"
+  },
+  {
+    "id": "ECR_S_01_05",
+    "type": "TEXT",
+    "title": "Кумранские общинные тексты",
+    "original": "Qumran community texts",
+    "subtitle": "рукописи, отражающие особую общинную дисциплину и ожидание конца времён",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "II век до н. э. – I век н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Кумранские общинные тексты — рукописи, отражающие особую общинную дисциплину и ожидание конца времён.",
+    "importance": "Карточка раскрывает главу «Иудея, Храм и религиозное многообразие» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: II век до н. э. – I век н. э..",
+      "Основной смысл: рукописи, отражающие особую общинную дисциплину и ожидание конца времён.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иудея, Храм и религиозное многообразие",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 3,
+      "culture": 7,
+      "politics": 7,
+      "religion": 8,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кумран",
+      "lat": 31.742,
+      "lon": 35.459
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-01/ecr_s_01_05.svg",
+      "caption": "Локальная учебная обложка: Кумранские общинные тексты",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Judaism/The-Roman-period-63-bce-135-ce",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_01_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Judaism — The Roman period",
+      "url": "https://www.britannica.com/topic/Judaism/The-Roman-period-63-bce-135-ce",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_01"
+  },
+  {
+    "id": "ECR_S_01_06",
+    "type": "INSTITUTION",
+    "title": "Синагоги и диаспорные общины",
+    "original": "Synagogues and diaspora communities",
+    "subtitle": "места собрания, чтения, обучения и общинной организации далеко от Иерусалима",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "I век",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Синагоги и диаспорные общины — места собрания, чтения, обучения и общинной организации далеко от Иерусалима.",
+    "importance": "Карточка раскрывает главу «Иудея, Храм и религиозное многообразие» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: I век.",
+      "Основной смысл: места собрания, чтения, обучения и общинной организации далеко от Иерусалима.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иудея, Храм и религиозное многообразие",
+      "institution"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 4,
+      "culture": 8,
+      "politics": 8,
+      "religion": 9,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Средиземноморье и Передняя Азия",
+      "lat": 35.5,
+      "lon": 28.0
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-01/ecr_s_01_06.svg",
+      "caption": "Локальная учебная обложка: Синагоги и диаспорные общины",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Judaism/The-Roman-period-63-bce-135-ce",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_01_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Judaism — The Roman period",
+      "url": "https://www.britannica.com/topic/Judaism/The-Roman-period-63-bce-135-ce",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_01"
+  },
+  {
+    "id": "ECR_S_01_07",
+    "type": "WAR",
+    "title": "Иудейская война 66–73 годов",
+    "original": "First Jewish Revolt",
+    "subtitle": "восстание против Рима, завершившееся падением Иерусалима и крепостей",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "66–73 годы",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Иудейская война 66–73 годов — восстание против Рима, завершившееся падением Иерусалима и крепостей.",
+    "importance": "Карточка раскрывает главу «Иудея, Храм и религиозное многообразие» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 66–73 годы.",
+      "Основной смысл: восстание против Рима, завершившееся падением Иерусалима и крепостей.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иудея, Храм и религиозное многообразие",
+      "war"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 9,
+      "politics": 9,
+      "religion": 10,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-01/ecr_s_01_07.svg",
+      "caption": "Локальная учебная обложка: Иудейская война 66–73 годов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Judaism/The-Roman-period-63-bce-135-ce",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_01_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Judaism — The Roman period",
+      "url": "https://www.britannica.com/topic/Judaism/The-Roman-period-63-bce-135-ce",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_01"
+  },
+  {
+    "id": "ECR_S_01_08",
+    "type": "EVENT",
+    "title": "Разрушение Второго Храма",
+    "original": "Destruction of the Second Temple",
+    "subtitle": "разрушение святилища войсками Тита и перелом в истории иудаизма",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "70 год",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Разрушение Второго Храма — разрушение святилища войсками Тита и перелом в истории иудаизма.",
+    "importance": "Карточка раскрывает главу «Иудея, Храм и религиозное многообразие» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 70 год.",
+      "Основной смысл: разрушение святилища войсками Тита и перелом в истории иудаизма.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иудея, Храм и религиозное многообразие",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 6,
+      "culture": 7,
+      "politics": 5,
+      "religion": 8,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-01/ecr_s_01_08.svg",
+      "caption": "Локальная учебная обложка: Разрушение Второго Храма",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Judaism/The-Roman-period-63-bce-135-ce",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_01_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Judaism — The Roman period",
+      "url": "https://www.britannica.com/topic/Judaism/The-Roman-period-63-bce-135-ce",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_01"
+  },
+  {
+    "id": "ECR_S_02_01",
+    "type": "PERSON",
+    "title": "Иисус из Назарета в галилейском контексте",
+    "original": "Jesus of Nazareth in Galilean context",
+    "subtitle": "иудейский проповедник, чья деятельность связана с Галилеей и Иерусалимом",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "I век",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Иисус из Назарета в галилейском контексте — иудейский проповедник, чья деятельность связана с Галилеей и Иерусалимом.",
+    "importance": "Карточка раскрывает главу «Иисус и рождение движения» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: I век.",
+      "Основной смысл: иудейский проповедник, чья деятельность связана с Галилеей и Иерусалимом.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иисус и рождение движения",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 5,
+      "culture": 7,
+      "politics": 5,
+      "religion": 8,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Галилея",
+      "lat": 32.8,
+      "lon": 35.5
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-02/ecr_s_02_01.svg",
+      "caption": "Локальная учебная обложка: Иисус из Назарета в галилейском контексте",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Jesus",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_02_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Jesus",
+      "url": "https://www.britannica.com/biography/Jesus",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_02"
+  },
+  {
+    "id": "ECR_S_02_02",
+    "type": "PERSON",
+    "title": "Иоанн Креститель и движение покаяния",
+    "original": "John the Baptist and repentance movement",
+    "subtitle": "проповедник крещения, с которым ранняя традиция связывает начало деятельности Иисуса",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "I век",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Иоанн Креститель и движение покаяния — проповедник крещения, с которым ранняя традиция связывает начало деятельности Иисуса.",
+    "importance": "Карточка раскрывает главу «Иисус и рождение движения» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: I век.",
+      "Основной смысл: проповедник крещения, с которым ранняя традиция связывает начало деятельности Иисуса.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иисус и рождение движения",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 8,
+      "politics": 6,
+      "religion": 9,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-02/ecr_s_02_02.svg",
+      "caption": "Локальная учебная обложка: Иоанн Креститель и движение покаяния",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Jesus",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_02_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Jesus",
+      "url": "https://www.britannica.com/biography/Jesus",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_02"
+  },
+  {
+    "id": "ECR_S_02_03",
+    "type": "CONCEPT",
+    "title": "Проповедь Царства Божия",
+    "original": "Proclamation of the Kingdom of God",
+    "subtitle": "центральная тема речений и притч в ранних традициях",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "I век",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Проповедь Царства Божия — центральная тема речений и притч в ранних традициях.",
+    "importance": "Карточка раскрывает главу «Иисус и рождение движения» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: I век.",
+      "Основной смысл: центральная тема речений и притч в ранних традициях.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иисус и рождение движения",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 2,
+      "culture": 9,
+      "politics": 7,
+      "religion": 10,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Галилея",
+      "lat": 32.8,
+      "lon": 35.5
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-02/ecr_s_02_03.svg",
+      "caption": "Локальная учебная обложка: Проповедь Царства Божия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Jesus",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_02_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Jesus",
+      "url": "https://www.britannica.com/biography/Jesus",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_02"
+  },
+  {
+    "id": "ECR_S_02_04",
+    "type": "SOCIAL",
+    "title": "Ученики и странствующее движение",
+    "original": "Disciples and itinerant movement",
+    "subtitle": "круг последователей, передававших учение и память о событиях",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "I век",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Ученики и странствующее движение — круг последователей, передававших учение и память о событиях.",
+    "importance": "Карточка раскрывает главу «Иисус и рождение движения» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: I век.",
+      "Основной смысл: круг последователей, передававших учение и память о событиях.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иисус и рождение движения",
+      "social"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 3,
+      "culture": 7,
+      "politics": 8,
+      "religion": 8,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Галилея",
+      "lat": 32.8,
+      "lon": 35.5
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-02/ecr_s_02_04.svg",
+      "caption": "Локальная учебная обложка: Ученики и странствующее движение",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Jesus",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_02_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Jesus",
+      "url": "https://www.britannica.com/biography/Jesus",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_02"
+  },
+  {
+    "id": "ECR_S_02_05",
+    "type": "EVENT",
+    "title": "Вход в Иерусалим и конфликт у Храма",
+    "original": "Entry into Jerusalem and Temple conflict",
+    "subtitle": "эпизоды последней недели, связанные с праздником и храмовым пространством",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "ок. 30 года",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Вход в Иерусалим и конфликт у Храма — эпизоды последней недели, связанные с праздником и храмовым пространством.",
+    "importance": "Карточка раскрывает главу «Иисус и рождение движения» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: ок. 30 года.",
+      "Основной смысл: эпизоды последней недели, связанные с праздником и храмовым пространством.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иисус и рождение движения",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 4,
+      "culture": 8,
+      "politics": 9,
+      "religion": 9,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-02/ecr_s_02_05.svg",
+      "caption": "Локальная учебная обложка: Вход в Иерусалим и конфликт у Храма",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Jesus",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_02_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Jesus",
+      "url": "https://www.britannica.com/biography/Jesus",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_02"
+  },
+  {
+    "id": "ECR_S_02_06",
+    "type": "EVENT",
+    "title": "Распятие при Понтии Пилате",
+    "original": "Crucifixion under Pontius Pilate",
+    "subtitle": "римская казнь, ставшая центральным событием памяти движения",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "ок. 30 года",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Распятие при Понтии Пилате — римская казнь, ставшая центральным событием памяти движения.",
+    "importance": "Карточка раскрывает главу «Иисус и рождение движения» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: ок. 30 года.",
+      "Основной смысл: римская казнь, ставшая центральным событием памяти движения.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иисус и рождение движения",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 5,
+      "culture": 9,
+      "politics": 5,
+      "religion": 10,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-02/ecr_s_02_06.svg",
+      "caption": "Локальная учебная обложка: Распятие при Понтии Пилате",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Jesus",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_02_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Jesus",
+      "url": "https://www.britannica.com/biography/Jesus",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_02"
+  },
+  {
+    "id": "ECR_S_02_07",
+    "type": "RELIGION",
+    "title": "Вера учеников в воскресение",
+    "original": "Disciples belief in resurrection",
+    "subtitle": "убеждение последователей, что казнённый учитель жив и возвышен Богом",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "30-е годы",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Вера учеников в воскресение — убеждение последователей, что казнённый учитель жив и возвышен Богом.",
+    "importance": "Карточка раскрывает главу «Иисус и рождение движения» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 30-е годы.",
+      "Основной смысл: убеждение последователей, что казнённый учитель жив и возвышен Богом.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иисус и рождение движения",
+      "religion"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 6,
+      "culture": 7,
+      "politics": 6,
+      "religion": 8,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-02/ecr_s_02_07.svg",
+      "caption": "Локальная учебная обложка: Вера учеников в воскресение",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Jesus",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_02_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Jesus",
+      "url": "https://www.britannica.com/biography/Jesus",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_02"
+  },
+  {
+    "id": "ECR_S_02_08",
+    "type": "CONCEPT",
+    "title": "Устная традиция и память общин",
+    "original": "Oral tradition and community memory",
+    "subtitle": "передача речений и рассказов до и параллельно письменным евангелиям",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "I век",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Устная традиция и память общин — передача речений и рассказов до и параллельно письменным евангелиям.",
+    "importance": "Карточка раскрывает главу «Иисус и рождение движения» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: I век.",
+      "Основной смысл: передача речений и рассказов до и параллельно письменным евангелиям.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иисус и рождение движения",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 2,
+      "culture": 8,
+      "politics": 7,
+      "religion": 9,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Средиземноморье и Передняя Азия",
+      "lat": 35.5,
+      "lon": 28.0
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-02/ecr_s_02_08.svg",
+      "caption": "Локальная учебная обложка: Устная традиция и память общин",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Jesus",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_02_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Jesus",
+      "url": "https://www.britannica.com/biography/Jesus",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_02"
+  },
+  {
+    "id": "ECR_S_03_01",
+    "type": "INSTITUTION",
+    "title": "Иерусалимская община первых учеников",
+    "original": "Jerusalem community of the first disciples",
+    "subtitle": "ранний центр движения с общими трапезами, молитвой и руководителями",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "30-е годы",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Иерусалимская община первых учеников — ранний центр движения с общими трапезами, молитвой и руководителями.",
+    "importance": "Карточка раскрывает главу «Апостолы, Павел и городские сети» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 30-е годы.",
+      "Основной смысл: ранний центр движения с общими трапезами, молитвой и руководителями.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Апостолы, Павел и городские сети",
+      "institution"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 8,
+      "politics": 7,
+      "religion": 9,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-03/ecr_s_03_01.svg",
+      "caption": "Локальная учебная обложка: Иерусалимская община первых учеников",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Saint-Paul-the-Apostle",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_03_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Saint Paul the Apostle",
+      "url": "https://www.britannica.com/biography/Saint-Paul-the-Apostle",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_03"
+  },
+  {
+    "id": "ECR_S_03_02",
+    "type": "PERSON",
+    "title": "Пётр в ранних традициях",
+    "original": "Peter in early traditions",
+    "subtitle": "апостол, связанный с Иерусалимом, Антиохией и поздней римской памятью",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "I век",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Пётр в ранних традициях — апостол, связанный с Иерусалимом, Антиохией и поздней римской памятью.",
+    "importance": "Карточка раскрывает главу «Апостолы, Павел и городские сети» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: I век.",
+      "Основной смысл: апостол, связанный с Иерусалимом, Антиохией и поздней римской памятью.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Апостолы, Павел и городские сети",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 2,
+      "culture": 9,
+      "politics": 8,
+      "religion": 10,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-03/ecr_s_03_02.svg",
+      "caption": "Локальная учебная обложка: Пётр в ранних традициях",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Saint-Paul-the-Apostle",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_03_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Saint Paul the Apostle",
+      "url": "https://www.britannica.com/biography/Saint-Paul-the-Apostle",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_03"
+  },
+  {
+    "id": "ECR_S_03_03",
+    "type": "EVENT",
+    "title": "Эллинисты и конфликт вокруг Стефана",
+    "original": "Hellenists and the conflict around Stephen",
+    "subtitle": "внутренне разнообразная группа грекоязычных иудеев в ранней общине",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "30-е годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Эллинисты и конфликт вокруг Стефана — внутренне разнообразная группа грекоязычных иудеев в ранней общине.",
+    "importance": "Карточка раскрывает главу «Апостолы, Павел и городские сети» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 30-е годы.",
+      "Основной смысл: внутренне разнообразная группа грекоязычных иудеев в ранней общине.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Апостолы, Павел и городские сети",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 3,
+      "culture": 7,
+      "politics": 9,
+      "religion": 8,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-03/ecr_s_03_03.svg",
+      "caption": "Локальная учебная обложка: Эллинисты и конфликт вокруг Стефана",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Saint-Paul-the-Apostle",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_03_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Saint Paul the Apostle",
+      "url": "https://www.britannica.com/biography/Saint-Paul-the-Apostle",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_03"
+  },
+  {
+    "id": "ECR_S_03_04",
+    "type": "PERSON",
+    "title": "Павел и призвание к миссии",
+    "original": "Paul and the call to mission",
+    "subtitle": "бывший преследователь движения, ставший проповедником среди неиудеев",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "I век",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Павел и призвание к миссии — бывший преследователь движения, ставший проповедником среди неиудеев.",
+    "importance": "Карточка раскрывает главу «Апостолы, Павел и городские сети» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: I век.",
+      "Основной смысл: бывший преследователь движения, ставший проповедником среди неиудеев.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Апостолы, Павел и городские сети",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 4,
+      "culture": 8,
+      "politics": 5,
+      "religion": 9,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Дамаск",
+      "lat": 33.513,
+      "lon": 36.292
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-03/ecr_s_03_04.svg",
+      "caption": "Локальная учебная обложка: Павел и призвание к миссии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Saint-Paul-the-Apostle",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_03_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Saint Paul the Apostle",
+      "url": "https://www.britannica.com/biography/Saint-Paul-the-Apostle",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_03"
+  },
+  {
+    "id": "ECR_S_03_05",
+    "type": "INSTITUTION",
+    "title": "Антиохийская община",
+    "original": "Community of Antioch",
+    "subtitle": "многоязычный городской центр и отправная точка миссионерских маршрутов",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "I век",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Антиохийская община — многоязычный городской центр и отправная точка миссионерских маршрутов.",
+    "importance": "Карточка раскрывает главу «Апостолы, Павел и городские сети» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: I век.",
+      "Основной смысл: многоязычный городской центр и отправная точка миссионерских маршрутов.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Апостолы, Павел и городские сети",
+      "institution"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 5,
+      "culture": 9,
+      "politics": 6,
+      "religion": 10,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Антиохия",
+      "lat": 36.202,
+      "lon": 36.161
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-03/ecr_s_03_05.svg",
+      "caption": "Локальная учебная обложка: Антиохийская община",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Saint-Paul-the-Apostle",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_03_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Saint Paul the Apostle",
+      "url": "https://www.britannica.com/biography/Saint-Paul-the-Apostle",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_03"
+  },
+  {
+    "id": "ECR_S_03_06",
+    "type": "TEXT",
+    "title": "Павловы письма как живая переписка",
+    "original": "Pauline letters as active correspondence",
+    "subtitle": "ответы на конфликты, ритуалы, деньги, власть и ожидание конца",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "50-е годы",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Павловы письма как живая переписка — ответы на конфликты, ритуалы, деньги, власть и ожидание конца.",
+    "importance": "Карточка раскрывает главу «Апостолы, Павел и городские сети» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 50-е годы.",
+      "Основной смысл: ответы на конфликты, ритуалы, деньги, власть и ожидание конца.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Апостолы, Павел и городские сети",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 7,
+      "religion": 8,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Коринф",
+      "lat": 37.906,
+      "lon": 22.88
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-03/ecr_s_03_06.svg",
+      "caption": "Локальная учебная обложка: Павловы письма как живая переписка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Saint-Paul-the-Apostle",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_03_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Saint Paul the Apostle",
+      "url": "https://www.britannica.com/biography/Saint-Paul-the-Apostle",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_03"
+  },
+  {
+    "id": "ECR_S_03_07",
+    "type": "EVENT",
+    "title": "Совещание об обрезании и общей трапезе",
+    "original": "Meeting on circumcision and common table",
+    "subtitle": "спор о правилах включения неиудеев в движение",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "ок. 49 года",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Совещание об обрезании и общей трапезе — спор о правилах включения неиудеев в движение.",
+    "importance": "Карточка раскрывает главу «Апостолы, Павел и городские сети» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: ок. 49 года.",
+      "Основной смысл: спор о правилах включения неиудеев в движение.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Апостолы, Павел и городские сети",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 2,
+      "culture": 8,
+      "politics": 8,
+      "religion": 9,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-03/ecr_s_03_07.svg",
+      "caption": "Локальная учебная обложка: Совещание об обрезании и общей трапезе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Saint-Paul-the-Apostle",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_03_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Saint Paul the Apostle",
+      "url": "https://www.britannica.com/biography/Saint-Paul-the-Apostle",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_03"
+  },
+  {
+    "id": "ECR_S_03_08",
+    "type": "SOCIAL",
+    "title": "Домашние общины Римского мира",
+    "original": "House communities of the Roman world",
+    "subtitle": "собрания в частных домах, мастерских и арендованных помещениях",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "I век",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Домашние общины Римского мира — собрания в частных домах, мастерских и арендованных помещениях.",
+    "importance": "Карточка раскрывает главу «Апостолы, Павел и городские сети» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: I век.",
+      "Основной смысл: собрания в частных домах, мастерских и арендованных помещениях.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Апостолы, Павел и городские сети",
+      "social"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 3,
+      "culture": 9,
+      "politics": 9,
+      "religion": 10,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Средиземноморье и Передняя Азия",
+      "lat": 35.5,
+      "lon": 28.0
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-03/ecr_s_03_08.svg",
+      "caption": "Локальная учебная обложка: Домашние общины Римского мира",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Saint-Paul-the-Apostle",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_03_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Saint Paul the Apostle",
+      "url": "https://www.britannica.com/biography/Saint-Paul-the-Apostle",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_03"
+  },
+  {
+    "id": "ECR_S_04_01",
+    "type": "RITUAL",
+    "title": "Крещение как обряд вступления",
+    "original": "Baptism as initiation rite",
+    "subtitle": "обряд включения, толкование которого различалось между общинами",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "I–IV века",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Крещение как обряд вступления — обряд включения, толкование которого различалось между общинами.",
+    "importance": "Карточка раскрывает главу «Общины, ритуалы и формирование канона» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: I–IV века.",
+      "Основной смысл: обряд включения, толкование которого различалось между общинами.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Общины, ритуалы и формирование канона",
+      "ritual"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 2,
+      "culture": 9,
+      "politics": 9,
+      "religion": 10,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Средиземноморье и Передняя Азия",
+      "lat": 35.5,
+      "lon": 28.0
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-04/ecr_s_04_01.svg",
+      "caption": "Локальная учебная обложка: Крещение как обряд вступления",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.codexsinaiticus.org/en/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Codex Sinaiticus Project",
+      "url": "https://www.codexsinaiticus.org/en/",
+      "type": "manuscript"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_04"
+  },
+  {
+    "id": "ECR_S_04_02",
+    "type": "RITUAL",
+    "title": "Евхаристия и общая трапеза",
+    "original": "Eucharist and common meal",
+    "subtitle": "центральное собрание памяти, благодарения и распределения пищи",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "I–IV века",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Евхаристия и общая трапеза — центральное собрание памяти, благодарения и распределения пищи.",
+    "importance": "Карточка раскрывает главу «Общины, ритуалы и формирование канона» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: I–IV века.",
+      "Основной смысл: центральное собрание памяти, благодарения и распределения пищи.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Общины, ритуалы и формирование канона",
+      "ritual"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 3,
+      "culture": 7,
+      "politics": 5,
+      "religion": 8,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Средиземноморье и Передняя Азия",
+      "lat": 35.5,
+      "lon": 28.0
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-04/ecr_s_04_02.svg",
+      "caption": "Локальная учебная обложка: Евхаристия и общая трапеза",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.codexsinaiticus.org/en/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Codex Sinaiticus Project",
+      "url": "https://www.codexsinaiticus.org/en/",
+      "type": "manuscript"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_04"
+  },
+  {
+    "id": "ECR_S_04_03",
+    "type": "INSTITUTION",
+    "title": "Дом, собрание и церковное пространство",
+    "original": "House, assembly and church space",
+    "subtitle": "переход от домашних групп к специально перестроенным и монументальным зданиям",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "I–IV века",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Дом, собрание и церковное пространство — переход от домашних групп к специально перестроенным и монументальным зданиям.",
+    "importance": "Карточка раскрывает главу «Общины, ритуалы и формирование канона» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: I–IV века.",
+      "Основной смысл: переход от домашних групп к специально перестроенным и монументальным зданиям.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Общины, ритуалы и формирование канона",
+      "institution"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 4,
+      "culture": 8,
+      "politics": 6,
+      "religion": 9,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Дура-Европос",
+      "lat": 34.747,
+      "lon": 40.729
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-04/ecr_s_04_03.svg",
+      "caption": "Локальная учебная обложка: Дом, собрание и церковное пространство",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.codexsinaiticus.org/en/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Codex Sinaiticus Project",
+      "url": "https://www.codexsinaiticus.org/en/",
+      "type": "manuscript"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_04"
+  },
+  {
+    "id": "ECR_S_04_04",
+    "type": "INSTITUTION",
+    "title": "Диаконы, пресвитеры и епископы",
+    "original": "Deacons presbyters and bishops",
+    "subtitle": "разные служения и уровни руководства, меняющиеся по времени и региону",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "I–III века",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Диаконы, пресвитеры и епископы — разные служения и уровни руководства, меняющиеся по времени и региону.",
+    "importance": "Карточка раскрывает главу «Общины, ритуалы и формирование канона» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: I–III века.",
+      "Основной смысл: разные служения и уровни руководства, меняющиеся по времени и региону.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Общины, ритуалы и формирование канона",
+      "institution"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 5,
+      "culture": 9,
+      "politics": 7,
+      "religion": 10,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Антиохия",
+      "lat": 36.202,
+      "lon": 36.161
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-04/ecr_s_04_04.svg",
+      "caption": "Локальная учебная обложка: Диаконы, пресвитеры и епископы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.codexsinaiticus.org/en/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_04_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Codex Sinaiticus Project",
+      "url": "https://www.codexsinaiticus.org/en/",
+      "type": "manuscript"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_04"
+  },
+  {
+    "id": "ECR_S_04_05",
+    "type": "TEXT",
+    "title": "«Дидахе» и ранняя дисциплина",
+    "original": "Didache and early discipline",
+    "subtitle": "наставление о ритуалах, странствующих учителях и общинном порядке",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "конец I – начало II века",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "«Дидахе» и ранняя дисциплина — наставление о ритуалах, странствующих учителях и общинном порядке.",
+    "importance": "Карточка раскрывает главу «Общины, ритуалы и формирование канона» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: конец I – начало II века.",
+      "Основной смысл: наставление о ритуалах, странствующих учителях и общинном порядке.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Общины, ритуалы и формирование канона",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 6,
+      "culture": 7,
+      "politics": 8,
+      "religion": 8,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Антиохия",
+      "lat": 36.202,
+      "lon": 36.161
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-04/ecr_s_04_05.svg",
+      "caption": "Локальная учебная обложка: «Дидахе» и ранняя дисциплина",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.codexsinaiticus.org/en/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_04_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Codex Sinaiticus Project",
+      "url": "https://www.codexsinaiticus.org/en/",
+      "type": "manuscript"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_04"
+  },
+  {
+    "id": "ECR_S_04_06",
+    "type": "PERSON",
+    "title": "Игнатий Антиохийский и один епископ",
+    "original": "Ignatius of Antioch and one bishop",
+    "subtitle": "автор писем, защищавший единство общины вокруг епископа",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "ок. 110 года",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Игнатий Антиохийский и один епископ — автор писем, защищавший единство общины вокруг епископа.",
+    "importance": "Карточка раскрывает главу «Общины, ритуалы и формирование канона» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: ок. 110 года.",
+      "Основной смысл: автор писем, защищавший единство общины вокруг епископа.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Общины, ритуалы и формирование канона",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 2,
+      "culture": 8,
+      "politics": 9,
+      "religion": 9,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Антиохия",
+      "lat": 36.202,
+      "lon": 36.161
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-04/ecr_s_04_06.svg",
+      "caption": "Локальная учебная обложка: Игнатий Антиохийский и один епископ",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.codexsinaiticus.org/en/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_04_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Codex Sinaiticus Project",
+      "url": "https://www.codexsinaiticus.org/en/",
+      "type": "manuscript"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_04"
+  },
+  {
+    "id": "ECR_S_04_07",
+    "type": "PERSON",
+    "title": "Маркион и спор о Писании",
+    "original": "Marcion and the debate over scripture",
+    "subtitle": "учитель, предложивший сокращённый корпус евангелия и павловых писем",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "II век",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Маркион и спор о Писании — учитель, предложивший сокращённый корпус евангелия и павловых писем.",
+    "importance": "Карточка раскрывает главу «Общины, ритуалы и формирование канона» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: II век.",
+      "Основной смысл: учитель, предложивший сокращённый корпус евангелия и павловых писем.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Общины, ритуалы и формирование канона",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 3,
+      "culture": 9,
+      "politics": 5,
+      "religion": 10,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.483
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-04/ecr_s_04_07.svg",
+      "caption": "Локальная учебная обложка: Маркион и спор о Писании",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.codexsinaiticus.org/en/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_04_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Codex Sinaiticus Project",
+      "url": "https://www.codexsinaiticus.org/en/",
+      "type": "manuscript"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_04"
+  },
+  {
+    "id": "ECR_S_04_08",
+    "type": "TECHNOLOGY",
+    "title": "Кодекс как христианская книжная технология",
+    "original": "Codex as Christian book technology",
+    "subtitle": "формат с листами и переплётом, удобный для собраний разных текстов",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "II–IV века",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Кодекс как христианская книжная технология — формат с листами и переплётом, удобный для собраний разных текстов.",
+    "importance": "Карточка раскрывает главу «Общины, ритуалы и формирование канона» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: II–IV века.",
+      "Основной смысл: формат с листами и переплётом, удобный для собраний разных текстов.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Общины, ритуалы и формирование канона",
+      "technology"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 4,
+      "culture": 7,
+      "politics": 6,
+      "religion": 8,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Александрия",
+      "lat": 31.2,
+      "lon": 29.918
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-04/ecr_s_04_08.svg",
+      "caption": "Локальная учебная обложка: Кодекс как христианская книжная технология",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.codexsinaiticus.org/en/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_04_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Codex Sinaiticus Project",
+      "url": "https://www.codexsinaiticus.org/en/",
+      "type": "manuscript"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_04"
+  },
+  {
+    "id": "ECR_S_05_01",
+    "type": "TEXT",
+    "title": "Плиний Младший расследует христиан",
+    "original": "Pliny the Younger investigates Christians",
+    "subtitle": "наместник спрашивает императора о процедуре наказания и проверки",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "ок. 112 года",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Плиний Младший расследует христиан — наместник спрашивает императора о процедуре наказания и проверки.",
+    "importance": "Карточка раскрывает главу «Епископы, мученики и Римское государство» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: ок. 112 года.",
+      "Основной смысл: наместник спрашивает императора о процедуре наказания и проверки.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Епископы, мученики и Римское государство",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 3,
+      "culture": 7,
+      "politics": 6,
+      "religion": 8,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Средиземноморье и Передняя Азия",
+      "lat": 35.5,
+      "lon": 28.0
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-05/ecr_s_05_01.svg",
+      "caption": "Локальная учебная обложка: Плиний Младший расследует христиан",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/ancient/pliny-trajan1.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Fordham Ancient History Sourcebook: Pliny and Trajan on the Christians",
+      "url": "https://sourcebooks.fordham.edu/ancient/pliny-trajan1.asp",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_05"
+  },
+  {
+    "id": "ECR_S_05_02",
+    "type": "LEGAL",
+    "title": "Ответ Траяна и административный компромисс",
+    "original": "Trajan reply and administrative compromise",
+    "subtitle": "не разыскивать специально, отвергать анонимные доносы, наказывать упорствующих",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "ок. 112 года",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Ответ Траяна и административный компромисс — не разыскивать специально, отвергать анонимные доносы, наказывать упорствующих.",
+    "importance": "Карточка раскрывает главу «Епископы, мученики и Римское государство» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: ок. 112 года.",
+      "Основной смысл: не разыскивать специально, отвергать анонимные доносы, наказывать упорствующих.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Епископы, мученики и Римское государство",
+      "legal"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 4,
+      "culture": 8,
+      "politics": 7,
+      "religion": 9,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.483
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-05/ecr_s_05_02.svg",
+      "caption": "Локальная учебная обложка: Ответ Траяна и административный компромисс",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/ancient/pliny-trajan1.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Fordham Ancient History Sourcebook: Pliny and Trajan on the Christians",
+      "url": "https://sourcebooks.fordham.edu/ancient/pliny-trajan1.asp",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_05"
+  },
+  {
+    "id": "ECR_S_05_03",
+    "type": "EVENT",
+    "title": "Мученики Лиона и Вьенна",
+    "original": "Martyrs of Lyon and Vienne",
+    "subtitle": "память о казнях и общественном насилии в Галлии",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "177 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Мученики Лиона и Вьенна — память о казнях и общественном насилии в Галлии.",
+    "importance": "Карточка раскрывает главу «Епископы, мученики и Римское государство» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 177 год.",
+      "Основной смысл: память о казнях и общественном насилии в Галлии.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Епископы, мученики и Римское государство",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 5,
+      "culture": 9,
+      "politics": 8,
+      "religion": 10,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Средиземноморье и Передняя Азия",
+      "lat": 35.5,
+      "lon": 28.0
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-05/ecr_s_05_03.svg",
+      "caption": "Локальная учебная обложка: Мученики Лиона и Вьенна",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/ancient/pliny-trajan1.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Fordham Ancient History Sourcebook: Pliny and Trajan on the Christians",
+      "url": "https://sourcebooks.fordham.edu/ancient/pliny-trajan1.asp",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_05"
+  },
+  {
+    "id": "ECR_S_05_04",
+    "type": "PERSON",
+    "title": "Перпетуя и Фелицитата",
+    "original": "Perpetua and Felicity",
+    "subtitle": "карфагенские мученицы, известные по сложному составному тексту",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "203 год",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Перпетуя и Фелицитата — карфагенские мученицы, известные по сложному составному тексту.",
+    "importance": "Карточка раскрывает главу «Епископы, мученики и Римское государство» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 203 год.",
+      "Основной смысл: карфагенские мученицы, известные по сложному составному тексту.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Епископы, мученики и Римское государство",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 6,
+      "culture": 7,
+      "politics": 9,
+      "religion": 8,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Карфаген",
+      "lat": 36.852,
+      "lon": 10.323
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-05/ecr_s_05_04.svg",
+      "caption": "Локальная учебная обложка: Перпетуя и Фелицитата",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/ancient/pliny-trajan1.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Fordham Ancient History Sourcebook: Pliny and Trajan on the Christians",
+      "url": "https://sourcebooks.fordham.edu/ancient/pliny-trajan1.asp",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_05"
+  },
+  {
+    "id": "ECR_S_05_05",
+    "type": "DOCUMENT",
+    "title": "Либеллы Деция",
+    "original": "Decian sacrifice certificates",
+    "subtitle": "папирусные свидетельства выполнения приказа о жертвоприношении",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "250 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Либеллы Деция — папирусные свидетельства выполнения приказа о жертвоприношении.",
+    "importance": "Карточка раскрывает главу «Епископы, мученики и Римское государство» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 250 год.",
+      "Основной смысл: папирусные свидетельства выполнения приказа о жертвоприношении.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Епископы, мученики и Римское государство",
+      "document"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 2,
+      "culture": 8,
+      "politics": 5,
+      "religion": 9,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Александрия",
+      "lat": 31.2,
+      "lon": 29.918
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-05/ecr_s_05_05.svg",
+      "caption": "Локальная учебная обложка: Либеллы Деция",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/ancient/pliny-trajan1.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_05_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Fordham Ancient History Sourcebook: Pliny and Trajan on the Christians",
+      "url": "https://sourcebooks.fordham.edu/ancient/pliny-trajan1.asp",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_05"
+  },
+  {
+    "id": "ECR_S_05_06",
+    "type": "LEGAL",
+    "title": "Валериановы меры против духовенства",
+    "original": "Valerian measures against clergy",
+    "subtitle": "приказы, направленные на руководителей, собрания и имущество",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "257–258 годы",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Валериановы меры против духовенства — приказы, направленные на руководителей, собрания и имущество.",
+    "importance": "Карточка раскрывает главу «Епископы, мученики и Римское государство» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 257–258 годы.",
+      "Основной смысл: приказы, направленные на руководителей, собрания и имущество.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Епископы, мученики и Римское государство",
+      "legal"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 9,
+      "politics": 6,
+      "religion": 10,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.483
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-05/ecr_s_05_06.svg",
+      "caption": "Локальная учебная обложка: Валериановы меры против духовенства",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/ancient/pliny-trajan1.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_05_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Fordham Ancient History Sourcebook: Pliny and Trajan on the Christians",
+      "url": "https://sourcebooks.fordham.edu/ancient/pliny-trajan1.asp",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_05"
+  },
+  {
+    "id": "ECR_S_05_07",
+    "type": "EVENT",
+    "title": "Великое гонение тетрархов",
+    "original": "Great Persecution of the Tetrarchs",
+    "subtitle": "серия эдиктов против собраний, книг, зданий и духовенства",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "303–311 годы",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Великое гонение тетрархов — серия эдиктов против собраний, книг, зданий и духовенства.",
+    "importance": "Карточка раскрывает главу «Епископы, мученики и Римское государство» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 303–311 годы.",
+      "Основной смысл: серия эдиктов против собраний, книг, зданий и духовенства.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Епископы, мученики и Римское государство",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 4,
+      "culture": 7,
+      "politics": 7,
+      "religion": 8,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Никомедия",
+      "lat": 40.766,
+      "lon": 29.916
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-05/ecr_s_05_07.svg",
+      "caption": "Локальная учебная обложка: Великое гонение тетрархов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/ancient/pliny-trajan1.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_05_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Fordham Ancient History Sourcebook: Pliny and Trajan on the Christians",
+      "url": "https://sourcebooks.fordham.edu/ancient/pliny-trajan1.asp",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_05"
+  },
+  {
+    "id": "ECR_S_05_08",
+    "type": "CONCEPT",
+    "title": "Мученик как центр общинной памяти",
+    "original": "Martyr as a focus of communal memory",
+    "subtitle": "годовщины, могилы, тексты и рассказы, создававшие локальные культы",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "II–IV века",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Мученик как центр общинной памяти — годовщины, могилы, тексты и рассказы, создававшие локальные культы.",
+    "importance": "Карточка раскрывает главу «Епископы, мученики и Римское государство» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: II–IV века.",
+      "Основной смысл: годовщины, могилы, тексты и рассказы, создававшие локальные культы.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Епископы, мученики и Римское государство",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 5,
+      "culture": 8,
+      "politics": 8,
+      "religion": 9,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Средиземноморье и Передняя Азия",
+      "lat": 35.5,
+      "lon": 28.0
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-05/ecr_s_05_08.svg",
+      "caption": "Локальная учебная обложка: Мученик как центр общинной памяти",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/ancient/pliny-trajan1.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_05_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Fordham Ancient History Sourcebook: Pliny and Trajan on the Christians",
+      "url": "https://sourcebooks.fordham.edu/ancient/pliny-trajan1.asp",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_05"
+  },
+  {
+    "id": "ECR_S_06_01",
+    "type": "PLACE",
+    "title": "Явне как центр после 70 года",
+    "original": "Yavne as a center after 70",
+    "subtitle": "место деятельности учителей, значение которого не следует превращать в единый учредительный собор",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "I–II века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Явне как центр после 70 года — место деятельности учителей, значение которого не следует превращать в единый учредительный собор.",
+    "importance": "Карточка раскрывает главу «Иудаизм после разрушения Храма» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: I–II века.",
+      "Основной смысл: место деятельности учителей, значение которого не следует превращать в единый учредительный собор.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иудаизм после разрушения Храма",
+      "place"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 8,
+      "politics": 8,
+      "religion": 9,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Явне",
+      "lat": 31.878,
+      "lon": 34.739
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-06/ecr_s_06_01.svg",
+      "caption": "Локальная учебная обложка: Явне как центр после 70 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.sefaria.org/Mishnah?tab=contents",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Sefaria: Mishnah",
+      "url": "https://www.sefaria.org/Mishnah?tab=contents",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_06"
+  },
+  {
+    "id": "ECR_S_06_02",
+    "type": "PERSON",
+    "title": "Раббан Йоханан бен Заккай в традиции",
+    "original": "Rabban Yohanan ben Zakkai in tradition",
+    "subtitle": "учитель, с которым поздние рассказы связывают перенос учёности из Иерусалима",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "I век",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Раббан Йоханан бен Заккай в традиции — учитель, с которым поздние рассказы связывают перенос учёности из Иерусалима.",
+    "importance": "Карточка раскрывает главу «Иудаизм после разрушения Храма» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: I век.",
+      "Основной смысл: учитель, с которым поздние рассказы связывают перенос учёности из Иерусалима.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иудаизм после разрушения Храма",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 5,
+      "culture": 9,
+      "politics": 9,
+      "religion": 10,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Явне",
+      "lat": 31.878,
+      "lon": 34.739
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-06/ecr_s_06_02.svg",
+      "caption": "Локальная учебная обложка: Раббан Йоханан бен Заккай в традиции",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.sefaria.org/Mishnah?tab=contents",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Sefaria: Mishnah",
+      "url": "https://www.sefaria.org/Mishnah?tab=contents",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_06"
+  },
+  {
+    "id": "ECR_S_06_03",
+    "type": "WAR",
+    "title": "Восстание Бар-Кохбы",
+    "original": "Bar Kokhba Revolt",
+    "subtitle": "масштабное восстание в Иудее против Адриана",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "132–135 годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Восстание Бар-Кохбы — масштабное восстание в Иудее против Адриана.",
+    "importance": "Карточка раскрывает главу «Иудаизм после разрушения Храма» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 132–135 годы.",
+      "Основной смысл: масштабное восстание в Иудее против Адриана.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иудаизм после разрушения Храма",
+      "war"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 5,
+      "religion": 8,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-06/ecr_s_06_03.svg",
+      "caption": "Локальная учебная обложка: Восстание Бар-Кохбы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.sefaria.org/Mishnah?tab=contents",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Sefaria: Mishnah",
+      "url": "https://www.sefaria.org/Mishnah?tab=contents",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_06"
+  },
+  {
+    "id": "ECR_S_06_04",
+    "type": "TEXT",
+    "title": "Мишна и устная Тора",
+    "original": "Mishnah and Oral Torah",
+    "subtitle": "собрание правовых и ритуальных обсуждений, отредактированное около 200 года",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "ок. 200 года",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Мишна и устная Тора — собрание правовых и ритуальных обсуждений, отредактированное около 200 года.",
+    "importance": "Карточка раскрывает главу «Иудаизм после разрушения Храма» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: ок. 200 года.",
+      "Основной смысл: собрание правовых и ритуальных обсуждений, отредактированное около 200 года.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иудаизм после разрушения Храма",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 2,
+      "culture": 8,
+      "politics": 6,
+      "religion": 9,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Тивериада",
+      "lat": 32.795,
+      "lon": 35.531
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-06/ecr_s_06_04.svg",
+      "caption": "Локальная учебная обложка: Мишна и устная Тора",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.sefaria.org/Mishnah?tab=contents",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Sefaria: Mishnah",
+      "url": "https://www.sefaria.org/Mishnah?tab=contents",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_06"
+  },
+  {
+    "id": "ECR_S_06_05",
+    "type": "INSTITUTION",
+    "title": "Патриархат и должность наси",
+    "original": "Patriarchate and office of the nasi",
+    "subtitle": "форма руководства палестинскими общинами в римский период",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "III–V века",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Патриархат и должность наси — форма руководства палестинскими общинами в римский период.",
+    "importance": "Карточка раскрывает главу «Иудаизм после разрушения Храма» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: III–V века.",
+      "Основной смысл: форма руководства палестинскими общинами в римский период.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иудаизм после разрушения Храма",
+      "institution"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 3,
+      "culture": 9,
+      "politics": 7,
+      "religion": 10,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Тивериада",
+      "lat": 32.795,
+      "lon": 35.531
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-06/ecr_s_06_05.svg",
+      "caption": "Локальная учебная обложка: Патриархат и должность наси",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.sefaria.org/Mishnah?tab=contents",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_06_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Sefaria: Mishnah",
+      "url": "https://www.sefaria.org/Mishnah?tab=contents",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_06"
+  },
+  {
+    "id": "ECR_S_06_06",
+    "type": "PLACE",
+    "title": "Некрополь Бейт-Шеарим",
+    "original": "Necropolis of Beth Shearim",
+    "subtitle": "погребальный центр с многоязычными надписями и связями диаспоры",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "II–IV века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Некрополь Бейт-Шеарим — погребальный центр с многоязычными надписями и связями диаспоры.",
+    "importance": "Карточка раскрывает главу «Иудаизм после разрушения Храма» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: II–IV века.",
+      "Основной смысл: погребальный центр с многоязычными надписями и связями диаспоры.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иудаизм после разрушения Храма",
+      "place"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 8,
+      "religion": 8,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Бейт-Шеарим",
+      "lat": 32.703,
+      "lon": 35.128
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-06/ecr_s_06_06.svg",
+      "caption": "Локальная учебная обложка: Некрополь Бейт-Шеарим",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.sefaria.org/Mishnah?tab=contents",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_06_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Sefaria: Mishnah",
+      "url": "https://www.sefaria.org/Mishnah?tab=contents",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_06"
+  },
+  {
+    "id": "ECR_S_06_07",
+    "type": "INSTITUTION",
+    "title": "Вавилонские школы и диаспора",
+    "original": "Babylonian academies and diaspora",
+    "subtitle": "центры учёности в Сасанидском Иране, позднее связанные с Вавилонским Талмудом",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "III–VI века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Вавилонские школы и диаспора — центры учёности в Сасанидском Иране, позднее связанные с Вавилонским Талмудом.",
+    "importance": "Карточка раскрывает главу «Иудаизм после разрушения Храма» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: III–VI века.",
+      "Основной смысл: центры учёности в Сасанидском Иране, позднее связанные с Вавилонским Талмудом.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иудаизм после разрушения Храма",
+      "institution"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 5,
+      "culture": 8,
+      "politics": 9,
+      "religion": 9,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Вавилония",
+      "lat": 32.54,
+      "lon": 44.42
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-06/ecr_s_06_07.svg",
+      "caption": "Локальная учебная обложка: Вавилонские школы и диаспора",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.sefaria.org/Mishnah?tab=contents",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_06_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Sefaria: Mishnah",
+      "url": "https://www.sefaria.org/Mishnah?tab=contents",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_06"
+  },
+  {
+    "id": "ECR_S_06_08",
+    "type": "INSTITUTION",
+    "title": "Синагога как место молитвы и общины",
+    "original": "Synagogue as prayer and community space",
+    "subtitle": "архитектурный и социальный центр без единого обязательного плана",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "II–VI века",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Синагога как место молитвы и общины — архитектурный и социальный центр без единого обязательного плана.",
+    "importance": "Карточка раскрывает главу «Иудаизм после разрушения Храма» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: II–VI века.",
+      "Основной смысл: архитектурный и социальный центр без единого обязательного плана.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Иудаизм после разрушения Храма",
+      "institution"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 6,
+      "culture": 9,
+      "politics": 5,
+      "religion": 10,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сарды",
+      "lat": 38.488,
+      "lon": 28.04
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-06/ecr_s_06_08.svg",
+      "caption": "Локальная учебная обложка: Синагога как место молитвы и общины",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.sefaria.org/Mishnah?tab=contents",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_06_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Sefaria: Mishnah",
+      "url": "https://www.sefaria.org/Mishnah?tab=contents",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_06"
+  },
+  {
+    "id": "ECR_S_07_01",
+    "type": "LEGAL",
+    "title": "Медиоланские договорённости 313 года",
+    "original": "Milan agreement of 313",
+    "subtitle": "письма Константина и Лициния о свободе культа и возврате имущества",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "313 год",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Медиоланские договорённости 313 года — письма Константина и Лициния о свободе культа и возврате имущества.",
+    "importance": "Карточка раскрывает главу «Константин и новый юридический порядок» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 313 год.",
+      "Основной смысл: письма Константина и Лициния о свободе культа и возврате имущества.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Константин и новый юридический порядок",
+      "legal"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 5,
+      "culture": 9,
+      "politics": 5,
+      "religion": 10,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Медиолан",
+      "lat": 45.464,
+      "lon": 9.19
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-07/ecr_s_07_01.svg",
+      "caption": "Локальная учебная обложка: Медиоланские договорённости 313 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Constantine I",
+      "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_07"
+  },
+  {
+    "id": "ECR_S_07_02",
+    "type": "POLITICAL",
+    "title": "Возвращение церковной собственности",
+    "original": "Restitution of church property",
+    "subtitle": "административный процесс передачи общинам ранее конфискованных зданий и земель",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "313 год",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Возвращение церковной собственности — административный процесс передачи общинам ранее конфискованных зданий и земель.",
+    "importance": "Карточка раскрывает главу «Константин и новый юридический порядок» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 313 год.",
+      "Основной смысл: административный процесс передачи общинам ранее конфискованных зданий и земель.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Константин и новый юридический порядок",
+      "political"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 6,
+      "culture": 7,
+      "politics": 6,
+      "religion": 8,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Средиземноморье и Передняя Азия",
+      "lat": 35.5,
+      "lon": 28.0
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-07/ecr_s_07_02.svg",
+      "caption": "Локальная учебная обложка: Возвращение церковной собственности",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Constantine I",
+      "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_07"
+  },
+  {
+    "id": "ECR_S_07_03",
+    "type": "CONCEPT",
+    "title": "Константин и знак Христа",
+    "original": "Constantine and the sign of Christ",
+    "subtitle": "разные версии видения и военной символики в источниках Лактанция и Евсевия",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "312 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Константин и знак Христа — разные версии видения и военной символики в источниках Лактанция и Евсевия.",
+    "importance": "Карточка раскрывает главу «Константин и новый юридический порядок» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 312 год.",
+      "Основной смысл: разные версии видения и военной символики в источниках Лактанция и Евсевия.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Константин и новый юридический порядок",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 2,
+      "culture": 8,
+      "politics": 7,
+      "religion": 9,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.483
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-07/ecr_s_07_03.svg",
+      "caption": "Локальная учебная обложка: Константин и знак Христа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Constantine I",
+      "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_07"
+  },
+  {
+    "id": "ECR_S_07_04",
+    "type": "MONUMENT",
+    "title": "Латеранская базилика",
+    "original": "Lateran Basilica",
+    "subtitle": "крупное императорское церковное строительство в Риме",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "IV век",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Латеранская базилика — крупное императорское церковное строительство в Риме.",
+    "importance": "Карточка раскрывает главу «Константин и новый юридический порядок» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: крупное императорское церковное строительство в Риме.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Константин и новый юридический порядок",
+      "monument"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 3,
+      "culture": 9,
+      "politics": 8,
+      "religion": 10,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.483
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-07/ecr_s_07_04.svg",
+      "caption": "Локальная учебная обложка: Латеранская базилика",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_07_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Constantine I",
+      "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_07"
+  },
+  {
+    "id": "ECR_S_07_05",
+    "type": "MONUMENT",
+    "title": "Старая базилика Святого Петра",
+    "original": "Old St Peters Basilica",
+    "subtitle": "монументальный комплекс над местом римской памяти апостола",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "IV век",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Старая базилика Святого Петра — монументальный комплекс над местом римской памяти апостола.",
+    "importance": "Карточка раскрывает главу «Константин и новый юридический порядок» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: монументальный комплекс над местом римской памяти апостола.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Константин и новый юридический порядок",
+      "monument"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 4,
+      "culture": 7,
+      "politics": 9,
+      "religion": 8,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.483
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-07/ecr_s_07_05.svg",
+      "caption": "Локальная учебная обложка: Старая базилика Святого Петра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_07_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Constantine I",
+      "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_07"
+  },
+  {
+    "id": "ECR_S_07_06",
+    "type": "INSTITUTION",
+    "title": "Епископы как посредники и судьи",
+    "original": "Bishops as mediators and judges",
+    "subtitle": "расширение общественной роли руководителей городских церквей",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "IV век",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Епископы как посредники и судьи — расширение общественной роли руководителей городских церквей.",
+    "importance": "Карточка раскрывает главу «Константин и новый юридический порядок» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: расширение общественной роли руководителей городских церквей.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Константин и новый юридический порядок",
+      "institution"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 5,
+      "religion": 9,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Средиземноморье и Передняя Азия",
+      "lat": 35.5,
+      "lon": 28.0
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-07/ecr_s_07_06.svg",
+      "caption": "Локальная учебная обложка: Епископы как посредники и судьи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_07_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Constantine I",
+      "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_07"
+  },
+  {
+    "id": "ECR_S_07_07",
+    "type": "EVENT",
+    "title": "Донатистский спор в Северной Африке",
+    "original": "Donatist controversy in North Africa",
+    "subtitle": "конфликт о законности духовенства и чистоте церкви после гонений",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "IV век",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Донатистский спор в Северной Африке — конфликт о законности духовенства и чистоте церкви после гонений.",
+    "importance": "Карточка раскрывает главу «Константин и новый юридический порядок» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: конфликт о законности духовенства и чистоте церкви после гонений.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Константин и новый юридический порядок",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 6,
+      "culture": 9,
+      "politics": 6,
+      "religion": 10,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Карфаген",
+      "lat": 36.852,
+      "lon": 10.323
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-07/ecr_s_07_07.svg",
+      "caption": "Локальная учебная обложка: Донатистский спор в Северной Африке",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_07_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Constantine I",
+      "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_07"
+  },
+  {
+    "id": "ECR_S_07_08",
+    "type": "CONCEPT",
+    "title": "Границы «Константиновского поворота»",
+    "original": "Limits of the Constantinian turn",
+    "subtitle": "медленное и неравномерное изменение права, двора, культов и повседневности",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "IV век",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Границы «Константиновского поворота» — медленное и неравномерное изменение права, двора, культов и повседневности.",
+    "importance": "Карточка раскрывает главу «Константин и новый юридический порядок» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: медленное и неравномерное изменение права, двора, культов и повседневности.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Константин и новый юридический порядок",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 2,
+      "culture": 7,
+      "politics": 7,
+      "religion": 8,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Средиземноморье и Передняя Азия",
+      "lat": 35.5,
+      "lon": 28.0
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-07/ecr_s_07_08.svg",
+      "caption": "Локальная учебная обложка: Границы «Константиновского поворота»",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_07_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Constantine I",
+      "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_07"
+  },
+  {
+    "id": "ECR_S_08_01",
+    "type": "PERSON",
+    "title": "Арий Александрийский",
+    "original": "Arius of Alexandria",
+    "subtitle": "пресвитер, учение которого вызвало масштабный спор о Сыне",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "III–IV века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Арий Александрийский — пресвитер, учение которого вызвало масштабный спор о Сыне.",
+    "importance": "Карточка раскрывает главу «Никея, арианский спор и императорские соборы» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: III–IV века.",
+      "Основной смысл: пресвитер, учение которого вызвало масштабный спор о Сыне.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Никея, арианский спор и императорские соборы",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 6,
+      "culture": 7,
+      "politics": 7,
+      "religion": 8,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Александрия",
+      "lat": 31.2,
+      "lon": 29.918
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-08/ecr_s_08_01.svg",
+      "caption": "Локальная учебная обложка: Арий Александрийский",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/First-Council-of-Nicaea-325",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: First Council of Nicaea",
+      "url": "https://www.britannica.com/event/First-Council-of-Nicaea-325",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_08"
+  },
+  {
+    "id": "ECR_S_08_02",
+    "type": "PERSON",
+    "title": "Александр Александрийский",
+    "original": "Alexander of Alexandria",
+    "subtitle": "епископ, осудивший Ария и вынесший конфликт за пределы города",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "IV век",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Александр Александрийский — епископ, осудивший Ария и вынесший конфликт за пределы города.",
+    "importance": "Карточка раскрывает главу «Никея, арианский спор и императорские соборы» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: епископ, осудивший Ария и вынесший конфликт за пределы города.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Никея, арианский спор и императорские соборы",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 2,
+      "culture": 8,
+      "politics": 8,
+      "religion": 9,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Александрия",
+      "lat": 31.2,
+      "lon": 29.918
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-08/ecr_s_08_02.svg",
+      "caption": "Локальная учебная обложка: Александр Александрийский",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/First-Council-of-Nicaea-325",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: First Council of Nicaea",
+      "url": "https://www.britannica.com/event/First-Council-of-Nicaea-325",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_08"
+  },
+  {
+    "id": "ECR_S_08_03",
+    "type": "EVENT",
+    "title": "Созыв Никейского собора",
+    "original": "Convocation of the Council of Nicaea",
+    "subtitle": "императорское собрание епископов для решения церковного конфликта",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "325 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Созыв Никейского собора — императорское собрание епископов для решения церковного конфликта.",
+    "importance": "Карточка раскрывает главу «Никея, арианский спор и императорские соборы» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 325 год.",
+      "Основной смысл: императорское собрание епископов для решения церковного конфликта.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Никея, арианский спор и императорские соборы",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 3,
+      "culture": 9,
+      "politics": 9,
+      "religion": 10,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Никея",
+      "lat": 40.429,
+      "lon": 29.719
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-08/ecr_s_08_03.svg",
+      "caption": "Локальная учебная обложка: Созыв Никейского собора",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/First-Council-of-Nicaea-325",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: First Council of Nicaea",
+      "url": "https://www.britannica.com/event/First-Council-of-Nicaea-325",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_08"
+  },
+  {
+    "id": "ECR_S_08_04",
+    "type": "CONCEPT",
+    "title": "Термин homoousios",
+    "original": "Term homoousios",
+    "subtitle": "формула о единой сущности Отца и Сына, ставшая центром символа 325 года",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "325 год",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Термин homoousios — формула о единой сущности Отца и Сына, ставшая центром символа 325 года.",
+    "importance": "Карточка раскрывает главу «Никея, арианский спор и императорские соборы» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 325 год.",
+      "Основной смысл: формула о единой сущности Отца и Сына, ставшая центром символа 325 года.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Никея, арианский спор и императорские соборы",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 4,
+      "culture": 7,
+      "politics": 5,
+      "religion": 8,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Никея",
+      "lat": 40.429,
+      "lon": 29.719
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-08/ecr_s_08_04.svg",
+      "caption": "Локальная учебная обложка: Термин homoousios",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/First-Council-of-Nicaea-325",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_08_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: First Council of Nicaea",
+      "url": "https://www.britannica.com/event/First-Council-of-Nicaea-325",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_08"
+  },
+  {
+    "id": "ECR_S_08_05",
+    "type": "PERSON",
+    "title": "Афанасий и политика изгнаний",
+    "original": "Athanasius and politics of exile",
+    "subtitle": "александрийский епископ, неоднократно смещавшийся и возвращавшийся",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "IV век",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Афанасий и политика изгнаний — александрийский епископ, неоднократно смещавшийся и возвращавшийся.",
+    "importance": "Карточка раскрывает главу «Никея, арианский спор и императорские соборы» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: александрийский епископ, неоднократно смещавшийся и возвращавшийся.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Никея, арианский спор и императорские соборы",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 5,
+      "culture": 8,
+      "politics": 6,
+      "religion": 9,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Александрия",
+      "lat": 31.2,
+      "lon": 29.918
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-08/ecr_s_08_05.svg",
+      "caption": "Локальная учебная обложка: Афанасий и политика изгнаний",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/First-Council-of-Nicaea-325",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_08_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: First Council of Nicaea",
+      "url": "https://www.britannica.com/event/First-Council-of-Nicaea-325",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_08"
+  },
+  {
+    "id": "ECR_S_08_06",
+    "type": "PERSON",
+    "title": "Констанций II и соборная политика",
+    "original": "Constantius II and conciliar politics",
+    "subtitle": "император, поддерживавший поиски формул вне никейского homoousios",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "337–361 годы",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Констанций II и соборная политика — император, поддерживавший поиски формул вне никейского homoousios.",
+    "importance": "Карточка раскрывает главу «Никея, арианский спор и императорские соборы» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 337–361 годы.",
+      "Основной смысл: император, поддерживавший поиски формул вне никейского homoousios.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Никея, арианский спор и императорские соборы",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 7,
+      "religion": 10,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.008,
+      "lon": 28.978
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-08/ecr_s_08_06.svg",
+      "caption": "Локальная учебная обложка: Констанций II и соборная политика",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/First-Council-of-Nicaea-325",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_08_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: First Council of Nicaea",
+      "url": "https://www.britannica.com/event/First-Council-of-Nicaea-325",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_08"
+  },
+  {
+    "id": "ECR_S_08_07",
+    "type": "INTELLECTUAL",
+    "title": "Каппадокийские отцы и язык Троицы",
+    "original": "Cappadocian Fathers and Trinitarian language",
+    "subtitle": "Василий, Григорий Богослов и Григорий Нисский в богословских спорах IV века",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "IV век",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Каппадокийские отцы и язык Троицы — Василий, Григорий Богослов и Григорий Нисский в богословских спорах IV века.",
+    "importance": "Карточка раскрывает главу «Никея, арианский спор и императорские соборы» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: Василий, Григорий Богослов и Григорий Нисский в богословских спорах IV века.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Никея, арианский спор и императорские соборы",
+      "intellectual"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 2,
+      "culture": 7,
+      "politics": 8,
+      "religion": 8,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Каппадокия",
+      "lat": 38.65,
+      "lon": 34.85
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-08/ecr_s_08_07.svg",
+      "caption": "Локальная учебная обложка: Каппадокийские отцы и язык Троицы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/First-Council-of-Nicaea-325",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_08_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: First Council of Nicaea",
+      "url": "https://www.britannica.com/event/First-Council-of-Nicaea-325",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_08"
+  },
+  {
+    "id": "ECR_S_08_08",
+    "type": "EVENT",
+    "title": "Собор 381 года и утверждение никейского курса",
+    "original": "Council of Constantinople of 381",
+    "subtitle": "собор, подтвердивший никейское направление и осудивший конкурирующие учения",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "381 год",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Собор 381 года и утверждение никейского курса — собор, подтвердивший никейское направление и осудивший конкурирующие учения.",
+    "importance": "Карточка раскрывает главу «Никея, арианский спор и императорские соборы» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 381 год.",
+      "Основной смысл: собор, подтвердивший никейское направление и осудивший конкурирующие учения.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Никея, арианский спор и императорские соборы",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 3,
+      "culture": 8,
+      "politics": 9,
+      "religion": 9,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.008,
+      "lon": 28.978
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-08/ecr_s_08_08.svg",
+      "caption": "Локальная учебная обложка: Собор 381 года и утверждение никейского курса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/First-Council-of-Nicaea-325",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_08_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: First Council of Nicaea",
+      "url": "https://www.britannica.com/event/First-Council-of-Nicaea-325",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_08"
+  },
+  {
+    "id": "ECR_S_09_01",
+    "type": "PERSON",
+    "title": "Антоний Великий в литературной традиции",
+    "original": "Anthony the Great in literary tradition",
+    "subtitle": "египетский аскет, образ которого распространила биография Афанасия",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "III–IV века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Антоний Великий в литературной традиции — египетский аскет, образ которого распространила биография Афанасия.",
+    "importance": "Карточка раскрывает главу «Монашество, святые и паломничества» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: III–IV века.",
+      "Основной смысл: египетский аскет, образ которого распространила биография Афанасия.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Монашество, святые и паломничества",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 2,
+      "culture": 8,
+      "politics": 9,
+      "religion": 9,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Нитрийская пустыня",
+      "lat": 30.842,
+      "lon": 30.316
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-09/ecr_s_09_01.svg",
+      "caption": "Локальная учебная обложка: Антоний Великий в литературной традиции",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/954/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_09_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Saint Catherine Area",
+      "url": "https://whc.unesco.org/en/list/954/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_09"
+  },
+  {
+    "id": "ECR_S_09_02",
+    "type": "PERSON",
+    "title": "Пахомий и общежительное монашество",
+    "original": "Pachomius and cenobitic monasticism",
+    "subtitle": "организатор общин с правилами труда, молитвы и управления",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "IV век",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Пахомий и общежительное монашество — организатор общин с правилами труда, молитвы и управления.",
+    "importance": "Карточка раскрывает главу «Монашество, святые и паломничества» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: организатор общин с правилами труда, молитвы и управления.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Монашество, святые и паломничества",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 3,
+      "culture": 9,
+      "politics": 5,
+      "religion": 10,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Тавенниси",
+      "lat": 26.04,
+      "lon": 32.15
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-09/ecr_s_09_02.svg",
+      "caption": "Локальная учебная обложка: Пахомий и общежительное монашество",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/954/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_09_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Saint Catherine Area",
+      "url": "https://whc.unesco.org/en/list/954/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_09"
+  },
+  {
+    "id": "ECR_S_09_03",
+    "type": "SOCIAL",
+    "title": "Пустынные отцы и матери",
+    "original": "Desert Fathers and Mothers",
+    "subtitle": "разнообразные аскеты, наставники и сообщества египетских пустынь",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "IV–V века",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Пустынные отцы и матери — разнообразные аскеты, наставники и сообщества египетских пустынь.",
+    "importance": "Карточка раскрывает главу «Монашество, святые и паломничества» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: IV–V века.",
+      "Основной смысл: разнообразные аскеты, наставники и сообщества египетских пустынь.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Монашество, святые и паломничества",
+      "social"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 6,
+      "religion": 8,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Нитрийская пустыня",
+      "lat": 30.842,
+      "lon": 30.316
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-09/ecr_s_09_03.svg",
+      "caption": "Локальная учебная обложка: Пустынные отцы и матери",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/954/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_09_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Saint Catherine Area",
+      "url": "https://whc.unesco.org/en/list/954/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_09"
+  },
+  {
+    "id": "ECR_S_09_04",
+    "type": "PERSON",
+    "title": "Василий Кесарийский и общинная аскеза",
+    "original": "Basil of Caesarea and communal asceticism",
+    "subtitle": "епископ и автор правил, связывавших аскезу со служением общине",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "IV век",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Василий Кесарийский и общинная аскеза — епископ и автор правил, связывавших аскезу со служением общине.",
+    "importance": "Карточка раскрывает главу «Монашество, святые и паломничества» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: епископ и автор правил, связывавших аскезу со служением общине.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Монашество, святые и паломничества",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 5,
+      "culture": 8,
+      "politics": 7,
+      "religion": 9,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Каппадокия",
+      "lat": 38.65,
+      "lon": 34.85
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-09/ecr_s_09_04.svg",
+      "caption": "Локальная учебная обложка: Василий Кесарийский и общинная аскеза",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/954/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_09_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Saint Catherine Area",
+      "url": "https://whc.unesco.org/en/list/954/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_09"
+  },
+  {
+    "id": "ECR_S_09_05",
+    "type": "RITUAL",
+    "title": "Реликвии и перенесение святых останков",
+    "original": "Relics and translation of saints remains",
+    "subtitle": "перемещение тел и предметов, создававшее новые центры почитания",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "IV–VI века",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Реликвии и перенесение святых останков — перемещение тел и предметов, создававшее новые центры почитания.",
+    "importance": "Карточка раскрывает главу «Монашество, святые и паломничества» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: IV–VI века.",
+      "Основной смысл: перемещение тел и предметов, создававшее новые центры почитания.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Монашество, святые и паломничества",
+      "ritual"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 9,
+      "politics": 8,
+      "religion": 10,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Средиземноморье и Передняя Азия",
+      "lat": 35.5,
+      "lon": 28.0
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-09/ecr_s_09_05.svg",
+      "caption": "Локальная учебная обложка: Реликвии и перенесение святых останков",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/954/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_09_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Saint Catherine Area",
+      "url": "https://whc.unesco.org/en/list/954/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_09"
+  },
+  {
+    "id": "ECR_S_09_06",
+    "type": "MONUMENT",
+    "title": "Мартирий как архитектура памяти",
+    "original": "Martyrium as architecture of memory",
+    "subtitle": "здание над могилой или местом, связанным со святым",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "IV–VI века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Мартирий как архитектура памяти — здание над могилой или местом, связанным со святым.",
+    "importance": "Карточка раскрывает главу «Монашество, святые и паломничества» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: IV–VI века.",
+      "Основной смысл: здание над могилой или местом, связанным со святым.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Монашество, святые и паломничества",
+      "monument"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 2,
+      "culture": 7,
+      "politics": 9,
+      "religion": 8,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-09/ecr_s_09_06.svg",
+      "caption": "Локальная учебная обложка: Мартирий как архитектура памяти",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/954/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_09_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Saint Catherine Area",
+      "url": "https://whc.unesco.org/en/list/954/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_09"
+  },
+  {
+    "id": "ECR_S_09_07",
+    "type": "SOCIAL",
+    "title": "Паломничество в Иерусалим и Вифлеем",
+    "original": "Pilgrimage to Jerusalem and Bethlehem",
+    "subtitle": "путешествия к местам библейской и мученической памяти",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "IV–VI века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Паломничество в Иерусалим и Вифлеем — путешествия к местам библейской и мученической памяти.",
+    "importance": "Карточка раскрывает главу «Монашество, святые и паломничества» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: IV–VI века.",
+      "Основной смысл: путешествия к местам библейской и мученической памяти.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Монашество, святые и паломничества",
+      "social"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 3,
+      "culture": 8,
+      "politics": 5,
+      "religion": 9,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Иерусалим",
+      "lat": 31.778,
+      "lon": 35.235
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-09/ecr_s_09_07.svg",
+      "caption": "Локальная учебная обложка: Паломничество в Иерусалим и Вифлеем",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/954/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_09_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Saint Catherine Area",
+      "url": "https://whc.unesco.org/en/list/954/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_09"
+  },
+  {
+    "id": "ECR_S_09_08",
+    "type": "PERSON",
+    "title": "Эгерия и маршрут позднеантичной паломницы",
+    "original": "Egeria and a late antique pilgrim route",
+    "subtitle": "автор дорожного описания богослужений и святых мест",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "конец IV века",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Эгерия и маршрут позднеантичной паломницы — автор дорожного описания богослужений и святых мест.",
+    "importance": "Карточка раскрывает главу «Монашество, святые и паломничества» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: конец IV века.",
+      "Основной смысл: автор дорожного описания богослужений и святых мест.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Монашество, святые и паломничества",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 6,
+      "religion": 10,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Синай",
+      "lat": 28.556,
+      "lon": 33.976
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-09/ecr_s_09_08.svg",
+      "caption": "Локальная учебная обложка: Эгерия и маршрут позднеантичной паломницы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/954/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_09_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Saint Catherine Area",
+      "url": "https://whc.unesco.org/en/list/954/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_09"
+  },
+  {
+    "id": "ECR_S_10_01",
+    "type": "PERSON",
+    "title": "Мани и новая пророческая религия",
+    "original": "Mani and a new prophetic religion",
+    "subtitle": "иранский учитель, создавший письменный корпус и миссионерскую церковь",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "III век",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Мани и новая пророческая религия — иранский учитель, создавший письменный корпус и миссионерскую церковь.",
+    "importance": "Карточка раскрывает главу «Манихейство и поздние традиционные культы» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: III век.",
+      "Основной смысл: иранский учитель, создавший письменный корпус и миссионерскую церковь.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Манихейство и поздние традиционные культы",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 3,
+      "culture": 9,
+      "politics": 6,
+      "religion": 10,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ктесифон",
+      "lat": 33.093,
+      "lon": 44.581
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-10/ecr_s_10_01.svg",
+      "caption": "Локальная учебная обложка: Мани и новая пророческая религия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Manichaeism",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_10_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Manichaeism",
+      "url": "https://www.britannica.com/topic/Manichaeism",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_10"
+  },
+  {
+    "id": "ECR_S_10_02",
+    "type": "CONCEPT",
+    "title": "Свет и тьма в манихейской космологии",
+    "original": "Light and darkness in Manichaean cosmology",
+    "subtitle": "дуалистический рассказ о смешении и освобождении частиц света",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "III–VI века",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Свет и тьма в манихейской космологии — дуалистический рассказ о смешении и освобождении частиц света.",
+    "importance": "Карточка раскрывает главу «Манихейство и поздние традиционные культы» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: III–VI века.",
+      "Основной смысл: дуалистический рассказ о смешении и освобождении частиц света.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Манихейство и поздние традиционные культы",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 4,
+      "culture": 7,
+      "politics": 7,
+      "religion": 8,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Средиземноморье и Передняя Азия",
+      "lat": 35.5,
+      "lon": 28.0
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-10/ecr_s_10_02.svg",
+      "caption": "Локальная учебная обложка: Свет и тьма в манихейской космологии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Manichaeism",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_10_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Manichaeism",
+      "url": "https://www.britannica.com/topic/Manichaeism",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_10"
+  },
+  {
+    "id": "ECR_S_10_03",
+    "type": "INSTITUTION",
+    "title": "Избранные и слушатели",
+    "original": "Elect and Hearers",
+    "subtitle": "двухуровневая структура манихейских общин с разными обязанностями",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "III–VI века",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Избранные и слушатели — двухуровневая структура манихейских общин с разными обязанностями.",
+    "importance": "Карточка раскрывает главу «Манихейство и поздние традиционные культы» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: III–VI века.",
+      "Основной смысл: двухуровневая структура манихейских общин с разными обязанностями.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Манихейство и поздние традиционные культы",
+      "institution"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 8,
+      "religion": 9,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Средиземноморье и Передняя Азия",
+      "lat": 35.5,
+      "lon": 28.0
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-10/ecr_s_10_03.svg",
+      "caption": "Локальная учебная обложка: Избранные и слушатели",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Manichaeism",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_10_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Manichaeism",
+      "url": "https://www.britannica.com/topic/Manichaeism",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_10"
+  },
+  {
+    "id": "ECR_S_10_04",
+    "type": "TEXT",
+    "title": "Миссионерские переводы манихеев",
+    "original": "Manichaean missionary translations",
+    "subtitle": "передача учения на сирийском, коптском, среднеперсидском и других языках",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "III–VII века",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Миссионерские переводы манихеев — передача учения на сирийском, коптском, среднеперсидском и других языках.",
+    "importance": "Карточка раскрывает главу «Манихейство и поздние традиционные культы» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: III–VII века.",
+      "Основной смысл: передача учения на сирийском, коптском, среднеперсидском и других языках.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Манихейство и поздние традиционные культы",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 6,
+      "culture": 9,
+      "politics": 9,
+      "religion": 10,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Эдесса",
+      "lat": 37.159,
+      "lon": 38.796
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-10/ecr_s_10_04.svg",
+      "caption": "Локальная учебная обложка: Миссионерские переводы манихеев",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Manichaeism",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_10_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Manichaeism",
+      "url": "https://www.britannica.com/topic/Manichaeism",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_10"
+  },
+  {
+    "id": "ECR_S_10_05",
+    "type": "LEGAL",
+    "title": "Рескрипт Диоклетиана против манихеев",
+    "original": "Diocletian rescript against Manichaeans",
+    "subtitle": "императорский текст, связывавший движение с враждебной Персией",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "297 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Рескрипт Диоклетиана против манихеев — императорский текст, связывавший движение с враждебной Персией.",
+    "importance": "Карточка раскрывает главу «Манихейство и поздние традиционные культы» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 297 год.",
+      "Основной смысл: императорский текст, связывавший движение с враждебной Персией.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Манихейство и поздние традиционные культы",
+      "legal"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 2,
+      "culture": 7,
+      "politics": 5,
+      "religion": 8,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.483
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-10/ecr_s_10_05.svg",
+      "caption": "Локальная учебная обложка: Рескрипт Диоклетиана против манихеев",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Manichaeism",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_10_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Manichaeism",
+      "url": "https://www.britannica.com/topic/Manichaeism",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_10"
+  },
+  {
+    "id": "ECR_S_10_06",
+    "type": "INSTITUTION",
+    "title": "Городские храмы в христианской империи",
+    "original": "Urban temples in a Christian empire",
+    "subtitle": "продолжение, перепрофилирование и разрушение культовых мест по разным региональным сценариям",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "IV–VI века",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Городские храмы в христианской империи — продолжение, перепрофилирование и разрушение культовых мест по разным региональным сценариям.",
+    "importance": "Карточка раскрывает главу «Манихейство и поздние традиционные культы» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: IV–VI века.",
+      "Основной смысл: продолжение, перепрофилирование и разрушение культовых мест по разным региональным сценариям.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Манихейство и поздние традиционные культы",
+      "institution"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 3,
+      "culture": 8,
+      "politics": 6,
+      "religion": 9,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сарды",
+      "lat": 38.488,
+      "lon": 28.04
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-10/ecr_s_10_06.svg",
+      "caption": "Локальная учебная обложка: Городские храмы в христианской империи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Manichaeism",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_10_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Manichaeism",
+      "url": "https://www.britannica.com/topic/Manichaeism",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_10"
+  },
+  {
+    "id": "ECR_S_10_07",
+    "type": "RELIGION",
+    "title": "Мистериальные культы поздней империи",
+    "original": "Mystery cults of the late empire",
+    "subtitle": "инициационные общины и ритуалы без единой общей организации",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "III–IV века",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Мистериальные культы поздней империи — инициационные общины и ритуалы без единой общей организации.",
+    "importance": "Карточка раскрывает главу «Манихейство и поздние традиционные культы» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: III–IV века.",
+      "Основной смысл: инициационные общины и ритуалы без единой общей организации.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Манихейство и поздние традиционные культы",
+      "religion"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 4,
+      "culture": 9,
+      "politics": 7,
+      "religion": 10,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.483
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-10/ecr_s_10_07.svg",
+      "caption": "Локальная учебная обложка: Мистериальные культы поздней империи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Manichaeism",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_10_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Manichaeism",
+      "url": "https://www.britannica.com/topic/Manichaeism",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_10"
+  },
+  {
+    "id": "ECR_S_10_08",
+    "type": "INTELLECTUAL",
+    "title": "Философские школы и религиозная практика",
+    "original": "Philosophical schools and religious practice",
+    "subtitle": "платонические и другие школы как места обучения, ритуала и элитной идентичности",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "III–VI века",
+    "rarity": "EPIC",
+    "difficulty": 11,
+    "summary": "Философские школы и религиозная практика — платонические и другие школы как места обучения, ритуала и элитной идентичности.",
+    "importance": "Карточка раскрывает главу «Манихейство и поздние традиционные культы» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: III–VI века.",
+      "Основной смысл: платонические и другие школы как места обучения, ритуала и элитной идентичности.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Манихейство и поздние традиционные культы",
+      "intellectual"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 5,
+      "culture": 7,
+      "politics": 8,
+      "religion": 8,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Александрия",
+      "lat": 31.2,
+      "lon": 29.918
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-10/ecr_s_10_08.svg",
+      "caption": "Локальная учебная обложка: Философские школы и религиозная практика",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Manichaeism",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_10_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Manichaeism",
+      "url": "https://www.britannica.com/topic/Manichaeism",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_10"
+  },
+  {
+    "id": "ECR_S_11_01",
+    "type": "PERSON",
+    "title": "Несторий и спор о титуле Богородицы",
+    "original": "Nestorius and the title Theotokos controversy",
+    "subtitle": "константинопольский епископ, чьи проповеди вызвали конфликт с Кириллом",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "V век",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Несторий и спор о титуле Богородицы — константинопольский епископ, чьи проповеди вызвали конфликт с Кириллом.",
+    "importance": "Карточка раскрывает главу «Эфес, Халкидон и разные христианские Востоки» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: V век.",
+      "Основной смысл: константинопольский епископ, чьи проповеди вызвали конфликт с Кириллом.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Эфес, Халкидон и разные христианские Востоки",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 4,
+      "culture": 7,
+      "politics": 8,
+      "religion": 8,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.008,
+      "lon": 28.978
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-11/ecr_s_11_01.svg",
+      "caption": "Локальная учебная обложка: Несторий и спор о титуле Богородицы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Council-of-Chalcedon",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_11_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Council of Chalcedon",
+      "url": "https://www.britannica.com/event/Council-of-Chalcedon",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_11"
+  },
+  {
+    "id": "ECR_S_11_02",
+    "type": "PERSON",
+    "title": "Кирилл Александрийский",
+    "original": "Cyril of Alexandria",
+    "subtitle": "епископ, богослов и политический лидер египетской церкви",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "V век",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Кирилл Александрийский — епископ, богослов и политический лидер египетской церкви.",
+    "importance": "Карточка раскрывает главу «Эфес, Халкидон и разные христианские Востоки» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: V век.",
+      "Основной смысл: епископ, богослов и политический лидер египетской церкви.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Эфес, Халкидон и разные христианские Востоки",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 5,
+      "culture": 8,
+      "politics": 9,
+      "religion": 9,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Александрия",
+      "lat": 31.2,
+      "lon": 29.918
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-11/ecr_s_11_02.svg",
+      "caption": "Локальная учебная обложка: Кирилл Александрийский",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Council-of-Chalcedon",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_11_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Council of Chalcedon",
+      "url": "https://www.britannica.com/event/Council-of-Chalcedon",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_11"
+  },
+  {
+    "id": "ECR_S_11_03",
+    "type": "EVENT",
+    "title": "Эфесский собор 431 года",
+    "original": "Council of Ephesus of 431",
+    "subtitle": "собор с конкурирующими собраниями и решением против Нестория",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "431 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "Эфесский собор 431 года — собор с конкурирующими собраниями и решением против Нестория.",
+    "importance": "Карточка раскрывает главу «Эфес, Халкидон и разные христианские Востоки» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 431 год.",
+      "Основной смысл: собор с конкурирующими собраниями и решением против Нестория.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Эфес, Халкидон и разные христианские Востоки",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 5,
+      "religion": 10,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Эфес",
+      "lat": 37.941,
+      "lon": 27.342
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-11/ecr_s_11_03.svg",
+      "caption": "Локальная учебная обложка: Эфесский собор 431 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Council-of-Chalcedon",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_11_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Council of Chalcedon",
+      "url": "https://www.britannica.com/event/Council-of-Chalcedon",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_11"
+  },
+  {
+    "id": "ECR_S_11_04",
+    "type": "INTELLECTUAL",
+    "title": "Антиохийская и александрийская школы языка",
+    "original": "Antiochene and Alexandrian theological languages",
+    "subtitle": "разные способы говорить о единстве божественного и человеческого во Христе",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "IV–V века",
+    "rarity": "COMMON",
+    "difficulty": 11,
+    "summary": "Антиохийская и александрийская школы языка — разные способы говорить о единстве божественного и человеческого во Христе.",
+    "importance": "Карточка раскрывает главу «Эфес, Халкидон и разные христианские Востоки» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: IV–V века.",
+      "Основной смысл: разные способы говорить о единстве божественного и человеческого во Христе.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Эфес, Халкидон и разные христианские Востоки",
+      "intellectual"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 2,
+      "culture": 7,
+      "politics": 6,
+      "religion": 8,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Антиохия",
+      "lat": 36.202,
+      "lon": 36.161
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-11/ecr_s_11_04.svg",
+      "caption": "Локальная учебная обложка: Антиохийская и александрийская школы языка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Council-of-Chalcedon",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_11_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Council of Chalcedon",
+      "url": "https://www.britannica.com/event/Council-of-Chalcedon",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_11"
+  },
+  {
+    "id": "ECR_S_11_05",
+    "type": "TEXT",
+    "title": "«Томос» папы Льва",
+    "original": "Tome of Pope Leo",
+    "subtitle": "письмо римского епископа, использованное в обсуждениях Халкидона",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "449–451 годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 11,
+    "summary": "«Томос» папы Льва — письмо римского епископа, использованное в обсуждениях Халкидона.",
+    "importance": "Карточка раскрывает главу «Эфес, Халкидон и разные христианские Востоки» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 449–451 годы.",
+      "Основной смысл: письмо римского епископа, использованное в обсуждениях Халкидона.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Эфес, Халкидон и разные христианские Востоки",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 3,
+      "culture": 8,
+      "politics": 7,
+      "religion": 9,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.483
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-11/ecr_s_11_05.svg",
+      "caption": "Локальная учебная обложка: «Томос» папы Льва",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Council-of-Chalcedon",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_11_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Council of Chalcedon",
+      "url": "https://www.britannica.com/event/Council-of-Chalcedon",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_11"
+  },
+  {
+    "id": "ECR_S_11_06",
+    "type": "TEXT",
+    "title": "Халкидонская формула",
+    "original": "Chalcedonian Definition",
+    "subtitle": "решение об одном Христе в двух природах без смешения и разделения",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "451 год",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Халкидонская формула — решение об одном Христе в двух природах без смешения и разделения.",
+    "importance": "Карточка раскрывает главу «Эфес, Халкидон и разные христианские Востоки» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: 451 год.",
+      "Основной смысл: решение об одном Христе в двух природах без смешения и разделения.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Эфес, Халкидон и разные христианские Востоки",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 4,
+      "culture": 9,
+      "politics": 8,
+      "religion": 10,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.008,
+      "lon": 28.978
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-11/ecr_s_11_06.svg",
+      "caption": "Локальная учебная обложка: Халкидонская формула",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Council-of-Chalcedon",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_11_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Council of Chalcedon",
+      "url": "https://www.britannica.com/event/Council-of-Chalcedon",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_11"
+  },
+  {
+    "id": "ECR_S_11_07",
+    "type": "INSTITUTION",
+    "title": "Нехалкидонские церковные традиции",
+    "original": "Non-Chalcedonian church traditions",
+    "subtitle": "египетские, сирийские и армянские общины, отвергавшие формулу или её применение",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "V–VI века",
+    "rarity": "RARE",
+    "difficulty": 11,
+    "summary": "Нехалкидонские церковные традиции — египетские, сирийские и армянские общины, отвергавшие формулу или её применение.",
+    "importance": "Карточка раскрывает главу «Эфес, Халкидон и разные христианские Востоки» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: V–VI века.",
+      "Основной смысл: египетские, сирийские и армянские общины, отвергавшие формулу или её применение.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Эфес, Халкидон и разные христианские Востоки",
+      "institution"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 5,
+      "culture": 7,
+      "politics": 9,
+      "religion": 8,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Армения",
+      "lat": 40.18,
+      "lon": 44.51
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-11/ecr_s_11_07.svg",
+      "caption": "Локальная учебная обложка: Нехалкидонские церковные традиции",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Council-of-Chalcedon",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_11_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Council of Chalcedon",
+      "url": "https://www.britannica.com/event/Council-of-Chalcedon",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_11"
+  },
+  {
+    "id": "ECR_S_11_08",
+    "type": "INSTITUTION",
+    "title": "Церковь Востока в Сасанидской державе",
+    "original": "Church of the East in the Sasanian Empire",
+    "subtitle": "восточносирийская церковная структура за пределами римского двора",
+    "era": "Поздняя Античность",
+    "region": "Средиземноморье и Передняя Азия",
+    "date": "V–VI века",
+    "rarity": "EPIC",
+    "difficulty": 11,
+    "summary": "Церковь Востока в Сасанидской державе — восточносирийская церковная структура за пределами римского двора.",
+    "importance": "Карточка раскрывает главу «Эфес, Халкидон и разные христианские Востоки» и показывает институты, тексты, ритуалы, конфликты или материальную культуру религий поздней Античности.",
+    "facts": [
+      "Датировка: V–VI века.",
+      "Основной смысл: восточносирийская церковная структура за пределами римского двора.",
+      "Вывод проверяется через жанр текста, историю рукописи, археологический контекст и положение автора или общины."
+    ],
+    "tags": [
+      "Поздняя Античность",
+      "религии поздней Античности",
+      "Эфес, Халкидон и разные христианские Востоки",
+      "institution"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 6,
+      "culture": 8,
+      "politics": 5,
+      "religion": 9,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ктесифон",
+      "lat": 33.093,
+      "lon": 44.581
+    },
+    "image": {
+      "local": "assets/cards/late-religions/chapter-11/ecr_s_11_08.svg",
+      "caption": "Локальная учебная обложка: Церковь Востока в Сасанидской державе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Council-of-Chalcedon",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ecr_s_11_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Council of Chalcedon",
+      "url": "https://www.britannica.com/event/Council-of-Chalcedon",
+      "type": "reference"
+    },
+    "acquisition": "STORY",
+    "campaign": "EARLY_CHRISTIANITY",
+    "chapter": "ECR_CHAPTER_11"
+  }
+]

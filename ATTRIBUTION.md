@@ -347,3 +347,8 @@
 ## v6.8 — Поздняя Римская империя
 
 Локальные SVG-обложки 132 карточек и обложка пака созданы для Codex of History. Источниковая рамка использует Encyclopaedia Britannica, UNESCO World Heritage Centre, Perseus Digital Library, Bodleian Libraries, Roman Law Library и Fordham Internet Sourcebooks.
+
+
+## v6.9 — Христианство и религии поздней Античности
+
+Локальные SVG-обложки 132 карточек и обложка пака созданы для Codex of History. Источниковая рамка использует Encyclopaedia Britannica, Codex Sinaiticus Project, Sefaria, Fordham Ancient History Sourcebook и UNESCO World Heritage Centre. Религиозные утверждения представлены как позиции исторических общин и авторов, а не как выводы исторического метода.

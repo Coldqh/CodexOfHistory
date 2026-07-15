@@ -1,6 +1,6 @@
-/* Codex v6.0.0 — Vedic India and early states */
+/* Codex v6.1.0 — Vedic India and early states */
 (()=>{
-  const V='6.0.0';
+  const V='6.1.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.INDIA_VEDIC='INDIA_VEDIC';
   state.vedicPhase=state.vedicPhase||'EARLY';

@@ -307,3 +307,8 @@
 ## v6.0 — Эллинистический мир
 
 Локальные SVG-обложки 120 карточек и обложка пака созданы для Codex of History. Источники: Metropolitan Museum of Art, British Museum, Encyclopaedia Iranica, UNESCO и Perseus Digital Library. Динамические исторические изображения загружаются только для видимых карточек и живут до конца текущей сессии.
+
+
+## v6.1 — Рим: главы 4–6
+
+Локальные SVG-обложки новых карточек созданы для Codex of History. Источники: Metropolitan Museum of Art, British Museum и Perseus Digital Library. Пять ранее подготовленных исторических изображений Пунических войн сохранены с исходной атрибуцией Wikimedia Commons.

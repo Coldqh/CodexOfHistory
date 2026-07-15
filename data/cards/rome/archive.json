@@ -7788,5 +7788,701 @@
     "acquisition": "PACK",
     "campaign": "ROME",
     "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "ROM_A_04_01",
+    "type": "PEOPLE",
+    "title": "Мамертинцы в Мессане",
+    "original": "Mamertines in Messana",
+    "subtitle": "наёмники, чей конфликт втянул Рим и Карфаген в Сицилию",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "III век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Мамертинцы в Мессане — наёмники, чей конфликт втянул Рим и Карфаген в Сицилию.",
+    "importance": "Карточка раскрывает главу «Пунические войны» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: наёмники, чей конфликт втянул Рим и Карфаген в Сицилию.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Пунические войны",
+      "people"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 5,
+      "culture": 6,
+      "politics": 7,
+      "religion": 3,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мессана",
+      "lat": 38.193,
+      "lon": 15.554
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_04/rom_a_04_01.svg",
+      "caption": "Локальная учебная обложка: Мамертинцы в Мессане",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/roman.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of Ancient Rome",
+      "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/roman.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_04"
+  },
+  {
+    "id": "ROM_A_04_02",
+    "type": "TECHNOLOGY",
+    "title": "Абордажный мост corvus",
+    "original": "Corvus boarding device",
+    "subtitle": "описанное Полибием устройство для абордажа в ранних морских боях",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "III век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Абордажный мост corvus — описанное Полибием устройство для абордажа в ранних морских боях.",
+    "importance": "Карточка раскрывает главу «Пунические войны» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: описанное Полибием устройство для абордажа в ранних морских боях.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Пунические войны",
+      "technology"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 7,
+      "politics": 7,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Милы",
+      "lat": 38.215,
+      "lon": 15.24
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_04/rom_a_04_02.svg",
+      "caption": "Локальная учебная обложка: Абордажный мост corvus",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/roman.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of Ancient Rome",
+      "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/roman.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_04"
+  },
+  {
+    "id": "ROM_A_04_03",
+    "type": "SOURCE",
+    "title": "Эгатские острова: археология морской битвы",
+    "original": "Battle of the Egadi Islands archaeology",
+    "subtitle": "бронзовые тараны, шлемы и амфоры с места битвы 241 года",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "241 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Эгатские острова: археология морской битвы — бронзовые тараны, шлемы и амфоры с места битвы 241 года.",
+    "importance": "Карточка раскрывает главу «Пунические войны» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: 241 год до н. э..",
+      "Основной смысл: бронзовые тараны, шлемы и амфоры с места битвы 241 года.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Пунические войны",
+      "source"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 7,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Эгатские острова",
+      "lat": 37.95,
+      "lon": 12.0
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_04/rom_a_04_03.svg",
+      "caption": "Локальная учебная обложка: Эгатские острова: археология морской битвы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/roman.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of Ancient Rome",
+      "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/roman.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_04"
+  },
+  {
+    "id": "ROM_A_04_04",
+    "type": "ARTIFACT",
+    "title": "Карфагенская монета с боевым слоном",
+    "original": "Carthaginian coin with war elephant",
+    "subtitle": "серебряная монета из карфагенской Иберии с образом слона",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "237–209 годы до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 7,
+    "summary": "Карфагенская монета с боевым слоном — серебряная монета из карфагенской Иберии с образом слона.",
+    "importance": "Карточка раскрывает главу «Пунические войны» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: 237–209 годы до н. э..",
+      "Основной смысл: серебряная монета из карфагенской Иберии с образом слона.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Пунические войны",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 5,
+      "culture": 8,
+      "politics": 7,
+      "religion": 6,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Новый Карфаген",
+      "lat": 37.604,
+      "lon": -0.986
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_04/rom_a_04_04.svg",
+      "caption": "Локальная учебная обложка: Карфагенская монета с боевым слоном",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/roman.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_04_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of Ancient Rome",
+      "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/roman.pdf",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_04"
+  },
+  {
+    "id": "ROM_A_05_01",
+    "type": "DIPLOMACY",
+    "title": "Сенатское посольство к Филиппу V",
+    "original": "Roman ultimatum to Philip V",
+    "subtitle": "дипломатическое давление перед Второй Македонской войной",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "200 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Сенатское посольство к Филиппу V — дипломатическое давление перед Второй Македонской войной.",
+    "importance": "Карточка раскрывает главу «Завоевание эллинистического мира» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: 200 год до н. э..",
+      "Основной смысл: дипломатическое давление перед Второй Македонской войной.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Завоевание эллинистического мира",
+      "diplomacy"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 6,
+      "culture": 8,
+      "politics": 9,
+      "religion": 3,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Македония",
+      "lat": 40.7,
+      "lon": 22.5
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_05/rom_a_05_01.svg",
+      "caption": "Локальная учебная обложка: Сенатское посольство к Филиппу V",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Italian Peninsula, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_05"
+  },
+  {
+    "id": "ROM_A_05_02",
+    "type": "SOURCE",
+    "title": "Истмийское провозглашение",
+    "original": "Flamininus proclamation at the Isthmian Games",
+    "subtitle": "публичное объявление свободы греческих общин в 196 году",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "196 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Истмийское провозглашение — публичное объявление свободы греческих общин в 196 году.",
+    "importance": "Карточка раскрывает главу «Завоевание эллинистического мира» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: 196 год до н. э..",
+      "Основной смысл: публичное объявление свободы греческих общин в 196 году.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Завоевание эллинистического мира",
+      "source"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 6,
+      "culture": 6,
+      "politics": 8,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Коринф",
+      "lat": 37.906,
+      "lon": 22.878
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_05/rom_a_05_02.svg",
+      "caption": "Локальная учебная обложка: Истмийское провозглашение",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Italian Peninsula, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_05"
+  },
+  {
+    "id": "ROM_A_05_03",
+    "type": "RITUAL",
+    "title": "Триумф Луция Эмилия Павла",
+    "original": "Triumph of Aemilius Paullus",
+    "subtitle": "римское представление победы над Македонией и царём Персеем",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "167 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Триумф Луция Эмилия Павла — римское представление победы над Македонией и царём Персеем.",
+    "importance": "Карточка раскрывает главу «Завоевание эллинистического мира» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: 167 год до н. э..",
+      "Основной смысл: римское представление победы над Македонией и царём Персеем.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Завоевание эллинистического мира",
+      "ritual"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 6,
+      "culture": 8,
+      "politics": 8,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_05/rom_a_05_03.svg",
+      "caption": "Локальная учебная обложка: Триумф Луция Эмилия Павла",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Italian Peninsula, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_05"
+  },
+  {
+    "id": "ROM_A_05_04",
+    "type": "PERSON",
+    "title": "Полибий между Ахайей и Римом",
+    "original": "Polybius in Rome",
+    "subtitle": "ахейский политик, заложник и историк римского возвышения",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "ок. 200–118 годы до н. э.",
+    "rarity": "MYTHIC",
+    "difficulty": 7,
+    "summary": "Полибий между Ахайей и Римом — ахейский политик, заложник и историк римского возвышения.",
+    "importance": "Карточка раскрывает главу «Завоевание эллинистического мира» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: ок. 200–118 годы до н. э..",
+      "Основной смысл: ахейский политик, заложник и историк римского возвышения.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Завоевание эллинистического мира",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 6,
+      "culture": 5,
+      "politics": 8,
+      "religion": 3,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_05/rom_a_05_04.svg",
+      "caption": "Локальная учебная обложка: Полибий между Ахайей и Римом",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Italian Peninsula, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_05"
+  },
+  {
+    "id": "ROM_A_06_01",
+    "type": "TEXT",
+    "title": "Полибий о смешанном устройстве",
+    "original": "Polybius on the Roman constitution",
+    "subtitle": "греческое объяснение римского порядка через царский, аристократический и народный элементы",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "II век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Полибий о смешанном устройстве — греческое объяснение римского порядка через царский, аристократический и народный элементы.",
+    "importance": "Карточка раскрывает главу «Как работала Республика» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: II век до н. э..",
+      "Основной смысл: греческое объяснение римского порядка через царский, аристократический и народный элементы.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Как работала Республика",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 6,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_06/rom_a_06_01.svg",
+      "caption": "Локальная учебная обложка: Полибий о смешанном устройстве",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Introduction to ancient Rome",
+      "url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_06"
+  },
+  {
+    "id": "ROM_A_06_02",
+    "type": "ARTIFACT",
+    "title": "Ликторы и знаки магистратской власти",
+    "original": "Roman lictors and fasces",
+    "subtitle": "служители и символы права магистрата приказывать и наказывать",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "Римская республика",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Ликторы и знаки магистратской власти — служители и символы права магистрата приказывать и наказывать.",
+    "importance": "Карточка раскрывает главу «Как работала Республика» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: Римская республика.",
+      "Основной смысл: служители и символы права магистрата приказывать и наказывать.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Как работала Республика",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 4,
+      "culture": 5,
+      "politics": 6,
+      "religion": 3,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Форум",
+      "lat": 41.892,
+      "lon": 12.485
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_06/rom_a_06_02.svg",
+      "caption": "Локальная учебная обложка: Ликторы и знаки магистратской власти",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Introduction to ancient Rome",
+      "url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_06"
+  },
+  {
+    "id": "ROM_A_06_03",
+    "type": "ECONOMY",
+    "title": "Публиканы и сбор налогов",
+    "original": "Publicani and tax collection",
+    "subtitle": "частные объединения, получавшие государственные подряды и налоговые контракты",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "II–I века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Публиканы и сбор налогов — частные объединения, получавшие государственные подряды и налоговые контракты.",
+    "importance": "Карточка раскрывает главу «Как работала Республика» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: II–I века до н. э..",
+      "Основной смысл: частные объединения, получавшие государственные подряды и налоговые контракты.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Как работала Республика",
+      "economy"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 4,
+      "culture": 5,
+      "politics": 6,
+      "religion": 3,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "провинция Сицилия",
+      "lat": 37.55,
+      "lon": 14.1
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_06/rom_a_06_03.svg",
+      "caption": "Локальная учебная обложка: Публиканы и сбор налогов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Introduction to ancient Rome",
+      "url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_06"
+  },
+  {
+    "id": "ROM_A_06_04",
+    "type": "RITUAL",
+    "title": "Выборы на Марсовом поле",
+    "original": "Roman elections on the Campus Martius",
+    "subtitle": "пространство голосования, военного сбора и политической конкуренции",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "Римская республика",
+    "rarity": "MYTHIC",
+    "difficulty": 8,
+    "summary": "Выборы на Марсовом поле — пространство голосования, военного сбора и политической конкуренции.",
+    "importance": "Карточка раскрывает главу «Как работала Республика» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: Римская республика.",
+      "Основной смысл: пространство голосования, военного сбора и политической конкуренции.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Как работала Республика",
+      "ritual"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 4,
+      "culture": 6,
+      "politics": 6,
+      "religion": 6,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Марсово поле",
+      "lat": 41.901,
+      "lon": 12.474
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_06/rom_a_06_04.svg",
+      "caption": "Локальная учебная обложка: Выборы на Марсовом поле",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_a_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Introduction to ancient Rome",
+      "url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_06"
   }
 ]

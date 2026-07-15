@@ -1,8 +1,8 @@
 {
   "points": {
     "ROME": [
-      41.9028,
-      12.4964
+      41.893,
+      12.482
     ],
     "PALATINE": [
       41.8895,
@@ -13,8 +13,8 @@
       12.4829
     ],
     "FORUM": [
-      41.8925,
-      12.4853
+      41.892,
+      12.485
     ],
     "LATIUM": [
       41.75,
@@ -29,12 +29,12 @@
       11.82
     ],
     "CARTHAGE": [
-      36.8529,
-      10.3233
+      36.853,
+      10.323
     ],
     "CANNAE": [
-      41.3062,
-      16.1348
+      41.306,
+      16.135
     ],
     "ZAMA": [
       36.33,
@@ -57,8 +57,8 @@
       12.4844
     ],
     "CURIA": [
-      41.8931,
-      12.4851
+      41.893,
+      12.485
     ],
     "PONS_SUBLICIUS": [
       41.8876,
@@ -135,6 +135,74 @@
     "MAGNA_GRAECIA": [
       39.9,
       16.5
+    ],
+    "MESSANA": [
+      38.193,
+      15.554
+    ],
+    "MYLAE": [
+      38.215,
+      15.24
+    ],
+    "SICILY": [
+      37.6,
+      14.0
+    ],
+    "EGATES": [
+      37.95,
+      12.0
+    ],
+    "NEW_CARTHAGE": [
+      37.604,
+      -0.986
+    ],
+    "SAGUNTUM": [
+      39.68,
+      -0.278
+    ],
+    "ALPS": [
+      45.8,
+      7.5
+    ],
+    "CORCYRA": [
+      39.624,
+      19.922
+    ],
+    "CYNOSCEPHALAE": [
+      39.35,
+      22.45
+    ],
+    "CORINTH": [
+      37.906,
+      22.878
+    ],
+    "MAGNESIA": [
+      38.05,
+      27.35
+    ],
+    "APAMEA": [
+      38.071,
+      30.166
+    ],
+    "PYDNA": [
+      40.374,
+      22.578
+    ],
+    "MACEDONIA": [
+      40.7,
+      22.5
+    ],
+    "AEGEAN": [
+      38.5,
+      25.0
+    ],
+    "SICILY_PROVINCE": [
+      37.55,
+      14.1
+    ],
+    "ITALY": [
+      42.0,
+      13.0
     ]
   },
   "regions": {
@@ -272,13 +340,10 @@
     "EVT_ROM_002": "ROME",
     "STATE_ROM_002": "ROME",
     "ORG_ROM_001": "FORUM",
-    "PER_CAR_001": "CARTHAGE",
-    "WAR_ROM_001": [
-      39.4,
-      12.0
-    ],
+    "PER_CAR_001": "ALPS",
+    "WAR_ROM_001": "SAGUNTUM",
     "BAT_ROM_001": "CANNAE",
-    "PER_ROM_002": "ZAMA",
+    "PER_ROM_002": "NEW_CARTHAGE",
     "BAT_ROM_002": "ZAMA",
     "PER_ROM_003": "ROME",
     "EVT_ROM_003": "RUBICON",
@@ -401,7 +466,38 @@
     "TERM_ITA_006": "ROME",
     "ORG_ITA_001": "ROME",
     "ART_ITA_001": "ROME",
-    "PER_ITA_005": "ROME"
+    "PER_ITA_005": "ROME",
+    "WAR_ROM_010": "MESSANA",
+    "MIL_ROM_010": "MYLAE",
+    "ADM_ROM_010": "SICILY",
+    "ROM_A_04_01": "MESSANA",
+    "ROM_A_04_02": "MYLAE",
+    "ROM_A_04_03": "EGATES",
+    "ROM_A_04_04": "NEW_CARTHAGE",
+    "ROM_S_05_01": "CORCYRA",
+    "ROM_S_05_02": "CORINTH",
+    "ROM_S_05_03": "CYNOSCEPHALAE",
+    "ROM_S_05_04": "AEGEAN",
+    "ROM_S_05_05": "MAGNESIA",
+    "ROM_S_05_06": "APAMEA",
+    "ROM_S_05_07": "PYDNA",
+    "ROM_S_05_08": "CORINTH",
+    "ROM_A_05_01": "MACEDONIA",
+    "ROM_A_05_02": "CORINTH",
+    "ROM_A_05_03": "ROME",
+    "ROM_A_05_04": "ROME",
+    "ROM_S_06_01": "CURIA",
+    "ROM_S_06_02": "FORUM",
+    "ROM_S_06_03": "FORUM",
+    "ROM_S_06_04": "MARS_FIELD",
+    "ROM_S_06_05": "FORUM",
+    "ROM_S_06_06": "ROME",
+    "ROM_S_06_07": "SICILY_PROVINCE",
+    "ROM_S_06_08": "ITALY",
+    "ROM_A_06_01": "ROME",
+    "ROM_A_06_02": "FORUM",
+    "ROM_A_06_03": "SICILY_PROVINCE",
+    "ROM_A_06_04": "MARS_FIELD"
   },
   "chapters": {
     "ROME_CHAPTER_01": {
@@ -464,6 +560,59 @@
         "MIS_ITALY_11",
         "MIS_ITALY_12"
       ]
+    },
+    "ROME_CHAPTER_04": {
+      "title": "Пунические войны",
+      "center": [
+        38.193,
+        15.554
+      ],
+      "zoom": 5,
+      "missionIds": [
+        "ROM_04_01",
+        "ROM_04_02",
+        "ROM_04_03",
+        "ROM_04_04",
+        "ROM_04_05",
+        "ROM_04_06"
+      ]
+    },
+    "ROME_CHAPTER_05": {
+      "title": "Завоевание эллинистического мира",
+      "center": [
+        39.624,
+        19.922
+      ],
+      "zoom": 5,
+      "missionIds": [
+        "ROM_05_01",
+        "ROM_05_02",
+        "ROM_05_03",
+        "ROM_05_04",
+        "ROM_05_05",
+        "ROM_05_06"
+      ]
+    },
+    "ROME_CHAPTER_06": {
+      "title": "Как работала Республика",
+      "center": [
+        41.893,
+        12.485
+      ],
+      "zoom": 8,
+      "missionIds": [
+        "ROM_06_01",
+        "ROM_06_02",
+        "ROM_06_03",
+        "ROM_06_04",
+        "ROM_06_05",
+        "ROM_06_06"
+      ]
     }
-  }
+  },
+  "missionCenter": [
+    39.5,
+    15.0
+  ],
+  "missionZoom": 4
 }

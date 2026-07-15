@@ -1,6 +1,6 @@
-/* Codex v6.0.0 — Phoenicians and the western Mediterranean */
+/* Codex v6.1.0 — Phoenicians and the western Mediterranean */
 (()=>{
-  const V='6.0.0';
+  const V='6.1.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.PHOENICIANS='PHOENICIANS';
   state.phoeniciaPhase=state.phoeniciaPhase||'COAST';

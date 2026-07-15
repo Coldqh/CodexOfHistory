@@ -3168,5 +3168,1402 @@
     "acquisition": "CAMPAIGN",
     "campaign": "ROME",
     "chapter": "ROME_CHAPTER_03"
+  },
+  {
+    "id": "WAR_ROM_010",
+    "type": "WAR",
+    "title": "Первая Пуническая война",
+    "original": "First Punic War",
+    "subtitle": "долгая борьба Рима и Карфагена за Сицилию и море",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "264–241 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Первая Пуническая война — долгая борьба Рима и Карфагена за Сицилию и море.",
+    "importance": "Карточка раскрывает главу «Пунические войны» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: 264–241 годы до н. э..",
+      "Основной смысл: долгая борьба Рима и Карфагена за Сицилию и море.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Пунические войны",
+      "war"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 6,
+      "culture": 8,
+      "politics": 7,
+      "religion": 6,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мессана",
+      "lat": 38.193,
+      "lon": 15.554
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_04/war_rom_010.svg",
+      "caption": "Локальная учебная обложка: Первая Пуническая война",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/roman.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "war_rom_010.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of Ancient Rome",
+      "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/roman.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_04"
+  },
+  {
+    "id": "MIL_ROM_010",
+    "type": "MILITARY",
+    "title": "Римский флот Первой Пунической войны",
+    "original": "Roman fleet in the First Punic War",
+    "subtitle": "созданный в ходе войны большой флот и новая система морского снабжения",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "III век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Римский флот Первой Пунической войны — созданный в ходе войны большой флот и новая система морского снабжения.",
+    "importance": "Карточка раскрывает главу «Пунические войны» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: III век до н. э..",
+      "Основной смысл: созданный в ходе войны большой флот и новая система морского снабжения.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Пунические войны",
+      "military"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 6,
+      "culture": 7,
+      "politics": 7,
+      "religion": 3,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Милы",
+      "lat": 38.215,
+      "lon": 15.24
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_04/mil_rom_010.svg",
+      "caption": "Локальная учебная обложка: Римский флот Первой Пунической войны",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/roman.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "mil_rom_010.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of Ancient Rome",
+      "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/roman.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_04"
+  },
+  {
+    "id": "ADM_ROM_010",
+    "type": "ADMINISTRATION",
+    "title": "Сицилия — первая римская провинция",
+    "original": "Roman Sicily",
+    "subtitle": "территория за пределами Италии под властью римского магистрата",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "с 241 года до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Сицилия — первая римская провинция — территория за пределами Италии под властью римского магистрата.",
+    "importance": "Карточка раскрывает главу «Пунические войны» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: с 241 года до н. э..",
+      "Основной смысл: территория за пределами Италии под властью римского магистрата.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Пунические войны",
+      "administration"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 5,
+      "culture": 5,
+      "politics": 8,
+      "religion": 5,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сицилия",
+      "lat": 37.6,
+      "lon": 14.0
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_04/adm_rom_010.svg",
+      "caption": "Локальная учебная обложка: Сицилия — первая римская провинция",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/roman.pdf",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adm_rom_010.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of Ancient Rome",
+      "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/roman.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_04"
+  },
+  {
+    "id": "PER_CAR_001",
+    "type": "PERSON",
+    "title": "Ганнибал Барка",
+    "original": "Hannibal Barca",
+    "subtitle": "карфагенский полководец, перенёсший войну в Италию",
+    "era": "Средняя Римская республика",
+    "region": "Западное Средиземноморье",
+    "date": "ок. 247–183 годы до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 6,
+    "summary": "Ганнибал Барка — карфагенский полководец, перенёсший войну в Италию.",
+    "importance": "Карточка входит в главу «Пунические войны» и показывает, как республика превратилась из италийской силы в средиземноморскую державу.",
+    "facts": [
+      "Датировка: ок. 247–183 годы до н. э..",
+      "Основной смысл: карфагенский полководец, перенёсший войну в Италию.",
+      "Литературные рассказы нужно сопоставлять с монетами, археологией, географией и политическими интересами авторов."
+    ],
+    "tags": [
+      "Римская республика",
+      "Пунические войны",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 5,
+      "legacy": 10,
+      "military": 10,
+      "culture": 7,
+      "politics": 6,
+      "religion": 1,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Альпы",
+      "lat": 45.8,
+      "lon": 7.5
+    },
+    "image": {
+      "file": "Hannibal_Slodtz_Louvre_MR2093.png",
+      "caption": "Скульптура Ганнибала работы Себастьена Слодца",
+      "credit": "Wikimedia Commons",
+      "license": "Public Domain / см. страницу файла",
+      "focus": "50% 50%",
+      "local": "assets/cards/rome/legacy/per_car_001.svg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hannibal_Slodtz_Louvre_MR2093.png",
+      "prefer_remote": true,
+      "kind": "historical-image"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of Ancient Rome",
+      "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/roman.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_04"
+  },
+  {
+    "id": "WAR_ROM_001",
+    "type": "WAR",
+    "title": "Вторая Пуническая война",
+    "original": "Second Punic War",
+    "subtitle": "война Рима и Карфагена в Иберии, Италии, Сицилии и Африке",
+    "era": "Средняя Римская республика",
+    "region": "Западное Средиземноморье",
+    "date": "218–201 годы до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 6,
+    "summary": "Вторая Пуническая война — война Рима и Карфагена в Иберии, Италии, Сицилии и Африке.",
+    "importance": "Карточка входит в главу «Пунические войны» и показывает, как республика превратилась из италийской силы в средиземноморскую державу.",
+    "facts": [
+      "Датировка: 218–201 годы до н. э..",
+      "Основной смысл: война Рима и Карфагена в Иберии, Италии, Сицилии и Африке.",
+      "Литературные рассказы нужно сопоставлять с монетами, археологией, географией и политическими интересами авторов."
+    ],
+    "tags": [
+      "Римская республика",
+      "Пунические войны",
+      "war"
+    ],
+    "stats": {
+      "influence": 10,
+      "complexity": 6,
+      "legacy": 10,
+      "military": 10,
+      "culture": 6,
+      "politics": 8,
+      "religion": 1,
+      "economy": 8,
+      "connections": 10
+    },
+    "loc": {
+      "label": "Сагунт",
+      "lat": 39.68,
+      "lon": -0.278
+    },
+    "image": {
+      "file": "Map_of_Rome_and_Carthage_at_the_start_of_the_Second_Punic_War.svg",
+      "caption": "Рим и Карфаген в начале Второй Пунической войны",
+      "credit": "Wikimedia Commons",
+      "license": "см. страницу файла",
+      "focus": "50% 50%",
+      "local": "assets/cards/rome/legacy/war_rom_001.svg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Map_of_Rome_and_Carthage_at_the_start_of_the_Second_Punic_War.svg",
+      "prefer_remote": true,
+      "kind": "historical-image"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of Ancient Rome",
+      "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/roman.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_04"
+  },
+  {
+    "id": "BAT_ROM_001",
+    "type": "BATTLE",
+    "title": "Битва при Каннах",
+    "original": "Battle of Cannae",
+    "subtitle": "разгром крупной римской армии Ганнибалом",
+    "era": "Средняя Римская республика",
+    "region": "Западное Средиземноморье",
+    "date": "216 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 6,
+    "summary": "Битва при Каннах — разгром крупной римской армии Ганнибалом.",
+    "importance": "Карточка входит в главу «Пунические войны» и показывает, как республика превратилась из италийской силы в средиземноморскую державу.",
+    "facts": [
+      "Датировка: 216 год до н. э..",
+      "Основной смысл: разгром крупной римской армии Ганнибалом.",
+      "Литературные рассказы нужно сопоставлять с монетами, археологией, географией и политическими интересами авторов."
+    ],
+    "tags": [
+      "Римская республика",
+      "Пунические войны",
+      "battle"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 5,
+      "legacy": 10,
+      "military": 10,
+      "culture": 7,
+      "politics": 5,
+      "religion": 1,
+      "economy": 4,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Канны",
+      "lat": 41.306,
+      "lon": 16.135
+    },
+    "image": {
+      "file": "Battle_cannae_destruction.svg",
+      "caption": "Схема окружения римской армии при Каннах",
+      "credit": "Wikimedia Commons",
+      "license": "см. страницу файла",
+      "focus": "50% 50%",
+      "local": "assets/cards/rome/legacy/bat_rom_001.svg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Battle_cannae_destruction.svg",
+      "prefer_remote": true,
+      "kind": "historical-image"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of Ancient Rome",
+      "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/roman.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_04"
+  },
+  {
+    "id": "PER_ROM_002",
+    "type": "PERSON",
+    "title": "Сципион Африканский",
+    "original": "Scipio Africanus",
+    "subtitle": "римский командующий, перенёсший главную войну в Африку",
+    "era": "Средняя Римская республика",
+    "region": "Западное Средиземноморье",
+    "date": "236–183 годы до н. э.",
+    "rarity": "RARE",
+    "difficulty": 6,
+    "summary": "Сципион Африканский — римский командующий, перенёсший главную войну в Африку.",
+    "importance": "Карточка входит в главу «Пунические войны» и показывает, как республика превратилась из италийской силы в средиземноморскую державу.",
+    "facts": [
+      "Датировка: 236–183 годы до н. э..",
+      "Основной смысл: римский командующий, перенёсший главную войну в Африку.",
+      "Литературные рассказы нужно сопоставлять с монетами, археологией, географией и политическими интересами авторов."
+    ],
+    "tags": [
+      "Римская республика",
+      "Пунические войны",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 5,
+      "legacy": 8,
+      "military": 10,
+      "culture": 5,
+      "politics": 6,
+      "religion": 1,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Новый Карфаген",
+      "lat": 37.604,
+      "lon": -0.986
+    },
+    "image": {
+      "file": "Scipio_Africanus_the_Elder.jpg",
+      "caption": "Бюст Сципиона Африканского Старшего",
+      "credit": "Wikimedia Commons",
+      "license": "см. страницу файла",
+      "focus": "50% 50%",
+      "local": "assets/cards/rome/legacy/per_rom_002.svg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Scipio_Africanus_the_Elder.jpg",
+      "prefer_remote": true,
+      "kind": "historical-image"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of Ancient Rome",
+      "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/roman.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_04"
+  },
+  {
+    "id": "BAT_ROM_002",
+    "type": "BATTLE",
+    "title": "Битва при Заме",
+    "original": "Battle of Zama",
+    "subtitle": "решающее поражение армии Ганнибала в Африке",
+    "era": "Средняя Римская республика",
+    "region": "Западное Средиземноморье",
+    "date": "202 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 6,
+    "summary": "Битва при Заме — решающее поражение армии Ганнибала в Африке.",
+    "importance": "Карточка входит в главу «Пунические войны» и показывает, как республика превратилась из италийской силы в средиземноморскую державу.",
+    "facts": [
+      "Датировка: 202 год до н. э..",
+      "Основной смысл: решающее поражение армии Ганнибала в Африке.",
+      "Литературные рассказы нужно сопоставлять с монетами, археологией, географией и политическими интересами авторов."
+    ],
+    "tags": [
+      "Римская республика",
+      "Пунические войны",
+      "battle"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 4,
+      "legacy": 8,
+      "military": 9,
+      "culture": 5,
+      "politics": 8,
+      "religion": 1,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Зама",
+      "lat": 36.33,
+      "lon": 9.45
+    },
+    "image": {
+      "file": "Battle_of_Zama,_202_BC.png",
+      "caption": "Схема битвы при Заме, 202 год до н. э.",
+      "credit": "Wikimedia Commons / U.S. Military Academy map",
+      "license": "Public Domain / см. страницу файла",
+      "focus": "50% 50%",
+      "local": "assets/cards/rome/legacy/bat_rom_002.svg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Battle_of_Zama,_202_BC.png",
+      "prefer_remote": true,
+      "kind": "historical-image"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of Ancient Rome",
+      "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/roman.pdf",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_04"
+  },
+  {
+    "id": "ROM_S_05_01",
+    "type": "WAR",
+    "title": "Рим вступает в Первую Македонскую войну",
+    "original": "Rome in the First Macedonian War",
+    "subtitle": "первое длительное военное вмешательство Республики в греческий Восток",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "215–205 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Рим вступает в Первую Македонскую войну — первое длительное военное вмешательство Республики в греческий Восток.",
+    "importance": "Карточка раскрывает главу «Завоевание эллинистического мира» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: 215–205 годы до н. э..",
+      "Основной смысл: первое длительное военное вмешательство Республики в греческий Восток.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Завоевание эллинистического мира",
+      "war"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 7,
+      "culture": 5,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Керкира",
+      "lat": 39.624,
+      "lon": 19.922
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_05/rom_s_05_01.svg",
+      "caption": "Локальная учебная обложка: Рим вступает в Первую Македонскую войну",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Italian Peninsula, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_05"
+  },
+  {
+    "id": "ROM_S_05_02",
+    "type": "PERSON",
+    "title": "Фламинин и курс на греческую свободу",
+    "original": "Titus Quinctius Flamininus and Greek freedom",
+    "subtitle": "римский командующий, связавший победу с политическим лозунгом свободы",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "ок. 228–174 годы до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Фламинин и курс на греческую свободу — римский командующий, связавший победу с политическим лозунгом свободы.",
+    "importance": "Карточка раскрывает главу «Завоевание эллинистического мира» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: ок. 228–174 годы до н. э..",
+      "Основной смысл: римский командующий, связавший победу с политическим лозунгом свободы.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Завоевание эллинистического мира",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 6,
+      "culture": 5,
+      "politics": 8,
+      "religion": 3,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Коринф",
+      "lat": 37.906,
+      "lon": 22.878
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_05/rom_s_05_02.svg",
+      "caption": "Локальная учебная обложка: Фламинин и курс на греческую свободу",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Italian Peninsula, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_05"
+  },
+  {
+    "id": "ROM_S_05_03",
+    "type": "TACTIC",
+    "title": "Манипулярный легион против фаланги",
+    "original": "Roman legion against Macedonian phalanx",
+    "subtitle": "сопоставление гибкой манипулярной системы и плотного строя сариссофоров",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "III–II века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Манипулярный легион против фаланги — сопоставление гибкой манипулярной системы и плотного строя сариссофоров.",
+    "importance": "Карточка раскрывает главу «Завоевание эллинистического мира» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: III–II века до н. э..",
+      "Основной смысл: сопоставление гибкой манипулярной системы и плотного строя сариссофоров.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Завоевание эллинистического мира",
+      "tactic"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 7,
+      "culture": 8,
+      "politics": 8,
+      "religion": 5,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Киноскефалы",
+      "lat": 39.35,
+      "lon": 22.45
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_05/rom_s_05_03.svg",
+      "caption": "Локальная учебная обложка: Манипулярный легион против фаланги",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Italian Peninsula, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_05"
+  },
+  {
+    "id": "ROM_S_05_04",
+    "type": "DIPLOMACY",
+    "title": "Римская коалиция в Эгейском мире",
+    "original": "Roman coalition in the Aegean",
+    "subtitle": "союзная сеть Рима, Пергама, Родоса и противников Македонии",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "III–II века до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 7,
+    "summary": "Римская коалиция в Эгейском мире — союзная сеть Рима, Пергама, Родоса и противников Македонии.",
+    "importance": "Карточка раскрывает главу «Завоевание эллинистического мира» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: III–II века до н. э..",
+      "Основной смысл: союзная сеть Рима, Пергама, Родоса и противников Македонии.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Завоевание эллинистического мира",
+      "diplomacy"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 6,
+      "culture": 6,
+      "politics": 9,
+      "religion": 3,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Эгейское море",
+      "lat": 38.5,
+      "lon": 25.0
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_05/rom_s_05_04.svg",
+      "caption": "Локальная учебная обложка: Римская коалиция в Эгейском мире",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Italian Peninsula, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_05"
+  },
+  {
+    "id": "ROM_S_05_05",
+    "type": "WAR",
+    "title": "Поход против Антиоха III",
+    "original": "Roman–Seleucid campaign",
+    "subtitle": "война Республики и союзников против Селевкидского царя",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "192–188 годы до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 7,
+    "summary": "Поход против Антиоха III — война Республики и союзников против Селевкидского царя.",
+    "importance": "Карточка раскрывает главу «Завоевание эллинистического мира» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: 192–188 годы до н. э..",
+      "Основной смысл: война Республики и союзников против Селевкидского царя.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Завоевание эллинистического мира",
+      "war"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 7,
+      "culture": 8,
+      "politics": 8,
+      "religion": 3,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Магнесия",
+      "lat": 38.05,
+      "lon": 27.35
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_05/rom_s_05_05.svg",
+      "caption": "Локальная учебная обложка: Поход против Антиоха III",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_05_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Italian Peninsula, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_05"
+  },
+  {
+    "id": "ROM_S_05_06",
+    "type": "TREATY",
+    "title": "Апамейская система после 188 года",
+    "original": "Settlement of Apamea",
+    "subtitle": "договорный порядок, ограничивший Селевкидов к востоку от Тавра",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "188 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 7,
+    "summary": "Апамейская система после 188 года — договорный порядок, ограничивший Селевкидов к востоку от Тавра.",
+    "importance": "Карточка раскрывает главу «Завоевание эллинистического мира» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: 188 год до н. э..",
+      "Основной смысл: договорный порядок, ограничивший Селевкидов к востоку от Тавра.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Завоевание эллинистического мира",
+      "treaty"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 6,
+      "culture": 5,
+      "politics": 8,
+      "religion": 4,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Апамея",
+      "lat": 38.071,
+      "lon": 30.166
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_05/rom_s_05_06.svg",
+      "caption": "Локальная учебная обложка: Апамейская система после 188 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_05_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Italian Peninsula, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_05"
+  },
+  {
+    "id": "ROM_S_05_07",
+    "type": "ADMINISTRATION",
+    "title": "Македония после Пидны",
+    "original": "Macedonia after Pydna",
+    "subtitle": "раздел царства на четыре республики после поражения Персея",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "168–167 годы до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 7,
+    "summary": "Македония после Пидны — раздел царства на четыре республики после поражения Персея.",
+    "importance": "Карточка раскрывает главу «Завоевание эллинистического мира» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: 168–167 годы до н. э..",
+      "Основной смысл: раздел царства на четыре республики после поражения Персея.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Завоевание эллинистического мира",
+      "administration"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 6,
+      "culture": 6,
+      "politics": 9,
+      "religion": 4,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Пидна",
+      "lat": 40.374,
+      "lon": 22.578
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_05/rom_s_05_07.svg",
+      "caption": "Локальная учебная обложка: Македония после Пидны",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_05_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Italian Peninsula, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_05"
+  },
+  {
+    "id": "ROM_S_05_08",
+    "type": "EVENT",
+    "title": "146 год: Коринф и Карфаген",
+    "original": "Rome in 146 BC",
+    "subtitle": "одновременное уничтожение двух главных противников Республики",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "146 год до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 7,
+    "summary": "146 год: Коринф и Карфаген — одновременное уничтожение двух главных противников Республики.",
+    "importance": "Карточка раскрывает главу «Завоевание эллинистического мира» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: 146 год до н. э..",
+      "Основной смысл: одновременное уничтожение двух главных противников Республики.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Завоевание эллинистического мира",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 6,
+      "culture": 7,
+      "politics": 8,
+      "religion": 5,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Коринф",
+      "lat": 37.906,
+      "lon": 22.878
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_05/rom_s_05_08.svg",
+      "caption": "Локальная учебная обложка: 146 год: Коринф и Карфаген",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_05_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Italian Peninsula, 1000 B.C.–1 A.D.",
+      "url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_05"
+  },
+  {
+    "id": "ROM_S_06_01",
+    "type": "POLITICAL",
+    "title": "Сенатское решение",
+    "original": "Senatus consultum",
+    "subtitle": "формально совет магистратам, который часто направлял политику Республики",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "средняя Республика",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Сенатское решение — формально совет магистратам, который часто направлял политику Республики.",
+    "importance": "Карточка раскрывает главу «Как работала Республика» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: средняя Республика.",
+      "Основной смысл: формально совет магистратам, который часто направлял политику Республики.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Как работала Республика",
+      "political"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 6,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Курия",
+      "lat": 41.893,
+      "lon": 12.485
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_06/rom_s_06_01.svg",
+      "caption": "Локальная учебная обложка: Сенатское решение",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Introduction to ancient Rome",
+      "url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_06"
+  },
+  {
+    "id": "ROM_S_06_02",
+    "type": "OFFICE",
+    "title": "Консульская коллегиальность",
+    "original": "Roman consular collegiality",
+    "subtitle": "два ежегодных консула с высшим гражданским и военным империем",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "Римская республика",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Консульская коллегиальность — два ежегодных консула с высшим гражданским и военным империем.",
+    "importance": "Карточка раскрывает главу «Как работала Республика» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: Римская республика.",
+      "Основной смысл: два ежегодных консула с высшим гражданским и военным империем.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Как работала Республика",
+      "office"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 4,
+      "culture": 8,
+      "politics": 7,
+      "religion": 6,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Форум",
+      "lat": 41.892,
+      "lon": 12.485
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_06/rom_s_06_02.svg",
+      "caption": "Локальная учебная обложка: Консульская коллегиальность",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Introduction to ancient Rome",
+      "url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_06"
+  },
+  {
+    "id": "ROM_S_06_03",
+    "type": "OFFICE",
+    "title": "Претура и юрисдикция",
+    "original": "Roman praetorship",
+    "subtitle": "магистратура суда и командования, расширявшаяся вместе с государством",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "с 367 года до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Претура и юрисдикция — магистратура суда и командования, расширявшаяся вместе с государством.",
+    "importance": "Карточка раскрывает главу «Как работала Республика» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: с 367 года до н. э..",
+      "Основной смысл: магистратура суда и командования, расширявшаяся вместе с государством.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Как работала Республика",
+      "office"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 4,
+      "culture": 6,
+      "politics": 7,
+      "religion": 3,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Форум",
+      "lat": 41.892,
+      "lon": 12.485
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_06/rom_s_06_03.svg",
+      "caption": "Локальная учебная обложка: Претура и юрисдикция",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Introduction to ancient Rome",
+      "url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_06"
+  },
+  {
+    "id": "ROM_S_06_04",
+    "type": "INSTITUTION",
+    "title": "Народные собрания Республики",
+    "original": "Roman assemblies",
+    "subtitle": "несколько собраний граждан с разным порядком голосования и полномочиями",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "Римская республика",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Народные собрания Республики — несколько собраний граждан с разным порядком голосования и полномочиями.",
+    "importance": "Карточка раскрывает главу «Как работала Республика» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: Римская республика.",
+      "Основной смысл: несколько собраний граждан с разным порядком голосования и полномочиями.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Как работала Республика",
+      "institution"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 4,
+      "culture": 5,
+      "politics": 7,
+      "religion": 3,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Марсово поле",
+      "lat": 41.901,
+      "lon": 12.474
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_06/rom_s_06_04.svg",
+      "caption": "Локальная учебная обложка: Народные собрания Республики",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Introduction to ancient Rome",
+      "url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_06"
+  },
+  {
+    "id": "ROM_S_06_05",
+    "type": "LAW",
+    "title": "Трибунский запрет",
+    "original": "Tribunician veto",
+    "subtitle": "право народного трибуна вмешаться и остановить действие магистрата",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "Римская республика",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Трибунский запрет — право народного трибуна вмешаться и остановить действие магистрата.",
+    "importance": "Карточка раскрывает главу «Как работала Республика» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: Римская республика.",
+      "Основной смысл: право народного трибуна вмешаться и остановить действие магистрата.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Как работала Республика",
+      "law"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 5,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Форум",
+      "lat": 41.892,
+      "lon": 12.485
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_06/rom_s_06_05.svg",
+      "caption": "Локальная учебная обложка: Трибунский запрет",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_06_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Introduction to ancient Rome",
+      "url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_06"
+  },
+  {
+    "id": "ROM_S_06_06",
+    "type": "SYSTEM",
+    "title": "Путь должностей",
+    "original": "Cursus honorum",
+    "subtitle": "обычный порядок продвижения через квестуру, претуру и консулат",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "II–I века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Путь должностей — обычный порядок продвижения через квестуру, претуру и консулат.",
+    "importance": "Карточка раскрывает главу «Как работала Республика» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: II–I века до н. э..",
+      "Основной смысл: обычный порядок продвижения через квестуру, претуру и консулат.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Как работала Республика",
+      "system"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 4,
+      "culture": 7,
+      "politics": 7,
+      "religion": 6,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.893,
+      "lon": 12.482
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_06/rom_s_06_06.svg",
+      "caption": "Локальная учебная обложка: Путь должностей",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_06_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Introduction to ancient Rome",
+      "url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_06"
+  },
+  {
+    "id": "ROM_S_06_07",
+    "type": "ADMINISTRATION",
+    "title": "Провинциальный империй",
+    "original": "Provincial imperium",
+    "subtitle": "командная власть магистрата или промагистра за пределами Италии",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "III–I века до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Провинциальный империй — командная власть магистрата или промагистра за пределами Италии.",
+    "importance": "Карточка раскрывает главу «Как работала Республика» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: III–I века до н. э..",
+      "Основной смысл: командная власть магистрата или промагистра за пределами Италии.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Как работала Республика",
+      "administration"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 8,
+      "politics": 7,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "провинция Сицилия",
+      "lat": 37.55,
+      "lon": 14.1
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_06/rom_s_06_07.svg",
+      "caption": "Локальная учебная обложка: Провинциальный империй",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_06_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Introduction to ancient Rome",
+      "url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_06"
+  },
+  {
+    "id": "ROM_S_06_08",
+    "type": "SOCIAL",
+    "title": "Союзники, граждане и военный набор",
+    "original": "Roman citizens and Italian allies",
+    "subtitle": "неравная система обязанностей, прав и поставки солдат",
+    "era": "Средняя Римская республика",
+    "region": "Италия и Средиземноморье",
+    "date": "III–II века до н. э.",
+    "rarity": "LEGENDARY",
+    "difficulty": 8,
+    "summary": "Союзники, граждане и военный набор — неравная система обязанностей, прав и поставки солдат.",
+    "importance": "Карточка раскрывает главу «Как работала Республика» и связывает войну, институты, общество и источники Республики.",
+    "facts": [
+      "Датировка: III–II века до н. э..",
+      "Основной смысл: неравная система обязанностей, прав и поставки солдат.",
+      "Вывод нужно проверять по литературным текстам, монетам, надписям, археологии и устройству конкретного региона."
+    ],
+    "tags": [
+      "Римская республика",
+      "Как работала Республика",
+      "social"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 4,
+      "culture": 6,
+      "politics": 6,
+      "religion": 5,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Италия",
+      "lat": 42.0,
+      "lon": 13.0
+    },
+    "image": {
+      "local": "assets/cards/rome/chapter_06/rom_s_06_08.svg",
+      "caption": "Локальная учебная обложка: Союзники, граждане и военный набор",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "rom_s_06_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Introduction to ancient Rome",
+      "url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/introduction-to-ancient-rome",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ROME",
+    "chapter": "ROME_CHAPTER_06"
   }
 ]

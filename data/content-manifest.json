@@ -1,5 +1,5 @@
 {
-  "version": "6.0.0",
+  "version": "6.1.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -91,6 +91,9 @@
       "data/quizzes/rome/chapter_01.json",
       "data/quizzes/rome/chapter_02.json",
       "data/quizzes/rome/chapter_03.json",
+      "data/quizzes/rome/chapter_06.json",
+      "data/quizzes/rome/chapter_05.json",
+      "data/quizzes/rome/chapter_04.json",
       "data/quizzes/mesopotamia/chapter_01_05.json",
       "data/quizzes/mesopotamia/chapter_06_10.json",
       "data/quizzes/egypt/chapter_01_05.json",
@@ -184,6 +187,9 @@
       "data/lessons/rome/chapter_01.json",
       "data/lessons/rome/chapter_02.json",
       "data/lessons/rome/chapter_03.json",
+      "data/lessons/rome/chapter_06.json",
+      "data/lessons/rome/chapter_05.json",
+      "data/lessons/rome/chapter_04.json",
       "data/lessons/mesopotamia/chapter_01_05.json",
       "data/lessons/mesopotamia/chapter_06_10.json",
       "data/lessons/egypt/chapter_01_05.json",
@@ -293,6 +299,7 @@
     "js/features/v5-2-alexander.js",
     "js/features/v5-3-classical-world.js",
     "js/features/v6-0-hellenistic.js",
+    "js/features/v6-1-rome-middle.js",
     "js/features/v3-1-1-hotfix.js",
     "js/features/v3-1-3-visual-semantics.js",
     "js/core/start.js"

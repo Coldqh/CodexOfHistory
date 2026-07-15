@@ -85,13 +85,12 @@
       "id": "ROME_PUNIC",
       "campaign": "ROME",
       "title": "Пунические войны",
-      "unlockMission": "ROME_CHAPTER_04",
+      "unlockMission": "ROM_04_02",
       "cardIds": [
-        "PER_CAR_001",
-        "WAR_ROM_001",
-        "BAT_ROM_001",
-        "PER_ROM_002",
-        "BAT_ROM_002"
+        "ROM_A_04_01",
+        "ROM_A_04_02",
+        "ROM_A_04_03",
+        "ROM_A_04_04"
       ]
     },
     {
@@ -289,6 +288,30 @@
         "REG_ITA_003",
         "TERM_ITA_006"
       ]
+    },
+    {
+      "id": "ROME_EASTERN_WARS",
+      "campaign": "ROME",
+      "title": "Рим и эллинистический Восток",
+      "unlockMission": "ROM_05_02",
+      "cardIds": [
+        "ROM_A_05_01",
+        "ROM_A_05_02",
+        "ROM_A_05_03",
+        "ROM_A_05_04"
+      ]
+    },
+    {
+      "id": "ROME_REPUBLIC_SYSTEM",
+      "campaign": "ROME",
+      "title": "Механика средней Республики",
+      "unlockMission": "ROM_06_02",
+      "cardIds": [
+        "ROM_A_06_01",
+        "ROM_A_06_02",
+        "ROM_A_06_03",
+        "ROM_A_06_04"
+      ]
     }
   ],
   "acquisition": {
@@ -463,29 +486,29 @@
       "pool": "ROME_REPUBLIC_BIRTH"
     },
     "PER_CAR_001": {
-      "kind": "ARCHIVE",
+      "kind": "STORY",
       "campaign": "ROME",
-      "pool": "ROME_PUNIC"
+      "chapter": "ROME_CHAPTER_04"
     },
     "WAR_ROM_001": {
-      "kind": "ARCHIVE",
+      "kind": "STORY",
       "campaign": "ROME",
-      "pool": "ROME_PUNIC"
+      "chapter": "ROME_CHAPTER_04"
     },
     "BAT_ROM_001": {
-      "kind": "ARCHIVE",
+      "kind": "STORY",
       "campaign": "ROME",
-      "pool": "ROME_PUNIC"
+      "chapter": "ROME_CHAPTER_04"
     },
     "PER_ROM_002": {
-      "kind": "ARCHIVE",
+      "kind": "STORY",
       "campaign": "ROME",
-      "pool": "ROME_PUNIC"
+      "chapter": "ROME_CHAPTER_04"
     },
     "BAT_ROM_002": {
-      "kind": "ARCHIVE",
+      "kind": "STORY",
       "campaign": "ROME",
-      "pool": "ROME_PUNIC"
+      "chapter": "ROME_CHAPTER_04"
     },
     "PER_ROM_003": {
       "kind": "ARCHIVE",
@@ -1291,6 +1314,161 @@
       "kind": "ARCHIVE",
       "campaign": "ROME",
       "pool": "ROME_SAMNIUM"
+    },
+    "WAR_ROM_010": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_04"
+    },
+    "MIL_ROM_010": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_04"
+    },
+    "ADM_ROM_010": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_04"
+    },
+    "ROM_S_05_01": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_05"
+    },
+    "ROM_S_05_02": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_05"
+    },
+    "ROM_S_05_03": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_05"
+    },
+    "ROM_S_05_04": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_05"
+    },
+    "ROM_S_05_05": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_05"
+    },
+    "ROM_S_05_06": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_05"
+    },
+    "ROM_S_05_07": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_05"
+    },
+    "ROM_S_05_08": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_05"
+    },
+    "ROM_S_06_01": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_06"
+    },
+    "ROM_S_06_02": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_06"
+    },
+    "ROM_S_06_03": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_06"
+    },
+    "ROM_S_06_04": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_06"
+    },
+    "ROM_S_06_05": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_06"
+    },
+    "ROM_S_06_06": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_06"
+    },
+    "ROM_S_06_07": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_06"
+    },
+    "ROM_S_06_08": {
+      "kind": "STORY",
+      "campaign": "ROME",
+      "chapter": "ROME_CHAPTER_06"
+    },
+    "ROM_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_PUNIC",
+      "campaign": "ROME"
+    },
+    "ROM_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_PUNIC",
+      "campaign": "ROME"
+    },
+    "ROM_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_PUNIC",
+      "campaign": "ROME"
+    },
+    "ROM_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_PUNIC",
+      "campaign": "ROME"
+    },
+    "ROM_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_EASTERN_WARS",
+      "campaign": "ROME"
+    },
+    "ROM_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_EASTERN_WARS",
+      "campaign": "ROME"
+    },
+    "ROM_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_EASTERN_WARS",
+      "campaign": "ROME"
+    },
+    "ROM_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_EASTERN_WARS",
+      "campaign": "ROME"
+    },
+    "ROM_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_REPUBLIC_SYSTEM",
+      "campaign": "ROME"
+    },
+    "ROM_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_REPUBLIC_SYSTEM",
+      "campaign": "ROME"
+    },
+    "ROM_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_REPUBLIC_SYSTEM",
+      "campaign": "ROME"
+    },
+    "ROM_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "ROME_REPUBLIC_SYSTEM",
+      "campaign": "ROME"
     }
   }
 }

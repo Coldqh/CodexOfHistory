@@ -8,7 +8,7 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "5.1.0"
+VERSION = "5.2.0"
 
 GROUP_CONTEXT = {
     "ROME": {
@@ -104,6 +104,10 @@ GROUP_CONTEXT = {
     "GREECE_CLASSICAL": {
         "terms": ["классическ", "classical", "гре", "greek", "афин", "athens", "спарт", "sparta", "полис", "polis", "delian", "пелопоннес", "peloponnesian", "фив", "thebes", "македон", "macedon"],
         "base": [("ru", "Классическая Греция"), ("en", "Classical Greece"), ("en", "Ancient Greece")],
+    },
+    "ALEXANDER": {
+        "terms": ["александр", "alexander", "македон", "macedon", "дарий", "darius", "перс", "persian", "гавгамел", "gaugamela", "бактр", "bactria", "инд", "india"],
+        "base": [("ru", "Александр Македонский"), ("en", "Alexander the Great"), ("en", "Wars of Alexander the Great")],
     },
     "MIXED": {
         "terms": ["древн", "ancient", "цивилизац", "civilization", "archaeolog", "археолог", "river", "река", "письмен"],
@@ -460,7 +464,7 @@ def group_for(path: Path, card: dict) -> str:
     p = path.as_posix()
     for token, group in [
         ("/rome/", "ROME"), ("/mesopotamia/", "MESOPOTAMIA"), ("/egypt/", "EGYPT"),
-        ("/indus/", "INDUS"), ("/zhou-warring/", "ZHOU_WARRING"), ("/vedic-india/", "INDIA_VEDIC"), ("/iron-world/", "IRON_WORLD"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"), ("/aegean/", "AEGEAN_BRONZE"), ("/international-bronze/", "BRONZE_INTERNATIONAL"), ("/bronze-collapse/", "BRONZE_COLLAPSE"), ("/bronze-world/", "BRONZE_WORLD"), ("/assyria-babylon/", "ASSYRIA_BABYLON"), ("/phoenicians/", "PHOENICIANS"), ("/israel-judah/", "ISRAEL_JUDAH"), ("/archaic-greece/", "GREECE_ARCHAIC"), ("/classical-greece/", "GREECE_CLASSICAL"),
+        ("/indus/", "INDUS"), ("/zhou-warring/", "ZHOU_WARRING"), ("/vedic-india/", "INDIA_VEDIC"), ("/iron-world/", "IRON_WORLD"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"), ("/aegean/", "AEGEAN_BRONZE"), ("/international-bronze/", "BRONZE_INTERNATIONAL"), ("/bronze-collapse/", "BRONZE_COLLAPSE"), ("/bronze-world/", "BRONZE_WORLD"), ("/assyria-babylon/", "ASSYRIA_BABYLON"), ("/phoenicians/", "PHOENICIANS"), ("/israel-judah/", "ISRAEL_JUDAH"), ("/archaic-greece/", "GREECE_ARCHAIC"), ("/classical-greece/", "GREECE_CLASSICAL"), ("/alexander/", "ALEXANDER"),
     ]:
         if token in p:
             return group

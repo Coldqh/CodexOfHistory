@@ -1,0 +1,735 @@
+{
+  "campaignId": "ALEXANDER",
+  "campaigns": {
+    "ALEXANDER": {
+      "id": "ALEXANDER",
+      "title": "Александр Македонский",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "ALX_POOL_01",
+      "campaign": "ALEXANDER",
+      "title": "Наследник Македонии",
+      "unlockMission": "ALX_01_02",
+      "cardIds": [
+        "ALX_A_01_01",
+        "ALX_A_01_02",
+        "ALX_A_01_03",
+        "ALX_A_01_04"
+      ]
+    },
+    {
+      "id": "ALX_POOL_02",
+      "campaign": "ALEXANDER",
+      "title": "Переход в Азию",
+      "unlockMission": "ALX_02_02",
+      "cardIds": [
+        "ALX_A_02_01",
+        "ALX_A_02_02",
+        "ALX_A_02_03",
+        "ALX_A_02_04"
+      ]
+    },
+    {
+      "id": "ALX_POOL_03",
+      "campaign": "ALEXANDER",
+      "title": "От Гордиона до Тира",
+      "unlockMission": "ALX_03_02",
+      "cardIds": [
+        "ALX_A_03_01",
+        "ALX_A_03_02",
+        "ALX_A_03_03",
+        "ALX_A_03_04"
+      ]
+    },
+    {
+      "id": "ALX_POOL_04",
+      "campaign": "ALEXANDER",
+      "title": "Египет и новая Александрия",
+      "unlockMission": "ALX_04_02",
+      "cardIds": [
+        "ALX_A_04_01",
+        "ALX_A_04_02",
+        "ALX_A_04_03",
+        "ALX_A_04_04"
+      ]
+    },
+    {
+      "id": "ALX_POOL_05",
+      "campaign": "ALEXANDER",
+      "title": "Гавгамелы и падение царских центров",
+      "unlockMission": "ALX_05_02",
+      "cardIds": [
+        "ALX_A_05_01",
+        "ALX_A_05_02",
+        "ALX_A_05_03",
+        "ALX_A_05_04"
+      ]
+    },
+    {
+      "id": "ALX_POOL_06",
+      "campaign": "ALEXANDER",
+      "title": "Погоня за Дарием и война на востоке",
+      "unlockMission": "ALX_06_02",
+      "cardIds": [
+        "ALX_A_06_01",
+        "ALX_A_06_02",
+        "ALX_A_06_03",
+        "ALX_A_06_04"
+      ]
+    },
+    {
+      "id": "ALX_POOL_07",
+      "campaign": "ALEXANDER",
+      "title": "Царский двор и кризисы армии",
+      "unlockMission": "ALX_07_02",
+      "cardIds": [
+        "ALX_A_07_01",
+        "ALX_A_07_02",
+        "ALX_A_07_03",
+        "ALX_A_07_04"
+      ]
+    },
+    {
+      "id": "ALX_POOL_08",
+      "campaign": "ALEXANDER",
+      "title": "Поход в Индию",
+      "unlockMission": "ALX_08_02",
+      "cardIds": [
+        "ALX_A_08_01",
+        "ALX_A_08_02",
+        "ALX_A_08_03",
+        "ALX_A_08_04"
+      ]
+    },
+    {
+      "id": "ALX_POOL_09",
+      "campaign": "ALEXANDER",
+      "title": "Возвращение и управление империей",
+      "unlockMission": "ALX_09_02",
+      "cardIds": [
+        "ALX_A_09_01",
+        "ALX_A_09_02",
+        "ALX_A_09_03",
+        "ALX_A_09_04"
+      ]
+    },
+    {
+      "id": "ALX_POOL_10",
+      "campaign": "ALEXANDER",
+      "title": "Смерть и открытое наследство",
+      "unlockMission": "ALX_10_02",
+      "cardIds": [
+        "ALX_A_10_01",
+        "ALX_A_10_02",
+        "ALX_A_10_03",
+        "ALX_A_10_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "ALX_S_01_01": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 1
+    },
+    "ALX_S_01_02": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 1
+    },
+    "ALX_S_01_03": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 1
+    },
+    "ALX_S_01_04": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 1
+    },
+    "ALX_S_01_05": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 1
+    },
+    "ALX_S_01_06": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 1
+    },
+    "ALX_S_01_07": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 1
+    },
+    "ALX_S_01_08": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 1
+    },
+    "ALX_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_01",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_01",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_01",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_01",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_S_02_01": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 2
+    },
+    "ALX_S_02_02": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 2
+    },
+    "ALX_S_02_03": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 2
+    },
+    "ALX_S_02_04": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 2
+    },
+    "ALX_S_02_05": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 2
+    },
+    "ALX_S_02_06": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 2
+    },
+    "ALX_S_02_07": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 2
+    },
+    "ALX_S_02_08": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 2
+    },
+    "ALX_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_02",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_02",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_02",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_02",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_S_03_01": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 3
+    },
+    "ALX_S_03_02": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 3
+    },
+    "ALX_S_03_03": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 3
+    },
+    "ALX_S_03_04": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 3
+    },
+    "ALX_S_03_05": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 3
+    },
+    "ALX_S_03_06": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 3
+    },
+    "ALX_S_03_07": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 3
+    },
+    "ALX_S_03_08": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 3
+    },
+    "ALX_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_03",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_03",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_03",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_03",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_S_04_01": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 4
+    },
+    "ALX_S_04_02": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 4
+    },
+    "ALX_S_04_03": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 4
+    },
+    "ALX_S_04_04": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 4
+    },
+    "ALX_S_04_05": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 4
+    },
+    "ALX_S_04_06": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 4
+    },
+    "ALX_S_04_07": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 4
+    },
+    "ALX_S_04_08": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 4
+    },
+    "ALX_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_04",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_04",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_04",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_04",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_S_05_01": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 5
+    },
+    "ALX_S_05_02": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 5
+    },
+    "ALX_S_05_03": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 5
+    },
+    "ALX_S_05_04": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 5
+    },
+    "ALX_S_05_05": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 5
+    },
+    "ALX_S_05_06": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 5
+    },
+    "ALX_S_05_07": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 5
+    },
+    "ALX_S_05_08": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 5
+    },
+    "ALX_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_05",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_05",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_05",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_05",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_S_06_01": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 6
+    },
+    "ALX_S_06_02": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 6
+    },
+    "ALX_S_06_03": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 6
+    },
+    "ALX_S_06_04": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 6
+    },
+    "ALX_S_06_05": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 6
+    },
+    "ALX_S_06_06": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 6
+    },
+    "ALX_S_06_07": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 6
+    },
+    "ALX_S_06_08": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 6
+    },
+    "ALX_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_06",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_06",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_06",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_06",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_S_07_01": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 7
+    },
+    "ALX_S_07_02": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 7
+    },
+    "ALX_S_07_03": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 7
+    },
+    "ALX_S_07_04": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 7
+    },
+    "ALX_S_07_05": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 7
+    },
+    "ALX_S_07_06": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 7
+    },
+    "ALX_S_07_07": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 7
+    },
+    "ALX_S_07_08": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 7
+    },
+    "ALX_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_07",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_07",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_07",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_07",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_S_08_01": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 8
+    },
+    "ALX_S_08_02": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 8
+    },
+    "ALX_S_08_03": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 8
+    },
+    "ALX_S_08_04": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 8
+    },
+    "ALX_S_08_05": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 8
+    },
+    "ALX_S_08_06": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 8
+    },
+    "ALX_S_08_07": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 8
+    },
+    "ALX_S_08_08": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 8
+    },
+    "ALX_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_08",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_08",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_08",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_08",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_S_09_01": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 9
+    },
+    "ALX_S_09_02": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 9
+    },
+    "ALX_S_09_03": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 9
+    },
+    "ALX_S_09_04": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 9
+    },
+    "ALX_S_09_05": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 9
+    },
+    "ALX_S_09_06": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 9
+    },
+    "ALX_S_09_07": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 9
+    },
+    "ALX_S_09_08": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 9
+    },
+    "ALX_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_09",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_09",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_09",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_09",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_S_10_01": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 10
+    },
+    "ALX_S_10_02": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 10
+    },
+    "ALX_S_10_03": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 10
+    },
+    "ALX_S_10_04": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 10
+    },
+    "ALX_S_10_05": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 10
+    },
+    "ALX_S_10_06": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 10
+    },
+    "ALX_S_10_07": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 10
+    },
+    "ALX_S_10_08": {
+      "kind": "STORY",
+      "campaignId": "ALEXANDER",
+      "chapter": 10
+    },
+    "ALX_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_10",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_10",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_10",
+      "campaign": "ALEXANDER"
+    },
+    "ALX_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "ALX_POOL_10",
+      "campaign": "ALEXANDER"
+    }
+  }
+}

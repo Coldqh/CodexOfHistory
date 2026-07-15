@@ -1,0 +1,4722 @@
+[
+  {
+    "id": "ALX_S_01_01",
+    "type": "PERSON",
+    "title": "Александр III Македонский",
+    "original": "Alexander III of Macedon",
+    "subtitle": "царь Македонии, начавший азиатский поход в 334 году до н. э.",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "356–323 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Александр III Македонский — царь Македонии, начавший азиатский поход в 334 году до н. э..",
+    "importance": "Карточка раскрывает главу «Наследник Македонии» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 356–323 годы до н. э..",
+      "Основной смысл: царь Македонии, начавший азиатский поход в 334 году до н. э..",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Наследник Македонии",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 8,
+      "culture": 6,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Пелла",
+      "lat": 40.761,
+      "lon": 22.526
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-01/alx_s_01_01.svg",
+      "caption": "Локальная учебная обложка: Александр III Македонский",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_01_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_01"
+  },
+  {
+    "id": "ALX_S_01_02",
+    "type": "INSTITUTION",
+    "title": "Пелльский царский двор",
+    "original": "Royal court of Pella",
+    "subtitle": "династический и административный центр Македонии",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "IV век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Пелльский царский двор — династический и административный центр Македонии.",
+    "importance": "Карточка раскрывает главу «Наследник Македонии» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: IV век до н. э..",
+      "Основной смысл: династический и административный центр Македонии.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Наследник Македонии",
+      "institution"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 5,
+      "culture": 7,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Пелла",
+      "lat": 40.761,
+      "lon": 22.526
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-01/alx_s_01_02.svg",
+      "caption": "Локальная учебная обложка: Пелльский царский двор",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_01_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_01"
+  },
+  {
+    "id": "ALX_S_01_03",
+    "type": "EVENT",
+    "title": "Обучение Александра в Миезе",
+    "original": "Alexander at Mieza",
+    "subtitle": "образование царского наследника и круга его спутников",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "ок. 343–340 годы до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Обучение Александра в Миезе — образование царского наследника и круга его спутников.",
+    "importance": "Карточка раскрывает главу «Наследник Македонии» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: ок. 343–340 годы до н. э..",
+      "Основной смысл: образование царского наследника и круга его спутников.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Наследник Македонии",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 7,
+      "culture": 8,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Миеза",
+      "lat": 40.632,
+      "lon": 22.071
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-01/alx_s_01_03.svg",
+      "caption": "Локальная учебная обложка: Обучение Александра в Миезе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_01_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_01"
+  },
+  {
+    "id": "ALX_S_01_04",
+    "type": "PERSON",
+    "title": "Олимпиада Эпирская",
+    "original": "Olympias of Epirus",
+    "subtitle": "мать Александра и влиятельная участница династической политики",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "ок. 375–316 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Олимпиада Эпирская — мать Александра и влиятельная участница династической политики.",
+    "importance": "Карточка раскрывает главу «Наследник Македонии» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: ок. 375–316 годы до н. э..",
+      "Основной смысл: мать Александра и влиятельная участница династической политики.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Наследник Македонии",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 9,
+      "culture": 9,
+      "politics": 8,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Пелла",
+      "lat": 40.761,
+      "lon": 22.526
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-01/alx_s_01_04.svg",
+      "caption": "Локальная учебная обложка: Олимпиада Эпирская",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_01_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_01"
+  },
+  {
+    "id": "ALX_S_01_05",
+    "type": "EVENT",
+    "title": "Воцарение Александра",
+    "original": "Accession of Alexander",
+    "subtitle": "переход власти после убийства Филиппа II",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "336 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Воцарение Александра — переход власти после убийства Филиппа II.",
+    "importance": "Карточка раскрывает главу «Наследник Македонии» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 336 год до н. э..",
+      "Основной смысл: переход власти после убийства Филиппа II.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Наследник Македонии",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 4,
+      "politics": 9,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Эги",
+      "lat": 40.486,
+      "lon": 22.318
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-01/alx_s_01_05.svg",
+      "caption": "Локальная учебная обложка: Воцарение Александра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_01_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_01"
+  },
+  {
+    "id": "ALX_S_01_06",
+    "type": "WAR",
+    "title": "Северные походы 335 года",
+    "original": "Alexander Balkan campaign",
+    "subtitle": "кампания против фракийских и иллирийских противников",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "335 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Северные походы 335 года — кампания против фракийских и иллирийских противников.",
+    "importance": "Карточка раскрывает главу «Наследник Македонии» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 335 год до н. э..",
+      "Основной смысл: кампания против фракийских и иллирийских противников.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Наследник Македонии",
+      "war"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 8,
+      "culture": 5,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Македония",
+      "lat": 40.65,
+      "lon": 22.5
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-01/alx_s_01_06.svg",
+      "caption": "Локальная учебная обложка: Северные походы 335 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_01_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_01"
+  },
+  {
+    "id": "ALX_S_01_07",
+    "type": "EVENT",
+    "title": "Разрушение Фив Александром",
+    "original": "Destruction of Thebes 335 BC",
+    "subtitle": "подавление восстания и демонстрация новой власти",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "335 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Разрушение Фив Александром — подавление восстания и демонстрация новой власти.",
+    "importance": "Карточка раскрывает главу «Наследник Македонии» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 335 год до н. э..",
+      "Основной смысл: подавление восстания и демонстрация новой власти.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Наследник Македонии",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 5,
+      "culture": 6,
+      "politics": 7,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Фивы",
+      "lat": 38.322,
+      "lon": 23.318
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-01/alx_s_01_07.svg",
+      "caption": "Локальная учебная обложка: Разрушение Фив Александром",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_01_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_01"
+  },
+  {
+    "id": "ALX_S_01_08",
+    "type": "POLITICAL",
+    "title": "Азиатский мандат Коринфского союза",
+    "original": "League of Corinth campaign mandate",
+    "subtitle": "формальное общегреческое основание войны с Персией",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "337–334 годы до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Азиатский мандат Коринфского союза — формальное общегреческое основание войны с Персией.",
+    "importance": "Карточка раскрывает главу «Наследник Македонии» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 337–334 годы до н. э..",
+      "Основной смысл: формальное общегреческое основание войны с Персией.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Наследник Македонии",
+      "political"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 7,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Македония",
+      "lat": 40.65,
+      "lon": 22.5
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-01/alx_s_01_08.svg",
+      "caption": "Локальная учебная обложка: Азиатский мандат Коринфского союза",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_01_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_01"
+  },
+  {
+    "id": "ALX_S_02_01",
+    "type": "EVENT",
+    "title": "Переход через Геллеспонт",
+    "original": "Crossing of the Hellespont",
+    "subtitle": "начало азиатской кампании Александра",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "334 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Переход через Геллеспонт — начало азиатской кампании Александра.",
+    "importance": "Карточка раскрывает главу «Переход в Азию» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 334 год до н. э..",
+      "Основной смысл: начало азиатской кампании Александра.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Переход в Азию",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 9,
+      "culture": 7,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Геллеспонт",
+      "lat": 40.212,
+      "lon": 26.405
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-02/alx_s_02_01.svg",
+      "caption": "Локальная учебная обложка: Переход через Геллеспонт",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_02_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_02"
+  },
+  {
+    "id": "ALX_S_02_02",
+    "type": "EVENT",
+    "title": "Посещение Трои Александром",
+    "original": "Alexander at Troy",
+    "subtitle": "ритуальная связь похода с эпическим прошлым",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "334 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Посещение Трои Александром — ритуальная связь похода с эпическим прошлым.",
+    "importance": "Карточка раскрывает главу «Переход в Азию» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 334 год до н. э..",
+      "Основной смысл: ритуальная связь похода с эпическим прошлым.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Переход в Азию",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 6,
+      "culture": 8,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Троя",
+      "lat": 39.957,
+      "lon": 26.239
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-02/alx_s_02_02.svg",
+      "caption": "Локальная учебная обложка: Посещение Трои Александром",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_02_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_02"
+  },
+  {
+    "id": "ALX_S_02_03",
+    "type": "BATTLE",
+    "title": "Битва при Гранике",
+    "original": "Battle of the Granicus",
+    "subtitle": "первая крупная победа над сатрапскими силами",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "334 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Битва при Гранике — первая крупная победа над сатрапскими силами.",
+    "importance": "Карточка раскрывает главу «Переход в Азию» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 334 год до н. э..",
+      "Основной смысл: первая крупная победа над сатрапскими силами.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Переход в Азию",
+      "battle"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 8,
+      "culture": 9,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Граник",
+      "lat": 40.317,
+      "lon": 27.283
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-02/alx_s_02_03.svg",
+      "caption": "Локальная учебная обложка: Битва при Гранике",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_02_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_02"
+  },
+  {
+    "id": "ALX_S_02_04",
+    "type": "PERSON",
+    "title": "Клит Чёрный при Гранике",
+    "original": "Cleitus the Black at Granicus",
+    "subtitle": "гетайр, связанный с спасением Александра в бою",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "334 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Клит Чёрный при Гранике — гетайр, связанный с спасением Александра в бою.",
+    "importance": "Карточка раскрывает главу «Переход в Азию» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 334 год до н. э..",
+      "Основной смысл: гетайр, связанный с спасением Александра в бою.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Переход в Азию",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 5,
+      "culture": 4,
+      "politics": 6,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Граник",
+      "lat": 40.317,
+      "lon": 27.283
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-02/alx_s_02_04.svg",
+      "caption": "Локальная учебная обложка: Клит Чёрный при Гранике",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_02_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_02"
+  },
+  {
+    "id": "ALX_S_02_05",
+    "type": "EVENT",
+    "title": "Сдача Сард Александру",
+    "original": "Surrender of Sardis to Alexander",
+    "subtitle": "переход важного сатрапского центра без осады",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "334 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Сдача Сард Александру — переход важного сатрапского центра без осады.",
+    "importance": "Карточка раскрывает главу «Переход в Азию» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 334 год до н. э..",
+      "Основной смысл: переход важного сатрапского центра без осады.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Переход в Азию",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 5,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Сарды",
+      "lat": 38.488,
+      "lon": 28.04
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-02/alx_s_02_05.svg",
+      "caption": "Локальная учебная обложка: Сдача Сард Александру",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_02_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_02"
+  },
+  {
+    "id": "ALX_S_02_06",
+    "type": "SIEGE",
+    "title": "Осада Милета Александром",
+    "original": "Siege of Miletus 334 BC",
+    "subtitle": "захват ионийского порта при поддержке флота",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "334 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Осада Милета Александром — захват ионийского порта при поддержке флота.",
+    "importance": "Карточка раскрывает главу «Переход в Азию» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 334 год до н. э..",
+      "Основной смысл: захват ионийского порта при поддержке флота.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Переход в Азию",
+      "siege"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 9,
+      "culture": 6,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Милет",
+      "lat": 37.53,
+      "lon": 27.278
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-02/alx_s_02_06.svg",
+      "caption": "Локальная учебная обложка: Осада Милета Александром",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_02_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_02"
+  },
+  {
+    "id": "ALX_S_02_07",
+    "type": "SIEGE",
+    "title": "Осада Галикарнаса",
+    "original": "Siege of Halicarnassus",
+    "subtitle": "тяжёлая операция против Мемнона Родосского",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "334 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Осада Галикарнаса — тяжёлая операция против Мемнона Родосского.",
+    "importance": "Карточка раскрывает главу «Переход в Азию» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 334 год до н. э..",
+      "Основной смысл: тяжёлая операция против Мемнона Родосского.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Переход в Азию",
+      "siege"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 6,
+      "culture": 7,
+      "politics": 9,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Галикарнас",
+      "lat": 37.038,
+      "lon": 27.424
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-02/alx_s_02_07.svg",
+      "caption": "Локальная учебная обложка: Осада Галикарнаса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_02_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_02"
+  },
+  {
+    "id": "ALX_S_02_08",
+    "type": "STRATEGY",
+    "title": "Отказ от большого флота",
+    "original": "Alexander naval strategy 334 BC",
+    "subtitle": "решение брать морские базы с суши вместо содержания равного персидского флота",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "334 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Отказ от большого флота — решение брать морские базы с суши вместо содержания равного персидского флота.",
+    "importance": "Карточка раскрывает главу «Переход в Азию» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 334 год до н. э..",
+      "Основной смысл: решение брать морские базы с суши вместо содержания равного персидского флота.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Переход в Азию",
+      "strategy"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 8,
+      "culture": 8,
+      "politics": 6,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Милет",
+      "lat": 37.53,
+      "lon": 27.278
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-02/alx_s_02_08.svg",
+      "caption": "Локальная учебная обложка: Отказ от большого флота",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_02_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_02"
+  },
+  {
+    "id": "ALX_S_03_01",
+    "type": "LEGEND",
+    "title": "Гордиев узел в традиции",
+    "original": "Gordian Knot tradition",
+    "subtitle": "поздняя история о символическом решении задачи азиатской власти",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "333 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Гордиев узел в традиции — поздняя история о символическом решении задачи азиатской власти.",
+    "importance": "Карточка раскрывает главу «От Гордиона до Тира» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 333 год до н. э..",
+      "Основной смысл: поздняя история о символическом решении задачи азиатской власти.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "От Гордиона до Тира",
+      "legend"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 5,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Гордий",
+      "lat": 39.655,
+      "lon": 31.994
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-03/alx_s_03_01.svg",
+      "caption": "Локальная учебная обложка: Гордиев узел в традиции",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_03_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_03"
+  },
+  {
+    "id": "ALX_S_03_02",
+    "type": "BATTLE",
+    "title": "Исс: столкновение двух царей",
+    "original": "Battle of Issus",
+    "subtitle": "победа в тесном прибрежном коридоре Киликии",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "333 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Исс: столкновение двух царей — победа в тесном прибрежном коридоре Киликии.",
+    "importance": "Карточка раскрывает главу «От Гордиона до Тира» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 333 год до н. э..",
+      "Основной смысл: победа в тесном прибрежном коридоре Киликии.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "От Гордиона до Тира",
+      "battle"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 7,
+      "culture": 9,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Исс",
+      "lat": 36.866,
+      "lon": 36.165
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-03/alx_s_03_02.svg",
+      "caption": "Локальная учебная обложка: Исс: столкновение двух царей",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_03_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_03"
+  },
+  {
+    "id": "ALX_S_03_03",
+    "type": "PERSON",
+    "title": "Дарий III при Иссе",
+    "original": "Darius III at Issus",
+    "subtitle": "ахеменидский царь, лично командовавший армией",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "333 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Дарий III при Иссе — ахеменидский царь, лично командовавший армией.",
+    "importance": "Карточка раскрывает главу «От Гордиона до Тира» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 333 год до н. э..",
+      "Основной смысл: ахеменидский царь, лично командовавший армией.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "От Гордиона до Тира",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 9,
+      "culture": 4,
+      "politics": 7,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Исс",
+      "lat": 36.866,
+      "lon": 36.165
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-03/alx_s_03_03.svg",
+      "caption": "Локальная учебная обложка: Дарий III при Иссе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_03_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_03"
+  },
+  {
+    "id": "ALX_S_03_04",
+    "type": "EVENT",
+    "title": "Пленный царский дом Дария",
+    "original": "Family of Darius captured",
+    "subtitle": "захват семьи царя после битвы",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "333 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 8,
+    "summary": "Пленный царский дом Дария — захват семьи царя после битвы.",
+    "importance": "Карточка раскрывает главу «От Гордиона до Тира» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 333 год до н. э..",
+      "Основной смысл: захват семьи царя после битвы.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "От Гордиона до Тира",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 6,
+      "culture": 5,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Исс",
+      "lat": 36.866,
+      "lon": 36.165
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-03/alx_s_03_04.svg",
+      "caption": "Локальная учебная обложка: Пленный царский дом Дария",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_03_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_03"
+  },
+  {
+    "id": "ALX_S_03_05",
+    "type": "EVENT",
+    "title": "Финикийские города и смена сторон",
+    "original": "Phoenician cities under Alexander",
+    "subtitle": "распад морской опоры Ахеменидов",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "333–332 годы до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 8,
+    "summary": "Финикийские города и смена сторон — распад морской опоры Ахеменидов.",
+    "importance": "Карточка раскрывает главу «От Гордиона до Тира» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 333–332 годы до н. э..",
+      "Основной смысл: распад морской опоры Ахеменидов.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "От Гордиона до Тира",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 8,
+      "culture": 6,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Тир",
+      "lat": 33.27,
+      "lon": 35.203
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-03/alx_s_03_05.svg",
+      "caption": "Локальная учебная обложка: Финикийские города и смена сторон",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_03_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_03"
+  },
+  {
+    "id": "ALX_S_03_06",
+    "type": "SIEGE",
+    "title": "Осада островного Тира",
+    "original": "Siege of Tyre 332 BC",
+    "subtitle": "строительство дамбы и морской штурм города",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "332 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Осада островного Тира — строительство дамбы и морской штурм города.",
+    "importance": "Карточка раскрывает главу «От Гордиона до Тира» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 332 год до н. э..",
+      "Основной смысл: строительство дамбы и морской штурм города.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "От Гордиона до Тира",
+      "siege"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 5,
+      "culture": 7,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Тир",
+      "lat": 33.27,
+      "lon": 35.203
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-03/alx_s_03_06.svg",
+      "caption": "Локальная учебная обложка: Осада островного Тира",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_03_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_03"
+  },
+  {
+    "id": "ALX_S_03_07",
+    "type": "ENGINEERING",
+    "title": "Инженерная дамба к Тиру",
+    "original": "Alexander Tyre causeway",
+    "subtitle": "сооружение, связавшее материк с островным городом",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "332 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 8,
+    "summary": "Инженерная дамба к Тиру — сооружение, связавшее материк с островным городом.",
+    "importance": "Карточка раскрывает главу «От Гордиона до Тира» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 332 год до н. э..",
+      "Основной смысл: сооружение, связавшее материк с островным городом.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "От Гордиона до Тира",
+      "engineering"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 7,
+      "culture": 8,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Тир",
+      "lat": 33.27,
+      "lon": 35.203
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-03/alx_s_03_07.svg",
+      "caption": "Локальная учебная обложка: Инженерная дамба к Тиру",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_03_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_03"
+  },
+  {
+    "id": "ALX_S_03_08",
+    "type": "SIEGE",
+    "title": "Взятие Газы Александром",
+    "original": "Siege of Gaza 332 BC",
+    "subtitle": "последняя крупная преграда перед Египтом",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "332 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 8,
+    "summary": "Взятие Газы Александром — последняя крупная преграда перед Египтом.",
+    "importance": "Карточка раскрывает главу «От Гордиона до Тира» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 332 год до н. э..",
+      "Основной смысл: последняя крупная преграда перед Египтом.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "От Гордиона до Тира",
+      "siege"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 9,
+      "culture": 9,
+      "politics": 8,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Газа",
+      "lat": 31.501,
+      "lon": 34.466
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-03/alx_s_03_08.svg",
+      "caption": "Локальная учебная обложка: Взятие Газы Александром",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_03_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_03"
+  },
+  {
+    "id": "ALX_S_04_01",
+    "type": "EVENT",
+    "title": "Вступление Александра в Мемфис",
+    "original": "Alexander enters Memphis",
+    "subtitle": "принятие власти в традиционном центре Египта",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "332 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Вступление Александра в Мемфис — принятие власти в традиционном центре Египта.",
+    "importance": "Карточка раскрывает главу «Египет и новая Александрия» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 332 год до н. э..",
+      "Основной смысл: принятие власти в традиционном центре Египта.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Египет и новая Александрия",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 6,
+      "culture": 9,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Мемфис",
+      "lat": 29.849,
+      "lon": 31.254
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-04/alx_s_04_01.svg",
+      "caption": "Локальная учебная обложка: Вступление Александра в Мемфис",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_04"
+  },
+  {
+    "id": "ALX_S_04_02",
+    "type": "RITUAL",
+    "title": "Египетская коронация Александра",
+    "original": "Alexander pharaoh titulary",
+    "subtitle": "включение завоевателя в местную модель царской власти",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "332 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Египетская коронация Александра — включение завоевателя в местную модель царской власти.",
+    "importance": "Карточка раскрывает главу «Египет и новая Александрия» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 332 год до н. э..",
+      "Основной смысл: включение завоевателя в местную модель царской власти.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Египет и новая Александрия",
+      "ritual"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 8,
+      "culture": 4,
+      "politics": 8,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мемфис",
+      "lat": 29.849,
+      "lon": 31.254
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-04/alx_s_04_02.svg",
+      "caption": "Локальная учебная обложка: Египетская коронация Александра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_04"
+  },
+  {
+    "id": "ALX_S_04_03",
+    "type": "EVENT",
+    "title": "Основание Александрии Египетской",
+    "original": "Foundation of Alexandria Egypt",
+    "subtitle": "закладка нового порта на средиземноморском побережье",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "331 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Основание Александрии Египетской — закладка нового порта на средиземноморском побережье.",
+    "importance": "Карточка раскрывает главу «Египет и новая Александрия» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 331 год до н. э..",
+      "Основной смысл: закладка нового порта на средиземноморском побережье.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Египет и новая Александрия",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 5,
+      "culture": 5,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Александрия",
+      "lat": 31.2,
+      "lon": 29.918
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-04/alx_s_04_03.svg",
+      "caption": "Локальная учебная обложка: Основание Александрии Египетской",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_04"
+  },
+  {
+    "id": "ALX_S_04_04",
+    "type": "URBANISM",
+    "title": "План города Александрии",
+    "original": "Alexandria city plan",
+    "subtitle": "регулярная планировка будущего административного и торгового центра",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "IV век до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "План города Александрии — регулярная планировка будущего административного и торгового центра.",
+    "importance": "Карточка раскрывает главу «Египет и новая Александрия» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: IV век до н. э..",
+      "Основной смысл: регулярная планировка будущего административного и торгового центра.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Египет и новая Александрия",
+      "urbanism"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 7,
+      "culture": 6,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Александрия",
+      "lat": 31.2,
+      "lon": 29.918
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-04/alx_s_04_04.svg",
+      "caption": "Локальная учебная обложка: План города Александрии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_04_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_04"
+  },
+  {
+    "id": "ALX_S_04_05",
+    "type": "EVENT",
+    "title": "Поход к оракулу Амона",
+    "original": "Alexander journey to Siwa",
+    "subtitle": "путешествие в западную пустыню",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "331 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Поход к оракулу Амона — путешествие в западную пустыню.",
+    "importance": "Карточка раскрывает главу «Египет и новая Александрия» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 331 год до н. э..",
+      "Основной смысл: путешествие в западную пустыню.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Египет и новая Александрия",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 9,
+      "culture": 7,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Сива",
+      "lat": 29.204,
+      "lon": 25.519
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-04/alx_s_04_05.svg",
+      "caption": "Локальная учебная обложка: Поход к оракулу Амона",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_04_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_04"
+  },
+  {
+    "id": "ALX_S_04_06",
+    "type": "RELIGION",
+    "title": "Оракул Сивы и Александр",
+    "original": "Oracle of Amun and Alexander",
+    "subtitle": "традиция о божественном происхождении и царской судьбе",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "331 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Оракул Сивы и Александр — традиция о божественном происхождении и царской судьбе.",
+    "importance": "Карточка раскрывает главу «Египет и новая Александрия» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 331 год до н. э..",
+      "Основной смысл: традиция о божественном происхождении и царской судьбе.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Египет и новая Александрия",
+      "religion"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 6,
+      "culture": 8,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сива",
+      "lat": 29.204,
+      "lon": 25.519
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-04/alx_s_04_06.svg",
+      "caption": "Локальная учебная обложка: Оракул Сивы и Александр",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_04_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_04"
+  },
+  {
+    "id": "ALX_S_04_07",
+    "type": "PERSON",
+    "title": "Клеомен из Навкратиса",
+    "original": "Cleomenes of Naucratis",
+    "subtitle": "финансовый администратор Египта при Александре",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "IV век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Клеомен из Навкратиса — финансовый администратор Египта при Александре.",
+    "importance": "Карточка раскрывает главу «Египет и новая Александрия» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: IV век до н. э..",
+      "Основной смысл: финансовый администратор Египта при Александре.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Египет и новая Александрия",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 8,
+      "culture": 9,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Александрия",
+      "lat": 31.2,
+      "lon": 29.918
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-04/alx_s_04_07.svg",
+      "caption": "Локальная учебная обложка: Клеомен из Навкратиса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_04_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_04"
+  },
+  {
+    "id": "ALX_S_04_08",
+    "type": "SYSTEM",
+    "title": "Египетский тыл похода",
+    "original": "Egyptian logistics under Alexander",
+    "subtitle": "налоги, зерно, порты и гарнизоны в новой провинции",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "331–323 годы до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Египетский тыл похода — налоги, зерно, порты и гарнизоны в новой провинции.",
+    "importance": "Карточка раскрывает главу «Египет и новая Александрия» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 331–323 годы до н. э..",
+      "Основной смысл: налоги, зерно, порты и гарнизоны в новой провинции.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Египет и новая Александрия",
+      "system"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 5,
+      "culture": 4,
+      "politics": 6,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мемфис",
+      "lat": 29.849,
+      "lon": 31.254
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-04/alx_s_04_08.svg",
+      "caption": "Локальная учебная обложка: Египетский тыл похода",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_04_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_04"
+  },
+  {
+    "id": "ALX_S_05_01",
+    "type": "BATTLE",
+    "title": "Гавгамелы 331 года",
+    "original": "Battle of Gaugamela",
+    "subtitle": "решающая победа над главной армией Дария III",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "331 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Гавгамелы 331 года — решающая победа над главной армией Дария III.",
+    "importance": "Карточка раскрывает главу «Гавгамелы и падение царских центров» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 331 год до н. э..",
+      "Основной смысл: решающая победа над главной армией Дария III.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Гавгамелы и падение царских центров",
+      "battle"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 7,
+      "culture": 4,
+      "politics": 9,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Гавгамелы",
+      "lat": 36.56,
+      "lon": 43.43
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-05/alx_s_05_01.svg",
+      "caption": "Локальная учебная обложка: Гавгамелы 331 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/114/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Persepolis",
+      "url": "https://whc.unesco.org/en/list/114/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_05"
+  },
+  {
+    "id": "ALX_S_05_02",
+    "type": "TACTIC",
+    "title": "Македонский прорыв к Дарию",
+    "original": "Alexander charge at Gaugamela",
+    "subtitle": "концентрированный удар в центре поля боя",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "331 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Македонский прорыв к Дарию — концентрированный удар в центре поля боя.",
+    "importance": "Карточка раскрывает главу «Гавгамелы и падение царских центров» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 331 год до н. э..",
+      "Основной смысл: концентрированный удар в центре поля боя.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Гавгамелы и падение царских центров",
+      "tactic"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 9,
+      "culture": 5,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Гавгамелы",
+      "lat": 36.56,
+      "lon": 43.43
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-05/alx_s_05_02.svg",
+      "caption": "Локальная учебная обложка: Македонский прорыв к Дарию",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/114/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Persepolis",
+      "url": "https://whc.unesco.org/en/list/114/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_05"
+  },
+  {
+    "id": "ALX_S_05_03",
+    "type": "EVENT",
+    "title": "Вступление Александра в Вавилон",
+    "original": "Alexander enters Babylon",
+    "subtitle": "принятие города и местных институтов без разрушения",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "331 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Вступление Александра в Вавилон — принятие города и местных институтов без разрушения.",
+    "importance": "Карточка раскрывает главу «Гавгамелы и падение царских центров» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 331 год до н. э..",
+      "Основной смысл: принятие города и местных институтов без разрушения.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Гавгамелы и падение царских центров",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 6,
+      "culture": 6,
+      "politics": 7,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Вавилон",
+      "lat": 32.536,
+      "lon": 44.421
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-05/alx_s_05_03.svg",
+      "caption": "Локальная учебная обложка: Вступление Александра в Вавилон",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/114/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Persepolis",
+      "url": "https://whc.unesco.org/en/list/114/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_05"
+  },
+  {
+    "id": "ALX_S_05_04",
+    "type": "INSTITUTION",
+    "title": "Вавилонские жрецы при новой власти",
+    "original": "Babylonian priesthood under Alexander",
+    "subtitle": "местные храмовые элиты в переходе власти",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "331–323 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Вавилонские жрецы при новой власти — местные храмовые элиты в переходе власти.",
+    "importance": "Карточка раскрывает главу «Гавгамелы и падение царских центров» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 331–323 годы до н. э..",
+      "Основной смысл: местные храмовые элиты в переходе власти.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Гавгамелы и падение царских центров",
+      "institution"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 8,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Вавилон",
+      "lat": 32.536,
+      "lon": 44.421
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-05/alx_s_05_04.svg",
+      "caption": "Локальная учебная обложка: Вавилонские жрецы при новой власти",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/114/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Persepolis",
+      "url": "https://whc.unesco.org/en/list/114/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_05"
+  },
+  {
+    "id": "ALX_S_05_05",
+    "type": "ECONOMY",
+    "title": "Сокровища Суз",
+    "original": "Treasury of Susa under Alexander",
+    "subtitle": "захваченные запасы ахеменидского двора",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "331 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Сокровища Суз — захваченные запасы ахеменидского двора.",
+    "importance": "Карточка раскрывает главу «Гавгамелы и падение царских центров» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 331 год до н. э..",
+      "Основной смысл: захваченные запасы ахеменидского двора.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Гавгамелы и падение царских центров",
+      "economy"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 5,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сузы",
+      "lat": 32.19,
+      "lon": 48.257
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-05/alx_s_05_05.svg",
+      "caption": "Локальная учебная обложка: Сокровища Суз",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/114/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_05_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Persepolis",
+      "url": "https://whc.unesco.org/en/list/114/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_05"
+  },
+  {
+    "id": "ALX_S_05_06",
+    "type": "BATTLE",
+    "title": "Персидские ворота",
+    "original": "Battle of the Persian Gate",
+    "subtitle": "сопротивление на пути к Персеполю",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "330 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Персидские ворота — сопротивление на пути к Персеполю.",
+    "importance": "Карточка раскрывает главу «Гавгамелы и падение царских центров» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 330 год до н. э..",
+      "Основной смысл: сопротивление на пути к Персеполю.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Гавгамелы и падение царских центров",
+      "battle"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 9,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Персеполь",
+      "lat": 29.935,
+      "lon": 52.891
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-05/alx_s_05_06.svg",
+      "caption": "Локальная учебная обложка: Персидские ворота",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/114/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_05_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Persepolis",
+      "url": "https://whc.unesco.org/en/list/114/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_05"
+  },
+  {
+    "id": "ALX_S_05_07",
+    "type": "EVENT",
+    "title": "Захват Персеполя",
+    "original": "Capture of Persepolis",
+    "subtitle": "разграбление церемониального центра Ахеменидов",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "330 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Захват Персеполя — разграбление церемониального центра Ахеменидов.",
+    "importance": "Карточка раскрывает главу «Гавгамелы и падение царских центров» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 330 год до н. э..",
+      "Основной смысл: разграбление церемониального центра Ахеменидов.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Гавгамелы и падение царских центров",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 9,
+      "culture": 4,
+      "politics": 7,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Персеполь",
+      "lat": 29.935,
+      "lon": 52.891
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-05/alx_s_05_07.svg",
+      "caption": "Локальная учебная обложка: Захват Персеполя",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/114/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_05_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Persepolis",
+      "url": "https://whc.unesco.org/en/list/114/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_05"
+  },
+  {
+    "id": "ALX_S_05_08",
+    "type": "EVENT",
+    "title": "Пожар дворцов Персеполя",
+    "original": "Burning of Persepolis",
+    "subtitle": "разрушение части дворцового комплекса с неясной мотивацией",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "330 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Пожар дворцов Персеполя — разрушение части дворцового комплекса с неясной мотивацией.",
+    "importance": "Карточка раскрывает главу «Гавгамелы и падение царских центров» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 330 год до н. э..",
+      "Основной смысл: разрушение части дворцового комплекса с неясной мотивацией.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Гавгамелы и падение царских центров",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 6,
+      "culture": 5,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Персеполь",
+      "lat": 29.935,
+      "lon": 52.891
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-05/alx_s_05_08.svg",
+      "caption": "Локальная учебная обложка: Пожар дворцов Персеполя",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/114/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_05_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Persepolis",
+      "url": "https://whc.unesco.org/en/list/114/",
+      "type": "institutional"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_05"
+  },
+  {
+    "id": "ALX_S_06_01",
+    "type": "EVENT",
+    "title": "Последний путь Дария III",
+    "original": "Death of Darius III",
+    "subtitle": "свержение и убийство царя при отступлении на восток",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "330 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Последний путь Дария III — свержение и убийство царя при отступлении на восток.",
+    "importance": "Карточка раскрывает главу «Погоня за Дарием и война на востоке» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 330 год до н. э..",
+      "Основной смысл: свержение и убийство царя при отступлении на восток.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Погоня за Дарием и война на востоке",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 8,
+      "culture": 5,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Экбатаны",
+      "lat": 34.799,
+      "lon": 48.514
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-06/alx_s_06_01.svg",
+      "caption": "Локальная учебная обложка: Последний путь Дария III",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_06"
+  },
+  {
+    "id": "ALX_S_06_02",
+    "type": "PERSON",
+    "title": "Бесс и титул Артаксеркса V",
+    "original": "Bessus Artaxerxes V",
+    "subtitle": "сатрап Бактрии, провозгласивший себя царём",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "330–329 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Бесс и титул Артаксеркса V — сатрап Бактрии, провозгласивший себя царём.",
+    "importance": "Карточка раскрывает главу «Погоня за Дарием и война на востоке» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 330–329 годы до н. э..",
+      "Основной смысл: сатрап Бактрии, провозгласивший себя царём.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Погоня за Дарием и война на востоке",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Бактры",
+      "lat": 36.758,
+      "lon": 66.898
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-06/alx_s_06_02.svg",
+      "caption": "Локальная учебная обложка: Бесс и титул Артаксеркса V",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_06"
+  },
+  {
+    "id": "ALX_S_06_03",
+    "type": "EVENT",
+    "title": "Переход через Гиндукуш",
+    "original": "Alexander crosses Hindu Kush",
+    "subtitle": "сложный горный марш к Бактрии",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "329 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Переход через Гиндукуш — сложный горный марш к Бактрии.",
+    "importance": "Карточка раскрывает главу «Погоня за Дарием и война на востоке» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 329 год до н. э..",
+      "Основной смысл: сложный горный марш к Бактрии.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Погоня за Дарием и война на востоке",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 7,
+      "culture": 7,
+      "politics": 9,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Бактры",
+      "lat": 36.758,
+      "lon": 66.898
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-06/alx_s_06_03.svg",
+      "caption": "Локальная учебная обложка: Переход через Гиндукуш",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_06"
+  },
+  {
+    "id": "ALX_S_06_04",
+    "type": "WAR",
+    "title": "Восстание Спитамена",
+    "original": "Spitamenes revolt",
+    "subtitle": "региональное сопротивление в Согдиане",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "329–328 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Восстание Спитамена — региональное сопротивление в Согдиане.",
+    "importance": "Карточка раскрывает главу «Погоня за Дарием и война на востоке» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 329–328 годы до н. э..",
+      "Основной смысл: региональное сопротивление в Согдиане.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Погоня за Дарием и война на востоке",
+      "war"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 9,
+      "culture": 8,
+      "politics": 6,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мараканда",
+      "lat": 39.654,
+      "lon": 66.959
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-06/alx_s_06_04.svg",
+      "caption": "Локальная учебная обложка: Восстание Спитамена",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_06"
+  },
+  {
+    "id": "ALX_S_06_05",
+    "type": "CITY",
+    "title": "Мараканда при Александре",
+    "original": "Maracanda under Alexander",
+    "subtitle": "опорный центр кампании в Согдиане",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "329–327 годы до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Мараканда при Александре — опорный центр кампании в Согдиане.",
+    "importance": "Карточка раскрывает главу «Погоня за Дарием и война на востоке» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 329–327 годы до н. э..",
+      "Основной смысл: опорный центр кампании в Согдиане.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Погоня за Дарием и война на востоке",
+      "city"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 6,
+      "culture": 9,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Мараканда",
+      "lat": 39.654,
+      "lon": 66.959
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-06/alx_s_06_05.svg",
+      "caption": "Локальная учебная обложка: Мараканда при Александре",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_06_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_06"
+  },
+  {
+    "id": "ALX_S_06_06",
+    "type": "SIEGE",
+    "title": "Согдийская скала",
+    "original": "Sogdian Rock siege",
+    "subtitle": "взятие укрепления в горной местности",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "327 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Согдийская скала — взятие укрепления в горной местности.",
+    "importance": "Карточка раскрывает главу «Погоня за Дарием и война на востоке» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 327 год до н. э..",
+      "Основной смысл: взятие укрепления в горной местности.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Погоня за Дарием и война на востоке",
+      "siege"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 4,
+      "politics": 8,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Согдийская скала",
+      "lat": 39.14,
+      "lon": 66.87
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-06/alx_s_06_06.svg",
+      "caption": "Локальная учебная обложка: Согдийская скала",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_06_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_06"
+  },
+  {
+    "id": "ALX_S_06_07",
+    "type": "PERSON",
+    "title": "Роксана Бактрийская",
+    "original": "Roxana of Bactria",
+    "subtitle": "дочь местного правителя и жена Александра",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "IV век до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Роксана Бактрийская — дочь местного правителя и жена Александра.",
+    "importance": "Карточка раскрывает главу «Погоня за Дарием и война на востоке» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: IV век до н. э..",
+      "Основной смысл: дочь местного правителя и жена Александра.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Погоня за Дарием и война на востоке",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 5,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Согдийская скала",
+      "lat": 39.14,
+      "lon": 66.87
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-06/alx_s_06_07.svg",
+      "caption": "Локальная учебная обложка: Роксана Бактрийская",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_06_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_06"
+  },
+  {
+    "id": "ALX_S_06_08",
+    "type": "SYSTEM",
+    "title": "Военные поселения на востоке",
+    "original": "Alexander eastern settlements",
+    "subtitle": "гарнизоны и новые города вдоль путей контроля",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "329–323 годы до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Военные поселения на востоке — гарнизоны и новые города вдоль путей контроля.",
+    "importance": "Карточка раскрывает главу «Погоня за Дарием и война на востоке» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 329–323 годы до н. э..",
+      "Основной смысл: гарнизоны и новые города вдоль путей контроля.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Погоня за Дарием и война на востоке",
+      "system"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Бактры",
+      "lat": 36.758,
+      "lon": 66.898
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-06/alx_s_06_08.svg",
+      "caption": "Локальная учебная обложка: Военные поселения на востоке",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_06_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_06"
+  },
+  {
+    "id": "ALX_S_07_01",
+    "type": "EVENT",
+    "title": "Дело Филоты",
+    "original": "Philotas affair",
+    "subtitle": "обвинение командующего в недонесении о заговоре",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "330 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Дело Филоты — обвинение командующего в недонесении о заговоре.",
+    "importance": "Карточка раскрывает главу «Царский двор и кризисы армии» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 330 год до н. э..",
+      "Основной смысл: обвинение командующего в недонесении о заговоре.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Царский двор и кризисы армии",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 9,
+      "culture": 6,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Азия",
+      "lat": 33.0,
+      "lon": 52.0
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-07/alx_s_07_01.svg",
+      "caption": "Локальная учебная обложка: Дело Филоты",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Arrian, Plutarch and Alexander traditions",
+      "url": "https://www.perseus.tufts.edu/hopper/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_07"
+  },
+  {
+    "id": "ALX_S_07_02",
+    "type": "EVENT",
+    "title": "Убийство Пармениона",
+    "original": "Killing of Parmenion",
+    "subtitle": "ликвидация влиятельного македонского полководца без суда рядом с царём",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "330 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Убийство Пармениона — ликвидация влиятельного македонского полководца без суда рядом с царём.",
+    "importance": "Карточка раскрывает главу «Царский двор и кризисы армии» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 330 год до н. э..",
+      "Основной смысл: ликвидация влиятельного македонского полководца без суда рядом с царём.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Царский двор и кризисы армии",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 7,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Экбатаны",
+      "lat": 34.799,
+      "lon": 48.514
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-07/alx_s_07_02.svg",
+      "caption": "Локальная учебная обложка: Убийство Пармениона",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Arrian, Plutarch and Alexander traditions",
+      "url": "https://www.perseus.tufts.edu/hopper/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_07"
+  },
+  {
+    "id": "ALX_S_07_03",
+    "type": "EVENT",
+    "title": "Убийство Клита Александром",
+    "original": "Killing of Cleitus",
+    "subtitle": "гибель старого гетайра во время пира",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "328 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Убийство Клита Александром — гибель старого гетайра во время пира.",
+    "importance": "Карточка раскрывает главу «Царский двор и кризисы армии» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 328 год до н. э..",
+      "Основной смысл: гибель старого гетайра во время пира.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Царский двор и кризисы армии",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 8,
+      "culture": 8,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мараканда",
+      "lat": 39.654,
+      "lon": 66.959
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-07/alx_s_07_03.svg",
+      "caption": "Локальная учебная обложка: Убийство Клита Александром",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Arrian, Plutarch and Alexander traditions",
+      "url": "https://www.perseus.tufts.edu/hopper/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_07"
+  },
+  {
+    "id": "ALX_S_07_04",
+    "type": "COURT",
+    "title": "Персидская одежда Александра",
+    "original": "Alexander Persian dress",
+    "subtitle": "использование элементов ахеменидского придворного образа",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "330-е годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 9,
+    "summary": "Персидская одежда Александра — использование элементов ахеменидского придворного образа.",
+    "importance": "Карточка раскрывает главу «Царский двор и кризисы армии» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 330-е годы до н. э..",
+      "Основной смысл: использование элементов ахеменидского придворного образа.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Царский двор и кризисы армии",
+      "court"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 5,
+      "culture": 9,
+      "politics": 8,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Бактры",
+      "lat": 36.758,
+      "lon": 66.898
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-07/alx_s_07_04.svg",
+      "caption": "Локальная учебная обложка: Персидская одежда Александра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_07_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Arrian, Plutarch and Alexander traditions",
+      "url": "https://www.perseus.tufts.edu/hopper/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_07"
+  },
+  {
+    "id": "ALX_S_07_05",
+    "type": "RITUAL",
+    "title": "Проскинеза при дворе",
+    "original": "Proskynesis controversy",
+    "subtitle": "спор о жесте почтения и статусе царя",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "327 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 9,
+    "summary": "Проскинеза при дворе — спор о жесте почтения и статусе царя.",
+    "importance": "Карточка раскрывает главу «Царский двор и кризисы армии» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 327 год до н. э..",
+      "Основной смысл: спор о жесте почтения и статусе царя.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Царский двор и кризисы армии",
+      "ritual"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 7,
+      "culture": 4,
+      "politics": 9,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Бактры",
+      "lat": 36.758,
+      "lon": 66.898
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-07/alx_s_07_05.svg",
+      "caption": "Локальная учебная обложка: Проскинеза при дворе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_07_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Arrian, Plutarch and Alexander traditions",
+      "url": "https://www.perseus.tufts.edu/hopper/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_07"
+  },
+  {
+    "id": "ALX_S_07_06",
+    "type": "PERSON",
+    "title": "Каллисфен Олинфский",
+    "original": "Callisthenes of Olynthus",
+    "subtitle": "историк похода, связанный с сопротивлением проскинезе",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "ум. 327 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Каллисфен Олинфский — историк похода, связанный с сопротивлением проскинезе.",
+    "importance": "Карточка раскрывает главу «Царский двор и кризисы армии» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: ум. 327 год до н. э..",
+      "Основной смысл: историк похода, связанный с сопротивлением проскинезе.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Царский двор и кризисы армии",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 9,
+      "culture": 5,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Бактры",
+      "lat": 36.758,
+      "lon": 66.898
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-07/alx_s_07_06.svg",
+      "caption": "Локальная учебная обложка: Каллисфен Олинфский",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_07_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Arrian, Plutarch and Alexander traditions",
+      "url": "https://www.perseus.tufts.edu/hopper/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_07"
+  },
+  {
+    "id": "ALX_S_07_07",
+    "type": "EVENT",
+    "title": "Заговор пажей",
+    "original": "Pages conspiracy",
+    "subtitle": "дело молодых придворных против царя",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "327 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 9,
+    "summary": "Заговор пажей — дело молодых придворных против царя.",
+    "importance": "Карточка раскрывает главу «Царский двор и кризисы армии» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 327 год до н. э..",
+      "Основной смысл: дело молодых придворных против царя.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Царский двор и кризисы армии",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 6,
+      "culture": 6,
+      "politics": 7,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Бактры",
+      "lat": 36.758,
+      "lon": 66.898
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-07/alx_s_07_07.svg",
+      "caption": "Локальная учебная обложка: Заговор пажей",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_07_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Arrian, Plutarch and Alexander traditions",
+      "url": "https://www.perseus.tufts.edu/hopper/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_07"
+  },
+  {
+    "id": "ALX_S_07_08",
+    "type": "MILITARY",
+    "title": "Иранская знать в новой армии",
+    "original": "Iranian elites in Alexander army",
+    "subtitle": "включение местных аристократов и обученных юношей",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "IV век до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 9,
+    "summary": "Иранская знать в новой армии — включение местных аристократов и обученных юношей.",
+    "importance": "Карточка раскрывает главу «Царский двор и кризисы армии» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: IV век до н. э..",
+      "Основной смысл: включение местных аристократов и обученных юношей.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Царский двор и кризисы армии",
+      "military"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 8,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Азия",
+      "lat": 33.0,
+      "lon": 52.0
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-07/alx_s_07_08.svg",
+      "caption": "Локальная учебная обложка: Иранская знать в новой армии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_07_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Arrian, Plutarch and Alexander traditions",
+      "url": "https://www.perseus.tufts.edu/hopper/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_07"
+  },
+  {
+    "id": "ALX_S_08_01",
+    "type": "DIPLOMACY",
+    "title": "Таксила и царь Омфис",
+    "original": "Taxila and Taxiles",
+    "subtitle": "союз с местным правителем перед походом к Гидаспу",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "326 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Таксила и царь Омфис — союз с местным правителем перед походом к Гидаспу.",
+    "importance": "Карточка раскрывает главу «Поход в Индию» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 326 год до н. э..",
+      "Основной смысл: союз с местным правителем перед походом к Гидаспу.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Поход в Индию",
+      "diplomacy"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 5,
+      "culture": 7,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Таксила",
+      "lat": 33.746,
+      "lon": 72.839
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-08/alx_s_08_01.svg",
+      "caption": "Локальная учебная обложка: Таксила и царь Омфис",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_08"
+  },
+  {
+    "id": "ALX_S_08_02",
+    "type": "BATTLE",
+    "title": "Битва при Гидаспе",
+    "original": "Battle of the Hydaspes",
+    "subtitle": "сражение Александра с царём Пором",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "326 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Битва при Гидаспе — сражение Александра с царём Пором.",
+    "importance": "Карточка раскрывает главу «Поход в Индию» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 326 год до н. э..",
+      "Основной смысл: сражение Александра с царём Пором.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Поход в Индию",
+      "battle"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 7,
+      "culture": 8,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Гидасп",
+      "lat": 32.933,
+      "lon": 73.733
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-08/alx_s_08_02.svg",
+      "caption": "Локальная учебная обложка: Битва при Гидаспе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_08"
+  },
+  {
+    "id": "ALX_S_08_03",
+    "type": "PERSON",
+    "title": "Царь Пор",
+    "original": "King Porus",
+    "subtitle": "правитель, сохранённый Александром после поражения",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "IV век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Царь Пор — правитель, сохранённый Александром после поражения.",
+    "importance": "Карточка раскрывает главу «Поход в Индию» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: IV век до н. э..",
+      "Основной смысл: правитель, сохранённый Александром после поражения.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Поход в Индию",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 9,
+      "culture": 9,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Гидасп",
+      "lat": 32.933,
+      "lon": 73.733
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-08/alx_s_08_03.svg",
+      "caption": "Локальная учебная обложка: Царь Пор",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_08"
+  },
+  {
+    "id": "ALX_S_08_04",
+    "type": "MILITARY",
+    "title": "Боевые слоны Пора",
+    "original": "War elephants at Hydaspes",
+    "subtitle": "крупные животные как ударная и психологическая сила",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "326 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Боевые слоны Пора — крупные животные как ударная и психологическая сила.",
+    "importance": "Карточка раскрывает главу «Поход в Индию» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 326 год до н. э..",
+      "Основной смысл: крупные животные как ударная и психологическая сила.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Поход в Индию",
+      "military"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 6,
+      "culture": 4,
+      "politics": 6,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Гидасп",
+      "lat": 32.933,
+      "lon": 73.733
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-08/alx_s_08_04.svg",
+      "caption": "Локальная учебная обложка: Боевые слоны Пора",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_08_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_08"
+  },
+  {
+    "id": "ALX_S_08_05",
+    "type": "EVENT",
+    "title": "Букефал и основание Букефалии",
+    "original": "Bucephala foundation",
+    "subtitle": "городская традиция, связанная со смертью коня Александра",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "326 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Букефал и основание Букефалии — городская традиция, связанная со смертью коня Александра.",
+    "importance": "Карточка раскрывает главу «Поход в Индию» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 326 год до н. э..",
+      "Основной смысл: городская традиция, связанная со смертью коня Александра.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Поход в Индию",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 8,
+      "culture": 5,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Гидасп",
+      "lat": 32.933,
+      "lon": 73.733
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-08/alx_s_08_05.svg",
+      "caption": "Локальная учебная обложка: Букефал и основание Букефалии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_08_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_08"
+  },
+  {
+    "id": "ALX_S_08_06",
+    "type": "EVENT",
+    "title": "Мятеж на Гифасисе",
+    "original": "Hyphasis mutiny",
+    "subtitle": "отказ армии продолжать поход на восток",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "326 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Мятеж на Гифасисе — отказ армии продолжать поход на восток.",
+    "importance": "Карточка раскрывает главу «Поход в Индию» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 326 год до н. э..",
+      "Основной смысл: отказ армии продолжать поход на восток.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Поход в Индию",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 5,
+      "culture": 6,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Гифасис",
+      "lat": 31.49,
+      "lon": 75.7
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-08/alx_s_08_06.svg",
+      "caption": "Локальная учебная обложка: Мятеж на Гифасисе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_08_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_08"
+  },
+  {
+    "id": "ALX_S_08_07",
+    "type": "MONUMENT",
+    "title": "Алтари на Гифасисе",
+    "original": "Hyphasis altars",
+    "subtitle": "символическая отметка восточной границы похода",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "326 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Алтари на Гифасисе — символическая отметка восточной границы похода.",
+    "importance": "Карточка раскрывает главу «Поход в Индию» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 326 год до н. э..",
+      "Основной смысл: символическая отметка восточной границы похода.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Поход в Индию",
+      "monument"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 7,
+      "culture": 7,
+      "politics": 9,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Гифасис",
+      "lat": 31.49,
+      "lon": 75.7
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-08/alx_s_08_07.svg",
+      "caption": "Локальная учебная обложка: Алтари на Гифасисе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_08_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_08"
+  },
+  {
+    "id": "ALX_S_08_08",
+    "type": "BATTLE",
+    "title": "Маллийский штурм и ранение",
+    "original": "Mallian campaign wound",
+    "subtitle": "опасное ранение Александра при штурме города",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "325 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Маллийский штурм и ранение — опасное ранение Александра при штурме города.",
+    "importance": "Карточка раскрывает главу «Поход в Индию» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 325 год до н. э..",
+      "Основной смысл: опасное ранение Александра при штурме города.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Поход в Индию",
+      "battle"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 9,
+      "culture": 8,
+      "politics": 6,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Маллийская область",
+      "lat": 30.198,
+      "lon": 71.469
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-08/alx_s_08_08.svg",
+      "caption": "Локальная учебная обложка: Маллийский штурм и ранение",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_08_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: The world of Alexander",
+      "url": "https://www.britishmuseum.org/collection/galleries/world-alexander",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_08"
+  },
+  {
+    "id": "ALX_S_09_01",
+    "type": "EVENT",
+    "title": "Переход через Гедросию",
+    "original": "Gedrosian desert crossing",
+    "subtitle": "тяжёлый сухопутный маршрут с крупными потерями",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "325 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Переход через Гедросию — тяжёлый сухопутный маршрут с крупными потерями.",
+    "importance": "Карточка раскрывает главу «Возвращение и управление империей» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 325 год до н. э..",
+      "Основной смысл: тяжёлый сухопутный маршрут с крупными потерями.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Возвращение и управление империей",
+      "event"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Гедросия",
+      "lat": 27.5,
+      "lon": 63.0
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-09/alx_s_09_01.svg",
+      "caption": "Локальная учебная обложка: Переход через Гедросию",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_09_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_09"
+  },
+  {
+    "id": "ALX_S_09_02",
+    "type": "EXPEDITION",
+    "title": "Флот Неарха",
+    "original": "Nearchus voyage",
+    "subtitle": "морское возвращение от Инда к Персидскому заливу",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "325–324 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Флот Неарха — морское возвращение от Инда к Персидскому заливу.",
+    "importance": "Карточка раскрывает главу «Возвращение и управление империей» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 325–324 годы до н. э..",
+      "Основной смысл: морское возвращение от Инда к Персидскому заливу.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Возвращение и управление империей",
+      "expedition"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 8,
+      "culture": 9,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Кармания",
+      "lat": 29.0,
+      "lon": 57.0
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-09/alx_s_09_02.svg",
+      "caption": "Локальная учебная обложка: Флот Неарха",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_09_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_09"
+  },
+  {
+    "id": "ALX_S_09_03",
+    "type": "EVENT",
+    "title": "Карманийское возвращение",
+    "original": "Alexander in Carmania",
+    "subtitle": "соединение частей армии после индийского похода",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "325 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Карманийское возвращение — соединение частей армии после индийского похода.",
+    "importance": "Карточка раскрывает главу «Возвращение и управление империей» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 325 год до н. э..",
+      "Основной смысл: соединение частей армии после индийского похода.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Возвращение и управление империей",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 5,
+      "culture": 4,
+      "politics": 7,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кармания",
+      "lat": 29.0,
+      "lon": 57.0
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-09/alx_s_09_03.svg",
+      "caption": "Локальная учебная обложка: Карманийское возвращение",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_09_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_09"
+  },
+  {
+    "id": "ALX_S_09_04",
+    "type": "EVENT",
+    "title": "Свадьбы в Сузах",
+    "original": "Susa weddings",
+    "subtitle": "массовые браки македонской и иранской элиты",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "324 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Свадьбы в Сузах — массовые браки македонской и иранской элиты.",
+    "importance": "Карточка раскрывает главу «Возвращение и управление империей» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 324 год до н. э..",
+      "Основной смысл: массовые браки македонской и иранской элиты.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Возвращение и управление империей",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 7,
+      "culture": 5,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Сузы",
+      "lat": 32.19,
+      "lon": 48.257
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-09/alx_s_09_04.svg",
+      "caption": "Локальная учебная обложка: Свадьбы в Сузах",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_09_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_09"
+  },
+  {
+    "id": "ALX_S_09_05",
+    "type": "PERSON",
+    "title": "Статира II",
+    "original": "Stateira II",
+    "subtitle": "дочь Дария III и жена Александра после свадеб в Сузах",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "IV век до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Статира II — дочь Дария III и жена Александра после свадеб в Сузах.",
+    "importance": "Карточка раскрывает главу «Возвращение и управление империей» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: IV век до н. э..",
+      "Основной смысл: дочь Дария III и жена Александра после свадеб в Сузах.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Возвращение и управление империей",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 9,
+      "culture": 6,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сузы",
+      "lat": 32.19,
+      "lon": 48.257
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-09/alx_s_09_05.svg",
+      "caption": "Локальная учебная обложка: Статира II",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_09_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_09"
+  },
+  {
+    "id": "ALX_S_09_06",
+    "type": "EVENT",
+    "title": "Мятеж в Описе",
+    "original": "Mutiny at Opis",
+    "subtitle": "протест македонян против демобилизации и новой армейской политики",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "324 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Мятеж в Описе — протест македонян против демобилизации и новой армейской политики.",
+    "importance": "Карточка раскрывает главу «Возвращение и управление империей» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 324 год до н. э..",
+      "Основной смысл: протест македонян против демобилизации и новой армейской политики.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Возвращение и управление империей",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Опис",
+      "lat": 33.05,
+      "lon": 44.8
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-09/alx_s_09_06.svg",
+      "caption": "Локальная учебная обложка: Мятеж в Описе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_09_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_09"
+  },
+  {
+    "id": "ALX_S_09_07",
+    "type": "TEXT",
+    "title": "Речь примирения в Описе",
+    "original": "Opis reconciliation speech",
+    "subtitle": "литературная традиция о примирении царя и армии",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "324 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Речь примирения в Описе — литературная традиция о примирении царя и армии.",
+    "importance": "Карточка раскрывает главу «Возвращение и управление империей» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 324 год до н. э..",
+      "Основной смысл: литературная традиция о примирении царя и армии.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Возвращение и управление империей",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 8,
+      "culture": 8,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Опис",
+      "lat": 33.05,
+      "lon": 44.8
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-09/alx_s_09_07.svg",
+      "caption": "Локальная учебная обложка: Речь примирения в Описе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_09_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_09"
+  },
+  {
+    "id": "ALX_S_09_08",
+    "type": "EVENT",
+    "title": "Смерть Гефестиона",
+    "original": "Death of Hephaestion",
+    "subtitle": "утрата ближайшего соратника Александра",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "324 год до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Смерть Гефестиона — утрата ближайшего соратника Александра.",
+    "importance": "Карточка раскрывает главу «Возвращение и управление империей» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 324 год до н. э..",
+      "Основной смысл: утрата ближайшего соратника Александра.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Возвращение и управление империей",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 5,
+      "culture": 9,
+      "politics": 8,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Экбатаны",
+      "lat": 34.799,
+      "lon": 48.514
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-09/alx_s_09_08.svg",
+      "caption": "Локальная учебная обложка: Смерть Гефестиона",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_09_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Rise of Macedonia and the Conquests of Alexander the Great",
+      "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_09"
+  },
+  {
+    "id": "ALX_S_10_01",
+    "type": "EVENT",
+    "title": "Последние дни Александра",
+    "original": "Last days of Alexander",
+    "subtitle": "болезнь и смерть царя в Вавилоне",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "323 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Последние дни Александра — болезнь и смерть царя в Вавилоне.",
+    "importance": "Карточка раскрывает главу «Смерть и открытое наследство» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 323 год до н. э..",
+      "Основной смысл: болезнь и смерть царя в Вавилоне.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Смерть и открытое наследство",
+      "event"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 9,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Вавилон",
+      "lat": 32.536,
+      "lon": 44.421
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-10/alx_s_10_01.svg",
+      "caption": "Локальная учебная обложка: Последние дни Александра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_10_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Arrian, Plutarch and Alexander traditions",
+      "url": "https://www.perseus.tufts.edu/hopper/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_10"
+  },
+  {
+    "id": "ALX_S_10_02",
+    "type": "POLITICAL",
+    "title": "Вавилонское соглашение",
+    "original": "Partition of Babylon",
+    "subtitle": "распределение должностей после смерти царя",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "323 год до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Вавилонское соглашение — распределение должностей после смерти царя.",
+    "importance": "Карточка раскрывает главу «Смерть и открытое наследство» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 323 год до н. э..",
+      "Основной смысл: распределение должностей после смерти царя.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Смерть и открытое наследство",
+      "political"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 9,
+      "culture": 4,
+      "politics": 8,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Вавилон",
+      "lat": 32.536,
+      "lon": 44.421
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-10/alx_s_10_02.svg",
+      "caption": "Локальная учебная обложка: Вавилонское соглашение",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_10_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Arrian, Plutarch and Alexander traditions",
+      "url": "https://www.perseus.tufts.edu/hopper/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_10"
+  },
+  {
+    "id": "ALX_S_10_03",
+    "type": "PERSON",
+    "title": "Филипп III Арридей",
+    "original": "Philip III Arrhidaeus",
+    "subtitle": "сводный брат Александра и номинальный царь",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "ум. 317 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Филипп III Арридей — сводный брат Александра и номинальный царь.",
+    "importance": "Карточка раскрывает главу «Смерть и открытое наследство» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: ум. 317 год до н. э..",
+      "Основной смысл: сводный брат Александра и номинальный царь.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Смерть и открытое наследство",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 6,
+      "culture": 5,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Македония",
+      "lat": 40.65,
+      "lon": 22.5
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-10/alx_s_10_03.svg",
+      "caption": "Локальная учебная обложка: Филипп III Арридей",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_10_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Arrian, Plutarch and Alexander traditions",
+      "url": "https://www.perseus.tufts.edu/hopper/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_10"
+  },
+  {
+    "id": "ALX_S_10_04",
+    "type": "PERSON",
+    "title": "Александр IV",
+    "original": "Alexander IV of Macedon",
+    "subtitle": "посмертный сын Александра и Роксаны",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "323–309 годы до н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Александр IV — посмертный сын Александра и Роксаны.",
+    "importance": "Карточка раскрывает главу «Смерть и открытое наследство» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 323–309 годы до н. э..",
+      "Основной смысл: посмертный сын Александра и Роксаны.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Смерть и открытое наследство",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 8,
+      "culture": 6,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Македония",
+      "lat": 40.65,
+      "lon": 22.5
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-10/alx_s_10_04.svg",
+      "caption": "Локальная учебная обложка: Александр IV",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_10_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Arrian, Plutarch and Alexander traditions",
+      "url": "https://www.perseus.tufts.edu/hopper/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_10"
+  },
+  {
+    "id": "ALX_S_10_05",
+    "type": "PERSON",
+    "title": "Пердикка-регент",
+    "original": "Perdiccas regent",
+    "subtitle": "хилиарх и один из первых руководителей империи после 323 года",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "ум. 321 год до н. э.",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Пердикка-регент — хилиарх и один из первых руководителей империи после 323 года.",
+    "importance": "Карточка раскрывает главу «Смерть и открытое наследство» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: ум. 321 год до н. э..",
+      "Основной смысл: хилиарх и один из первых руководителей империи после 323 года.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Смерть и открытое наследство",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 5,
+      "culture": 7,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Вавилон",
+      "lat": 32.536,
+      "lon": 44.421
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-10/alx_s_10_05.svg",
+      "caption": "Локальная учебная обложка: Пердикка-регент",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_10_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Arrian, Plutarch and Alexander traditions",
+      "url": "https://www.perseus.tufts.edu/hopper/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_10"
+  },
+  {
+    "id": "ALX_S_10_06",
+    "type": "FACTION",
+    "title": "Диадохи Александра",
+    "original": "Diadochi of Alexander",
+    "subtitle": "командиры, разделившие контроль над сатрапиями и армиями",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "конец IV века до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Диадохи Александра — командиры, разделившие контроль над сатрапиями и армиями.",
+    "importance": "Карточка раскрывает главу «Смерть и открытое наследство» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: конец IV века до н. э..",
+      "Основной смысл: командиры, разделившие контроль над сатрапиями и армиями.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Смерть и открытое наследство",
+      "faction"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 7,
+      "culture": 8,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Азия",
+      "lat": 33.0,
+      "lon": 52.0
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-10/alx_s_10_06.svg",
+      "caption": "Локальная учебная обложка: Диадохи Александра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_10_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Arrian, Plutarch and Alexander traditions",
+      "url": "https://www.perseus.tufts.edu/hopper/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_10"
+  },
+  {
+    "id": "ALX_S_10_07",
+    "type": "EVENT",
+    "title": "Перевозка тела Александра",
+    "original": "Alexander funeral procession",
+    "subtitle": "перехват погребальной процессии Птолемеем",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "ок. 321 год до н. э.",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Перевозка тела Александра — перехват погребальной процессии Птолемеем.",
+    "importance": "Карточка раскрывает главу «Смерть и открытое наследство» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: ок. 321 год до н. э..",
+      "Основной смысл: перехват погребальной процессии Птолемеем.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Смерть и открытое наследство",
+      "event"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 9,
+      "culture": 9,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Азия",
+      "lat": 33.0,
+      "lon": 52.0
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-10/alx_s_10_07.svg",
+      "caption": "Локальная учебная обложка: Перевозка тела Александра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_10_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Arrian, Plutarch and Alexander traditions",
+      "url": "https://www.perseus.tufts.edu/hopper/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_10"
+  },
+  {
+    "id": "ALX_S_10_08",
+    "type": "PERIOD",
+    "title": "Рождение эллинистических царств",
+    "original": "Formation of Hellenistic kingdoms",
+    "subtitle": "долгий распад единой власти на региональные монархии",
+    "era": "Классический мир",
+    "region": "Македония, Ахеменидская Азия и северо-западная Индия",
+    "date": "323–281 годы до н. э.",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Рождение эллинистических царств — долгий распад единой власти на региональные монархии.",
+    "importance": "Карточка раскрывает главу «Смерть и открытое наследство» и показывает военную, административную, социальную или источниковедческую сторону походов Александра.",
+    "facts": [
+      "Датировка: 323–281 годы до н. э..",
+      "Основной смысл: долгий распад единой власти на региональные монархии.",
+      "Вывод проверяется по археологии, монетам, надписям и поздним письменным рассказам."
+    ],
+    "tags": [
+      "классический мир",
+      "Александр Македонский",
+      "Смерть и открытое наследство",
+      "period"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 6,
+      "culture": 4,
+      "politics": 6,
+      "religion": 3,
+      "economy": 4,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Азия",
+      "lat": 33.0,
+      "lon": 52.0
+    },
+    "image": {
+      "local": "assets/cards/alexander/chapter-10/alx_s_10_08.svg",
+      "caption": "Локальная учебная обложка: Рождение эллинистических царств",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.perseus.tufts.edu/hopper/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "alx_s_10_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Perseus Digital Library: Arrian, Plutarch and Alexander traditions",
+      "url": "https://www.perseus.tufts.edu/hopper/",
+      "type": "academic"
+    },
+    "acquisition": "STORY",
+    "campaign": "ALEXANDER",
+    "chapter": "ALX_CHAPTER_10"
+  }
+]

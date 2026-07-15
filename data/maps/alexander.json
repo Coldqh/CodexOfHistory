@@ -1,0 +1,354 @@
+{
+  "points": {
+    "AIGAI": [
+      40.486,
+      22.318
+    ],
+    "PELLA": [
+      40.761,
+      22.526
+    ],
+    "MIEZA": [
+      40.632,
+      22.071
+    ],
+    "THEBES": [
+      38.322,
+      23.318
+    ],
+    "HELESPONT": [
+      40.212,
+      26.405
+    ],
+    "TROY": [
+      39.957,
+      26.239
+    ],
+    "GRANICUS": [
+      40.317,
+      27.283
+    ],
+    "SARDIS": [
+      38.488,
+      28.04
+    ],
+    "MILETUS": [
+      37.53,
+      27.278
+    ],
+    "HALICARNASSUS": [
+      37.038,
+      27.424
+    ],
+    "GORDIUM": [
+      39.655,
+      31.994
+    ],
+    "ISSUS": [
+      36.866,
+      36.165
+    ],
+    "TYRE": [
+      33.27,
+      35.203
+    ],
+    "GAZA": [
+      31.501,
+      34.466
+    ],
+    "MEMPHIS": [
+      29.849,
+      31.254
+    ],
+    "SIWA": [
+      29.204,
+      25.519
+    ],
+    "ALEXANDRIA": [
+      31.2,
+      29.918
+    ],
+    "GAUGAMELA": [
+      36.56,
+      43.43
+    ],
+    "BABYLON": [
+      32.536,
+      44.421
+    ],
+    "SUSA": [
+      32.19,
+      48.257
+    ],
+    "PERSEPOLIS": [
+      29.935,
+      52.891
+    ],
+    "ECB ATANA": [
+      34.799,
+      48.514
+    ],
+    "BACTRA": [
+      36.758,
+      66.898
+    ],
+    "MARACANDA": [
+      39.654,
+      66.959
+    ],
+    "SOGDIAN_ROCK": [
+      39.14,
+      66.87
+    ],
+    "TAXILA": [
+      33.746,
+      72.839
+    ],
+    "HYDASPES": [
+      32.933,
+      73.733
+    ],
+    "HYPHASIS": [
+      31.49,
+      75.7
+    ],
+    "MULTAN": [
+      30.198,
+      71.469
+    ],
+    "GEDROSIA": [
+      27.5,
+      63.0
+    ],
+    "OPIS": [
+      33.05,
+      44.8
+    ],
+    "CARMANIA": [
+      29.0,
+      57.0
+    ],
+    "MACEDONIA": [
+      40.65,
+      22.5
+    ],
+    "ASIA": [
+      33.0,
+      52.0
+    ],
+    "BABYLON_LAST": [
+      32.536,
+      44.421
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "ALX_S_01_01": "PELLA",
+    "ALX_S_01_02": "PELLA",
+    "ALX_S_01_03": "MIEZA",
+    "ALX_S_01_04": "PELLA",
+    "ALX_S_01_05": "AIGAI",
+    "ALX_S_01_06": "MACEDONIA",
+    "ALX_S_01_07": "THEBES",
+    "ALX_S_01_08": "MACEDONIA",
+    "ALX_A_01_01": "AIGAI",
+    "ALX_A_01_02": "PELLA",
+    "ALX_A_01_03": "PELLA",
+    "ALX_A_01_04": "AIGAI",
+    "ALX_S_02_01": "HELESPONT",
+    "ALX_S_02_02": "TROY",
+    "ALX_S_02_03": "GRANICUS",
+    "ALX_S_02_04": "GRANICUS",
+    "ALX_S_02_05": "SARDIS",
+    "ALX_S_02_06": "MILETUS",
+    "ALX_S_02_07": "HALICARNASSUS",
+    "ALX_S_02_08": "MILETUS",
+    "ALX_A_02_01": "GRANICUS",
+    "ALX_A_02_02": "SARDIS",
+    "ALX_A_02_03": "HALICARNASSUS",
+    "ALX_A_02_04": "ASIA",
+    "ALX_S_03_01": "GORDIUM",
+    "ALX_S_03_02": "ISSUS",
+    "ALX_S_03_03": "ISSUS",
+    "ALX_S_03_04": "ISSUS",
+    "ALX_S_03_05": "TYRE",
+    "ALX_S_03_06": "TYRE",
+    "ALX_S_03_07": "TYRE",
+    "ALX_S_03_08": "GAZA",
+    "ALX_A_03_01": "ISSUS",
+    "ALX_A_03_02": "TYRE",
+    "ALX_A_03_03": "ISSUS",
+    "ALX_A_03_04": "TYRE",
+    "ALX_S_04_01": "MEMPHIS",
+    "ALX_S_04_02": "MEMPHIS",
+    "ALX_S_04_03": "ALEXANDRIA",
+    "ALX_S_04_04": "ALEXANDRIA",
+    "ALX_S_04_05": "SIWA",
+    "ALX_S_04_06": "SIWA",
+    "ALX_S_04_07": "ALEXANDRIA",
+    "ALX_S_04_08": "MEMPHIS",
+    "ALX_A_04_01": "MEMPHIS",
+    "ALX_A_04_02": "ALEXANDRIA",
+    "ALX_A_04_03": "SIWA",
+    "ALX_A_04_04": "ALEXANDRIA",
+    "ALX_S_05_01": "GAUGAMELA",
+    "ALX_S_05_02": "GAUGAMELA",
+    "ALX_S_05_03": "BABYLON",
+    "ALX_S_05_04": "BABYLON",
+    "ALX_S_05_05": "SUSA",
+    "ALX_S_05_06": "PERSEPOLIS",
+    "ALX_S_05_07": "PERSEPOLIS",
+    "ALX_S_05_08": "PERSEPOLIS",
+    "ALX_A_05_01": "PERSEPOLIS",
+    "ALX_A_05_02": "SUSA",
+    "ALX_A_05_03": "PERSEPOLIS",
+    "ALX_A_05_04": "BABYLON",
+    "ALX_S_06_01": "ECB ATANA",
+    "ALX_S_06_02": "BACTRA",
+    "ALX_S_06_03": "BACTRA",
+    "ALX_S_06_04": "MARACANDA",
+    "ALX_S_06_05": "MARACANDA",
+    "ALX_S_06_06": "SOGDIAN_ROCK",
+    "ALX_S_06_07": "SOGDIAN_ROCK",
+    "ALX_S_06_08": "BACTRA",
+    "ALX_A_06_01": "MARACANDA",
+    "ALX_A_06_02": "BACTRA",
+    "ALX_A_06_03": "MARACANDA",
+    "ALX_A_06_04": "BACTRA",
+    "ALX_S_07_01": "ASIA",
+    "ALX_S_07_02": "ECB ATANA",
+    "ALX_S_07_03": "MARACANDA",
+    "ALX_S_07_04": "BACTRA",
+    "ALX_S_07_05": "BACTRA",
+    "ALX_S_07_06": "BACTRA",
+    "ALX_S_07_07": "BACTRA",
+    "ALX_S_07_08": "ASIA",
+    "ALX_A_07_01": "ASIA",
+    "ALX_A_07_02": "BABYLON",
+    "ALX_A_07_03": "MACEDONIA",
+    "ALX_A_07_04": "ASIA",
+    "ALX_S_08_01": "TAXILA",
+    "ALX_S_08_02": "HYDASPES",
+    "ALX_S_08_03": "HYDASPES",
+    "ALX_S_08_04": "HYDASPES",
+    "ALX_S_08_05": "HYDASPES",
+    "ALX_S_08_06": "HYPHASIS",
+    "ALX_S_08_07": "HYPHASIS",
+    "ALX_S_08_08": "MULTAN",
+    "ALX_A_08_01": "TAXILA",
+    "ALX_A_08_02": "TAXILA",
+    "ALX_A_08_03": "HYDASPES",
+    "ALX_A_08_04": "HYPHASIS",
+    "ALX_S_09_01": "GEDROSIA",
+    "ALX_S_09_02": "CARMANIA",
+    "ALX_S_09_03": "CARMANIA",
+    "ALX_S_09_04": "SUSA",
+    "ALX_S_09_05": "SUSA",
+    "ALX_S_09_06": "OPIS",
+    "ALX_S_09_07": "OPIS",
+    "ALX_S_09_08": "ECB ATANA",
+    "ALX_A_09_01": "ECB ATANA",
+    "ALX_A_09_02": "SUSA",
+    "ALX_A_09_03": "GEDROSIA",
+    "ALX_A_09_04": "OPIS",
+    "ALX_S_10_01": "BABYLON_LAST",
+    "ALX_S_10_02": "BABYLON_LAST",
+    "ALX_S_10_03": "MACEDONIA",
+    "ALX_S_10_04": "MACEDONIA",
+    "ALX_S_10_05": "BABYLON_LAST",
+    "ALX_S_10_06": "ASIA",
+    "ALX_S_10_07": "ASIA",
+    "ALX_S_10_08": "ASIA",
+    "ALX_A_10_01": "BABYLON_LAST",
+    "ALX_A_10_02": "ASIA",
+    "ALX_A_10_03": "ALEXANDRIA",
+    "ALX_A_10_04": "ASIA"
+  },
+  "chapters": {
+    "ALX_CHAPTER_01": {
+      "title": "Наследник Македонии",
+      "center": [
+        40.761,
+        22.526
+      ],
+      "zoom": 6
+    },
+    "ALX_CHAPTER_02": {
+      "title": "Переход в Азию",
+      "center": [
+        40.212,
+        26.405
+      ],
+      "zoom": 6
+    },
+    "ALX_CHAPTER_03": {
+      "title": "От Гордиона до Тира",
+      "center": [
+        39.655,
+        31.994
+      ],
+      "zoom": 6
+    },
+    "ALX_CHAPTER_04": {
+      "title": "Египет и новая Александрия",
+      "center": [
+        29.849,
+        31.254
+      ],
+      "zoom": 6
+    },
+    "ALX_CHAPTER_05": {
+      "title": "Гавгамелы и падение царских центров",
+      "center": [
+        36.56,
+        43.43
+      ],
+      "zoom": 6
+    },
+    "ALX_CHAPTER_06": {
+      "title": "Погоня за Дарием и война на востоке",
+      "center": [
+        34.799,
+        48.514
+      ],
+      "zoom": 6
+    },
+    "ALX_CHAPTER_07": {
+      "title": "Царский двор и кризисы армии",
+      "center": [
+        36.758,
+        66.898
+      ],
+      "zoom": 6
+    },
+    "ALX_CHAPTER_08": {
+      "title": "Поход в Индию",
+      "center": [
+        33.746,
+        72.839
+      ],
+      "zoom": 6
+    },
+    "ALX_CHAPTER_09": {
+      "title": "Возвращение и управление империей",
+      "center": [
+        27.5,
+        63.0
+      ],
+      "zoom": 6
+    },
+    "ALX_CHAPTER_10": {
+      "title": "Смерть и открытое наследство",
+      "center": [
+        32.536,
+        44.421
+      ],
+      "zoom": 6
+    }
+  },
+  "missionCenter": [
+    34.0,
+    48.0
+  ],
+  "missionZoom": 4
+}

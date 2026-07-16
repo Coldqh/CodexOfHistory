@@ -1637,52 +1637,9 @@
     ]
   },
   {
-    "id": "SASANIAN",
-    "eraId": "ERA_LATE_ANTIQUITY",
-    "order": 27,
-    "title": "Сасанидский Иран",
-    "subtitle": "Последняя великая держава древнего Ирана",
-    "period": "224–651 годы",
-    "chapterCount": 7,
-    "releasedChapters": 0,
-    "status": "PLANNED",
-    "region": "Иран",
-    "description": "",
-    "chapters": [
-      {
-        "number": 1,
-        "title": "Падение Парфии"
-      },
-      {
-        "number": 2,
-        "title": "Возникновение Сасанидов"
-      },
-      {
-        "number": 3,
-        "title": "Шахиншах и управление"
-      },
-      {
-        "number": 4,
-        "title": "Зороастризм"
-      },
-      {
-        "number": 5,
-        "title": "Войны с Римом"
-      },
-      {
-        "number": 6,
-        "title": "Хосров I"
-      },
-      {
-        "number": 7,
-        "title": "Последняя война и падение"
-      }
-    ]
-  },
-  {
     "id": "EARLY_CHRISTIANITY",
     "eraId": "ERA_LATE_ANTIQUITY",
-    "order": 28,
+    "order": 27,
     "title": "Христианство и религии поздней Античности",
     "subtitle": "Общины, тексты, соборы и святые места",
     "period": "I–VI века",
@@ -1741,7 +1698,7 @@
   {
     "id": "MIGRATION_KINGDOMS",
     "eraId": "ERA_LATE_ANTIQUITY",
-    "order": 29,
+    "order": 28,
     "title": "Переселения и новые королевства",
     "subtitle": "От дунайского кризиса к постримскому Западу",
     "period": "376–568 годы",
@@ -1798,9 +1755,111 @@
     ]
   },
   {
-    "id": "GUPTA",
+    "id": "EASTERN_ROMAN",
+    "eraId": "ERA_LATE_ANTIQUITY",
+    "order": 29,
+    "title": "Восточная Римская империя",
+    "subtitle": "Константинополь, право и войны 395–641 годов",
+    "period": "395–641 годы",
+    "chapterCount": 11,
+    "releasedChapters": 11,
+    "status": "PLAYABLE",
+    "region": "Восточное Средиземноморье, Балканы и Ближний Восток",
+    "description": "От отдельного восточного двора и Феодосиевых стен до Юстиниана, кодификации права, войн в Африке и Италии, чумы и последней войны Ираклия с Сасанидами.",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Восточная империя после 395 года"
+      },
+      {
+        "number": 2,
+        "title": "Феодосий II и столица за стенами"
+      },
+      {
+        "number": 3,
+        "title": "Двор, чиновники и Феодосиев кодекс"
+      },
+      {
+        "number": 4,
+        "title": "Балканы, гунны и дипломатия"
+      },
+      {
+        "number": 5,
+        "title": "Анастасий и финансовое восстановление"
+      },
+      {
+        "number": 6,
+        "title": "Юстин, Юстиниан и новая императорская программа"
+      },
+      {
+        "number": 7,
+        "title": "Восстание «Ника» и строительство Святой Софии"
+      },
+      {
+        "number": 8,
+        "title": "Corpus Juris Civilis и власть закона"
+      },
+      {
+        "number": 9,
+        "title": "Африка, Италия и войны Юстиниана"
+      },
+      {
+        "number": 10,
+        "title": "Чума, налоги и пределы мобилизации"
+      },
+      {
+        "number": 11,
+        "title": "Маврикий, Фока и Ираклий: война до 641 года"
+      }
+    ]
+  },
+  {
+    "id": "SASANIAN",
     "eraId": "ERA_LATE_ANTIQUITY",
     "order": 30,
+    "title": "Сасанидский Иран",
+    "subtitle": "Последняя великая держава древнего Ирана",
+    "period": "224–651 годы",
+    "chapterCount": 7,
+    "releasedChapters": 0,
+    "status": "PLANNED",
+    "region": "Иран",
+    "description": "",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Падение Парфии"
+      },
+      {
+        "number": 2,
+        "title": "Возникновение Сасанидов"
+      },
+      {
+        "number": 3,
+        "title": "Шахиншах и управление"
+      },
+      {
+        "number": 4,
+        "title": "Зороастризм"
+      },
+      {
+        "number": 5,
+        "title": "Войны с Римом"
+      },
+      {
+        "number": 6,
+        "title": "Хосров I"
+      },
+      {
+        "number": 7,
+        "title": "Последняя война и падение"
+      }
+    ]
+  },
+  {
+    "id": "GUPTA",
+    "eraId": "ERA_LATE_ANTIQUITY",
+    "order": 31,
     "title": "Индия эпохи Гуптов",
     "subtitle": "Государство, культура и наука",
     "period": "IV–VI века",
@@ -1843,7 +1902,7 @@
   {
     "id": "CHINA_POST_HAN",
     "eraId": "ERA_LATE_ANTIQUITY",
-    "order": 31,
+    "order": 32,
     "title": "Китай между Хань и Тан",
     "subtitle": "Раздробленность, буддизм и новое объединение",
     "period": "III–VII века",
@@ -1894,7 +1953,7 @@
   {
     "id": "ISLAMIC_ORIGINS",
     "eraId": "ERA_TRANSITION",
-    "order": 32,
+    "order": 33,
     "title": "Возникновение исламского мира",
     "subtitle": "От Аравии к халифату",
     "period": "VI–VIII века",

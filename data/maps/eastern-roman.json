@@ -1,0 +1,346 @@
+{
+  "points": {
+    "CONSTANTINOPLE": [
+      41.008,
+      28.978
+    ],
+    "THEODOSIAN_WALLS": [
+      41.018,
+      28.925
+    ],
+    "HIPPODROME": [
+      41.006,
+      28.975
+    ],
+    "HAGIA_SOPHIA": [
+      41.0086,
+      28.9802
+    ],
+    "CHALCEDON": [
+      40.991,
+      29.028
+    ],
+    "THESSALONICA": [
+      40.64,
+      22.944
+    ],
+    "DANUBE": [
+      45.2,
+      22.5
+    ],
+    "SIRMIUM": [
+      44.98,
+      19.61
+    ],
+    "ANTIOCH": [
+      36.202,
+      36.16
+    ],
+    "ALEXANDRIA": [
+      31.2,
+      29.918
+    ],
+    "JERUSALEM": [
+      31.778,
+      35.235
+    ],
+    "EPHESUS": [
+      37.939,
+      27.341
+    ],
+    "CAESAREA": [
+      38.722,
+      35.487
+    ],
+    "DARA": [
+      37.178,
+      40.954
+    ],
+    "NISIBIS": [
+      37.071,
+      41.218
+    ],
+    "ARMENIA": [
+      40.2,
+      44.5
+    ],
+    "LAZICA": [
+      42.2,
+      42.2
+    ],
+    "CARTHAGE": [
+      36.852,
+      10.323
+    ],
+    "RAVENNA": [
+      44.418,
+      12.204
+    ],
+    "ROME": [
+      41.893,
+      12.483
+    ],
+    "SICILY": [
+      37.6,
+      14.0
+    ],
+    "PELOPONNESE": [
+      37.5,
+      22.3
+    ],
+    "SINAI": [
+      28.54,
+      33.98
+    ],
+    "CYPRUS": [
+      35.1,
+      33.4
+    ],
+    "CTESIPHON": [
+      33.094,
+      44.581
+    ],
+    "NINEVEH": [
+      36.36,
+      43.15
+    ],
+    "YARMOUK": [
+      32.81,
+      35.99
+    ],
+    "EASTERN_MEDITERRANEAN": [
+      35.0,
+      29.0
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "ERM_S_01_01": "CONSTANTINOPLE",
+    "ERM_S_01_02": "CONSTANTINOPLE",
+    "ERM_S_01_03": "ALEXANDRIA",
+    "ERM_S_01_04": "ANTIOCH",
+    "ERM_S_01_05": "CONSTANTINOPLE",
+    "ERM_S_01_06": "CONSTANTINOPLE",
+    "ERM_S_01_07": "CONSTANTINOPLE",
+    "ERM_S_01_08": "EASTERN_MEDITERRANEAN",
+    "ERM_A_01_01": "CONSTANTINOPLE",
+    "ERM_A_01_02": "CONSTANTINOPLE",
+    "ERM_A_01_03": "CONSTANTINOPLE",
+    "ERM_A_01_04": "EASTERN_MEDITERRANEAN",
+    "ERM_S_02_01": "CONSTANTINOPLE",
+    "ERM_S_02_02": "THEODOSIAN_WALLS",
+    "ERM_S_02_03": "CONSTANTINOPLE",
+    "ERM_S_02_04": "HIPPODROME",
+    "ERM_S_02_05": "CONSTANTINOPLE",
+    "ERM_S_02_06": "CONSTANTINOPLE",
+    "ERM_S_02_07": "CONSTANTINOPLE",
+    "ERM_S_02_08": "CONSTANTINOPLE",
+    "ERM_A_02_01": "THEODOSIAN_WALLS",
+    "ERM_A_02_02": "THEODOSIAN_WALLS",
+    "ERM_A_02_03": "HIPPODROME",
+    "ERM_A_02_04": "THEODOSIAN_WALLS",
+    "ERM_S_03_01": "CONSTANTINOPLE",
+    "ERM_S_03_02": "CONSTANTINOPLE",
+    "ERM_S_03_03": "CONSTANTINOPLE",
+    "ERM_S_03_04": "CONSTANTINOPLE",
+    "ERM_S_03_05": "ANTIOCH",
+    "ERM_S_03_06": "CONSTANTINOPLE",
+    "ERM_S_03_07": "EASTERN_MEDITERRANEAN",
+    "ERM_S_03_08": "CONSTANTINOPLE",
+    "ERM_A_03_01": "CONSTANTINOPLE",
+    "ERM_A_03_02": "EASTERN_MEDITERRANEAN",
+    "ERM_A_03_03": "CONSTANTINOPLE",
+    "ERM_A_03_04": "ANTIOCH",
+    "ERM_S_04_01": "DANUBE",
+    "ERM_S_04_02": "SIRMIUM",
+    "ERM_S_04_03": "DANUBE",
+    "ERM_S_04_04": "CONSTANTINOPLE",
+    "ERM_S_04_05": "CONSTANTINOPLE",
+    "ERM_S_04_06": "THESSALONICA",
+    "ERM_S_04_07": "DANUBE",
+    "ERM_S_04_08": "CONSTANTINOPLE",
+    "ERM_A_04_01": "CONSTANTINOPLE",
+    "ERM_A_04_02": "DANUBE",
+    "ERM_A_04_03": "SIRMIUM",
+    "ERM_A_04_04": "DANUBE",
+    "ERM_S_05_01": "CONSTANTINOPLE",
+    "ERM_S_05_02": "CONSTANTINOPLE",
+    "ERM_S_05_03": "CONSTANTINOPLE",
+    "ERM_S_05_04": "CONSTANTINOPLE",
+    "ERM_S_05_05": "DARA",
+    "ERM_S_05_06": "DARA",
+    "ERM_S_05_07": "THEODOSIAN_WALLS",
+    "ERM_S_05_08": "EASTERN_MEDITERRANEAN",
+    "ERM_A_05_01": "CONSTANTINOPLE",
+    "ERM_A_05_02": "CONSTANTINOPLE",
+    "ERM_A_05_03": "DARA",
+    "ERM_A_05_04": "CONSTANTINOPLE",
+    "ERM_S_06_01": "CONSTANTINOPLE",
+    "ERM_S_06_02": "CONSTANTINOPLE",
+    "ERM_S_06_03": "CONSTANTINOPLE",
+    "ERM_S_06_04": "CHALCEDON",
+    "ERM_S_06_05": "CAESAREA",
+    "ERM_S_06_06": "CONSTANTINOPLE",
+    "ERM_S_06_07": "DARA",
+    "ERM_S_06_08": "CONSTANTINOPLE",
+    "ERM_A_06_01": "CONSTANTINOPLE",
+    "ERM_A_06_02": "CONSTANTINOPLE",
+    "ERM_A_06_03": "CONSTANTINOPLE",
+    "ERM_A_06_04": "HIPPODROME",
+    "ERM_S_07_01": "HIPPODROME",
+    "ERM_S_07_02": "HIPPODROME",
+    "ERM_S_07_03": "HIPPODROME",
+    "ERM_S_07_04": "HIPPODROME",
+    "ERM_S_07_05": "HAGIA_SOPHIA",
+    "ERM_S_07_06": "HAGIA_SOPHIA",
+    "ERM_S_07_07": "HAGIA_SOPHIA",
+    "ERM_S_07_08": "CONSTANTINOPLE",
+    "ERM_A_07_01": "HIPPODROME",
+    "ERM_A_07_02": "HAGIA_SOPHIA",
+    "ERM_A_07_03": "HAGIA_SOPHIA",
+    "ERM_A_07_04": "HIPPODROME",
+    "ERM_S_08_01": "CONSTANTINOPLE",
+    "ERM_S_08_02": "CONSTANTINOPLE",
+    "ERM_S_08_03": "CONSTANTINOPLE",
+    "ERM_S_08_04": "CONSTANTINOPLE",
+    "ERM_S_08_05": "CONSTANTINOPLE",
+    "ERM_S_08_06": "ANTIOCH",
+    "ERM_S_08_07": "EASTERN_MEDITERRANEAN",
+    "ERM_S_08_08": "CONSTANTINOPLE",
+    "ERM_A_08_01": "CONSTANTINOPLE",
+    "ERM_A_08_02": "CONSTANTINOPLE",
+    "ERM_A_08_03": "ALEXANDRIA",
+    "ERM_A_08_04": "CONSTANTINOPLE",
+    "ERM_S_09_01": "CARTHAGE",
+    "ERM_S_09_02": "CARTHAGE",
+    "ERM_S_09_03": "CARTHAGE",
+    "ERM_S_09_04": "ROME",
+    "ERM_S_09_05": "ROME",
+    "ERM_S_09_06": "RAVENNA",
+    "ERM_S_09_07": "RAVENNA",
+    "ERM_S_09_08": "EASTERN_MEDITERRANEAN",
+    "ERM_A_09_01": "CARTHAGE",
+    "ERM_A_09_02": "CARTHAGE",
+    "ERM_A_09_03": "ROME",
+    "ERM_A_09_04": "RAVENNA",
+    "ERM_S_10_01": "ALEXANDRIA",
+    "ERM_S_10_02": "CONSTANTINOPLE",
+    "ERM_S_10_03": "EASTERN_MEDITERRANEAN",
+    "ERM_S_10_04": "CONSTANTINOPLE",
+    "ERM_S_10_05": "ANTIOCH",
+    "ERM_S_10_06": "EASTERN_MEDITERRANEAN",
+    "ERM_S_10_07": "PELOPONNESE",
+    "ERM_S_10_08": "EASTERN_MEDITERRANEAN",
+    "ERM_A_10_01": "EASTERN_MEDITERRANEAN",
+    "ERM_A_10_02": "CONSTANTINOPLE",
+    "ERM_A_10_03": "CONSTANTINOPLE",
+    "ERM_A_10_04": "EASTERN_MEDITERRANEAN",
+    "ERM_S_11_01": "CONSTANTINOPLE",
+    "ERM_S_11_02": "DANUBE",
+    "ERM_S_11_03": "CTESIPHON",
+    "ERM_S_11_04": "JERUSALEM",
+    "ERM_S_11_05": "ALEXANDRIA",
+    "ERM_S_11_06": "ARMENIA",
+    "ERM_S_11_07": "NINEVEH",
+    "ERM_S_11_08": "EASTERN_MEDITERRANEAN",
+    "ERM_A_11_01": "CONSTANTINOPLE",
+    "ERM_A_11_02": "CONSTANTINOPLE",
+    "ERM_A_11_03": "JERUSALEM",
+    "ERM_A_11_04": "YARMOUK"
+  },
+  "chapters": {
+    "ERM_CHAPTER_01": {
+      "title": "Восточная империя после 395 года",
+      "center": [
+        41.008,
+        28.978
+      ],
+      "zoom": 6
+    },
+    "ERM_CHAPTER_02": {
+      "title": "Феодосий II и столица за стенами",
+      "center": [
+        41.018,
+        28.925
+      ],
+      "zoom": 6
+    },
+    "ERM_CHAPTER_03": {
+      "title": "Двор, чиновники и Феодосиев кодекс",
+      "center": [
+        41.008,
+        28.978
+      ],
+      "zoom": 6
+    },
+    "ERM_CHAPTER_04": {
+      "title": "Балканы, гунны и дипломатия",
+      "center": [
+        45.2,
+        22.5
+      ],
+      "zoom": 6
+    },
+    "ERM_CHAPTER_05": {
+      "title": "Анастасий и финансовое восстановление",
+      "center": [
+        41.008,
+        28.978
+      ],
+      "zoom": 6
+    },
+    "ERM_CHAPTER_06": {
+      "title": "Юстин, Юстиниан и новая императорская программа",
+      "center": [
+        41.008,
+        28.978
+      ],
+      "zoom": 6
+    },
+    "ERM_CHAPTER_07": {
+      "title": "Восстание «Ника» и строительство Святой Софии",
+      "center": [
+        41.006,
+        28.975
+      ],
+      "zoom": 6
+    },
+    "ERM_CHAPTER_08": {
+      "title": "Corpus Juris Civilis и власть закона",
+      "center": [
+        41.008,
+        28.978
+      ],
+      "zoom": 6
+    },
+    "ERM_CHAPTER_09": {
+      "title": "Африка, Италия и войны Юстиниана",
+      "center": [
+        36.852,
+        10.323
+      ],
+      "zoom": 6
+    },
+    "ERM_CHAPTER_10": {
+      "title": "Чума, налоги и пределы мобилизации",
+      "center": [
+        31.2,
+        29.918
+      ],
+      "zoom": 6
+    },
+    "ERM_CHAPTER_11": {
+      "title": "Маврикий, Фока и Ираклий: война до 641 года",
+      "center": [
+        41.008,
+        28.978
+      ],
+      "zoom": 6
+    }
+  },
+  "missionCenter": [
+    38.5,
+    28.0
+  ],
+  "missionZoom": 4
+}

@@ -1,0 +1,807 @@
+{
+  "campaignId": "EASTERN_ROMAN",
+  "campaigns": {
+    "EASTERN_ROMAN": {
+      "id": "EASTERN_ROMAN",
+      "title": "Восточная Римская империя",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "ERM_POOL_01",
+      "campaign": "EASTERN_ROMAN",
+      "title": "Восточная империя после 395 года",
+      "unlockMission": "ERM_01_02",
+      "cardIds": [
+        "ERM_A_01_01",
+        "ERM_A_01_02",
+        "ERM_A_01_03",
+        "ERM_A_01_04"
+      ]
+    },
+    {
+      "id": "ERM_POOL_02",
+      "campaign": "EASTERN_ROMAN",
+      "title": "Феодосий II и столица за стенами",
+      "unlockMission": "ERM_02_02",
+      "cardIds": [
+        "ERM_A_02_01",
+        "ERM_A_02_02",
+        "ERM_A_02_03",
+        "ERM_A_02_04"
+      ]
+    },
+    {
+      "id": "ERM_POOL_03",
+      "campaign": "EASTERN_ROMAN",
+      "title": "Двор, чиновники и Феодосиев кодекс",
+      "unlockMission": "ERM_03_02",
+      "cardIds": [
+        "ERM_A_03_01",
+        "ERM_A_03_02",
+        "ERM_A_03_03",
+        "ERM_A_03_04"
+      ]
+    },
+    {
+      "id": "ERM_POOL_04",
+      "campaign": "EASTERN_ROMAN",
+      "title": "Балканы, гунны и дипломатия",
+      "unlockMission": "ERM_04_02",
+      "cardIds": [
+        "ERM_A_04_01",
+        "ERM_A_04_02",
+        "ERM_A_04_03",
+        "ERM_A_04_04"
+      ]
+    },
+    {
+      "id": "ERM_POOL_05",
+      "campaign": "EASTERN_ROMAN",
+      "title": "Анастасий и финансовое восстановление",
+      "unlockMission": "ERM_05_02",
+      "cardIds": [
+        "ERM_A_05_01",
+        "ERM_A_05_02",
+        "ERM_A_05_03",
+        "ERM_A_05_04"
+      ]
+    },
+    {
+      "id": "ERM_POOL_06",
+      "campaign": "EASTERN_ROMAN",
+      "title": "Юстин, Юстиниан и новая императорская программа",
+      "unlockMission": "ERM_06_02",
+      "cardIds": [
+        "ERM_A_06_01",
+        "ERM_A_06_02",
+        "ERM_A_06_03",
+        "ERM_A_06_04"
+      ]
+    },
+    {
+      "id": "ERM_POOL_07",
+      "campaign": "EASTERN_ROMAN",
+      "title": "Восстание «Ника» и строительство Святой Софии",
+      "unlockMission": "ERM_07_02",
+      "cardIds": [
+        "ERM_A_07_01",
+        "ERM_A_07_02",
+        "ERM_A_07_03",
+        "ERM_A_07_04"
+      ]
+    },
+    {
+      "id": "ERM_POOL_08",
+      "campaign": "EASTERN_ROMAN",
+      "title": "Corpus Juris Civilis и власть закона",
+      "unlockMission": "ERM_08_02",
+      "cardIds": [
+        "ERM_A_08_01",
+        "ERM_A_08_02",
+        "ERM_A_08_03",
+        "ERM_A_08_04"
+      ]
+    },
+    {
+      "id": "ERM_POOL_09",
+      "campaign": "EASTERN_ROMAN",
+      "title": "Африка, Италия и войны Юстиниана",
+      "unlockMission": "ERM_09_02",
+      "cardIds": [
+        "ERM_A_09_01",
+        "ERM_A_09_02",
+        "ERM_A_09_03",
+        "ERM_A_09_04"
+      ]
+    },
+    {
+      "id": "ERM_POOL_10",
+      "campaign": "EASTERN_ROMAN",
+      "title": "Чума, налоги и пределы мобилизации",
+      "unlockMission": "ERM_10_02",
+      "cardIds": [
+        "ERM_A_10_01",
+        "ERM_A_10_02",
+        "ERM_A_10_03",
+        "ERM_A_10_04"
+      ]
+    },
+    {
+      "id": "ERM_POOL_11",
+      "campaign": "EASTERN_ROMAN",
+      "title": "Маврикий, Фока и Ираклий: война до 641 года",
+      "unlockMission": "ERM_11_02",
+      "cardIds": [
+        "ERM_A_11_01",
+        "ERM_A_11_02",
+        "ERM_A_11_03",
+        "ERM_A_11_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "ERM_S_01_01": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 1
+    },
+    "ERM_S_01_02": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 1
+    },
+    "ERM_S_01_03": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 1
+    },
+    "ERM_S_01_04": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 1
+    },
+    "ERM_S_01_05": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 1
+    },
+    "ERM_S_01_06": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 1
+    },
+    "ERM_S_01_07": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 1
+    },
+    "ERM_S_01_08": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 1
+    },
+    "ERM_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_01",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_01",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_01",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_01",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_S_02_01": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 2
+    },
+    "ERM_S_02_02": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 2
+    },
+    "ERM_S_02_03": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 2
+    },
+    "ERM_S_02_04": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 2
+    },
+    "ERM_S_02_05": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 2
+    },
+    "ERM_S_02_06": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 2
+    },
+    "ERM_S_02_07": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 2
+    },
+    "ERM_S_02_08": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 2
+    },
+    "ERM_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_02",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_02",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_02",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_02",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_S_03_01": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 3
+    },
+    "ERM_S_03_02": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 3
+    },
+    "ERM_S_03_03": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 3
+    },
+    "ERM_S_03_04": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 3
+    },
+    "ERM_S_03_05": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 3
+    },
+    "ERM_S_03_06": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 3
+    },
+    "ERM_S_03_07": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 3
+    },
+    "ERM_S_03_08": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 3
+    },
+    "ERM_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_03",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_03",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_03",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_03",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_S_04_01": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 4
+    },
+    "ERM_S_04_02": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 4
+    },
+    "ERM_S_04_03": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 4
+    },
+    "ERM_S_04_04": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 4
+    },
+    "ERM_S_04_05": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 4
+    },
+    "ERM_S_04_06": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 4
+    },
+    "ERM_S_04_07": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 4
+    },
+    "ERM_S_04_08": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 4
+    },
+    "ERM_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_04",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_04",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_04",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_04",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_S_05_01": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 5
+    },
+    "ERM_S_05_02": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 5
+    },
+    "ERM_S_05_03": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 5
+    },
+    "ERM_S_05_04": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 5
+    },
+    "ERM_S_05_05": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 5
+    },
+    "ERM_S_05_06": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 5
+    },
+    "ERM_S_05_07": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 5
+    },
+    "ERM_S_05_08": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 5
+    },
+    "ERM_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_05",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_05",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_05",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_05",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_S_06_01": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 6
+    },
+    "ERM_S_06_02": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 6
+    },
+    "ERM_S_06_03": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 6
+    },
+    "ERM_S_06_04": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 6
+    },
+    "ERM_S_06_05": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 6
+    },
+    "ERM_S_06_06": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 6
+    },
+    "ERM_S_06_07": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 6
+    },
+    "ERM_S_06_08": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 6
+    },
+    "ERM_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_06",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_06",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_06",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_06",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_S_07_01": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 7
+    },
+    "ERM_S_07_02": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 7
+    },
+    "ERM_S_07_03": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 7
+    },
+    "ERM_S_07_04": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 7
+    },
+    "ERM_S_07_05": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 7
+    },
+    "ERM_S_07_06": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 7
+    },
+    "ERM_S_07_07": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 7
+    },
+    "ERM_S_07_08": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 7
+    },
+    "ERM_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_07",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_07",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_07",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_07",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_S_08_01": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 8
+    },
+    "ERM_S_08_02": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 8
+    },
+    "ERM_S_08_03": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 8
+    },
+    "ERM_S_08_04": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 8
+    },
+    "ERM_S_08_05": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 8
+    },
+    "ERM_S_08_06": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 8
+    },
+    "ERM_S_08_07": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 8
+    },
+    "ERM_S_08_08": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 8
+    },
+    "ERM_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_08",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_08",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_08",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_08",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_S_09_01": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 9
+    },
+    "ERM_S_09_02": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 9
+    },
+    "ERM_S_09_03": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 9
+    },
+    "ERM_S_09_04": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 9
+    },
+    "ERM_S_09_05": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 9
+    },
+    "ERM_S_09_06": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 9
+    },
+    "ERM_S_09_07": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 9
+    },
+    "ERM_S_09_08": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 9
+    },
+    "ERM_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_09",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_09",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_09",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_09",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_S_10_01": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 10
+    },
+    "ERM_S_10_02": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 10
+    },
+    "ERM_S_10_03": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 10
+    },
+    "ERM_S_10_04": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 10
+    },
+    "ERM_S_10_05": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 10
+    },
+    "ERM_S_10_06": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 10
+    },
+    "ERM_S_10_07": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 10
+    },
+    "ERM_S_10_08": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 10
+    },
+    "ERM_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_10",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_10",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_10",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_10",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_S_11_01": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 11
+    },
+    "ERM_S_11_02": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 11
+    },
+    "ERM_S_11_03": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 11
+    },
+    "ERM_S_11_04": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 11
+    },
+    "ERM_S_11_05": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 11
+    },
+    "ERM_S_11_06": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 11
+    },
+    "ERM_S_11_07": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 11
+    },
+    "ERM_S_11_08": {
+      "kind": "STORY",
+      "campaignId": "EASTERN_ROMAN",
+      "chapter": 11
+    },
+    "ERM_A_11_01": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_11",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_11_02": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_11",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_11_03": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_11",
+      "campaign": "EASTERN_ROMAN"
+    },
+    "ERM_A_11_04": {
+      "kind": "ARCHIVE",
+      "pool": "ERM_POOL_11",
+      "campaign": "EASTERN_ROMAN"
+    }
+  }
+}

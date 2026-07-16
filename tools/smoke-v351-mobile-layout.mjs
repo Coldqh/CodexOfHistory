@@ -9,7 +9,7 @@ const readJson=rel=>JSON.parse(readText(rel));
 const manifest=readJson('data/content-manifest.json');
 const css=readText('styles.css');
 
-assert.equal(manifest.version,'7.0.0');
+assert.equal(manifest.version,'7.1.0');
 for(const token of [
   '--accent:var(--gold)',
   '--accent-2:var(--wine-bright)',
@@ -61,4 +61,4 @@ const runtimeVars=new Set(['delay','hx','hy','r','row','tier','x','y']);
 const unexpected=[...refs].filter(x=>!defs.has(x)&&!runtimeVars.has(x));
 assert.deepEqual(unexpected,[],`undefined CSS variables: ${unexpected.join(', ')}`);
 
-console.log('✓ v7.0.0 mobile chapter strip, world tabs, vertical packs and locked pack state');
+console.log('✓ v7.1.0 mobile chapter strip, world tabs, vertical packs and locked pack state');

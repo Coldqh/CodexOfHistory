@@ -8,7 +8,7 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "7.0.0"
+VERSION = "7.1.0"
 
 GROUP_CONTEXT = {
     "ROME": {
@@ -120,6 +120,10 @@ GROUP_CONTEXT = {
     "INDIA_MAURYA": {
         "terms": ["маур", "maurya", "ашок", "ashoka", "магадх", "magadha", "будд", "buddha", "джайн", "jain", "паталипутр", "pataliputra", "санчи", "sanchi", "bodh gaya", "ганг", "ganga"],
         "base": [("ru", "Империя Маурьев"), ("en", "Maurya Empire"), ("en", "Ashoka")],
+    },
+    "EASTERN_ROMAN": {
+        "terms": ["Восточная Римская империя", "Byzantine Empire", "Константинополь", "Constantinople", "Феодосий II", "Theodosius II", "Юстиниан", "Justinian", "Святая София", "Hagia Sophia", "Велисарий", "Belisarius", "Ираклий", "Heraclius"],
+        "base": [("ru", "Восточная Римская империя"), ("en", "Eastern Roman Empire"), ("en", "Byzantine Empire Late Antiquity")],
     },
     "MIGRATION_KINGDOMS": {
         "terms": ["переселения народов", "migration period", "готы", "goths", "вандалы", "vandals", "гунны", "huns", "аттила", "attila", "одоакр", "odoacer", "теодорих", "theodoric", "англосаксы", "anglo-saxons"],
@@ -500,7 +504,7 @@ def group_for(path: Path, card: dict) -> str:
     p = path.as_posix()
     for token, group in [
         ("/rome/", "ROME"), ("/mesopotamia/", "MESOPOTAMIA"), ("/egypt/", "EGYPT"),
-        ("/indus/", "INDUS"), ("/zhou-warring/", "ZHOU_WARRING"), ("/vedic-india/", "INDIA_VEDIC"), ("/iron-world/", "IRON_WORLD"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"), ("/aegean/", "AEGEAN_BRONZE"), ("/international-bronze/", "BRONZE_INTERNATIONAL"), ("/bronze-collapse/", "BRONZE_COLLAPSE"), ("/bronze-world/", "BRONZE_WORLD"), ("/assyria-babylon/", "ASSYRIA_BABYLON"), ("/phoenicians/", "PHOENICIANS"), ("/israel-judah/", "ISRAEL_JUDAH"), ("/archaic-greece/", "GREECE_ARCHAIC"), ("/classical-greece/", "GREECE_CLASSICAL"), ("/alexander/", "ALEXANDER"), ("/classical-world/", "CLASSICAL_WORLD"), ("/hellenistic/", "HELLENISTIC"), ("/maurya/", "INDIA_MAURYA"), ("/han/", "HAN"), ("/steppe-silk/", "STEPPE_SILK"), ("/hellenistic-roman-world/", "HELLENISTIC_ROMAN_EXAM"), ("/late-roman/", "LATE_ROMAN"), ("/late-religions/", "LATE_RELIGIONS"), ("/migration-kingdoms/", "MIGRATION_KINGDOMS"),
+        ("/indus/", "INDUS"), ("/zhou-warring/", "ZHOU_WARRING"), ("/vedic-india/", "INDIA_VEDIC"), ("/iron-world/", "IRON_WORLD"), ("/china/", "CHINA"), ("/babylon/", "BABYLON"), ("/hittites/", "HITTITES"), ("/aegean/", "AEGEAN_BRONZE"), ("/international-bronze/", "BRONZE_INTERNATIONAL"), ("/bronze-collapse/", "BRONZE_COLLAPSE"), ("/bronze-world/", "BRONZE_WORLD"), ("/assyria-babylon/", "ASSYRIA_BABYLON"), ("/phoenicians/", "PHOENICIANS"), ("/israel-judah/", "ISRAEL_JUDAH"), ("/archaic-greece/", "GREECE_ARCHAIC"), ("/classical-greece/", "GREECE_CLASSICAL"), ("/alexander/", "ALEXANDER"), ("/classical-world/", "CLASSICAL_WORLD"), ("/hellenistic/", "HELLENISTIC"), ("/maurya/", "INDIA_MAURYA"), ("/han/", "HAN"), ("/steppe-silk/", "STEPPE_SILK"), ("/hellenistic-roman-world/", "HELLENISTIC_ROMAN_EXAM"), ("/late-roman/", "LATE_ROMAN"), ("/late-religions/", "LATE_RELIGIONS"), ("/migration-kingdoms/", "MIGRATION_KINGDOMS"), ("/eastern-roman/", "EASTERN_ROMAN"),
     ]:
         if token in p:
             return group

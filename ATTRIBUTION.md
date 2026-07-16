@@ -357,3 +357,8 @@
 ## v7.0 — Переселения и новые королевства
 
 Локальные SVG-обложки 132 карточек и обложка пака созданы для Codex of History. Источниковая рамка использует Ammianus Marcellinus, Encyclopaedia Britannica, Metropolitan Museum of Art, British Museum и UNESCO World Heritage Centre. Этнонимы, археологические культуры и политические союзы не приравниваются автоматически друг к другу.
+
+
+## v7.1 — Восточная Римская империя
+
+Локальные SVG-обложки 132 карточек и обложка пака созданы для Codex of History. Источниковая рамка использует Metropolitan Museum of Art, UNESCO World Heritage Centre, Theodosian Code, Procopius, Encyclopaedia Britannica и CDC Emerging Infectious Diseases. Жители государства представлены как римляне; термин «Византия» используется только как позднейшее исследовательское обозначение.

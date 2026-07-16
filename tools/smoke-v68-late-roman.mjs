@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 import fs from 'node:fs';import path from 'node:path';import assert from 'node:assert/strict';import {fileURLToPath} from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));const exists=p=>fs.existsSync(path.join(root,p));
-const manifest=read('data/content-manifest.json');assert.equal(manifest.version,'7.0.0');
+const manifest=read('data/content-manifest.json');assert.equal(manifest.version,'7.1.0');
 const required=['data/cards/late-roman/story.json','data/cards/late-roman/archive.json','data/campaigns/late-roman/campaign.json','data/campaigns/late-roman/pools.json','data/lessons/late-roman/campaign.json','data/quizzes/late-roman/campaign.json','data/stories/late-roman/personal.json','data/maps/late-roman.json','assets/packs/late-roman-pack.svg','js/features/v6-8-late-roman.js'];for(const p of required)assert.ok(exists(p),`missing ${p}`);
 const story=read(required[0]),archive=read(required[1]),campaign=read(required[2]),pools=read(required[3]),lessons=read(required[4]),quizzes=read(required[5]),stories=read(required[6]),map=read(required[7]);
 assert.equal(story.length,88);assert.equal(archive.length,44);assert.equal(campaign.chapters.length,11);assert.equal(campaign.nodes.length,66);assert.equal(Object.keys(lessons).length,66);assert.equal(Object.keys(quizzes).length,15);assert.equal(pools.pools.length,11);assert.equal(Object.keys(stories).length,11);
@@ -12,10 +12,10 @@ const allCards=manifest.datasets.cards.flatMap(read);const olderTitles=new Set(a
 const world=read('data/world/campaigns.json').find(c=>c.id==='LATE_ANTIQUITY');assert.equal(world.status,'PLAYABLE');assert.equal(world.releasedChapters,11);assert.equal(world.chapterCount,11);assert.equal(world.period,'235–395 годы');
 const era=read('data/world/eras.json').find(e=>e.id==='ERA_LATE_ANTIQUITY');assert.ok(era.campaignIds.includes('LATE_ANTIQUITY'));
 const timeline=read('data/world/timeline.json').filter(x=>x.campaignId==='LATE_ANTIQUITY');assert.ok(timeline.length>=8);
-const queries=read('data/image_queries.json');assert.equal(queries.version,'7.0.0');assert.equal(queries.count,3975);assert.equal(Object.keys(queries.cards).length,3975);assert.equal(queries.cards.LAR_S_01_01.group,'LATE_ROMAN');
-const images=read('data/image_manifest.json');assert.equal(images.version,'7.0.0');assert.equal(images.count,3975);assert.equal(images.staticHistoricalImageCount,42);assert.equal(images.projectCoverCount,3933);assert.equal(images.dynamicQueryCount,3933);
+const queries=read('data/image_queries.json');assert.equal(queries.version,'7.1.0');assert.equal(queries.count,4107);assert.equal(Object.keys(queries.cards).length,4107);assert.equal(queries.cards.LAR_S_01_01.group,'LATE_ROMAN');
+const images=read('data/image_manifest.json');assert.equal(images.version,'7.1.0');assert.equal(images.count,4107);assert.equal(images.staticHistoricalImageCount,42);assert.equal(images.projectCoverCount,4065);assert.equal(images.dynamicQueryCount,4065);
 const rel=read('data/core/relations.json');assert.ok(rel.some(r=>r.source==='ROM_S_12_04'&&r.target==='LAR_S_05_01'));assert.ok(rel.some(r=>r.source==='ROM_S_12_05'&&r.target==='LAR_S_06_03'));
-const runtime=fs.readFileSync(path.join(root,'js/features/v6-8-late-roman.js'),'utf8');for(const token of ["const V='7.0.0'",'LATE_ANTIQUITY','lateRomanPhase','THIRD_CENTURY','openLateRomanExamModule','assets/packs/late-roman-pack.svg'])assert.match(runtime,new RegExp(token.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')));
+const runtime=fs.readFileSync(path.join(root,'js/features/v6-8-late-roman.js'),'utf8');for(const token of ["const V='7.1.0'",'LATE_ANTIQUITY','lateRomanPhase','THIRD_CENTURY','openLateRomanExamModule','assets/packs/late-roman-pack.svg'])assert.match(runtime,new RegExp(token.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')));
 const sw=fs.readFileSync(path.join(root,'sw.js'),'utf8');assert.match(sw,/v6-8-late-roman\.js/);assert.match(sw,/late-roman-pack\.svg/);
 const allText=JSON.stringify({story,archive,campaign,lessons});assert.match(allText,/Александра Севера|Максимин/i);assert.match(allText,/Валериан|Шапур|Эдесс/i);assert.match(allText,/Пальмир|Зеноби|Постум/i);assert.match(allText,/Диоклетиан|тетрарх/i);assert.match(allText,/Константинополь|Мульвийск|солид/i);assert.match(allText,/Адрианопол|Феодосий|395/i);assert.ok(!allText.includes('476 год как мгновенный конец Рима'));
 console.log('✓ v6.8 Late Roman Empire static smoke: 11 chapters, 66 missions, 132 cards');

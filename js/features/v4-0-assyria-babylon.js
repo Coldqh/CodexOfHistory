@@ -1,6 +1,6 @@
-/* Codex v7.0.0 — Assyria and Neo-Babylonian Empire */
+/* Codex v7.1.0 — Assyria and Neo-Babylonian Empire */
 (()=>{
-  const V='7.0.0';
+  const V='7.1.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.ASSYRIA_BABYLON='ASSYRIA_BABYLON';
   state.assyriaPhase=state.assyriaPhase||'RECOVERY';

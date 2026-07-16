@@ -1,6 +1,6 @@
-/* Codex v7.1.0 — Classical Greece */
+/* Codex v7.2.0 — Classical Greece */
 (()=>{
-  const V='7.1.0';
+  const V='7.2.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.GREECE_CLASSICAL='GREECE_CLASSICAL';
   state.classicalGreecePhase=state.classicalGreecePhase||'AFTER_WARS';

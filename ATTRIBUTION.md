@@ -362,3 +362,7 @@
 ## v7.1 — Восточная Римская империя
 
 Локальные SVG-обложки 132 карточек и обложка пака созданы для Codex of History. Источниковая рамка использует Metropolitan Museum of Art, UNESCO World Heritage Centre, Theodosian Code, Procopius, Encyclopaedia Britannica и CDC Emerging Infectious Diseases. Жители государства представлены как римляне; термин «Византия» используется только как позднейшее исследовательское обозначение.
+
+## v7.2 — Сасанидский Иран
+
+Локальные SVG-обложки 132 карточек и обложка пака созданы для Codex of History. Учебная основа: Metropolitan Museum of Art, Encyclopaedia Iranica, Encyclopaedia Britannica, надпись Шапура I и исследования по сасанидским монетам, печатям, религиозным общинам и пограничным системам.

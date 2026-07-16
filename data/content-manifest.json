@@ -1,5 +1,5 @@
 {
-  "version": "7.1.0",
+  "version": "7.2.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -72,7 +72,9 @@
       "data/cards/migration-kingdoms/story.json",
       "data/cards/migration-kingdoms/archive.json",
       "data/cards/eastern-roman/story.json",
-      "data/cards/eastern-roman/archive.json"
+      "data/cards/eastern-roman/archive.json",
+      "data/cards/sasanian/story.json",
+      "data/cards/sasanian/archive.json"
     ],
     "relations": "data/core/relations.json",
     "pools": [
@@ -109,7 +111,8 @@
       "data/campaigns/late-roman/pools.json",
       "data/campaigns/late-religions/pools.json",
       "data/campaigns/migration-kingdoms/pools.json",
-      "data/campaigns/eastern-roman/pools.json"
+      "data/campaigns/eastern-roman/pools.json",
+      "data/campaigns/sasanian/pools.json"
     ],
     "quizzes": [
       "data/quizzes/rome/chapter_01.json",
@@ -158,7 +161,8 @@
       "data/quizzes/late-roman/campaign.json",
       "data/quizzes/late-religions/campaign.json",
       "data/quizzes/migration-kingdoms/campaign.json",
-      "data/quizzes/eastern-roman/campaign.json"
+      "data/quizzes/eastern-roman/campaign.json",
+      "data/quizzes/sasanian/campaign.json"
     ],
     "stories": [
       "data/stories/rome/personal.json",
@@ -194,7 +198,8 @@
       "data/stories/late-roman/personal.json",
       "data/stories/late-religions/personal.json",
       "data/stories/migration-kingdoms/personal.json",
-      "data/stories/eastern-roman/personal.json"
+      "data/stories/eastern-roman/personal.json",
+      "data/stories/sasanian/personal.json"
     ],
     "mastery": "data/core/mastery.json",
     "packs": "data/core/packs.json",
@@ -234,7 +239,8 @@
       "LATE_ANTIQUITY": "data/maps/late-roman.json",
       "EARLY_CHRISTIANITY": "data/maps/late-religions.json",
       "MIGRATION_KINGDOMS": "data/maps/migration-kingdoms.json",
-      "EASTERN_ROMAN": "data/maps/eastern-roman.json"
+      "EASTERN_ROMAN": "data/maps/eastern-roman.json",
+      "SASANIAN": "data/maps/sasanian.json"
     },
     "daily": "data/core/daily-learning.json",
     "lessons": [
@@ -284,7 +290,8 @@
       "data/lessons/late-roman/campaign.json",
       "data/lessons/late-religions/campaign.json",
       "data/lessons/migration-kingdoms/campaign.json",
-      "data/lessons/eastern-roman/campaign.json"
+      "data/lessons/eastern-roman/campaign.json",
+      "data/lessons/sasanian/campaign.json"
     ],
     "eras": "data/world/eras.json",
     "campaignCatalog": "data/world/campaigns.json",
@@ -323,7 +330,8 @@
       "data/campaigns/late-roman/campaign.json",
       "data/campaigns/late-religions/campaign.json",
       "data/campaigns/migration-kingdoms/campaign.json",
-      "data/campaigns/eastern-roman/campaign.json"
+      "data/campaigns/eastern-roman/campaign.json",
+      "data/campaigns/sasanian/campaign.json"
     ],
     "imageQueries": "data/image_queries.json"
   },
@@ -384,6 +392,7 @@
     "js/features/v6-9-late-religions.js",
     "js/features/v7-0-migration-kingdoms.js",
     "js/features/v7-1-eastern-roman.js",
+    "js/features/v7-2-sasanian.js",
     "js/features/v6-9-1-stability.js",
     "js/features/v3-1-1-hotfix.js",
     "js/features/v3-1-3-visual-semantics.js",

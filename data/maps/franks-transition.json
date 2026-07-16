@@ -1,0 +1,330 @@
+{
+  "points": {
+    "PARIS": [
+      48.8566,
+      2.3522
+    ],
+    "SOISSONS": [
+      49.3817,
+      3.3236
+    ],
+    "REIMS": [
+      49.2583,
+      4.0317
+    ],
+    "METZ": [
+      49.1193,
+      6.1757
+    ],
+    "TOURS": [
+      47.3941,
+      0.6848
+    ],
+    "POITIERS": [
+      46.5802,
+      0.3404
+    ],
+    "ST_DENIS": [
+      48.9362,
+      2.3574
+    ],
+    "TERTRY": [
+      49.862,
+      3.07
+    ],
+    "COLOGNE": [
+      50.9375,
+      6.9603
+    ],
+    "AACHEN": [
+      50.7753,
+      6.0839
+    ],
+    "PAVIA": [
+      45.1847,
+      9.1582
+    ],
+    "ROME": [
+      41.9028,
+      12.4964
+    ],
+    "SAXONY": [
+      52.2,
+      9.2
+    ],
+    "BAVARIA": [
+      48.7904,
+      11.4979
+    ],
+    "AQUITAINE": [
+      44.8378,
+      -0.5792
+    ],
+    "FULDA": [
+      50.5558,
+      9.6808
+    ],
+    "LORSCH": [
+      49.65,
+      8.5667
+    ],
+    "CORBIE": [
+      49.9067,
+      2.507
+    ],
+    "FONTENOY": [
+      47.65,
+      3.3167
+    ],
+    "VERDUN": [
+      49.1599,
+      5.3867
+    ],
+    "RAVENNA": [
+      44.4184,
+      12.2035
+    ],
+    "MONTECASSINO": [
+      41.49,
+      13.813
+    ],
+    "LUXEUIL": [
+      47.817,
+      6.38
+    ],
+    "ORLEANS": [
+      47.903,
+      1.9093
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "FRC_S_01_01": "PARIS",
+    "FRC_S_01_02": "SOISSONS",
+    "FRC_S_01_03": "METZ",
+    "FRC_S_01_04": "ORLEANS",
+    "FRC_S_01_05": "PARIS",
+    "FRC_S_01_06": "REIMS",
+    "FRC_S_01_07": "SOISSONS",
+    "FRC_S_01_08": "PARIS",
+    "FRC_A_01_01": "TOURS",
+    "FRC_A_01_02": "PARIS",
+    "FRC_A_01_03": "SOISSONS",
+    "FRC_A_01_04": "METZ",
+    "FRC_S_02_01": "METZ",
+    "FRC_S_02_02": "SOISSONS",
+    "FRC_S_02_03": "METZ",
+    "FRC_S_02_04": "SOISSONS",
+    "FRC_S_02_05": "PARIS",
+    "FRC_S_02_06": "PARIS",
+    "FRC_S_02_07": "TOURS",
+    "FRC_S_02_08": "PARIS",
+    "FRC_A_02_01": "TOURS",
+    "FRC_A_02_02": "PARIS",
+    "FRC_A_02_03": "PARIS",
+    "FRC_A_02_04": "METZ",
+    "FRC_S_03_01": "METZ",
+    "FRC_S_03_02": "PARIS",
+    "FRC_S_03_03": "ST_DENIS",
+    "FRC_S_03_04": "LUXEUIL",
+    "FRC_S_03_05": "METZ",
+    "FRC_S_03_06": "METZ",
+    "FRC_S_03_07": "PARIS",
+    "FRC_S_03_08": "ST_DENIS",
+    "FRC_A_03_01": "ST_DENIS",
+    "FRC_A_03_02": "LUXEUIL",
+    "FRC_A_03_03": "ST_DENIS",
+    "FRC_A_03_04": "TERTRY",
+    "FRC_S_04_01": "METZ",
+    "FRC_S_04_02": "TERTRY",
+    "FRC_S_04_03": "COLOGNE",
+    "FRC_S_04_04": "COLOGNE",
+    "FRC_S_04_05": "METZ",
+    "FRC_S_04_06": "COLOGNE",
+    "FRC_S_04_07": "PARIS",
+    "FRC_S_04_08": "METZ",
+    "FRC_A_04_01": "TERTRY",
+    "FRC_A_04_02": "METZ",
+    "FRC_A_04_03": "COLOGNE",
+    "FRC_A_04_04": "METZ",
+    "FRC_S_05_01": "SOISSONS",
+    "FRC_S_05_02": "SOISSONS",
+    "FRC_S_05_03": "COLOGNE",
+    "FRC_S_05_04": "AQUITAINE",
+    "FRC_S_05_05": "POITIERS",
+    "FRC_S_05_06": "TOURS",
+    "FRC_S_05_07": "PARIS",
+    "FRC_S_05_08": "PARIS",
+    "FRC_A_05_01": "POITIERS",
+    "FRC_A_05_02": "SOISSONS",
+    "FRC_A_05_03": "PARIS",
+    "FRC_A_05_04": "AQUITAINE",
+    "FRC_S_06_01": "ST_DENIS",
+    "FRC_S_06_02": "PARIS",
+    "FRC_S_06_03": "ST_DENIS",
+    "FRC_S_06_04": "ST_DENIS",
+    "FRC_S_06_05": "ST_DENIS",
+    "FRC_S_06_06": "ROME",
+    "FRC_S_06_07": "PAVIA",
+    "FRC_S_06_08": "ST_DENIS",
+    "FRC_A_06_01": "ST_DENIS",
+    "FRC_A_06_02": "ROME",
+    "FRC_A_06_03": "ST_DENIS",
+    "FRC_A_06_04": "PAVIA",
+    "FRC_S_07_01": "AACHEN",
+    "FRC_S_07_02": "PAVIA",
+    "FRC_S_07_03": "SAXONY",
+    "FRC_S_07_04": "SAXONY",
+    "FRC_S_07_05": "BAVARIA",
+    "FRC_S_07_06": "BAVARIA",
+    "FRC_S_07_07": "AQUITAINE",
+    "FRC_S_07_08": "AACHEN",
+    "FRC_A_07_01": "AACHEN",
+    "FRC_A_07_02": "SAXONY",
+    "FRC_A_07_03": "PAVIA",
+    "FRC_A_07_04": "AACHEN",
+    "FRC_S_08_01": "PARIS",
+    "FRC_S_08_02": "AACHEN",
+    "FRC_S_08_03": "AACHEN",
+    "FRC_S_08_04": "AACHEN",
+    "FRC_S_08_05": "AACHEN",
+    "FRC_S_08_06": "PARIS",
+    "FRC_S_08_07": "AACHEN",
+    "FRC_S_08_08": "AACHEN",
+    "FRC_A_08_01": "AACHEN",
+    "FRC_A_08_02": "AACHEN",
+    "FRC_A_08_03": "PARIS",
+    "FRC_A_08_04": "REIMS",
+    "FRC_S_09_01": "AACHEN",
+    "FRC_S_09_02": "AACHEN",
+    "FRC_S_09_03": "CORBIE",
+    "FRC_S_09_04": "FULDA",
+    "FRC_S_09_05": "LORSCH",
+    "FRC_S_09_06": "AACHEN",
+    "FRC_S_09_07": "AACHEN",
+    "FRC_S_09_08": "CORBIE",
+    "FRC_A_09_01": "AACHEN",
+    "FRC_A_09_02": "CORBIE",
+    "FRC_A_09_03": "LORSCH",
+    "FRC_A_09_04": "AACHEN",
+    "FRC_S_10_01": "ROME",
+    "FRC_S_10_02": "ROME",
+    "FRC_S_10_03": "AACHEN",
+    "FRC_S_10_04": "RAVENNA",
+    "FRC_S_10_05": "AACHEN",
+    "FRC_S_10_06": "AACHEN",
+    "FRC_S_10_07": "AACHEN",
+    "FRC_S_10_08": "ROME",
+    "FRC_A_10_01": "ROME",
+    "FRC_A_10_02": "AACHEN",
+    "FRC_A_10_03": "AACHEN",
+    "FRC_A_10_04": "ROME",
+    "FRC_S_11_01": "AACHEN",
+    "FRC_S_11_02": "AACHEN",
+    "FRC_S_11_03": "METZ",
+    "FRC_S_11_04": "METZ",
+    "FRC_S_11_05": "FONTENOY",
+    "FRC_S_11_06": "METZ",
+    "FRC_S_11_07": "VERDUN",
+    "FRC_S_11_08": "VERDUN",
+    "FRC_A_11_01": "AACHEN",
+    "FRC_A_11_02": "METZ",
+    "FRC_A_11_03": "METZ",
+    "FRC_A_11_04": "VERDUN"
+  },
+  "chapters": {
+    "FRC_CHAPTER_01": {
+      "title": "Меровингская Галлия после Хлодвига",
+      "center": [
+        48.8566,
+        2.3522
+      ],
+      "zoom": 5
+    },
+    "FRC_CHAPTER_02": {
+      "title": "Королевы, дворы и гражданские войны",
+      "center": [
+        48.8566,
+        2.3522
+      ],
+      "zoom": 5
+    },
+    "FRC_CHAPTER_03": {
+      "title": "Майордомы, епископы и монастыри",
+      "center": [
+        48.8566,
+        2.3522
+      ],
+      "zoom": 5
+    },
+    "FRC_CHAPTER_04": {
+      "title": "Пипин Геристальский и объединение майордомов",
+      "center": [
+        49.862,
+        3.07
+      ],
+      "zoom": 5
+    },
+    "FRC_CHAPTER_05": {
+      "title": "Карл Мартелл и военная консолидация",
+      "center": [
+        50.9375,
+        6.9603
+      ],
+      "zoom": 5
+    },
+    "FRC_CHAPTER_06": {
+      "title": "Пипин Короткий, папство и новая династия",
+      "center": [
+        48.9362,
+        2.3574
+      ],
+      "zoom": 5
+    },
+    "FRC_CHAPTER_07": {
+      "title": "Карл Великий и войны расширения",
+      "center": [
+        45.1847,
+        9.1582
+      ],
+      "zoom": 5
+    },
+    "FRC_CHAPTER_08": {
+      "title": "Графы, посланцы и капитулярии",
+      "center": [
+        50.7753,
+        6.0839
+      ],
+      "zoom": 5
+    },
+    "FRC_CHAPTER_09": {
+      "title": "Ахен, монастыри и письменная реформа",
+      "center": [
+        50.7753,
+        6.0839
+      ],
+      "zoom": 5
+    },
+    "FRC_CHAPTER_10": {
+      "title": "Коронация 800 года и западная империя",
+      "center": [
+        41.9028,
+        12.4964
+      ],
+      "zoom": 5
+    },
+    "FRC_CHAPTER_11": {
+      "title": "Людовик Благочестивый, гражданские войны и Верден",
+      "center": [
+        50.7753,
+        6.0839
+      ],
+      "zoom": 5
+    }
+  },
+  "missionCenter": [
+    48.5,
+    7.0
+  ],
+  "missionZoom": 4
+}

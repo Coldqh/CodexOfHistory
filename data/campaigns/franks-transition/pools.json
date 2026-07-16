@@ -1,0 +1,807 @@
+{
+  "campaignId": "FRANKS_TRANSITION",
+  "campaigns": {
+    "FRANKS_TRANSITION": {
+      "id": "FRANKS_TRANSITION",
+      "title": "Франки: от Меровингов к Каролингам",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "FRC_POOL_01",
+      "campaign": "FRANKS_TRANSITION",
+      "title": "Меровингская Галлия после Хлодвига",
+      "unlockMission": "FRC_01_02",
+      "cardIds": [
+        "FRC_A_01_01",
+        "FRC_A_01_02",
+        "FRC_A_01_03",
+        "FRC_A_01_04"
+      ]
+    },
+    {
+      "id": "FRC_POOL_02",
+      "campaign": "FRANKS_TRANSITION",
+      "title": "Королевы, дворы и гражданские войны",
+      "unlockMission": "FRC_02_02",
+      "cardIds": [
+        "FRC_A_02_01",
+        "FRC_A_02_02",
+        "FRC_A_02_03",
+        "FRC_A_02_04"
+      ]
+    },
+    {
+      "id": "FRC_POOL_03",
+      "campaign": "FRANKS_TRANSITION",
+      "title": "Майордомы, епископы и монастыри",
+      "unlockMission": "FRC_03_02",
+      "cardIds": [
+        "FRC_A_03_01",
+        "FRC_A_03_02",
+        "FRC_A_03_03",
+        "FRC_A_03_04"
+      ]
+    },
+    {
+      "id": "FRC_POOL_04",
+      "campaign": "FRANKS_TRANSITION",
+      "title": "Пипин Геристальский и объединение майордомов",
+      "unlockMission": "FRC_04_02",
+      "cardIds": [
+        "FRC_A_04_01",
+        "FRC_A_04_02",
+        "FRC_A_04_03",
+        "FRC_A_04_04"
+      ]
+    },
+    {
+      "id": "FRC_POOL_05",
+      "campaign": "FRANKS_TRANSITION",
+      "title": "Карл Мартелл и военная консолидация",
+      "unlockMission": "FRC_05_02",
+      "cardIds": [
+        "FRC_A_05_01",
+        "FRC_A_05_02",
+        "FRC_A_05_03",
+        "FRC_A_05_04"
+      ]
+    },
+    {
+      "id": "FRC_POOL_06",
+      "campaign": "FRANKS_TRANSITION",
+      "title": "Пипин Короткий, папство и новая династия",
+      "unlockMission": "FRC_06_02",
+      "cardIds": [
+        "FRC_A_06_01",
+        "FRC_A_06_02",
+        "FRC_A_06_03",
+        "FRC_A_06_04"
+      ]
+    },
+    {
+      "id": "FRC_POOL_07",
+      "campaign": "FRANKS_TRANSITION",
+      "title": "Карл Великий и войны расширения",
+      "unlockMission": "FRC_07_02",
+      "cardIds": [
+        "FRC_A_07_01",
+        "FRC_A_07_02",
+        "FRC_A_07_03",
+        "FRC_A_07_04"
+      ]
+    },
+    {
+      "id": "FRC_POOL_08",
+      "campaign": "FRANKS_TRANSITION",
+      "title": "Графы, посланцы и капитулярии",
+      "unlockMission": "FRC_08_02",
+      "cardIds": [
+        "FRC_A_08_01",
+        "FRC_A_08_02",
+        "FRC_A_08_03",
+        "FRC_A_08_04"
+      ]
+    },
+    {
+      "id": "FRC_POOL_09",
+      "campaign": "FRANKS_TRANSITION",
+      "title": "Ахен, монастыри и письменная реформа",
+      "unlockMission": "FRC_09_02",
+      "cardIds": [
+        "FRC_A_09_01",
+        "FRC_A_09_02",
+        "FRC_A_09_03",
+        "FRC_A_09_04"
+      ]
+    },
+    {
+      "id": "FRC_POOL_10",
+      "campaign": "FRANKS_TRANSITION",
+      "title": "Коронация 800 года и западная империя",
+      "unlockMission": "FRC_10_02",
+      "cardIds": [
+        "FRC_A_10_01",
+        "FRC_A_10_02",
+        "FRC_A_10_03",
+        "FRC_A_10_04"
+      ]
+    },
+    {
+      "id": "FRC_POOL_11",
+      "campaign": "FRANKS_TRANSITION",
+      "title": "Людовик Благочестивый, гражданские войны и Верден",
+      "unlockMission": "FRC_11_02",
+      "cardIds": [
+        "FRC_A_11_01",
+        "FRC_A_11_02",
+        "FRC_A_11_03",
+        "FRC_A_11_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "FRC_S_01_01": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 1
+    },
+    "FRC_S_01_02": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 1
+    },
+    "FRC_S_01_03": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 1
+    },
+    "FRC_S_01_04": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 1
+    },
+    "FRC_S_01_05": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 1
+    },
+    "FRC_S_01_06": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 1
+    },
+    "FRC_S_01_07": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 1
+    },
+    "FRC_S_01_08": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 1
+    },
+    "FRC_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_01",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_01",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_01",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_01",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_S_02_01": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 2
+    },
+    "FRC_S_02_02": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 2
+    },
+    "FRC_S_02_03": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 2
+    },
+    "FRC_S_02_04": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 2
+    },
+    "FRC_S_02_05": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 2
+    },
+    "FRC_S_02_06": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 2
+    },
+    "FRC_S_02_07": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 2
+    },
+    "FRC_S_02_08": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 2
+    },
+    "FRC_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_02",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_02",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_02",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_02",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_S_03_01": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 3
+    },
+    "FRC_S_03_02": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 3
+    },
+    "FRC_S_03_03": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 3
+    },
+    "FRC_S_03_04": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 3
+    },
+    "FRC_S_03_05": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 3
+    },
+    "FRC_S_03_06": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 3
+    },
+    "FRC_S_03_07": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 3
+    },
+    "FRC_S_03_08": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 3
+    },
+    "FRC_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_03",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_03",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_03",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_03",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_S_04_01": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 4
+    },
+    "FRC_S_04_02": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 4
+    },
+    "FRC_S_04_03": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 4
+    },
+    "FRC_S_04_04": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 4
+    },
+    "FRC_S_04_05": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 4
+    },
+    "FRC_S_04_06": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 4
+    },
+    "FRC_S_04_07": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 4
+    },
+    "FRC_S_04_08": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 4
+    },
+    "FRC_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_04",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_04",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_04",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_04",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_S_05_01": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 5
+    },
+    "FRC_S_05_02": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 5
+    },
+    "FRC_S_05_03": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 5
+    },
+    "FRC_S_05_04": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 5
+    },
+    "FRC_S_05_05": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 5
+    },
+    "FRC_S_05_06": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 5
+    },
+    "FRC_S_05_07": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 5
+    },
+    "FRC_S_05_08": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 5
+    },
+    "FRC_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_05",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_05",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_05",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_05",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_S_06_01": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 6
+    },
+    "FRC_S_06_02": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 6
+    },
+    "FRC_S_06_03": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 6
+    },
+    "FRC_S_06_04": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 6
+    },
+    "FRC_S_06_05": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 6
+    },
+    "FRC_S_06_06": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 6
+    },
+    "FRC_S_06_07": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 6
+    },
+    "FRC_S_06_08": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 6
+    },
+    "FRC_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_06",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_06",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_06",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_06",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_S_07_01": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 7
+    },
+    "FRC_S_07_02": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 7
+    },
+    "FRC_S_07_03": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 7
+    },
+    "FRC_S_07_04": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 7
+    },
+    "FRC_S_07_05": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 7
+    },
+    "FRC_S_07_06": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 7
+    },
+    "FRC_S_07_07": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 7
+    },
+    "FRC_S_07_08": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 7
+    },
+    "FRC_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_07",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_07",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_07",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_07",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_S_08_01": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 8
+    },
+    "FRC_S_08_02": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 8
+    },
+    "FRC_S_08_03": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 8
+    },
+    "FRC_S_08_04": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 8
+    },
+    "FRC_S_08_05": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 8
+    },
+    "FRC_S_08_06": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 8
+    },
+    "FRC_S_08_07": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 8
+    },
+    "FRC_S_08_08": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 8
+    },
+    "FRC_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_08",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_08",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_08",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_08",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_S_09_01": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 9
+    },
+    "FRC_S_09_02": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 9
+    },
+    "FRC_S_09_03": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 9
+    },
+    "FRC_S_09_04": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 9
+    },
+    "FRC_S_09_05": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 9
+    },
+    "FRC_S_09_06": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 9
+    },
+    "FRC_S_09_07": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 9
+    },
+    "FRC_S_09_08": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 9
+    },
+    "FRC_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_09",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_09",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_09",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_09",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_S_10_01": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 10
+    },
+    "FRC_S_10_02": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 10
+    },
+    "FRC_S_10_03": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 10
+    },
+    "FRC_S_10_04": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 10
+    },
+    "FRC_S_10_05": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 10
+    },
+    "FRC_S_10_06": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 10
+    },
+    "FRC_S_10_07": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 10
+    },
+    "FRC_S_10_08": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 10
+    },
+    "FRC_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_10",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_10",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_10",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_10",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_S_11_01": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 11
+    },
+    "FRC_S_11_02": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 11
+    },
+    "FRC_S_11_03": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 11
+    },
+    "FRC_S_11_04": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 11
+    },
+    "FRC_S_11_05": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 11
+    },
+    "FRC_S_11_06": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 11
+    },
+    "FRC_S_11_07": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 11
+    },
+    "FRC_S_11_08": {
+      "kind": "STORY",
+      "campaignId": "FRANKS_TRANSITION",
+      "chapter": 11
+    },
+    "FRC_A_11_01": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_11",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_11_02": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_11",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_11_03": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_11",
+      "campaign": "FRANKS_TRANSITION"
+    },
+    "FRC_A_11_04": {
+      "kind": "ARCHIVE",
+      "pool": "FRC_POOL_11",
+      "campaign": "FRANKS_TRANSITION"
+    }
+  }
+}

@@ -1,6 +1,6 @@
-/* Codex v8.1.0 — World around 700 comparative exam */
+/* Codex v8.2.0 — World around 700 comparative exam */
 (()=>{
-  const V='8.1.0';
+  const V='8.2.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.WORLD_AROUND_700='WORLD_AROUND_700';
   state.lateWorldRegion=state.lateWorldRegion||'EAST_ROMAN';
@@ -17,7 +17,7 @@
   };
 
   const oldNoun=activeCampaignNoun;
-  activeCampaignNoun=function(){return activeCampaignId()==='WORLD_AROUND_700'?'ПОЗДНЯЯ АНТИЧНОСТЬ · ИТОГ ЭПОХИ':oldNoun();};
+  activeCampaignNoun=function(){return activeCampaignId()==='WORLD_AROUND_700'?'ПЕРЕХОД К СРЕДНЕВЕКОВЬЮ · СРАВНИТЕЛЬНЫЙ МИР':oldNoun();};
   const oldPackTitle=activeCampaignPackTitle;
   activeCampaignPackTitle=function(){return activeCampaignId()==='WORLD_AROUND_700'?'Общий архив мира около 700 года':oldPackTitle();};
   const oldPackCover=activeCampaignPackCover;
@@ -45,13 +45,13 @@
     syncActiveCampaignRuntime();
     if(activeCampaignId()!=='WORLD_AROUND_700')return oldHome();
     const m=currentMission(),ch=chapterForMission(m.id),phase=phaseForChapter(ch.number),owned=state.unlocked.filter(id=>card(id)?.campaign==='WORLD_AROUND_700').length;
-    return shell(`<section class="home-hero home-hero-clean bronze-world-home reveal"><div class="hero-layout"><div class="hero-content"><div class="eyebrow">Итог поздней Античности · ${phase.title}</div><h2>${m.title}</h2><p>${ch.subtitle}</p><div class="hero-actions"><button class="btn" onclick="openMission('${m.id}')">${m.emoji} Продолжить</button><button class="btn secondary" onclick="go('campaign')">Все миссии</button></div></div><div class="collapse-seal"><span>∞</span><b>550–750</b><small>восемь регионов на одной шкале</small></div></div></section>${phaseStrip()}<section class="home-stats reveal"><div class="stat-box"><div class="stat-icon">VIII</div><b>${campaignProgress()}%</b><span>экзамен</span></div><div class="stat-box"><div class="stat-icon">▤</div><b>${completedMissionCount()}/${CAMPAIGN.nodes.length}</b><span>миссий</span></div><div class="stat-box"><div class="stat-icon">▦</div><b>${owned}/96</b><span>карточек</span></div><div class="stat-box stat-action" onclick="openPackHub()"><div class="stat-icon">✦</div><b>${dailyPackStatusShort()}</b><span>пак дня</span></div></section>${regionStrip()}<section class="daily-home-card reveal" onclick="openDaily()"><div class="daily-home-icon">◷</div><div><div class="eyebrow">Ежедневное обучение</div><h3>${dailyLearningCompleteToday()?'Сессия выполнена':`К повторению: ${dailyDueCards().length}`}</h3><p>${dailyLearningCompleteToday()?'Пак дня доступен.':'Повтори открытые знания за несколько минут.'}</p></div><button class="btn ${dailyLearningCompleteToday()?'secondary':''}">${dailyLearningCompleteToday()?'Открыть':'Начать'}</button></section>`);
+    return shell(`<section class="home-hero home-hero-clean bronze-world-home reveal"><div class="hero-layout"><div class="hero-content"><div class="eyebrow">Переход к Средневековью · ${phase.title}</div><h2>${m.title}</h2><p>${ch.subtitle}</p><div class="hero-actions"><button class="btn" onclick="openMission('${m.id}')">${m.emoji} Продолжить</button><button class="btn secondary" onclick="go('campaign')">Все миссии</button></div></div><div class="collapse-seal"><span>∞</span><b>550–750</b><small>восемь регионов на одной шкале</small></div></div></section>${phaseStrip()}<section class="home-stats reveal"><div class="stat-box"><div class="stat-icon">VIII</div><b>${campaignProgress()}%</b><span>экзамен</span></div><div class="stat-box"><div class="stat-icon">▤</div><b>${completedMissionCount()}/${CAMPAIGN.nodes.length}</b><span>миссий</span></div><div class="stat-box"><div class="stat-icon">▦</div><b>${owned}/96</b><span>карточек</span></div><div class="stat-box stat-action" onclick="openPackHub()"><div class="stat-icon">✦</div><b>${dailyPackStatusShort()}</b><span>пак дня</span></div></section>${regionStrip()}<section class="daily-home-card reveal" onclick="openDaily()"><div class="daily-home-icon">◷</div><div><div class="eyebrow">Ежедневное обучение</div><h3>${dailyLearningCompleteToday()?'Сессия выполнена':`К повторению: ${dailyDueCards().length}`}</h3><p>${dailyLearningCompleteToday()?'Пак дня доступен.':'Повтори открытые знания за несколько минут.'}</p></div><button class="btn ${dailyLearningCompleteToday()?'secondary':''}">${dailyLearningCompleteToday()?'Открыть':'Начать'}</button></section>`);
   };
 
   const oldCampaign=campaign;
   campaign=function(){
     let html=oldCampaign();if(activeCampaignId()!=='WORLD_AROUND_700')return html;
-    html=html.replace(/РИМСКАЯ КАМПАНИЯ|МЕСОПОТАМСКАЯ КАМПАНИЯ|ЕГИПЕТСКАЯ КАМПАНИЯ|КАМПАНИЯ БРОНЗОВОГО ВЕКА|ЖЕЛЕЗНЫЙ ВЕК[^<]*|КЛАССИЧЕСКИЙ МИР[^<]*|ЭЛЛИНИСТИЧЕСКИЙ И РИМСКИЙ МИР[^<]*|ПОЗДНЯЯ АНТИЧНОСТЬ[^<]*/g,'ИТОГ ПОЗДНЕЙ АНТИЧНОСТИ · МИР ОКОЛО 700 ГОДА');
+    html=html.replace(/РИМСКАЯ КАМПАНИЯ|МЕСОПОТАМСКАЯ КАМПАНИЯ|ЕГИПЕТСКАЯ КАМПАНИЯ|КАМПАНИЯ БРОНЗОВОГО ВЕКА|ЖЕЛЕЗНЫЙ ВЕК[^<]*|КЛАССИЧЕСКИЙ МИР[^<]*|ЭЛЛИНИСТИЧЕСКИЙ И РИМСКИЙ МИР[^<]*|ПОЗДНЯЯ АНТИЧНОСТЬ[^<]*/g,'ПЕРЕХОД К СРЕДНЕВЕКОВЬЮ · МИР ОКОЛО 700 ГОДА');
     return html.replace('</div></main><nav',`${phaseStrip()}${parallelTimeline()}</div></main><nav`);
   };
 
@@ -73,7 +73,7 @@
   lessonActivity=function(m,l){
     if(!String(m?.id||'').startsWith('WAE_')||!m.lateWorldExamModules)return oldActivity(m,l);
     const modules=m.lateWorldExamModules||[],passed=modules.filter(x=>isQuizPassed(x.id)).length,all=passed===modules.length;
-    const exam=`<div class="era-exam assyria-exam"><header><small>ИТОГ ПОЗДНЕЙ АНТИЧНОСТИ</small><h3>${all?'Экзамен завершён':`${passed}/${modules.length} модулей`}</h3><p>Карта, хронология, власть, хозяйство, религии и исторический метод проверяются отдельно.</p><div class="progress"><span style="width:${Math.round(passed/Math.max(1,modules.length)*100)}%"></span></div></header><div class="era-exam-grid">${modules.map((x,i)=>{const r=quizResult(x.id),done=isQuizPassed(x.id);return `<article class="${done?'done':''}"><span>${done?'✓':String(i+1).padStart(2,'0')}</span><div><b>${x.title}</b><small>${r?`лучший результат ${r.bestPercent}%`:'5 вопросов'}</small></div><button class="btn ${done?'secondary':''}" onclick="openLateWorldExamModule('${x.id}','${m.id}')">${done?'Повторить':'Начать'}</button></article>`;}).join('')}</div>${all?`<button class="btn" onclick="if(!missionCompleted('${m.id}'))completeMission('${m.id}')">Завершить эпоху</button>`:''}</div>`;
+    const exam=`<div class="era-exam assyria-exam"><header><small>СРАВНИТЕЛЬНЫЙ МИР ОКОЛО 700 ГОДА</small><h3>${all?'Экзамен завершён':`${passed}/${modules.length} модулей`}</h3><p>Карта, хронология, власть, хозяйство, религии и исторический метод проверяются отдельно.</p><div class="progress"><span style="width:${Math.round(passed/Math.max(1,modules.length)*100)}%"></span></div></header><div class="era-exam-grid">${modules.map((x,i)=>{const r=quizResult(x.id),done=isQuizPassed(x.id);return `<article class="${done?'done':''}"><span>${done?'✓':String(i+1).padStart(2,'0')}</span><div><b>${x.title}</b><small>${r?`лучший результат ${r.bestPercent}%`:'5 вопросов'}</small></div><button class="btn ${done?'secondary':''}" onclick="openLateWorldExamModule('${x.id}','${m.id}')">${done?'Повторить':'Начать'}</button></article>`;}).join('')}</div>${all?`<button class="btn" onclick="if(!missionCompleted('${m.id}'))completeMission('${m.id}')">Завершить кампанию</button>`:''}</div>`;
     return `<section class="lesson-stage learning-practice"><div class="lesson-stage-head"><div><small>ЭТАП 5</small><h2>Практика и закрепление</h2></div><span class="lesson-stage-number">05</span></div>${exam}<div class="learning-next"><button class="btn ghost" onclick="setLessonStage('${m.id}',3)">← Вернуться к теории</button></div></section>`;
   };
 

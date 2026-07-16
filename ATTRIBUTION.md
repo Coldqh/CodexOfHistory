@@ -397,3 +397,8 @@
 ## v8.1 — Аббасидская революция и Багдад
 
 Локальные SVG-обложки 132 карточек и кампанийного пака созданы для Codex of History. Источниковая рамка опирается на материалы Metropolitan Museum of Art, UNESCO Samarra Archaeological City, Encyclopaedia Iranica, Encyclopaedia Britannica и исследования аббасидской монеты, папирусов, рукописей и городской археологии.
+
+
+## v8.2 — Франки: от Меровингов к Каролингам
+
+Локальные SVG-обложки 132 карточек, кампанийного пака и обложка эпохи созданы для Codex of History. Источниковая рамка опирается на Encyclopaedia Britannica, UNESCO Aachen Cathedral, материалы Metropolitan Museum of Art и цифровые коллекции средневековых грамот, монет и рукописей.

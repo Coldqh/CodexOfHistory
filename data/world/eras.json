@@ -109,13 +109,13 @@
     "order": 6,
     "title": "Поздняя Античность",
     "subtitle": "Религии, реформы и распад старых империй",
-    "dateLabel": "II век до н. э. – VIII век н. э.",
+    "dateLabel": "II век до н. э. – VII век н. э.",
     "startYear": -200,
-    "endYear": 750,
+    "endYear": 650,
     "accent": "#75658d",
     "icon": "☧",
     "cover": "assets/eras/late.svg",
-    "description": "Поздняя Античность завершена глобальным сравнительным слоем: Рим и западные королевства, Сасаниды, Центральная Азия, Индия, Китай, Красное море и самостоятельные исторические траектории Америк.",
+    "description": "Поздняя Античность охватывает перестройку Рима, новые религиозные системы, Сасанидский Иран, постханьскую Азию, Красное море и самостоятельные траектории Америк до мира VII века.",
     "campaignIds": [
       "LATE_ANTIQUITY",
       "EARLY_CHRISTIANITY",
@@ -126,24 +126,41 @@
       "GUPTA",
       "CHINA_POST_HAN",
       "AKSUM_NUBIA_ARABIA",
-      "AMERICAS_LATE",
-      "WORLD_AROUND_700"
+      "AMERICAS_LATE"
     ]
   },
   {
     "id": "ERA_TRANSITION",
     "order": 7,
     "title": "Переход к Средневековью",
-    "subtitle": "Новый мир VII–VIII веков",
-    "dateLabel": "VI–X века н. э.",
-    "startYear": 550,
-    "endYear": 945,
+    "subtitle": "Новые державы и политические миры VI–IX веков",
+    "dateLabel": "VI–IX века н. э.",
+    "startYear": 500,
+    "endYear": 843,
     "accent": "#5f7f72",
     "icon": "☾",
     "cover": "assets/eras/transition.svg",
-    "description": "Возникновение исламского мира, Омейяды, Аббасидская революция, Багдад и региональные державы показывают переход от поздней Античности к раннему Средневековью.",
+    "description": "Сравнительный мир около 700 года, возникновение исламского мира и франкская линия от Меровингов до Вердена показывают несколько разных переходов к Средневековью.",
     "campaignIds": [
+      "WORLD_AROUND_700",
       "ISLAMIC_ORIGINS",
+      "FRANKS_TRANSITION"
+    ],
+    "status": "PLAYABLE"
+  },
+  {
+    "id": "ERA_EARLY_MEDIEVAL",
+    "order": 8,
+    "title": "Раннее Средневековье",
+    "subtitle": "Империи, королевства и торговые миры",
+    "dateLabel": "750–1050 годы н. э.",
+    "startYear": 750,
+    "endYear": 1050,
+    "accent": "#6f7f93",
+    "icon": "♜",
+    "cover": "assets/eras/early-medieval.svg",
+    "description": "Аббасидский Багдад открывает эпоху региональных империй, морских и сухопутных сетей, новых королевств, письменных культур и религиозных институтов VIII–XI веков.",
+    "campaignIds": [
       "ABBASID_BAGHDAD"
     ],
     "status": "PLAYABLE"

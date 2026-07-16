@@ -1,0 +1,2598 @@
+[
+  {
+    "id": "ABB_A_01_01",
+    "type": "TEXT",
+    "title": "Аббасидская прокламация из поздней хроники",
+    "original": "Аббасидская прокламация из поздней хроники",
+    "subtitle": "нарратив показывает язык легитимности через редакцию победителей",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII–IX века",
+    "rarity": "UNCOMMON",
+    "difficulty": 13,
+    "summary": "Аббасидская прокламация из поздней хроники — нарратив показывает язык легитимности через редакцию победителей.",
+    "importance": "Архивная карточка углубляет главу «Хорасан и кризис Омейядов» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–IX века.",
+      "Основной смысл: нарратив показывает язык легитимности через редакцию победителей.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Хорасан и кризис Омейядов",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мерв",
+      "lat": 37.66,
+      "lon": 62.18
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-01/abb_a_01_01.svg",
+      "caption": "Локальная учебная обложка: Аббасидская прокламация из поздней хроники",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/abbasid-caliphate",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_01_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: ʿAbbasid Caliphate",
+      "url": "https://www.iranicaonline.org/articles/abbasid-caliphate",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_01"
+  },
+  {
+    "id": "ABB_A_01_02",
+    "type": "NUMISMATICS",
+    "title": "Переходная монета Хорасана",
+    "original": "Переходная монета Хорасана",
+    "subtitle": "чеканка фиксирует смену формул и власти по годам",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "740-е годы",
+    "rarity": "RARE",
+    "difficulty": 13,
+    "summary": "Переходная монета Хорасана — чеканка фиксирует смену формул и власти по годам.",
+    "importance": "Архивная карточка углубляет главу «Хорасан и кризис Омейядов» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: 740-е годы.",
+      "Основной смысл: чеканка фиксирует смену формул и власти по годам.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Хорасан и кризис Омейядов",
+      "numismatics"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 6,
+      "culture": 9,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Нишапур",
+      "lat": 36.2133,
+      "lon": 58.7958
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-01/abb_a_01_02.svg",
+      "caption": "Локальная учебная обложка: Переходная монета Хорасана",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/abbasid-caliphate",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_01_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: ʿAbbasid Caliphate",
+      "url": "https://www.iranicaonline.org/articles/abbasid-caliphate",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_01"
+  },
+  {
+    "id": "ABB_A_01_03",
+    "type": "MAP",
+    "title": "Карта движения армии Абу Муслима",
+    "original": "Карта движения армии Абу Муслима",
+    "subtitle": "маршрут связывает гарнизоны, дороги и речные долины",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "747–749 годы",
+    "rarity": "EPIC",
+    "difficulty": 13,
+    "summary": "Карта движения армии Абу Муслима — маршрут связывает гарнизоны, дороги и речные долины.",
+    "importance": "Архивная карточка углубляет главу «Хорасан и кризис Омейядов» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: 747–749 годы.",
+      "Основной смысл: маршрут связывает гарнизоны, дороги и речные долины.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Хорасан и кризис Омейядов",
+      "map"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мерв",
+      "lat": 37.66,
+      "lon": 62.18
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-01/abb_a_01_03.svg",
+      "caption": "Локальная учебная обложка: Карта движения армии Абу Муслима",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/abbasid-caliphate",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_01_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: ʿAbbasid Caliphate",
+      "url": "https://www.iranicaonline.org/articles/abbasid-caliphate",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_01"
+  },
+  {
+    "id": "ABB_A_01_04",
+    "type": "HISTORIOGRAPHY",
+    "title": "Генеалогия Аббасидов как аргумент власти",
+    "original": "Генеалогия Аббасидов как аргумент власти",
+    "subtitle": "родство с семьёй пророка стало политическим ресурсом",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII век",
+    "rarity": "LEGENDARY",
+    "difficulty": 13,
+    "summary": "Генеалогия Аббасидов как аргумент власти — родство с семьёй пророка стало политическим ресурсом.",
+    "importance": "Архивная карточка углубляет главу «Хорасан и кризис Омейядов» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII век.",
+      "Основной смысл: родство с семьёй пророка стало политическим ресурсом.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Хорасан и кризис Омейядов",
+      "historiography"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 7,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Куфа",
+      "lat": 32.0346,
+      "lon": 44.4037
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-01/abb_a_01_04.svg",
+      "caption": "Локальная учебная обложка: Генеалогия Аббасидов как аргумент власти",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/abbasid-caliphate",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_01_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: ʿAbbasid Caliphate",
+      "url": "https://www.iranicaonline.org/articles/abbasid-caliphate",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_01"
+  },
+  {
+    "id": "ABB_A_02_01",
+    "type": "NUMISMATICS",
+    "title": "Дирхам первых Аббасидов",
+    "original": "Дирхам первых Аббасидов",
+    "subtitle": "дата и формула показывают быстрое распространение новой чеканки",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "750-е годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 13,
+    "summary": "Дирхам первых Аббасидов — дата и формула показывают быстрое распространение новой чеканки.",
+    "importance": "Архивная карточка углубляет главу «Революция и рождение династии» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: 750-е годы.",
+      "Основной смысл: дата и формула показывают быстрое распространение новой чеканки.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Революция и рождение династии",
+      "numismatics"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Куфа",
+      "lat": 32.0346,
+      "lon": 44.4037
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-02/abb_a_02_01.svg",
+      "caption": "Локальная учебная обложка: Дирхам первых Аббасидов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_02_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Abbasid caliphate",
+      "url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_02"
+  },
+  {
+    "id": "ABB_A_02_02",
+    "type": "TEXT",
+    "title": "Хроника битвы при Забе",
+    "original": "Хроника битвы при Забе",
+    "subtitle": "позднее повествование организует победу как законный приговор Омейядам",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII–IX века",
+    "rarity": "RARE",
+    "difficulty": 13,
+    "summary": "Хроника битвы при Забе — позднее повествование организует победу как законный приговор Омейядам.",
+    "importance": "Архивная карточка углубляет главу «Революция и рождение династии» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–IX века.",
+      "Основной смысл: позднее повествование организует победу как законный приговор Омейядам.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Революция и рождение династии",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 7,
+      "culture": 6,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Большой Заб",
+      "lat": 35.9,
+      "lon": 43.35
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-02/abb_a_02_02.svg",
+      "caption": "Локальная учебная обложка: Хроника битвы при Забе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_02_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Abbasid caliphate",
+      "url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_02"
+  },
+  {
+    "id": "ABB_A_02_03",
+    "type": "ADMINISTRATION",
+    "title": "Печать аббасидского чиновника",
+    "original": "Печать аббасидского чиновника",
+    "subtitle": "малый предмет фиксирует продолжение делопроизводства при новой власти",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII век",
+    "rarity": "EPIC",
+    "difficulty": 13,
+    "summary": "Печать аббасидского чиновника — малый предмет фиксирует продолжение делопроизводства при новой власти.",
+    "importance": "Архивная карточка углубляет главу «Революция и рождение династии» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII век.",
+      "Основной смысл: малый предмет фиксирует продолжение делопроизводства при новой власти.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Революция и рождение династии",
+      "administration"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 8,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Куфа",
+      "lat": 32.0346,
+      "lon": 44.4037
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-02/abb_a_02_03.svg",
+      "caption": "Локальная учебная обложка: Печать аббасидского чиновника",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_02_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Abbasid caliphate",
+      "url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_02"
+  },
+  {
+    "id": "ABB_A_02_04",
+    "type": "MAP",
+    "title": "Карта краха омейядского центра",
+    "original": "Карта краха омейядского центра",
+    "subtitle": "пространство поражения не совпадало с мгновенным контролем всех провинций",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "749–751 годы",
+    "rarity": "LEGENDARY",
+    "difficulty": 13,
+    "summary": "Карта краха омейядского центра — пространство поражения не совпадало с мгновенным контролем всех провинций.",
+    "importance": "Архивная карточка углубляет главу «Революция и рождение династии» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: 749–751 годы.",
+      "Основной смысл: пространство поражения не совпадало с мгновенным контролем всех провинций.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Революция и рождение династии",
+      "map"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 8,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Дамаск",
+      "lat": 33.5138,
+      "lon": 36.2765
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-02/abb_a_02_04.svg",
+      "caption": "Локальная учебная обложка: Карта краха омейядского центра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_02_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Abbasid caliphate",
+      "url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_02"
+  },
+  {
+    "id": "ABB_A_03_01",
+    "type": "DOCUMENT",
+    "title": "Письмо провинциальному сборщику налогов",
+    "original": "Письмо провинциальному сборщику налогов",
+    "subtitle": "приказ показывает вертикаль власти и зависимость от местных исполнителей",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII век",
+    "rarity": "UNCOMMON",
+    "difficulty": 13,
+    "summary": "Письмо провинциальному сборщику налогов — приказ показывает вертикаль власти и зависимость от местных исполнителей.",
+    "importance": "Архивная карточка углубляет главу «Аль-Мансур и создание устойчивой власти» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII век.",
+      "Основной смысл: приказ показывает вертикаль власти и зависимость от местных исполнителей.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Аль-Мансур и создание устойчивой власти",
+      "document"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 6,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рей",
+      "lat": 35.6892,
+      "lon": 51.3134
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-03/abb_a_03_01.svg",
+      "caption": "Локальная учебная обложка: Письмо провинциальному сборщику налогов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/abbasid-caliphate",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_03_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: ʿAbbasid Caliphate",
+      "url": "https://www.iranicaonline.org/articles/abbasid-caliphate",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_03"
+  },
+  {
+    "id": "ABB_A_03_02",
+    "type": "NUMISMATICS",
+    "title": "Аббасидский дирхам аль-Мансура",
+    "original": "Аббасидский дирхам аль-Мансура",
+    "subtitle": "монета датирует правление и сохраняет эпиграфическую форму реформы VII века",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII век",
+    "rarity": "RARE",
+    "difficulty": 13,
+    "summary": "Аббасидский дирхам аль-Мансура — монета датирует правление и сохраняет эпиграфическую форму реформы VII века.",
+    "importance": "Архивная карточка углубляет главу «Аль-Мансур и создание устойчивой власти» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII век.",
+      "Основной смысл: монета датирует правление и сохраняет эпиграфическую форму реформы VII века.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Аль-Мансур и создание устойчивой власти",
+      "numismatics"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 8,
+      "culture": 7,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Багдад",
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-03/abb_a_03_02.svg",
+      "caption": "Локальная учебная обложка: Аббасидский дирхам аль-Мансура",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/abbasid-caliphate",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_03_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: ʿAbbasid Caliphate",
+      "url": "https://www.iranicaonline.org/articles/abbasid-caliphate",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_03"
+  },
+  {
+    "id": "ABB_A_03_03",
+    "type": "HISTORIOGRAPHY",
+    "title": "Поздняя биография Абу Муслима",
+    "original": "Поздняя биография Абу Муслима",
+    "subtitle": "память превращала командира в героя, предателя или мученика",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII–X века",
+    "rarity": "EPIC",
+    "difficulty": 13,
+    "summary": "Поздняя биография Абу Муслима — память превращала командира в героя, предателя или мученика.",
+    "importance": "Архивная карточка углубляет главу «Аль-Мансур и создание устойчивой власти» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–X века.",
+      "Основной смысл: память превращала командира в героя, предателя или мученика.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Аль-Мансур и создание устойчивой власти",
+      "historiography"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 3,
+      "culture": 8,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мерв",
+      "lat": 37.66,
+      "lon": 62.18
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-03/abb_a_03_03.svg",
+      "caption": "Локальная учебная обложка: Поздняя биография Абу Муслима",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/abbasid-caliphate",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_03_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: ʿAbbasid Caliphate",
+      "url": "https://www.iranicaonline.org/articles/abbasid-caliphate",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_03"
+  },
+  {
+    "id": "ABB_A_03_04",
+    "type": "ADMINISTRATION",
+    "title": "Список ведомств раннего Багдада",
+    "original": "Список ведомств раннего Багдада",
+    "subtitle": "термины раскрывают функции, но не доказывают одинаковую практику в провинциях",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII век",
+    "rarity": "LEGENDARY",
+    "difficulty": 13,
+    "summary": "Список ведомств раннего Багдада — термины раскрывают функции, но не доказывают одинаковую практику в провинциях.",
+    "importance": "Архивная карточка углубляет главу «Аль-Мансур и создание устойчивой власти» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII век.",
+      "Основной смысл: термины раскрывают функции, но не доказывают одинаковую практику в провинциях.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Аль-Мансур и создание устойчивой власти",
+      "administration"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 5,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Багдад",
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-03/abb_a_03_04.svg",
+      "caption": "Локальная учебная обложка: Список ведомств раннего Багдада",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/abbasid-caliphate",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_03_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: ʿAbbasid Caliphate",
+      "url": "https://www.iranicaonline.org/articles/abbasid-caliphate",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_03"
+  },
+  {
+    "id": "ABB_A_04_01",
+    "type": "TEXT",
+    "title": "Описание Круглого Города у географов",
+    "original": "Описание Круглого Города у географов",
+    "subtitle": "поздние тексты позволяют реконструировать план с осторожностью",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII–X века",
+    "rarity": "UNCOMMON",
+    "difficulty": 13,
+    "summary": "Описание Круглого Города у географов — поздние тексты позволяют реконструировать план с осторожностью.",
+    "importance": "Архивная карточка углубляет главу «Основание Багдада» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–X века.",
+      "Основной смысл: поздние тексты позволяют реконструировать план с осторожностью.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Основание Багдада",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 7,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Багдад",
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-04/abb_a_04_01.svg",
+      "caption": "Локальная учебная обложка: Описание Круглого Города у географов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Abbasid Period (750–1258)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_04"
+  },
+  {
+    "id": "ABB_A_04_02",
+    "type": "ARCHAEOLOGY",
+    "title": "Кирпич и штукатурка раннеаббасидского Ирака",
+    "original": "Кирпич и штукатурка раннеаббасидского Ирака",
+    "subtitle": "строительные материалы объясняют плохую сохранность первых дворцов",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII–IX века",
+    "rarity": "RARE",
+    "difficulty": 13,
+    "summary": "Кирпич и штукатурка раннеаббасидского Ирака — строительные материалы объясняют плохую сохранность первых дворцов.",
+    "importance": "Архивная карточка углубляет главу «Основание Багдада» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–IX века.",
+      "Основной смысл: строительные материалы объясняют плохую сохранность первых дворцов.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Основание Багдада",
+      "archaeology"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 3,
+      "culture": 8,
+      "politics": 5,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Багдад",
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-04/abb_a_04_02.svg",
+      "caption": "Локальная учебная обложка: Кирпич и штукатурка раннеаббасидского Ирака",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Abbasid Period (750–1258)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_04"
+  },
+  {
+    "id": "ABB_A_04_03",
+    "type": "MAP",
+    "title": "Карта каналов вокруг столицы",
+    "original": "Карта каналов вокруг столицы",
+    "subtitle": "водная сеть показывает хозяйственную основу города",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII–IX века",
+    "rarity": "EPIC",
+    "difficulty": 13,
+    "summary": "Карта каналов вокруг столицы — водная сеть показывает хозяйственную основу города.",
+    "importance": "Архивная карточка углубляет главу «Основание Багдада» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–IX века.",
+      "Основной смысл: водная сеть показывает хозяйственную основу города.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Основание Багдада",
+      "map"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 4,
+      "culture": 9,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ктесифон",
+      "lat": 33.0933,
+      "lon": 44.58
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-04/abb_a_04_03.svg",
+      "caption": "Локальная учебная обложка: Карта каналов вокруг столицы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Abbasid Period (750–1258)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_04"
+  },
+  {
+    "id": "ABB_A_04_04",
+    "type": "METROLOGY",
+    "title": "Аббасидская гиря с клеймом",
+    "original": "Аббасидская гиря с клеймом",
+    "subtitle": "контроль веса связывал рынок и государственный надзор",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII–IX века",
+    "rarity": "MYTHIC",
+    "difficulty": 13,
+    "summary": "Аббасидская гиря с клеймом — контроль веса связывал рынок и государственный надзор.",
+    "importance": "Архивная карточка углубляет главу «Основание Багдада» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–IX века.",
+      "Основной смысл: контроль веса связывал рынок и государственный надзор.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Основание Багдада",
+      "metrology"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Багдад",
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-04/abb_a_04_04.svg",
+      "caption": "Локальная учебная обложка: Аббасидская гиря с клеймом",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_04_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Abbasid Period (750–1258)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_04"
+  },
+  {
+    "id": "ABB_A_05_01",
+    "type": "DOCUMENT",
+    "title": "Придворное письмо визиря",
+    "original": "Придворное письмо визиря",
+    "subtitle": "формулы обращения показывают иерархию и технику решения дел",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII–IX века",
+    "rarity": "UNCOMMON",
+    "difficulty": 13,
+    "summary": "Придворное письмо визиря — формулы обращения показывают иерархию и технику решения дел.",
+    "importance": "Архивная карточка углубляет главу «Двор, визири и Бармакиды» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–IX века.",
+      "Основной смысл: формулы обращения показывают иерархию и технику решения дел.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Двор, визири и Бармакиды",
+      "document"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 8,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Багдад",
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-05/abb_a_05_01.svg",
+      "caption": "Локальная учебная обложка: Придворное письмо визиря",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/barmakids",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Barmakids",
+      "url": "https://www.iranicaonline.org/articles/barmakids",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_05"
+  },
+  {
+    "id": "ABB_A_05_02",
+    "type": "LITERATURE",
+    "title": "Поэтическая память о Бармакидах",
+    "original": "Поэтическая память о Бармакидах",
+    "subtitle": "похвала и плач создавали образ щедрого двора после его падения",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "IX век",
+    "rarity": "RARE",
+    "difficulty": 13,
+    "summary": "Поэтическая память о Бармакидах — похвала и плач создавали образ щедрого двора после его падения.",
+    "importance": "Архивная карточка углубляет главу «Двор, визири и Бармакиды» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: похвала и плач создавали образ щедрого двора после его падения.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Двор, визири и Бармакиды",
+      "literature"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 4,
+      "culture": 9,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Багдад",
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-05/abb_a_05_02.svg",
+      "caption": "Локальная учебная обложка: Поэтическая память о Бармакидах",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/barmakids",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Barmakids",
+      "url": "https://www.iranicaonline.org/articles/barmakids",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_05"
+  },
+  {
+    "id": "ABB_A_05_03",
+    "type": "ADMINISTRATION",
+    "title": "Печать дивана",
+    "original": "Печать дивана",
+    "subtitle": "клеймо подтверждало происхождение распоряжения и движение документа",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII–IX века",
+    "rarity": "EPIC",
+    "difficulty": 13,
+    "summary": "Печать дивана — клеймо подтверждало происхождение распоряжения и движение документа.",
+    "importance": "Архивная карточка углубляет главу «Двор, визири и Бармакиды» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–IX века.",
+      "Основной смысл: клеймо подтверждало происхождение распоряжения и движение документа.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Двор, визири и Бармакиды",
+      "administration"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 5,
+      "culture": 6,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Багдад",
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-05/abb_a_05_03.svg",
+      "caption": "Локальная учебная обложка: Печать дивана",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/barmakids",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Barmakids",
+      "url": "https://www.iranicaonline.org/articles/barmakids",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_05"
+  },
+  {
+    "id": "ABB_A_05_04",
+    "type": "DOCUMENT",
+    "title": "Список придворных даров",
+    "original": "Список придворных даров",
+    "subtitle": "перечень вещей раскрывает экономику покровительства",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII–IX века",
+    "rarity": "LEGENDARY",
+    "difficulty": 13,
+    "summary": "Список придворных даров — перечень вещей раскрывает экономику покровительства.",
+    "importance": "Архивная карточка углубляет главу «Двор, визири и Бармакиды» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–IX века.",
+      "Основной смысл: перечень вещей раскрывает экономику покровительства.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Двор, визири и Бармакиды",
+      "document"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 7,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Ракка",
+      "lat": 35.95,
+      "lon": 39.01
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-05/abb_a_05_04.svg",
+      "caption": "Локальная учебная обложка: Список придворных даров",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.iranicaonline.org/articles/barmakids",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Iranica: Barmakids",
+      "url": "https://www.iranicaonline.org/articles/barmakids",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_05"
+  },
+  {
+    "id": "ABB_A_06_01",
+    "type": "NUMISMATICS",
+    "title": "Аббасидский золотой динар",
+    "original": "Аббасидский золотой динар",
+    "subtitle": "вес, проба и надпись позволяют изучать денежную систему",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII–IX века",
+    "rarity": "UNCOMMON",
+    "difficulty": 13,
+    "summary": "Аббасидский золотой динар — вес, проба и надпись позволяют изучать денежную систему.",
+    "importance": "Архивная карточка углубляет главу «Харун ар-Рашид и экономика империи» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–IX века.",
+      "Основной смысл: вес, проба и надпись позволяют изучать денежную систему.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Харун ар-Рашид и экономика империи",
+      "numismatics"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Багдад",
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-06/abb_a_06_01.svg",
+      "caption": "Локальная учебная обложка: Аббасидский золотой динар",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://en.unesco.org/silkroad/about-silk-roads",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO Silk Roads Programme: About the Silk Roads",
+      "url": "https://en.unesco.org/silkroad/about-silk-roads",
+      "type": "research"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_06"
+  },
+  {
+    "id": "ABB_A_06_02",
+    "type": "DOCUMENT",
+    "title": "Налоговый папирус из Египта",
+    "original": "Налоговый папирус из Египта",
+    "subtitle": "квитанция показывает локальный язык сборов и календарей",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII–IX века",
+    "rarity": "RARE",
+    "difficulty": 13,
+    "summary": "Налоговый папирус из Египта — квитанция показывает локальный язык сборов и календарей.",
+    "importance": "Архивная карточка углубляет главу «Харун ар-Рашид и экономика империи» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–IX века.",
+      "Основной смысл: квитанция показывает локальный язык сборов и календарей.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Харун ар-Рашид и экономика империи",
+      "document"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 5,
+      "culture": 6,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Фустат",
+      "lat": 30.005,
+      "lon": 31.23
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-06/abb_a_06_02.svg",
+      "caption": "Локальная учебная обложка: Налоговый папирус из Египта",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://en.unesco.org/silkroad/about-silk-roads",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO Silk Roads Programme: About the Silk Roads",
+      "url": "https://en.unesco.org/silkroad/about-silk-roads",
+      "type": "research"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_06"
+  },
+  {
+    "id": "ABB_A_06_03",
+    "type": "ARCHAEOLOGY",
+    "title": "Фрагмент импортной керамики в Басре",
+    "original": "Фрагмент импортной керамики в Басре",
+    "subtitle": "материал подтверждает морские связи без доказательства прямого плавания каждого купца",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII–IX века",
+    "rarity": "EPIC",
+    "difficulty": 13,
+    "summary": "Фрагмент импортной керамики в Басре — материал подтверждает морские связи без доказательства прямого плавания каждого купца.",
+    "importance": "Архивная карточка углубляет главу «Харун ар-Рашид и экономика империи» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–IX века.",
+      "Основной смысл: материал подтверждает морские связи без доказательства прямого плавания каждого купца.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Харун ар-Рашид и экономика империи",
+      "archaeology"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Басра",
+      "lat": 30.5085,
+      "lon": 47.7804
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-06/abb_a_06_03.svg",
+      "caption": "Локальная учебная обложка: Фрагмент импортной керамики в Басре",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://en.unesco.org/silkroad/about-silk-roads",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO Silk Roads Programme: About the Silk Roads",
+      "url": "https://en.unesco.org/silkroad/about-silk-roads",
+      "type": "research"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_06"
+  },
+  {
+    "id": "ABB_A_06_04",
+    "type": "TEXT",
+    "title": "Географическое описание путей Ирака",
+    "original": "Географическое описание путей Ирака",
+    "subtitle": "маршруты фиксируют станции и расстояния через взгляд образованного автора",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "IX–X века",
+    "rarity": "LEGENDARY",
+    "difficulty": 13,
+    "summary": "Географическое описание путей Ирака — маршруты фиксируют станции и расстояния через взгляд образованного автора.",
+    "importance": "Архивная карточка углубляет главу «Харун ар-Рашид и экономика империи» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: маршруты фиксируют станции и расстояния через взгляд образованного автора.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Харун ар-Рашид и экономика империи",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 8,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Багдад",
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-06/abb_a_06_04.svg",
+      "caption": "Локальная учебная обложка: Географическое описание путей Ирака",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://en.unesco.org/silkroad/about-silk-roads",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO Silk Roads Programme: About the Silk Roads",
+      "url": "https://en.unesco.org/silkroad/about-silk-roads",
+      "type": "research"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_06"
+  },
+  {
+    "id": "ABB_A_07_01",
+    "type": "ARCHAEOLOGY",
+    "title": "Стрела и слой разрушения осады",
+    "original": "Стрела и слой разрушения осады",
+    "subtitle": "материальные следы дополняют описания боёв и пожаров",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "812–813 годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 13,
+    "summary": "Стрела и слой разрушения осады — материальные следы дополняют описания боёв и пожаров.",
+    "importance": "Архивная карточка углубляет главу «Гражданская война аль-Амина и аль-Мамуна» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: 812–813 годы.",
+      "Основной смысл: материальные следы дополняют описания боёв и пожаров.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Гражданская война аль-Амина и аль-Мамуна",
+      "archaeology"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Багдад",
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-07/abb_a_07_01.svg",
+      "caption": "Локальная учебная обложка: Стрела и слой разрушения осады",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Abbasid caliphate",
+      "url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_07"
+  },
+  {
+    "id": "ABB_A_07_02",
+    "type": "NUMISMATICS",
+    "title": "Монета аль-Мамуна из Мерва",
+    "original": "Монета аль-Мамуна из Мерва",
+    "subtitle": "место чеканки показывает географию его власти",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "IX век",
+    "rarity": "RARE",
+    "difficulty": 13,
+    "summary": "Монета аль-Мамуна из Мерва — место чеканки показывает географию его власти.",
+    "importance": "Архивная карточка углубляет главу «Гражданская война аль-Амина и аль-Мамуна» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: место чеканки показывает географию его власти.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Гражданская война аль-Амина и аль-Мамуна",
+      "numismatics"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 6,
+      "culture": 7,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Мерв",
+      "lat": 37.66,
+      "lon": 62.18
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-07/abb_a_07_02.svg",
+      "caption": "Локальная учебная обложка: Монета аль-Мамуна из Мерва",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Abbasid caliphate",
+      "url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_07"
+  },
+  {
+    "id": "ABB_A_07_03",
+    "type": "TEXT",
+    "title": "Хроника осады Багдада",
+    "original": "Хроника осады Багдада",
+    "subtitle": "подробный рассказ требует учёта придворной позиции автора",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "IX век",
+    "rarity": "EPIC",
+    "difficulty": 13,
+    "summary": "Хроника осады Багдада — подробный рассказ требует учёта придворной позиции автора.",
+    "importance": "Архивная карточка углубляет главу «Гражданская война аль-Амина и аль-Мамуна» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: подробный рассказ требует учёта придворной позиции автора.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Гражданская война аль-Амина и аль-Мамуна",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 8,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Багдад",
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-07/abb_a_07_03.svg",
+      "caption": "Локальная учебная обложка: Хроника осады Багдада",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Abbasid caliphate",
+      "url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_07"
+  },
+  {
+    "id": "ABB_A_07_04",
+    "type": "MAP",
+    "title": "План кварталов военного Багдада",
+    "original": "План кварталов военного Багдада",
+    "subtitle": "пространство мостов, стен и каналов объясняет ход осады",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "812–813 годы",
+    "rarity": "LEGENDARY",
+    "difficulty": 13,
+    "summary": "План кварталов военного Багдада — пространство мостов, стен и каналов объясняет ход осады.",
+    "importance": "Архивная карточка углубляет главу «Гражданская война аль-Амина и аль-Мамуна» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: 812–813 годы.",
+      "Основной смысл: пространство мостов, стен и каналов объясняет ход осады.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Гражданская война аль-Амина и аль-Мамуна",
+      "map"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 9,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Багдад",
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-07/abb_a_07_04.svg",
+      "caption": "Локальная учебная обложка: План кварталов военного Багдада",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_07_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Abbasid caliphate",
+      "url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_07"
+  },
+  {
+    "id": "ABB_A_08_01",
+    "type": "MANUSCRIPT",
+    "title": "Арабский перевод медицинского трактата",
+    "original": "Арабский перевод медицинского трактата",
+    "subtitle": "рукопись показывает терминологию и работу позднейших копистов",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "IX–XIII века",
+    "rarity": "UNCOMMON",
+    "difficulty": 13,
+    "summary": "Арабский перевод медицинского трактата — рукопись показывает терминологию и работу позднейших копистов.",
+    "importance": "Архивная карточка углубляет главу «Переводы и производство знания» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–XIII века.",
+      "Основной смысл: рукопись показывает терминологию и работу позднейших копистов.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Переводы и производство знания",
+      "manuscript"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 7,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Багдад",
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-08/abb_a_08_01.svg",
+      "caption": "Локальная учебная обложка: Арабский перевод медицинского трактата",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Abbasid Period (750–1258)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_08"
+  },
+  {
+    "id": "ABB_A_08_02",
+    "type": "SCIENCE",
+    "title": "Астрономическая таблица раннеаббасидского времени",
+    "original": "Астрономическая таблица раннеаббасидского времени",
+    "subtitle": "числовой текст соединяет наблюдение, перевод и вычисление",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII–IX века",
+    "rarity": "RARE",
+    "difficulty": 13,
+    "summary": "Астрономическая таблица раннеаббасидского времени — числовой текст соединяет наблюдение, перевод и вычисление.",
+    "importance": "Архивная карточка углубляет главу «Переводы и производство знания» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–IX века.",
+      "Основной смысл: числовой текст соединяет наблюдение, перевод и вычисление.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Переводы и производство знания",
+      "science"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 7,
+      "culture": 8,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Багдад",
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-08/abb_a_08_02.svg",
+      "caption": "Локальная учебная обложка: Астрономическая таблица раннеаббасидского времени",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Abbasid Period (750–1258)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_08"
+  },
+  {
+    "id": "ABB_A_08_03",
+    "type": "MATERIAL",
+    "title": "Фрагмент ранней бумаги",
+    "original": "Фрагмент ранней бумаги",
+    "subtitle": "анализ волокон помогает изучать производство без легенды одной битвы",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII–IX века",
+    "rarity": "EPIC",
+    "difficulty": 13,
+    "summary": "Фрагмент ранней бумаги — анализ волокон помогает изучать производство без легенды одной битвы.",
+    "importance": "Архивная карточка углубляет главу «Переводы и производство знания» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–IX века.",
+      "Основной смысл: анализ волокон помогает изучать производство без легенды одной битвы.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Переводы и производство знания",
+      "material"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 8,
+      "culture": 9,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Багдад",
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-08/abb_a_08_03.svg",
+      "caption": "Локальная учебная обложка: Фрагмент ранней бумаги",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Abbasid Period (750–1258)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_08"
+  },
+  {
+    "id": "ABB_A_08_04",
+    "type": "HISTORIOGRAPHY",
+    "title": "Список переводов Хунайна",
+    "original": "Список переводов Хунайна",
+    "subtitle": "авторский отчёт раскрывает заказчиков и разные версии текстов",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "IX век",
+    "rarity": "MYTHIC",
+    "difficulty": 13,
+    "summary": "Список переводов Хунайна — авторский отчёт раскрывает заказчиков и разные версии текстов.",
+    "importance": "Архивная карточка углубляет главу «Переводы и производство знания» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: авторский отчёт раскрывает заказчиков и разные версии текстов.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Переводы и производство знания",
+      "historiography"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 6,
+      "politics": 5,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Багдад",
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-08/abb_a_08_04.svg",
+      "caption": "Локальная учебная обложка: Список переводов Хунайна",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_08_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Abbasid Period (750–1258)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_08"
+  },
+  {
+    "id": "ABB_A_09_01",
+    "type": "MANUSCRIPT",
+    "title": "Ранняя правовая рукопись",
+    "original": "Ранняя правовая рукопись",
+    "subtitle": "копия сохраняет аргументы, но может быть позднее жизни автора",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII–X века",
+    "rarity": "UNCOMMON",
+    "difficulty": 13,
+    "summary": "Ранняя правовая рукопись — копия сохраняет аргументы, но может быть позднее жизни автора.",
+    "importance": "Архивная карточка углубляет главу «Право, хадисы и религиозный авторитет» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–X века.",
+      "Основной смысл: копия сохраняет аргументы, но может быть позднее жизни автора.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Право, хадисы и религиозный авторитет",
+      "manuscript"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 8,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Багдад",
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-09/abb_a_09_01.svg",
+      "caption": "Локальная учебная обложка: Ранняя правовая рукопись",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_09_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Abbasid caliphate",
+      "url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_09"
+  },
+  {
+    "id": "ABB_A_09_02",
+    "type": "DOCUMENT",
+    "title": "Судебное свидетельство в папирусе",
+    "original": "Судебное свидетельство в папирусе",
+    "subtitle": "частный спор показывает практику ниже уровня правовых трактатов",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "VIII–IX века",
+    "rarity": "RARE",
+    "difficulty": 13,
+    "summary": "Судебное свидетельство в папирусе — частный спор показывает практику ниже уровня правовых трактатов.",
+    "importance": "Архивная карточка углубляет главу «Право, хадисы и религиозный авторитет» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–IX века.",
+      "Основной смысл: частный спор показывает практику ниже уровня правовых трактатов.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Право, хадисы и религиозный авторитет",
+      "document"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 8,
+      "culture": 9,
+      "politics": 5,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Фустат",
+      "lat": 30.005,
+      "lon": 31.23
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-09/abb_a_09_02.svg",
+      "caption": "Локальная учебная обложка: Судебное свидетельство в папирусе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_09_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Abbasid caliphate",
+      "url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_09"
+  },
+  {
+    "id": "ABB_A_09_03",
+    "type": "TEXT",
+    "title": "Хадисный лист с иснадом",
+    "original": "Хадисный лист с иснадом",
+    "subtitle": "цепь передатчиков позволяет изучать социальную сеть знания",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "IX век",
+    "rarity": "EPIC",
+    "difficulty": 13,
+    "summary": "Хадисный лист с иснадом — цепь передатчиков позволяет изучать социальную сеть знания.",
+    "importance": "Архивная карточка углубляет главу «Право, хадисы и религиозный авторитет» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: цепь передатчиков позволяет изучать социальную сеть знания.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Право, хадисы и религиозный авторитет",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 3,
+      "culture": 6,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Басра",
+      "lat": 30.5085,
+      "lon": 47.7804
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-09/abb_a_09_03.svg",
+      "caption": "Локальная учебная обложка: Хадисный лист с иснадом",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_09_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Abbasid caliphate",
+      "url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_09"
+  },
+  {
+    "id": "ABB_A_09_04",
+    "type": "HISTORIOGRAPHY",
+    "title": "Протокол михны в хронике",
+    "original": "Протокол михны в хронике",
+    "subtitle": "описание допроса отражает позднюю память победившей позиции",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "IX–X века",
+    "rarity": "LEGENDARY",
+    "difficulty": 13,
+    "summary": "Протокол михны в хронике — описание допроса отражает позднюю память победившей позиции.",
+    "importance": "Архивная карточка углубляет главу «Право, хадисы и религиозный авторитет» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: описание допроса отражает позднюю память победившей позиции.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Право, хадисы и религиозный авторитет",
+      "historiography"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Самарра",
+      "lat": 34.1983,
+      "lon": 43.8749
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-09/abb_a_09_04.svg",
+      "caption": "Локальная учебная обложка: Протокол михны в хронике",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_09_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Abbasid caliphate",
+      "url": "https://www.britannica.com/topic/Abbasid-caliphate",
+      "type": "encyclopedia"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_09"
+  },
+  {
+    "id": "ABB_A_10_01",
+    "type": "ARTIFACT",
+    "title": "Штукатурная панель из Самарры",
+    "original": "Штукатурная панель из Самарры",
+    "subtitle": "орнамент помогает датировать дворцовые комплексы и художественный стиль",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "IX век",
+    "rarity": "UNCOMMON",
+    "difficulty": 13,
+    "summary": "Штукатурная панель из Самарры — орнамент помогает датировать дворцовые комплексы и художественный стиль.",
+    "importance": "Архивная карточка углубляет главу «Самарра и новая военная элита» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: орнамент помогает датировать дворцовые комплексы и художественный стиль.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Самарра и новая военная элита",
+      "artifact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 9,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Самарра",
+      "lat": 34.1983,
+      "lon": 43.8749
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-10/abb_a_10_01.svg",
+      "caption": "Локальная учебная обложка: Штукатурная панель из Самарры",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/276/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_10_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Samarra Archaeological City",
+      "url": "https://whc.unesco.org/en/list/276/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_10"
+  },
+  {
+    "id": "ABB_A_10_02",
+    "type": "ARCHAEOLOGY",
+    "title": "План Великой мечети",
+    "original": "План Великой мечети",
+    "subtitle": "размеры и стены показывают организацию массового пространства",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "IX век",
+    "rarity": "RARE",
+    "difficulty": 13,
+    "summary": "План Великой мечети — размеры и стены показывают организацию массового пространства.",
+    "importance": "Архивная карточка углубляет главу «Самарра и новая военная элита» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: размеры и стены показывают организацию массового пространства.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Самарра и новая военная элита",
+      "archaeology"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 3,
+      "culture": 6,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Самарра",
+      "lat": 34.1983,
+      "lon": 43.8749
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-10/abb_a_10_02.svg",
+      "caption": "Локальная учебная обложка: План Великой мечети",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/276/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_10_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Samarra Archaeological City",
+      "url": "https://whc.unesco.org/en/list/276/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_10"
+  },
+  {
+    "id": "ABB_A_10_03",
+    "type": "NUMISMATICS",
+    "title": "Дирхам аль-Мутасима",
+    "original": "Дирхам аль-Мутасима",
+    "subtitle": "чеканка связывает новую столицу с общим денежным пространством",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "IX век",
+    "rarity": "EPIC",
+    "difficulty": 13,
+    "summary": "Дирхам аль-Мутасима — чеканка связывает новую столицу с общим денежным пространством.",
+    "importance": "Архивная карточка углубляет главу «Самарра и новая военная элита» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: чеканка связывает новую столицу с общим денежным пространством.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Самарра и новая военная элита",
+      "numismatics"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 4,
+      "culture": 7,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Самарра",
+      "lat": 34.1983,
+      "lon": 43.8749
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-10/abb_a_10_03.svg",
+      "caption": "Локальная учебная обложка: Дирхам аль-Мутасима",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/276/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_10_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Samarra Archaeological City",
+      "url": "https://whc.unesco.org/en/list/276/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_10"
+  },
+  {
+    "id": "ABB_A_10_04",
+    "type": "MAP",
+    "title": "UNESCO-карта археологической Самарры",
+    "original": "UNESCO-карта археологической Самарры",
+    "subtitle": "сохранённый ландшафт заменяет почти исчезнувшие дворцы раннего Багдада",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "IX век",
+    "rarity": "LEGENDARY",
+    "difficulty": 13,
+    "summary": "UNESCO-карта археологической Самарры — сохранённый ландшафт заменяет почти исчезнувшие дворцы раннего Багдада.",
+    "importance": "Архивная карточка углубляет главу «Самарра и новая военная элита» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: сохранённый ландшафт заменяет почти исчезнувшие дворцы раннего Багдада.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Самарра и новая военная элита",
+      "map"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Самарра",
+      "lat": 34.1983,
+      "lon": 43.8749
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-10/abb_a_10_04.svg",
+      "caption": "Локальная учебная обложка: UNESCO-карта археологической Самарры",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/276/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_10_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Samarra Archaeological City",
+      "url": "https://whc.unesco.org/en/list/276/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_10"
+  },
+  {
+    "id": "ABB_A_11_01",
+    "type": "NUMISMATICS",
+    "title": "Саманидский дирхам",
+    "original": "Саманидский дирхам",
+    "subtitle": "региональная монета сохраняла исламские формулы и широко циркулировала",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "IX–X века",
+    "rarity": "UNCOMMON",
+    "difficulty": 13,
+    "summary": "Саманидский дирхам — региональная монета сохраняла исламские формулы и широко циркулировала.",
+    "importance": "Архивная карточка углубляет главу «Региональные династии и новый исламский мир» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: региональная монета сохраняла исламские формулы и широко циркулировала.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Региональные династии и новый исламский мир",
+      "numismatics"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 6,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Бухара",
+      "lat": 39.7681,
+      "lon": 64.4556
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-11/abb_a_11_01.svg",
+      "caption": "Локальная учебная обложка: Саманидский дирхам",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_11_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Abbasid Period (750–1258)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_11"
+  },
+  {
+    "id": "ABB_A_11_02",
+    "type": "ARCHAEOLOGY",
+    "title": "Тулунидская мечеть и городской план",
+    "original": "Тулунидская мечеть и городской план",
+    "subtitle": "монумент показывает самостоятельную программу провинциального двора",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "IX век",
+    "rarity": "RARE",
+    "difficulty": 13,
+    "summary": "Тулунидская мечеть и городской план — монумент показывает самостоятельную программу провинциального двора.",
+    "importance": "Архивная карточка углубляет главу «Региональные династии и новый исламский мир» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: монумент показывает самостоятельную программу провинциального двора.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Региональные династии и новый исламский мир",
+      "archaeology"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 4,
+      "culture": 7,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Фустат",
+      "lat": 30.005,
+      "lon": 31.23
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-11/abb_a_11_02.svg",
+      "caption": "Локальная учебная обложка: Тулунидская мечеть и городской план",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_11_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Abbasid Period (750–1258)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_11"
+  },
+  {
+    "id": "ABB_A_11_03",
+    "type": "DOCUMENT",
+    "title": "Письмо о назначении провинциального правителя",
+    "original": "Письмо о назначении провинциального правителя",
+    "subtitle": "халифский титул легитимировал власть, которую центр не контролировал полностью",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "IX век",
+    "rarity": "EPIC",
+    "difficulty": 13,
+    "summary": "Письмо о назначении провинциального правителя — халифский титул легитимировал власть, которую центр не контролировал полностью.",
+    "importance": "Архивная карточка углубляет главу «Региональные династии и новый исламский мир» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: халифский титул легитимировал власть, которую центр не контролировал полностью.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Региональные династии и новый исламский мир",
+      "document"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 5,
+      "culture": 8,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Нишапур",
+      "lat": 36.2133,
+      "lon": 58.7958
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-11/abb_a_11_03.svg",
+      "caption": "Локальная учебная обложка: Письмо о назначении провинциального правителя",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_11_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Abbasid Period (750–1258)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_11"
+  },
+  {
+    "id": "ABB_A_11_04",
+    "type": "MAP",
+    "title": "Карта исламского мира около 900 года",
+    "original": "Карта исламского мира около 900 года",
+    "subtitle": "несколько династий сосуществовали внутри пересекающихся сетей",
+    "era": "Раннее Средневековье",
+    "region": "Ирак, Хорасан и исламский мир",
+    "date": "ок. 900 года",
+    "rarity": "LEGENDARY",
+    "difficulty": 13,
+    "summary": "Карта исламского мира около 900 года — несколько династий сосуществовали внутри пересекающихся сетей.",
+    "importance": "Архивная карточка углубляет главу «Региональные династии и новый исламский мир» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: ок. 900 года.",
+      "Основной смысл: несколько династий сосуществовали внутри пересекающихся сетей.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Ирак, Хорасан и исламский мир",
+      "архив",
+      "Региональные династии и новый исламский мир",
+      "map"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Багдад",
+      "lat": 33.3152,
+      "lon": 44.3661
+    },
+    "image": {
+      "local": "assets/cards/abbasid-baghdad/chapter-11/abb_a_11_04.svg",
+      "caption": "Локальная учебная обложка: Карта исламского мира около 900 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "abb_a_11_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Abbasid Period (750–1258)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "ABBASID_BAGHDAD",
+    "chapter": "ABB_CHAPTER_11"
+  }
+]

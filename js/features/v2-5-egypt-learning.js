@@ -1,12 +1,12 @@
 /* Codex v2.5 — modern learning experience and study-era selection */
 (function(){
-  const V='8.0.0';
+  const V='8.1.0';
   window.CODEX_VERSION=V;
   state.studyEra=state.studyEra||null;
   state.studyCampaign=state.studyCampaign||null;
   state.studyOnboardingSeen=!!state.studyOnboardingSeen;
   const isFresh=()=>!state.missionsCompleted?.length&&!state.studyOnboardingSeen;
-  const stageLabels=[['▤','Рассказ'],['⌛','Время'],['◆','Смысл'],['▥','Теория'],['◎','Практика']];
+  const stageLabels=[['▤','Рассказ'],['⌛','Хронология'],['◆','Разбор'],['▥','Теория'],['◎','Практика']];
 
   function studyEraProgress(era){
     const cs=worldEraCampaigns(era.id).filter(c=>c.status==='PLAYABLE');
@@ -36,7 +36,8 @@
   const oldGo=go;
   go=function(tab){if(tab==='world'&&!state.worldEra){state.worldDepth='ERAS';state.worldView='CAMPAIGNS';}oldGo(tab);};
 
-  function modernStageNav(m){const cur=lessonStage(m.id),max=lessonMaxStage(m.id);return `<nav class="learning-path-v25">${stageLabels.map(([icon,label],i)=>`<button class="${i===cur?'active':''} ${i<cur?'done':''} ${i<=max?'':'locked'}" ${i<=max?`onclick="setLessonStage('${m.id}',${i})"`:'disabled'}><span>${i<cur?'✓':icon}</span><b>${label}</b><i>${i+1}</i></button>`).join('')}<div class="learning-path-line"><span style="width:${cur/4*100}%"></span></div></nav>`;}
+  window.openLessonStage=function(id,stage){const next=Math.max(0,Math.min(4,Number(stage)||0));state.lessonStages[id]=next;state.lessonUnlockedStages[id]=Math.max(Number(state.lessonUnlockedStages[id]||0),next);save();render();window.scrollTo({top:0,behavior:'smooth'});};
+  function modernStageNav(m){const cur=lessonStage(m.id),max=lessonMaxStage(m.id);return `<nav class="learning-path-v25 interactive-stage-path" aria-label="Этапы урока">${stageLabels.map(([icon,label],i)=>`<button type="button" class="${i===cur?'active':''} ${i<cur?'done':''} ${i>max?'future':''}" onclick="openLessonStage('${m.id}',${i})" aria-current="${i===cur?'step':'false'}" aria-label="Открыть этап ${i+1}: ${label}"><span>${i<cur?'✓':icon}</span><b>${label}</b><i>${i+1}</i></button>`).join('')}<div class="learning-path-line"><span style="width:${cur/4*100}%"></span></div></nav>`;}
   lessonStageNav=modernStageNav;
 
   missionScreen=function(){

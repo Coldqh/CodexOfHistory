@@ -392,3 +392,8 @@
 ## v8.0 — Возникновение исламского мира
 
 Локальные SVG-обложки 132 карточек и кампанийного пака созданы для Codex of History. Источниковая рамка опирается на материалы Metropolitan Museum of Art, Corpus Coranicum, University of Birmingham, UNESCO и музейные материалы по ранним кораническим рукописям, омейядской архитектуре, монетам и папирусам.
+
+
+## v8.1 — Аббасидская революция и Багдад
+
+Локальные SVG-обложки 132 карточек и кампанийного пака созданы для Codex of History. Источниковая рамка опирается на материалы Metropolitan Museum of Art, UNESCO Samarra Archaeological City, Encyclopaedia Iranica, Encyclopaedia Britannica и исследования аббасидской монеты, папирусов, рукописей и городской археологии.

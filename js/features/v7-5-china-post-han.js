@@ -1,6 +1,6 @@
-/* Codex v8.0.0 — China between Han and Tang */
+/* Codex v8.1.0 — China between Han and Tang */
 (()=>{
-  const V='8.0.0';
+  const V='8.1.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.CHINA_POST_HAN='CHINA_POST_HAN';
   state.chinaPostHanPhase=state.chinaPostHanPhase||'THREE_JIN';

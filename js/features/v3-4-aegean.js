@@ -1,6 +1,6 @@
-/* Codex v8.0.0 — Minoans and Mycenaeans */
+/* Codex v8.1.0 — Minoans and Mycenaeans */
 (()=>{
-  const V='8.0.0';
+  const V='8.1.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.AEGEAN_BRONZE='AEGEAN_BRONZE';
   state.aegeanPhase=state.aegeanPhase||'MINOAN';

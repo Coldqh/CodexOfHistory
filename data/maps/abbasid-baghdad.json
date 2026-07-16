@@ -1,0 +1,330 @@
+{
+  "points": {
+    "MERV": [
+      37.66,
+      62.18
+    ],
+    "NISHAPUR": [
+      36.2133,
+      58.7958
+    ],
+    "REY": [
+      35.6892,
+      51.3134
+    ],
+    "HAMADAN": [
+      34.7989,
+      48.515
+    ],
+    "KUFA": [
+      32.0346,
+      44.4037
+    ],
+    "BASRA": [
+      30.5085,
+      47.7804
+    ],
+    "WASIT": [
+      32.189,
+      46.04
+    ],
+    "ZAB": [
+      35.9,
+      43.35
+    ],
+    "BAGHDAD": [
+      33.3152,
+      44.3661
+    ],
+    "CTESIPHON": [
+      33.0933,
+      44.58
+    ],
+    "SAMARRA": [
+      34.1983,
+      43.8749
+    ],
+    "RAQQA": [
+      35.95,
+      39.01
+    ],
+    "DAMASCUS": [
+      33.5138,
+      36.2765
+    ],
+    "JERUSALEM": [
+      31.778,
+      35.235
+    ],
+    "FUSTAT": [
+      30.005,
+      31.23
+    ],
+    "QAYRAWAN": [
+      35.6781,
+      10.0963
+    ],
+    "CORDOBA": [
+      37.8882,
+      -4.7794
+    ],
+    "BUKHARA": [
+      39.7681,
+      64.4556
+    ],
+    "SAMARKAND": [
+      39.6542,
+      66.9597
+    ],
+    "BALKH": [
+      36.7581,
+      66.8981
+    ],
+    "TABARISTAN": [
+      36.5659,
+      53.0586
+    ],
+    "SISTAN": [
+      31.0,
+      61.5
+    ],
+    "CAIRO": [
+      30.0444,
+      31.2357
+    ],
+    "MOSUL": [
+      36.34,
+      43.13
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "ABB_S_01_01": "MERV",
+    "ABB_S_01_02": "MERV",
+    "ABB_S_01_03": "MERV",
+    "ABB_S_01_04": "MERV",
+    "ABB_S_01_05": "NISHAPUR",
+    "ABB_S_01_06": "MERV",
+    "ABB_S_01_07": "BALKH",
+    "ABB_S_01_08": "REY",
+    "ABB_A_01_01": "MERV",
+    "ABB_A_01_02": "NISHAPUR",
+    "ABB_A_01_03": "MERV",
+    "ABB_A_01_04": "KUFA",
+    "ABB_S_02_01": "KUFA",
+    "ABB_S_02_02": "ZAB",
+    "ABB_S_02_03": "KUFA",
+    "ABB_S_02_04": "KUFA",
+    "ABB_S_02_05": "FUSTAT",
+    "ABB_S_02_06": "KUFA",
+    "ABB_S_02_07": "KUFA",
+    "ABB_S_02_08": "DAMASCUS",
+    "ABB_A_02_01": "KUFA",
+    "ABB_A_02_02": "ZAB",
+    "ABB_A_02_03": "KUFA",
+    "ABB_A_02_04": "DAMASCUS",
+    "ABB_S_03_01": "BAGHDAD",
+    "ABB_S_03_02": "KUFA",
+    "ABB_S_03_03": "BASRA",
+    "ABB_S_03_04": "BAGHDAD",
+    "ABB_S_03_05": "REY",
+    "ABB_S_03_06": "BAGHDAD",
+    "ABB_S_03_07": "BAGHDAD",
+    "ABB_S_03_08": "CTESIPHON",
+    "ABB_A_03_01": "REY",
+    "ABB_A_03_02": "BAGHDAD",
+    "ABB_A_03_03": "MERV",
+    "ABB_A_03_04": "BAGHDAD",
+    "ABB_S_04_01": "BAGHDAD",
+    "ABB_S_04_02": "BAGHDAD",
+    "ABB_S_04_03": "BAGHDAD",
+    "ABB_S_04_04": "BAGHDAD",
+    "ABB_S_04_05": "BAGHDAD",
+    "ABB_S_04_06": "BAGHDAD",
+    "ABB_S_04_07": "CTESIPHON",
+    "ABB_S_04_08": "BAGHDAD",
+    "ABB_A_04_01": "BAGHDAD",
+    "ABB_A_04_02": "BAGHDAD",
+    "ABB_A_04_03": "CTESIPHON",
+    "ABB_A_04_04": "BAGHDAD",
+    "ABB_S_05_01": "BAGHDAD",
+    "ABB_S_05_02": "BAGHDAD",
+    "ABB_S_05_03": "BAGHDAD",
+    "ABB_S_05_04": "BALKH",
+    "ABB_S_05_05": "BAGHDAD",
+    "ABB_S_05_06": "BAGHDAD",
+    "ABB_S_05_07": "RAQQA",
+    "ABB_S_05_08": "BAGHDAD",
+    "ABB_A_05_01": "BAGHDAD",
+    "ABB_A_05_02": "BAGHDAD",
+    "ABB_A_05_03": "BAGHDAD",
+    "ABB_A_05_04": "RAQQA",
+    "ABB_S_06_01": "BAGHDAD",
+    "ABB_S_06_02": "RAQQA",
+    "ABB_S_06_03": "BASRA",
+    "ABB_S_06_04": "FUSTAT",
+    "ABB_S_06_05": "BAGHDAD",
+    "ABB_S_06_06": "BAGHDAD",
+    "ABB_S_06_07": "BASRA",
+    "ABB_S_06_08": "BAGHDAD",
+    "ABB_A_06_01": "BAGHDAD",
+    "ABB_A_06_02": "FUSTAT",
+    "ABB_A_06_03": "BASRA",
+    "ABB_A_06_04": "BAGHDAD",
+    "ABB_S_07_01": "BAGHDAD",
+    "ABB_S_07_02": "MERV",
+    "ABB_S_07_03": "REY",
+    "ABB_S_07_04": "BAGHDAD",
+    "ABB_S_07_05": "MERV",
+    "ABB_S_07_06": "MERV",
+    "ABB_S_07_07": "MERV",
+    "ABB_S_07_08": "BAGHDAD",
+    "ABB_A_07_01": "BAGHDAD",
+    "ABB_A_07_02": "MERV",
+    "ABB_A_07_03": "BAGHDAD",
+    "ABB_A_07_04": "BAGHDAD",
+    "ABB_S_08_01": "BAGHDAD",
+    "ABB_S_08_02": "BAGHDAD",
+    "ABB_S_08_03": "BAGHDAD",
+    "ABB_S_08_04": "BAGHDAD",
+    "ABB_S_08_05": "BAGHDAD",
+    "ABB_S_08_06": "BAGHDAD",
+    "ABB_S_08_07": "BAGHDAD",
+    "ABB_S_08_08": "BAGHDAD",
+    "ABB_A_08_01": "BAGHDAD",
+    "ABB_A_08_02": "BAGHDAD",
+    "ABB_A_08_03": "BAGHDAD",
+    "ABB_A_08_04": "BAGHDAD",
+    "ABB_S_09_01": "BAGHDAD",
+    "ABB_S_09_02": "KUFA",
+    "ABB_S_09_03": "BAGHDAD",
+    "ABB_S_09_04": "BAGHDAD",
+    "ABB_S_09_05": "BASRA",
+    "ABB_S_09_06": "SAMARRA",
+    "ABB_S_09_07": "BAGHDAD",
+    "ABB_S_09_08": "KUFA",
+    "ABB_A_09_01": "BAGHDAD",
+    "ABB_A_09_02": "FUSTAT",
+    "ABB_A_09_03": "BASRA",
+    "ABB_A_09_04": "SAMARRA",
+    "ABB_S_10_01": "SAMARRA",
+    "ABB_S_10_02": "SAMARRA",
+    "ABB_S_10_03": "SAMARRA",
+    "ABB_S_10_04": "SAMARRA",
+    "ABB_S_10_05": "SAMARRA",
+    "ABB_S_10_06": "SAMARRA",
+    "ABB_S_10_07": "SAMARRA",
+    "ABB_S_10_08": "SAMARRA",
+    "ABB_A_10_01": "SAMARRA",
+    "ABB_A_10_02": "SAMARRA",
+    "ABB_A_10_03": "SAMARRA",
+    "ABB_A_10_04": "SAMARRA",
+    "ABB_S_11_01": "NISHAPUR",
+    "ABB_S_11_02": "SISTAN",
+    "ABB_S_11_03": "BUKHARA",
+    "ABB_S_11_04": "QAYRAWAN",
+    "ABB_S_11_05": "FUSTAT",
+    "ABB_S_11_06": "CORDOBA",
+    "ABB_S_11_07": "BAGHDAD",
+    "ABB_S_11_08": "BAGHDAD",
+    "ABB_A_11_01": "BUKHARA",
+    "ABB_A_11_02": "FUSTAT",
+    "ABB_A_11_03": "NISHAPUR",
+    "ABB_A_11_04": "BAGHDAD"
+  },
+  "chapters": {
+    "ABB_CHAPTER_01": {
+      "title": "Хорасан и кризис Омейядов",
+      "center": [
+        37.66,
+        62.18
+      ],
+      "zoom": 5
+    },
+    "ABB_CHAPTER_02": {
+      "title": "Революция и рождение династии",
+      "center": [
+        32.0346,
+        44.4037
+      ],
+      "zoom": 5
+    },
+    "ABB_CHAPTER_03": {
+      "title": "Аль-Мансур и создание устойчивой власти",
+      "center": [
+        32.0346,
+        44.4037
+      ],
+      "zoom": 5
+    },
+    "ABB_CHAPTER_04": {
+      "title": "Основание Багдада",
+      "center": [
+        33.3152,
+        44.3661
+      ],
+      "zoom": 5
+    },
+    "ABB_CHAPTER_05": {
+      "title": "Двор, визири и Бармакиды",
+      "center": [
+        33.3152,
+        44.3661
+      ],
+      "zoom": 5
+    },
+    "ABB_CHAPTER_06": {
+      "title": "Харун ар-Рашид и экономика империи",
+      "center": [
+        33.3152,
+        44.3661
+      ],
+      "zoom": 5
+    },
+    "ABB_CHAPTER_07": {
+      "title": "Гражданская война аль-Амина и аль-Мамуна",
+      "center": [
+        33.3152,
+        44.3661
+      ],
+      "zoom": 5
+    },
+    "ABB_CHAPTER_08": {
+      "title": "Переводы и производство знания",
+      "center": [
+        33.3152,
+        44.3661
+      ],
+      "zoom": 5
+    },
+    "ABB_CHAPTER_09": {
+      "title": "Право, хадисы и религиозный авторитет",
+      "center": [
+        33.3152,
+        44.3661
+      ],
+      "zoom": 5
+    },
+    "ABB_CHAPTER_10": {
+      "title": "Самарра и новая военная элита",
+      "center": [
+        34.1983,
+        43.8749
+      ],
+      "zoom": 5
+    },
+    "ABB_CHAPTER_11": {
+      "title": "Региональные династии и новый исламский мир",
+      "center": [
+        36.2133,
+        58.7958
+      ],
+      "zoom": 5
+    }
+  },
+  "missionCenter": [
+    33.0,
+    45.0
+  ],
+  "missionZoom": 3
+}

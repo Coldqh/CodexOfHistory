@@ -24,7 +24,7 @@ const imageQueries=await read('data/image_queries.json');
 const js=await fs.readFile(path.join(root,'js/features/v3-2-egypt-middle-new.js'),'utf8');
 const sw=await fs.readFile(path.join(root,'sw.js'),'utf8');
 
-assert(manifest.version==='8.0.0','manifest version');
+assert(manifest.version==='8.1.0','manifest version');
 assert(manifest.datasets.campaigns.includes('data/campaigns/egypt-middle-new/campaign.json'),'campaign manifest');
 assert(manifest.datasets.cards.includes('data/cards/egypt/middle-new-story.json'),'story manifest');
 assert(manifest.datasets.cards.includes('data/cards/egypt/middle-new-archive.json'),'archive manifest');

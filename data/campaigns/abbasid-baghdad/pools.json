@@ -1,0 +1,807 @@
+{
+  "campaignId": "ABBASID_BAGHDAD",
+  "campaigns": {
+    "ABBASID_BAGHDAD": {
+      "id": "ABBASID_BAGHDAD",
+      "title": "Аббасидская революция и Багдад",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "ABB_POOL_01",
+      "campaign": "ABBASID_BAGHDAD",
+      "title": "Хорасан и кризис Омейядов",
+      "unlockMission": "ABB_01_02",
+      "cardIds": [
+        "ABB_A_01_01",
+        "ABB_A_01_02",
+        "ABB_A_01_03",
+        "ABB_A_01_04"
+      ]
+    },
+    {
+      "id": "ABB_POOL_02",
+      "campaign": "ABBASID_BAGHDAD",
+      "title": "Революция и рождение династии",
+      "unlockMission": "ABB_02_02",
+      "cardIds": [
+        "ABB_A_02_01",
+        "ABB_A_02_02",
+        "ABB_A_02_03",
+        "ABB_A_02_04"
+      ]
+    },
+    {
+      "id": "ABB_POOL_03",
+      "campaign": "ABBASID_BAGHDAD",
+      "title": "Аль-Мансур и создание устойчивой власти",
+      "unlockMission": "ABB_03_02",
+      "cardIds": [
+        "ABB_A_03_01",
+        "ABB_A_03_02",
+        "ABB_A_03_03",
+        "ABB_A_03_04"
+      ]
+    },
+    {
+      "id": "ABB_POOL_04",
+      "campaign": "ABBASID_BAGHDAD",
+      "title": "Основание Багдада",
+      "unlockMission": "ABB_04_02",
+      "cardIds": [
+        "ABB_A_04_01",
+        "ABB_A_04_02",
+        "ABB_A_04_03",
+        "ABB_A_04_04"
+      ]
+    },
+    {
+      "id": "ABB_POOL_05",
+      "campaign": "ABBASID_BAGHDAD",
+      "title": "Двор, визири и Бармакиды",
+      "unlockMission": "ABB_05_02",
+      "cardIds": [
+        "ABB_A_05_01",
+        "ABB_A_05_02",
+        "ABB_A_05_03",
+        "ABB_A_05_04"
+      ]
+    },
+    {
+      "id": "ABB_POOL_06",
+      "campaign": "ABBASID_BAGHDAD",
+      "title": "Харун ар-Рашид и экономика империи",
+      "unlockMission": "ABB_06_02",
+      "cardIds": [
+        "ABB_A_06_01",
+        "ABB_A_06_02",
+        "ABB_A_06_03",
+        "ABB_A_06_04"
+      ]
+    },
+    {
+      "id": "ABB_POOL_07",
+      "campaign": "ABBASID_BAGHDAD",
+      "title": "Гражданская война аль-Амина и аль-Мамуна",
+      "unlockMission": "ABB_07_02",
+      "cardIds": [
+        "ABB_A_07_01",
+        "ABB_A_07_02",
+        "ABB_A_07_03",
+        "ABB_A_07_04"
+      ]
+    },
+    {
+      "id": "ABB_POOL_08",
+      "campaign": "ABBASID_BAGHDAD",
+      "title": "Переводы и производство знания",
+      "unlockMission": "ABB_08_02",
+      "cardIds": [
+        "ABB_A_08_01",
+        "ABB_A_08_02",
+        "ABB_A_08_03",
+        "ABB_A_08_04"
+      ]
+    },
+    {
+      "id": "ABB_POOL_09",
+      "campaign": "ABBASID_BAGHDAD",
+      "title": "Право, хадисы и религиозный авторитет",
+      "unlockMission": "ABB_09_02",
+      "cardIds": [
+        "ABB_A_09_01",
+        "ABB_A_09_02",
+        "ABB_A_09_03",
+        "ABB_A_09_04"
+      ]
+    },
+    {
+      "id": "ABB_POOL_10",
+      "campaign": "ABBASID_BAGHDAD",
+      "title": "Самарра и новая военная элита",
+      "unlockMission": "ABB_10_02",
+      "cardIds": [
+        "ABB_A_10_01",
+        "ABB_A_10_02",
+        "ABB_A_10_03",
+        "ABB_A_10_04"
+      ]
+    },
+    {
+      "id": "ABB_POOL_11",
+      "campaign": "ABBASID_BAGHDAD",
+      "title": "Региональные династии и новый исламский мир",
+      "unlockMission": "ABB_11_02",
+      "cardIds": [
+        "ABB_A_11_01",
+        "ABB_A_11_02",
+        "ABB_A_11_03",
+        "ABB_A_11_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "ABB_S_01_01": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 1
+    },
+    "ABB_S_01_02": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 1
+    },
+    "ABB_S_01_03": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 1
+    },
+    "ABB_S_01_04": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 1
+    },
+    "ABB_S_01_05": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 1
+    },
+    "ABB_S_01_06": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 1
+    },
+    "ABB_S_01_07": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 1
+    },
+    "ABB_S_01_08": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 1
+    },
+    "ABB_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_01",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_01",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_01",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_01",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_S_02_01": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 2
+    },
+    "ABB_S_02_02": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 2
+    },
+    "ABB_S_02_03": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 2
+    },
+    "ABB_S_02_04": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 2
+    },
+    "ABB_S_02_05": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 2
+    },
+    "ABB_S_02_06": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 2
+    },
+    "ABB_S_02_07": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 2
+    },
+    "ABB_S_02_08": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 2
+    },
+    "ABB_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_02",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_02",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_02",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_02",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_S_03_01": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 3
+    },
+    "ABB_S_03_02": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 3
+    },
+    "ABB_S_03_03": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 3
+    },
+    "ABB_S_03_04": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 3
+    },
+    "ABB_S_03_05": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 3
+    },
+    "ABB_S_03_06": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 3
+    },
+    "ABB_S_03_07": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 3
+    },
+    "ABB_S_03_08": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 3
+    },
+    "ABB_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_03",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_03",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_03",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_03",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_S_04_01": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 4
+    },
+    "ABB_S_04_02": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 4
+    },
+    "ABB_S_04_03": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 4
+    },
+    "ABB_S_04_04": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 4
+    },
+    "ABB_S_04_05": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 4
+    },
+    "ABB_S_04_06": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 4
+    },
+    "ABB_S_04_07": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 4
+    },
+    "ABB_S_04_08": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 4
+    },
+    "ABB_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_04",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_04",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_04",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_04",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_S_05_01": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 5
+    },
+    "ABB_S_05_02": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 5
+    },
+    "ABB_S_05_03": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 5
+    },
+    "ABB_S_05_04": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 5
+    },
+    "ABB_S_05_05": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 5
+    },
+    "ABB_S_05_06": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 5
+    },
+    "ABB_S_05_07": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 5
+    },
+    "ABB_S_05_08": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 5
+    },
+    "ABB_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_05",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_05",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_05",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_05",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_S_06_01": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 6
+    },
+    "ABB_S_06_02": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 6
+    },
+    "ABB_S_06_03": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 6
+    },
+    "ABB_S_06_04": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 6
+    },
+    "ABB_S_06_05": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 6
+    },
+    "ABB_S_06_06": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 6
+    },
+    "ABB_S_06_07": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 6
+    },
+    "ABB_S_06_08": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 6
+    },
+    "ABB_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_06",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_06",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_06",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_06",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_S_07_01": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 7
+    },
+    "ABB_S_07_02": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 7
+    },
+    "ABB_S_07_03": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 7
+    },
+    "ABB_S_07_04": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 7
+    },
+    "ABB_S_07_05": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 7
+    },
+    "ABB_S_07_06": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 7
+    },
+    "ABB_S_07_07": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 7
+    },
+    "ABB_S_07_08": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 7
+    },
+    "ABB_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_07",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_07",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_07",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_07",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_S_08_01": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 8
+    },
+    "ABB_S_08_02": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 8
+    },
+    "ABB_S_08_03": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 8
+    },
+    "ABB_S_08_04": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 8
+    },
+    "ABB_S_08_05": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 8
+    },
+    "ABB_S_08_06": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 8
+    },
+    "ABB_S_08_07": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 8
+    },
+    "ABB_S_08_08": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 8
+    },
+    "ABB_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_08",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_08",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_08",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_08",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_S_09_01": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 9
+    },
+    "ABB_S_09_02": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 9
+    },
+    "ABB_S_09_03": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 9
+    },
+    "ABB_S_09_04": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 9
+    },
+    "ABB_S_09_05": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 9
+    },
+    "ABB_S_09_06": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 9
+    },
+    "ABB_S_09_07": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 9
+    },
+    "ABB_S_09_08": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 9
+    },
+    "ABB_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_09",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_09",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_09",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_09",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_S_10_01": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 10
+    },
+    "ABB_S_10_02": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 10
+    },
+    "ABB_S_10_03": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 10
+    },
+    "ABB_S_10_04": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 10
+    },
+    "ABB_S_10_05": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 10
+    },
+    "ABB_S_10_06": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 10
+    },
+    "ABB_S_10_07": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 10
+    },
+    "ABB_S_10_08": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 10
+    },
+    "ABB_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_10",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_10",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_10",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_10",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_S_11_01": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 11
+    },
+    "ABB_S_11_02": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 11
+    },
+    "ABB_S_11_03": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 11
+    },
+    "ABB_S_11_04": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 11
+    },
+    "ABB_S_11_05": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 11
+    },
+    "ABB_S_11_06": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 11
+    },
+    "ABB_S_11_07": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 11
+    },
+    "ABB_S_11_08": {
+      "kind": "STORY",
+      "campaignId": "ABBASID_BAGHDAD",
+      "chapter": 11
+    },
+    "ABB_A_11_01": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_11",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_11_02": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_11",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_11_03": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_11",
+      "campaign": "ABBASID_BAGHDAD"
+    },
+    "ABB_A_11_04": {
+      "kind": "ARCHIVE",
+      "pool": "ABB_POOL_11",
+      "campaign": "ABBASID_BAGHDAD"
+    }
+  }
+}

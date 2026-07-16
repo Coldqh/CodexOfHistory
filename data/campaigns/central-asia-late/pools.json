@@ -1,0 +1,807 @@
+{
+  "campaignId": "CENTRAL_ASIA_LATE",
+  "campaigns": {
+    "CENTRAL_ASIA_LATE": {
+      "id": "CENTRAL_ASIA_LATE",
+      "title": "Центральная Азия после Хань",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "CAL_POOL_01",
+      "campaign": "CENTRAL_ASIA_LATE",
+      "title": "После кушанского единства",
+      "unlockMission": "CAL_01_02",
+      "cardIds": [
+        "CAL_A_01_01",
+        "CAL_A_01_02",
+        "CAL_A_01_03",
+        "CAL_A_01_04"
+      ]
+    },
+    {
+      "id": "CAL_POOL_02",
+      "campaign": "CENTRAL_ASIA_LATE",
+      "title": "Бактрия и Тохаристан",
+      "unlockMission": "CAL_02_02",
+      "cardIds": [
+        "CAL_A_02_01",
+        "CAL_A_02_02",
+        "CAL_A_02_03",
+        "CAL_A_02_04"
+      ]
+    },
+    {
+      "id": "CAL_POOL_03",
+      "campaign": "CENTRAL_ASIA_LATE",
+      "title": "Согдийские города",
+      "unlockMission": "CAL_03_02",
+      "cardIds": [
+        "CAL_A_03_01",
+        "CAL_A_03_02",
+        "CAL_A_03_03",
+        "CAL_A_03_04"
+      ]
+    },
+    {
+      "id": "CAL_POOL_04",
+      "campaign": "CENTRAL_ASIA_LATE",
+      "title": "Согдийские купцы и диаспоры",
+      "unlockMission": "CAL_04_02",
+      "cardIds": [
+        "CAL_A_04_01",
+        "CAL_A_04_02",
+        "CAL_A_04_03",
+        "CAL_A_04_04"
+      ]
+    },
+    {
+      "id": "CAL_POOL_05",
+      "campaign": "CENTRAL_ASIA_LATE",
+      "title": "Таримские оазисы",
+      "unlockMission": "CAL_05_02",
+      "cardIds": [
+        "CAL_A_05_01",
+        "CAL_A_05_02",
+        "CAL_A_05_03",
+        "CAL_A_05_04"
+      ]
+    },
+    {
+      "id": "CAL_POOL_06",
+      "campaign": "CENTRAL_ASIA_LATE",
+      "title": "Буддийские сети Центральной Азии",
+      "unlockMission": "CAL_06_02",
+      "cardIds": [
+        "CAL_A_06_01",
+        "CAL_A_06_02",
+        "CAL_A_06_03",
+        "CAL_A_06_04"
+      ]
+    },
+    {
+      "id": "CAL_POOL_07",
+      "campaign": "CENTRAL_ASIA_LATE",
+      "title": "Эфталитская держава",
+      "unlockMission": "CAL_07_02",
+      "cardIds": [
+        "CAL_A_07_01",
+        "CAL_A_07_02",
+        "CAL_A_07_03",
+        "CAL_A_07_04"
+      ]
+    },
+    {
+      "id": "CAL_POOL_08",
+      "campaign": "CENTRAL_ASIA_LATE",
+      "title": "Первый Тюркский каганат",
+      "unlockMission": "CAL_08_02",
+      "cardIds": [
+        "CAL_A_08_01",
+        "CAL_A_08_02",
+        "CAL_A_08_03",
+        "CAL_A_08_04"
+      ]
+    },
+    {
+      "id": "CAL_POOL_09",
+      "campaign": "CENTRAL_ASIA_LATE",
+      "title": "Города, образы и религии",
+      "unlockMission": "CAL_09_02",
+      "cardIds": [
+        "CAL_A_09_01",
+        "CAL_A_09_02",
+        "CAL_A_09_03",
+        "CAL_A_09_04"
+      ]
+    },
+    {
+      "id": "CAL_POOL_10",
+      "campaign": "CENTRAL_ASIA_LATE",
+      "title": "Западный Тюркский каганат",
+      "unlockMission": "CAL_10_02",
+      "cardIds": [
+        "CAL_A_10_01",
+        "CAL_A_10_02",
+        "CAL_A_10_03",
+        "CAL_A_10_04"
+      ]
+    },
+    {
+      "id": "CAL_POOL_11",
+      "campaign": "CENTRAL_ASIA_LATE",
+      "title": "Мир около 700 года",
+      "unlockMission": "CAL_11_02",
+      "cardIds": [
+        "CAL_A_11_01",
+        "CAL_A_11_02",
+        "CAL_A_11_03",
+        "CAL_A_11_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "CAL_S_01_01": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 1
+    },
+    "CAL_S_01_02": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 1
+    },
+    "CAL_S_01_03": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 1
+    },
+    "CAL_S_01_04": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 1
+    },
+    "CAL_S_01_05": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 1
+    },
+    "CAL_S_01_06": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 1
+    },
+    "CAL_S_01_07": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 1
+    },
+    "CAL_S_01_08": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 1
+    },
+    "CAL_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_01",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_01",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_01",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_01",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_S_02_01": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 2
+    },
+    "CAL_S_02_02": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 2
+    },
+    "CAL_S_02_03": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 2
+    },
+    "CAL_S_02_04": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 2
+    },
+    "CAL_S_02_05": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 2
+    },
+    "CAL_S_02_06": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 2
+    },
+    "CAL_S_02_07": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 2
+    },
+    "CAL_S_02_08": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 2
+    },
+    "CAL_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_02",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_02",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_02",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_02",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_S_03_01": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 3
+    },
+    "CAL_S_03_02": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 3
+    },
+    "CAL_S_03_03": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 3
+    },
+    "CAL_S_03_04": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 3
+    },
+    "CAL_S_03_05": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 3
+    },
+    "CAL_S_03_06": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 3
+    },
+    "CAL_S_03_07": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 3
+    },
+    "CAL_S_03_08": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 3
+    },
+    "CAL_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_03",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_03",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_03",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_03",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_S_04_01": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 4
+    },
+    "CAL_S_04_02": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 4
+    },
+    "CAL_S_04_03": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 4
+    },
+    "CAL_S_04_04": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 4
+    },
+    "CAL_S_04_05": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 4
+    },
+    "CAL_S_04_06": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 4
+    },
+    "CAL_S_04_07": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 4
+    },
+    "CAL_S_04_08": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 4
+    },
+    "CAL_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_04",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_04",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_04",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_04",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_S_05_01": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 5
+    },
+    "CAL_S_05_02": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 5
+    },
+    "CAL_S_05_03": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 5
+    },
+    "CAL_S_05_04": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 5
+    },
+    "CAL_S_05_05": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 5
+    },
+    "CAL_S_05_06": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 5
+    },
+    "CAL_S_05_07": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 5
+    },
+    "CAL_S_05_08": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 5
+    },
+    "CAL_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_05",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_05",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_05",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_05",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_S_06_01": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 6
+    },
+    "CAL_S_06_02": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 6
+    },
+    "CAL_S_06_03": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 6
+    },
+    "CAL_S_06_04": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 6
+    },
+    "CAL_S_06_05": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 6
+    },
+    "CAL_S_06_06": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 6
+    },
+    "CAL_S_06_07": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 6
+    },
+    "CAL_S_06_08": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 6
+    },
+    "CAL_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_06",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_06",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_06",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_06",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_S_07_01": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 7
+    },
+    "CAL_S_07_02": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 7
+    },
+    "CAL_S_07_03": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 7
+    },
+    "CAL_S_07_04": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 7
+    },
+    "CAL_S_07_05": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 7
+    },
+    "CAL_S_07_06": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 7
+    },
+    "CAL_S_07_07": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 7
+    },
+    "CAL_S_07_08": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 7
+    },
+    "CAL_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_07",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_07",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_07",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_07",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_S_08_01": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 8
+    },
+    "CAL_S_08_02": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 8
+    },
+    "CAL_S_08_03": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 8
+    },
+    "CAL_S_08_04": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 8
+    },
+    "CAL_S_08_05": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 8
+    },
+    "CAL_S_08_06": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 8
+    },
+    "CAL_S_08_07": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 8
+    },
+    "CAL_S_08_08": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 8
+    },
+    "CAL_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_08",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_08",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_08",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_08",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_S_09_01": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 9
+    },
+    "CAL_S_09_02": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 9
+    },
+    "CAL_S_09_03": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 9
+    },
+    "CAL_S_09_04": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 9
+    },
+    "CAL_S_09_05": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 9
+    },
+    "CAL_S_09_06": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 9
+    },
+    "CAL_S_09_07": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 9
+    },
+    "CAL_S_09_08": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 9
+    },
+    "CAL_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_09",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_09",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_09",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_09",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_S_10_01": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 10
+    },
+    "CAL_S_10_02": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 10
+    },
+    "CAL_S_10_03": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 10
+    },
+    "CAL_S_10_04": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 10
+    },
+    "CAL_S_10_05": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 10
+    },
+    "CAL_S_10_06": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 10
+    },
+    "CAL_S_10_07": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 10
+    },
+    "CAL_S_10_08": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 10
+    },
+    "CAL_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_10",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_10",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_10",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_10",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_S_11_01": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 11
+    },
+    "CAL_S_11_02": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 11
+    },
+    "CAL_S_11_03": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 11
+    },
+    "CAL_S_11_04": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 11
+    },
+    "CAL_S_11_05": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 11
+    },
+    "CAL_S_11_06": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 11
+    },
+    "CAL_S_11_07": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 11
+    },
+    "CAL_S_11_08": {
+      "kind": "STORY",
+      "campaignId": "CENTRAL_ASIA_LATE",
+      "chapter": 11
+    },
+    "CAL_A_11_01": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_11",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_11_02": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_11",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_11_03": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_11",
+      "campaign": "CENTRAL_ASIA_LATE"
+    },
+    "CAL_A_11_04": {
+      "kind": "ARCHIVE",
+      "pool": "CAL_POOL_11",
+      "campaign": "CENTRAL_ASIA_LATE"
+    }
+  }
+}

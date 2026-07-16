@@ -9,7 +9,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   <meta name="apple-mobile-web-app-title" content="Codex" />
-  <title>Codex of History — v7.2.0</title>
+  <title>Codex of History — v7.3.0</title>
   <link rel="manifest" href="manifest.webmanifest" />
   <link rel="icon" type="image/svg+xml" href="assets/ui/codex-app-icon.svg" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/ui/codex-favicon-32.png" />
@@ -18,7 +18,7 @@
   <link rel="apple-touch-icon" sizes="180x180" href="assets/ui/codex-icon-180.png" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
-  <link rel="stylesheet" href="styles.css?v=7.2.0" />
+  <link rel="stylesheet" href="styles.css?v=7.3.0" />
 </head>
 <body>
   <noscript>Нужен JavaScript: приложение хранит прогресс локально и собирает экраны на клиенте.</noscript>
@@ -29,7 +29,7 @@
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
   <script>
     (()=>{
-      const build='7.2.0';
+      const build='7.3.0';
       const standalone=window.matchMedia?.('(display-mode: standalone)').matches||navigator.standalone===true;
       if(!standalone)return;
       document.documentElement.classList.add('pwa-standalone');
@@ -40,9 +40,9 @@
         localStorage.removeItem('codex_history_visual_archive_v312');
         localStorage.removeItem('codex_history_visual_archive_v313');
       }catch{}
-      if('caches'in window)caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('codex-')&&!k.startsWith('codex-v7.2.0')).map(k=>caches.delete(k)))).catch(()=>{});
+      if('caches'in window)caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('codex-')&&!k.startsWith('codex-v7.3.0')).map(k=>caches.delete(k)))).catch(()=>{});
     })();
   </script>
-  <script src="js/bootstrap.js?v=7.2.0"></script>
+  <script src="js/bootstrap.js?v=7.3.0"></script>
 </body>
 </html>

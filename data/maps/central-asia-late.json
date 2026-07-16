@@ -1,0 +1,366 @@
+{
+  "points": {
+    "BALKH": [
+      36.76,
+      66.9
+    ],
+    "TERMEZ": [
+      37.22,
+      67.28
+    ],
+    "BAMIYAN": [
+      34.83,
+      67.83
+    ],
+    "KAPISA": [
+      34.98,
+      69.18
+    ],
+    "GANDHARA": [
+      34.0,
+      71.5
+    ],
+    "MERV": [
+      37.66,
+      62.17
+    ],
+    "SAMARKAND": [
+      39.65,
+      66.96
+    ],
+    "AFRASIAB": [
+      39.67,
+      66.99
+    ],
+    "PANJIKENT": [
+      39.49,
+      67.61
+    ],
+    "BUKHARA": [
+      39.77,
+      64.43
+    ],
+    "PAYKEND": [
+      39.5,
+      64.0
+    ],
+    "CHACH": [
+      41.31,
+      69.24
+    ],
+    "FERGANA": [
+      40.38,
+      71.79
+    ],
+    "KASHGAR": [
+      39.47,
+      75.99
+    ],
+    "KUCHA": [
+      41.72,
+      82.96
+    ],
+    "KHOTAN": [
+      37.11,
+      79.92
+    ],
+    "TURFAN": [
+      42.95,
+      89.18
+    ],
+    "GAOCHANG": [
+      42.85,
+      89.53
+    ],
+    "DUNHUANG": [
+      40.14,
+      94.66
+    ],
+    "NIYA": [
+      37.07,
+      82.69
+    ],
+    "KARASHahr": [
+      41.77,
+      86.15
+    ],
+    "SUYAB": [
+      42.8,
+      75.2
+    ],
+    "TALAS": [
+      42.9,
+      71.37
+    ],
+    "ALTAY": [
+      48.0,
+      89.0
+    ],
+    "OTUKEN": [
+      47.0,
+      102.0
+    ],
+    "CHANGAN": [
+      34.26,
+      108.94
+    ],
+    "LUOYANG": [
+      34.62,
+      112.45
+    ],
+    "CTESIPHON": [
+      33.09,
+      44.58
+    ],
+    "CONSTANTINOPLE": [
+      41.01,
+      28.98
+    ],
+    "HINDUKUSH": [
+      35.6,
+      69.5
+    ],
+    "ZERAVSHAN": [
+      39.5,
+      67.0
+    ],
+    "OXUS": [
+      37.0,
+      65.0
+    ],
+    "ILI": [
+      43.9,
+      81.3
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "CAL_S_01_01": "BALKH",
+    "CAL_S_01_02": "MERV",
+    "CAL_S_01_03": "BALKH",
+    "CAL_S_01_04": "BALKH",
+    "CAL_S_01_05": "KAPISA",
+    "CAL_S_01_06": "KAPISA",
+    "CAL_S_01_07": "GANDHARA",
+    "CAL_S_01_08": "HINDUKUSH",
+    "CAL_A_01_01": "MERV",
+    "CAL_A_01_02": "BALKH",
+    "CAL_A_01_03": "KAPISA",
+    "CAL_A_01_04": "GANDHARA",
+    "CAL_S_02_01": "BALKH",
+    "CAL_S_02_02": "TERMEZ",
+    "CAL_S_02_03": "BALKH",
+    "CAL_S_02_04": "OXUS",
+    "CAL_S_02_05": "BALKH",
+    "CAL_S_02_06": "HINDUKUSH",
+    "CAL_S_02_07": "TERMEZ",
+    "CAL_S_02_08": "BALKH",
+    "CAL_A_02_01": "TERMEZ",
+    "CAL_A_02_02": "BALKH",
+    "CAL_A_02_03": "TERMEZ",
+    "CAL_A_02_04": "BALKH",
+    "CAL_S_03_01": "SAMARKAND",
+    "CAL_S_03_02": "AFRASIAB",
+    "CAL_S_03_03": "PANJIKENT",
+    "CAL_S_03_04": "BUKHARA",
+    "CAL_S_03_05": "PAYKEND",
+    "CAL_S_03_06": "ZERAVSHAN",
+    "CAL_S_03_07": "SAMARKAND",
+    "CAL_S_03_08": "SAMARKAND",
+    "CAL_A_03_01": "SAMARKAND",
+    "CAL_A_03_02": "PANJIKENT",
+    "CAL_A_03_03": "PANJIKENT",
+    "CAL_A_03_04": "SAMARKAND",
+    "CAL_S_04_01": "DUNHUANG",
+    "CAL_S_04_02": "DUNHUANG",
+    "CAL_S_04_03": "CHANGAN",
+    "CAL_S_04_04": "KASHGAR",
+    "CAL_S_04_05": "SAMARKAND",
+    "CAL_S_04_06": "CHANGAN",
+    "CAL_S_04_07": "LUOYANG",
+    "CAL_S_04_08": "KASHGAR",
+    "CAL_A_04_01": "DUNHUANG",
+    "CAL_A_04_02": "CHANGAN",
+    "CAL_A_04_03": "CHANGAN",
+    "CAL_A_04_04": "KASHGAR",
+    "CAL_S_05_01": "KUCHA",
+    "CAL_S_05_02": "KHOTAN",
+    "CAL_S_05_03": "TURFAN",
+    "CAL_S_05_04": "GAOCHANG",
+    "CAL_S_05_05": "NIYA",
+    "CAL_S_05_06": "TURFAN",
+    "CAL_S_05_07": "KUCHA",
+    "CAL_S_05_08": "KASHGAR",
+    "CAL_A_05_01": "NIYA",
+    "CAL_A_05_02": "KHOTAN",
+    "CAL_A_05_03": "KUCHA",
+    "CAL_A_05_04": "GAOCHANG",
+    "CAL_S_06_01": "BAMIYAN",
+    "CAL_S_06_02": "KUCHA",
+    "CAL_S_06_03": "DUNHUANG",
+    "CAL_S_06_04": "BALKH",
+    "CAL_S_06_05": "KHOTAN",
+    "CAL_S_06_06": "CHANGAN",
+    "CAL_S_06_07": "KUCHA",
+    "CAL_S_06_08": "BAMIYAN",
+    "CAL_A_06_01": "BAMIYAN",
+    "CAL_A_06_02": "KHOTAN",
+    "CAL_A_06_03": "DUNHUANG",
+    "CAL_A_06_04": "KUCHA",
+    "CAL_S_07_01": "BALKH",
+    "CAL_S_07_02": "MERV",
+    "CAL_S_07_03": "BALKH",
+    "CAL_S_07_04": "SAMARKAND",
+    "CAL_S_07_05": "BALKH",
+    "CAL_S_07_06": "TERMEZ",
+    "CAL_S_07_07": "MERV",
+    "CAL_S_07_08": "HINDUKUSH",
+    "CAL_A_07_01": "BALKH",
+    "CAL_A_07_02": "TERMEZ",
+    "CAL_A_07_03": "MERV",
+    "CAL_A_07_04": "BALKH",
+    "CAL_S_08_01": "OTUKEN",
+    "CAL_S_08_02": "ILI",
+    "CAL_S_08_03": "ALTAY",
+    "CAL_S_08_04": "OTUKEN",
+    "CAL_S_08_05": "SUYAB",
+    "CAL_S_08_06": "ILI",
+    "CAL_S_08_07": "ALTAY",
+    "CAL_S_08_08": "OTUKEN",
+    "CAL_A_08_01": "ALTAY",
+    "CAL_A_08_02": "OTUKEN",
+    "CAL_A_08_03": "ALTAY",
+    "CAL_A_08_04": "SAMARKAND",
+    "CAL_S_09_01": "AFRASIAB",
+    "CAL_S_09_02": "PANJIKENT",
+    "CAL_S_09_03": "SAMARKAND",
+    "CAL_S_09_04": "MERV",
+    "CAL_S_09_05": "SAMARKAND",
+    "CAL_S_09_06": "BALKH",
+    "CAL_S_09_07": "PANJIKENT",
+    "CAL_S_09_08": "AFRASIAB",
+    "CAL_A_09_01": "AFRASIAB",
+    "CAL_A_09_02": "PANJIKENT",
+    "CAL_A_09_03": "SAMARKAND",
+    "CAL_A_09_04": "MERV",
+    "CAL_S_10_01": "SUYAB",
+    "CAL_S_10_02": "SUYAB",
+    "CAL_S_10_03": "ILI",
+    "CAL_S_10_04": "SUYAB",
+    "CAL_S_10_05": "TALAS",
+    "CAL_S_10_06": "SAMARKAND",
+    "CAL_S_10_07": "ILI",
+    "CAL_S_10_08": "SUYAB",
+    "CAL_A_10_01": "SUYAB",
+    "CAL_A_10_02": "ILI",
+    "CAL_A_10_03": "CHANGAN",
+    "CAL_A_10_04": "SAMARKAND",
+    "CAL_S_11_01": "KUCHA",
+    "CAL_S_11_02": "GAOCHANG",
+    "CAL_S_11_03": "OTUKEN",
+    "CAL_S_11_04": "KHOTAN",
+    "CAL_S_11_05": "MERV",
+    "CAL_S_11_06": "SAMARKAND",
+    "CAL_S_11_07": "CHANGAN",
+    "CAL_S_11_08": "SAMARKAND",
+    "CAL_A_11_01": "AFRASIAB",
+    "CAL_A_11_02": "CHANGAN",
+    "CAL_A_11_03": "MERV",
+    "CAL_A_11_04": "OTUKEN"
+  },
+  "chapters": {
+    "CAL_CHAPTER_01": {
+      "title": "После кушанского единства",
+      "center": [
+        36.76,
+        66.9
+      ],
+      "zoom": 6
+    },
+    "CAL_CHAPTER_02": {
+      "title": "Бактрия и Тохаристан",
+      "center": [
+        36.76,
+        66.9
+      ],
+      "zoom": 6
+    },
+    "CAL_CHAPTER_03": {
+      "title": "Согдийские города",
+      "center": [
+        39.65,
+        66.96
+      ],
+      "zoom": 6
+    },
+    "CAL_CHAPTER_04": {
+      "title": "Согдийские купцы и диаспоры",
+      "center": [
+        39.65,
+        66.96
+      ],
+      "zoom": 6
+    },
+    "CAL_CHAPTER_05": {
+      "title": "Таримские оазисы",
+      "center": [
+        41.72,
+        82.96
+      ],
+      "zoom": 6
+    },
+    "CAL_CHAPTER_06": {
+      "title": "Буддийские сети Центральной Азии",
+      "center": [
+        34.83,
+        67.83
+      ],
+      "zoom": 6
+    },
+    "CAL_CHAPTER_07": {
+      "title": "Эфталитская держава",
+      "center": [
+        36.76,
+        66.9
+      ],
+      "zoom": 6
+    },
+    "CAL_CHAPTER_08": {
+      "title": "Первый Тюркский каганат",
+      "center": [
+        47.0,
+        102.0
+      ],
+      "zoom": 6
+    },
+    "CAL_CHAPTER_09": {
+      "title": "Города, образы и религии",
+      "center": [
+        39.67,
+        66.99
+      ],
+      "zoom": 6
+    },
+    "CAL_CHAPTER_10": {
+      "title": "Западный Тюркский каганат",
+      "center": [
+        42.8,
+        75.2
+      ],
+      "zoom": 6
+    },
+    "CAL_CHAPTER_11": {
+      "title": "Мир около 700 года",
+      "center": [
+        34.26,
+        108.94
+      ],
+      "zoom": 6
+    }
+  },
+  "missionCenter": [
+    40.0,
+    72.0
+  ],
+  "missionZoom": 3
+}

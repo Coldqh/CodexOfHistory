@@ -366,3 +366,7 @@
 ## v7.2 — Сасанидский Иран
 
 Локальные SVG-обложки 132 карточек и обложка пака созданы для Codex of History. Учебная основа: Metropolitan Museum of Art, Encyclopaedia Iranica, Encyclopaedia Britannica, надпись Шапура I и исследования по сасанидским монетам, печатям, религиозным общинам и пограничным системам.
+
+## v7.3 — Центральная Азия после Хань
+
+Локальные SVG-обложки 132 карточек и обложка пака созданы для Codex of History. Учебная основа: UNESCO Silk Roads Programme, UNESCO Samarkand и Bamiyan, Metropolitan Museum of Art, British Library, British Museum и справочные исследования по Согдиане, Бактрии, Тариму, эфталитам и тюркским каганатам.

@@ -1,6 +1,6 @@
-/* Codex v8.3.0 — Sasanian Iran */
+/* Codex v8.4.0 — Sasanian Iran */
 (()=>{
-  const V='8.3.0';
+  const V='8.4.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.SASANIAN='SASANIAN';
   state.sasanianPhase=state.sasanianPhase||'DYNASTIC_FOUNDATION';

@@ -407,3 +407,8 @@
 ## v8.3 — Византия: от иконоборчества до Василия II
 
 Локальные SVG-обложки 132 карточек и кампанийного пака созданы для Codex of History. Источниковая рамка опирается на Encyclopaedia Britannica, UNESCO Paleochristian and Byzantine Monuments of Thessalonika, Metropolitan Museum of Art и исследовательские материалы Dumbarton Oaks по византийским печатям, рукописям и праву.
+
+
+## v8.4 — Викинги и Северная Атлантика
+
+Локальные SVG-обложки 132 карточек и кампанийного пака созданы для Codex of History. Источниковая рамка опирается на National Museum of Denmark, Viking Ship Museum Roskilde, Metropolitan Museum of Art, UNESCO Þingvellir и UNESCO L’Anse aux Meadows.

@@ -1,6 +1,6 @@
-/* Codex v8.3.0 — Abbasid revolution and Baghdad */
+/* Codex v8.4.0 — Abbasid revolution and Baghdad */
 (()=>{
-  const V='8.3.0';
+  const V='8.4.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.ABBASID_BAGHDAD='ABBASID_BAGHDAD';
   state.abbasidPhase=state.abbasidPhase||'REVOLUTION';

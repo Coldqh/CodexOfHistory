@@ -1,0 +1,366 @@
+{
+  "points": {
+    "RIBE": [
+      55.3285,
+      8.7622
+    ],
+    "HEDEBY": [
+      54.5,
+      9.57
+    ],
+    "JELLING": [
+      55.7553,
+      9.42
+    ],
+    "ROSKILDE": [
+      55.6419,
+      12.0878
+    ],
+    "BIRKA": [
+      59.335,
+      17.542
+    ],
+    "UPPSALA": [
+      59.8586,
+      17.6389
+    ],
+    "KAUPANG": [
+      59.035,
+      10.1
+    ],
+    "OSEBERG": [
+      59.3,
+      10.45
+    ],
+    "TRONDHEIM": [
+      63.4305,
+      10.3951
+    ],
+    "LINDISFARNE": [
+      55.669,
+      -1.786
+    ],
+    "YORK": [
+      53.959,
+      -1.0815
+    ],
+    "DUBLIN": [
+      53.3498,
+      -6.2603
+    ],
+    "ROUEN": [
+      49.4431,
+      1.0993
+    ],
+    "PARIS": [
+      48.8566,
+      2.3522
+    ],
+    "LONDON": [
+      51.5074,
+      -0.1278
+    ],
+    "REPTON": [
+      52.84,
+      -1.55
+    ],
+    "WINCHESTER": [
+      51.0632,
+      -1.308
+    ],
+    "ORKNEY": [
+      58.98,
+      -2.96
+    ],
+    "SHETLAND": [
+      60.35,
+      -1.2
+    ],
+    "THINGVELLIR": [
+      64.2559,
+      -21.13
+    ],
+    "REYKJAVIK": [
+      64.1466,
+      -21.9426
+    ],
+    "BRATTAHLID": [
+      61.16,
+      -45.52
+    ],
+    "LANSE": [
+      51.5965,
+      -55.5334
+    ],
+    "VINLAND": [
+      49.8,
+      -56.0
+    ],
+    "STARAYA_LADOGA": [
+      59.998,
+      32.295
+    ],
+    "NOVGOROD": [
+      58.5256,
+      31.2742
+    ],
+    "KYIV": [
+      50.4501,
+      30.5234
+    ],
+    "CONSTANTINOPLE": [
+      41.0082,
+      28.9784
+    ],
+    "BAGHDAD": [
+      33.3152,
+      44.3661
+    ],
+    "VOLGA": [
+      55.8,
+      48.7
+    ],
+    "STIKLESTAD": [
+      63.794,
+      11.557
+    ],
+    "CANTERBURY": [
+      51.2802,
+      1.0789
+    ],
+    "GOKSTAD": [
+      59.14,
+      10.22
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "VIK_S_01_01": "JELLING",
+    "VIK_S_01_02": "UPPSALA",
+    "VIK_S_01_03": "JELLING",
+    "VIK_S_01_04": "RIBE",
+    "VIK_S_01_05": "RIBE",
+    "VIK_S_01_06": "UPPSALA",
+    "VIK_S_01_07": "OSEBERG",
+    "VIK_S_01_08": "RIBE",
+    "VIK_A_01_01": "RIBE",
+    "VIK_A_01_02": "OSEBERG",
+    "VIK_A_01_03": "RIBE",
+    "VIK_A_01_04": "JELLING",
+    "VIK_S_02_01": "ROSKILDE",
+    "VIK_S_02_02": "ROSKILDE",
+    "VIK_S_02_03": "ORKNEY",
+    "VIK_S_02_04": "OSEBERG",
+    "VIK_S_02_05": "GOKSTAD",
+    "VIK_S_02_06": "ROSKILDE",
+    "VIK_S_02_07": "GOKSTAD",
+    "VIK_S_02_08": "ROSKILDE",
+    "VIK_A_02_01": "ROSKILDE",
+    "VIK_A_02_02": "ROSKILDE",
+    "VIK_A_02_03": "ROSKILDE",
+    "VIK_A_02_04": "GOKSTAD",
+    "VIK_S_03_01": "LINDISFARNE",
+    "VIK_S_03_02": "LINDISFARNE",
+    "VIK_S_03_03": "WINCHESTER",
+    "VIK_S_03_04": "DUBLIN",
+    "VIK_S_03_05": "DUBLIN",
+    "VIK_S_03_06": "PARIS",
+    "VIK_S_03_07": "DUBLIN",
+    "VIK_S_03_08": "LINDISFARNE",
+    "VIK_A_03_01": "WINCHESTER",
+    "VIK_A_03_02": "LINDISFARNE",
+    "VIK_A_03_03": "DUBLIN",
+    "VIK_A_03_04": "LINDISFARNE",
+    "VIK_S_04_01": "HEDEBY",
+    "VIK_S_04_02": "BIRKA",
+    "VIK_S_04_03": "KAUPANG",
+    "VIK_S_04_04": "BIRKA",
+    "VIK_S_04_05": "HEDEBY",
+    "VIK_S_04_06": "RIBE",
+    "VIK_S_04_07": "HEDEBY",
+    "VIK_S_04_08": "BIRKA",
+    "VIK_A_04_01": "BIRKA",
+    "VIK_A_04_02": "HEDEBY",
+    "VIK_A_04_03": "RIBE",
+    "VIK_A_04_04": "KAUPANG",
+    "VIK_S_05_01": "REPTON",
+    "VIK_S_05_02": "REPTON",
+    "VIK_S_05_03": "YORK",
+    "VIK_S_05_04": "DUBLIN",
+    "VIK_S_05_05": "YORK",
+    "VIK_S_05_06": "WINCHESTER",
+    "VIK_S_05_07": "YORK",
+    "VIK_S_05_08": "YORK",
+    "VIK_A_05_01": "REPTON",
+    "VIK_A_05_02": "YORK",
+    "VIK_A_05_03": "DUBLIN",
+    "VIK_A_05_04": "YORK",
+    "VIK_S_06_01": "PARIS",
+    "VIK_S_06_02": "PARIS",
+    "VIK_S_06_03": "ROUEN",
+    "VIK_S_06_04": "ROUEN",
+    "VIK_S_06_05": "ROUEN",
+    "VIK_S_06_06": "ROUEN",
+    "VIK_S_06_07": "ROUEN",
+    "VIK_S_06_08": "ROUEN",
+    "VIK_A_06_01": "PARIS",
+    "VIK_A_06_02": "ROUEN",
+    "VIK_A_06_03": "ROUEN",
+    "VIK_A_06_04": "PARIS",
+    "VIK_S_07_01": "STARAYA_LADOGA",
+    "VIK_S_07_02": "NOVGOROD",
+    "VIK_S_07_03": "KYIV",
+    "VIK_S_07_04": "KYIV",
+    "VIK_S_07_05": "CONSTANTINOPLE",
+    "VIK_S_07_06": "VOLGA",
+    "VIK_S_07_07": "BAGHDAD",
+    "VIK_S_07_08": "NOVGOROD",
+    "VIK_A_07_01": "STARAYA_LADOGA",
+    "VIK_A_07_02": "BIRKA",
+    "VIK_A_07_03": "VOLGA",
+    "VIK_A_07_04": "NOVGOROD",
+    "VIK_S_08_01": "REYKJAVIK",
+    "VIK_S_08_02": "THINGVELLIR",
+    "VIK_S_08_03": "THINGVELLIR",
+    "VIK_S_08_04": "THINGVELLIR",
+    "VIK_S_08_05": "REYKJAVIK",
+    "VIK_S_08_06": "ORKNEY",
+    "VIK_S_08_07": "THINGVELLIR",
+    "VIK_S_08_08": "REYKJAVIK",
+    "VIK_A_08_01": "REYKJAVIK",
+    "VIK_A_08_02": "REYKJAVIK",
+    "VIK_A_08_03": "REYKJAVIK",
+    "VIK_A_08_04": "THINGVELLIR",
+    "VIK_S_09_01": "BRATTAHLID",
+    "VIK_S_09_02": "BRATTAHLID",
+    "VIK_S_09_03": "BRATTAHLID",
+    "VIK_S_09_04": "BRATTAHLID",
+    "VIK_S_09_05": "BRATTAHLID",
+    "VIK_S_09_06": "BRATTAHLID",
+    "VIK_S_09_07": "BRATTAHLID",
+    "VIK_S_09_08": "BRATTAHLID",
+    "VIK_A_09_01": "BRATTAHLID",
+    "VIK_A_09_02": "BRATTAHLID",
+    "VIK_A_09_03": "BRATTAHLID",
+    "VIK_A_09_04": "ORKNEY",
+    "VIK_S_10_01": "LANSE",
+    "VIK_S_10_02": "LANSE",
+    "VIK_S_10_03": "LANSE",
+    "VIK_S_10_04": "LANSE",
+    "VIK_S_10_05": "VINLAND",
+    "VIK_S_10_06": "VINLAND",
+    "VIK_S_10_07": "LANSE",
+    "VIK_S_10_08": "LANSE",
+    "VIK_A_10_01": "LANSE",
+    "VIK_A_10_02": "LANSE",
+    "VIK_A_10_03": "LANSE",
+    "VIK_A_10_04": "THINGVELLIR",
+    "VIK_S_11_01": "JELLING",
+    "VIK_S_11_02": "JELLING",
+    "VIK_S_11_03": "JELLING",
+    "VIK_S_11_04": "TRONDHEIM",
+    "VIK_S_11_05": "STIKLESTAD",
+    "VIK_S_11_06": "LONDON",
+    "VIK_S_11_07": "ROSKILDE",
+    "VIK_S_11_08": "LONDON",
+    "VIK_A_11_01": "JELLING",
+    "VIK_A_11_02": "JELLING",
+    "VIK_A_11_03": "LONDON",
+    "VIK_A_11_04": "TRONDHEIM"
+  },
+  "chapters": {
+    "VIK_CHAPTER_01": {
+      "title": "Скандинавия перед эпохой походов",
+      "center": [
+        55.3285,
+        8.7622
+      ],
+      "zoom": 5
+    },
+    "VIK_CHAPTER_02": {
+      "title": "Корабли, море и навигация",
+      "center": [
+        55.6419,
+        12.0878
+      ],
+      "zoom": 5
+    },
+    "VIK_CHAPTER_03": {
+      "title": "Набеги и западные хроники",
+      "center": [
+        55.669,
+        -1.786
+      ],
+      "zoom": 5
+    },
+    "VIK_CHAPTER_04": {
+      "title": "Торговые города и серебряные сети",
+      "center": [
+        54.5,
+        9.57
+      ],
+      "zoom": 5
+    },
+    "VIK_CHAPTER_05": {
+      "title": "Британия, Ирландия и новые политические центры",
+      "center": [
+        53.3498,
+        -6.2603
+      ],
+      "zoom": 5
+    },
+    "VIK_CHAPTER_06": {
+      "title": "Франкские берега и рождение Нормандии",
+      "center": [
+        48.8566,
+        2.3522
+      ],
+      "zoom": 5
+    },
+    "VIK_CHAPTER_07": {
+      "title": "Восточные пути, Русь и исламское серебро",
+      "center": [
+        59.998,
+        32.295
+      ],
+      "zoom": 5
+    },
+    "VIK_CHAPTER_08": {
+      "title": "Исландия и общество переселенцев",
+      "center": [
+        64.2559,
+        -21.13
+      ],
+      "zoom": 5
+    },
+    "VIK_CHAPTER_09": {
+      "title": "Гренландия: поселение на краю Атлантики",
+      "center": [
+        61.16,
+        -45.52
+      ],
+      "zoom": 5
+    },
+    "VIK_CHAPTER_10": {
+      "title": "Винланд и Л’Анс-о-Медоус",
+      "center": [
+        51.5965,
+        -55.5334
+      ],
+      "zoom": 5
+    },
+    "VIK_CHAPTER_11": {
+      "title": "Короли, крещение и конец эпохи",
+      "center": [
+        55.7553,
+        9.42
+      ],
+      "zoom": 5
+    }
+  },
+  "missionCenter": [
+    58.0,
+    -8.0
+  ],
+  "missionZoom": 3
+}

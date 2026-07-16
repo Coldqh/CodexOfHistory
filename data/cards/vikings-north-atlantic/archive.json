@@ -1,0 +1,2598 @@
+[
+  {
+    "id": "VIK_A_01_01",
+    "type": "ARTEFACT",
+    "title": "Ключ от скандинавской усадьбы",
+    "original": "Ключ от скандинавской усадьбы",
+    "subtitle": "предмет связывают с управлением домом, но символический смысл зависит от контекста",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "VIII–X века",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Ключ от скандинавской усадьбы — предмет связывают с управлением домом, но символический смысл зависит от контекста.",
+    "importance": "Архивная карточка углубляет главу «Скандинавия перед эпохой походов» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–X века.",
+      "Основной смысл: предмет связывают с управлением домом, но символический смысл зависит от контекста.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Скандинавия перед эпохой походов",
+      "artefact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рибе",
+      "lat": 55.3285,
+      "lon": 8.7622
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-01/vik_a_01_01.svg",
+      "caption": "Локальная учебная обложка: Ключ от скандинавской усадьбы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_01_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "National Museum of Denmark: The Viking Age",
+      "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_01"
+  },
+  {
+    "id": "VIK_A_01_02",
+    "type": "BURIAL",
+    "title": "Погребение знатной женщины в Осеберге",
+    "original": "Погребение знатной женщины в Осеберге",
+    "subtitle": "богатый корабельный комплекс показывает статус, ритуал и труд множества людей",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "834 год",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Погребение знатной женщины в Осеберге — богатый корабельный комплекс показывает статус, ритуал и труд множества людей.",
+    "importance": "Архивная карточка углубляет главу «Скандинавия перед эпохой походов» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: 834 год.",
+      "Основной смысл: богатый корабельный комплекс показывает статус, ритуал и труд множества людей.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Скандинавия перед эпохой походов",
+      "burial"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 6,
+      "culture": 9,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Осеберг",
+      "lat": 59.3,
+      "lon": 10.45
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-01/vik_a_01_02.svg",
+      "caption": "Локальная учебная обложка: Погребение знатной женщины в Осеберге",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_01_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "National Museum of Denmark: The Viking Age",
+      "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_01"
+  },
+  {
+    "id": "VIK_A_01_03",
+    "type": "ARTEFACT",
+    "title": "Весы и гирьки торговца",
+    "original": "Весы и гирьки торговца",
+    "subtitle": "точное взвешивание серебра поддерживало сделки до единой монетной системы",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "VIII–X века",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Весы и гирьки торговца — точное взвешивание серебра поддерживало сделки до единой монетной системы.",
+    "importance": "Архивная карточка углубляет главу «Скандинавия перед эпохой походов» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–X века.",
+      "Основной смысл: точное взвешивание серебра поддерживало сделки до единой монетной системы.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Скандинавия перед эпохой походов",
+      "artefact"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рибе",
+      "lat": 55.3285,
+      "lon": 8.7622
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-01/vik_a_01_03.svg",
+      "caption": "Локальная учебная обложка: Весы и гирьки торговца",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_01_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "National Museum of Denmark: The Viking Age",
+      "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_01"
+  },
+  {
+    "id": "VIK_A_01_04",
+    "type": "MAP",
+    "title": "Карта археологических центров Скандинавии",
+    "original": "Карта археологических центров Скандинавии",
+    "subtitle": "распределение находок показывает региональные различия и неравномерность исследований",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "VIII век",
+    "rarity": "LEGENDARY",
+    "difficulty": 14,
+    "summary": "Карта археологических центров Скандинавии — распределение находок показывает региональные различия и неравномерность исследований.",
+    "importance": "Архивная карточка углубляет главу «Скандинавия перед эпохой походов» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII век.",
+      "Основной смысл: распределение находок показывает региональные различия и неравномерность исследований.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Скандинавия перед эпохой походов",
+      "map"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 7,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Йеллинг",
+      "lat": 55.7553,
+      "lon": 9.42
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-01/vik_a_01_04.svg",
+      "caption": "Локальная учебная обложка: Карта археологических центров Скандинавии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_01_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "National Museum of Denmark: The Viking Age",
+      "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_01"
+  },
+  {
+    "id": "VIK_A_02_01",
+    "type": "ARCHAEOLOGY",
+    "title": "Корабли Скуляделев",
+    "original": "Корабли Скуляделев",
+    "subtitle": "пять судов представляют разные функции от войны до перевозки грузов",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "XI век",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Корабли Скуляделев — пять судов представляют разные функции от войны до перевозки грузов.",
+    "importance": "Архивная карточка углубляет главу «Корабли, море и навигация» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: XI век.",
+      "Основной смысл: пять судов представляют разные функции от войны до перевозки грузов.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Корабли, море и навигация",
+      "archaeology"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Роскилле",
+      "lat": 55.6419,
+      "lon": 12.0878
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-02/vik_a_02_01.svg",
+      "caption": "Локальная учебная обложка: Корабли Скуляделев",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.vikingeskibsmuseet.dk/en/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_02_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Viking Ship Museum Roskilde: Viking ships and maritime archaeology",
+      "url": "https://www.vikingeskibsmuseet.dk/en/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_02"
+  },
+  {
+    "id": "VIK_A_02_02",
+    "type": "ARTEFACT",
+    "title": "Железная корабельная заклёпка",
+    "original": "Железная корабельная заклёпка",
+    "subtitle": "малый предмет фиксирует технологию корпуса и масштаб кузнечного труда",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "VIII–XI века",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Железная корабельная заклёпка — малый предмет фиксирует технологию корпуса и масштаб кузнечного труда.",
+    "importance": "Архивная карточка углубляет главу «Корабли, море и навигация» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–XI века.",
+      "Основной смысл: малый предмет фиксирует технологию корпуса и масштаб кузнечного труда.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Корабли, море и навигация",
+      "artefact"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 7,
+      "culture": 6,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Роскилле",
+      "lat": 55.6419,
+      "lon": 12.0878
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-02/vik_a_02_02.svg",
+      "caption": "Локальная учебная обложка: Железная корабельная заклёпка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.vikingeskibsmuseet.dk/en/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_02_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Viking Ship Museum Roskilde: Viking ships and maritime archaeology",
+      "url": "https://www.vikingeskibsmuseet.dk/en/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_02"
+  },
+  {
+    "id": "VIK_A_02_03",
+    "type": "EXPERIMENT",
+    "title": "Реконструкция морского перехода",
+    "original": "Реконструкция морского перехода",
+    "subtitle": "плавание реплики проверяет скорость и управление, но не повторяет все исторические условия",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "XX–XXI века",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Реконструкция морского перехода — плавание реплики проверяет скорость и управление, но не повторяет все исторические условия.",
+    "importance": "Архивная карточка углубляет главу «Корабли, море и навигация» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: XX–XXI века.",
+      "Основной смысл: плавание реплики проверяет скорость и управление, но не повторяет все исторические условия.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Корабли, море и навигация",
+      "experiment"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 8,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Роскилле",
+      "lat": 55.6419,
+      "lon": 12.0878
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-02/vik_a_02_03.svg",
+      "caption": "Локальная учебная обложка: Реконструкция морского перехода",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.vikingeskibsmuseet.dk/en/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_02_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Viking Ship Museum Roskilde: Viking ships and maritime archaeology",
+      "url": "https://www.vikingeskibsmuseet.dk/en/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_02"
+  },
+  {
+    "id": "VIK_A_02_04",
+    "type": "ARCHAEOLOGY",
+    "title": "Следы ремонта корпуса",
+    "original": "Следы ремонта корпуса",
+    "subtitle": "заплаты и сменённые детали показывают жизненный цикл судна",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "VIII–XI века",
+    "rarity": "LEGENDARY",
+    "difficulty": 14,
+    "summary": "Следы ремонта корпуса — заплаты и сменённые детали показывают жизненный цикл судна.",
+    "importance": "Архивная карточка углубляет главу «Корабли, море и навигация» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–XI века.",
+      "Основной смысл: заплаты и сменённые детали показывают жизненный цикл судна.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Корабли, море и навигация",
+      "archaeology"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 8,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Гокстад",
+      "lat": 59.14,
+      "lon": 10.22
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-02/vik_a_02_04.svg",
+      "caption": "Локальная учебная обложка: Следы ремонта корпуса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.vikingeskibsmuseet.dk/en/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_02_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Viking Ship Museum Roskilde: Viking ships and maritime archaeology",
+      "url": "https://www.vikingeskibsmuseet.dk/en/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_02"
+  },
+  {
+    "id": "VIK_A_03_01",
+    "type": "MANUSCRIPT",
+    "title": "Запись о 793 годе",
+    "original": "Запись о 793 годе",
+    "subtitle": "позднейшая рукопись сохраняет рассказ о нападении и его религиозную рамку",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "IX–XII века",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Запись о 793 годе — позднейшая рукопись сохраняет рассказ о нападении и его религиозную рамку.",
+    "importance": "Архивная карточка углубляет главу «Набеги и западные хроники» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–XII века.",
+      "Основной смысл: позднейшая рукопись сохраняет рассказ о нападении и его религиозную рамку.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Набеги и западные хроники",
+      "manuscript"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 6,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Уинчестер",
+      "lat": 51.0632,
+      "lon": -1.308
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-03/vik_a_03_01.svg",
+      "caption": "Локальная учебная обложка: Запись о 793 годе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_03_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Vikings (780–1100)",
+      "url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_03"
+  },
+  {
+    "id": "VIK_A_03_02",
+    "type": "HOARD",
+    "title": "Спрятанный серебряный клад",
+    "original": "Спрятанный серебряный клад",
+    "subtitle": "сокрытие ценностей может отражать опасность, но не всегда связано с конкретным набегом",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "IX век",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Спрятанный серебряный клад — сокрытие ценностей может отражать опасность, но не всегда связано с конкретным набегом.",
+    "importance": "Архивная карточка углубляет главу «Набеги и западные хроники» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: сокрытие ценностей может отражать опасность, но не всегда связано с конкретным набегом.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Набеги и западные хроники",
+      "hoard"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 8,
+      "culture": 7,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Линдисфарн",
+      "lat": 55.669,
+      "lon": -1.786
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-03/vik_a_03_02.svg",
+      "caption": "Локальная учебная обложка: Спрятанный серебряный клад",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_03_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Vikings (780–1100)",
+      "url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_03"
+  },
+  {
+    "id": "VIK_A_03_03",
+    "type": "ARTEFACT",
+    "title": "Оковы или железные цепи из торгового центра",
+    "original": "Оковы или железные цепи из торгового центра",
+    "subtitle": "предметы требуют осторожности при связи с рабством и насилием",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "VIII–X века",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Оковы или железные цепи из торгового центра — предметы требуют осторожности при связи с рабством и насилием.",
+    "importance": "Архивная карточка углубляет главу «Набеги и западные хроники» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–X века.",
+      "Основной смысл: предметы требуют осторожности при связи с рабством и насилием.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Набеги и западные хроники",
+      "artefact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 3,
+      "culture": 8,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Дублин",
+      "lat": 53.3498,
+      "lon": -6.2603
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-03/vik_a_03_03.svg",
+      "caption": "Локальная учебная обложка: Оковы или железные цепи из торгового центра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_03_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Vikings (780–1100)",
+      "url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_03"
+  },
+  {
+    "id": "VIK_A_03_04",
+    "type": "MAP",
+    "title": "Карта ранних нападений",
+    "original": "Карта ранних нападений",
+    "subtitle": "точки отражают сохранность письменных записей не меньше, чем реальную интенсивность",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "793–850 годы",
+    "rarity": "LEGENDARY",
+    "difficulty": 14,
+    "summary": "Карта ранних нападений — точки отражают сохранность письменных записей не меньше, чем реальную интенсивность.",
+    "importance": "Архивная карточка углубляет главу «Набеги и западные хроники» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: 793–850 годы.",
+      "Основной смысл: точки отражают сохранность письменных записей не меньше, чем реальную интенсивность.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Набеги и западные хроники",
+      "map"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 5,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Линдисфарн",
+      "lat": 55.669,
+      "lon": -1.786
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-03/vik_a_03_04.svg",
+      "caption": "Локальная учебная обложка: Карта ранних нападений",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_03_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Vikings (780–1100)",
+      "url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_03"
+  },
+  {
+    "id": "VIK_A_04_01",
+    "type": "HOARD",
+    "title": "Клад арабских дирхемов",
+    "original": "Клад арабских дирхемов",
+    "subtitle": "состав монет помогает датировать потоки серебра и их остановки",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "IX–X века",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Клад арабских дирхемов — состав монет помогает датировать потоки серебра и их остановки.",
+    "importance": "Архивная карточка углубляет главу «Торговые города и серебряные сети» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: состав монет помогает датировать потоки серебра и их остановки.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Торговые города и серебряные сети",
+      "hoard"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 7,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Бирка",
+      "lat": 59.335,
+      "lon": 17.542
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-04/vik_a_04_01.svg",
+      "caption": "Локальная учебная обложка: Клад арабских дирхемов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "National Museum of Denmark: The Viking Age",
+      "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_04"
+  },
+  {
+    "id": "VIK_A_04_02",
+    "type": "ARTEFACT",
+    "title": "Гирька с геометрическим орнаментом",
+    "original": "Гирька с геометрическим орнаментом",
+    "subtitle": "стандарты веса были практическим инструментом многоязычного рынка",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "VIII–X века",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Гирька с геометрическим орнаментом — стандарты веса были практическим инструментом многоязычного рынка.",
+    "importance": "Архивная карточка углубляет главу «Торговые города и серебряные сети» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–X века.",
+      "Основной смысл: стандарты веса были практическим инструментом многоязычного рынка.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Торговые города и серебряные сети",
+      "artefact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 3,
+      "culture": 8,
+      "politics": 5,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Хедебю",
+      "lat": 54.5,
+      "lon": 9.57
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-04/vik_a_04_02.svg",
+      "caption": "Локальная учебная обложка: Гирька с геометрическим орнаментом",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "National Museum of Denmark: The Viking Age",
+      "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_04"
+  },
+  {
+    "id": "VIK_A_04_03",
+    "type": "ARTEFACT",
+    "title": "Стеклянные бусы из дальних сетей",
+    "original": "Стеклянные бусы из дальних сетей",
+    "subtitle": "материал и технология позволяют проследить цепи обмена",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "VIII–X века",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Стеклянные бусы из дальних сетей — материал и технология позволяют проследить цепи обмена.",
+    "importance": "Архивная карточка углубляет главу «Торговые города и серебряные сети» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–X века.",
+      "Основной смысл: материал и технология позволяют проследить цепи обмена.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Торговые города и серебряные сети",
+      "artefact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 4,
+      "culture": 9,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рибе",
+      "lat": 55.3285,
+      "lon": 8.7622
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-04/vik_a_04_03.svg",
+      "caption": "Локальная учебная обложка: Стеклянные бусы из дальних сетей",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "National Museum of Denmark: The Viking Age",
+      "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_04"
+  },
+  {
+    "id": "VIK_A_04_04",
+    "type": "ARCHAEOLOGY",
+    "title": "План раскопок торгового поселения",
+    "original": "План раскопок торгового поселения",
+    "subtitle": "улицы, участки и мастерские показывают сезонность и устойчивость центра",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "VIII–X века",
+    "rarity": "MYTHIC",
+    "difficulty": 14,
+    "summary": "План раскопок торгового поселения — улицы, участки и мастерские показывают сезонность и устойчивость центра.",
+    "importance": "Архивная карточка углубляет главу «Торговые города и серебряные сети» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–X века.",
+      "Основной смысл: улицы, участки и мастерские показывают сезонность и устойчивость центра.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Торговые города и серебряные сети",
+      "archaeology"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Каупанг",
+      "lat": 59.035,
+      "lon": 10.1
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-04/vik_a_04_04.svg",
+      "caption": "Локальная учебная обложка: План раскопок торгового поселения",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_04_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "National Museum of Denmark: The Viking Age",
+      "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_04"
+  },
+  {
+    "id": "VIK_A_05_01",
+    "type": "BURIAL",
+    "title": "Погребальный комплекс Рептона",
+    "original": "Погребальный комплекс Рептона",
+    "subtitle": "кости и вещи требуют осторожного связывания с конкретной армией",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "IX век",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Погребальный комплекс Рептона — кости и вещи требуют осторожного связывания с конкретной армией.",
+    "importance": "Архивная карточка углубляет главу «Британия, Ирландия и новые политические центры» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: кости и вещи требуют осторожного связывания с конкретной армией.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Британия, Ирландия и новые политические центры",
+      "burial"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 8,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рептон",
+      "lat": 52.84,
+      "lon": -1.55
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-05/vik_a_05_01.svg",
+      "caption": "Локальная учебная обложка: Погребальный комплекс Рептона",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Vikings (780–1100)",
+      "url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_05"
+  },
+  {
+    "id": "VIK_A_05_02",
+    "type": "NUMISMATICS",
+    "title": "Монета скандинавского Йорка",
+    "original": "Монета скандинавского Йорка",
+    "subtitle": "чеканка утверждала власть через знакомые местные формы",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "IX–X века",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Монета скандинавского Йорка — чеканка утверждала власть через знакомые местные формы.",
+    "importance": "Архивная карточка углубляет главу «Британия, Ирландия и новые политические центры» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: чеканка утверждала власть через знакомые местные формы.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Британия, Ирландия и новые политические центры",
+      "numismatics"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 4,
+      "culture": 9,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Йорк",
+      "lat": 53.959,
+      "lon": -1.0815
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-05/vik_a_05_02.svg",
+      "caption": "Локальная учебная обложка: Монета скандинавского Йорка",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Vikings (780–1100)",
+      "url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_05"
+  },
+  {
+    "id": "VIK_A_05_03",
+    "type": "ARCHAEOLOGY",
+    "title": "Дублинский корабельный брус",
+    "original": "Дублинский корабельный брус",
+    "subtitle": "переиспользованная древесина показывает портовую инфраструктуру и ремонт",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "IX–XI века",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Дублинский корабельный брус — переиспользованная древесина показывает портовую инфраструктуру и ремонт.",
+    "importance": "Архивная карточка углубляет главу «Британия, Ирландия и новые политические центры» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–XI века.",
+      "Основной смысл: переиспользованная древесина показывает портовую инфраструктуру и ремонт.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Британия, Ирландия и новые политические центры",
+      "archaeology"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 5,
+      "culture": 6,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Дублин",
+      "lat": 53.3498,
+      "lon": -6.2603
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-05/vik_a_05_03.svg",
+      "caption": "Локальная учебная обложка: Дублинский корабельный брус",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Vikings (780–1100)",
+      "url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_05"
+  },
+  {
+    "id": "VIK_A_05_04",
+    "type": "LINGUISTICS",
+    "title": "Топонимы Денло",
+    "original": "Топонимы Денло",
+    "subtitle": "названия мест фиксируют языковое влияние, но не дают простой карты этничности",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "IX–XI века",
+    "rarity": "LEGENDARY",
+    "difficulty": 14,
+    "summary": "Топонимы Денло — названия мест фиксируют языковое влияние, но не дают простой карты этничности.",
+    "importance": "Архивная карточка углубляет главу «Британия, Ирландия и новые политические центры» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–XI века.",
+      "Основной смысл: названия мест фиксируют языковое влияние, но не дают простой карты этничности.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Британия, Ирландия и новые политические центры",
+      "linguistics"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 7,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Йорк",
+      "lat": 53.959,
+      "lon": -1.0815
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-05/vik_a_05_04.svg",
+      "caption": "Локальная учебная обложка: Топонимы Денло",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Vikings (780–1100)",
+      "url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_05"
+  },
+  {
+    "id": "VIK_A_06_01",
+    "type": "DOCUMENT",
+    "title": "Франкская запись о выплате флоту",
+    "original": "Франкская запись о выплате флоту",
+    "subtitle": "текст показывает стратегию двора и моральную оценку современников",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "IX век",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Франкская запись о выплате флоту — текст показывает стратегию двора и моральную оценку современников.",
+    "importance": "Архивная карточка углубляет главу «Франкские берега и рождение Нормандии» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: текст показывает стратегию двора и моральную оценку современников.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Франкские берега и рождение Нормандии",
+      "document"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Париж",
+      "lat": 48.8566,
+      "lon": 2.3522
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-06/vik_a_06_01.svg",
+      "caption": "Локальная учебная обложка: Франкская запись о выплате флоту",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Vikings (780–1100)",
+      "url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_06"
+  },
+  {
+    "id": "VIK_A_06_02",
+    "type": "HOARD",
+    "title": "Клад серебра из долины Сены",
+    "original": "Клад серебра из долины Сены",
+    "subtitle": "монеты помогают проследить выплаты, торговлю и сокрытие богатства",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "IX–X века",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Клад серебра из долины Сены — монеты помогают проследить выплаты, торговлю и сокрытие богатства.",
+    "importance": "Архивная карточка углубляет главу «Франкские берега и рождение Нормандии» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: монеты помогают проследить выплаты, торговлю и сокрытие богатства.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Франкские берега и рождение Нормандии",
+      "hoard"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 5,
+      "culture": 6,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Руан",
+      "lat": 49.4431,
+      "lon": 1.0993
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-06/vik_a_06_02.svg",
+      "caption": "Локальная учебная обложка: Клад серебра из долины Сены",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Vikings (780–1100)",
+      "url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_06"
+  },
+  {
+    "id": "VIK_A_06_03",
+    "type": "DOCUMENT",
+    "title": "Ранненормандская хартия",
+    "original": "Ранненормандская хартия",
+    "subtitle": "грамота показывает передачу земли, церковные связи и язык новой власти",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "X век",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Ранненормандская хартия — грамота показывает передачу земли, церковные связи и язык новой власти.",
+    "importance": "Архивная карточка углубляет главу «Франкские берега и рождение Нормандии» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X век.",
+      "Основной смысл: грамота показывает передачу земли, церковные связи и язык новой власти.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Франкские берега и рождение Нормандии",
+      "document"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Руан",
+      "lat": 49.4431,
+      "lon": 1.0993
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-06/vik_a_06_03.svg",
+      "caption": "Локальная учебная обложка: Ранненормандская хартия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Vikings (780–1100)",
+      "url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_06"
+  },
+  {
+    "id": "VIK_A_06_04",
+    "type": "MAP",
+    "title": "Карта речных маршрутов Франкии",
+    "original": "Карта речных маршрутов Франкии",
+    "subtitle": "реки объясняют глубину походов лучше, чем простая береговая линия",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "IX век",
+    "rarity": "LEGENDARY",
+    "difficulty": 14,
+    "summary": "Карта речных маршрутов Франкии — реки объясняют глубину походов лучше, чем простая береговая линия.",
+    "importance": "Архивная карточка углубляет главу «Франкские берега и рождение Нормандии» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: реки объясняют глубину походов лучше, чем простая береговая линия.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Франкские берега и рождение Нормандии",
+      "map"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 8,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Париж",
+      "lat": 48.8566,
+      "lon": 2.3522
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-06/vik_a_06_04.svg",
+      "caption": "Локальная учебная обложка: Карта речных маршрутов Франкии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Vikings (780–1100)",
+      "url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_06"
+  },
+  {
+    "id": "VIK_A_07_01",
+    "type": "EPIGRAPHY",
+    "title": "Руническая надпись в восточном контексте",
+    "original": "Руническая надпись в восточном контексте",
+    "subtitle": "короткий текст фиксирует присутствие человека, но не политический контроль территории",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "IX–XI века",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Руническая надпись в восточном контексте — короткий текст фиксирует присутствие человека, но не политический контроль территории.",
+    "importance": "Архивная карточка углубляет главу «Восточные пути, Русь и исламское серебро» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–XI века.",
+      "Основной смысл: короткий текст фиксирует присутствие человека, но не политический контроль территории.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Восточные пути, Русь и исламское серебро",
+      "epigraphy"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Старая Ладога",
+      "lat": 59.998,
+      "lon": 32.295
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-07/vik_a_07_01.svg",
+      "caption": "Локальная учебная обложка: Руническая надпись в восточном контексте",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Vikings (780–1100)",
+      "url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_07"
+  },
+  {
+    "id": "VIK_A_07_02",
+    "type": "HOARD",
+    "title": "Клад дирхемов у Балтики",
+    "original": "Клад дирхемов у Балтики",
+    "subtitle": "последняя монета задаёт нижнюю дату сокрытия, но не причину",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "IX–X века",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Клад дирхемов у Балтики — последняя монета задаёт нижнюю дату сокрытия, но не причину.",
+    "importance": "Архивная карточка углубляет главу «Восточные пути, Русь и исламское серебро» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: последняя монета задаёт нижнюю дату сокрытия, но не причину.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Восточные пути, Русь и исламское серебро",
+      "hoard"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 6,
+      "culture": 7,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Бирка",
+      "lat": 59.335,
+      "lon": 17.542
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-07/vik_a_07_02.svg",
+      "caption": "Локальная учебная обложка: Клад дирхемов у Балтики",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Vikings (780–1100)",
+      "url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_07"
+  },
+  {
+    "id": "VIK_A_07_03",
+    "type": "TEXT",
+    "title": "Описание погребения у Ибн Фадлана",
+    "original": "Описание погребения у Ибн Фадлана",
+    "subtitle": "яркий эпизод нельзя автоматически переносить на всех скандинавов",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "922 год",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Описание погребения у Ибн Фадлана — яркий эпизод нельзя автоматически переносить на всех скандинавов.",
+    "importance": "Архивная карточка углубляет главу «Восточные пути, Русь и исламское серебро» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: 922 год.",
+      "Основной смысл: яркий эпизод нельзя автоматически переносить на всех скандинавов.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Восточные пути, Русь и исламское серебро",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 8,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Средняя Волга",
+      "lat": 55.8,
+      "lon": 48.7
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-07/vik_a_07_03.svg",
+      "caption": "Локальная учебная обложка: Описание погребения у Ибн Фадлана",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Vikings (780–1100)",
+      "url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_07"
+  },
+  {
+    "id": "VIK_A_07_04",
+    "type": "MAP",
+    "title": "Схема волоков между реками",
+    "original": "Схема волоков между реками",
+    "subtitle": "маршрут зависел от сезонности, транспорта и контроля локальных групп",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "IX–XI века",
+    "rarity": "LEGENDARY",
+    "difficulty": 14,
+    "summary": "Схема волоков между реками — маршрут зависел от сезонности, транспорта и контроля локальных групп.",
+    "importance": "Архивная карточка углубляет главу «Восточные пути, Русь и исламское серебро» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–XI века.",
+      "Основной смысл: маршрут зависел от сезонности, транспорта и контроля локальных групп.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Восточные пути, Русь и исламское серебро",
+      "map"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 9,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Новгород",
+      "lat": 58.5256,
+      "lon": 31.2742
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-07/vik_a_07_04.svg",
+      "caption": "Локальная учебная обложка: Схема волоков между реками",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_07_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Vikings (780–1100)",
+      "url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_07"
+  },
+  {
+    "id": "VIK_A_08_01",
+    "type": "ARCHAEOLOGY",
+    "title": "Руины длинного дома в Исландии",
+    "original": "Руины длинного дома в Исландии",
+    "subtitle": "план постройки показывает хозяйство, топливо и размещение людей",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "IX–XI века",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Руины длинного дома в Исландии — план постройки показывает хозяйство, топливо и размещение людей.",
+    "importance": "Архивная карточка углубляет главу «Исландия и общество переселенцев» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–XI века.",
+      "Основной смысл: план постройки показывает хозяйство, топливо и размещение людей.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Исландия и общество переселенцев",
+      "archaeology"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 7,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рейкьявик",
+      "lat": 64.1466,
+      "lon": -21.9426
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-08/vik_a_08_01.svg",
+      "caption": "Локальная учебная обложка: Руины длинного дома в Исландии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1152/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Þingvellir National Park",
+      "url": "https://whc.unesco.org/en/list/1152/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_08"
+  },
+  {
+    "id": "VIK_A_08_02",
+    "type": "GEOARCHAEOLOGY",
+    "title": "Слой вулканического пепла",
+    "original": "Слой вулканического пепла",
+    "subtitle": "тефрохронология помогает датировать заселение и изменения ландшафта",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "IX–X века",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Слой вулканического пепла — тефрохронология помогает датировать заселение и изменения ландшафта.",
+    "importance": "Архивная карточка углубляет главу «Исландия и общество переселенцев» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: тефрохронология помогает датировать заселение и изменения ландшафта.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Исландия и общество переселенцев",
+      "geoarchaeology"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 7,
+      "culture": 8,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Рейкьявик",
+      "lat": 64.1466,
+      "lon": -21.9426
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-08/vik_a_08_02.svg",
+      "caption": "Локальная учебная обложка: Слой вулканического пепла",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1152/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Þingvellir National Park",
+      "url": "https://whc.unesco.org/en/list/1152/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_08"
+  },
+  {
+    "id": "VIK_A_08_03",
+    "type": "MANUSCRIPT",
+    "title": "Рукопись Книги о заселении",
+    "original": "Рукопись Книги о заселении",
+    "subtitle": "поздний список родов сочетает память, политику и литературную организацию",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "XII–XIV века",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Рукопись Книги о заселении — поздний список родов сочетает память, политику и литературную организацию.",
+    "importance": "Архивная карточка углубляет главу «Исландия и общество переселенцев» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: XII–XIV века.",
+      "Основной смысл: поздний список родов сочетает память, политику и литературную организацию.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Исландия и общество переселенцев",
+      "manuscript"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 8,
+      "culture": 9,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Рейкьявик",
+      "lat": 64.1466,
+      "lon": -21.9426
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-08/vik_a_08_03.svg",
+      "caption": "Локальная учебная обложка: Рукопись Книги о заселении",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1152/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Þingvellir National Park",
+      "url": "https://whc.unesco.org/en/list/1152/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_08"
+  },
+  {
+    "id": "VIK_A_08_04",
+    "type": "LANDSCAPE",
+    "title": "Ландшафт Тингведлира",
+    "original": "Ландшафт Тингведлира",
+    "subtitle": "место собрания соединяет природную сцену, маршруты и политическую память",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "X век",
+    "rarity": "MYTHIC",
+    "difficulty": 14,
+    "summary": "Ландшафт Тингведлира — место собрания соединяет природную сцену, маршруты и политическую память.",
+    "importance": "Архивная карточка углубляет главу «Исландия и общество переселенцев» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X век.",
+      "Основной смысл: место собрания соединяет природную сцену, маршруты и политическую память.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Исландия и общество переселенцев",
+      "landscape"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 6,
+      "politics": 5,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Тингведлир",
+      "lat": 64.2559,
+      "lon": -21.13
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-08/vik_a_08_04.svg",
+      "caption": "Локальная учебная обложка: Ландшафт Тингведлира",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1152/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_08_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Þingvellir National Park",
+      "url": "https://whc.unesco.org/en/list/1152/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_08"
+  },
+  {
+    "id": "VIK_A_09_01",
+    "type": "BIOARCHAEOLOGY",
+    "title": "Кости скота с гренландской фермы",
+    "original": "Кости скота с гренландской фермы",
+    "subtitle": "видовой состав показывает изменение питания и хозяйства",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "X–XV века",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Кости скота с гренландской фермы — видовой состав показывает изменение питания и хозяйства.",
+    "importance": "Архивная карточка углубляет главу «Гренландия: поселение на краю Атлантики» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X–XV века.",
+      "Основной смысл: видовой состав показывает изменение питания и хозяйства.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Гренландия: поселение на краю Атлантики",
+      "bioarchaeology"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 8,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Браттахлид",
+      "lat": 61.16,
+      "lon": -45.52
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-09/vik_a_09_01.svg",
+      "caption": "Локальная учебная обложка: Кости скота с гренландской фермы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_09_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Vikings (780–1100)",
+      "url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_09"
+  },
+  {
+    "id": "VIK_A_09_02",
+    "type": "ARCHAEOLOGY",
+    "title": "Норвежская церковь Хвалси",
+    "original": "Норвежская церковь Хвалси",
+    "subtitle": "каменное здание и запись о свадьбе дают поздние свидетельства жизни колонии",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "XIV–XV века",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Норвежская церковь Хвалси — каменное здание и запись о свадьбе дают поздние свидетельства жизни колонии.",
+    "importance": "Архивная карточка углубляет главу «Гренландия: поселение на краю Атлантики» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: XIV–XV века.",
+      "Основной смысл: каменное здание и запись о свадьбе дают поздние свидетельства жизни колонии.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Гренландия: поселение на краю Атлантики",
+      "archaeology"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 8,
+      "culture": 9,
+      "politics": 5,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Браттахлид",
+      "lat": 61.16,
+      "lon": -45.52
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-09/vik_a_09_02.svg",
+      "caption": "Локальная учебная обложка: Норвежская церковь Хвалси",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_09_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Vikings (780–1100)",
+      "url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_09"
+  },
+  {
+    "id": "VIK_A_09_03",
+    "type": "ARTEFACT",
+    "title": "Фрагмент моржовой кости",
+    "original": "Фрагмент моржовой кости",
+    "subtitle": "изотопы помогают связывать европейские изделия с гренландским сырьём",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "X–XIV века",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Фрагмент моржовой кости — изотопы помогают связывать европейские изделия с гренландским сырьём.",
+    "importance": "Архивная карточка углубляет главу «Гренландия: поселение на краю Атлантики» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X–XIV века.",
+      "Основной смысл: изотопы помогают связывать европейские изделия с гренландским сырьём.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Гренландия: поселение на краю Атлантики",
+      "artefact"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 3,
+      "culture": 6,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Браттахлид",
+      "lat": 61.16,
+      "lon": -45.52
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-09/vik_a_09_03.svg",
+      "caption": "Локальная учебная обложка: Фрагмент моржовой кости",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_09_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Vikings (780–1100)",
+      "url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_09"
+  },
+  {
+    "id": "VIK_A_09_04",
+    "type": "MAP",
+    "title": "Реконструкция морского пути к Гренландии",
+    "original": "Реконструкция морского пути к Гренландии",
+    "subtitle": "карта должна учитывать сезонные ветры, лёд и промежуточные острова",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "X–XI века",
+    "rarity": "LEGENDARY",
+    "difficulty": 14,
+    "summary": "Реконструкция морского пути к Гренландии — карта должна учитывать сезонные ветры, лёд и промежуточные острова.",
+    "importance": "Архивная карточка углубляет главу «Гренландия: поселение на краю Атлантики» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X–XI века.",
+      "Основной смысл: карта должна учитывать сезонные ветры, лёд и промежуточные острова.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Гренландия: поселение на краю Атлантики",
+      "map"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Оркнейские острова",
+      "lat": 58.98,
+      "lon": -2.96
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-09/vik_a_09_04.svg",
+      "caption": "Локальная учебная обложка: Реконструкция морского пути к Гренландии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_09_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Vikings (780–1100)",
+      "url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_09"
+  },
+  {
+    "id": "VIK_A_10_01",
+    "type": "ARTEFACT",
+    "title": "Бронзовая булавка норвежского типа",
+    "original": "Бронзовая булавка норвежского типа",
+    "subtitle": "малый предмет помогает подтвердить культурную принадлежность комплекса",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "XI век",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Бронзовая булавка норвежского типа — малый предмет помогает подтвердить культурную принадлежность комплекса.",
+    "importance": "Архивная карточка углубляет главу «Винланд и Л’Анс-о-Медоус» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: XI век.",
+      "Основной смысл: малый предмет помогает подтвердить культурную принадлежность комплекса.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Винланд и Л’Анс-о-Медоус",
+      "artefact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 9,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Л’Анс-о-Медоус",
+      "lat": 51.5965,
+      "lon": -55.5334
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-10/vik_a_10_01.svg",
+      "caption": "Локальная учебная обложка: Бронзовая булавка норвежского типа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/4/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_10_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: L’Anse aux Meadows National Historic Site",
+      "url": "https://whc.unesco.org/en/list/4/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_10"
+  },
+  {
+    "id": "VIK_A_10_02",
+    "type": "ARCHAEOMETALLURGY",
+    "title": "Шлак из кузницы",
+    "original": "Шлак из кузницы",
+    "subtitle": "отход производства фиксирует выплавку железа на месте",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "XI век",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Шлак из кузницы — отход производства фиксирует выплавку железа на месте.",
+    "importance": "Архивная карточка углубляет главу «Винланд и Л’Анс-о-Медоус» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: XI век.",
+      "Основной смысл: отход производства фиксирует выплавку железа на месте.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Винланд и Л’Анс-о-Медоус",
+      "archaeometallurgy"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 3,
+      "culture": 6,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Л’Анс-о-Медоус",
+      "lat": 51.5965,
+      "lon": -55.5334
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-10/vik_a_10_02.svg",
+      "caption": "Локальная учебная обложка: Шлак из кузницы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/4/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_10_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: L’Anse aux Meadows National Historic Site",
+      "url": "https://whc.unesco.org/en/list/4/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_10"
+  },
+  {
+    "id": "VIK_A_10_03",
+    "type": "DENDROCHRONOLOGY",
+    "title": "Деревянная деталь с датой 1021 года",
+    "original": "Деревянная деталь с датой 1021 года",
+    "subtitle": "след солнечной бури помог точно датировать рубку древесины",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "1021 год",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Деревянная деталь с датой 1021 года — след солнечной бури помог точно датировать рубку древесины.",
+    "importance": "Архивная карточка углубляет главу «Винланд и Л’Анс-о-Медоус» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: 1021 год.",
+      "Основной смысл: след солнечной бури помог точно датировать рубку древесины.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Винланд и Л’Анс-о-Медоус",
+      "dendrochronology"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 4,
+      "culture": 7,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Л’Анс-о-Медоус",
+      "lat": 51.5965,
+      "lon": -55.5334
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-10/vik_a_10_03.svg",
+      "caption": "Локальная учебная обложка: Деревянная деталь с датой 1021 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/4/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_10_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: L’Anse aux Meadows National Historic Site",
+      "url": "https://whc.unesco.org/en/list/4/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_10"
+  },
+  {
+    "id": "VIK_A_10_04",
+    "type": "MANUSCRIPT",
+    "title": "Саги о Винланде как поздние рукописи",
+    "original": "Саги о Винланде как поздние рукописи",
+    "subtitle": "тексты сохраняют память о походах, но созданы через два века",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "XIII–XIV века",
+    "rarity": "LEGENDARY",
+    "difficulty": 14,
+    "summary": "Саги о Винланде как поздние рукописи — тексты сохраняют память о походах, но созданы через два века.",
+    "importance": "Архивная карточка углубляет главу «Винланд и Л’Анс-о-Медоус» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: XIII–XIV века.",
+      "Основной смысл: тексты сохраняют память о походах, но созданы через два века.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Винланд и Л’Анс-о-Медоус",
+      "manuscript"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Тингведлир",
+      "lat": 64.2559,
+      "lon": -21.13
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-10/vik_a_10_04.svg",
+      "caption": "Локальная учебная обложка: Саги о Винланде как поздние рукописи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/4/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_10_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: L’Anse aux Meadows National Historic Site",
+      "url": "https://whc.unesco.org/en/list/4/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_10"
+  },
+  {
+    "id": "VIK_A_11_01",
+    "type": "EPIGRAPHY",
+    "title": "Йеллингская надпись",
+    "original": "Йеллингская надпись",
+    "subtitle": "формула короля требует сопоставления с археологией и церковными источниками",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "X век",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Йеллингская надпись — формула короля требует сопоставления с археологией и церковными источниками.",
+    "importance": "Архивная карточка углубляет главу «Короли, крещение и конец эпохи» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X век.",
+      "Основной смысл: формула короля требует сопоставления с археологией и церковными источниками.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Короли, крещение и конец эпохи",
+      "epigraphy"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 6,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Йеллинг",
+      "lat": 55.7553,
+      "lon": 9.42
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-11/vik_a_11_01.svg",
+      "caption": "Локальная учебная обложка: Йеллингская надпись",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_11_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "National Museum of Denmark: The Viking Age",
+      "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_11"
+  },
+  {
+    "id": "VIK_A_11_02",
+    "type": "ARCHAEOLOGY",
+    "title": "Кольцевая крепость Треллеборг",
+    "original": "Кольцевая крепость Треллеборг",
+    "subtitle": "план показывает стандартизацию, но назначение и длительность использования обсуждаются",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "X век",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Кольцевая крепость Треллеборг — план показывает стандартизацию, но назначение и длительность использования обсуждаются.",
+    "importance": "Архивная карточка углубляет главу «Короли, крещение и конец эпохи» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X век.",
+      "Основной смысл: план показывает стандартизацию, но назначение и длительность использования обсуждаются.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Короли, крещение и конец эпохи",
+      "archaeology"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 4,
+      "culture": 7,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Йеллинг",
+      "lat": 55.7553,
+      "lon": 9.42
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-11/vik_a_11_02.svg",
+      "caption": "Локальная учебная обложка: Кольцевая крепость Треллеборг",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_11_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "National Museum of Denmark: The Viking Age",
+      "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_11"
+  },
+  {
+    "id": "VIK_A_11_03",
+    "type": "NUMISMATICS",
+    "title": "Монета Кнуда Великого",
+    "original": "Монета Кнуда Великого",
+    "subtitle": "английская чеканка поддерживала власть и выплаты армии",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "XI век",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Монета Кнуда Великого — английская чеканка поддерживала власть и выплаты армии.",
+    "importance": "Архивная карточка углубляет главу «Короли, крещение и конец эпохи» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: XI век.",
+      "Основной смысл: английская чеканка поддерживала власть и выплаты армии.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Короли, крещение и конец эпохи",
+      "numismatics"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 5,
+      "culture": 8,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Лондон",
+      "lat": 51.5074,
+      "lon": -0.1278
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-11/vik_a_11_03.svg",
+      "caption": "Локальная учебная обложка: Монета Кнуда Великого",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_11_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "National Museum of Denmark: The Viking Age",
+      "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_11"
+  },
+  {
+    "id": "VIK_A_11_04",
+    "type": "TEXT",
+    "title": "Хроника о Стикластаде и культе святого Олава",
+    "original": "Хроника о Стикластаде и культе святого Олава",
+    "subtitle": "поздняя традиция соединяет военную смерть, чудеса и государственную память",
+    "era": "Раннее Средневековье",
+    "region": "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+    "date": "XI–XIII века",
+    "rarity": "LEGENDARY",
+    "difficulty": 14,
+    "summary": "Хроника о Стикластаде и культе святого Олава — поздняя традиция соединяет военную смерть, чудеса и государственную память.",
+    "importance": "Архивная карточка углубляет главу «Короли, крещение и конец эпохи» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: XI–XIII века.",
+      "Основной смысл: поздняя традиция соединяет военную смерть, чудеса и государственную память.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Скандинавия, Британские острова, Восточная Европа и Северная Атлантика",
+      "архив",
+      "Короли, крещение и конец эпохи",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Нидарос",
+      "lat": 63.4305,
+      "lon": 10.3951
+    },
+    "image": {
+      "local": "assets/cards/vikings-north-atlantic/chapter-11/vik_a_11_04.svg",
+      "caption": "Локальная учебная обложка: Хроника о Стикластаде и культе святого Олава",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "vik_a_11_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "National Museum of Denmark: The Viking Age",
+      "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "VIKINGS_NORTH_ATLANTIC",
+    "chapter": "VIK_CHAPTER_11"
+  }
+]

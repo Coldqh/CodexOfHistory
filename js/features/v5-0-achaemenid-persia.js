@@ -1,6 +1,6 @@
-/* Codex v8.3.0 — Achaemenid Persia */
+/* Codex v8.4.0 — Achaemenid Persia */
 (()=>{
-  const V='8.3.0';
+  const V='8.4.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.PERSIA='PERSIA';
   state.persiaPhase=state.persiaPhase||'FOUNDATION';

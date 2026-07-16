@@ -352,3 +352,8 @@
 ## v6.9 — Христианство и религии поздней Античности
 
 Локальные SVG-обложки 132 карточек и обложка пака созданы для Codex of History. Источниковая рамка использует Encyclopaedia Britannica, Codex Sinaiticus Project, Sefaria, Fordham Ancient History Sourcebook и UNESCO World Heritage Centre. Религиозные утверждения представлены как позиции исторических общин и авторов, а не как выводы исторического метода.
+
+
+## v7.0 — Переселения и новые королевства
+
+Локальные SVG-обложки 132 карточек и обложка пака созданы для Codex of History. Источниковая рамка использует Ammianus Marcellinus, Encyclopaedia Britannica, Metropolitan Museum of Art, British Museum и UNESCO World Heritage Centre. Этнонимы, археологические культуры и политические союзы не приравниваются автоматически друг к другу.

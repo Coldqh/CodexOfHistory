@@ -1,0 +1,807 @@
+{
+  "campaignId": "MIGRATION_KINGDOMS",
+  "campaigns": {
+    "MIGRATION_KINGDOMS": {
+      "id": "MIGRATION_KINGDOMS",
+      "title": "Переселения и новые королевства",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "MIG_POOL_01",
+      "campaign": "MIGRATION_KINGDOMS",
+      "title": "Граница до переселений",
+      "unlockMission": "MIG_01_02",
+      "cardIds": [
+        "MIG_A_01_01",
+        "MIG_A_01_02",
+        "MIG_A_01_03",
+        "MIG_A_01_04"
+      ]
+    },
+    {
+      "id": "MIG_POOL_02",
+      "campaign": "MIGRATION_KINGDOMS",
+      "title": "Гунны и изменение причерноморского мира",
+      "unlockMission": "MIG_02_02",
+      "cardIds": [
+        "MIG_A_02_01",
+        "MIG_A_02_02",
+        "MIG_A_02_03",
+        "MIG_A_02_04"
+      ]
+    },
+    {
+      "id": "MIG_POOL_03",
+      "campaign": "MIGRATION_KINGDOMS",
+      "title": "Переход Дуная и Адрианополь",
+      "unlockMission": "MIG_03_02",
+      "cardIds": [
+        "MIG_A_03_01",
+        "MIG_A_03_02",
+        "MIG_A_03_03",
+        "MIG_A_03_04"
+      ]
+    },
+    {
+      "id": "MIG_POOL_04",
+      "campaign": "MIGRATION_KINGDOMS",
+      "title": "Аларих и разграбление Рима",
+      "unlockMission": "MIG_04_02",
+      "cardIds": [
+        "MIG_A_04_01",
+        "MIG_A_04_02",
+        "MIG_A_04_03",
+        "MIG_A_04_04"
+      ]
+    },
+    {
+      "id": "MIG_POOL_05",
+      "campaign": "MIGRATION_KINGDOMS",
+      "title": "Рейн, Галлия и распад западной обороны",
+      "unlockMission": "MIG_05_02",
+      "cardIds": [
+        "MIG_A_05_01",
+        "MIG_A_05_02",
+        "MIG_A_05_03",
+        "MIG_A_05_04"
+      ]
+    },
+    {
+      "id": "MIG_POOL_06",
+      "campaign": "MIGRATION_KINGDOMS",
+      "title": "Вандальская Африка и борьба за Средиземное море",
+      "unlockMission": "MIG_06_02",
+      "cardIds": [
+        "MIG_A_06_01",
+        "MIG_A_06_02",
+        "MIG_A_06_03",
+        "MIG_A_06_04"
+      ]
+    },
+    {
+      "id": "MIG_POOL_07",
+      "campaign": "MIGRATION_KINGDOMS",
+      "title": "Аттила и гуннская держава",
+      "unlockMission": "MIG_07_02",
+      "cardIds": [
+        "MIG_A_07_01",
+        "MIG_A_07_02",
+        "MIG_A_07_03",
+        "MIG_A_07_04"
+      ]
+    },
+    {
+      "id": "MIG_POOL_08",
+      "campaign": "MIGRATION_KINGDOMS",
+      "title": "Западный двор и 476 год",
+      "unlockMission": "MIG_08_02",
+      "cardIds": [
+        "MIG_A_08_01",
+        "MIG_A_08_02",
+        "MIG_A_08_03",
+        "MIG_A_08_04"
+      ]
+    },
+    {
+      "id": "MIG_POOL_09",
+      "campaign": "MIGRATION_KINGDOMS",
+      "title": "Британия после римского управления",
+      "unlockMission": "MIG_09_02",
+      "cardIds": [
+        "MIG_A_09_01",
+        "MIG_A_09_02",
+        "MIG_A_09_03",
+        "MIG_A_09_04"
+      ]
+    },
+    {
+      "id": "MIG_POOL_10",
+      "campaign": "MIGRATION_KINGDOMS",
+      "title": "Вестготы, бургунды и франки",
+      "unlockMission": "MIG_10_02",
+      "cardIds": [
+        "MIG_A_10_01",
+        "MIG_A_10_02",
+        "MIG_A_10_03",
+        "MIG_A_10_04"
+      ]
+    },
+    {
+      "id": "MIG_POOL_11",
+      "campaign": "MIGRATION_KINGDOMS",
+      "title": "Остготская Италия и постримский порядок",
+      "unlockMission": "MIG_11_02",
+      "cardIds": [
+        "MIG_A_11_01",
+        "MIG_A_11_02",
+        "MIG_A_11_03",
+        "MIG_A_11_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "MIG_S_01_01": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 1
+    },
+    "MIG_S_01_02": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 1
+    },
+    "MIG_S_01_03": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 1
+    },
+    "MIG_S_01_04": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 1
+    },
+    "MIG_S_01_05": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 1
+    },
+    "MIG_S_01_06": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 1
+    },
+    "MIG_S_01_07": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 1
+    },
+    "MIG_S_01_08": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 1
+    },
+    "MIG_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_01",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_01",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_01",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_01",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_S_02_01": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 2
+    },
+    "MIG_S_02_02": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 2
+    },
+    "MIG_S_02_03": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 2
+    },
+    "MIG_S_02_04": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 2
+    },
+    "MIG_S_02_05": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 2
+    },
+    "MIG_S_02_06": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 2
+    },
+    "MIG_S_02_07": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 2
+    },
+    "MIG_S_02_08": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 2
+    },
+    "MIG_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_02",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_02",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_02",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_02",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_S_03_01": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 3
+    },
+    "MIG_S_03_02": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 3
+    },
+    "MIG_S_03_03": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 3
+    },
+    "MIG_S_03_04": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 3
+    },
+    "MIG_S_03_05": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 3
+    },
+    "MIG_S_03_06": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 3
+    },
+    "MIG_S_03_07": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 3
+    },
+    "MIG_S_03_08": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 3
+    },
+    "MIG_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_03",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_03",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_03",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_03",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_S_04_01": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 4
+    },
+    "MIG_S_04_02": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 4
+    },
+    "MIG_S_04_03": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 4
+    },
+    "MIG_S_04_04": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 4
+    },
+    "MIG_S_04_05": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 4
+    },
+    "MIG_S_04_06": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 4
+    },
+    "MIG_S_04_07": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 4
+    },
+    "MIG_S_04_08": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 4
+    },
+    "MIG_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_04",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_04",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_04",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_04",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_S_05_01": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 5
+    },
+    "MIG_S_05_02": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 5
+    },
+    "MIG_S_05_03": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 5
+    },
+    "MIG_S_05_04": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 5
+    },
+    "MIG_S_05_05": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 5
+    },
+    "MIG_S_05_06": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 5
+    },
+    "MIG_S_05_07": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 5
+    },
+    "MIG_S_05_08": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 5
+    },
+    "MIG_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_05",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_05",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_05",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_05",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_S_06_01": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 6
+    },
+    "MIG_S_06_02": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 6
+    },
+    "MIG_S_06_03": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 6
+    },
+    "MIG_S_06_04": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 6
+    },
+    "MIG_S_06_05": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 6
+    },
+    "MIG_S_06_06": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 6
+    },
+    "MIG_S_06_07": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 6
+    },
+    "MIG_S_06_08": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 6
+    },
+    "MIG_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_06",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_06",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_06",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_06",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_S_07_01": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 7
+    },
+    "MIG_S_07_02": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 7
+    },
+    "MIG_S_07_03": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 7
+    },
+    "MIG_S_07_04": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 7
+    },
+    "MIG_S_07_05": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 7
+    },
+    "MIG_S_07_06": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 7
+    },
+    "MIG_S_07_07": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 7
+    },
+    "MIG_S_07_08": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 7
+    },
+    "MIG_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_07",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_07",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_07",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_07",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_S_08_01": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 8
+    },
+    "MIG_S_08_02": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 8
+    },
+    "MIG_S_08_03": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 8
+    },
+    "MIG_S_08_04": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 8
+    },
+    "MIG_S_08_05": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 8
+    },
+    "MIG_S_08_06": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 8
+    },
+    "MIG_S_08_07": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 8
+    },
+    "MIG_S_08_08": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 8
+    },
+    "MIG_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_08",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_08",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_08",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_08",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_S_09_01": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 9
+    },
+    "MIG_S_09_02": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 9
+    },
+    "MIG_S_09_03": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 9
+    },
+    "MIG_S_09_04": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 9
+    },
+    "MIG_S_09_05": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 9
+    },
+    "MIG_S_09_06": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 9
+    },
+    "MIG_S_09_07": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 9
+    },
+    "MIG_S_09_08": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 9
+    },
+    "MIG_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_09",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_09",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_09",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_09",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_S_10_01": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 10
+    },
+    "MIG_S_10_02": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 10
+    },
+    "MIG_S_10_03": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 10
+    },
+    "MIG_S_10_04": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 10
+    },
+    "MIG_S_10_05": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 10
+    },
+    "MIG_S_10_06": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 10
+    },
+    "MIG_S_10_07": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 10
+    },
+    "MIG_S_10_08": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 10
+    },
+    "MIG_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_10",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_10",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_10",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_10",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_S_11_01": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 11
+    },
+    "MIG_S_11_02": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 11
+    },
+    "MIG_S_11_03": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 11
+    },
+    "MIG_S_11_04": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 11
+    },
+    "MIG_S_11_05": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 11
+    },
+    "MIG_S_11_06": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 11
+    },
+    "MIG_S_11_07": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 11
+    },
+    "MIG_S_11_08": {
+      "kind": "STORY",
+      "campaignId": "MIGRATION_KINGDOMS",
+      "chapter": 11
+    },
+    "MIG_A_11_01": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_11",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_11_02": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_11",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_11_03": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_11",
+      "campaign": "MIGRATION_KINGDOMS"
+    },
+    "MIG_A_11_04": {
+      "kind": "ARCHIVE",
+      "pool": "MIG_POOL_11",
+      "campaign": "MIGRATION_KINGDOMS"
+    }
+  }
+}

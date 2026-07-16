@@ -1,0 +1,398 @@
+{
+  "points": {
+    "LOWER_DANUBE": [
+      44.5,
+      27.5
+    ],
+    "DANUBE": [
+      45.2,
+      22.5
+    ],
+    "CRIMEA": [
+      45.2,
+      34.0
+    ],
+    "ADRIANOPLE": [
+      41.677,
+      26.556
+    ],
+    "MARCIANOPLE": [
+      43.22,
+      27.91
+    ],
+    "CONSTANTINOPLE": [
+      41.008,
+      28.978
+    ],
+    "THESSALONICA": [
+      40.64,
+      22.944
+    ],
+    "MILAN": [
+      45.464,
+      9.19
+    ],
+    "RAVENNA": [
+      44.418,
+      12.204
+    ],
+    "ROME": [
+      41.893,
+      12.483
+    ],
+    "AQUILEIA": [
+      45.768,
+      13.367
+    ],
+    "DALMATIA": [
+      43.51,
+      16.44
+    ],
+    "RHINE": [
+      49.9,
+      7.5
+    ],
+    "MAINZ": [
+      49.993,
+      8.247
+    ],
+    "WORMS": [
+      49.632,
+      8.359
+    ],
+    "ARLES": [
+      43.677,
+      4.63
+    ],
+    "TOULOUSE": [
+      43.604,
+      1.444
+    ],
+    "BORDEAUX": [
+      44.837,
+      -0.579
+    ],
+    "SOISSONS": [
+      49.381,
+      3.323
+    ],
+    "VOUILLE": [
+      46.641,
+      0.168
+    ],
+    "LYON": [
+      45.764,
+      4.835
+    ],
+    "GENEVA": [
+      46.204,
+      6.143
+    ],
+    "TOURS": [
+      47.394,
+      0.684
+    ],
+    "SPAIN": [
+      40.4,
+      -3.7
+    ],
+    "TOLEDO": [
+      39.862,
+      -4.027
+    ],
+    "CARTHAGE": [
+      36.852,
+      10.323
+    ],
+    "HIPPO": [
+      36.884,
+      7.749
+    ],
+    "SICILY": [
+      37.6,
+      14.0
+    ],
+    "SARDINIA": [
+      40.0,
+      9.0
+    ],
+    "PANNONIA": [
+      46.0,
+      18.0
+    ],
+    "CATALAUNIAN": [
+      48.95,
+      4.36
+    ],
+    "ORLEANS": [
+      47.903,
+      1.909
+    ],
+    "BRITAIN": [
+      52.0,
+      -1.5
+    ],
+    "CANTERBURY": [
+      51.28,
+      1.08
+    ],
+    "WESSEX": [
+      51.0,
+      -1.5
+    ],
+    "TINTAGEL": [
+      50.668,
+      -4.759
+    ],
+    "YORK": [
+      53.96,
+      -1.087
+    ],
+    "VERONA": [
+      45.438,
+      10.992
+    ],
+    "PAVIA": [
+      45.184,
+      9.158
+    ],
+    "ITALY": [
+      42.5,
+      12.5
+    ],
+    "WESTERN_WORLD": [
+      46.0,
+      5.0
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "MIG_S_01_01": "DANUBE",
+    "MIG_S_01_02": "LOWER_DANUBE",
+    "MIG_S_01_03": "CONSTANTINOPLE",
+    "MIG_S_01_04": "CRIMEA",
+    "MIG_S_01_05": "DANUBE",
+    "MIG_S_01_06": "CONSTANTINOPLE",
+    "MIG_S_01_07": "LOWER_DANUBE",
+    "MIG_S_01_08": "WESTERN_WORLD",
+    "MIG_A_01_01": "LOWER_DANUBE",
+    "MIG_A_01_02": "CRIMEA",
+    "MIG_A_01_03": "CONSTANTINOPLE",
+    "MIG_A_01_04": "WESTERN_WORLD",
+    "MIG_S_02_01": "CRIMEA",
+    "MIG_S_02_02": "CRIMEA",
+    "MIG_S_02_03": "CRIMEA",
+    "MIG_S_02_04": "LOWER_DANUBE",
+    "MIG_S_02_05": "PANNONIA",
+    "MIG_S_02_06": "CRIMEA",
+    "MIG_S_02_07": "DANUBE",
+    "MIG_S_02_08": "WESTERN_WORLD",
+    "MIG_A_02_01": "CONSTANTINOPLE",
+    "MIG_A_02_02": "PANNONIA",
+    "MIG_A_02_03": "DANUBE",
+    "MIG_A_02_04": "CRIMEA",
+    "MIG_S_03_01": "DANUBE",
+    "MIG_S_03_02": "MARCIANOPLE",
+    "MIG_S_03_03": "LOWER_DANUBE",
+    "MIG_S_03_04": "MARCIANOPLE",
+    "MIG_S_03_05": "ADRIANOPLE",
+    "MIG_S_03_06": "ADRIANOPLE",
+    "MIG_S_03_07": "ADRIANOPLE",
+    "MIG_S_03_08": "CONSTANTINOPLE",
+    "MIG_A_03_01": "CONSTANTINOPLE",
+    "MIG_A_03_02": "CONSTANTINOPLE",
+    "MIG_A_03_03": "ADRIANOPLE",
+    "MIG_A_03_04": "THESSALONICA",
+    "MIG_S_04_01": "RAVENNA",
+    "MIG_S_04_02": "MILAN",
+    "MIG_S_04_03": "CONSTANTINOPLE",
+    "MIG_S_04_04": "RAVENNA",
+    "MIG_S_04_05": "ROME",
+    "MIG_S_04_06": "ROME",
+    "MIG_S_04_07": "ROME",
+    "MIG_S_04_08": "ARLES",
+    "MIG_A_04_01": "ROME",
+    "MIG_A_04_02": "HIPPO",
+    "MIG_A_04_03": "RAVENNA",
+    "MIG_A_04_04": "ROME",
+    "MIG_S_05_01": "RHINE",
+    "MIG_S_05_02": "MAINZ",
+    "MIG_S_05_03": "ARLES",
+    "MIG_S_05_04": "BRITAIN",
+    "MIG_S_05_05": "ARLES",
+    "MIG_S_05_06": "WORMS",
+    "MIG_S_05_07": "TOULOUSE",
+    "MIG_S_05_08": "WESTERN_WORLD",
+    "MIG_A_05_01": "SPAIN",
+    "MIG_A_05_02": "ARLES",
+    "MIG_A_05_03": "TOULOUSE",
+    "MIG_A_05_04": "RHINE",
+    "MIG_S_06_01": "CARTHAGE",
+    "MIG_S_06_02": "SPAIN",
+    "MIG_S_06_03": "HIPPO",
+    "MIG_S_06_04": "CARTHAGE",
+    "MIG_S_06_05": "CARTHAGE",
+    "MIG_S_06_06": "SICILY",
+    "MIG_S_06_07": "CARTHAGE",
+    "MIG_S_06_08": "ROME",
+    "MIG_A_06_01": "CARTHAGE",
+    "MIG_A_06_02": "CARTHAGE",
+    "MIG_A_06_03": "CARTHAGE",
+    "MIG_A_06_04": "WESTERN_WORLD",
+    "MIG_S_07_01": "PANNONIA",
+    "MIG_S_07_02": "PANNONIA",
+    "MIG_S_07_03": "CONSTANTINOPLE",
+    "MIG_S_07_04": "CONSTANTINOPLE",
+    "MIG_S_07_05": "PANNONIA",
+    "MIG_S_07_06": "ORLEANS",
+    "MIG_S_07_07": "CATALAUNIAN",
+    "MIG_S_07_08": "AQUILEIA",
+    "MIG_A_07_01": "PANNONIA",
+    "MIG_A_07_02": "PANNONIA",
+    "MIG_A_07_03": "PANNONIA",
+    "MIG_A_07_04": "CATALAUNIAN",
+    "MIG_S_08_01": "RAVENNA",
+    "MIG_S_08_02": "ROME",
+    "MIG_S_08_03": "MILAN",
+    "MIG_S_08_04": "ARLES",
+    "MIG_S_08_05": "ROME",
+    "MIG_S_08_06": "PAVIA",
+    "MIG_S_08_07": "RAVENNA",
+    "MIG_S_08_08": "RAVENNA",
+    "MIG_A_08_01": "CONSTANTINOPLE",
+    "MIG_A_08_02": "RAVENNA",
+    "MIG_A_08_03": "DALMATIA",
+    "MIG_A_08_04": "ITALY",
+    "MIG_S_09_01": "BRITAIN",
+    "MIG_S_09_02": "YORK",
+    "MIG_S_09_03": "CANTERBURY",
+    "MIG_S_09_04": "BRITAIN",
+    "MIG_S_09_05": "CANTERBURY",
+    "MIG_S_09_06": "TINTAGEL",
+    "MIG_S_09_07": "BRITAIN",
+    "MIG_S_09_08": "WESTERN_WORLD",
+    "MIG_A_09_01": "BRITAIN",
+    "MIG_A_09_02": "BRITAIN",
+    "MIG_A_09_03": "TINTAGEL",
+    "MIG_A_09_04": "BRITAIN",
+    "MIG_S_10_01": "TOULOUSE",
+    "MIG_S_10_02": "TOULOUSE",
+    "MIG_S_10_03": "TOULOUSE",
+    "MIG_S_10_04": "GENEVA",
+    "MIG_S_10_05": "LYON",
+    "MIG_S_10_06": "SOISSONS",
+    "MIG_S_10_07": "SOISSONS",
+    "MIG_S_10_08": "VOUILLE",
+    "MIG_A_10_01": "TOULOUSE",
+    "MIG_A_10_02": "TOURS",
+    "MIG_A_10_03": "LYON",
+    "MIG_A_10_04": "TOULOUSE",
+    "MIG_S_11_01": "RAVENNA",
+    "MIG_S_11_02": "VERONA",
+    "MIG_S_11_03": "ITALY",
+    "MIG_S_11_04": "RAVENNA",
+    "MIG_S_11_05": "RAVENNA",
+    "MIG_S_11_06": "ROME",
+    "MIG_S_11_07": "ITALY",
+    "MIG_S_11_08": "PAVIA",
+    "MIG_A_11_01": "RAVENNA",
+    "MIG_A_11_02": "RAVENNA",
+    "MIG_A_11_03": "ITALY",
+    "MIG_A_11_04": "WESTERN_WORLD"
+  },
+  "chapters": {
+    "MIG_CHAPTER_01": {
+      "title": "Граница до переселений",
+      "center": [
+        45.2,
+        22.5
+      ],
+      "zoom": 6
+    },
+    "MIG_CHAPTER_02": {
+      "title": "Гунны и изменение причерноморского мира",
+      "center": [
+        45.2,
+        34.0
+      ],
+      "zoom": 6
+    },
+    "MIG_CHAPTER_03": {
+      "title": "Переход Дуная и Адрианополь",
+      "center": [
+        45.2,
+        22.5
+      ],
+      "zoom": 6
+    },
+    "MIG_CHAPTER_04": {
+      "title": "Аларих и разграбление Рима",
+      "center": [
+        41.008,
+        28.978
+      ],
+      "zoom": 6
+    },
+    "MIG_CHAPTER_05": {
+      "title": "Рейн, Галлия и распад западной обороны",
+      "center": [
+        49.9,
+        7.5
+      ],
+      "zoom": 6
+    },
+    "MIG_CHAPTER_06": {
+      "title": "Вандальская Африка и борьба за Средиземное море",
+      "center": [
+        40.4,
+        -3.7
+      ],
+      "zoom": 6
+    },
+    "MIG_CHAPTER_07": {
+      "title": "Аттила и гуннская держава",
+      "center": [
+        46.0,
+        18.0
+      ],
+      "zoom": 6
+    },
+    "MIG_CHAPTER_08": {
+      "title": "Западный двор и 476 год",
+      "center": [
+        44.418,
+        12.204
+      ],
+      "zoom": 6
+    },
+    "MIG_CHAPTER_09": {
+      "title": "Британия после римского управления",
+      "center": [
+        52.0,
+        -1.5
+      ],
+      "zoom": 6
+    },
+    "MIG_CHAPTER_10": {
+      "title": "Вестготы, бургунды и франки",
+      "center": [
+        43.604,
+        1.444
+      ],
+      "zoom": 6
+    },
+    "MIG_CHAPTER_11": {
+      "title": "Остготская Италия и постримский порядок",
+      "center": [
+        45.438,
+        10.992
+      ],
+      "zoom": 6
+    }
+  },
+  "missionCenter": [
+    46.0,
+    8.0
+  ],
+  "missionZoom": 4
+}

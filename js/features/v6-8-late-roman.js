@@ -1,6 +1,6 @@
-/* Codex v6.9.1 — Late Roman Empire */
+/* Codex v7.0.0 — Late Roman Empire */
 (()=>{
-  const V='6.9.1';
+  const V='7.0.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.LATE_ANTIQUITY='LATE_ANTIQUITY';
   state.lateRomanPhase=state.lateRomanPhase||'THIRD_CENTURY';

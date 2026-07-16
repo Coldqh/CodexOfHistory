@@ -1,6 +1,6 @@
-/* Codex v6.9.1 — international world of the Late Bronze Age */
+/* Codex v7.0.0 — international world of the Late Bronze Age */
 (()=>{
-  const V='6.9.1';
+  const V='7.0.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.BRONZE_INTERNATIONAL='BRONZE_INTERNATIONAL';
   state.internationalPhase=state.internationalPhase||'GREAT_KINGS';

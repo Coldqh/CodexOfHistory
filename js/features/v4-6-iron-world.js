@@ -1,6 +1,6 @@
-/* Codex v7.3.0 — Iron Age shared comparative layer and era exam */
+/* Codex v7.4.0 — Iron Age shared comparative layer and era exam */
 (()=>{
-  const V='7.3.0';
+  const V='7.4.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.IRON_ERA_EXAM='IRON_WORLD';
   state.ironWorldRegion=state.ironWorldRegion||'ASSYRIA';

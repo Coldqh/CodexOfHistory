@@ -1,0 +1,354 @@
+{
+  "points": {
+    "PATALIPUTRA": [
+      25.61,
+      85.14
+    ],
+    "VIDISHA": [
+      23.52,
+      77.81
+    ],
+    "SANCHI": [
+      23.49,
+      77.74
+    ],
+    "TAXILA": [
+      33.74,
+      72.84
+    ],
+    "PUSHKALAVATI": [
+      34.15,
+      71.73
+    ],
+    "MATHURA": [
+      27.49,
+      77.67
+    ],
+    "PURUSHAPURA": [
+      34.02,
+      71.58
+    ],
+    "BEGRAM": [
+      34.98,
+      69.25
+    ],
+    "BALKH": [
+      36.76,
+      66.9
+    ],
+    "AMARAVATI": [
+      16.57,
+      80.36
+    ],
+    "PRATISHTHANA": [
+      19.48,
+      75.38
+    ],
+    "NANEGHAT": [
+      19.3,
+      73.68
+    ],
+    "ARIKAMEDU": [
+      11.9,
+      79.82
+    ],
+    "BHARUCH": [
+      21.7,
+      72.97
+    ],
+    "MUZIRIS": [
+      10.16,
+      76.2
+    ],
+    "UJJAIN": [
+      23.18,
+      75.78
+    ],
+    "PRAYAGA": [
+      25.44,
+      81.84
+    ],
+    "SAKETA": [
+      26.8,
+      82.2
+    ],
+    "NALANDA": [
+      25.14,
+      85.44
+    ],
+    "SARNATH": [
+      25.38,
+      83.02
+    ],
+    "UDAYAGIRI": [
+      23.53,
+      77.77
+    ],
+    "AJANTA": [
+      20.55,
+      75.7
+    ],
+    "DEOGARH": [
+      24.53,
+      78.24
+    ],
+    "ERAN": [
+      24.1,
+      78.17
+    ],
+    "MALWA": [
+      23.2,
+      75.0
+    ],
+    "BENGAL": [
+      23.7,
+      90.35
+    ],
+    "TAMRALIPTI": [
+      22.3,
+      87.92
+    ],
+    "KANCHIPURAM": [
+      12.84,
+      79.7
+    ],
+    "GIRNAR": [
+      21.52,
+      70.53
+    ],
+    "MANDASOR": [
+      24.07,
+      75.07
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "GUP_S_01_01": "PATALIPUTRA",
+    "GUP_S_01_02": "PATALIPUTRA",
+    "GUP_S_01_03": "VIDISHA",
+    "GUP_S_01_04": "SANCHI",
+    "GUP_S_01_05": "VIDISHA",
+    "GUP_S_01_06": "PATALIPUTRA",
+    "GUP_S_01_07": "PATALIPUTRA",
+    "GUP_S_01_08": "PATALIPUTRA",
+    "GUP_A_01_01": "SANCHI",
+    "GUP_A_01_02": "SANCHI",
+    "GUP_A_01_03": "VIDISHA",
+    "GUP_A_01_04": "VIDISHA",
+    "GUP_S_02_01": "TAXILA",
+    "GUP_S_02_02": "PUSHKALAVATI",
+    "GUP_S_02_03": "TAXILA",
+    "GUP_S_02_04": "MATHURA",
+    "GUP_S_02_05": "GIRNAR",
+    "GUP_S_02_06": "TAXILA",
+    "GUP_S_02_07": "TAXILA",
+    "GUP_S_02_08": "MATHURA",
+    "GUP_A_02_01": "PUSHKALAVATI",
+    "GUP_A_02_02": "MATHURA",
+    "GUP_A_02_03": "TAXILA",
+    "GUP_A_02_04": "GIRNAR",
+    "GUP_S_03_01": "BALKH",
+    "GUP_S_03_02": "BEGRAM",
+    "GUP_S_03_03": "PURUSHAPURA",
+    "GUP_S_03_04": "MATHURA",
+    "GUP_S_03_05": "BALKH",
+    "GUP_S_03_06": "PURUSHAPURA",
+    "GUP_S_03_07": "MATHURA",
+    "GUP_S_03_08": "BEGRAM",
+    "GUP_A_03_01": "BALKH",
+    "GUP_A_03_02": "BALKH",
+    "GUP_A_03_03": "BEGRAM",
+    "GUP_A_03_04": "MATHURA",
+    "GUP_S_04_01": "PURUSHAPURA",
+    "GUP_S_04_02": "MATHURA",
+    "GUP_S_04_03": "MATHURA",
+    "GUP_S_04_04": "PURUSHAPURA",
+    "GUP_S_04_05": "TAXILA",
+    "GUP_S_04_06": "PURUSHAPURA",
+    "GUP_S_04_07": "SARNATH",
+    "GUP_S_04_08": "TAXILA",
+    "GUP_A_04_01": "PURUSHAPURA",
+    "GUP_A_04_02": "MATHURA",
+    "GUP_A_04_03": "TAXILA",
+    "GUP_A_04_04": "PURUSHAPURA",
+    "GUP_S_05_01": "PRATISHTHANA",
+    "GUP_S_05_02": "NANEGHAT",
+    "GUP_S_05_03": "PRATISHTHANA",
+    "GUP_S_05_04": "NANEGHAT",
+    "GUP_S_05_05": "PRATISHTHANA",
+    "GUP_S_05_06": "MALWA",
+    "GUP_S_05_07": "AMARAVATI",
+    "GUP_S_05_08": "PRATISHTHANA",
+    "GUP_A_05_01": "NANEGHAT",
+    "GUP_A_05_02": "PRATISHTHANA",
+    "GUP_A_05_03": "AMARAVATI",
+    "GUP_A_05_04": "PRATISHTHANA",
+    "GUP_S_06_01": "MUZIRIS",
+    "GUP_S_06_02": "BHARUCH",
+    "GUP_S_06_03": "MUZIRIS",
+    "GUP_S_06_04": "ARIKAMEDU",
+    "GUP_S_06_05": "TAMRALIPTI",
+    "GUP_S_06_06": "BHARUCH",
+    "GUP_S_06_07": "MUZIRIS",
+    "GUP_S_06_08": "BHARUCH",
+    "GUP_A_06_01": "ARIKAMEDU",
+    "GUP_A_06_02": "MUZIRIS",
+    "GUP_A_06_03": "MUZIRIS",
+    "GUP_A_06_04": "ARIKAMEDU",
+    "GUP_S_07_01": "PATALIPUTRA",
+    "GUP_S_07_02": "SAKETA",
+    "GUP_S_07_03": "PRAYAGA",
+    "GUP_S_07_04": "PRAYAGA",
+    "GUP_S_07_05": "UJJAIN",
+    "GUP_S_07_06": "PATALIPUTRA",
+    "GUP_S_07_07": "UJJAIN",
+    "GUP_S_07_08": "PRAYAGA",
+    "GUP_A_07_01": "PRAYAGA",
+    "GUP_A_07_02": "SAKETA",
+    "GUP_A_07_03": "PATALIPUTRA",
+    "GUP_A_07_04": "PATALIPUTRA",
+    "GUP_S_08_01": "BENGAL",
+    "GUP_S_08_02": "BENGAL",
+    "GUP_S_08_03": "PATALIPUTRA",
+    "GUP_S_08_04": "BENGAL",
+    "GUP_S_08_05": "MANDASOR",
+    "GUP_S_08_06": "MANDASOR",
+    "GUP_S_08_07": "PATALIPUTRA",
+    "GUP_S_08_08": "ERAN",
+    "GUP_A_08_01": "BENGAL",
+    "GUP_A_08_02": "MANDASOR",
+    "GUP_A_08_03": "ERAN",
+    "GUP_A_08_04": "PATALIPUTRA",
+    "GUP_S_09_01": "PATALIPUTRA",
+    "GUP_S_09_02": "UDAYAGIRI",
+    "GUP_S_09_03": "UDAYAGIRI",
+    "GUP_S_09_04": "DEOGARH",
+    "GUP_S_09_05": "SARNATH",
+    "GUP_S_09_06": "MATHURA",
+    "GUP_S_09_07": "UDAYAGIRI",
+    "GUP_S_09_08": "NALANDA",
+    "GUP_A_09_01": "UDAYAGIRI",
+    "GUP_A_09_02": "DEOGARH",
+    "GUP_A_09_03": "SARNATH",
+    "GUP_A_09_04": "MATHURA",
+    "GUP_S_10_01": "UJJAIN",
+    "GUP_S_10_02": "UJJAIN",
+    "GUP_S_10_03": "PATALIPUTRA",
+    "GUP_S_10_04": "PATALIPUTRA",
+    "GUP_S_10_05": "NALANDA",
+    "GUP_S_10_06": "AJANTA",
+    "GUP_S_10_07": "SARNATH",
+    "GUP_S_10_08": "PATALIPUTRA",
+    "GUP_A_10_01": "NALANDA",
+    "GUP_A_10_02": "NALANDA",
+    "GUP_A_10_03": "AJANTA",
+    "GUP_A_10_04": "DEOGARH",
+    "GUP_S_11_01": "GIRNAR",
+    "GUP_S_11_02": "ERAN",
+    "GUP_S_11_03": "ERAN",
+    "GUP_S_11_04": "ERAN",
+    "GUP_S_11_05": "MANDASOR",
+    "GUP_S_11_06": "PATALIPUTRA",
+    "GUP_S_11_07": "SAKETA",
+    "GUP_S_11_08": "MALWA",
+    "GUP_A_11_01": "PATALIPUTRA",
+    "GUP_A_11_02": "ERAN",
+    "GUP_A_11_03": "ERAN",
+    "GUP_A_11_04": "MANDASOR"
+  },
+  "chapters": {
+    "GUP_CHAPTER_01": {
+      "title": "После Маурьев: региональные миры",
+      "center": [
+        25.61,
+        85.14
+      ],
+      "zoom": 6
+    },
+    "GUP_CHAPTER_02": {
+      "title": "Индо-греки, шаки и индо-парфяне",
+      "center": [
+        33.74,
+        72.84
+      ],
+      "zoom": 6
+    },
+    "GUP_CHAPTER_03": {
+      "title": "Кушанская держава",
+      "center": [
+        36.76,
+        66.9
+      ],
+      "zoom": 6
+    },
+    "GUP_CHAPTER_04": {
+      "title": "Гандхара, Матхура и буддийские сети",
+      "center": [
+        34.02,
+        71.58
+      ],
+      "zoom": 6
+    },
+    "GUP_CHAPTER_05": {
+      "title": "Сатаваханы и Декан",
+      "center": [
+        19.48,
+        75.38
+      ],
+      "zoom": 6
+    },
+    "GUP_CHAPTER_06": {
+      "title": "Индийский океан и портовые сети",
+      "center": [
+        21.7,
+        72.97
+      ],
+      "zoom": 6
+    },
+    "GUP_CHAPTER_07": {
+      "title": "Возникновение Гуптов",
+      "center": [
+        25.61,
+        85.14
+      ],
+      "zoom": 6
+    },
+    "GUP_CHAPTER_08": {
+      "title": "Гуптское государство и общество",
+      "center": [
+        25.61,
+        85.14
+      ],
+      "zoom": 6
+    },
+    "GUP_CHAPTER_09": {
+      "title": "Санскритская культура и религиозные миры",
+      "center": [
+        23.53,
+        77.77
+      ],
+      "zoom": 6
+    },
+    "GUP_CHAPTER_10": {
+      "title": "Литература, математика и искусство",
+      "center": [
+        23.18,
+        75.78
+      ],
+      "zoom": 6
+    },
+    "GUP_CHAPTER_11": {
+      "title": "Хуна и распад гуптского порядка",
+      "center": [
+        24.1,
+        78.17
+      ],
+      "zoom": 6
+    }
+  },
+  "missionCenter": [
+    23.0,
+    79.0
+  ],
+  "missionZoom": 4
+}

@@ -370,3 +370,7 @@
 ## v7.3 — Центральная Азия после Хань
 
 Локальные SVG-обложки 132 карточек и обложка пака созданы для Codex of History. Учебная основа: UNESCO Silk Roads Programme, UNESCO Samarkand и Bamiyan, Metropolitan Museum of Art, British Library, British Museum и справочные исследования по Согдиане, Бактрии, Тариму, эфталитам и тюркским каганатам.
+
+## v7.4 — Индия от Кушанов до Гуптов
+
+Локальные SVG-обложки 132 карточек и обложка пака созданы для Codex of History. Учебная основа: Metropolitan Museum of Art, UNESCO Sanchi, Ajanta и Nalanda, British Museum, Archaeological Survey of India, American Numismatic Society и исследования по Кушанам, Сатаваханам, Гуптам, индийской математике и торговле Индийского океана.

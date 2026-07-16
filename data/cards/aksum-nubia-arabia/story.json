@@ -1,0 +1,5194 @@
+[
+  {
+    "id": "ANA_S_01_01",
+    "type": "CONCEPT",
+    "title": "Эритрейское море античных географов",
+    "original": "Эритрейское море античных географов",
+    "subtitle": "название охватывало Красное море и часть Индийского океана",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "I–VI века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Эритрейское море античных географов — название охватывало Красное море и часть Индийского океана.",
+    "importance": "Карточка раскрывает главу «Красное море как связанный мир» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I–VI века.",
+      "Основной смысл: название охватывало Красное море и часть Индийского океана.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Красное море как связанный мир",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Баб-эль-Мандеб",
+      "lat": 12.58,
+      "lon": 43.33
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-01/ana_s_01_01.svg",
+      "caption": "Локальная учебная обложка: Эритрейское море античных географов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_01_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Africa and Red Sea collections",
+      "url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_01"
+  },
+  {
+    "id": "ANA_S_01_02",
+    "type": "TECHNOLOGY",
+    "title": "Сезонная навигация Красного моря",
+    "original": "Сезонная навигация Красного моря",
+    "subtitle": "сезонные ветры определяли сроки дальних морских переходов",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "I–VII века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Сезонная навигация Красного моря — сезонные ветры определяли сроки дальних морских переходов.",
+    "importance": "Карточка раскрывает главу «Красное море как связанный мир» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I–VII века.",
+      "Основной смысл: сезонные ветры определяли сроки дальних морских переходов.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Красное море как связанный мир",
+      "technology"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 8,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Аден",
+      "lat": 12.79,
+      "lon": 45.03
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-01/ana_s_01_02.svg",
+      "caption": "Локальная учебная обложка: Сезонная навигация Красного моря",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_01_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Africa and Red Sea collections",
+      "url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_01"
+  },
+  {
+    "id": "ANA_S_01_03",
+    "type": "ROUTE",
+    "title": "Караван Коптос–Береника",
+    "original": "Караван Коптос–Береника",
+    "subtitle": "пустынная дорога связывала Нил с красноморским портом",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "I–IV века",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Караван Коптос–Береника — пустынная дорога связывала Нил с красноморским портом.",
+    "importance": "Карточка раскрывает главу «Красное море как связанный мир» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I–IV века.",
+      "Основной смысл: пустынная дорога связывала Нил с красноморским портом.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Красное море как связанный мир",
+      "route"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Коптос",
+      "lat": 25.99,
+      "lon": 32.82
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-01/ana_s_01_03.svg",
+      "caption": "Локальная учебная обложка: Караван Коптос–Береника",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_01_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Africa and Red Sea collections",
+      "url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_01"
+  },
+  {
+    "id": "ANA_S_01_04",
+    "type": "GEOGRAPHY",
+    "title": "Баб-эль-Мандебский пролив",
+    "original": "Баб-эль-Мандебский пролив",
+    "subtitle": "узкий проход соединял Красное море и Аденский залив",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "I–VII века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Баб-эль-Мандебский пролив — узкий проход соединял Красное море и Аденский залив.",
+    "importance": "Карточка раскрывает главу «Красное море как связанный мир» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I–VII века.",
+      "Основной смысл: узкий проход соединял Красное море и Аденский залив.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Красное море как связанный мир",
+      "geography"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 6,
+      "culture": 5,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Баб-эль-Мандеб",
+      "lat": 12.58,
+      "lon": 43.33
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-01/ana_s_01_04.svg",
+      "caption": "Локальная учебная обложка: Баб-эль-Мандебский пролив",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_01_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Africa and Red Sea collections",
+      "url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_01"
+  },
+  {
+    "id": "ANA_S_01_05",
+    "type": "SOCIETY",
+    "title": "Портовые посредники Красного моря",
+    "original": "Портовые посредники Красного моря",
+    "subtitle": "переводчики, лоцманы, купцы и сборщики пошлин обеспечивали обмен",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "I–VII века",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Портовые посредники Красного моря — переводчики, лоцманы, купцы и сборщики пошлин обеспечивали обмен.",
+    "importance": "Карточка раскрывает главу «Красное море как связанный мир» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I–VII века.",
+      "Основной смысл: переводчики, лоцманы, купцы и сборщики пошлин обеспечивали обмен.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Красное море как связанный мир",
+      "society"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 8,
+      "culture": 6,
+      "politics": 7,
+      "religion": 5,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Адулис",
+      "lat": 15.26,
+      "lon": 39.67
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-01/ana_s_01_05.svg",
+      "caption": "Локальная учебная обложка: Портовые посредники Красного моря",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_01_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Africa and Red Sea collections",
+      "url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_01"
+  },
+  {
+    "id": "ANA_S_01_06",
+    "type": "TRADE",
+    "title": "Слоновая кость северо-восточной Африки",
+    "original": "Слоновая кость северо-восточной Африки",
+    "subtitle": "дорогой материал шёл из внутренних районов к морским портам",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "I–VI века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Слоновая кость северо-восточной Африки — дорогой материал шёл из внутренних районов к морским портам.",
+    "importance": "Карточка раскрывает главу «Красное море как связанный мир» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I–VI века.",
+      "Основной смысл: дорогой материал шёл из внутренних районов к морским портам.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Красное море как связанный мир",
+      "trade"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Адулис",
+      "lat": 15.26,
+      "lon": 39.67
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-01/ana_s_01_06.svg",
+      "caption": "Локальная учебная обложка: Слоновая кость северо-восточной Африки",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_01_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Africa and Red Sea collections",
+      "url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_01"
+  },
+  {
+    "id": "ANA_S_01_07",
+    "type": "TRADE",
+    "title": "Ароматические вещества Южной Аравии",
+    "original": "Ароматические вещества Южной Аравии",
+    "subtitle": "ладан и другие товары связывали горные районы с портами",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "I–VI века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Ароматические вещества Южной Аравии — ладан и другие товары связывали горные районы с портами.",
+    "importance": "Карточка раскрывает главу «Красное море как связанный мир» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I–VI века.",
+      "Основной смысл: ладан и другие товары связывали горные районы с портами.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Красное море как связанный мир",
+      "trade"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 6,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Аден",
+      "lat": 12.79,
+      "lon": 45.03
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-01/ana_s_01_07.svg",
+      "caption": "Локальная учебная обложка: Ароматические вещества Южной Аравии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_01_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Africa and Red Sea collections",
+      "url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_01"
+  },
+  {
+    "id": "ANA_S_01_08",
+    "type": "CONCEPT",
+    "title": "Многозвенная сеть Красного моря",
+    "original": "Многозвенная сеть Красного моря",
+    "subtitle": "товары и сведения проходили через несколько политических и природных зон",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "I–VII века",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Многозвенная сеть Красного моря — товары и сведения проходили через несколько политических и природных зон.",
+    "importance": "Карточка раскрывает главу «Красное море как связанный мир» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I–VII века.",
+      "Основной смысл: товары и сведения проходили через несколько политических и природных зон.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Красное море как связанный мир",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 8,
+      "culture": 9,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Баб-эль-Мандеб",
+      "lat": 12.58,
+      "lon": 43.33
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-01/ana_s_01_08.svg",
+      "caption": "Локальная учебная обложка: Многозвенная сеть Красного моря",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_01_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Africa and Red Sea collections",
+      "url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_01"
+  },
+  {
+    "id": "ANA_S_02_01",
+    "type": "GEOGRAPHY",
+    "title": "Североэфиопское нагорье",
+    "original": "Североэфиопское нагорье",
+    "subtitle": "плато давало земледельческую базу и контролировало проходы к побережью",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "I–III века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Североэфиопское нагорье — плато давало земледельческую базу и контролировало проходы к побережью.",
+    "importance": "Карточка раскрывает главу «Возникновение Аксумского царства» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I–III века.",
+      "Основной смысл: плато давало земледельческую базу и контролировало проходы к побережью.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Возникновение Аксумского царства",
+      "geography"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 8,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-02/ana_s_02_01.svg",
+      "caption": "Локальная учебная обложка: Североэфиопское нагорье",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/15/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_02_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Aksum",
+      "url": "https://whc.unesco.org/en/list/15/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_02"
+  },
+  {
+    "id": "ANA_S_02_02",
+    "type": "SITE",
+    "title": "Йеха после сабейского периода",
+    "original": "Йеха после сабейского периода",
+    "subtitle": "древний центр сохранял религиозное и политическое значение",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "I тысячелетие до н. э. – I век н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Йеха после сабейского периода — древний центр сохранял религиозное и политическое значение.",
+    "importance": "Карточка раскрывает главу «Возникновение Аксумского царства» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I тысячелетие до н. э. – I век н. э..",
+      "Основной смысл: древний центр сохранял религиозное и политическое значение.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Возникновение Аксумского царства",
+      "site"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 3,
+      "culture": 9,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Йеха",
+      "lat": 14.29,
+      "lon": 39.02
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-02/ana_s_02_02.svg",
+      "caption": "Локальная учебная обложка: Йеха после сабейского периода",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/15/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_02_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Aksum",
+      "url": "https://whc.unesco.org/en/list/15/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_02"
+  },
+  {
+    "id": "ANA_S_02_03",
+    "type": "POLITY",
+    "title": "Ранний Аксум",
+    "original": "Ранний Аксум",
+    "subtitle": "царский центр объединял нагорье и дороги к Красному морю",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "I–III века",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Ранний Аксум — царский центр объединял нагорье и дороги к Красному морю.",
+    "importance": "Карточка раскрывает главу «Возникновение Аксумского царства» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I–III века.",
+      "Основной смысл: царский центр объединял нагорье и дороги к Красному морю.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Возникновение Аксумского царства",
+      "polity"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 5,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-02/ana_s_02_03.svg",
+      "caption": "Локальная учебная обложка: Ранний Аксум",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/15/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_02_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Aksum",
+      "url": "https://whc.unesco.org/en/list/15/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_02"
+  },
+  {
+    "id": "ANA_S_02_04",
+    "type": "LANGUAGE",
+    "title": "Геэз как язык власти",
+    "original": "Геэз как язык власти",
+    "subtitle": "местный письменный язык стал основой царских надписей",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "II–IV века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Геэз как язык власти — местный письменный язык стал основой царских надписей.",
+    "importance": "Карточка раскрывает главу «Возникновение Аксумского царства» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: II–IV века.",
+      "Основной смысл: местный письменный язык стал основой царских надписей.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Возникновение Аксумского царства",
+      "language"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-02/ana_s_02_04.svg",
+      "caption": "Локальная учебная обложка: Геэз как язык власти",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/15/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_02_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Aksum",
+      "url": "https://whc.unesco.org/en/list/15/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_02"
+  },
+  {
+    "id": "ANA_S_02_05",
+    "type": "CITY",
+    "title": "Мэтара",
+    "original": "Мэтара",
+    "subtitle": "городской узел связывал Аксум с северными землями и побережьем",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "I–VI века",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Мэтара — городской узел связывал Аксум с северными землями и побережьем.",
+    "importance": "Карточка раскрывает главу «Возникновение Аксумского царства» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I–VI века.",
+      "Основной смысл: городской узел связывал Аксум с северными землями и побережьем.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Возникновение Аксумского царства",
+      "city"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 3,
+      "culture": 7,
+      "politics": 9,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мэтара",
+      "lat": 14.35,
+      "lon": 39.47
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-02/ana_s_02_05.svg",
+      "caption": "Локальная учебная обложка: Мэтара",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/15/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_02_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Aksum",
+      "url": "https://whc.unesco.org/en/list/15/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_02"
+  },
+  {
+    "id": "ANA_S_02_06",
+    "type": "SITE",
+    "title": "Кохайто",
+    "original": "Кохайто",
+    "subtitle": "высокогорное поселение контролировало земледельческие и транспортные зоны",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "I–VI века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Кохайто — высокогорное поселение контролировало земледельческие и транспортные зоны.",
+    "importance": "Карточка раскрывает главу «Возникновение Аксумского царства» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I–VI века.",
+      "Основной смысл: высокогорное поселение контролировало земледельческие и транспортные зоны.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Возникновение Аксумского царства",
+      "site"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Кохайто",
+      "lat": 14.89,
+      "lon": 39.43
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-02/ana_s_02_06.svg",
+      "caption": "Локальная учебная обложка: Кохайто",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/15/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_02_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Aksum",
+      "url": "https://whc.unesco.org/en/list/15/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_02"
+  },
+  {
+    "id": "ANA_S_02_07",
+    "type": "ECONOMY",
+    "title": "Высокогорная террасная экономика",
+    "original": "Высокогорная террасная экономика",
+    "subtitle": "земледелие и управление водой поддерживали население плато",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "I–VI века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Высокогорная террасная экономика — земледелие и управление водой поддерживали население плато.",
+    "importance": "Карточка раскрывает главу «Возникновение Аксумского царства» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I–VI века.",
+      "Основной смысл: земледелие и управление водой поддерживали население плато.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Возникновение Аксумского царства",
+      "economy"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 7,
+      "culture": 9,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-02/ana_s_02_07.svg",
+      "caption": "Локальная учебная обложка: Высокогорная террасная экономика",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/15/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_02_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Aksum",
+      "url": "https://whc.unesco.org/en/list/15/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_02"
+  },
+  {
+    "id": "ANA_S_02_08",
+    "type": "CONCEPT",
+    "title": "Аксум не как внешняя колония",
+    "original": "Аксум не как внешняя колония",
+    "subtitle": "местная государственность переработала, а не копировала южноаравийские влияния",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "I–III века",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Аксум не как внешняя колония — местная государственность переработала, а не копировала южноаравийские влияния.",
+    "importance": "Карточка раскрывает главу «Возникновение Аксумского царства» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I–III века.",
+      "Основной смысл: местная государственность переработала, а не копировала южноаравийские влияния.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Возникновение Аксумского царства",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 3,
+      "culture": 5,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Йеха",
+      "lat": 14.29,
+      "lon": 39.02
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-02/ana_s_02_08.svg",
+      "caption": "Локальная учебная обложка: Аксум не как внешняя колония",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/15/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_02_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Aksum",
+      "url": "https://whc.unesco.org/en/list/15/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_02"
+  },
+  {
+    "id": "ANA_S_03_01",
+    "type": "PORT",
+    "title": "Адулисский порт",
+    "original": "Адулисский порт",
+    "subtitle": "главная морская гавань Аксумского царства",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "I–VI века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Адулисский порт — главная морская гавань Аксумского царства.",
+    "importance": "Карточка раскрывает главу «Адулис, монета и дальняя торговля» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I–VI века.",
+      "Основной смысл: главная морская гавань Аксумского царства.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Адулис, монета и дальняя торговля",
+      "port"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 8,
+      "culture": 9,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Адулис",
+      "lat": 15.26,
+      "lon": 39.67
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-03/ana_s_03_01.svg",
+      "caption": "Локальная учебная обложка: Адулисский порт",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/aksu/hd_aksu.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_03_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Aksum and the Horn of Africa",
+      "url": "https://www.metmuseum.org/toah/hd/aksu/hd_aksu.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_03"
+  },
+  {
+    "id": "ANA_S_03_02",
+    "type": "INSTITUTION",
+    "title": "Адулисский таможенный сбор",
+    "original": "Адулисский таможенный сбор",
+    "subtitle": "пошлины связывали торговлю с доходами царя",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "I–VI века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Адулисский таможенный сбор — пошлины связывали торговлю с доходами царя.",
+    "importance": "Карточка раскрывает главу «Адулис, монета и дальняя торговля» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I–VI века.",
+      "Основной смысл: пошлины связывали торговлю с доходами царя.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Адулис, монета и дальняя торговля",
+      "institution"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 4,
+      "culture": 5,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Адулис",
+      "lat": 15.26,
+      "lon": 39.67
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-03/ana_s_03_02.svg",
+      "caption": "Локальная учебная обложка: Адулисский таможенный сбор",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/aksu/hd_aksu.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_03_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Aksum and the Horn of Africa",
+      "url": "https://www.metmuseum.org/toah/hd/aksu/hd_aksu.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_03"
+  },
+  {
+    "id": "ANA_S_03_03",
+    "type": "NUMISMATICS",
+    "title": "Золотой ауреус Аксумa",
+    "original": "Золотой ауреус Аксумa",
+    "subtitle": "золотая монета обращалась в дальних связях и демонстрировала царский статус",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "III–VI века",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Золотой ауреус Аксумa — золотая монета обращалась в дальних связях и демонстрировала царский статус.",
+    "importance": "Карточка раскрывает главу «Адулис, монета и дальняя торговля» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–VI века.",
+      "Основной смысл: золотая монета обращалась в дальних связях и демонстрировала царский статус.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Адулис, монета и дальняя торговля",
+      "numismatics"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 6,
+      "culture": 6,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-03/ana_s_03_03.svg",
+      "caption": "Локальная учебная обложка: Золотой ауреус Аксумa",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/aksu/hd_aksu.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_03_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Aksum and the Horn of Africa",
+      "url": "https://www.metmuseum.org/toah/hd/aksu/hd_aksu.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_03"
+  },
+  {
+    "id": "ANA_S_03_04",
+    "type": "NUMISMATICS",
+    "title": "Медная аксумская монета",
+    "original": "Медная аксумская монета",
+    "subtitle": "доступная чеканка распространяла царский образ в повседневном обмене",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "III–VI века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Медная аксумская монета — доступная чеканка распространяла царский образ в повседневном обмене.",
+    "importance": "Карточка раскрывает главу «Адулис, монета и дальняя торговля» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–VI века.",
+      "Основной смысл: доступная чеканка распространяла царский образ в повседневном обмене.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Адулис, монета и дальняя торговля",
+      "numismatics"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 8,
+      "culture": 7,
+      "politics": 5,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-03/ana_s_03_04.svg",
+      "caption": "Локальная учебная обложка: Медная аксумская монета",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/aksu/hd_aksu.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_03_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Aksum and the Horn of Africa",
+      "url": "https://www.metmuseum.org/toah/hd/aksu/hd_aksu.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_03"
+  },
+  {
+    "id": "ANA_S_03_05",
+    "type": "PERSON",
+    "title": "Царь Эндубис",
+    "original": "Царь Эндубис",
+    "subtitle": "один из первых известных аксумских правителей с собственной монетой",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "III век",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Царь Эндубис — один из первых известных аксумских правителей с собственной монетой.",
+    "importance": "Карточка раскрывает главу «Адулис, монета и дальняя торговля» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III век.",
+      "Основной смысл: один из первых известных аксумских правителей с собственной монетой.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Адулис, монета и дальняя торговля",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 4,
+      "culture": 8,
+      "politics": 6,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-03/ana_s_03_05.svg",
+      "caption": "Локальная учебная обложка: Царь Эндубис",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/aksu/hd_aksu.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_03_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Aksum and the Horn of Africa",
+      "url": "https://www.metmuseum.org/toah/hd/aksu/hd_aksu.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_03"
+  },
+  {
+    "id": "ANA_S_03_06",
+    "type": "TRADE",
+    "title": "Слоновая кость Адулиса",
+    "original": "Слоновая кость Адулиса",
+    "subtitle": "порт концентрировал материал из внутренних районов Африки",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "I–VI века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Слоновая кость Адулиса — порт концентрировал материал из внутренних районов Африки.",
+    "importance": "Карточка раскрывает главу «Адулис, монета и дальняя торговля» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I–VI века.",
+      "Основной смысл: порт концентрировал материал из внутренних районов Африки.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Адулис, монета и дальняя торговля",
+      "trade"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Адулис",
+      "lat": 15.26,
+      "lon": 39.67
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-03/ana_s_03_06.svg",
+      "caption": "Локальная учебная обложка: Слоновая кость Адулиса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/aksu/hd_aksu.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_03_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Aksum and the Horn of Africa",
+      "url": "https://www.metmuseum.org/toah/hd/aksu/hd_aksu.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_03"
+  },
+  {
+    "id": "ANA_S_03_07",
+    "type": "TRADE",
+    "title": "Импортная амфора в Аксуме",
+    "original": "Импортная амфора в Аксуме",
+    "subtitle": "сосуд показывает движение вина, масла или других грузов из-за моря",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "I–VI века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Импортная амфора в Аксуме — сосуд показывает движение вина, масла или других грузов из-за моря.",
+    "importance": "Карточка раскрывает главу «Адулис, монета и дальняя торговля» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I–VI века.",
+      "Основной смысл: сосуд показывает движение вина, масла или других грузов из-за моря.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Адулис, монета и дальняя торговля",
+      "trade"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 8,
+      "culture": 5,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-03/ana_s_03_07.svg",
+      "caption": "Локальная учебная обложка: Импортная амфора в Аксуме",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/aksu/hd_aksu.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_03_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Aksum and the Horn of Africa",
+      "url": "https://www.metmuseum.org/toah/hd/aksu/hd_aksu.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_03"
+  },
+  {
+    "id": "ANA_S_03_08",
+    "type": "CONCEPT",
+    "title": "Монета как язык внешней политики",
+    "original": "Монета как язык внешней политики",
+    "subtitle": "портрет, титул и символы сообщали о власти разным аудиториям",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "III–VI века",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Монета как язык внешней политики — портрет, титул и символы сообщали о власти разным аудиториям.",
+    "importance": "Карточка раскрывает главу «Адулис, монета и дальняя торговля» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–VI века.",
+      "Основной смысл: портрет, титул и символы сообщали о власти разным аудиториям.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Адулис, монета и дальняя торговля",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 4,
+      "culture": 6,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-03/ana_s_03_08.svg",
+      "caption": "Локальная учебная обложка: Монета как язык внешней политики",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/toah/hd/aksu/hd_aksu.htm",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_03_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: Aksum and the Horn of Africa",
+      "url": "https://www.metmuseum.org/toah/hd/aksu/hd_aksu.htm",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_03"
+  },
+  {
+    "id": "ANA_S_04_01",
+    "type": "MONUMENT",
+    "title": "Большая стела Аксумa",
+    "original": "Большая стела Аксумa",
+    "subtitle": "гигантский монолит изображал многоэтажный дворец и отмечал царскую погребальную зону",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "III–IV века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Большая стела Аксумa — гигантский монолит изображал многоэтажный дворец и отмечал царскую погребальную зону.",
+    "importance": "Карточка раскрывает главу «Стелы, гробницы и царская власть» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–IV века.",
+      "Основной смысл: гигантский монолит изображал многоэтажный дворец и отмечал царскую погребальную зону.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Стелы, гробницы и царская власть",
+      "monument"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 3,
+      "culture": 5,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-04/ana_s_04_01.svg",
+      "caption": "Локальная учебная обложка: Большая стела Аксумa",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/15/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Aksum",
+      "url": "https://whc.unesco.org/en/list/15/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_04"
+  },
+  {
+    "id": "ANA_S_04_02",
+    "type": "MONUMENT",
+    "title": "Стела царя Эзаны",
+    "original": "Стела царя Эзаны",
+    "subtitle": "меньший монолит связан с эпохой перехода к христианству",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "IV век",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Стела царя Эзаны — меньший монолит связан с эпохой перехода к христианству.",
+    "importance": "Карточка раскрывает главу «Стелы, гробницы и царская власть» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: меньший монолит связан с эпохой перехода к христианству.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Стелы, гробницы и царская власть",
+      "monument"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 5,
+      "culture": 6,
+      "politics": 5,
+      "religion": 5,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-04/ana_s_04_02.svg",
+      "caption": "Локальная учебная обложка: Стела царя Эзаны",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/15/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Aksum",
+      "url": "https://whc.unesco.org/en/list/15/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_04"
+  },
+  {
+    "id": "ANA_S_04_03",
+    "type": "SACRED_SITE",
+    "title": "Поле стел",
+    "original": "Поле стел",
+    "subtitle": "комплекс объединял монументы, платформы и подземные гробницы",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "III–IV века",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Поле стел — комплекс объединял монументы, платформы и подземные гробницы.",
+    "importance": "Карточка раскрывает главу «Стелы, гробницы и царская власть» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–IV века.",
+      "Основной смысл: комплекс объединял монументы, платформы и подземные гробницы.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Стелы, гробницы и царская власть",
+      "sacred_site"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 7,
+      "culture": 7,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-04/ana_s_04_03.svg",
+      "caption": "Локальная учебная обложка: Поле стел",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/15/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Aksum",
+      "url": "https://whc.unesco.org/en/list/15/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_04"
+  },
+  {
+    "id": "ANA_S_04_04",
+    "type": "TOMB",
+    "title": "Гробница ложной двери",
+    "original": "Гробница ложной двери",
+    "subtitle": "подземная архитектура имитировала вход и статусное здание",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "III–IV века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Гробница ложной двери — подземная архитектура имитировала вход и статусное здание.",
+    "importance": "Карточка раскрывает главу «Стелы, гробницы и царская власть» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–IV века.",
+      "Основной смысл: подземная архитектура имитировала вход и статусное здание.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Стелы, гробницы и царская власть",
+      "tomb"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 3,
+      "culture": 8,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-04/ana_s_04_04.svg",
+      "caption": "Локальная учебная обложка: Гробница ложной двери",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/15/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_04_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Aksum",
+      "url": "https://whc.unesco.org/en/list/15/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_04"
+  },
+  {
+    "id": "ANA_S_04_05",
+    "type": "ART",
+    "title": "Резной фасад многоэтажного дома",
+    "original": "Резной фасад многоэтажного дома",
+    "subtitle": "каменное изображение переводило деревянную архитектуру в монументальный символ",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "III–IV века",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Резной фасад многоэтажного дома — каменное изображение переводило деревянную архитектуру в монументальный символ.",
+    "importance": "Карточка раскрывает главу «Стелы, гробницы и царская власть» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–IV века.",
+      "Основной смысл: каменное изображение переводило деревянную архитектуру в монументальный символ.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Стелы, гробницы и царская власть",
+      "art"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 5,
+      "culture": 9,
+      "politics": 8,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-04/ana_s_04_05.svg",
+      "caption": "Локальная учебная обложка: Резной фасад многоэтажного дома",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/15/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_04_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Aksum",
+      "url": "https://whc.unesco.org/en/list/15/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_04"
+  },
+  {
+    "id": "ANA_S_04_06",
+    "type": "TECHNOLOGY",
+    "title": "Транспортировка монолита",
+    "original": "Транспортировка монолита",
+    "subtitle": "добыча, перевозка и подъём требовали координации большого труда",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "III–IV века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Транспортировка монолита — добыча, перевозка и подъём требовали координации большого труда.",
+    "importance": "Карточка раскрывает главу «Стелы, гробницы и царская власть» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–IV века.",
+      "Основной смысл: добыча, перевозка и подъём требовали координации большого труда.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Стелы, гробницы и царская власть",
+      "technology"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 7,
+      "culture": 5,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-04/ana_s_04_06.svg",
+      "caption": "Локальная учебная обложка: Транспортировка монолита",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/15/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_04_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Aksum",
+      "url": "https://whc.unesco.org/en/list/15/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_04"
+  },
+  {
+    "id": "ANA_S_04_07",
+    "type": "ECONOMY",
+    "title": "Царская погребальная экономика",
+    "original": "Царская погребальная экономика",
+    "subtitle": "монументы зависели от ремесленников, продовольствия и контроля рабочей силы",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "III–IV века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Царская погребальная экономика — монументы зависели от ремесленников, продовольствия и контроля рабочей силы.",
+    "importance": "Карточка раскрывает главу «Стелы, гробницы и царская власть» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–IV века.",
+      "Основной смысл: монументы зависели от ремесленников, продовольствия и контроля рабочей силы.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Стелы, гробницы и царская власть",
+      "economy"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 3,
+      "culture": 6,
+      "politics": 5,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-04/ana_s_04_07.svg",
+      "caption": "Локальная учебная обложка: Царская погребальная экономика",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/15/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_04_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Aksum",
+      "url": "https://whc.unesco.org/en/list/15/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_04"
+  },
+  {
+    "id": "ANA_S_04_08",
+    "type": "HISTORICAL_METHOD",
+    "title": "Стела как источник, а не иллюстрация",
+    "original": "Стела как источник, а не иллюстрация",
+    "subtitle": "форма памятника раскрывает технологию и идеологию, но не даёт полной истории двора",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "III–IV века",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Стела как источник, а не иллюстрация — форма памятника раскрывает технологию и идеологию, но не даёт полной истории двора.",
+    "importance": "Карточка раскрывает главу «Стелы, гробницы и царская власть» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–IV века.",
+      "Основной смысл: форма памятника раскрывает технологию и идеологию, но не даёт полной истории двора.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Стелы, гробницы и царская власть",
+      "historical_method"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 5,
+      "culture": 7,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-04/ana_s_04_08.svg",
+      "caption": "Локальная учебная обложка: Стела как источник, а не иллюстрация",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/15/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_04_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Aksum",
+      "url": "https://whc.unesco.org/en/list/15/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_04"
+  },
+  {
+    "id": "ANA_S_05_01",
+    "type": "PERSON",
+    "title": "Царь Эзана",
+    "original": "Царь Эзана",
+    "subtitle": "правитель закрепил христианскую символику и оставил многоязычные надписи",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "IV век",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Царь Эзана — правитель закрепил христианскую символику и оставил многоязычные надписи.",
+    "importance": "Карточка раскрывает главу «Эзана и христианизация Аксумa» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: правитель закрепил христианскую символику и оставил многоязычные надписи.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Эзана и христианизация Аксумa",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 6,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-05/ana_s_05_01.svg",
+      "caption": "Локальная учебная обложка: Царь Эзана",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.aai.uni-hamburg.de/en/ethiostudies.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Hiob Ludolf Centre for Ethiopian and Eritrean Studies",
+      "url": "https://www.aai.uni-hamburg.de/en/ethiostudies.html",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_05"
+  },
+  {
+    "id": "ANA_S_05_02",
+    "type": "PERSON",
+    "title": "Фрументий Аксумский",
+    "original": "Фрументий Аксумский",
+    "subtitle": "церковный деятель связал аксумскую общину с Александрией",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "IV век",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Фрументий Аксумский — церковный деятель связал аксумскую общину с Александрией.",
+    "importance": "Карточка раскрывает главу «Эзана и христианизация Аксумa» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: церковный деятель связал аксумскую общину с Александрией.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Эзана и христианизация Аксумa",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-05/ana_s_05_02.svg",
+      "caption": "Локальная учебная обложка: Фрументий Аксумский",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.aai.uni-hamburg.de/en/ethiostudies.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Hiob Ludolf Centre for Ethiopian and Eritrean Studies",
+      "url": "https://www.aai.uni-hamburg.de/en/ethiostudies.html",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_05"
+  },
+  {
+    "id": "ANA_S_05_03",
+    "type": "RELIGION",
+    "title": "Крест на аксумской монете",
+    "original": "Крест на аксумской монете",
+    "subtitle": "новый знак сделал царское христианство видимым в обращении",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "IV век",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Крест на аксумской монете — новый знак сделал царское христианство видимым в обращении.",
+    "importance": "Карточка раскрывает главу «Эзана и христианизация Аксумa» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: новый знак сделал царское христианство видимым в обращении.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Эзана и христианизация Аксумa",
+      "religion"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 8,
+      "culture": 8,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-05/ana_s_05_03.svg",
+      "caption": "Локальная учебная обложка: Крест на аксумской монете",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.aai.uni-hamburg.de/en/ethiostudies.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Hiob Ludolf Centre for Ethiopian and Eritrean Studies",
+      "url": "https://www.aai.uni-hamburg.de/en/ethiostudies.html",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_05"
+  },
+  {
+    "id": "ANA_S_05_04",
+    "type": "INSCRIPTION",
+    "title": "Трёхъязычная надпись Эзаны",
+    "original": "Трёхъязычная надпись Эзаны",
+    "subtitle": "греческий, сабейский и геэз обращались к разным аудиториям",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "IV век",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Трёхъязычная надпись Эзаны — греческий, сабейский и геэз обращались к разным аудиториям.",
+    "importance": "Карточка раскрывает главу «Эзана и христианизация Аксумa» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: греческий, сабейский и геэз обращались к разным аудиториям.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Эзана и христианизация Аксумa",
+      "inscription"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-05/ana_s_05_04.svg",
+      "caption": "Локальная учебная обложка: Трёхъязычная надпись Эзаны",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.aai.uni-hamburg.de/en/ethiostudies.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Hiob Ludolf Centre for Ethiopian and Eritrean Studies",
+      "url": "https://www.aai.uni-hamburg.de/en/ethiostudies.html",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_05"
+  },
+  {
+    "id": "ANA_S_05_05",
+    "type": "INSTITUTION",
+    "title": "Александрийская церковная связь",
+    "original": "Александрийская церковная связь",
+    "subtitle": "епископская традиция связывала Аксум с египетским христианством",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "IV–VI века",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Александрийская церковная связь — епископская традиция связывала Аксум с египетским христианством.",
+    "importance": "Карточка раскрывает главу «Эзана и христианизация Аксумa» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IV–VI века.",
+      "Основной смысл: епископская традиция связывала Аксум с египетским христианством.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Эзана и христианизация Аксумa",
+      "institution"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 5,
+      "politics": 5,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-05/ana_s_05_05.svg",
+      "caption": "Локальная учебная обложка: Александрийская церковная связь",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.aai.uni-hamburg.de/en/ethiostudies.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_05_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Hiob Ludolf Centre for Ethiopian and Eritrean Studies",
+      "url": "https://www.aai.uni-hamburg.de/en/ethiostudies.html",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_05"
+  },
+  {
+    "id": "ANA_S_05_06",
+    "type": "TEXT",
+    "title": "Геэзские переводы христианских текстов",
+    "original": "Геэзские переводы христианских текстов",
+    "subtitle": "перевод создавал местный язык богослужения и учёности",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "V–VI века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Геэзские переводы христианских текстов — перевод создавал местный язык богослужения и учёности.",
+    "importance": "Карточка раскрывает главу «Эзана и христианизация Аксумa» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: V–VI века.",
+      "Основной смысл: перевод создавал местный язык богослужения и учёности.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Эзана и христианизация Аксумa",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 8,
+      "culture": 6,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-05/ana_s_05_06.svg",
+      "caption": "Локальная учебная обложка: Геэзские переводы христианских текстов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.aai.uni-hamburg.de/en/ethiostudies.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_05_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Hiob Ludolf Centre for Ethiopian and Eritrean Studies",
+      "url": "https://www.aai.uni-hamburg.de/en/ethiostudies.html",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_05"
+  },
+  {
+    "id": "ANA_S_05_07",
+    "type": "SACRED_SITE",
+    "title": "Церковь Марии Сионской в ранней традиции",
+    "original": "Церковь Марии Сионской в ранней традиции",
+    "subtitle": "поздняя память связывает главный храм Аксумa с царской христианизацией",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "IV–VI века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Церковь Марии Сионской в ранней традиции — поздняя память связывает главный храм Аксумa с царской христианизацией.",
+    "importance": "Карточка раскрывает главу «Эзана и христианизация Аксумa» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IV–VI века.",
+      "Основной смысл: поздняя память связывает главный храм Аксумa с царской христианизацией.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Эзана и христианизация Аксумa",
+      "sacred_site"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-05/ana_s_05_07.svg",
+      "caption": "Локальная учебная обложка: Церковь Марии Сионской в ранней традиции",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.aai.uni-hamburg.de/en/ethiostudies.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_05_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Hiob Ludolf Centre for Ethiopian and Eritrean Studies",
+      "url": "https://www.aai.uni-hamburg.de/en/ethiostudies.html",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_05"
+  },
+  {
+    "id": "ANA_S_05_08",
+    "type": "CONCEPT",
+    "title": "Христианизация как долгий процесс",
+    "original": "Христианизация как долгий процесс",
+    "subtitle": "смена символов двора не означала мгновенного исчезновения старых практик",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "IV–VI века",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Христианизация как долгий процесс — смена символов двора не означала мгновенного исчезновения старых практик.",
+    "importance": "Карточка раскрывает главу «Эзана и христианизация Аксумa» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IV–VI века.",
+      "Основной смысл: смена символов двора не означала мгновенного исчезновения старых практик.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Эзана и христианизация Аксумa",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 6,
+      "culture": 8,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Йеха",
+      "lat": 14.29,
+      "lon": 39.02
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-05/ana_s_05_08.svg",
+      "caption": "Локальная учебная обложка: Христианизация как долгий процесс",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.aai.uni-hamburg.de/en/ethiostudies.html",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_05_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Hiob Ludolf Centre for Ethiopian and Eritrean Studies",
+      "url": "https://www.aai.uni-hamburg.de/en/ethiostudies.html",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_05"
+  },
+  {
+    "id": "ANA_S_06_01",
+    "type": "PERSON",
+    "title": "Царь Калеб",
+    "original": "Царь Калеб",
+    "subtitle": "аксумский правитель вмешался в Южную Аравию под христианскими лозунгами",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI век",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Царь Калеб — аксумский правитель вмешался в Южную Аравию под христианскими лозунгами.",
+    "importance": "Карточка раскрывает главу «Аксум за морем: Калеб, Йемен и Абраха» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI век.",
+      "Основной смысл: аксумский правитель вмешался в Южную Аравию под христианскими лозунгами.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Аксум за морем: Калеб, Йемен и Абраха",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 5,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-06/ana_s_06_01.svg",
+      "caption": "Локальная учебная обложка: Царь Калеб",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_06"
+  },
+  {
+    "id": "ANA_S_06_02",
+    "type": "WAR",
+    "title": "Аксумская экспедиция в Химьяр",
+    "original": "Аксумская экспедиция в Химьяр",
+    "subtitle": "морской поход сверг власть Юсуфа Асара",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "ок. 525 года",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Аксумская экспедиция в Химьяр — морской поход сверг власть Юсуфа Асара.",
+    "importance": "Карточка раскрывает главу «Аксум за морем: Калеб, Йемен и Абраха» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: ок. 525 года.",
+      "Основной смысл: морской поход сверг власть Юсуфа Асара.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Аксум за морем: Калеб, Йемен и Абраха",
+      "war"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 7,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Адулис",
+      "lat": 15.26,
+      "lon": 39.67
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-06/ana_s_06_02.svg",
+      "caption": "Локальная учебная обложка: Аксумская экспедиция в Химьяр",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_06"
+  },
+  {
+    "id": "ANA_S_06_03",
+    "type": "PERSON",
+    "title": "Абраха",
+    "original": "Абраха",
+    "subtitle": "военачальник создал самостоятельный режим в Йемене",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI век",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Абраха — военачальник создал самостоятельный режим в Йемене.",
+    "importance": "Карточка раскрывает главу «Аксум за морем: Калеб, Йемен и Абраха» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI век.",
+      "Основной смысл: военачальник создал самостоятельный режим в Йемене.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Аксум за морем: Калеб, Йемен и Абраха",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 3,
+      "culture": 9,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Сана",
+      "lat": 15.37,
+      "lon": 44.21
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-06/ana_s_06_03.svg",
+      "caption": "Локальная учебная обложка: Абраха",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_06"
+  },
+  {
+    "id": "ANA_S_06_04",
+    "type": "DIPLOMACY",
+    "title": "Христианская дипломатия Красного моря",
+    "original": "Христианская дипломатия Красного моря",
+    "subtitle": "Аксум, Константинополь и арабские общины использовали религиозные союзы",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI век",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Христианская дипломатия Красного моря — Аксум, Константинополь и арабские общины использовали религиозные союзы.",
+    "importance": "Карточка раскрывает главу «Аксум за морем: Калеб, Йемен и Абраха» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI век.",
+      "Основной смысл: Аксум, Константинополь и арабские общины использовали религиозные союзы.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Аксум за морем: Калеб, Йемен и Абраха",
+      "diplomacy"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 5,
+      "culture": 5,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Баб-эль-Мандеб",
+      "lat": 12.58,
+      "lon": 43.33
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-06/ana_s_06_04.svg",
+      "caption": "Локальная учебная обложка: Христианская дипломатия Красного моря",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_06"
+  },
+  {
+    "id": "ANA_S_06_05",
+    "type": "MILITARY",
+    "title": "Морская переброска аксумской армии",
+    "original": "Морская переброска аксумской армии",
+    "subtitle": "операция зависела от кораблей, портов и снабжения по обе стороны пролива",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI век",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Морская переброска аксумской армии — операция зависела от кораблей, портов и снабжения по обе стороны пролива.",
+    "importance": "Карточка раскрывает главу «Аксум за морем: Калеб, Йемен и Абраха» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI век.",
+      "Основной смысл: операция зависела от кораблей, портов и снабжения по обе стороны пролива.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Аксум за морем: Калеб, Йемен и Абраха",
+      "military"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 7,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Адулис",
+      "lat": 15.26,
+      "lon": 39.67
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-06/ana_s_06_05.svg",
+      "caption": "Локальная учебная обложка: Морская переброска аксумской армии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_06_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_06"
+  },
+  {
+    "id": "ANA_S_06_06",
+    "type": "ARCHITECTURE",
+    "title": "Церковь Абрахи в Сане",
+    "original": "Церковь Абрахи в Сане",
+    "subtitle": "правитель использовал монументальный храм для новой политической программы",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI век",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Церковь Абрахи в Сане — правитель использовал монументальный храм для новой политической программы.",
+    "importance": "Карточка раскрывает главу «Аксум за морем: Калеб, Йемен и Абраха» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI век.",
+      "Основной смысл: правитель использовал монументальный храм для новой политической программы.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Аксум за морем: Калеб, Йемен и Абраха",
+      "architecture"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 3,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Сана",
+      "lat": 15.37,
+      "lon": 44.21
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-06/ana_s_06_06.svg",
+      "caption": "Локальная учебная обложка: Церковь Абрахи в Сане",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_06_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_06"
+  },
+  {
+    "id": "ANA_S_06_07",
+    "type": "INFRASTRUCTURE",
+    "title": "Ремонт Марибской плотины при Абрахе",
+    "original": "Ремонт Марибской плотины при Абрахе",
+    "subtitle": "надпись связывает водное хозяйство, царскую власть и международных послов",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "547 год",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Ремонт Марибской плотины при Абрахе — надпись связывает водное хозяйство, царскую власть и международных послов.",
+    "importance": "Карточка раскрывает главу «Аксум за морем: Калеб, Йемен и Абраха» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 547 год.",
+      "Основной смысл: надпись связывает водное хозяйство, царскую власть и международных послов.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Аксум за морем: Калеб, Йемен и Абраха",
+      "infrastructure"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мариб",
+      "lat": 15.46,
+      "lon": 45.33
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-06/ana_s_06_07.svg",
+      "caption": "Локальная учебная обложка: Ремонт Марибской плотины при Абрахе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_06_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_06"
+  },
+  {
+    "id": "ANA_S_06_08",
+    "type": "CONCEPT",
+    "title": "Пределы аксумской власти в Аравии",
+    "original": "Пределы аксумской власти в Аравии",
+    "subtitle": "военная победа не обеспечила долговременного контроля над местными элитами",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI век",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Пределы аксумской власти в Аравии — военная победа не обеспечила долговременного контроля над местными элитами.",
+    "importance": "Карточка раскрывает главу «Аксум за морем: Калеб, Йемен и Абраха» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI век.",
+      "Основной смысл: военная победа не обеспечила долговременного контроля над местными элитами.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Аксум за морем: Калеб, Йемен и Абраха",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 7,
+      "culture": 9,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Зафар",
+      "lat": 14.22,
+      "lon": 44.4
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-06/ana_s_06_08.svg",
+      "caption": "Локальная учебная обложка: Пределы аксумской власти в Аравии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_06_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_06"
+  },
+  {
+    "id": "ANA_S_07_01",
+    "type": "POLITY",
+    "title": "Позднее царство Мероэ",
+    "original": "Позднее царство Мероэ",
+    "subtitle": "кушитская монархия сохраняла города, храмы и царские кладбища до IV века",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "III–IV века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Позднее царство Мероэ — кушитская монархия сохраняла города, храмы и царские кладбища до IV века.",
+    "importance": "Карточка раскрывает главу «Конец Мероэ и постмероитская Нубия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–IV века.",
+      "Основной смысл: кушитская монархия сохраняла города, храмы и царские кладбища до IV века.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Конец Мероэ и постмероитская Нубия",
+      "polity"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 6,
+      "culture": 8,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Мероэ",
+      "lat": 16.94,
+      "lon": 33.75
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-07/ana_s_07_01.svg",
+      "caption": "Локальная учебная обложка: Позднее царство Мероэ",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1336/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Archaeological Sites of the Island of Meroe",
+      "url": "https://whc.unesco.org/en/list/1336/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_07"
+  },
+  {
+    "id": "ANA_S_07_02",
+    "type": "WRITING",
+    "title": "Мероитское письмо позднего периода",
+    "original": "Мероитское письмо позднего периода",
+    "subtitle": "нерасшифрованные полностью тексты ограничивают понимание внутренней истории",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "III–IV века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Мероитское письмо позднего периода — нерасшифрованные полностью тексты ограничивают понимание внутренней истории.",
+    "importance": "Карточка раскрывает главу «Конец Мероэ и постмероитская Нубия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–IV века.",
+      "Основной смысл: нерасшифрованные полностью тексты ограничивают понимание внутренней истории.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Конец Мероэ и постмероитская Нубия",
+      "writing"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 8,
+      "culture": 9,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Мероэ",
+      "lat": 16.94,
+      "lon": 33.75
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-07/ana_s_07_02.svg",
+      "caption": "Локальная учебная обложка: Мероитское письмо позднего периода",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1336/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Archaeological Sites of the Island of Meroe",
+      "url": "https://whc.unesco.org/en/list/1336/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_07"
+  },
+  {
+    "id": "ANA_S_07_03",
+    "type": "RELIGION",
+    "title": "Храм Апедемака в Наге",
+    "original": "Храм Апедемака в Наге",
+    "subtitle": "львиноголовый бог соединял местную царскую и военную символику",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "I–III века",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Храм Апедемака в Наге — львиноголовый бог соединял местную царскую и военную символику.",
+    "importance": "Карточка раскрывает главу «Конец Мероэ и постмероитская Нубия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I–III века.",
+      "Основной смысл: львиноголовый бог соединял местную царскую и военную символику.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Конец Мероэ и постмероитская Нубия",
+      "religion"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 4,
+      "culture": 5,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Нага",
+      "lat": 16.27,
+      "lon": 33.27
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-07/ana_s_07_03.svg",
+      "caption": "Локальная учебная обложка: Храм Апедемака в Наге",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1336/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Archaeological Sites of the Island of Meroe",
+      "url": "https://whc.unesco.org/en/list/1336/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_07"
+  },
+  {
+    "id": "ANA_S_07_04",
+    "type": "SITE",
+    "title": "Мусавварат-эс-Суфра",
+    "original": "Мусавварат-эс-Суфра",
+    "subtitle": "крупный комплекс показывает религиозную и хозяйственную организацию Куша",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "I век до н. э. – III век н. э.",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Мусавварат-эс-Суфра — крупный комплекс показывает религиозную и хозяйственную организацию Куша.",
+    "importance": "Карточка раскрывает главу «Конец Мероэ и постмероитская Нубия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: I век до н. э. – III век н. э..",
+      "Основной смысл: крупный комплекс показывает религиозную и хозяйственную организацию Куша.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Конец Мероэ и постмероитская Нубия",
+      "site"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 6,
+      "culture": 6,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Мусавварат-эс-Суфра",
+      "lat": 16.25,
+      "lon": 33.3
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-07/ana_s_07_04.svg",
+      "caption": "Локальная учебная обложка: Мусавварат-эс-Суфра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1336/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_07_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Archaeological Sites of the Island of Meroe",
+      "url": "https://whc.unesco.org/en/list/1336/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_07"
+  },
+  {
+    "id": "ANA_S_07_05",
+    "type": "WAR",
+    "title": "Поход Эзаны на север",
+    "original": "Поход Эзаны на север",
+    "subtitle": "царская надпись фиксирует войну, но не доказывает полного завоевания Мероэ",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "IV век",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Поход Эзаны на север — царская надпись фиксирует войну, но не доказывает полного завоевания Мероэ.",
+    "importance": "Карточка раскрывает главу «Конец Мероэ и постмероитская Нубия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IV век.",
+      "Основной смысл: царская надпись фиксирует войну, но не доказывает полного завоевания Мероэ.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Конец Мероэ и постмероитская Нубия",
+      "war"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 8,
+      "culture": 7,
+      "politics": 9,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Гебель-Баркал",
+      "lat": 18.54,
+      "lon": 31.84
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-07/ana_s_07_05.svg",
+      "caption": "Локальная учебная обложка: Поход Эзаны на север",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1336/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_07_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Archaeological Sites of the Island of Meroe",
+      "url": "https://whc.unesco.org/en/list/1336/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_07"
+  },
+  {
+    "id": "ANA_S_07_06",
+    "type": "BURIAL",
+    "title": "Постмероитские тумулы",
+    "original": "Постмероитские тумулы",
+    "subtitle": "крупные курганы показывают новые региональные элиты после царства Куш",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "IV–VI века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Постмероитские тумулы — крупные курганы показывают новые региональные элиты после царства Куш.",
+    "importance": "Карточка раскрывает главу «Конец Мероэ и постмероитская Нубия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IV–VI века.",
+      "Основной смысл: крупные курганы показывают новые региональные элиты после царства Куш.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Конец Мероэ и постмероитская Нубия",
+      "burial"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 4,
+      "culture": 8,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Гебель-Баркал",
+      "lat": 18.54,
+      "lon": 31.84
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-07/ana_s_07_06.svg",
+      "caption": "Локальная учебная обложка: Постмероитские тумулы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1336/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_07_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Archaeological Sites of the Island of Meroe",
+      "url": "https://whc.unesco.org/en/list/1336/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_07"
+  },
+  {
+    "id": "ANA_S_07_07",
+    "type": "SITE",
+    "title": "Баллана и Кустул",
+    "original": "Баллана и Кустул",
+    "subtitle": "богатые погребения раскрывают власть правителей Нижней Нубии",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "IV–VI века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Баллана и Кустул — богатые погребения раскрывают власть правителей Нижней Нубии.",
+    "importance": "Карточка раскрывает главу «Конец Мероэ и постмероитская Нубия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IV–VI века.",
+      "Основной смысл: богатые погребения раскрывают власть правителей Нижней Нубии.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Конец Мероэ и постмероитская Нубия",
+      "site"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Фарас",
+      "lat": 22.2,
+      "lon": 31.48
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-07/ana_s_07_07.svg",
+      "caption": "Локальная учебная обложка: Баллана и Кустул",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1336/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_07_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Archaeological Sites of the Island of Meroe",
+      "url": "https://whc.unesco.org/en/list/1336/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_07"
+  },
+  {
+    "id": "ANA_S_07_08",
+    "type": "CONCEPT",
+    "title": "Переход без пустоты",
+    "original": "Переход без пустоты",
+    "subtitle": "конец династии не означал исчезновения населения, ремёсел и речных путей",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "IV–VI века",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Переход без пустоты — конец династии не означал исчезновения населения, ремёсел и речных путей.",
+    "importance": "Карточка раскрывает главу «Конец Мероэ и постмероитская Нубия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IV–VI века.",
+      "Основной смысл: конец династии не означал исчезновения населения, ремёсел и речных путей.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Конец Мероэ и постмероитская Нубия",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 8,
+      "culture": 5,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Мероэ",
+      "lat": 16.94,
+      "lon": 33.75
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-07/ana_s_07_08.svg",
+      "caption": "Локальная учебная обложка: Переход без пустоты",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1336/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_07_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Archaeological Sites of the Island of Meroe",
+      "url": "https://whc.unesco.org/en/list/1336/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_07"
+  },
+  {
+    "id": "ANA_S_08_01",
+    "type": "POLITY",
+    "title": "Нобатия",
+    "original": "Нобатия",
+    "subtitle": "северное нубийское царство контролировало Нижнюю Нубию",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI–VII века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Нобатия — северное нубийское царство контролировало Нижнюю Нубию.",
+    "importance": "Карточка раскрывает главу «Нобатия, Макурия и Алодия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI–VII века.",
+      "Основной смысл: северное нубийское царство контролировало Нижнюю Нубию.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Нобатия, Макурия и Алодия",
+      "polity"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 7,
+      "culture": 9,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Фарас",
+      "lat": 22.2,
+      "lon": 31.48
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-08/ana_s_08_01.svg",
+      "caption": "Локальная учебная обложка: Нобатия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1073/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Gebel Barkal and the Sites of the Napatan Region",
+      "url": "https://whc.unesco.org/en/list/1073/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_08"
+  },
+  {
+    "id": "ANA_S_08_02",
+    "type": "POLITY",
+    "title": "Макурия",
+    "original": "Макурия",
+    "subtitle": "царство со столицей в Старой Донголе стало ведущей силой Среднего Нила",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI–VII века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Макурия — царство со столицей в Старой Донголе стало ведущей силой Среднего Нила.",
+    "importance": "Карточка раскрывает главу «Нобатия, Макурия и Алодия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI–VII века.",
+      "Основной смысл: царство со столицей в Старой Донголе стало ведущей силой Среднего Нила.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Нобатия, Макурия и Алодия",
+      "polity"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 3,
+      "culture": 5,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Старая Донгола",
+      "lat": 18.25,
+      "lon": 30.75
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-08/ana_s_08_02.svg",
+      "caption": "Локальная учебная обложка: Макурия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1073/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Gebel Barkal and the Sites of the Napatan Region",
+      "url": "https://whc.unesco.org/en/list/1073/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_08"
+  },
+  {
+    "id": "ANA_S_08_03",
+    "type": "POLITY",
+    "title": "Алодия",
+    "original": "Алодия",
+    "subtitle": "южное царство развивалось вокруг Собы и синильских путей",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI–VII века",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Алодия — южное царство развивалось вокруг Собы и синильских путей.",
+    "importance": "Карточка раскрывает главу «Нобатия, Макурия и Алодия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI–VII века.",
+      "Основной смысл: южное царство развивалось вокруг Собы и синильских путей.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Нобатия, Макурия и Алодия",
+      "polity"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 5,
+      "culture": 6,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Соба",
+      "lat": 15.57,
+      "lon": 32.53
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-08/ana_s_08_03.svg",
+      "caption": "Локальная учебная обложка: Алодия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1073/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Gebel Barkal and the Sites of the Napatan Region",
+      "url": "https://whc.unesco.org/en/list/1073/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_08"
+  },
+  {
+    "id": "ANA_S_08_04",
+    "type": "PERSON",
+    "title": "Король Силко",
+    "original": "Король Силко",
+    "subtitle": "нобатийский правитель оставил победную греческую надпись в Калабше",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "V–VI века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Король Силко — нобатийский правитель оставил победную греческую надпись в Калабше.",
+    "importance": "Карточка раскрывает главу «Нобатия, Макурия и Алодия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: V–VI века.",
+      "Основной смысл: нобатийский правитель оставил победную греческую надпись в Калабше.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Нобатия, Макурия и Алодия",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 7,
+      "culture": 7,
+      "politics": 5,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Каср-Ибрим",
+      "lat": 22.65,
+      "lon": 31.99
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-08/ana_s_08_04.svg",
+      "caption": "Локальная учебная обложка: Король Силко",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1073/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_08_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Gebel Barkal and the Sites of the Napatan Region",
+      "url": "https://whc.unesco.org/en/list/1073/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_08"
+  },
+  {
+    "id": "ANA_S_08_05",
+    "type": "INSTITUTION",
+    "title": "Епископство Фараса",
+    "original": "Епископство Фараса",
+    "subtitle": "церковный центр связывал местный двор и египетскую иерархию",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI–VII века",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Епископство Фараса — церковный центр связывал местный двор и египетскую иерархию.",
+    "importance": "Карточка раскрывает главу «Нобатия, Макурия и Алодия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI–VII века.",
+      "Основной смысл: церковный центр связывал местный двор и египетскую иерархию.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Нобатия, Макурия и Алодия",
+      "institution"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 3,
+      "culture": 8,
+      "politics": 6,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Фарас",
+      "lat": 22.2,
+      "lon": 31.48
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-08/ana_s_08_05.svg",
+      "caption": "Локальная учебная обложка: Епископство Фараса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1073/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_08_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Gebel Barkal and the Sites of the Napatan Region",
+      "url": "https://whc.unesco.org/en/list/1073/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_08"
+  },
+  {
+    "id": "ANA_S_08_06",
+    "type": "CAPITAL",
+    "title": "Старая Донгола",
+    "original": "Старая Донгола",
+    "subtitle": "укреплённая столица Макурии объединяла двор, церковь и нильскую торговлю",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI–VII века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Старая Донгола — укреплённая столица Макурии объединяла двор, церковь и нильскую торговлю.",
+    "importance": "Карточка раскрывает главу «Нобатия, Макурия и Алодия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI–VII века.",
+      "Основной смысл: укреплённая столица Макурии объединяла двор, церковь и нильскую торговлю.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Нобатия, Макурия и Алодия",
+      "capital"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 5,
+      "culture": 9,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Старая Донгола",
+      "lat": 18.25,
+      "lon": 30.75
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-08/ana_s_08_06.svg",
+      "caption": "Локальная учебная обложка: Старая Донгола",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1073/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_08_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Gebel Barkal and the Sites of the Napatan Region",
+      "url": "https://whc.unesco.org/en/list/1073/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_08"
+  },
+  {
+    "id": "ANA_S_08_07",
+    "type": "CAPITAL",
+    "title": "Соба",
+    "original": "Соба",
+    "subtitle": "столица Алодии контролировала южные земледельческие и торговые районы",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI–VII века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Соба — столица Алодии контролировала южные земледельческие и торговые районы.",
+    "importance": "Карточка раскрывает главу «Нобатия, Макурия и Алодия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI–VII века.",
+      "Основной смысл: столица Алодии контролировала южные земледельческие и торговые районы.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Нобатия, Макурия и Алодия",
+      "capital"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 7,
+      "culture": 5,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Соба",
+      "lat": 15.57,
+      "lon": 32.53
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-08/ana_s_08_07.svg",
+      "caption": "Локальная учебная обложка: Соба",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1073/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_08_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Gebel Barkal and the Sites of the Napatan Region",
+      "url": "https://whc.unesco.org/en/list/1073/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_08"
+  },
+  {
+    "id": "ANA_S_08_08",
+    "type": "CONCEPT",
+    "title": "Нубийское христианство как местная система",
+    "original": "Нубийское христианство как местная система",
+    "subtitle": "новая религия развивалась через собственные языки, искусство и царскую власть",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI–VII века",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Нубийское христианство как местная система — новая религия развивалась через собственные языки, искусство и царскую власть.",
+    "importance": "Карточка раскрывает главу «Нобатия, Макурия и Алодия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI–VII века.",
+      "Основной смысл: новая религия развивалась через собственные языки, искусство и царскую власть.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Нобатия, Макурия и Алодия",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 3,
+      "culture": 6,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Фарас",
+      "lat": 22.2,
+      "lon": 31.48
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-08/ana_s_08_08.svg",
+      "caption": "Локальная учебная обложка: Нубийское христианство как местная система",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1073/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_08_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO World Heritage Centre: Gebel Barkal and the Sites of the Napatan Region",
+      "url": "https://whc.unesco.org/en/list/1073/",
+      "type": "heritage"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_08"
+  },
+  {
+    "id": "ANA_S_09_01",
+    "type": "POLITY",
+    "title": "Химьяритское царство",
+    "original": "Химьяритское царство",
+    "subtitle": "южноаравийская монархия объединила Сабу, Химьяр и соседние области",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "III–VI века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Химьяритское царство — южноаравийская монархия объединила Сабу, Химьяр и соседние области.",
+    "importance": "Карточка раскрывает главу «Химьяр и объединение Южной Аравии» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–VI века.",
+      "Основной смысл: южноаравийская монархия объединила Сабу, Химьяр и соседние области.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Химьяр и объединение Южной Аравии",
+      "polity"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 8,
+      "culture": 5,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Зафар",
+      "lat": 14.22,
+      "lon": 44.4
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-09/ana_s_09_01.svg",
+      "caption": "Локальная учебная обложка: Химьяритское царство",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_09_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_09"
+  },
+  {
+    "id": "ANA_S_09_02",
+    "type": "CAPITAL",
+    "title": "Зафарская столица",
+    "original": "Зафарская столица",
+    "subtitle": "горный центр был резиденцией химьяритского двора",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "III–VI века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Зафарская столица — горный центр был резиденцией химьяритского двора.",
+    "importance": "Карточка раскрывает главу «Химьяр и объединение Южной Аравии» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–VI века.",
+      "Основной смысл: горный центр был резиденцией химьяритского двора.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Химьяр и объединение Южной Аравии",
+      "capital"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 6,
+      "politics": 5,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Зафар",
+      "lat": 14.22,
+      "lon": 44.4
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-09/ana_s_09_02.svg",
+      "caption": "Локальная учебная обложка: Зафарская столица",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_09_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_09"
+  },
+  {
+    "id": "ANA_S_09_03",
+    "type": "ECONOMY",
+    "title": "Террасное земледелие Йемена",
+    "original": "Террасное земледелие Йемена",
+    "subtitle": "каменные террасы удерживали почву и воду в высокогорье",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "III–VI века",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Террасное земледелие Йемена — каменные террасы удерживали почву и воду в высокогорье.",
+    "importance": "Карточка раскрывает главу «Химьяр и объединение Южной Аравии» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–VI века.",
+      "Основной смысл: каменные террасы удерживали почву и воду в высокогорье.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Химьяр и объединение Южной Аравии",
+      "economy"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Сана",
+      "lat": 15.37,
+      "lon": 44.21
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-09/ana_s_09_03.svg",
+      "caption": "Локальная учебная обложка: Террасное земледелие Йемена",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_09_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_09"
+  },
+  {
+    "id": "ANA_S_09_04",
+    "type": "INFRASTRUCTURE",
+    "title": "Марибская плотина поздней Античности",
+    "original": "Марибская плотина поздней Античности",
+    "subtitle": "ремонты водной системы требовали царской и местной координации",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "III–VI века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Марибская плотина поздней Античности — ремонты водной системы требовали царской и местной координации.",
+    "importance": "Карточка раскрывает главу «Химьяр и объединение Южной Аравии» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–VI века.",
+      "Основной смысл: ремонты водной системы требовали царской и местной координации.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Химьяр и объединение Южной Аравии",
+      "infrastructure"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 8,
+      "culture": 8,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мариб",
+      "lat": 15.46,
+      "lon": 45.33
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-09/ana_s_09_04.svg",
+      "caption": "Локальная учебная обложка: Марибская плотина поздней Античности",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_09_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_09"
+  },
+  {
+    "id": "ANA_S_09_05",
+    "type": "RELIGION",
+    "title": "Рахманан в царских надписях",
+    "original": "Рахманан в царских надписях",
+    "subtitle": "единый «Милостивый» заменял перечисление многих старых богов",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "IV–VI века",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Рахманан в царских надписях — единый «Милостивый» заменял перечисление многих старых богов.",
+    "importance": "Карточка раскрывает главу «Химьяр и объединение Южной Аравии» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IV–VI века.",
+      "Основной смысл: единый «Милостивый» заменял перечисление многих старых богов.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Химьяр и объединение Южной Аравии",
+      "religion"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 8,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Зафар",
+      "lat": 14.22,
+      "lon": 44.4
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-09/ana_s_09_05.svg",
+      "caption": "Локальная учебная обложка: Рахманан в царских надписях",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_09_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_09"
+  },
+  {
+    "id": "ANA_S_09_06",
+    "type": "WRITING",
+    "title": "Южноаравийская мускатная письменность",
+    "original": "Южноаравийская мускатная письменность",
+    "subtitle": "надписи фиксировали царские походы, строительство и дары",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "III–VI века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Южноаравийская мускатная письменность — надписи фиксировали царские походы, строительство и дары.",
+    "importance": "Карточка раскрывает главу «Химьяр и объединение Южной Аравии» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–VI века.",
+      "Основной смысл: надписи фиксировали царские походы, строительство и дары.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Химьяр и объединение Южной Аравии",
+      "writing"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 6,
+      "culture": 5,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Зафар",
+      "lat": 14.22,
+      "lon": 44.4
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-09/ana_s_09_06.svg",
+      "caption": "Локальная учебная обложка: Южноаравийская мускатная письменность",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_09_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_09"
+  },
+  {
+    "id": "ANA_S_09_07",
+    "type": "SOCIETY",
+    "title": "Кайлы и местные элиты",
+    "original": "Кайлы и местные элиты",
+    "subtitle": "региональные вожди связывали царя с племенами и земледельческими общинами",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "III–VI века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Кайлы и местные элиты — региональные вожди связывали царя с племенами и земледельческими общинами.",
+    "importance": "Карточка раскрывает главу «Химьяр и объединение Южной Аравии» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–VI века.",
+      "Основной смысл: региональные вожди связывали царя с племенами и земледельческими общинами.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Химьяр и объединение Южной Аравии",
+      "society"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 8,
+      "culture": 6,
+      "politics": 5,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Дамар",
+      "lat": 14.55,
+      "lon": 44.4
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-09/ana_s_09_07.svg",
+      "caption": "Локальная учебная обложка: Кайлы и местные элиты",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_09_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_09"
+  },
+  {
+    "id": "ANA_S_09_08",
+    "type": "CONCEPT",
+    "title": "Объединение без единой культуры",
+    "original": "Объединение без единой культуры",
+    "subtitle": "царская власть сохраняла региональные группы и локальные интересы",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "III–V века",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Объединение без единой культуры — царская власть сохраняла региональные группы и локальные интересы.",
+    "importance": "Карточка раскрывает главу «Химьяр и объединение Южной Аравии» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: III–V века.",
+      "Основной смысл: царская власть сохраняла региональные группы и локальные интересы.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Химьяр и объединение Южной Аравии",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Зафар",
+      "lat": 14.22,
+      "lon": 44.4
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-09/ana_s_09_08.svg",
+      "caption": "Локальная учебная обложка: Объединение без единой культуры",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_09_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_09"
+  },
+  {
+    "id": "ANA_S_10_01",
+    "type": "PERSON",
+    "title": "Юсуф Асар Ятар",
+    "original": "Юсуф Асар Ятар",
+    "subtitle": "последний независимый химьяритский царь воевал против аксумского влияния",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI век",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Юсуф Асар Ятар — последний независимый химьяритский царь воевал против аксумского влияния.",
+    "importance": "Карточка раскрывает главу «Иудаизм, христианство и трагедия Наджрана» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI век.",
+      "Основной смысл: последний независимый химьяритский царь воевал против аксумского влияния.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Иудаизм, христианство и трагедия Наджрана",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 3,
+      "culture": 6,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Зафар",
+      "lat": 14.22,
+      "lon": 44.4
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-10/ana_s_10_01.svg",
+      "caption": "Локальная учебная обложка: Юсуф Асар Ятар",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_10_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_10"
+  },
+  {
+    "id": "ANA_S_10_02",
+    "type": "COMMUNITY",
+    "title": "Христиане Наджрана",
+    "original": "Христиане Наджрана",
+    "subtitle": "городская община стала центром трагедии и поздней мученической памяти",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI век",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Христиане Наджрана — городская община стала центром трагедии и поздней мученической памяти.",
+    "importance": "Карточка раскрывает главу «Иудаизм, христианство и трагедия Наджрана» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI век.",
+      "Основной смысл: городская община стала центром трагедии и поздней мученической памяти.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Иудаизм, христианство и трагедия Наджрана",
+      "community"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 7,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Наджран",
+      "lat": 17.49,
+      "lon": 44.13
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-10/ana_s_10_02.svg",
+      "caption": "Локальная учебная обложка: Христиане Наджрана",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_10_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_10"
+  },
+  {
+    "id": "ANA_S_10_03",
+    "type": "COMMUNITY",
+    "title": "Иудейские общины Химьяра",
+    "original": "Иудейские общины Химьяра",
+    "subtitle": "местные иудеи участвовали в торговле, письме и политической жизни",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "V–VI века",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Иудейские общины Химьяра — местные иудеи участвовали в торговле, письме и политической жизни.",
+    "importance": "Карточка раскрывает главу «Иудаизм, христианство и трагедия Наджрана» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: V–VI века.",
+      "Основной смысл: местные иудеи участвовали в торговле, письме и политической жизни.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Иудаизм, христианство и трагедия Наджрана",
+      "community"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 7,
+      "culture": 8,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Зафар",
+      "lat": 14.22,
+      "lon": 44.4
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-10/ana_s_10_03.svg",
+      "caption": "Локальная учебная обложка: Иудейские общины Химьяра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_10_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_10"
+  },
+  {
+    "id": "ANA_S_10_04",
+    "type": "TEXT",
+    "title": "Сирийское письмо о Наджране",
+    "original": "Сирийское письмо о Наджране",
+    "subtitle": "современный событиям текст передаёт сведения через церковную сеть",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI век",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Сирийское письмо о Наджране — современный событиям текст передаёт сведения через церковную сеть.",
+    "importance": "Карточка раскрывает главу «Иудаизм, христианство и трагедия Наджрана» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI век.",
+      "Основной смысл: современный событиям текст передаёт сведения через церковную сеть.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Иудаизм, христианство и трагедия Наджрана",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 3,
+      "culture": 9,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Наджран",
+      "lat": 17.49,
+      "lon": 44.13
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-10/ana_s_10_04.svg",
+      "caption": "Локальная учебная обложка: Сирийское письмо о Наджране",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_10_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_10"
+  },
+  {
+    "id": "ANA_S_10_05",
+    "type": "RELIGIOUS_MEMORY",
+    "title": "Мученики Наджрана",
+    "original": "Мученики Наджрана",
+    "subtitle": "поздняя традиция превратила погибших в символ христианской стойкости",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI век",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Мученики Наджрана — поздняя традиция превратила погибших в символ христианской стойкости.",
+    "importance": "Карточка раскрывает главу «Иудаизм, христианство и трагедия Наджрана» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI век.",
+      "Основной смысл: поздняя традиция превратила погибших в символ христианской стойкости.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Иудаизм, христианство и трагедия Наджрана",
+      "religious_memory"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 5,
+      "culture": 5,
+      "politics": 5,
+      "religion": 4,
+      "economy": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Наджран",
+      "lat": 17.49,
+      "lon": 44.13
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-10/ana_s_10_05.svg",
+      "caption": "Локальная учебная обложка: Мученики Наджрана",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_10_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_10"
+  },
+  {
+    "id": "ANA_S_10_06",
+    "type": "INSCRIPTION",
+    "title": "Надпись Бир Хима",
+    "original": "Надпись Бир Хима",
+    "subtitle": "южноаравийский текст фиксирует войну и преследование противников",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI век",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Надпись Бир Хима — южноаравийский текст фиксирует войну и преследование противников.",
+    "importance": "Карточка раскрывает главу «Иудаизм, христианство и трагедия Наджрана» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI век.",
+      "Основной смысл: южноаравийский текст фиксирует войну и преследование противников.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Иудаизм, христианство и трагедия Наджрана",
+      "inscription"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Наджран",
+      "lat": 17.49,
+      "lon": 44.13
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-10/ana_s_10_06.svg",
+      "caption": "Локальная учебная обложка: Надпись Бир Хима",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_10_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_10"
+  },
+  {
+    "id": "ANA_S_10_07",
+    "type": "DIPLOMACY",
+    "title": "Религия как дипломатический союз",
+    "original": "Религия как дипломатический союз",
+    "subtitle": "общины искали поддержку Аксумa, Восточной Римской империи и соседних сил",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI век",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Религия как дипломатический союз — общины искали поддержку Аксумa, Восточной Римской империи и соседних сил.",
+    "importance": "Карточка раскрывает главу «Иудаизм, христианство и трагедия Наджрана» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI век.",
+      "Основной смысл: общины искали поддержку Аксумa, Восточной Римской империи и соседних сил.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Иудаизм, христианство и трагедия Наджрана",
+      "diplomacy"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 3,
+      "culture": 7,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Баб-эль-Мандеб",
+      "lat": 12.58,
+      "lon": 43.33
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-10/ana_s_10_07.svg",
+      "caption": "Локальная учебная обложка: Религия как дипломатический союз",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_10_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_10"
+  },
+  {
+    "id": "ANA_S_10_08",
+    "type": "HISTORICAL_METHOD",
+    "title": "Несовпадающие источники Наджрана",
+    "original": "Несовпадающие источники Наджрана",
+    "subtitle": "надпись, письмо и агиография описывают событие с разными задачами",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI век",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Несовпадающие источники Наджрана — надпись, письмо и агиография описывают событие с разными задачами.",
+    "importance": "Карточка раскрывает главу «Иудаизм, христианство и трагедия Наджрана» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI век.",
+      "Основной смысл: надпись, письмо и агиография описывают событие с разными задачами.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Иудаизм, христианство и трагедия Наджрана",
+      "historical_method"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Наджран",
+      "lat": 17.49,
+      "lon": 44.13
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-10/ana_s_10_08.svg",
+      "caption": "Локальная учебная обложка: Несовпадающие источники Наджрана",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://dasi.cnr.it/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_10_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+      "url": "https://dasi.cnr.it/",
+      "type": "primary-source"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_10"
+  },
+  {
+    "id": "ANA_S_11_01",
+    "type": "WAR",
+    "title": "Сасанидское вмешательство в Йемене",
+    "original": "Сасанидское вмешательство в Йемене",
+    "subtitle": "персидская экспедиция вытеснила аксумско-химьяритский режим",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "конец VI века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Сасанидское вмешательство в Йемене — персидская экспедиция вытеснила аксумско-химьяритский режим.",
+    "importance": "Карточка раскрывает главу «Красное море около 600 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: конец VI века.",
+      "Основной смысл: персидская экспедиция вытеснила аксумско-химьяритский режим.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Красное море около 600 года",
+      "war"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 4,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Аден",
+      "lat": 12.79,
+      "lon": 45.03
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-11/ana_s_11_01.svg",
+      "caption": "Локальная учебная обложка: Сасанидское вмешательство в Йемене",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_11_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Africa and Red Sea collections",
+      "url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_11"
+  },
+  {
+    "id": "ANA_S_11_02",
+    "type": "PERSON",
+    "title": "Вахриз",
+    "original": "Вахриз",
+    "subtitle": "сасанидский военачальник связан с установлением персидского контроля в Йемене",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI век",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Вахриз — сасанидский военачальник связан с установлением персидского контроля в Йемене.",
+    "importance": "Карточка раскрывает главу «Красное море около 600 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI век.",
+      "Основной смысл: сасанидский военачальник связан с установлением персидского контроля в Йемене.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Красное море около 600 года",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сана",
+      "lat": 15.37,
+      "lon": 44.21
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-11/ana_s_11_02.svg",
+      "caption": "Локальная учебная обложка: Вахриз",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_11_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Africa and Red Sea collections",
+      "url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_11"
+  },
+  {
+    "id": "ANA_S_11_03",
+    "type": "COMMUNITY",
+    "title": "Йеменские абна",
+    "original": "Йеменские абна",
+    "subtitle": "потомки персидских воинов стали отдельной группой местной политики",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI–VII века",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Йеменские абна — потомки персидских воинов стали отдельной группой местной политики.",
+    "importance": "Карточка раскрывает главу «Красное море около 600 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI–VII века.",
+      "Основной смысл: потомки персидских воинов стали отдельной группой местной политики.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Красное море около 600 года",
+      "community"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 8,
+      "culture": 9,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Сана",
+      "lat": 15.37,
+      "lon": 44.21
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-11/ana_s_11_03.svg",
+      "caption": "Локальная учебная обложка: Йеменские абна",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_11_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Africa and Red Sea collections",
+      "url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_11"
+  },
+  {
+    "id": "ANA_S_11_04",
+    "type": "POLITY",
+    "title": "Поздний Аксум",
+    "original": "Поздний Аксум",
+    "subtitle": "царство сохраняло власть и христианскую традицию при изменении внешней торговли",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI–VII века",
+    "rarity": "COMMON",
+    "difficulty": 10,
+    "summary": "Поздний Аксум — царство сохраняло власть и христианскую традицию при изменении внешней торговли.",
+    "importance": "Карточка раскрывает главу «Красное море около 600 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI–VII века.",
+      "Основной смысл: царство сохраняло власть и христианскую традицию при изменении внешней торговли.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Красное море около 600 года",
+      "polity"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 4,
+      "culture": 5,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Аксум",
+      "lat": 14.13,
+      "lon": 38.72
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-11/ana_s_11_04.svg",
+      "caption": "Локальная учебная обложка: Поздний Аксум",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_11_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Africa and Red Sea collections",
+      "url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_11"
+  },
+  {
+    "id": "ANA_S_11_05",
+    "type": "POLITY",
+    "title": "Макурия перед арабскими войнами",
+    "original": "Макурия перед арабскими войнами",
+    "subtitle": "нильское царство формировало военную и церковную систему",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VII век",
+    "rarity": "UNCOMMON",
+    "difficulty": 10,
+    "summary": "Макурия перед арабскими войнами — нильское царство формировало военную и церковную систему.",
+    "importance": "Карточка раскрывает главу «Красное море около 600 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VII век.",
+      "Основной смысл: нильское царство формировало военную и церковную систему.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Красное море около 600 года",
+      "polity"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 6,
+      "culture": 6,
+      "politics": 7,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Старая Донгола",
+      "lat": 18.25,
+      "lon": 30.75
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-11/ana_s_11_05.svg",
+      "caption": "Локальная учебная обложка: Макурия перед арабскими войнами",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_11_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Africa and Red Sea collections",
+      "url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_11"
+  },
+  {
+    "id": "ANA_S_11_06",
+    "type": "TRADE",
+    "title": "Порты Хиджаза и Красное море",
+    "original": "Порты Хиджаза и Красное море",
+    "subtitle": "западноаравийские рынки включались в морские и караванные связи",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI–VII века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Порты Хиджаза и Красное море — западноаравийские рынки включались в морские и караванные связи.",
+    "importance": "Карточка раскрывает главу «Красное море около 600 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI–VII века.",
+      "Основной смысл: западноаравийские рынки включались в морские и караванные связи.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Красное море около 600 года",
+      "trade"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 8,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Джидда",
+      "lat": 21.49,
+      "lon": 39.19
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-11/ana_s_11_06.svg",
+      "caption": "Локальная учебная обложка: Порты Хиджаза и Красное море",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_11_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Africa and Red Sea collections",
+      "url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_11"
+  },
+  {
+    "id": "ANA_S_11_07",
+    "type": "CONCEPT",
+    "title": "Переход от поздней Античности к раннему Средневековью",
+    "original": "Переход от поздней Античности к раннему Средневековью",
+    "subtitle": "новые державы выросли внутри существующих торговых и религиозных сетей",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "VI–VII века",
+    "rarity": "RARE",
+    "difficulty": 10,
+    "summary": "Переход от поздней Античности к раннему Средневековью — новые державы выросли внутри существующих торговых и религиозных сетей.",
+    "importance": "Карточка раскрывает главу «Красное море около 600 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VI–VII века.",
+      "Основной смысл: новые державы выросли внутри существующих торговых и религиозных сетей.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Красное море около 600 года",
+      "concept"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 4,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Баб-эль-Мандеб",
+      "lat": 12.58,
+      "lon": 43.33
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-11/ana_s_11_07.svg",
+      "caption": "Локальная учебная обложка: Переход от поздней Античности к раннему Средневековью",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_11_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Africa and Red Sea collections",
+      "url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_11"
+  },
+  {
+    "id": "ANA_S_11_08",
+    "type": "CONCEPT",
+    "title": "Мир до исламских завоеваний",
+    "original": "Мир до исламских завоеваний",
+    "subtitle": "Аравия, Африка и Нил были заняты государствами, общинами и дипломатическими конфликтами",
+    "era": "Поздняя Античность",
+    "region": "Африканский Рог, Нубия и Южная Аравия",
+    "date": "ок. 600 года",
+    "rarity": "EPIC",
+    "difficulty": 10,
+    "summary": "Мир до исламских завоеваний — Аравия, Африка и Нил были заняты государствами, общинами и дипломатическими конфликтами.",
+    "importance": "Карточка раскрывает главу «Красное море около 600 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: ок. 600 года.",
+      "Основной смысл: Аравия, Африка и Нил были заняты государствами, общинами и дипломатическими конфликтами.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Африканский Рог, Нубия и Южная Аравия",
+      "Аксум, Нубия и Южная Аравия",
+      "Красное море около 600 года",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Аден",
+      "lat": 12.79,
+      "lon": 45.03
+    },
+    "image": {
+      "local": "assets/cards/aksum-nubia-arabia/chapter-11/ana_s_11_08.svg",
+      "caption": "Локальная учебная обложка: Мир до исламских завоеваний",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "ana_s_11_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "British Museum: Africa and Red Sea collections",
+      "url": "https://www.britishmuseum.org/collection/galleries/africa",
+      "type": "museum"
+    },
+    "acquisition": "STORY",
+    "campaign": "AKSUM_NUBIA_ARABIA",
+    "chapter": "ANA_CHAPTER_11"
+  }
+]

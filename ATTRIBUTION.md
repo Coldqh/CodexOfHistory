@@ -378,3 +378,7 @@
 ## v7.5 — Китай между Хань и Тан
 
 Локальные SVG-обложки 132 карточек и обложка пака созданы для Codex of History. Учебная основа: UNESCO Yungang и Longmen, Metropolitan Museum of Art, British Museum, Smithsonian National Museum of Asian Art, International Dunhuang Programme, Chinese Text Project и исследования по Троецарствию, Северной Вэй, династиям Суй и ранней Тан.
+
+## v7.6 — Аксум, Нубия и Южная Аравия
+
+Локальные SVG-обложки 132 карточек и обложка пака созданы для Codex of History. Учебная основа: UNESCO Aksum, Archaeological Sites of the Island of Meroe и Gebel Barkal, British Museum, Metropolitan Museum of Art, Digital Archive for the Study of pre-Islamic Arabian Inscriptions и исследования по Адулису, Эзане, нубийским царствам, Химьяру и Наджрану.

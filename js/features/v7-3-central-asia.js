@@ -1,6 +1,6 @@
-/* Codex v7.5.0 — Central Asia after Han */
+/* Codex v7.6.0 — Central Asia after Han */
 (()=>{
-  const V='7.5.0';
+  const V='7.6.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.CENTRAL_ASIA_LATE='CENTRAL_ASIA_LATE';
   state.centralAsiaLatePhase=state.centralAsiaLatePhase||'POST_KUSHAN';

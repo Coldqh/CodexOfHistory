@@ -1,0 +1,330 @@
+{
+  "points": {
+    "AKSUM": [
+      14.13,
+      38.72
+    ],
+    "YEHA": [
+      14.29,
+      39.02
+    ],
+    "MATARA": [
+      14.35,
+      39.47
+    ],
+    "QOHAITO": [
+      14.89,
+      39.43
+    ],
+    "ADULIS": [
+      15.26,
+      39.67
+    ],
+    "MASSAWA": [
+      15.61,
+      39.45
+    ],
+    "BAB": [
+      12.58,
+      43.33
+    ],
+    "BERENIKE": [
+      23.91,
+      35.48
+    ],
+    "MEROE": [
+      16.94,
+      33.75
+    ],
+    "NAGA": [
+      16.27,
+      33.27
+    ],
+    "MUSAW": [
+      16.25,
+      33.3
+    ],
+    "BARKAL": [
+      18.54,
+      31.84
+    ],
+    "FARAS": [
+      22.2,
+      31.48
+    ],
+    "QASR_IBRIM": [
+      22.65,
+      31.99
+    ],
+    "OLD_DONGOLA": [
+      18.25,
+      30.75
+    ],
+    "SOBA": [
+      15.57,
+      32.53
+    ],
+    "ZAFAR": [
+      14.22,
+      44.4
+    ],
+    "MARIB": [
+      15.46,
+      45.33
+    ],
+    "SANAA": [
+      15.37,
+      44.21
+    ],
+    "NAJRAN": [
+      17.49,
+      44.13
+    ],
+    "ADEN": [
+      12.79,
+      45.03
+    ],
+    "DHAMAR": [
+      14.55,
+      44.4
+    ],
+    "JEDDAH": [
+      21.49,
+      39.19
+    ],
+    "COPTOS": [
+      25.99,
+      32.82
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "ANA_S_01_01": "BAB",
+    "ANA_S_01_02": "ADEN",
+    "ANA_S_01_03": "COPTOS",
+    "ANA_S_01_04": "BAB",
+    "ANA_S_01_05": "ADULIS",
+    "ANA_S_01_06": "ADULIS",
+    "ANA_S_01_07": "ADEN",
+    "ANA_S_01_08": "BAB",
+    "ANA_A_01_01": "BERENIKE",
+    "ANA_A_01_02": "ADULIS",
+    "ANA_A_01_03": "COPTOS",
+    "ANA_A_01_04": "BAB",
+    "ANA_S_02_01": "AKSUM",
+    "ANA_S_02_02": "YEHA",
+    "ANA_S_02_03": "AKSUM",
+    "ANA_S_02_04": "AKSUM",
+    "ANA_S_02_05": "MATARA",
+    "ANA_S_02_06": "QOHAITO",
+    "ANA_S_02_07": "AKSUM",
+    "ANA_S_02_08": "YEHA",
+    "ANA_A_02_01": "YEHA",
+    "ANA_A_02_02": "AKSUM",
+    "ANA_A_02_03": "AKSUM",
+    "ANA_A_02_04": "MATARA",
+    "ANA_S_03_01": "ADULIS",
+    "ANA_S_03_02": "ADULIS",
+    "ANA_S_03_03": "AKSUM",
+    "ANA_S_03_04": "AKSUM",
+    "ANA_S_03_05": "AKSUM",
+    "ANA_S_03_06": "ADULIS",
+    "ANA_S_03_07": "AKSUM",
+    "ANA_S_03_08": "AKSUM",
+    "ANA_A_03_01": "AKSUM",
+    "ANA_A_03_02": "ADULIS",
+    "ANA_A_03_03": "ADULIS",
+    "ANA_A_03_04": "AKSUM",
+    "ANA_S_04_01": "AKSUM",
+    "ANA_S_04_02": "AKSUM",
+    "ANA_S_04_03": "AKSUM",
+    "ANA_S_04_04": "AKSUM",
+    "ANA_S_04_05": "AKSUM",
+    "ANA_S_04_06": "AKSUM",
+    "ANA_S_04_07": "AKSUM",
+    "ANA_S_04_08": "AKSUM",
+    "ANA_A_04_01": "AKSUM",
+    "ANA_A_04_02": "AKSUM",
+    "ANA_A_04_03": "AKSUM",
+    "ANA_A_04_04": "AKSUM",
+    "ANA_S_05_01": "AKSUM",
+    "ANA_S_05_02": "AKSUM",
+    "ANA_S_05_03": "AKSUM",
+    "ANA_S_05_04": "AKSUM",
+    "ANA_S_05_05": "AKSUM",
+    "ANA_S_05_06": "AKSUM",
+    "ANA_S_05_07": "AKSUM",
+    "ANA_S_05_08": "YEHA",
+    "ANA_A_05_01": "AKSUM",
+    "ANA_A_05_02": "AKSUM",
+    "ANA_A_05_03": "MATARA",
+    "ANA_A_05_04": "AKSUM",
+    "ANA_S_06_01": "AKSUM",
+    "ANA_S_06_02": "ADULIS",
+    "ANA_S_06_03": "SANAA",
+    "ANA_S_06_04": "BAB",
+    "ANA_S_06_05": "ADULIS",
+    "ANA_S_06_06": "SANAA",
+    "ANA_S_06_07": "MARIB",
+    "ANA_S_06_08": "ZAFAR",
+    "ANA_A_06_01": "AKSUM",
+    "ANA_A_06_02": "MARIB",
+    "ANA_A_06_03": "AKSUM",
+    "ANA_A_06_04": "ZAFAR",
+    "ANA_S_07_01": "MEROE",
+    "ANA_S_07_02": "MEROE",
+    "ANA_S_07_03": "NAGA",
+    "ANA_S_07_04": "MUSAW",
+    "ANA_S_07_05": "BARKAL",
+    "ANA_S_07_06": "BARKAL",
+    "ANA_S_07_07": "FARAS",
+    "ANA_S_07_08": "MEROE",
+    "ANA_A_07_01": "MEROE",
+    "ANA_A_07_02": "MEROE",
+    "ANA_A_07_03": "FARAS",
+    "ANA_A_07_04": "MEROE",
+    "ANA_S_08_01": "FARAS",
+    "ANA_S_08_02": "OLD_DONGOLA",
+    "ANA_S_08_03": "SOBA",
+    "ANA_S_08_04": "QASR_IBRIM",
+    "ANA_S_08_05": "FARAS",
+    "ANA_S_08_06": "OLD_DONGOLA",
+    "ANA_S_08_07": "SOBA",
+    "ANA_S_08_08": "FARAS",
+    "ANA_A_08_01": "QASR_IBRIM",
+    "ANA_A_08_02": "FARAS",
+    "ANA_A_08_03": "OLD_DONGOLA",
+    "ANA_A_08_04": "FARAS",
+    "ANA_S_09_01": "ZAFAR",
+    "ANA_S_09_02": "ZAFAR",
+    "ANA_S_09_03": "SANAA",
+    "ANA_S_09_04": "MARIB",
+    "ANA_S_09_05": "ZAFAR",
+    "ANA_S_09_06": "ZAFAR",
+    "ANA_S_09_07": "DHAMAR",
+    "ANA_S_09_08": "ZAFAR",
+    "ANA_A_09_01": "ZAFAR",
+    "ANA_A_09_02": "ZAFAR",
+    "ANA_A_09_03": "MARIB",
+    "ANA_A_09_04": "SANAA",
+    "ANA_S_10_01": "ZAFAR",
+    "ANA_S_10_02": "NAJRAN",
+    "ANA_S_10_03": "ZAFAR",
+    "ANA_S_10_04": "NAJRAN",
+    "ANA_S_10_05": "NAJRAN",
+    "ANA_S_10_06": "NAJRAN",
+    "ANA_S_10_07": "BAB",
+    "ANA_S_10_08": "NAJRAN",
+    "ANA_A_10_01": "ZAFAR",
+    "ANA_A_10_02": "NAJRAN",
+    "ANA_A_10_03": "NAJRAN",
+    "ANA_A_10_04": "NAJRAN",
+    "ANA_S_11_01": "ADEN",
+    "ANA_S_11_02": "SANAA",
+    "ANA_S_11_03": "SANAA",
+    "ANA_S_11_04": "AKSUM",
+    "ANA_S_11_05": "OLD_DONGOLA",
+    "ANA_S_11_06": "JEDDAH",
+    "ANA_S_11_07": "BAB",
+    "ANA_S_11_08": "ADEN",
+    "ANA_A_11_01": "AKSUM",
+    "ANA_A_11_02": "SANAA",
+    "ANA_A_11_03": "OLD_DONGOLA",
+    "ANA_A_11_04": "BAB"
+  },
+  "chapters": {
+    "ANA_CHAPTER_01": {
+      "title": "Красное море как связанный мир",
+      "center": [
+        15.26,
+        39.67
+      ],
+      "zoom": 5
+    },
+    "ANA_CHAPTER_02": {
+      "title": "Возникновение Аксумского царства",
+      "center": [
+        14.13,
+        38.72
+      ],
+      "zoom": 5
+    },
+    "ANA_CHAPTER_03": {
+      "title": "Адулис, монета и дальняя торговля",
+      "center": [
+        15.26,
+        39.67
+      ],
+      "zoom": 5
+    },
+    "ANA_CHAPTER_04": {
+      "title": "Стелы, гробницы и царская власть",
+      "center": [
+        14.13,
+        38.72
+      ],
+      "zoom": 5
+    },
+    "ANA_CHAPTER_05": {
+      "title": "Эзана и христианизация Аксумa",
+      "center": [
+        14.13,
+        38.72
+      ],
+      "zoom": 5
+    },
+    "ANA_CHAPTER_06": {
+      "title": "Аксум за морем: Калеб, Йемен и Абраха",
+      "center": [
+        14.13,
+        38.72
+      ],
+      "zoom": 5
+    },
+    "ANA_CHAPTER_07": {
+      "title": "Конец Мероэ и постмероитская Нубия",
+      "center": [
+        16.94,
+        33.75
+      ],
+      "zoom": 5
+    },
+    "ANA_CHAPTER_08": {
+      "title": "Нобатия, Макурия и Алодия",
+      "center": [
+        22.2,
+        31.48
+      ],
+      "zoom": 5
+    },
+    "ANA_CHAPTER_09": {
+      "title": "Химьяр и объединение Южной Аравии",
+      "center": [
+        14.22,
+        44.4
+      ],
+      "zoom": 5
+    },
+    "ANA_CHAPTER_10": {
+      "title": "Иудаизм, христианство и трагедия Наджрана",
+      "center": [
+        17.49,
+        44.13
+      ],
+      "zoom": 5
+    },
+    "ANA_CHAPTER_11": {
+      "title": "Красное море около 600 года",
+      "center": [
+        14.13,
+        38.72
+      ],
+      "zoom": 5
+    }
+  },
+  "missionCenter": [
+    17.0,
+    37.5
+  ],
+  "missionZoom": 4
+}

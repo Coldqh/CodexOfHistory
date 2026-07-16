@@ -12,7 +12,7 @@ const styles=read('styles.css');
 const sw=read('sw.js');
 const scripts=['js/views/base.js','js/features/mobile-cleanup.js','js/features/v1-5-polish.js','js/features/v2-6-onboarding.js','js/bootstrap.js'].map(read).join('\n');
 
-assert.equal(manifest.version,'7.5.0');
+assert.equal(manifest.version,'7.6.0');
 for(const file of ['assets/ui/codex-logo-mark.svg','assets/ui/codex-app-icon.svg','assets/ui/codex-logo-mark.png','assets/ui/codex-icon-180.png','assets/ui/codex-icon-192.png','assets/ui/codex-icon-512.png','assets/ui/codex-icon-maskable-512.png','assets/ui/codex-favicon-32.png','assets/ui/codex-favicon-16.png']){
   const stat=fs.statSync(path.join(root,file));
   assert.ok(stat.size>500,`${file}: file too small`);
@@ -33,4 +33,4 @@ const uiMark=read('assets/ui/codex-logo-mark.svg');
 assert.match(appIcon,/<rect width="1024" height="1024"/);
 assert.doesNotMatch(appIcon,/rx="[0-9]+"/);
 assert.doesNotMatch(uiMark,/<rect/);
-console.log('✓ v7.5.0 uses a full-bleed PWA icon and a transparent UI mark');
+console.log('✓ v7.6.0 uses a full-bleed PWA icon and a transparent UI mark');

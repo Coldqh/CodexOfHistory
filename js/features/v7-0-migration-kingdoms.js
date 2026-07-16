@@ -1,6 +1,6 @@
-/* Codex v7.5.0 — Migrations and New Kingdoms */
+/* Codex v7.6.0 — Migrations and New Kingdoms */
 (()=>{
-  const V='7.5.0';
+  const V='7.6.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.MIGRATION_KINGDOMS='MIGRATION_KINGDOMS';
   state.migrationPhase=state.migrationPhase||'FRONTIER_CRISIS';

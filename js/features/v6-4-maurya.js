@@ -1,6 +1,6 @@
-/* Codex v7.8.0 — India: Buddha, Magadha and Mauryas */
+/* Codex v8.0.0 — India: Buddha, Magadha and Mauryas */
 (()=>{
-  const V='7.8.0';
+  const V='8.0.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.INDIA_MAURYA='INDIA_MAURYA';
   state.mauryaPhase=state.mauryaPhase||'CITIES_TEACHERS';

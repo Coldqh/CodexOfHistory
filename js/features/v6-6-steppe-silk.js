@@ -1,6 +1,6 @@
-/* Codex v7.8.0 — Steppe and Silk Networks */
+/* Codex v8.0.0 — Steppe and Silk Networks */
 (()=>{
-  const V='7.8.0';
+  const V='8.0.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.STEPPE_SILK='STEPPE_SILK';
   state.steppePhase=state.steppePhase||'STEPPE_FOUNDATIONS';

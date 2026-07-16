@@ -1,0 +1,314 @@
+{
+  "points": {
+    "MECCA": [
+      21.3891,
+      39.8579
+    ],
+    "MEDINA": [
+      24.4672,
+      39.6111
+    ],
+    "TAIF": [
+      21.2703,
+      40.4158
+    ],
+    "NAJRAN": [
+      17.4933,
+      44.1277
+    ],
+    "SANA": [
+      15.3694,
+      44.191
+    ],
+    "DAMASCUS": [
+      33.5138,
+      36.2765
+    ],
+    "JERUSALEM": [
+      31.778,
+      35.235
+    ],
+    "GAZA": [
+      31.5017,
+      34.4668
+    ],
+    "FUSTAT": [
+      30.005,
+      31.23
+    ],
+    "ALEXANDRIA": [
+      31.2001,
+      29.9187
+    ],
+    "KUFA": [
+      32.0346,
+      44.4037
+    ],
+    "BASRA": [
+      30.5085,
+      47.7804
+    ],
+    "CTESIPHON": [
+      33.0933,
+      44.58
+    ],
+    "NAHAVAND": [
+      34.1885,
+      48.3769
+    ],
+    "MERV": [
+      37.66,
+      62.18
+    ],
+    "KARBALA": [
+      32.616,
+      44.0249
+    ],
+    "SIFFIN": [
+      35.93,
+      39.01
+    ],
+    "QAYRAWAN": [
+      35.6781,
+      10.0963
+    ],
+    "CORDOBA": [
+      37.8882,
+      -4.7794
+    ],
+    "WASIT": [
+      32.189,
+      46.04
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "ISL_S_01_01": "NAJRAN",
+    "ISL_S_01_02": "MECCA",
+    "ISL_S_01_03": "MEDINA",
+    "ISL_S_01_04": "TAIF",
+    "ISL_S_01_05": "SANA",
+    "ISL_S_01_06": "GAZA",
+    "ISL_S_01_07": "CTESIPHON",
+    "ISL_S_01_08": "NAJRAN",
+    "ISL_A_01_01": "SANA",
+    "ISL_A_01_02": "NAJRAN",
+    "ISL_A_01_03": "GAZA",
+    "ISL_A_01_04": "MECCA",
+    "ISL_S_02_01": "MECCA",
+    "ISL_S_02_02": "MECCA",
+    "ISL_S_02_03": "MECCA",
+    "ISL_S_02_04": "MECCA",
+    "ISL_S_02_05": "MECCA",
+    "ISL_S_02_06": "GAZA",
+    "ISL_S_02_07": "TAIF",
+    "ISL_S_02_08": "MECCA",
+    "ISL_A_02_01": "MECCA",
+    "ISL_A_02_02": "MECCA",
+    "ISL_A_02_03": "GAZA",
+    "ISL_A_02_04": "MECCA",
+    "ISL_S_03_01": "MECCA",
+    "ISL_S_03_02": "MECCA",
+    "ISL_S_03_03": "MECCA",
+    "ISL_S_03_04": "MECCA",
+    "ISL_S_03_05": "MEDINA",
+    "ISL_S_03_06": "MEDINA",
+    "ISL_S_03_07": "JERUSALEM",
+    "ISL_S_03_08": "MECCA",
+    "ISL_A_03_01": "MEDINA",
+    "ISL_A_03_02": "MEDINA",
+    "ISL_A_03_03": "SANA",
+    "ISL_A_03_04": "MEDINA",
+    "ISL_S_04_01": "MEDINA",
+    "ISL_S_04_02": "MEDINA",
+    "ISL_S_04_03": "MEDINA",
+    "ISL_S_04_04": "MEDINA",
+    "ISL_S_04_05": "MEDINA",
+    "ISL_S_04_06": "MEDINA",
+    "ISL_S_04_07": "MEDINA",
+    "ISL_S_04_08": "MEDINA",
+    "ISL_A_04_01": "MEDINA",
+    "ISL_A_04_02": "MEDINA",
+    "ISL_A_04_03": "MEDINA",
+    "ISL_A_04_04": "MEDINA",
+    "ISL_S_05_01": "MEDINA",
+    "ISL_S_05_02": "MEDINA",
+    "ISL_S_05_03": "MECCA",
+    "ISL_S_05_04": "MEDINA",
+    "ISL_S_05_05": "MECCA",
+    "ISL_S_05_06": "MECCA",
+    "ISL_S_05_07": "TAIF",
+    "ISL_S_05_08": "MECCA",
+    "ISL_A_05_01": "MECCA",
+    "ISL_A_05_02": "MECCA",
+    "ISL_A_05_03": "MEDINA",
+    "ISL_A_05_04": "MEDINA",
+    "ISL_S_06_01": "MEDINA",
+    "ISL_S_06_02": "MEDINA",
+    "ISL_S_06_03": "NAJRAN",
+    "ISL_S_06_04": "NAJRAN",
+    "ISL_S_06_05": "NAJRAN",
+    "ISL_S_06_06": "MEDINA",
+    "ISL_S_06_07": "MEDINA",
+    "ISL_S_06_08": "MEDINA",
+    "ISL_A_06_01": "MEDINA",
+    "ISL_A_06_02": "MEDINA",
+    "ISL_A_06_03": "MEDINA",
+    "ISL_A_06_04": "NAJRAN",
+    "ISL_S_07_01": "DAMASCUS",
+    "ISL_S_07_02": "CTESIPHON",
+    "ISL_S_07_03": "NAHAVAND",
+    "ISL_S_07_04": "FUSTAT",
+    "ISL_S_07_05": "KUFA",
+    "ISL_S_07_06": "BASRA",
+    "ISL_S_07_07": "DAMASCUS",
+    "ISL_S_07_08": "FUSTAT",
+    "ISL_A_07_01": "FUSTAT",
+    "ISL_A_07_02": "CTESIPHON",
+    "ISL_A_07_03": "DAMASCUS",
+    "ISL_A_07_04": "KUFA",
+    "ISL_S_08_01": "MEDINA",
+    "ISL_S_08_02": "KUFA",
+    "ISL_S_08_03": "MEDINA",
+    "ISL_S_08_04": "KUFA",
+    "ISL_S_08_05": "BASRA",
+    "ISL_S_08_06": "SIFFIN",
+    "ISL_S_08_07": "KUFA",
+    "ISL_S_08_08": "DAMASCUS",
+    "ISL_A_08_01": "MEDINA",
+    "ISL_A_08_02": "KUFA",
+    "ISL_A_08_03": "DAMASCUS",
+    "ISL_A_08_04": "KUFA",
+    "ISL_S_09_01": "DAMASCUS",
+    "ISL_S_09_02": "DAMASCUS",
+    "ISL_S_09_03": "DAMASCUS",
+    "ISL_S_09_04": "KARBALA",
+    "ISL_S_09_05": "MECCA",
+    "ISL_S_09_06": "DAMASCUS",
+    "ISL_S_09_07": "KUFA",
+    "ISL_S_09_08": "DAMASCUS",
+    "ISL_A_09_01": "KARBALA",
+    "ISL_A_09_02": "MECCA",
+    "ISL_A_09_03": "DAMASCUS",
+    "ISL_A_09_04": "MECCA",
+    "ISL_S_10_01": "DAMASCUS",
+    "ISL_S_10_02": "JERUSALEM",
+    "ISL_S_10_03": "DAMASCUS",
+    "ISL_S_10_04": "FUSTAT",
+    "ISL_S_10_05": "WASIT",
+    "ISL_S_10_06": "WASIT",
+    "ISL_S_10_07": "DAMASCUS",
+    "ISL_S_10_08": "DAMASCUS",
+    "ISL_A_10_01": "JERUSALEM",
+    "ISL_A_10_02": "DAMASCUS",
+    "ISL_A_10_03": "FUSTAT",
+    "ISL_A_10_04": "DAMASCUS",
+    "ISL_S_11_01": "QAYRAWAN",
+    "ISL_S_11_02": "CORDOBA",
+    "ISL_S_11_03": "MERV",
+    "ISL_S_11_04": "FUSTAT",
+    "ISL_S_11_05": "MERV",
+    "ISL_S_11_06": "DAMASCUS",
+    "ISL_S_11_07": "MERV",
+    "ISL_S_11_08": "BASRA",
+    "ISL_A_11_01": "FUSTAT",
+    "ISL_A_11_02": "MERV",
+    "ISL_A_11_03": "DAMASCUS",
+    "ISL_A_11_04": "MERV"
+  },
+  "chapters": {
+    "ISL_CHAPTER_01": {
+      "title": "Аравия около 600 года",
+      "center": [
+        21.3891,
+        39.8579
+      ],
+      "zoom": 5
+    },
+    "ISL_CHAPTER_02": {
+      "title": "Мекка, Кааба и курайшиты",
+      "center": [
+        21.3891,
+        39.8579
+      ],
+      "zoom": 5
+    },
+    "ISL_CHAPTER_03": {
+      "title": "Мухаммед и начало откровения",
+      "center": [
+        21.3891,
+        39.8579
+      ],
+      "zoom": 5
+    },
+    "ISL_CHAPTER_04": {
+      "title": "Хиджра и община Медины",
+      "center": [
+        21.3891,
+        39.8579
+      ],
+      "zoom": 5
+    },
+    "ISL_CHAPTER_05": {
+      "title": "Войны, договоры и объединение Аравии",
+      "center": [
+        24.4672,
+        39.6111
+      ],
+      "zoom": 5
+    },
+    "ISL_CHAPTER_06": {
+      "title": "Преемство, ридда и ранний халифат",
+      "center": [
+        24.4672,
+        39.6111
+      ],
+      "zoom": 5
+    },
+    "ISL_CHAPTER_07": {
+      "title": "Завоевания и гарнизонные города",
+      "center": [
+        33.5138,
+        36.2765
+      ],
+      "zoom": 5
+    },
+    "ISL_CHAPTER_08": {
+      "title": "Первая фитна и борьба за халифат",
+      "center": [
+        24.4672,
+        39.6111
+      ],
+      "zoom": 5
+    },
+    "ISL_CHAPTER_09": {
+      "title": "Омейяды, Дамаск и вторая фитна",
+      "center": [
+        33.5138,
+        36.2765
+      ],
+      "zoom": 5
+    },
+    "ISL_CHAPTER_10": {
+      "title": "Абд аль-Малик и язык новой империи",
+      "center": [
+        33.5138,
+        36.2765
+      ],
+      "zoom": 5
+    },
+    "ISL_CHAPTER_11": {
+      "title": "Провинции, общины и конец Омейядов",
+      "center": [
+        33.5138,
+        36.2765
+      ],
+      "zoom": 5
+    }
+  },
+  "missionCenter": [
+    26.0,
+    42.0
+  ],
+  "missionZoom": 3
+}

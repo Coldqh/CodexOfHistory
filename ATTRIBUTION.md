@@ -402,3 +402,8 @@
 ## v8.2 — Франки: от Меровингов к Каролингам
 
 Локальные SVG-обложки 132 карточек, кампанийного пака и обложка эпохи созданы для Codex of History. Источниковая рамка опирается на Encyclopaedia Britannica, UNESCO Aachen Cathedral, материалы Metropolitan Museum of Art и цифровые коллекции средневековых грамот, монет и рукописей.
+
+
+## v8.3 — Византия: от иконоборчества до Василия II
+
+Локальные SVG-обложки 132 карточек и кампанийного пака созданы для Codex of History. Источниковая рамка опирается на Encyclopaedia Britannica, UNESCO Paleochristian and Byzantine Monuments of Thessalonika, Metropolitan Museum of Art и исследовательские материалы Dumbarton Oaks по византийским печатям, рукописям и праву.

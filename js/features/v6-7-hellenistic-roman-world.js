@@ -1,6 +1,6 @@
-/* Codex v8.2.0 — Hellenistic and Roman world shared comparative layer */
+/* Codex v8.3.0 — Hellenistic and Roman world shared comparative layer */
 (()=>{
-  const V='8.2.0';window.CODEX_VERSION=V;V22_CAMPAIGN_CODES.HELLENISTIC_ROMAN_EXAM='HELLENISTIC_ROMAN_EXAM';state.ancientWorldRegion=state.ancientWorldRegion||'HELLENISTIC';
+  const V='8.3.0';window.CODEX_VERSION=V;V22_CAMPAIGN_CODES.HELLENISTIC_ROMAN_EXAM='HELLENISTIC_ROMAN_EXAM';state.ancientWorldRegion=state.ancientWorldRegion||'HELLENISTIC';
   const oldSync=syncActiveCampaignRuntime;syncActiveCampaignRuntime=function(){oldSync();if(activeCampaignId()!=='HELLENISTIC_ROMAN_EXAM')return;const first=CAMPAIGN.nodes[0];(first?.cards||[]).forEach(id=>{if(!state.unlocked.includes(id))state.unlocked.push(id);});CODEX_CONFIG.maps=CODEX_MAPS.HELLENISTIC_ROMAN_EXAM||CODEX_CONFIG.maps;};
   const oldNoun=activeCampaignNoun;activeCampaignNoun=function(){return activeCampaignId()==='HELLENISTIC_ROMAN_EXAM'?'ЭПОХА V · АНТИЧНЫЙ МИР':oldNoun();};
   const oldPackTitle=activeCampaignPackTitle;activeCampaignPackTitle=function(){return activeCampaignId()==='HELLENISTIC_ROMAN_EXAM'?'Общий архив античного мира':oldPackTitle();};

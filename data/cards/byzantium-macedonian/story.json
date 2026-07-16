@@ -1,0 +1,5194 @@
+[
+  {
+    "id": "BYM_S_01_01",
+    "type": "CITY",
+    "title": "Константинополь после утраты Египта",
+    "original": "Константинополь после утраты Египта",
+    "subtitle": "столица перестраивала снабжение после исчезновения прежней зерновой системы",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "VII век",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Константинополь после утраты Египта — столица перестраивала снабжение после исчезновения прежней зерновой системы.",
+    "importance": "Карточка раскрывает главу «Империя после великих потерь» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VII век.",
+      "Основной смысл: столица перестраивала снабжение после исчезновения прежней зерновой системы.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Империя после великих потерь",
+      "city"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-01/bym_s_01_01.svg",
+      "caption": "Локальная учебная обложка: Константинополь после утраты Египта",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_01_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_01"
+  },
+  {
+    "id": "BYM_S_01_02",
+    "type": "REGION",
+    "title": "Анатолия как новое ядро империи",
+    "original": "Анатолия как новое ядро империи",
+    "subtitle": "полуостров стал главным пространством налогов, гарнизонов и людских ресурсов",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "VII век",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Анатолия как новое ядро империи — полуостров стал главным пространством налогов, гарнизонов и людских ресурсов.",
+    "importance": "Карточка раскрывает главу «Империя после великих потерь» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VII век.",
+      "Основной смысл: полуостров стал главным пространством налогов, гарнизонов и людских ресурсов.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Империя после великих потерь",
+      "region"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 8,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Анкира",
+      "lat": 39.9334,
+      "lon": 32.8597
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-01/bym_s_01_02.svg",
+      "caption": "Локальная учебная обложка: Анатолия как новое ядро империи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_01_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_01"
+  },
+  {
+    "id": "BYM_S_01_03",
+    "type": "EVENT",
+    "title": "Потеря Сирии и Палестины",
+    "original": "Потеря Сирии и Палестины",
+    "subtitle": "восточная граница отступила к Тавру и внутренней Анатолии",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "630–640-е годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Потеря Сирии и Палестины — восточная граница отступила к Тавру и внутренней Анатолии.",
+    "importance": "Карточка раскрывает главу «Империя после великих потерь» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 630–640-е годы.",
+      "Основной смысл: восточная граница отступила к Тавру и внутренней Анатолии.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Империя после великих потерь",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Антиохия",
+      "lat": 36.2021,
+      "lon": 36.16
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-01/bym_s_01_03.svg",
+      "caption": "Локальная учебная обложка: Потеря Сирии и Палестины",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_01_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_01"
+  },
+  {
+    "id": "BYM_S_01_04",
+    "type": "REGION",
+    "title": "Крит и островные коммуникации",
+    "original": "Крит и островные коммуникации",
+    "subtitle": "острова поддерживали морские маршруты и оборону Эгейского моря",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "VII век",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Крит и островные коммуникации — острова поддерживали морские маршруты и оборону Эгейского моря.",
+    "importance": "Карточка раскрывает главу «Империя после великих потерь» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VII век.",
+      "Основной смысл: острова поддерживали морские маршруты и оборону Эгейского моря.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Империя после великих потерь",
+      "region"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 6,
+      "culture": 5,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Крит",
+      "lat": 35.2401,
+      "lon": 24.8093
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-01/bym_s_01_04.svg",
+      "caption": "Локальная учебная обложка: Крит и островные коммуникации",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_01_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_01"
+  },
+  {
+    "id": "BYM_S_01_05",
+    "type": "NUMISMATICS",
+    "title": "Столичный солид VII века",
+    "original": "Столичный солид VII века",
+    "subtitle": "золотая монета сохраняла имперский стандарт в условиях территориальных потерь",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "VII век",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Столичный солид VII века — золотая монета сохраняла имперский стандарт в условиях территориальных потерь.",
+    "importance": "Карточка раскрывает главу «Империя после великих потерь» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VII век.",
+      "Основной смысл: золотая монета сохраняла имперский стандарт в условиях территориальных потерь.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Империя после великих потерь",
+      "numismatics"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 8,
+      "culture": 6,
+      "politics": 7,
+      "religion": 5,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-01/bym_s_01_05.svg",
+      "caption": "Локальная учебная обложка: Столичный солид VII века",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_01_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_01"
+  },
+  {
+    "id": "BYM_S_01_06",
+    "type": "PERSON",
+    "title": "Император Констант II",
+    "original": "Император Констант II",
+    "subtitle": "правитель пытался удержать империю между арабским давлением и западными владениями",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "641–668 годы",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Император Констант II — правитель пытался удержать империю между арабским давлением и западными владениями.",
+    "importance": "Карточка раскрывает главу «Империя после великих потерь» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 641–668 годы.",
+      "Основной смысл: правитель пытался удержать империю между арабским давлением и западными владениями.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Империя после великих потерь",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-01/bym_s_01_06.svg",
+      "caption": "Локальная учебная обложка: Император Констант II",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_01_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_01"
+  },
+  {
+    "id": "BYM_S_01_07",
+    "type": "MILITARY",
+    "title": "Флот и оборона Босфора",
+    "original": "Флот и оборона Босфора",
+    "subtitle": "морская сила оставалась условием выживания столицы",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "VII век",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Флот и оборона Босфора — морская сила оставалась условием выживания столицы.",
+    "importance": "Карточка раскрывает главу «Империя после великих потерь» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VII век.",
+      "Основной смысл: морская сила оставалась условием выживания столицы.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Империя после великих потерь",
+      "military"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 6,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-01/bym_s_01_07.svg",
+      "caption": "Локальная учебная обложка: Флот и оборона Босфора",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_01_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_01"
+  },
+  {
+    "id": "BYM_S_01_08",
+    "type": "CONCEPT",
+    "title": "Римская империя меньшего масштаба",
+    "original": "Римская империя меньшего масштаба",
+    "subtitle": "государство изменилось территориально, но продолжало считать себя Римской империей",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "VII век",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Римская империя меньшего масштаба — государство изменилось территориально, но продолжало считать себя Римской империей.",
+    "importance": "Карточка раскрывает главу «Империя после великих потерь» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VII век.",
+      "Основной смысл: государство изменилось территориально, но продолжало считать себя Римской империей.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Империя после великих потерь",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 8,
+      "culture": 9,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-01/bym_s_01_08.svg",
+      "caption": "Локальная учебная обложка: Римская империя меньшего масштаба",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_01_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_01"
+  },
+  {
+    "id": "BYM_S_02_01",
+    "type": "ADMINISTRATION",
+    "title": "Фема Анатоликон",
+    "original": "Фема Анатоликон",
+    "subtitle": "крупнейший анатолийский округ соединял войско, дороги и налоги",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "VII–VIII века",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Фема Анатоликон — крупнейший анатолийский округ соединял войско, дороги и налоги.",
+    "importance": "Карточка раскрывает главу «Фемы, армия и провинциальное общество» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VII–VIII века.",
+      "Основной смысл: крупнейший анатолийский округ соединял войско, дороги и налоги.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Фемы, армия и провинциальное общество",
+      "administration"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 8,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Анкира",
+      "lat": 39.9334,
+      "lon": 32.8597
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-02/bym_s_02_01.svg",
+      "caption": "Локальная учебная обложка: Фема Анатоликон",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.doaks.org/research/byzantine",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_02_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Dumbarton Oaks: Byzantine collections and publications",
+      "url": "https://www.doaks.org/research/byzantine",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_02"
+  },
+  {
+    "id": "BYM_S_02_02",
+    "type": "ADMINISTRATION",
+    "title": "Фема Армениакон",
+    "original": "Фема Армениакон",
+    "subtitle": "северо-восточный округ прикрывал Понт и границы Кавказа",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "VII–VIII века",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Фема Армениакон — северо-восточный округ прикрывал Понт и границы Кавказа.",
+    "importance": "Карточка раскрывает главу «Фемы, армия и провинциальное общество» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VII–VIII века.",
+      "Основной смысл: северо-восточный округ прикрывал Понт и границы Кавказа.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Фемы, армия и провинциальное общество",
+      "administration"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 3,
+      "culture": 9,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Трапезунд",
+      "lat": 41.0027,
+      "lon": 39.7168
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-02/bym_s_02_02.svg",
+      "caption": "Локальная учебная обложка: Фема Армениакон",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.doaks.org/research/byzantine",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_02_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Dumbarton Oaks: Byzantine collections and publications",
+      "url": "https://www.doaks.org/research/byzantine",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_02"
+  },
+  {
+    "id": "BYM_S_02_03",
+    "type": "ADMINISTRATION",
+    "title": "Опсикий и близость к столице",
+    "original": "Опсикий и близость к столице",
+    "subtitle": "элитное командование обладало политическим весом и часто участвовало в мятежах",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "VII–VIII века",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Опсикий и близость к столице — элитное командование обладало политическим весом и часто участвовало в мятежах.",
+    "importance": "Карточка раскрывает главу «Фемы, армия и провинциальное общество» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VII–VIII века.",
+      "Основной смысл: элитное командование обладало политическим весом и часто участвовало в мятежах.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Фемы, армия и провинциальное общество",
+      "administration"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 5,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-02/bym_s_02_03.svg",
+      "caption": "Локальная учебная обложка: Опсикий и близость к столице",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.doaks.org/research/byzantine",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_02_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Dumbarton Oaks: Byzantine collections and publications",
+      "url": "https://www.doaks.org/research/byzantine",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_02"
+  },
+  {
+    "id": "BYM_S_02_04",
+    "type": "OFFICE",
+    "title": "Стратег как военный губернатор",
+    "original": "Стратег как военный губернатор",
+    "subtitle": "командующий управлял армией и частью провинциальных ресурсов",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "VIII век",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Стратег как военный губернатор — командующий управлял армией и частью провинциальных ресурсов.",
+    "importance": "Карточка раскрывает главу «Фемы, армия и провинциальное общество» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VIII век.",
+      "Основной смысл: командующий управлял армией и частью провинциальных ресурсов.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Фемы, армия и провинциальное общество",
+      "office"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Аморий",
+      "lat": 39.02,
+      "lon": 31.29
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-02/bym_s_02_04.svg",
+      "caption": "Локальная учебная обложка: Стратег как военный губернатор",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.doaks.org/research/byzantine",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_02_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Dumbarton Oaks: Byzantine collections and publications",
+      "url": "https://www.doaks.org/research/byzantine",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_02"
+  },
+  {
+    "id": "BYM_S_02_05",
+    "type": "CONCEPT",
+    "title": "Фемный солдат без школьного мифа",
+    "original": "Фемный солдат без школьного мифа",
+    "subtitle": "служба и земля были связаны сложнее, чем схема всеобщих наследственных наделов",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "VII–IX века",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Фемный солдат без школьного мифа — служба и земля были связаны сложнее, чем схема всеобщих наследственных наделов.",
+    "importance": "Карточка раскрывает главу «Фемы, армия и провинциальное общество» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VII–IX века.",
+      "Основной смысл: служба и земля были связаны сложнее, чем схема всеобщих наследственных наделов.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Фемы, армия и провинциальное общество",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 3,
+      "culture": 7,
+      "politics": 9,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Анкира",
+      "lat": 39.9334,
+      "lon": 32.8597
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-02/bym_s_02_05.svg",
+      "caption": "Локальная учебная обложка: Фемный солдат без школьного мифа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.doaks.org/research/byzantine",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_02_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Dumbarton Oaks: Byzantine collections and publications",
+      "url": "https://www.doaks.org/research/byzantine",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_02"
+  },
+  {
+    "id": "BYM_S_02_06",
+    "type": "MILITARY",
+    "title": "Клисура на горной границе",
+    "original": "Клисура на горной границе",
+    "subtitle": "малый пограничный округ контролировал проходы и предупреждал набеги",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "VIII–IX века",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Клисура на горной границе — малый пограничный округ контролировал проходы и предупреждал набеги.",
+    "importance": "Карточка раскрывает главу «Фемы, армия и провинциальное общество» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VIII–IX века.",
+      "Основной смысл: малый пограничный округ контролировал проходы и предупреждал набеги.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Фемы, армия и провинциальное общество",
+      "military"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Каппадокия",
+      "lat": 38.65,
+      "lon": 34.85
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-02/bym_s_02_06.svg",
+      "caption": "Локальная учебная обложка: Клисура на горной границе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.doaks.org/research/byzantine",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_02_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Dumbarton Oaks: Byzantine collections and publications",
+      "url": "https://www.doaks.org/research/byzantine",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_02"
+  },
+  {
+    "id": "BYM_S_02_07",
+    "type": "INFRASTRUCTURE",
+    "title": "Дороги снабжения через Анатолию",
+    "original": "Дороги снабжения через Анатолию",
+    "subtitle": "старые римские маршруты поддерживали переброску войск и налогов",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "VII–IX века",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Дороги снабжения через Анатолию — старые римские маршруты поддерживали переброску войск и налогов.",
+    "importance": "Карточка раскрывает главу «Фемы, армия и провинциальное общество» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VII–IX века.",
+      "Основной смысл: старые римские маршруты поддерживали переброску войск и налогов.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Фемы, армия и провинциальное общество",
+      "infrastructure"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 7,
+      "culture": 9,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Кесария Каппадокийская",
+      "lat": 38.7225,
+      "lon": 35.4875
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-02/bym_s_02_07.svg",
+      "caption": "Локальная учебная обложка: Дороги снабжения через Анатолию",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.doaks.org/research/byzantine",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_02_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Dumbarton Oaks: Byzantine collections and publications",
+      "url": "https://www.doaks.org/research/byzantine",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_02"
+  },
+  {
+    "id": "BYM_S_02_08",
+    "type": "SOCIETY",
+    "title": "Город в эпоху фем",
+    "original": "Город в эпоху фем",
+    "subtitle": "городская жизнь сократилась не везде и сохраняла разные функции",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "VII–IX века",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Город в эпоху фем — городская жизнь сократилась не везде и сохраняла разные функции.",
+    "importance": "Карточка раскрывает главу «Фемы, армия и провинциальное общество» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VII–IX века.",
+      "Основной смысл: городская жизнь сократилась не везде и сохраняла разные функции.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Фемы, армия и провинциальное общество",
+      "society"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 3,
+      "culture": 5,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Фессалоника",
+      "lat": 40.6401,
+      "lon": 22.9444
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-02/bym_s_02_08.svg",
+      "caption": "Локальная учебная обложка: Город в эпоху фем",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.doaks.org/research/byzantine",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_02_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Dumbarton Oaks: Byzantine collections and publications",
+      "url": "https://www.doaks.org/research/byzantine",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_02"
+  },
+  {
+    "id": "BYM_S_03_01",
+    "type": "PERSON",
+    "title": "Лев III Исавр",
+    "original": "Лев III Исавр",
+    "subtitle": "стратег стал императором во время главной угрозы столице",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "717–741 годы",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Лев III Исавр — стратег стал императором во время главной угрозы столице.",
+    "importance": "Карточка раскрывает главу «Осада 717–718 годов и Лев III» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 717–741 годы.",
+      "Основной смысл: стратег стал императором во время главной угрозы столице.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Осада 717–718 годов и Лев III",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 8,
+      "culture": 9,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-03/bym_s_03_01.svg",
+      "caption": "Локальная учебная обложка: Лев III Исавр",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_03_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_03"
+  },
+  {
+    "id": "BYM_S_03_02",
+    "type": "SIEGE",
+    "title": "Осада Константинополя 717–718 годов",
+    "original": "Осада Константинополя 717–718 годов",
+    "subtitle": "кампания провалилась из-за сочетания укреплений, флота, снабжения и погоды",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "717–718 годы",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Осада Константинополя 717–718 годов — кампания провалилась из-за сочетания укреплений, флота, снабжения и погоды.",
+    "importance": "Карточка раскрывает главу «Осада 717–718 годов и Лев III» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 717–718 годы.",
+      "Основной смысл: кампания провалилась из-за сочетания укреплений, флота, снабжения и погоды.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Осада 717–718 годов и Лев III",
+      "siege"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 4,
+      "culture": 5,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-03/bym_s_03_02.svg",
+      "caption": "Локальная учебная обложка: Осада Константинополя 717–718 годов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_03_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_03"
+  },
+  {
+    "id": "BYM_S_03_03",
+    "type": "FORTIFICATION",
+    "title": "Феодосиевы стены в VIII веке",
+    "original": "Феодосиевы стены в VIII веке",
+    "subtitle": "многослойная оборона выдержала длительную блокаду",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "VIII век",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Феодосиевы стены в VIII веке — многослойная оборона выдержала длительную блокаду.",
+    "importance": "Карточка раскрывает главу «Осада 717–718 годов и Лев III» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VIII век.",
+      "Основной смысл: многослойная оборона выдержала длительную блокаду.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Осада 717–718 годов и Лев III",
+      "fortification"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 6,
+      "culture": 6,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-03/bym_s_03_03.svg",
+      "caption": "Локальная учебная обложка: Феодосиевы стены в VIII веке",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_03_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_03"
+  },
+  {
+    "id": "BYM_S_03_04",
+    "type": "MILITARY",
+    "title": "Греческий огонь и морская оборона",
+    "original": "Греческий огонь и морская оборона",
+    "subtitle": "зажигательная смесь была частью более широкой флотской системы",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "VIII век",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Греческий огонь и морская оборона — зажигательная смесь была частью более широкой флотской системы.",
+    "importance": "Карточка раскрывает главу «Осада 717–718 годов и Лев III» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VIII век.",
+      "Основной смысл: зажигательная смесь была частью более широкой флотской системы.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Осада 717–718 годов и Лев III",
+      "military"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 8,
+      "culture": 7,
+      "politics": 5,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-03/bym_s_03_04.svg",
+      "caption": "Локальная учебная обложка: Греческий огонь и морская оборона",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_03_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_03"
+  },
+  {
+    "id": "BYM_S_03_05",
+    "type": "DIPLOMACY",
+    "title": "Болгарское давление на осаждавших",
+    "original": "Болгарское давление на осаждавших",
+    "subtitle": "болгарские силы осложнили положение омейядской армии у столицы",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "717–718 годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Болгарское давление на осаждавших — болгарские силы осложнили положение омейядской армии у столицы.",
+    "importance": "Карточка раскрывает главу «Осада 717–718 годов и Лев III» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 717–718 годы.",
+      "Основной смысл: болгарские силы осложнили положение омейядской армии у столицы.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Осада 717–718 годов и Лев III",
+      "diplomacy"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 4,
+      "culture": 8,
+      "politics": 6,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Плиска",
+      "lat": 43.365,
+      "lon": 27.126
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-03/bym_s_03_05.svg",
+      "caption": "Локальная учебная обложка: Болгарское давление на осаждавших",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_03_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_03"
+  },
+  {
+    "id": "BYM_S_03_06",
+    "type": "LAW",
+    "title": "Эклога Льва III",
+    "original": "Эклога Льва III",
+    "subtitle": "греческий правовой свод переработал римскую традицию для новой эпохи",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "726 год",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Эклога Льва III — греческий правовой свод переработал римскую традицию для новой эпохи.",
+    "importance": "Карточка раскрывает главу «Осада 717–718 годов и Лев III» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 726 год.",
+      "Основной смысл: греческий правовой свод переработал римскую традицию для новой эпохи.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Осада 717–718 годов и Лев III",
+      "law"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-03/bym_s_03_06.svg",
+      "caption": "Локальная учебная обложка: Эклога Льва III",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_03_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_03"
+  },
+  {
+    "id": "BYM_S_03_07",
+    "type": "BATTLE",
+    "title": "Битва при Акроиноне",
+    "original": "Битва при Акроиноне",
+    "subtitle": "победа 740 года ограничила глубину ежегодных походов в Анатолию",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "740 год",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Битва при Акроиноне — победа 740 года ограничила глубину ежегодных походов в Анатолию.",
+    "importance": "Карточка раскрывает главу «Осада 717–718 годов и Лев III» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 740 год.",
+      "Основной смысл: победа 740 года ограничила глубину ежегодных походов в Анатолию.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Осада 717–718 годов и Лев III",
+      "battle"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 8,
+      "culture": 5,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Аморий",
+      "lat": 39.02,
+      "lon": 31.29
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-03/bym_s_03_07.svg",
+      "caption": "Локальная учебная обложка: Битва при Акроиноне",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_03_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_03"
+  },
+  {
+    "id": "BYM_S_03_08",
+    "type": "CONCEPT",
+    "title": "Выживание империи как система",
+    "original": "Выживание империи как система",
+    "subtitle": "исход осады нельзя объяснить одним оружием или одним правителем",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "717–718 годы",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Выживание империи как система — исход осады нельзя объяснить одним оружием или одним правителем.",
+    "importance": "Карточка раскрывает главу «Осада 717–718 годов и Лев III» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 717–718 годы.",
+      "Основной смысл: исход осады нельзя объяснить одним оружием или одним правителем.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Осада 717–718 годов и Лев III",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 4,
+      "culture": 6,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-03/bym_s_03_08.svg",
+      "caption": "Локальная учебная обложка: Выживание империи как система",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_03_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_03"
+  },
+  {
+    "id": "BYM_S_04_01",
+    "type": "PERSON",
+    "title": "Константин V",
+    "original": "Константин V",
+    "subtitle": "император сочетал военные реформы, династическую власть и радикальную религиозную политику",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "741–775 годы",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Константин V — император сочетал военные реформы, династическую власть и радикальную религиозную политику.",
+    "importance": "Карточка раскрывает главу «Константин V и первая эпоха иконоборчества» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 741–775 годы.",
+      "Основной смысл: император сочетал военные реформы, династическую власть и радикальную религиозную политику.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Константин V и первая эпоха иконоборчества",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 3,
+      "culture": 5,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-04/bym_s_04_01.svg",
+      "caption": "Локальная учебная обложка: Константин V",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_04"
+  },
+  {
+    "id": "BYM_S_04_02",
+    "type": "CIVIL_WAR",
+    "title": "Гражданская война с Артаваздом",
+    "original": "Гражданская война с Артаваздом",
+    "subtitle": "соперник использовал защиту икон как часть борьбы за престол",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "741–743 годы",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Гражданская война с Артаваздом — соперник использовал защиту икон как часть борьбы за престол.",
+    "importance": "Карточка раскрывает главу «Константин V и первая эпоха иконоборчества» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 741–743 годы.",
+      "Основной смысл: соперник использовал защиту икон как часть борьбы за престол.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Константин V и первая эпоха иконоборчества",
+      "civil_war"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 5,
+      "culture": 6,
+      "politics": 5,
+      "religion": 5,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-04/bym_s_04_02.svg",
+      "caption": "Локальная учебная обложка: Гражданская война с Артаваздом",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_04"
+  },
+  {
+    "id": "BYM_S_04_03",
+    "type": "COUNCIL",
+    "title": "Собор в Иерии 754 года",
+    "original": "Собор в Иерии 754 года",
+    "subtitle": "епископы сформулировали официальную иконоборческую позицию",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "754 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Собор в Иерии 754 года — епископы сформулировали официальную иконоборческую позицию.",
+    "importance": "Карточка раскрывает главу «Константин V и первая эпоха иконоборчества» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 754 год.",
+      "Основной смысл: епископы сформулировали официальную иконоборческую позицию.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Константин V и первая эпоха иконоборчества",
+      "council"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 7,
+      "culture": 7,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-04/bym_s_04_03.svg",
+      "caption": "Локальная учебная обложка: Собор в Иерии 754 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_04"
+  },
+  {
+    "id": "BYM_S_04_04",
+    "type": "CONCEPT",
+    "title": "Иконоборчество без карикатуры",
+    "original": "Иконоборчество без карикатуры",
+    "subtitle": "спор касался богословия, власти и практики, а не простой ненависти к искусству",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "VIII век",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Иконоборчество без карикатуры — спор касался богословия, власти и практики, а не простой ненависти к искусству.",
+    "importance": "Карточка раскрывает главу «Константин V и первая эпоха иконоборчества» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VIII век.",
+      "Основной смысл: спор касался богословия, власти и практики, а не простой ненависти к искусству.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Константин V и первая эпоха иконоборчества",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 3,
+      "culture": 8,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Никея",
+      "lat": 40.4292,
+      "lon": 29.7211
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-04/bym_s_04_04.svg",
+      "caption": "Локальная учебная обложка: Иконоборчество без карикатуры",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_04_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_04"
+  },
+  {
+    "id": "BYM_S_04_05",
+    "type": "RELIGION",
+    "title": "Монастыри и оппозиционная память",
+    "original": "Монастыри и оппозиционная память",
+    "subtitle": "часть монашества стала центром сопротивления императорской политике",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "VIII век",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Монастыри и оппозиционная память — часть монашества стала центром сопротивления императорской политике.",
+    "importance": "Карточка раскрывает главу «Константин V и первая эпоха иконоборчества» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VIII век.",
+      "Основной смысл: часть монашества стала центром сопротивления императорской политике.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Константин V и первая эпоха иконоборчества",
+      "religion"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 5,
+      "culture": 9,
+      "politics": 8,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Афон",
+      "lat": 40.157,
+      "lon": 24.326
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-04/bym_s_04_05.svg",
+      "caption": "Локальная учебная обложка: Монастыри и оппозиционная память",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_04_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_04"
+  },
+  {
+    "id": "BYM_S_04_06",
+    "type": "EPIDEMIC",
+    "title": "Чума 747 года в столице",
+    "original": "Чума 747 года в столице",
+    "subtitle": "эпидемия изменила население и вызвала переселения в Константинополь",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "747 год",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Чума 747 года в столице — эпидемия изменила население и вызвала переселения в Константинополь.",
+    "importance": "Карточка раскрывает главу «Константин V и первая эпоха иконоборчества» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 747 год.",
+      "Основной смысл: эпидемия изменила население и вызвала переселения в Константинополь.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Константин V и первая эпоха иконоборчества",
+      "epidemic"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 7,
+      "culture": 5,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-04/bym_s_04_06.svg",
+      "caption": "Локальная учебная обложка: Чума 747 года в столице",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_04_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_04"
+  },
+  {
+    "id": "BYM_S_04_07",
+    "type": "MILITARY",
+    "title": "Войны Константина V с Болгарией",
+    "original": "Войны Константина V с Болгарией",
+    "subtitle": "император провёл серию крупных походов на Балканах",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "VIII век",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Войны Константина V с Болгарией — император провёл серию крупных походов на Балканах.",
+    "importance": "Карточка раскрывает главу «Константин V и первая эпоха иконоборчества» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: VIII век.",
+      "Основной смысл: император провёл серию крупных походов на Балканах.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Константин V и первая эпоха иконоборчества",
+      "military"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 3,
+      "culture": 6,
+      "politics": 5,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Плиска",
+      "lat": 43.365,
+      "lon": 27.126
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-04/bym_s_04_07.svg",
+      "caption": "Локальная учебная обложка: Войны Константина V с Болгарией",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_04_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_04"
+  },
+  {
+    "id": "BYM_S_04_08",
+    "type": "HISTORIOGRAPHY",
+    "title": "Прозвище Копроним как пропаганда",
+    "original": "Прозвище Копроним как пропаганда",
+    "subtitle": "враждебное имя показывает силу поздней иконопочитательской памяти",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "IX век",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Прозвище Копроним как пропаганда — враждебное имя показывает силу поздней иконопочитательской памяти.",
+    "importance": "Карточка раскрывает главу «Константин V и первая эпоха иконоборчества» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: враждебное имя показывает силу поздней иконопочитательской памяти.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Константин V и первая эпоха иконоборчества",
+      "historiography"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 5,
+      "culture": 7,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-04/bym_s_04_08.svg",
+      "caption": "Локальная учебная обложка: Прозвище Копроним как пропаганда",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_04_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_04"
+  },
+  {
+    "id": "BYM_S_05_01",
+    "type": "PERSON",
+    "title": "Императрица Ирина",
+    "original": "Императрица Ирина",
+    "subtitle": "регент и единоличный правитель использовала соборную политику и придворные союзы",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "780–802 годы",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Императрица Ирина — регент и единоличный правитель использовала соборную политику и придворные союзы.",
+    "importance": "Карточка раскрывает главу «Ирина и Второй Никейский собор» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 780–802 годы.",
+      "Основной смысл: регент и единоличный правитель использовала соборную политику и придворные союзы.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Ирина и Второй Никейский собор",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 6,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-05/bym_s_05_01.svg",
+      "caption": "Локальная учебная обложка: Императрица Ирина",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_05"
+  },
+  {
+    "id": "BYM_S_05_02",
+    "type": "PERSON",
+    "title": "Константин VI",
+    "original": "Константин VI",
+    "subtitle": "малолетний император оказался участником конфликта между армией, матерью и двором",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "780–797 годы",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Константин VI — малолетний император оказался участником конфликта между армией, матерью и двором.",
+    "importance": "Карточка раскрывает главу «Ирина и Второй Никейский собор» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 780–797 годы.",
+      "Основной смысл: малолетний император оказался участником конфликта между армией, матерью и двором.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Ирина и Второй Никейский собор",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-05/bym_s_05_02.svg",
+      "caption": "Локальная учебная обложка: Константин VI",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_05"
+  },
+  {
+    "id": "BYM_S_05_03",
+    "type": "EVENT",
+    "title": "Срыв собора 786 года",
+    "original": "Срыв собора 786 года",
+    "subtitle": "столичные войска показали, что церковное решение зависело от военной политики",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "786 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Срыв собора 786 года — столичные войска показали, что церковное решение зависело от военной политики.",
+    "importance": "Карточка раскрывает главу «Ирина и Второй Никейский собор» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 786 год.",
+      "Основной смысл: столичные войска показали, что церковное решение зависело от военной политики.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Ирина и Второй Никейский собор",
+      "event"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 8,
+      "culture": 8,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-05/bym_s_05_03.svg",
+      "caption": "Локальная учебная обложка: Срыв собора 786 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_05"
+  },
+  {
+    "id": "BYM_S_05_04",
+    "type": "COUNCIL",
+    "title": "Второй Никейский собор",
+    "original": "Второй Никейский собор",
+    "subtitle": "собор восстановил почитание икон и сформулировал его богословские границы",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "787 год",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Второй Никейский собор — собор восстановил почитание икон и сформулировал его богословские границы.",
+    "importance": "Карточка раскрывает главу «Ирина и Второй Никейский собор» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 787 год.",
+      "Основной смысл: собор восстановил почитание икон и сформулировал его богословские границы.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Ирина и Второй Никейский собор",
+      "council"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Никея",
+      "lat": 40.4292,
+      "lon": 29.7211
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-05/bym_s_05_04.svg",
+      "caption": "Локальная учебная обложка: Второй Никейский собор",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_05"
+  },
+  {
+    "id": "BYM_S_05_05",
+    "type": "THEOLOGY",
+    "title": "Почитание и поклонение",
+    "original": "Почитание и поклонение",
+    "subtitle": "собор различил честь образу и богопоклонение, обращённое только к Богу",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "787 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Почитание и поклонение — собор различил честь образу и богопоклонение, обращённое только к Богу.",
+    "importance": "Карточка раскрывает главу «Ирина и Второй Никейский собор» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 787 год.",
+      "Основной смысл: собор различил честь образу и богопоклонение, обращённое только к Богу.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Ирина и Второй Никейский собор",
+      "theology"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 5,
+      "politics": 5,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Никея",
+      "lat": 40.4292,
+      "lon": 29.7211
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-05/bym_s_05_05.svg",
+      "caption": "Локальная учебная обложка: Почитание и поклонение",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_05_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_05"
+  },
+  {
+    "id": "BYM_S_05_06",
+    "type": "POLITICS",
+    "title": "Ослепление Константина VI",
+    "original": "Ослепление Константина VI",
+    "subtitle": "насильственная смена власти разрушила династическую легитимность Ирины",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "797 год",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Ослепление Константина VI — насильственная смена власти разрушила династическую легитимность Ирины.",
+    "importance": "Карточка раскрывает главу «Ирина и Второй Никейский собор» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 797 год.",
+      "Основной смысл: насильственная смена власти разрушила династическую легитимность Ирины.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Ирина и Второй Никейский собор",
+      "politics"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 8,
+      "culture": 6,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-05/bym_s_05_06.svg",
+      "caption": "Локальная учебная обложка: Ослепление Константина VI",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_05_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_05"
+  },
+  {
+    "id": "BYM_S_05_07",
+    "type": "DIPLOMACY",
+    "title": "Карл Великий и спор об империи",
+    "original": "Карл Великий и спор об империи",
+    "subtitle": "коронация 800 года создала новый западный центр римского титула",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "800 год",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Карл Великий и спор об империи — коронация 800 года создала новый западный центр римского титула.",
+    "importance": "Карточка раскрывает главу «Ирина и Второй Никейский собор» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 800 год.",
+      "Основной смысл: коронация 800 года создала новый западный центр римского титула.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Ирина и Второй Никейский собор",
+      "diplomacy"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.9028,
+      "lon": 12.4964
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-05/bym_s_05_07.svg",
+      "caption": "Локальная учебная обложка: Карл Великий и спор об империи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_05_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_05"
+  },
+  {
+    "id": "BYM_S_05_08",
+    "type": "CONCEPT",
+    "title": "Женщина на римском престоле",
+    "original": "Женщина на римском престоле",
+    "subtitle": "источники по-разному оценивали право Ирины на самостоятельное правление",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "797–802 годы",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Женщина на римском престоле — источники по-разному оценивали право Ирины на самостоятельное правление.",
+    "importance": "Карточка раскрывает главу «Ирина и Второй Никейский собор» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 797–802 годы.",
+      "Основной смысл: источники по-разному оценивали право Ирины на самостоятельное правление.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Ирина и Второй Никейский собор",
+      "concept"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 6,
+      "culture": 8,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-05/bym_s_05_08.svg",
+      "caption": "Локальная учебная обложка: Женщина на римском престоле",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_05_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_05"
+  },
+  {
+    "id": "BYM_S_06_01",
+    "type": "PERSON",
+    "title": "Лев V Армянин",
+    "original": "Лев V Армянин",
+    "subtitle": "император вернул иконоборчество после военного кризиса начала IX века",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "813–820 годы",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Лев V Армянин — император вернул иконоборчество после военного кризиса начала IX века.",
+    "importance": "Карточка раскрывает главу «Второе иконоборчество и восстановление 843 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 813–820 годы.",
+      "Основной смысл: император вернул иконоборчество после военного кризиса начала IX века.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Второе иконоборчество и восстановление 843 года",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 5,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-06/bym_s_06_01.svg",
+      "caption": "Локальная учебная обложка: Лев V Армянин",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_06"
+  },
+  {
+    "id": "BYM_S_06_02",
+    "type": "COUNCIL",
+    "title": "Собор 815 года",
+    "original": "Собор 815 года",
+    "subtitle": "новое соборное решение отменило постановления Никеи II",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "815 год",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Собор 815 года — новое соборное решение отменило постановления Никеи II.",
+    "importance": "Карточка раскрывает главу «Второе иконоборчество и восстановление 843 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 815 год.",
+      "Основной смысл: новое соборное решение отменило постановления Никеи II.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Второе иконоборчество и восстановление 843 года",
+      "council"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 7,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-06/bym_s_06_02.svg",
+      "caption": "Локальная учебная обложка: Собор 815 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_06"
+  },
+  {
+    "id": "BYM_S_06_03",
+    "type": "PERSON",
+    "title": "Михаил II Амориец",
+    "original": "Михаил II Амориец",
+    "subtitle": "основатель новой династии смягчил часть преследований, сохранив запрет",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "820–829 годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Михаил II Амориец — основатель новой династии смягчил часть преследований, сохранив запрет.",
+    "importance": "Карточка раскрывает главу «Второе иконоборчество и восстановление 843 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 820–829 годы.",
+      "Основной смысл: основатель новой династии смягчил часть преследований, сохранив запрет.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Второе иконоборчество и восстановление 843 года",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 3,
+      "culture": 9,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Аморий",
+      "lat": 39.02,
+      "lon": 31.29
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-06/bym_s_06_03.svg",
+      "caption": "Локальная учебная обложка: Михаил II Амориец",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_06"
+  },
+  {
+    "id": "BYM_S_06_04",
+    "type": "PERSON",
+    "title": "Император Феофил",
+    "original": "Император Феофил",
+    "subtitle": "образованный правитель сочетал иконоборчество, строительство и войны с Аббасидами",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "829–842 годы",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Император Феофил — образованный правитель сочетал иконоборчество, строительство и войны с Аббасидами.",
+    "importance": "Карточка раскрывает главу «Второе иконоборчество и восстановление 843 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 829–842 годы.",
+      "Основной смысл: образованный правитель сочетал иконоборчество, строительство и войны с Аббасидами.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Второе иконоборчество и восстановление 843 года",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 5,
+      "culture": 5,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-06/bym_s_06_04.svg",
+      "caption": "Локальная учебная обложка: Император Феофил",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_06"
+  },
+  {
+    "id": "BYM_S_06_05",
+    "type": "SIEGE",
+    "title": "Падение Амория",
+    "original": "Падение Амория",
+    "subtitle": "захват родного города династии стал крупнейшим поражением 838 года",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "838 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Падение Амория — захват родного города династии стал крупнейшим поражением 838 года.",
+    "importance": "Карточка раскрывает главу «Второе иконоборчество и восстановление 843 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 838 год.",
+      "Основной смысл: захват родного города династии стал крупнейшим поражением 838 года.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Второе иконоборчество и восстановление 843 года",
+      "siege"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 7,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Аморий",
+      "lat": 39.02,
+      "lon": 31.29
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-06/bym_s_06_05.svg",
+      "caption": "Локальная учебная обложка: Падение Амория",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_06_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_06"
+  },
+  {
+    "id": "BYM_S_06_06",
+    "type": "PERSON",
+    "title": "Императрица Феодора",
+    "original": "Императрица Феодора",
+    "subtitle": "регент завершила иконоборческую политику после смерти Феофила",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "842–856 годы",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Императрица Феодора — регент завершила иконоборческую политику после смерти Феофила.",
+    "importance": "Карточка раскрывает главу «Второе иконоборчество и восстановление 843 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 842–856 годы.",
+      "Основной смысл: регент завершила иконоборческую политику после смерти Феофила.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Второе иконоборчество и восстановление 843 года",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 3,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-06/bym_s_06_06.svg",
+      "caption": "Локальная учебная обложка: Императрица Феодора",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_06_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_06"
+  },
+  {
+    "id": "BYM_S_06_07",
+    "type": "RELIGION",
+    "title": "Торжество православия 843 года",
+    "original": "Торжество православия 843 года",
+    "subtitle": "восстановление икон стало ежегодным ритуалом церковной памяти",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "843 год",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Торжество православия 843 года — восстановление икон стало ежегодным ритуалом церковной памяти.",
+    "importance": "Карточка раскрывает главу «Второе иконоборчество и восстановление 843 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 843 год.",
+      "Основной смысл: восстановление икон стало ежегодным ритуалом церковной памяти.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Второе иконоборчество и восстановление 843 года",
+      "religion"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-06/bym_s_06_07.svg",
+      "caption": "Локальная учебная обложка: Торжество православия 843 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_06_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_06"
+  },
+  {
+    "id": "BYM_S_06_08",
+    "type": "HISTORIOGRAPHY",
+    "title": "Победители и память об иконоборцах",
+    "original": "Победители и память об иконоборцах",
+    "subtitle": "большая часть сохранившихся текстов написана сторонниками победившей стороны",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "IX век",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Победители и память об иконоборцах — большая часть сохранившихся текстов написана сторонниками победившей стороны.",
+    "importance": "Карточка раскрывает главу «Второе иконоборчество и восстановление 843 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: большая часть сохранившихся текстов написана сторонниками победившей стороны.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Второе иконоборчество и восстановление 843 года",
+      "historiography"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 7,
+      "culture": 9,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-06/bym_s_06_08.svg",
+      "caption": "Локальная учебная обложка: Победители и память об иконоборцах",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_06_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Iconoclastic Controversy",
+      "url": "https://www.britannica.com/event/Iconoclastic-Controversy",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_06"
+  },
+  {
+    "id": "BYM_S_07_01",
+    "type": "PERSON",
+    "title": "Михаил III",
+    "original": "Михаил III",
+    "subtitle": "император правил в эпоху восстановления икон и новых дипломатических миссий",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "842–867 годы",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Михаил III — император правил в эпоху восстановления икон и новых дипломатических миссий.",
+    "importance": "Карточка раскрывает главу «Михаил III, Варда и Фотий» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 842–867 годы.",
+      "Основной смысл: император правил в эпоху восстановления икон и новых дипломатических миссий.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Михаил III, Варда и Фотий",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 6,
+      "culture": 8,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-07/bym_s_07_01.svg",
+      "caption": "Локальная учебная обложка: Михаил III",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.doaks.org/research/byzantine",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Dumbarton Oaks: Byzantine collections and publications",
+      "url": "https://www.doaks.org/research/byzantine",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_07"
+  },
+  {
+    "id": "BYM_S_07_02",
+    "type": "PERSON",
+    "title": "Кесарь Варда",
+    "original": "Кесарь Варда",
+    "subtitle": "дядя императора управлял двором и поддерживал образовательные инициативы",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "856–866 годы",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Кесарь Варда — дядя императора управлял двором и поддерживал образовательные инициативы.",
+    "importance": "Карточка раскрывает главу «Михаил III, Варда и Фотий» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 856–866 годы.",
+      "Основной смысл: дядя императора управлял двором и поддерживал образовательные инициативы.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Михаил III, Варда и Фотий",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 8,
+      "culture": 9,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-07/bym_s_07_02.svg",
+      "caption": "Локальная учебная обложка: Кесарь Варда",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.doaks.org/research/byzantine",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Dumbarton Oaks: Byzantine collections and publications",
+      "url": "https://www.doaks.org/research/byzantine",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_07"
+  },
+  {
+    "id": "BYM_S_07_03",
+    "type": "PERSON",
+    "title": "Патриарх Фотий",
+    "original": "Патриарх Фотий",
+    "subtitle": "учёный и церковный политик стал центром конфликта между Константинополем и Римом",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "858–867 годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Патриарх Фотий — учёный и церковный политик стал центром конфликта между Константинополем и Римом.",
+    "importance": "Карточка раскрывает главу «Михаил III, Варда и Фотий» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 858–867 годы.",
+      "Основной смысл: учёный и церковный политик стал центром конфликта между Константинополем и Римом.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Михаил III, Варда и Фотий",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 4,
+      "culture": 5,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-07/bym_s_07_03.svg",
+      "caption": "Локальная учебная обложка: Патриарх Фотий",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.doaks.org/research/byzantine",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Dumbarton Oaks: Byzantine collections and publications",
+      "url": "https://www.doaks.org/research/byzantine",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_07"
+  },
+  {
+    "id": "BYM_S_07_04",
+    "type": "EDUCATION",
+    "title": "Магнаврская школа в придворной памяти",
+    "original": "Магнаврская школа в придворной памяти",
+    "subtitle": "столичная учёность связывается с философией, математикой и подготовкой чиновников",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "IX век",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Магнаврская школа в придворной памяти — столичная учёность связывается с философией, математикой и подготовкой чиновников.",
+    "importance": "Карточка раскрывает главу «Михаил III, Варда и Фотий» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: столичная учёность связывается с философией, математикой и подготовкой чиновников.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Михаил III, Варда и Фотий",
+      "education"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 6,
+      "culture": 6,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-07/bym_s_07_04.svg",
+      "caption": "Локальная учебная обложка: Магнаврская школа в придворной памяти",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.doaks.org/research/byzantine",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_07_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Dumbarton Oaks: Byzantine collections and publications",
+      "url": "https://www.doaks.org/research/byzantine",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_07"
+  },
+  {
+    "id": "BYM_S_07_05",
+    "type": "CHURCH",
+    "title": "Фотиев конфликт",
+    "original": "Фотиев конфликт",
+    "subtitle": "спор касался назначения патриарха, юрисдикции и отношений с папством",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "IX век",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Фотиев конфликт — спор касался назначения патриарха, юрисдикции и отношений с папством.",
+    "importance": "Карточка раскрывает главу «Михаил III, Варда и Фотий» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: спор касался назначения патриарха, юрисдикции и отношений с папством.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Михаил III, Варда и Фотий",
+      "church"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 8,
+      "culture": 7,
+      "politics": 9,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Рим",
+      "lat": 41.9028,
+      "lon": 12.4964
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-07/bym_s_07_05.svg",
+      "caption": "Локальная учебная обложка: Фотиев конфликт",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.doaks.org/research/byzantine",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_07_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Dumbarton Oaks: Byzantine collections and publications",
+      "url": "https://www.doaks.org/research/byzantine",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_07"
+  },
+  {
+    "id": "BYM_S_07_06",
+    "type": "RAID",
+    "title": "Нападение русов 860 года",
+    "original": "Нападение русов 860 года",
+    "subtitle": "морской поход достиг Босфора и изменил северную дипломатию империи",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "860 год",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Нападение русов 860 года — морской поход достиг Босфора и изменил северную дипломатию империи.",
+    "importance": "Карточка раскрывает главу «Михаил III, Варда и Фотий» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 860 год.",
+      "Основной смысл: морской поход достиг Босфора и изменил северную дипломатию империи.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Михаил III, Варда и Фотий",
+      "raid"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 4,
+      "culture": 8,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-07/bym_s_07_06.svg",
+      "caption": "Локальная учебная обложка: Нападение русов 860 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.doaks.org/research/byzantine",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_07_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Dumbarton Oaks: Byzantine collections and publications",
+      "url": "https://www.doaks.org/research/byzantine",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_07"
+  },
+  {
+    "id": "BYM_S_07_07",
+    "type": "REGION",
+    "title": "Херсон и причерноморские связи",
+    "original": "Херсон и причерноморские связи",
+    "subtitle": "крымский центр связывал империю со степью и северными маршрутами",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "IX век",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Херсон и причерноморские связи — крымский центр связывал империю со степью и северными маршрутами.",
+    "importance": "Карточка раскрывает главу «Михаил III, Варда и Фотий» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: крымский центр связывал империю со степью и северными маршрутами.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Михаил III, Варда и Фотий",
+      "region"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Херсон",
+      "lat": 44.61,
+      "lon": 33.49
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-07/bym_s_07_07.svg",
+      "caption": "Локальная учебная обложка: Херсон и причерноморские связи",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.doaks.org/research/byzantine",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_07_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Dumbarton Oaks: Byzantine collections and publications",
+      "url": "https://www.doaks.org/research/byzantine",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_07"
+  },
+  {
+    "id": "BYM_S_07_08",
+    "type": "PALACE_COUP",
+    "title": "Убийство Михаила III",
+    "original": "Убийство Михаила III",
+    "subtitle": "Василий Македонянин завершил карьеру фаворита захватом престола",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "867 год",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Убийство Михаила III — Василий Македонянин завершил карьеру фаворита захватом престола.",
+    "importance": "Карточка раскрывает главу «Михаил III, Варда и Фотий» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 867 год.",
+      "Основной смысл: Василий Македонянин завершил карьеру фаворита захватом престола.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Михаил III, Варда и Фотий",
+      "palace_coup"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 8,
+      "culture": 5,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-07/bym_s_07_08.svg",
+      "caption": "Локальная учебная обложка: Убийство Михаила III",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.doaks.org/research/byzantine",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_07_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Dumbarton Oaks: Byzantine collections and publications",
+      "url": "https://www.doaks.org/research/byzantine",
+      "type": "research"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_07"
+  },
+  {
+    "id": "BYM_S_08_01",
+    "type": "PERSON",
+    "title": "Константин-Кирилл Философ",
+    "original": "Константин-Кирилл Философ",
+    "subtitle": "миссионер и переводчик создал глаголическую письменность для славянской литургии",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "ок. 827–869 годы",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Константин-Кирилл Философ — миссионер и переводчик создал глаголическую письменность для славянской литургии.",
+    "importance": "Карточка раскрывает главу «Кирилл, Мефодий и христианизация славян» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: ок. 827–869 годы.",
+      "Основной смысл: миссионер и переводчик создал глаголическую письменность для славянской литургии.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Кирилл, Мефодий и христианизация славян",
+      "person"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 7,
+      "culture": 9,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Фессалоника",
+      "lat": 40.6401,
+      "lon": 22.9444
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-08/bym_s_08_01.svg",
+      "caption": "Локальная учебная обложка: Константин-Кирилл Философ",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Saints-Cyril-and-Methodius",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Saints Cyril and Methodius",
+      "url": "https://www.britannica.com/biography/Saints-Cyril-and-Methodius",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_08"
+  },
+  {
+    "id": "BYM_S_08_02",
+    "type": "PERSON",
+    "title": "Мефодий Моравский",
+    "original": "Мефодий Моравский",
+    "subtitle": "архиепископ защищал использование славянского языка в богослужении",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "ок. 815–885 годы",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Мефодий Моравский — архиепископ защищал использование славянского языка в богослужении.",
+    "importance": "Карточка раскрывает главу «Кирилл, Мефодий и христианизация славян» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: ок. 815–885 годы.",
+      "Основной смысл: архиепископ защищал использование славянского языка в богослужении.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Кирилл, Мефодий и христианизация славян",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 3,
+      "culture": 5,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Великая Моравия",
+      "lat": 49.2,
+      "lon": 17.5
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-08/bym_s_08_02.svg",
+      "caption": "Локальная учебная обложка: Мефодий Моравский",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Saints-Cyril-and-Methodius",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Saints Cyril and Methodius",
+      "url": "https://www.britannica.com/biography/Saints-Cyril-and-Methodius",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_08"
+  },
+  {
+    "id": "BYM_S_08_03",
+    "type": "WRITING",
+    "title": "Глаголица",
+    "original": "Глаголица",
+    "subtitle": "первая славянская азбука была создана для перевода христианских текстов",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "IX век",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Глаголица — первая славянская азбука была создана для перевода христианских текстов.",
+    "importance": "Карточка раскрывает главу «Кирилл, Мефодий и христианизация славян» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: первая славянская азбука была создана для перевода христианских текстов.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Кирилл, Мефодий и христианизация славян",
+      "writing"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 5,
+      "culture": 6,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Великая Моравия",
+      "lat": 49.2,
+      "lon": 17.5
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-08/bym_s_08_03.svg",
+      "caption": "Локальная учебная обложка: Глаголица",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Saints-Cyril-and-Methodius",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Saints Cyril and Methodius",
+      "url": "https://www.britannica.com/biography/Saints-Cyril-and-Methodius",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_08"
+  },
+  {
+    "id": "BYM_S_08_04",
+    "type": "MISSION",
+    "title": "Миссия в Великую Моравию",
+    "original": "Миссия в Великую Моравию",
+    "subtitle": "посольство соединяло богословие, перевод и борьбу за церковную юрисдикцию",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "863 год",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Миссия в Великую Моравию — посольство соединяло богословие, перевод и борьбу за церковную юрисдикцию.",
+    "importance": "Карточка раскрывает главу «Кирилл, Мефодий и христианизация славян» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 863 год.",
+      "Основной смысл: посольство соединяло богословие, перевод и борьбу за церковную юрисдикцию.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Кирилл, Мефодий и христианизация славян",
+      "mission"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 7,
+      "culture": 7,
+      "politics": 5,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Великая Моравия",
+      "lat": 49.2,
+      "lon": 17.5
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-08/bym_s_08_04.svg",
+      "caption": "Локальная учебная обложка: Миссия в Великую Моравию",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Saints-Cyril-and-Methodius",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_08_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Saints Cyril and Methodius",
+      "url": "https://www.britannica.com/biography/Saints-Cyril-and-Methodius",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_08"
+  },
+  {
+    "id": "BYM_S_08_05",
+    "type": "RELIGION",
+    "title": "Крещение Бориса I",
+    "original": "Крещение Бориса I",
+    "subtitle": "болгарский правитель использовал христианство для перестройки государства и дипломатии",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "864–865 годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Крещение Бориса I — болгарский правитель использовал христианство для перестройки государства и дипломатии.",
+    "importance": "Карточка раскрывает главу «Кирилл, Мефодий и христианизация славян» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 864–865 годы.",
+      "Основной смысл: болгарский правитель использовал христианство для перестройки государства и дипломатии.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Кирилл, Мефодий и христианизация славян",
+      "religion"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 6,
+      "military": 3,
+      "culture": 8,
+      "politics": 6,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Плиска",
+      "lat": 43.365,
+      "lon": 27.126
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-08/bym_s_08_05.svg",
+      "caption": "Локальная учебная обложка: Крещение Бориса I",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Saints-Cyril-and-Methodius",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_08_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Saints Cyril and Methodius",
+      "url": "https://www.britannica.com/biography/Saints-Cyril-and-Methodius",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_08"
+  },
+  {
+    "id": "BYM_S_08_06",
+    "type": "EDUCATION",
+    "title": "Преславская книжная школа",
+    "original": "Преславская книжная школа",
+    "subtitle": "центр переводов и письма работал при болгарском дворе",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "IX–X века",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Преславская книжная школа — центр переводов и письма работал при болгарском дворе.",
+    "importance": "Карточка раскрывает главу «Кирилл, Мефодий и христианизация славян» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: центр переводов и письма работал при болгарском дворе.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Кирилл, Мефодий и христианизация славян",
+      "education"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 6,
+      "military": 5,
+      "culture": 9,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Преслав",
+      "lat": 43.16,
+      "lon": 26.815
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-08/bym_s_08_06.svg",
+      "caption": "Локальная учебная обложка: Преславская книжная школа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Saints-Cyril-and-Methodius",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_08_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Saints Cyril and Methodius",
+      "url": "https://www.britannica.com/biography/Saints-Cyril-and-Methodius",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_08"
+  },
+  {
+    "id": "BYM_S_08_07",
+    "type": "EDUCATION",
+    "title": "Охридская книжная школа",
+    "original": "Охридская книжная школа",
+    "subtitle": "ученики миссионеров создали сеть обучения и литургического перевода",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "IX–X века",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Охридская книжная школа — ученики миссионеров создали сеть обучения и литургического перевода.",
+    "importance": "Карточка раскрывает главу «Кирилл, Мефодий и христианизация славян» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: ученики миссионеров создали сеть обучения и литургического перевода.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Кирилл, Мефодий и христианизация славян",
+      "education"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 6,
+      "military": 7,
+      "culture": 5,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Охрид",
+      "lat": 41.1231,
+      "lon": 20.8016
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-08/bym_s_08_07.svg",
+      "caption": "Локальная учебная обложка: Охридская книжная школа",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Saints-Cyril-and-Methodius",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_08_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Saints Cyril and Methodius",
+      "url": "https://www.britannica.com/biography/Saints-Cyril-and-Methodius",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_08"
+  },
+  {
+    "id": "BYM_S_08_08",
+    "type": "CONCEPT",
+    "title": "Христианизация без одного центра",
+    "original": "Христианизация без одного центра",
+    "subtitle": "процесс зависел от дворов, епископов, переводчиков, учеников и местных общин",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "IX век",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Христианизация без одного центра — процесс зависел от дворов, епископов, переводчиков, учеников и местных общин.",
+    "importance": "Карточка раскрывает главу «Кирилл, Мефодий и христианизация славян» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: процесс зависел от дворов, епископов, переводчиков, учеников и местных общин.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Кирилл, Мефодий и христианизация славян",
+      "concept"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 6,
+      "legacy": 6,
+      "military": 3,
+      "culture": 6,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Преслав",
+      "lat": 43.16,
+      "lon": 26.815
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-08/bym_s_08_08.svg",
+      "caption": "Локальная учебная обложка: Христианизация без одного центра",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Saints-Cyril-and-Methodius",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_08_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Saints Cyril and Methodius",
+      "url": "https://www.britannica.com/biography/Saints-Cyril-and-Methodius",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_08"
+  },
+  {
+    "id": "BYM_S_09_01",
+    "type": "PERSON",
+    "title": "Василий I Македонянин",
+    "original": "Василий I Македонянин",
+    "subtitle": "основатель династии превратил карьеру придворного фаворита в императорскую власть",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "867–886 годы",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Василий I Македонянин — основатель династии превратил карьеру придворного фаворита в императорскую власть.",
+    "importance": "Карточка раскрывает главу «Василий I, Лев VI и Македонская династия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 867–886 годы.",
+      "Основной смысл: основатель династии превратил карьеру придворного фаворита в императорскую власть.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Василий I, Лев VI и Македонская династия",
+      "person"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 8,
+      "culture": 5,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-09/bym_s_09_01.svg",
+      "caption": "Локальная учебная обложка: Василий I Македонянин",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_09_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_09"
+  },
+  {
+    "id": "BYM_S_09_02",
+    "type": "PERSON",
+    "title": "Лев VI Мудрый",
+    "original": "Лев VI Мудрый",
+    "subtitle": "император сочетал законодательство, церковные конфликты и придворную литературу",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "886–912 годы",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Лев VI Мудрый — император сочетал законодательство, церковные конфликты и придворную литературу.",
+    "importance": "Карточка раскрывает главу «Василий I, Лев VI и Македонская династия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 886–912 годы.",
+      "Основной смысл: император сочетал законодательство, церковные конфликты и придворную литературу.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Василий I, Лев VI и Македонская династия",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 6,
+      "politics": 5,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-09/bym_s_09_02.svg",
+      "caption": "Локальная учебная обложка: Лев VI Мудрый",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_09_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_09"
+  },
+  {
+    "id": "BYM_S_09_03",
+    "type": "LAW",
+    "title": "Василики",
+    "original": "Василики",
+    "subtitle": "греческий свод переработал Юстинианово право для практики IX–X веков",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "IX век",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Василики — греческий свод переработал Юстинианово право для практики IX–X веков.",
+    "importance": "Карточка раскрывает главу «Василий I, Лев VI и Македонская династия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: греческий свод переработал Юстинианово право для практики IX–X веков.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Василий I, Лев VI и Македонская династия",
+      "law"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-09/bym_s_09_03.svg",
+      "caption": "Локальная учебная обложка: Василики",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_09_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_09"
+  },
+  {
+    "id": "BYM_S_09_04",
+    "type": "LAW",
+    "title": "Новеллы Льва VI",
+    "original": "Новеллы Льва VI",
+    "subtitle": "новые законы регулировали церковь, город, наследование и управление",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "IX–X века",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Новеллы Льва VI — новые законы регулировали церковь, город, наследование и управление.",
+    "importance": "Карточка раскрывает главу «Василий I, Лев VI и Македонская династия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: новые законы регулировали церковь, город, наследование и управление.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Василий I, Лев VI и Македонская династия",
+      "law"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 8,
+      "culture": 8,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-09/bym_s_09_04.svg",
+      "caption": "Локальная учебная обложка: Новеллы Льва VI",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_09_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_09"
+  },
+  {
+    "id": "BYM_S_09_05",
+    "type": "RITUAL",
+    "title": "Императорская церемония",
+    "original": "Императорская церемония",
+    "subtitle": "ритуалы двора распределяли титулы, доступ и политический порядок",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "IX–X века",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Императорская церемония — ритуалы двора распределяли титулы, доступ и политический порядок.",
+    "importance": "Карточка раскрывает главу «Василий I, Лев VI и Македонская династия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: ритуалы двора распределяли титулы, доступ и политический порядок.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Василий I, Лев VI и Македонская династия",
+      "ritual"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 8,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-09/bym_s_09_05.svg",
+      "caption": "Локальная учебная обложка: Императорская церемония",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_09_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_09"
+  },
+  {
+    "id": "BYM_S_09_06",
+    "type": "ADMINISTRATION",
+    "title": "Столичные ведомства",
+    "original": "Столичные ведомства",
+    "subtitle": "налоги, армия, почта и двор зависели от специализированных чиновников",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "IX–X века",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Столичные ведомства — налоги, армия, почта и двор зависели от специализированных чиновников.",
+    "importance": "Карточка раскрывает главу «Василий I, Лев VI и Македонская династия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: налоги, армия, почта и двор зависели от специализированных чиновников.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Василий I, Лев VI и Македонская династия",
+      "administration"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 6,
+      "culture": 5,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-09/bym_s_09_06.svg",
+      "caption": "Локальная учебная обложка: Столичные ведомства",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_09_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_09"
+  },
+  {
+    "id": "BYM_S_09_07",
+    "type": "SOCIETY",
+    "title": "Земельная знать Анатолии",
+    "original": "Земельная знать Анатолии",
+    "subtitle": "военные семьи и монастыри расширяли владения рядом с крестьянскими общинами",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "IX–X века",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Земельная знать Анатолии — военные семьи и монастыри расширяли владения рядом с крестьянскими общинами.",
+    "importance": "Карточка раскрывает главу «Василий I, Лев VI и Македонская династия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: военные семьи и монастыри расширяли владения рядом с крестьянскими общинами.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Василий I, Лев VI и Македонская династия",
+      "society"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 8,
+      "culture": 6,
+      "politics": 5,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Каппадокия",
+      "lat": 38.65,
+      "lon": 34.85
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-09/bym_s_09_07.svg",
+      "caption": "Локальная учебная обложка: Земельная знать Анатолии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_09_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_09"
+  },
+  {
+    "id": "BYM_S_09_08",
+    "type": "HISTORIOGRAPHY",
+    "title": "Македонское возрождение без лозунга",
+    "original": "Македонское возрождение без лозунга",
+    "subtitle": "культурный подъём состоял из конкретных рукописей, школ и заказов двора",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "IX–X века",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Македонское возрождение без лозунга — культурный подъём состоял из конкретных рукописей, школ и заказов двора.",
+    "importance": "Карточка раскрывает главу «Василий I, Лев VI и Македонская династия» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: культурный подъём состоял из конкретных рукописей, школ и заказов двора.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Василий I, Лев VI и Македонская династия",
+      "historiography"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 6,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-09/bym_s_09_08.svg",
+      "caption": "Локальная учебная обложка: Македонское возрождение без лозунга",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_09_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_09"
+  },
+  {
+    "id": "BYM_S_10_01",
+    "type": "PERSON",
+    "title": "Роман I Лакапин",
+    "original": "Роман I Лакапин",
+    "subtitle": "морской командир стал императором и укрепил династию через совместное правление",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "920–944 годы",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Роман I Лакапин — морской командир стал императором и укрепил династию через совместное правление.",
+    "importance": "Карточка раскрывает главу «Возвращение Крита и восточное наступление» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 920–944 годы.",
+      "Основной смысл: морской командир стал императором и укрепил династию через совместное правление.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Возвращение Крита и восточное наступление",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 3,
+      "culture": 6,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-10/bym_s_10_01.svg",
+      "caption": "Локальная учебная обложка: Роман I Лакапин",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_10_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_10"
+  },
+  {
+    "id": "BYM_S_10_02",
+    "type": "PERSON",
+    "title": "Никифор II Фока",
+    "original": "Никифор II Фока",
+    "subtitle": "полководец и император возглавил наступление в Эгейском море и Сирии",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "963–969 годы",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Никифор II Фока — полководец и император возглавил наступление в Эгейском море и Сирии.",
+    "importance": "Карточка раскрывает главу «Возвращение Крита и восточное наступление» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 963–969 годы.",
+      "Основной смысл: полководец и император возглавил наступление в Эгейском море и Сирии.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Возвращение Крита и восточное наступление",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 7,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Каппадокия",
+      "lat": 38.65,
+      "lon": 34.85
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-10/bym_s_10_02.svg",
+      "caption": "Локальная учебная обложка: Никифор II Фока",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_10_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_10"
+  },
+  {
+    "id": "BYM_S_10_03",
+    "type": "CAMPAIGN",
+    "title": "Завоевание Крита 961 года",
+    "original": "Завоевание Крита 961 года",
+    "subtitle": "флот и осадная армия ликвидировали Критский эмират",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "961 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Завоевание Крита 961 года — флот и осадная армия ликвидировали Критский эмират.",
+    "importance": "Карточка раскрывает главу «Возвращение Крита и восточное наступление» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 961 год.",
+      "Основной смысл: флот и осадная армия ликвидировали Критский эмират.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Возвращение Крита и восточное наступление",
+      "campaign"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 7,
+      "culture": 8,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Крит",
+      "lat": 35.2401,
+      "lon": 24.8093
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-10/bym_s_10_03.svg",
+      "caption": "Локальная учебная обложка: Завоевание Крита 961 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_10_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_10"
+  },
+  {
+    "id": "BYM_S_10_04",
+    "type": "SIEGE",
+    "title": "Возвращение Антиохии",
+    "original": "Возвращение Антиохии",
+    "subtitle": "падение города в 969 году расширило восточную границу империи",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "969 год",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Возвращение Антиохии — падение города в 969 году расширило восточную границу империи.",
+    "importance": "Карточка раскрывает главу «Возвращение Крита и восточное наступление» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 969 год.",
+      "Основной смысл: падение города в 969 году расширило восточную границу империи.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Возвращение Крита и восточное наступление",
+      "siege"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 3,
+      "culture": 9,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Антиохия",
+      "lat": 36.2021,
+      "lon": 36.16
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-10/bym_s_10_04.svg",
+      "caption": "Локальная учебная обложка: Возвращение Антиохии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_10_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_10"
+  },
+  {
+    "id": "BYM_S_10_05",
+    "type": "PERSON",
+    "title": "Иоанн I Цимисхий",
+    "original": "Иоанн I Цимисхий",
+    "subtitle": "император продолжил восточные походы и вмешался в болгарско-русский конфликт",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "969–976 годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Иоанн I Цимисхий — император продолжил восточные походы и вмешался в болгарско-русский конфликт.",
+    "importance": "Карточка раскрывает главу «Возвращение Крита и восточное наступление» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 969–976 годы.",
+      "Основной смысл: император продолжил восточные походы и вмешался в болгарско-русский конфликт.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Возвращение Крита и восточное наступление",
+      "person"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 5,
+      "culture": 5,
+      "politics": 5,
+      "religion": 4,
+      "economy": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-10/bym_s_10_05.svg",
+      "caption": "Локальная учебная обложка: Иоанн I Цимисхий",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_10_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_10"
+  },
+  {
+    "id": "BYM_S_10_06",
+    "type": "WAR",
+    "title": "Святослав у Доростола",
+    "original": "Святослав у Доростола",
+    "subtitle": "поход русов завершился византийской победой и договором 971 года",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "971 год",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Святослав у Доростола — поход русов завершился византийской победой и договором 971 года.",
+    "importance": "Карточка раскрывает главу «Возвращение Крита и восточное наступление» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 971 год.",
+      "Основной смысл: поход русов завершился византийской победой и договором 971 года.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Возвращение Крита и восточное наступление",
+      "war"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Доростол",
+      "lat": 44.1167,
+      "lon": 27.2667
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-10/bym_s_10_06.svg",
+      "caption": "Локальная учебная обложка: Святослав у Доростола",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_10_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_10"
+  },
+  {
+    "id": "BYM_S_10_07",
+    "type": "MILITARY",
+    "title": "Тяжёлая конница X века",
+    "original": "Тяжёлая конница X века",
+    "subtitle": "катафракты действовали внутри сложной системы пехоты, разведки и снабжения",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "X век",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Тяжёлая конница X века — катафракты действовали внутри сложной системы пехоты, разведки и снабжения.",
+    "importance": "Карточка раскрывает главу «Возвращение Крита и восточное наступление» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: X век.",
+      "Основной смысл: катафракты действовали внутри сложной системы пехоты, разведки и снабжения.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Возвращение Крита и восточное наступление",
+      "military"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 3,
+      "culture": 7,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Каппадокия",
+      "lat": 38.65,
+      "lon": 34.85
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-10/bym_s_10_07.svg",
+      "caption": "Локальная учебная обложка: Тяжёлая конница X века",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_10_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_10"
+  },
+  {
+    "id": "BYM_S_10_08",
+    "type": "SOCIETY",
+    "title": "Военные семьи и крупная земля",
+    "original": "Военные семьи и крупная земля",
+    "subtitle": "успехи полководцев усиливали роды Фок, Склиров и других магнатов",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "X век",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Военные семьи и крупная земля — успехи полководцев усиливали роды Фок, Склиров и других магнатов.",
+    "importance": "Карточка раскрывает главу «Возвращение Крита и восточное наступление» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: X век.",
+      "Основной смысл: успехи полководцев усиливали роды Фок, Склиров и других магнатов.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Возвращение Крита и восточное наступление",
+      "society"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 6,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Каппадокия",
+      "lat": 38.65,
+      "lon": 34.85
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-10/bym_s_10_08.svg",
+      "caption": "Локальная учебная обложка: Военные семьи и крупная земля",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/place/Byzantine-Empire",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_10_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Byzantine Empire",
+      "url": "https://www.britannica.com/place/Byzantine-Empire",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_10"
+  },
+  {
+    "id": "BYM_S_11_01",
+    "type": "PERSON",
+    "title": "Василий II",
+    "original": "Василий II",
+    "subtitle": "император правил почти полвека и сделал войну с Болгарией главным направлением политики",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "976–1025 годы",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Василий II — император правил почти полвека и сделал войну с Болгарией главным направлением политики.",
+    "importance": "Карточка раскрывает главу «Василий II и империя 1025 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 976–1025 годы.",
+      "Основной смысл: император правил почти полвека и сделал войну с Болгарией главным направлением политики.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Василий II и империя 1025 года",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 4,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-11/bym_s_11_01.svg",
+      "caption": "Локальная учебная обложка: Василий II",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Basil-II",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_11_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Basil II",
+      "url": "https://www.britannica.com/biography/Basil-II",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_11"
+  },
+  {
+    "id": "BYM_S_11_02",
+    "type": "REBELLION",
+    "title": "Варда Склир и Варда Фока",
+    "original": "Варда Склир и Варда Фока",
+    "subtitle": "анатолийские военные семьи дважды ставили под угрозу молодого императора",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "976–989 годы",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Варда Склир и Варда Фока — анатолийские военные семьи дважды ставили под угрозу молодого императора.",
+    "importance": "Карточка раскрывает главу «Василий II и империя 1025 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 976–989 годы.",
+      "Основной смысл: анатолийские военные семьи дважды ставили под угрозу молодого императора.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Василий II и империя 1025 года",
+      "rebellion"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Каппадокия",
+      "lat": 38.65,
+      "lon": 34.85
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-11/bym_s_11_02.svg",
+      "caption": "Локальная учебная обложка: Варда Склир и Варда Фока",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Basil-II",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_11_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Basil II",
+      "url": "https://www.britannica.com/biography/Basil-II",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_11"
+  },
+  {
+    "id": "BYM_S_11_03",
+    "type": "DIPLOMACY",
+    "title": "Союз Василия II и Владимира",
+    "original": "Союз Василия II и Владимира",
+    "subtitle": "военная помощь была связана с браком Анны и крещением киевского князя",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "988–989 годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Союз Василия II и Владимира — военная помощь была связана с браком Анны и крещением киевского князя.",
+    "importance": "Карточка раскрывает главу «Василий II и империя 1025 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 988–989 годы.",
+      "Основной смысл: военная помощь была связана с браком Анны и крещением киевского князя.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Василий II и империя 1025 года",
+      "diplomacy"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 8,
+      "culture": 9,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Херсон",
+      "lat": 44.61,
+      "lon": 33.49
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-11/bym_s_11_03.svg",
+      "caption": "Локальная учебная обложка: Союз Василия II и Владимира",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Basil-II",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_11_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Basil II",
+      "url": "https://www.britannica.com/biography/Basil-II",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_11"
+  },
+  {
+    "id": "BYM_S_11_04",
+    "type": "MILITARY",
+    "title": "Варяжская гвардия",
+    "original": "Варяжская гвардия",
+    "subtitle": "северные наёмники стали заметной частью личной охраны императора",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "конец X века",
+    "rarity": "COMMON",
+    "difficulty": 14,
+    "summary": "Варяжская гвардия — северные наёмники стали заметной частью личной охраны императора.",
+    "importance": "Карточка раскрывает главу «Василий II и империя 1025 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: конец X века.",
+      "Основной смысл: северные наёмники стали заметной частью личной охраны императора.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Василий II и империя 1025 года",
+      "military"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 4,
+      "culture": 5,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-11/bym_s_11_04.svg",
+      "caption": "Локальная учебная обложка: Варяжская гвардия",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Basil-II",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_11_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Basil II",
+      "url": "https://www.britannica.com/biography/Basil-II",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_11"
+  },
+  {
+    "id": "BYM_S_11_05",
+    "type": "PERSON",
+    "title": "Царь Самуил",
+    "original": "Царь Самуил",
+    "subtitle": "правитель создал устойчивый центр сопротивления в западных Балканах",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "997–1014 годы",
+    "rarity": "UNCOMMON",
+    "difficulty": 14,
+    "summary": "Царь Самуил — правитель создал устойчивый центр сопротивления в западных Балканах.",
+    "importance": "Карточка раскрывает главу «Василий II и империя 1025 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 997–1014 годы.",
+      "Основной смысл: правитель создал устойчивый центр сопротивления в западных Балканах.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Василий II и империя 1025 года",
+      "person"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 6,
+      "culture": 6,
+      "politics": 7,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Охрид",
+      "lat": 41.1231,
+      "lon": 20.8016
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-11/bym_s_11_05.svg",
+      "caption": "Локальная учебная обложка: Царь Самуил",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Basil-II",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_11_05.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Basil II",
+      "url": "https://www.britannica.com/biography/Basil-II",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_11"
+  },
+  {
+    "id": "BYM_S_11_06",
+    "type": "BATTLE",
+    "title": "Битва при Клидионе",
+    "original": "Битва при Клидионе",
+    "subtitle": "победа 1014 года стала важным, но не единственным этапом завершения войны",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "1014 год",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Битва при Клидионе — победа 1014 года стала важным, но не единственным этапом завершения войны.",
+    "importance": "Карточка раскрывает главу «Василий II и империя 1025 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 1014 год.",
+      "Основной смысл: победа 1014 года стала важным, но не единственным этапом завершения войны.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Василий II и империя 1025 года",
+      "battle"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 8,
+      "culture": 7,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Клидион",
+      "lat": 41.45,
+      "lon": 23.05
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-11/bym_s_11_06.svg",
+      "caption": "Локальная учебная обложка: Битва при Клидионе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Basil-II",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_11_06.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Basil II",
+      "url": "https://www.britannica.com/biography/Basil-II",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_11"
+  },
+  {
+    "id": "BYM_S_11_07",
+    "type": "ADMINISTRATION",
+    "title": "Присоединение Болгарии",
+    "original": "Присоединение Болгарии",
+    "subtitle": "империя сохранила часть местных церковных и налоговых порядков после 1018 года",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "1018 год",
+    "rarity": "RARE",
+    "difficulty": 14,
+    "summary": "Присоединение Болгарии — империя сохранила часть местных церковных и налоговых порядков после 1018 года.",
+    "importance": "Карточка раскрывает главу «Василий II и империя 1025 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 1018 год.",
+      "Основной смысл: империя сохранила часть местных церковных и налоговых порядков после 1018 года.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Василий II и империя 1025 года",
+      "administration"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 4,
+      "culture": 8,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 7
+    },
+    "loc": {
+      "label": "Охрид",
+      "lat": 41.1231,
+      "lon": 20.8016
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-11/bym_s_11_07.svg",
+      "caption": "Локальная учебная обложка: Присоединение Болгарии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Basil-II",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_11_07.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Basil II",
+      "url": "https://www.britannica.com/biography/Basil-II",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_11"
+  },
+  {
+    "id": "BYM_S_11_08",
+    "type": "CONCEPT",
+    "title": "Империя в 1025 году",
+    "original": "Империя в 1025 году",
+    "subtitle": "широкие границы скрывали династическую проблему и зависимость от региональных элит",
+    "era": "Раннее Средневековье",
+    "region": "Восточная Римская империя, Балканы и Анатолия",
+    "date": "1025 год",
+    "rarity": "EPIC",
+    "difficulty": 14,
+    "summary": "Империя в 1025 году — широкие границы скрывали династическую проблему и зависимость от региональных элит.",
+    "importance": "Карточка раскрывает главу «Василий II и империя 1025 года» через конкретный механизм власти, мобильности, обмена, войны или исторического метода.",
+    "facts": [
+      "Датировка: 1025 год.",
+      "Основной смысл: широкие границы скрывали династическую проблему и зависимость от региональных элит.",
+      "Вывод проверяется через сопоставление письменных сообщений, археологии, предметов, монет, погребений и пространственного контекста."
+    ],
+    "tags": [
+      "Восточная Римская империя, Балканы и Анатолия",
+      "Византия: от иконоборчества до Василия II",
+      "Василий II и империя 1025 года",
+      "concept"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 6,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Константинополь",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "image": {
+      "local": "assets/cards/byzantium-macedonian/chapter-11/bym_s_11_08.svg",
+      "caption": "Локальная учебная обложка: Империя в 1025 году",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.britannica.com/biography/Basil-II",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "bym_s_11_08.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Encyclopaedia Britannica: Basil II",
+      "url": "https://www.britannica.com/biography/Basil-II",
+      "type": "encyclopedia"
+    },
+    "acquisition": "STORY",
+    "campaign": "BYZANTIUM_MACEDONIAN",
+    "chapter": "BYM_CHAPTER_11"
+  }
+]

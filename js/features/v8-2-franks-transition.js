@@ -1,6 +1,6 @@
-/* Codex v8.2.0 — Franks from Merovingians to Carolingians */
+/* Codex v8.3.0 — Franks from Merovingians to Carolingians */
 (()=>{
-  const V='8.2.0';
+  const V='8.3.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.FRANKS_TRANSITION='FRANKS_TRANSITION';
   state.franksPhase=state.franksPhase||'MEROVINGIAN';

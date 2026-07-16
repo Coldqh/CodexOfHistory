@@ -1,0 +1,807 @@
+{
+  "campaignId": "BYZANTIUM_MACEDONIAN",
+  "campaigns": {
+    "BYZANTIUM_MACEDONIAN": {
+      "id": "BYZANTIUM_MACEDONIAN",
+      "title": "Византия: от иконоборчества до Василия II",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "BYM_POOL_01",
+      "campaign": "BYZANTIUM_MACEDONIAN",
+      "title": "Империя после великих потерь",
+      "unlockMission": "BYM_01_02",
+      "cardIds": [
+        "BYM_A_01_01",
+        "BYM_A_01_02",
+        "BYM_A_01_03",
+        "BYM_A_01_04"
+      ]
+    },
+    {
+      "id": "BYM_POOL_02",
+      "campaign": "BYZANTIUM_MACEDONIAN",
+      "title": "Фемы, армия и провинциальное общество",
+      "unlockMission": "BYM_02_02",
+      "cardIds": [
+        "BYM_A_02_01",
+        "BYM_A_02_02",
+        "BYM_A_02_03",
+        "BYM_A_02_04"
+      ]
+    },
+    {
+      "id": "BYM_POOL_03",
+      "campaign": "BYZANTIUM_MACEDONIAN",
+      "title": "Осада 717–718 годов и Лев III",
+      "unlockMission": "BYM_03_02",
+      "cardIds": [
+        "BYM_A_03_01",
+        "BYM_A_03_02",
+        "BYM_A_03_03",
+        "BYM_A_03_04"
+      ]
+    },
+    {
+      "id": "BYM_POOL_04",
+      "campaign": "BYZANTIUM_MACEDONIAN",
+      "title": "Константин V и первая эпоха иконоборчества",
+      "unlockMission": "BYM_04_02",
+      "cardIds": [
+        "BYM_A_04_01",
+        "BYM_A_04_02",
+        "BYM_A_04_03",
+        "BYM_A_04_04"
+      ]
+    },
+    {
+      "id": "BYM_POOL_05",
+      "campaign": "BYZANTIUM_MACEDONIAN",
+      "title": "Ирина и Второй Никейский собор",
+      "unlockMission": "BYM_05_02",
+      "cardIds": [
+        "BYM_A_05_01",
+        "BYM_A_05_02",
+        "BYM_A_05_03",
+        "BYM_A_05_04"
+      ]
+    },
+    {
+      "id": "BYM_POOL_06",
+      "campaign": "BYZANTIUM_MACEDONIAN",
+      "title": "Второе иконоборчество и восстановление 843 года",
+      "unlockMission": "BYM_06_02",
+      "cardIds": [
+        "BYM_A_06_01",
+        "BYM_A_06_02",
+        "BYM_A_06_03",
+        "BYM_A_06_04"
+      ]
+    },
+    {
+      "id": "BYM_POOL_07",
+      "campaign": "BYZANTIUM_MACEDONIAN",
+      "title": "Михаил III, Варда и Фотий",
+      "unlockMission": "BYM_07_02",
+      "cardIds": [
+        "BYM_A_07_01",
+        "BYM_A_07_02",
+        "BYM_A_07_03",
+        "BYM_A_07_04"
+      ]
+    },
+    {
+      "id": "BYM_POOL_08",
+      "campaign": "BYZANTIUM_MACEDONIAN",
+      "title": "Кирилл, Мефодий и христианизация славян",
+      "unlockMission": "BYM_08_02",
+      "cardIds": [
+        "BYM_A_08_01",
+        "BYM_A_08_02",
+        "BYM_A_08_03",
+        "BYM_A_08_04"
+      ]
+    },
+    {
+      "id": "BYM_POOL_09",
+      "campaign": "BYZANTIUM_MACEDONIAN",
+      "title": "Василий I, Лев VI и Македонская династия",
+      "unlockMission": "BYM_09_02",
+      "cardIds": [
+        "BYM_A_09_01",
+        "BYM_A_09_02",
+        "BYM_A_09_03",
+        "BYM_A_09_04"
+      ]
+    },
+    {
+      "id": "BYM_POOL_10",
+      "campaign": "BYZANTIUM_MACEDONIAN",
+      "title": "Возвращение Крита и восточное наступление",
+      "unlockMission": "BYM_10_02",
+      "cardIds": [
+        "BYM_A_10_01",
+        "BYM_A_10_02",
+        "BYM_A_10_03",
+        "BYM_A_10_04"
+      ]
+    },
+    {
+      "id": "BYM_POOL_11",
+      "campaign": "BYZANTIUM_MACEDONIAN",
+      "title": "Василий II и империя 1025 года",
+      "unlockMission": "BYM_11_02",
+      "cardIds": [
+        "BYM_A_11_01",
+        "BYM_A_11_02",
+        "BYM_A_11_03",
+        "BYM_A_11_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "BYM_S_01_01": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 1
+    },
+    "BYM_S_01_02": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 1
+    },
+    "BYM_S_01_03": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 1
+    },
+    "BYM_S_01_04": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 1
+    },
+    "BYM_S_01_05": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 1
+    },
+    "BYM_S_01_06": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 1
+    },
+    "BYM_S_01_07": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 1
+    },
+    "BYM_S_01_08": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 1
+    },
+    "BYM_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_01",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_01",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_01",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_01",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_S_02_01": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 2
+    },
+    "BYM_S_02_02": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 2
+    },
+    "BYM_S_02_03": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 2
+    },
+    "BYM_S_02_04": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 2
+    },
+    "BYM_S_02_05": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 2
+    },
+    "BYM_S_02_06": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 2
+    },
+    "BYM_S_02_07": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 2
+    },
+    "BYM_S_02_08": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 2
+    },
+    "BYM_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_02",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_02",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_02",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_02",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_S_03_01": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 3
+    },
+    "BYM_S_03_02": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 3
+    },
+    "BYM_S_03_03": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 3
+    },
+    "BYM_S_03_04": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 3
+    },
+    "BYM_S_03_05": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 3
+    },
+    "BYM_S_03_06": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 3
+    },
+    "BYM_S_03_07": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 3
+    },
+    "BYM_S_03_08": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 3
+    },
+    "BYM_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_03",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_03",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_03",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_03",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_S_04_01": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 4
+    },
+    "BYM_S_04_02": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 4
+    },
+    "BYM_S_04_03": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 4
+    },
+    "BYM_S_04_04": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 4
+    },
+    "BYM_S_04_05": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 4
+    },
+    "BYM_S_04_06": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 4
+    },
+    "BYM_S_04_07": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 4
+    },
+    "BYM_S_04_08": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 4
+    },
+    "BYM_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_04",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_04",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_04",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_04",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_S_05_01": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 5
+    },
+    "BYM_S_05_02": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 5
+    },
+    "BYM_S_05_03": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 5
+    },
+    "BYM_S_05_04": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 5
+    },
+    "BYM_S_05_05": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 5
+    },
+    "BYM_S_05_06": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 5
+    },
+    "BYM_S_05_07": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 5
+    },
+    "BYM_S_05_08": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 5
+    },
+    "BYM_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_05",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_05",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_05",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_05",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_S_06_01": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 6
+    },
+    "BYM_S_06_02": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 6
+    },
+    "BYM_S_06_03": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 6
+    },
+    "BYM_S_06_04": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 6
+    },
+    "BYM_S_06_05": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 6
+    },
+    "BYM_S_06_06": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 6
+    },
+    "BYM_S_06_07": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 6
+    },
+    "BYM_S_06_08": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 6
+    },
+    "BYM_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_06",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_06",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_06",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_06",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_S_07_01": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 7
+    },
+    "BYM_S_07_02": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 7
+    },
+    "BYM_S_07_03": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 7
+    },
+    "BYM_S_07_04": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 7
+    },
+    "BYM_S_07_05": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 7
+    },
+    "BYM_S_07_06": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 7
+    },
+    "BYM_S_07_07": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 7
+    },
+    "BYM_S_07_08": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 7
+    },
+    "BYM_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_07",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_07",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_07",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_07",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_S_08_01": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 8
+    },
+    "BYM_S_08_02": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 8
+    },
+    "BYM_S_08_03": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 8
+    },
+    "BYM_S_08_04": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 8
+    },
+    "BYM_S_08_05": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 8
+    },
+    "BYM_S_08_06": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 8
+    },
+    "BYM_S_08_07": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 8
+    },
+    "BYM_S_08_08": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 8
+    },
+    "BYM_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_08",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_08",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_08",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_08",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_S_09_01": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 9
+    },
+    "BYM_S_09_02": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 9
+    },
+    "BYM_S_09_03": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 9
+    },
+    "BYM_S_09_04": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 9
+    },
+    "BYM_S_09_05": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 9
+    },
+    "BYM_S_09_06": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 9
+    },
+    "BYM_S_09_07": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 9
+    },
+    "BYM_S_09_08": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 9
+    },
+    "BYM_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_09",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_09",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_09",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_09",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_S_10_01": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 10
+    },
+    "BYM_S_10_02": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 10
+    },
+    "BYM_S_10_03": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 10
+    },
+    "BYM_S_10_04": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 10
+    },
+    "BYM_S_10_05": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 10
+    },
+    "BYM_S_10_06": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 10
+    },
+    "BYM_S_10_07": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 10
+    },
+    "BYM_S_10_08": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 10
+    },
+    "BYM_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_10",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_10",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_10",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_10",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_S_11_01": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 11
+    },
+    "BYM_S_11_02": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 11
+    },
+    "BYM_S_11_03": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 11
+    },
+    "BYM_S_11_04": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 11
+    },
+    "BYM_S_11_05": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 11
+    },
+    "BYM_S_11_06": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 11
+    },
+    "BYM_S_11_07": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 11
+    },
+    "BYM_S_11_08": {
+      "kind": "STORY",
+      "campaignId": "BYZANTIUM_MACEDONIAN",
+      "chapter": 11
+    },
+    "BYM_A_11_01": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_11",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_11_02": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_11",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_11_03": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_11",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    },
+    "BYM_A_11_04": {
+      "kind": "ARCHIVE",
+      "pool": "BYM_POOL_11",
+      "campaign": "BYZANTIUM_MACEDONIAN"
+    }
+  }
+}

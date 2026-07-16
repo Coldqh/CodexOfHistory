@@ -1,0 +1,330 @@
+{
+  "points": {
+    "CONSTANTINOPLE": [
+      41.0082,
+      28.9784
+    ],
+    "NICAEA": [
+      40.4292,
+      29.7211
+    ],
+    "AMORIUM": [
+      39.02,
+      31.29
+    ],
+    "ANKARA": [
+      39.9334,
+      32.8597
+    ],
+    "EPHESUS": [
+      37.939,
+      27.341
+    ],
+    "THESSALONIKI": [
+      40.6401,
+      22.9444
+    ],
+    "PLISKA": [
+      43.365,
+      27.126
+    ],
+    "PRESLAV": [
+      43.16,
+      26.815
+    ],
+    "OHRID": [
+      41.1231,
+      20.8016
+    ],
+    "MORAVIA": [
+      49.2,
+      17.5
+    ],
+    "ROME": [
+      41.9028,
+      12.4964
+    ],
+    "CRETE": [
+      35.2401,
+      24.8093
+    ],
+    "ANTIOCH": [
+      36.2021,
+      36.16
+    ],
+    "TARSUS": [
+      36.9177,
+      34.8928
+    ],
+    "CAPPADOCIA": [
+      38.65,
+      34.85
+    ],
+    "ATHENS": [
+      37.9838,
+      23.7275
+    ],
+    "DYRRACHIUM": [
+      41.3246,
+      19.4565
+    ],
+    "DOROSTOLON": [
+      44.1167,
+      27.2667
+    ],
+    "KLEIDION": [
+      41.45,
+      23.05
+    ],
+    "ATHOS": [
+      40.157,
+      24.326
+    ],
+    "CHERSON": [
+      44.61,
+      33.49
+    ],
+    "BARI": [
+      41.1171,
+      16.8719
+    ],
+    "TREBIZOND": [
+      41.0027,
+      39.7168
+    ],
+    "CAESAREA": [
+      38.7225,
+      35.4875
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "BYM_S_01_01": "CONSTANTINOPLE",
+    "BYM_S_01_02": "ANKARA",
+    "BYM_S_01_03": "ANTIOCH",
+    "BYM_S_01_04": "CRETE",
+    "BYM_S_01_05": "CONSTANTINOPLE",
+    "BYM_S_01_06": "CONSTANTINOPLE",
+    "BYM_S_01_07": "CONSTANTINOPLE",
+    "BYM_S_01_08": "CONSTANTINOPLE",
+    "BYM_A_01_01": "CONSTANTINOPLE",
+    "BYM_A_01_02": "CAESAREA",
+    "BYM_A_01_03": "CONSTANTINOPLE",
+    "BYM_A_01_04": "ANKARA",
+    "BYM_S_02_01": "ANKARA",
+    "BYM_S_02_02": "TREBIZOND",
+    "BYM_S_02_03": "CONSTANTINOPLE",
+    "BYM_S_02_04": "AMORIUM",
+    "BYM_S_02_05": "ANKARA",
+    "BYM_S_02_06": "CAPPADOCIA",
+    "BYM_S_02_07": "CAESAREA",
+    "BYM_S_02_08": "THESSALONIKI",
+    "BYM_A_02_01": "AMORIUM",
+    "BYM_A_02_02": "CONSTANTINOPLE",
+    "BYM_A_02_03": "CAPPADOCIA",
+    "BYM_A_02_04": "ANKARA",
+    "BYM_S_03_01": "CONSTANTINOPLE",
+    "BYM_S_03_02": "CONSTANTINOPLE",
+    "BYM_S_03_03": "CONSTANTINOPLE",
+    "BYM_S_03_04": "CONSTANTINOPLE",
+    "BYM_S_03_05": "PLISKA",
+    "BYM_S_03_06": "CONSTANTINOPLE",
+    "BYM_S_03_07": "AMORIUM",
+    "BYM_S_03_08": "CONSTANTINOPLE",
+    "BYM_A_03_01": "CONSTANTINOPLE",
+    "BYM_A_03_02": "CONSTANTINOPLE",
+    "BYM_A_03_03": "CONSTANTINOPLE",
+    "BYM_A_03_04": "ANKARA",
+    "BYM_S_04_01": "CONSTANTINOPLE",
+    "BYM_S_04_02": "CONSTANTINOPLE",
+    "BYM_S_04_03": "CONSTANTINOPLE",
+    "BYM_S_04_04": "NICAEA",
+    "BYM_S_04_05": "ATHOS",
+    "BYM_S_04_06": "CONSTANTINOPLE",
+    "BYM_S_04_07": "PLISKA",
+    "BYM_S_04_08": "CONSTANTINOPLE",
+    "BYM_A_04_01": "CONSTANTINOPLE",
+    "BYM_A_04_02": "THESSALONIKI",
+    "BYM_A_04_03": "CONSTANTINOPLE",
+    "BYM_A_04_04": "CONSTANTINOPLE",
+    "BYM_S_05_01": "CONSTANTINOPLE",
+    "BYM_S_05_02": "CONSTANTINOPLE",
+    "BYM_S_05_03": "CONSTANTINOPLE",
+    "BYM_S_05_04": "NICAEA",
+    "BYM_S_05_05": "NICAEA",
+    "BYM_S_05_06": "CONSTANTINOPLE",
+    "BYM_S_05_07": "ROME",
+    "BYM_S_05_08": "CONSTANTINOPLE",
+    "BYM_A_05_01": "NICAEA",
+    "BYM_A_05_02": "THESSALONIKI",
+    "BYM_A_05_03": "CONSTANTINOPLE",
+    "BYM_A_05_04": "ROME",
+    "BYM_S_06_01": "CONSTANTINOPLE",
+    "BYM_S_06_02": "CONSTANTINOPLE",
+    "BYM_S_06_03": "AMORIUM",
+    "BYM_S_06_04": "CONSTANTINOPLE",
+    "BYM_S_06_05": "AMORIUM",
+    "BYM_S_06_06": "CONSTANTINOPLE",
+    "BYM_S_06_07": "CONSTANTINOPLE",
+    "BYM_S_06_08": "CONSTANTINOPLE",
+    "BYM_A_06_01": "CONSTANTINOPLE",
+    "BYM_A_06_02": "CONSTANTINOPLE",
+    "BYM_A_06_03": "AMORIUM",
+    "BYM_A_06_04": "CONSTANTINOPLE",
+    "BYM_S_07_01": "CONSTANTINOPLE",
+    "BYM_S_07_02": "CONSTANTINOPLE",
+    "BYM_S_07_03": "CONSTANTINOPLE",
+    "BYM_S_07_04": "CONSTANTINOPLE",
+    "BYM_S_07_05": "ROME",
+    "BYM_S_07_06": "CONSTANTINOPLE",
+    "BYM_S_07_07": "CHERSON",
+    "BYM_S_07_08": "CONSTANTINOPLE",
+    "BYM_A_07_01": "CONSTANTINOPLE",
+    "BYM_A_07_02": "CONSTANTINOPLE",
+    "BYM_A_07_03": "CONSTANTINOPLE",
+    "BYM_A_07_04": "CONSTANTINOPLE",
+    "BYM_S_08_01": "THESSALONIKI",
+    "BYM_S_08_02": "MORAVIA",
+    "BYM_S_08_03": "MORAVIA",
+    "BYM_S_08_04": "MORAVIA",
+    "BYM_S_08_05": "PLISKA",
+    "BYM_S_08_06": "PRESLAV",
+    "BYM_S_08_07": "OHRID",
+    "BYM_S_08_08": "PRESLAV",
+    "BYM_A_08_01": "MORAVIA",
+    "BYM_A_08_02": "THESSALONIKI",
+    "BYM_A_08_03": "PRESLAV",
+    "BYM_A_08_04": "OHRID",
+    "BYM_S_09_01": "CONSTANTINOPLE",
+    "BYM_S_09_02": "CONSTANTINOPLE",
+    "BYM_S_09_03": "CONSTANTINOPLE",
+    "BYM_S_09_04": "CONSTANTINOPLE",
+    "BYM_S_09_05": "CONSTANTINOPLE",
+    "BYM_S_09_06": "CONSTANTINOPLE",
+    "BYM_S_09_07": "CAPPADOCIA",
+    "BYM_S_09_08": "CONSTANTINOPLE",
+    "BYM_A_09_01": "CONSTANTINOPLE",
+    "BYM_A_09_02": "CONSTANTINOPLE",
+    "BYM_A_09_03": "CONSTANTINOPLE",
+    "BYM_A_09_04": "CONSTANTINOPLE",
+    "BYM_S_10_01": "CONSTANTINOPLE",
+    "BYM_S_10_02": "CAPPADOCIA",
+    "BYM_S_10_03": "CRETE",
+    "BYM_S_10_04": "ANTIOCH",
+    "BYM_S_10_05": "CONSTANTINOPLE",
+    "BYM_S_10_06": "DOROSTOLON",
+    "BYM_S_10_07": "CAPPADOCIA",
+    "BYM_S_10_08": "CAPPADOCIA",
+    "BYM_A_10_01": "CAPPADOCIA",
+    "BYM_A_10_02": "CONSTANTINOPLE",
+    "BYM_A_10_03": "CRETE",
+    "BYM_A_10_04": "ANTIOCH",
+    "BYM_S_11_01": "CONSTANTINOPLE",
+    "BYM_S_11_02": "CAPPADOCIA",
+    "BYM_S_11_03": "CHERSON",
+    "BYM_S_11_04": "CONSTANTINOPLE",
+    "BYM_S_11_05": "OHRID",
+    "BYM_S_11_06": "KLEIDION",
+    "BYM_S_11_07": "OHRID",
+    "BYM_S_11_08": "CONSTANTINOPLE",
+    "BYM_A_11_01": "CONSTANTINOPLE",
+    "BYM_A_11_02": "OHRID",
+    "BYM_A_11_03": "KLEIDION",
+    "BYM_A_11_04": "CONSTANTINOPLE"
+  },
+  "chapters": {
+    "BYM_CHAPTER_01": {
+      "title": "Империя после великих потерь",
+      "center": [
+        41.0082,
+        28.9784
+      ],
+      "zoom": 5
+    },
+    "BYM_CHAPTER_02": {
+      "title": "Фемы, армия и провинциальное общество",
+      "center": [
+        39.9334,
+        32.8597
+      ],
+      "zoom": 5
+    },
+    "BYM_CHAPTER_03": {
+      "title": "Осада 717–718 годов и Лев III",
+      "center": [
+        41.0082,
+        28.9784
+      ],
+      "zoom": 5
+    },
+    "BYM_CHAPTER_04": {
+      "title": "Константин V и первая эпоха иконоборчества",
+      "center": [
+        41.0082,
+        28.9784
+      ],
+      "zoom": 5
+    },
+    "BYM_CHAPTER_05": {
+      "title": "Ирина и Второй Никейский собор",
+      "center": [
+        41.0082,
+        28.9784
+      ],
+      "zoom": 5
+    },
+    "BYM_CHAPTER_06": {
+      "title": "Второе иконоборчество и восстановление 843 года",
+      "center": [
+        41.0082,
+        28.9784
+      ],
+      "zoom": 5
+    },
+    "BYM_CHAPTER_07": {
+      "title": "Михаил III, Варда и Фотий",
+      "center": [
+        41.0082,
+        28.9784
+      ],
+      "zoom": 5
+    },
+    "BYM_CHAPTER_08": {
+      "title": "Кирилл, Мефодий и христианизация славян",
+      "center": [
+        40.6401,
+        22.9444
+      ],
+      "zoom": 5
+    },
+    "BYM_CHAPTER_09": {
+      "title": "Василий I, Лев VI и Македонская династия",
+      "center": [
+        41.0082,
+        28.9784
+      ],
+      "zoom": 5
+    },
+    "BYM_CHAPTER_10": {
+      "title": "Возвращение Крита и восточное наступление",
+      "center": [
+        35.2401,
+        24.8093
+      ],
+      "zoom": 5
+    },
+    "BYM_CHAPTER_11": {
+      "title": "Василий II и империя 1025 года",
+      "center": [
+        41.0082,
+        28.9784
+      ],
+      "zoom": 5
+    }
+  },
+  "missionCenter": [
+    40.5,
+    27.0
+  ],
+  "missionZoom": 4
+}

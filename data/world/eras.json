@@ -159,11 +159,12 @@
     "accent": "#6f7f93",
     "icon": "♜",
     "cover": "assets/eras/early-medieval.svg",
-    "description": "Аббасидский Багдад, средневековая Византия и северные морские сети показывают раннее Средневековье как мир региональных империй, портов, переводов, миграций и новых королевств VIII–XI веков.",
+    "description": "Аббасидский Багдад, средневековая Византия, северные морские сети и славяноязычные державы показывают раннее Средневековье как мир империй, княжеств, торговых путей, миссий и новых письменных культур VIII–XI веков.",
     "campaignIds": [
       "ABBASID_BAGHDAD",
       "BYZANTIUM_MACEDONIAN",
-      "VIKINGS_NORTH_ATLANTIC"
+      "VIKINGS_NORTH_ATLANTIC",
+      "SLAVIC_BULGARIA_RUS"
     ],
     "status": "PLAYABLE"
   }

@@ -3,7 +3,7 @@ import fs from 'node:fs';import path from 'node:path';import assert from 'node:a
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
 const manifest=read('data/content-manifest.json'),d=manifest.datasets;
-assert.equal(manifest.version,'8.4.0');
+assert.equal(manifest.version,'8.5.0');
 const story=read('data/cards/classical-world/story.json'),archive=read('data/cards/classical-world/archive.json');
 const cards=[...story,...archive],campaign=read('data/campaigns/classical-world/campaign.json'),pools=read('data/campaigns/classical-world/pools.json'),lessons=read('data/lessons/classical-world/campaign.json'),quizzes=read('data/quizzes/classical-world/campaign.json'),stories=read('data/stories/classical-world/personal.json'),map=read('data/maps/classical-world-exam.json'),relations=read('data/core/relations-v53-classical-world.json');
 assert.equal(story.length,72);assert.equal(archive.length,24);assert.equal(cards.length,96);assert.equal(campaign.id,'CLASSICAL_ERA_EXAM');assert.equal(campaign.chapters.length,8);assert.equal(campaign.nodes.length,48);assert.equal(Object.keys(lessons).length,48);assert.equal(Object.keys(quizzes).length,14);assert.equal(pools.pools.length,8);assert.equal(Object.keys(stories).length,8);assert.equal(relations.length,99);assert.equal(campaign.nodes.at(-1).examModules.length,6);assert.equal(campaign.eraLayer.regions.length,3);assert.equal(campaign.eraLayer.parallelTimeline.length,7);assert.equal(Object.keys(map.cardPoints).length,96);

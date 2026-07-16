@@ -409,6 +409,6 @@
 Локальные SVG-обложки 132 карточек и кампанийного пака созданы для Codex of History. Источниковая рамка опирается на Encyclopaedia Britannica, UNESCO Paleochristian and Byzantine Monuments of Thessalonika, Metropolitan Museum of Art и исследовательские материалы Dumbarton Oaks по византийским печатям, рукописям и праву.
 
 
-## v8.4 — Викинги и Северная Атлантика
+## v8.5 — Славяне, Болгария, Великая Моравия и ранняя Русь
 
-Локальные SVG-обложки 132 карточек и кампанийного пака созданы для Codex of History. Источниковая рамка опирается на National Museum of Denmark, Viking Ship Museum Roskilde, Metropolitan Museum of Art, UNESCO Þingvellir и UNESCO L’Anse aux Meadows.
+Локальные SVG-обложки 132 карточек и кампанийного пака созданы для Codex of History. Источниковая рамка опирается на UNESCO Madara Rider, UNESCO Saint-Sophia Kyiv, UNESCO Historic Monuments of Novgorod, маршрут Кирилла и Мефодия Совета Европы, Cambridge University Press и тексты Начальной летописи в Internet Medieval Sourcebook.

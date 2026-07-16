@@ -1,0 +1,366 @@
+{
+  "points": {
+    "PRAGUE": [
+      50.0755,
+      14.4378
+    ],
+    "MIKULCICE": [
+      48.8044,
+      17.0898
+    ],
+    "NITRA": [
+      48.3061,
+      18.0764
+    ],
+    "CARPATHIANS": [
+      48.5,
+      22.5
+    ],
+    "DANUBE": [
+      47.5,
+      19.0
+    ],
+    "SIRMIUM": [
+      44.98,
+      19.61
+    ],
+    "PANNONIA": [
+      47.2,
+      18.3
+    ],
+    "VIENNA": [
+      48.2082,
+      16.3738
+    ],
+    "CONSTANTINOPLE": [
+      41.0082,
+      28.9784
+    ],
+    "PLISKA": [
+      43.3667,
+      27.1167
+    ],
+    "PRESLAV": [
+      43.1667,
+      26.8167
+    ],
+    "MADARA": [
+      43.28,
+      27.12
+    ],
+    "ONGAL": [
+      45.3,
+      28.5
+    ],
+    "SERDICA": [
+      42.6977,
+      23.3219
+    ],
+    "DOROSTOLON": [
+      44.1167,
+      27.2667
+    ],
+    "OHRID": [
+      41.1231,
+      20.8016
+    ],
+    "ROME": [
+      41.9028,
+      12.4964
+    ],
+    "SALONICA": [
+      40.6401,
+      22.9444
+    ],
+    "ITIL": [
+      46.0,
+      47.8
+    ],
+    "SARKEL": [
+      47.7,
+      42.1
+    ],
+    "CRIMEA": [
+      45.3,
+      34.0
+    ],
+    "BOLGHAR": [
+      54.9749,
+      49.0564
+    ],
+    "LADOGA": [
+      59.998,
+      32.295
+    ],
+    "NOVGOROD": [
+      58.5256,
+      31.2742
+    ],
+    "GNEZDOVO": [
+      54.78,
+      31.88
+    ],
+    "KYIV": [
+      50.4501,
+      30.5234
+    ],
+    "CHERSON": [
+      44.61,
+      33.49
+    ],
+    "VYSHGOROD": [
+      50.5833,
+      30.5
+    ],
+    "BELGOROD": [
+      50.0,
+      30.2
+    ],
+    "DNIEPER": [
+      48.5,
+      34.0
+    ],
+    "PEREYASLAVL": [
+      50.07,
+      31.45
+    ],
+    "TAMAN": [
+      45.2,
+      36.7
+    ],
+    "KORSUN": [
+      44.61,
+      33.49
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "SLR_S_01_01": "DANUBE",
+    "SLR_S_01_02": "KYIV",
+    "SLR_S_01_03": "PRAGUE",
+    "SLR_S_01_04": "PRAGUE",
+    "SLR_S_01_05": "CARPATHIANS",
+    "SLR_S_01_06": "DANUBE",
+    "SLR_S_01_07": "PRAGUE",
+    "SLR_S_01_08": "CARPATHIANS",
+    "SLR_A_01_01": "CONSTANTINOPLE",
+    "SLR_A_01_02": "DANUBE",
+    "SLR_A_01_03": "PRAGUE",
+    "SLR_A_01_04": "CARPATHIANS",
+    "SLR_S_02_01": "PANNONIA",
+    "SLR_S_02_02": "PANNONIA",
+    "SLR_S_02_03": "PANNONIA",
+    "SLR_S_02_04": "DANUBE",
+    "SLR_S_02_05": "SIRMIUM",
+    "SLR_S_02_06": "CONSTANTINOPLE",
+    "SLR_S_02_07": "VIENNA",
+    "SLR_S_02_08": "VIENNA",
+    "SLR_A_02_01": "PANNONIA",
+    "SLR_A_02_02": "CONSTANTINOPLE",
+    "SLR_A_02_03": "PANNONIA",
+    "SLR_A_02_04": "DANUBE",
+    "SLR_S_03_01": "TAMAN",
+    "SLR_S_03_02": "ONGAL",
+    "SLR_S_03_03": "ONGAL",
+    "SLR_S_03_04": "CONSTANTINOPLE",
+    "SLR_S_03_05": "PLISKA",
+    "SLR_S_03_06": "PLISKA",
+    "SLR_S_03_07": "CONSTANTINOPLE",
+    "SLR_S_03_08": "MADARA",
+    "SLR_A_03_01": "MADARA",
+    "SLR_A_03_02": "PLISKA",
+    "SLR_A_03_03": "CONSTANTINOPLE",
+    "SLR_A_03_04": "ONGAL",
+    "SLR_S_04_01": "PLISKA",
+    "SLR_S_04_02": "SERDICA",
+    "SLR_S_04_03": "PLISKA",
+    "SLR_S_04_04": "PLISKA",
+    "SLR_S_04_05": "CONSTANTINOPLE",
+    "SLR_S_04_06": "MADARA",
+    "SLR_S_04_07": "PLISKA",
+    "SLR_S_04_08": "SERDICA",
+    "SLR_A_04_01": "PLISKA",
+    "SLR_A_04_02": "CONSTANTINOPLE",
+    "SLR_A_04_03": "PLISKA",
+    "SLR_A_04_04": "SERDICA",
+    "SLR_S_05_01": "PLISKA",
+    "SLR_S_05_02": "PLISKA",
+    "SLR_S_05_03": "PLISKA",
+    "SLR_S_05_04": "ROME",
+    "SLR_S_05_05": "ROME",
+    "SLR_S_05_06": "CONSTANTINOPLE",
+    "SLR_S_05_07": "PLISKA",
+    "SLR_S_05_08": "PRESLAV",
+    "SLR_A_05_01": "ROME",
+    "SLR_A_05_02": "PLISKA",
+    "SLR_A_05_03": "PLISKA",
+    "SLR_A_05_04": "PRESLAV",
+    "SLR_S_06_01": "MIKULCICE",
+    "SLR_S_06_02": "CONSTANTINOPLE",
+    "SLR_S_06_03": "NITRA",
+    "SLR_S_06_04": "MIKULCICE",
+    "SLR_S_06_05": "MIKULCICE",
+    "SLR_S_06_06": "ROME",
+    "SLR_S_06_07": "NITRA",
+    "SLR_S_06_08": "NITRA",
+    "SLR_A_06_01": "ROME",
+    "SLR_A_06_02": "NITRA",
+    "SLR_A_06_03": "MIKULCICE",
+    "SLR_A_06_04": "MIKULCICE",
+    "SLR_S_07_01": "OHRID",
+    "SLR_S_07_02": "PRESLAV",
+    "SLR_S_07_03": "PRESLAV",
+    "SLR_S_07_04": "OHRID",
+    "SLR_S_07_05": "PRESLAV",
+    "SLR_S_07_06": "PRESLAV",
+    "SLR_S_07_07": "CONSTANTINOPLE",
+    "SLR_S_07_08": "CONSTANTINOPLE",
+    "SLR_A_07_01": "PRESLAV",
+    "SLR_A_07_02": "PRESLAV",
+    "SLR_A_07_03": "PRESLAV",
+    "SLR_A_07_04": "OHRID",
+    "SLR_S_08_01": "ITIL",
+    "SLR_S_08_02": "ITIL",
+    "SLR_S_08_03": "SARKEL",
+    "SLR_S_08_04": "ITIL",
+    "SLR_S_08_05": "ITIL",
+    "SLR_S_08_06": "KYIV",
+    "SLR_S_08_07": "BOLGHAR",
+    "SLR_S_08_08": "CRIMEA",
+    "SLR_A_08_01": "ITIL",
+    "SLR_A_08_02": "SARKEL",
+    "SLR_A_08_03": "BOLGHAR",
+    "SLR_A_08_04": "SARKEL",
+    "SLR_S_09_01": "LADOGA",
+    "SLR_S_09_02": "NOVGOROD",
+    "SLR_S_09_03": "GNEZDOVO",
+    "SLR_S_09_04": "KYIV",
+    "SLR_S_09_05": "KYIV",
+    "SLR_S_09_06": "NOVGOROD",
+    "SLR_S_09_07": "KYIV",
+    "SLR_S_09_08": "DNIEPER",
+    "SLR_A_09_01": "KYIV",
+    "SLR_A_09_02": "CONSTANTINOPLE",
+    "SLR_A_09_03": "GNEZDOVO",
+    "SLR_A_09_04": "DNIEPER",
+    "SLR_S_10_01": "VYSHGOROD",
+    "SLR_S_10_02": "CONSTANTINOPLE",
+    "SLR_S_10_03": "ITIL",
+    "SLR_S_10_04": "DOROSTOLON",
+    "SLR_S_10_05": "DOROSTOLON",
+    "SLR_S_10_06": "KYIV",
+    "SLR_S_10_07": "KORSUN",
+    "SLR_S_10_08": "KYIV",
+    "SLR_A_10_01": "CONSTANTINOPLE",
+    "SLR_A_10_02": "KYIV",
+    "SLR_A_10_03": "KYIV",
+    "SLR_A_10_04": "DOROSTOLON",
+    "SLR_S_11_01": "KYIV",
+    "SLR_S_11_02": "KYIV",
+    "SLR_S_11_03": "NOVGOROD",
+    "SLR_S_11_04": "KYIV",
+    "SLR_S_11_05": "KYIV",
+    "SLR_S_11_06": "KYIV",
+    "SLR_S_11_07": "KYIV",
+    "SLR_S_11_08": "PEREYASLAVL",
+    "SLR_A_11_01": "KYIV",
+    "SLR_A_11_02": "KYIV",
+    "SLR_A_11_03": "NOVGOROD",
+    "SLR_A_11_04": "KYIV"
+  },
+  "chapters": {
+    "SLR_CHAPTER_01": {
+      "title": "Славянские общества и проблема источников",
+      "center": [
+        50.0755,
+        14.4378
+      ],
+      "zoom": 5
+    },
+    "SLR_CHAPTER_02": {
+      "title": "Аварский каганат и дунайское пограничье",
+      "center": [
+        47.2,
+        18.3
+      ],
+      "zoom": 5
+    },
+    "SLR_CHAPTER_03": {
+      "title": "Аспарух и образование Болгарии",
+      "center": [
+        45.3,
+        28.5
+      ],
+      "zoom": 5
+    },
+    "SLR_CHAPTER_04": {
+      "title": "Крум, Омуртаг и устройство державы",
+      "center": [
+        43.3667,
+        27.1167
+      ],
+      "zoom": 5
+    },
+    "SLR_CHAPTER_05": {
+      "title": "Борис I и христианизация Болгарии",
+      "center": [
+        43.3667,
+        27.1167
+      ],
+      "zoom": 5
+    },
+    "SLR_CHAPTER_06": {
+      "title": "Великая Моравия и миссия Кирилла и Мефодия",
+      "center": [
+        48.8044,
+        17.0898
+      ],
+      "zoom": 5
+    },
+    "SLR_CHAPTER_07": {
+      "title": "Преслав, Охрид и культурная программа Симеона",
+      "center": [
+        43.1667,
+        26.8167
+      ],
+      "zoom": 5
+    },
+    "SLR_CHAPTER_08": {
+      "title": "Хазарский каганат и степно-речные сети",
+      "center": [
+        46.0,
+        47.8
+      ],
+      "zoom": 5
+    },
+    "SLR_CHAPTER_09": {
+      "title": "Ладога, Новгород, Киев и формирование Руси",
+      "center": [
+        59.998,
+        32.295
+      ],
+      "zoom": 5
+    },
+    "SLR_CHAPTER_10": {
+      "title": "Ольга, Святослав и Владимир",
+      "center": [
+        50.4501,
+        30.5234
+      ],
+      "zoom": 5
+    },
+    "SLR_CHAPTER_11": {
+      "title": "Ярослав, право и города Руси",
+      "center": [
+        50.4501,
+        30.5234
+      ],
+      "zoom": 5
+    }
+  },
+  "missionCenter": [
+    49.0,
+    27.0
+  ],
+  "missionZoom": 4
+}

@@ -1,0 +1,807 @@
+{
+  "campaignId": "SLAVIC_BULGARIA_RUS",
+  "campaigns": {
+    "SLAVIC_BULGARIA_RUS": {
+      "id": "SLAVIC_BULGARIA_RUS",
+      "title": "Славяне, Болгария, Великая Моравия и ранняя Русь",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "SLR_POOL_01",
+      "campaign": "SLAVIC_BULGARIA_RUS",
+      "title": "Славянские общества и проблема источников",
+      "unlockMission": "SLR_01_02",
+      "cardIds": [
+        "SLR_A_01_01",
+        "SLR_A_01_02",
+        "SLR_A_01_03",
+        "SLR_A_01_04"
+      ]
+    },
+    {
+      "id": "SLR_POOL_02",
+      "campaign": "SLAVIC_BULGARIA_RUS",
+      "title": "Аварский каганат и дунайское пограничье",
+      "unlockMission": "SLR_02_02",
+      "cardIds": [
+        "SLR_A_02_01",
+        "SLR_A_02_02",
+        "SLR_A_02_03",
+        "SLR_A_02_04"
+      ]
+    },
+    {
+      "id": "SLR_POOL_03",
+      "campaign": "SLAVIC_BULGARIA_RUS",
+      "title": "Аспарух и образование Болгарии",
+      "unlockMission": "SLR_03_02",
+      "cardIds": [
+        "SLR_A_03_01",
+        "SLR_A_03_02",
+        "SLR_A_03_03",
+        "SLR_A_03_04"
+      ]
+    },
+    {
+      "id": "SLR_POOL_04",
+      "campaign": "SLAVIC_BULGARIA_RUS",
+      "title": "Крум, Омуртаг и устройство державы",
+      "unlockMission": "SLR_04_02",
+      "cardIds": [
+        "SLR_A_04_01",
+        "SLR_A_04_02",
+        "SLR_A_04_03",
+        "SLR_A_04_04"
+      ]
+    },
+    {
+      "id": "SLR_POOL_05",
+      "campaign": "SLAVIC_BULGARIA_RUS",
+      "title": "Борис I и христианизация Болгарии",
+      "unlockMission": "SLR_05_02",
+      "cardIds": [
+        "SLR_A_05_01",
+        "SLR_A_05_02",
+        "SLR_A_05_03",
+        "SLR_A_05_04"
+      ]
+    },
+    {
+      "id": "SLR_POOL_06",
+      "campaign": "SLAVIC_BULGARIA_RUS",
+      "title": "Великая Моравия и миссия Кирилла и Мефодия",
+      "unlockMission": "SLR_06_02",
+      "cardIds": [
+        "SLR_A_06_01",
+        "SLR_A_06_02",
+        "SLR_A_06_03",
+        "SLR_A_06_04"
+      ]
+    },
+    {
+      "id": "SLR_POOL_07",
+      "campaign": "SLAVIC_BULGARIA_RUS",
+      "title": "Преслав, Охрид и культурная программа Симеона",
+      "unlockMission": "SLR_07_02",
+      "cardIds": [
+        "SLR_A_07_01",
+        "SLR_A_07_02",
+        "SLR_A_07_03",
+        "SLR_A_07_04"
+      ]
+    },
+    {
+      "id": "SLR_POOL_08",
+      "campaign": "SLAVIC_BULGARIA_RUS",
+      "title": "Хазарский каганат и степно-речные сети",
+      "unlockMission": "SLR_08_02",
+      "cardIds": [
+        "SLR_A_08_01",
+        "SLR_A_08_02",
+        "SLR_A_08_03",
+        "SLR_A_08_04"
+      ]
+    },
+    {
+      "id": "SLR_POOL_09",
+      "campaign": "SLAVIC_BULGARIA_RUS",
+      "title": "Ладога, Новгород, Киев и формирование Руси",
+      "unlockMission": "SLR_09_02",
+      "cardIds": [
+        "SLR_A_09_01",
+        "SLR_A_09_02",
+        "SLR_A_09_03",
+        "SLR_A_09_04"
+      ]
+    },
+    {
+      "id": "SLR_POOL_10",
+      "campaign": "SLAVIC_BULGARIA_RUS",
+      "title": "Ольга, Святослав и Владимир",
+      "unlockMission": "SLR_10_02",
+      "cardIds": [
+        "SLR_A_10_01",
+        "SLR_A_10_02",
+        "SLR_A_10_03",
+        "SLR_A_10_04"
+      ]
+    },
+    {
+      "id": "SLR_POOL_11",
+      "campaign": "SLAVIC_BULGARIA_RUS",
+      "title": "Ярослав, право и города Руси",
+      "unlockMission": "SLR_11_02",
+      "cardIds": [
+        "SLR_A_11_01",
+        "SLR_A_11_02",
+        "SLR_A_11_03",
+        "SLR_A_11_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "SLR_S_01_01": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 1
+    },
+    "SLR_S_01_02": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 1
+    },
+    "SLR_S_01_03": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 1
+    },
+    "SLR_S_01_04": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 1
+    },
+    "SLR_S_01_05": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 1
+    },
+    "SLR_S_01_06": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 1
+    },
+    "SLR_S_01_07": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 1
+    },
+    "SLR_S_01_08": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 1
+    },
+    "SLR_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_01",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_01",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_01",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_01",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_S_02_01": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 2
+    },
+    "SLR_S_02_02": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 2
+    },
+    "SLR_S_02_03": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 2
+    },
+    "SLR_S_02_04": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 2
+    },
+    "SLR_S_02_05": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 2
+    },
+    "SLR_S_02_06": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 2
+    },
+    "SLR_S_02_07": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 2
+    },
+    "SLR_S_02_08": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 2
+    },
+    "SLR_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_02",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_02",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_02",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_02",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_S_03_01": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 3
+    },
+    "SLR_S_03_02": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 3
+    },
+    "SLR_S_03_03": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 3
+    },
+    "SLR_S_03_04": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 3
+    },
+    "SLR_S_03_05": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 3
+    },
+    "SLR_S_03_06": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 3
+    },
+    "SLR_S_03_07": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 3
+    },
+    "SLR_S_03_08": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 3
+    },
+    "SLR_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_03",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_03",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_03",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_03",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_S_04_01": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 4
+    },
+    "SLR_S_04_02": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 4
+    },
+    "SLR_S_04_03": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 4
+    },
+    "SLR_S_04_04": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 4
+    },
+    "SLR_S_04_05": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 4
+    },
+    "SLR_S_04_06": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 4
+    },
+    "SLR_S_04_07": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 4
+    },
+    "SLR_S_04_08": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 4
+    },
+    "SLR_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_04",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_04",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_04",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_04",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_S_05_01": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 5
+    },
+    "SLR_S_05_02": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 5
+    },
+    "SLR_S_05_03": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 5
+    },
+    "SLR_S_05_04": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 5
+    },
+    "SLR_S_05_05": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 5
+    },
+    "SLR_S_05_06": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 5
+    },
+    "SLR_S_05_07": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 5
+    },
+    "SLR_S_05_08": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 5
+    },
+    "SLR_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_05",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_05",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_05",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_05",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_S_06_01": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 6
+    },
+    "SLR_S_06_02": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 6
+    },
+    "SLR_S_06_03": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 6
+    },
+    "SLR_S_06_04": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 6
+    },
+    "SLR_S_06_05": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 6
+    },
+    "SLR_S_06_06": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 6
+    },
+    "SLR_S_06_07": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 6
+    },
+    "SLR_S_06_08": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 6
+    },
+    "SLR_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_06",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_06",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_06",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_06",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_S_07_01": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 7
+    },
+    "SLR_S_07_02": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 7
+    },
+    "SLR_S_07_03": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 7
+    },
+    "SLR_S_07_04": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 7
+    },
+    "SLR_S_07_05": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 7
+    },
+    "SLR_S_07_06": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 7
+    },
+    "SLR_S_07_07": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 7
+    },
+    "SLR_S_07_08": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 7
+    },
+    "SLR_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_07",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_07",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_07",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_07",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_S_08_01": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 8
+    },
+    "SLR_S_08_02": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 8
+    },
+    "SLR_S_08_03": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 8
+    },
+    "SLR_S_08_04": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 8
+    },
+    "SLR_S_08_05": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 8
+    },
+    "SLR_S_08_06": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 8
+    },
+    "SLR_S_08_07": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 8
+    },
+    "SLR_S_08_08": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 8
+    },
+    "SLR_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_08",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_08",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_08",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_08",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_S_09_01": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 9
+    },
+    "SLR_S_09_02": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 9
+    },
+    "SLR_S_09_03": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 9
+    },
+    "SLR_S_09_04": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 9
+    },
+    "SLR_S_09_05": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 9
+    },
+    "SLR_S_09_06": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 9
+    },
+    "SLR_S_09_07": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 9
+    },
+    "SLR_S_09_08": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 9
+    },
+    "SLR_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_09",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_09",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_09",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_09",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_S_10_01": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 10
+    },
+    "SLR_S_10_02": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 10
+    },
+    "SLR_S_10_03": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 10
+    },
+    "SLR_S_10_04": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 10
+    },
+    "SLR_S_10_05": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 10
+    },
+    "SLR_S_10_06": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 10
+    },
+    "SLR_S_10_07": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 10
+    },
+    "SLR_S_10_08": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 10
+    },
+    "SLR_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_10",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_10",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_10",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_10",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_S_11_01": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 11
+    },
+    "SLR_S_11_02": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 11
+    },
+    "SLR_S_11_03": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 11
+    },
+    "SLR_S_11_04": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 11
+    },
+    "SLR_S_11_05": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 11
+    },
+    "SLR_S_11_06": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 11
+    },
+    "SLR_S_11_07": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 11
+    },
+    "SLR_S_11_08": {
+      "kind": "STORY",
+      "campaignId": "SLAVIC_BULGARIA_RUS",
+      "chapter": 11
+    },
+    "SLR_A_11_01": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_11",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_11_02": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_11",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_11_03": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_11",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    },
+    "SLR_A_11_04": {
+      "kind": "ARCHIVE",
+      "pool": "SLR_POOL_11",
+      "campaign": "SLAVIC_BULGARIA_RUS"
+    }
+  }
+}

@@ -1,6 +1,6 @@
-/* Codex v8.4.0 — Origins of the Islamic world */
+/* Codex v8.5.0 — Origins of the Islamic world */
 (()=>{
-  const V='8.4.0';
+  const V='8.5.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.ISLAMIC_ORIGINS='ISLAMIC_ORIGINS';
   state.islamicPhase=state.islamicPhase||'ARABIA_CONTEXT';

@@ -1,0 +1,334 @@
+{
+  "points": {
+    "TEOT": [
+      19.6925,
+      -98.8438
+    ],
+    "SUN": [
+      19.6923,
+      -98.8437
+    ],
+    "MOON": [
+      19.6994,
+      -98.8439
+    ],
+    "VENTILLA": [
+      19.6814,
+      -98.8467
+    ],
+    "MONTE_ALBAN": [
+      17.0438,
+      -96.7677
+    ],
+    "KAMINALJUYU": [
+      14.6228,
+      -90.552
+    ],
+    "TIKAL": [
+      17.222,
+      -89.6237
+    ],
+    "CALAKMUL": [
+      18.105,
+      -89.81
+    ],
+    "COPAN": [
+      14.84,
+      -89.14
+    ],
+    "PALENQUE": [
+      17.484,
+      -92.046
+    ],
+    "DOS_PILAS": [
+      16.443,
+      -90.294
+    ],
+    "MOCHE": [
+      -8.128,
+      -78.994
+    ],
+    "SIPAN": [
+      -6.79,
+      -79.6
+    ],
+    "SAN_JOSE_MORO": [
+      -7.075,
+      -79.577
+    ],
+    "PAMPA_GRANDE": [
+      -6.771,
+      -79.469
+    ],
+    "CAHUACHI": [
+      -14.818,
+      -75.13
+    ],
+    "NASCA": [
+      -14.835,
+      -74.932
+    ],
+    "PALPA": [
+      -14.533,
+      -75.185
+    ],
+    "TIWANAKU": [
+      -16.5547,
+      -68.6733
+    ],
+    "TITICACA": [
+      -15.84,
+      -69.33
+    ],
+    "LUKURMATA": [
+      -16.57,
+      -68.62
+    ],
+    "WARI": [
+      -13.057,
+      -74.22
+    ],
+    "CONCHOPATA": [
+      -13.13,
+      -74.21
+    ],
+    "CERRO_BAUL": [
+      -17.117,
+      -70.86
+    ],
+    "PACHACAMAC": [
+      -12.255,
+      -76.91
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "AME_S_01_01": "TEOT",
+    "AME_S_01_02": "TIKAL",
+    "AME_S_01_03": "MOCHE",
+    "AME_S_01_04": "TEOT",
+    "AME_S_01_05": "TIKAL",
+    "AME_S_01_06": "MOCHE",
+    "AME_S_01_07": "TIWANAKU",
+    "AME_S_01_08": "TEOT",
+    "AME_A_01_01": "TEOT",
+    "AME_A_01_02": "TIKAL",
+    "AME_A_01_03": "MOCHE",
+    "AME_A_01_04": "TIWANAKU",
+    "AME_S_02_01": "TEOT",
+    "AME_S_02_02": "SUN",
+    "AME_S_02_03": "MOON",
+    "AME_S_02_04": "TEOT",
+    "AME_S_02_05": "TEOT",
+    "AME_S_02_06": "TEOT",
+    "AME_S_02_07": "TEOT",
+    "AME_S_02_08": "TEOT",
+    "AME_A_02_01": "TEOT",
+    "AME_A_02_02": "TEOT",
+    "AME_A_02_03": "TEOT",
+    "AME_A_02_04": "MOON",
+    "AME_S_03_01": "VENTILLA",
+    "AME_S_03_02": "TEOT",
+    "AME_S_03_03": "VENTILLA",
+    "AME_S_03_04": "TEOT",
+    "AME_S_03_05": "TEOT",
+    "AME_S_03_06": "VENTILLA",
+    "AME_S_03_07": "TEOT",
+    "AME_S_03_08": "TEOT",
+    "AME_A_03_01": "TEOT",
+    "AME_A_03_02": "TEOT",
+    "AME_A_03_03": "VENTILLA",
+    "AME_A_03_04": "TEOT",
+    "AME_S_04_01": "TEOT",
+    "AME_S_04_02": "KAMINALJUYU",
+    "AME_S_04_03": "MONTE_ALBAN",
+    "AME_S_04_04": "TIKAL",
+    "AME_S_04_05": "TIKAL",
+    "AME_S_04_06": "TIKAL",
+    "AME_S_04_07": "TEOT",
+    "AME_S_04_08": "TEOT",
+    "AME_A_04_01": "TIKAL",
+    "AME_A_04_02": "TIKAL",
+    "AME_A_04_03": "MONTE_ALBAN",
+    "AME_A_04_04": "KAMINALJUYU",
+    "AME_S_05_01": "TIKAL",
+    "AME_S_05_02": "TIKAL",
+    "AME_S_05_03": "COPAN",
+    "AME_S_05_04": "TIKAL",
+    "AME_S_05_05": "PALENQUE",
+    "AME_S_05_06": "TIKAL",
+    "AME_S_05_07": "TIKAL",
+    "AME_S_05_08": "COPAN",
+    "AME_A_05_01": "COPAN",
+    "AME_A_05_02": "TIKAL",
+    "AME_A_05_03": "TIKAL",
+    "AME_A_05_04": "PALENQUE",
+    "AME_S_06_01": "CALAKMUL",
+    "AME_S_06_02": "TIKAL",
+    "AME_S_06_03": "CALAKMUL",
+    "AME_S_06_04": "DOS_PILAS",
+    "AME_S_06_05": "TIKAL",
+    "AME_S_06_06": "TIKAL",
+    "AME_S_06_07": "CALAKMUL",
+    "AME_S_06_08": "TIKAL",
+    "AME_A_06_01": "DOS_PILAS",
+    "AME_A_06_02": "TIKAL",
+    "AME_A_06_03": "CALAKMUL",
+    "AME_A_06_04": "CALAKMUL",
+    "AME_S_07_01": "MOCHE",
+    "AME_S_07_02": "MOCHE",
+    "AME_S_07_03": "MOCHE",
+    "AME_S_07_04": "MOCHE",
+    "AME_S_07_05": "MOCHE",
+    "AME_S_07_06": "PAMPA_GRANDE",
+    "AME_S_07_07": "SIPAN",
+    "AME_S_07_08": "MOCHE",
+    "AME_A_07_01": "MOCHE",
+    "AME_A_07_02": "MOCHE",
+    "AME_A_07_03": "MOCHE",
+    "AME_A_07_04": "SIPAN",
+    "AME_S_08_01": "SIPAN",
+    "AME_S_08_02": "MOCHE",
+    "AME_S_08_03": "MOCHE",
+    "AME_S_08_04": "SAN_JOSE_MORO",
+    "AME_S_08_05": "MOCHE",
+    "AME_S_08_06": "MOCHE",
+    "AME_S_08_07": "MOCHE",
+    "AME_S_08_08": "MOCHE",
+    "AME_A_08_01": "SIPAN",
+    "AME_A_08_02": "MOCHE",
+    "AME_A_08_03": "SIPAN",
+    "AME_A_08_04": "MOCHE",
+    "AME_S_09_01": "CAHUACHI",
+    "AME_S_09_02": "NASCA",
+    "AME_S_09_03": "PALPA",
+    "AME_S_09_04": "NASCA",
+    "AME_S_09_05": "CAHUACHI",
+    "AME_S_09_06": "NASCA",
+    "AME_S_09_07": "CAHUACHI",
+    "AME_S_09_08": "NASCA",
+    "AME_A_09_01": "NASCA",
+    "AME_A_09_02": "CAHUACHI",
+    "AME_A_09_03": "NASCA",
+    "AME_A_09_04": "PALPA",
+    "AME_S_10_01": "TIWANAKU",
+    "AME_S_10_02": "TIWANAKU",
+    "AME_S_10_03": "TIWANAKU",
+    "AME_S_10_04": "TITICACA",
+    "AME_S_10_05": "LUKURMATA",
+    "AME_S_10_06": "CERRO_BAUL",
+    "AME_S_10_07": "TIWANAKU",
+    "AME_S_10_08": "TIWANAKU",
+    "AME_A_10_01": "TIWANAKU",
+    "AME_A_10_02": "TITICACA",
+    "AME_A_10_03": "CERRO_BAUL",
+    "AME_A_10_04": "TIWANAKU",
+    "AME_S_11_01": "WARI",
+    "AME_S_11_02": "CONCHOPATA",
+    "AME_S_11_03": "WARI",
+    "AME_S_11_04": "CERRO_BAUL",
+    "AME_S_11_05": "PACHACAMAC",
+    "AME_S_11_06": "WARI",
+    "AME_S_11_07": "WARI",
+    "AME_S_11_08": "WARI",
+    "AME_A_11_01": "WARI",
+    "AME_A_11_02": "CONCHOPATA",
+    "AME_A_11_03": "CERRO_BAUL",
+    "AME_A_11_04": "CERRO_BAUL"
+  },
+  "chapters": {
+    "AME_CHAPTER_01": {
+      "title": "Америки около 250 года",
+      "center": [
+        19.6925,
+        -98.8438
+      ],
+      "zoom": 5
+    },
+    "AME_CHAPTER_02": {
+      "title": "Теотиуакан: город и монументы",
+      "center": [
+        19.6925,
+        -98.8438
+      ],
+      "zoom": 5
+    },
+    "AME_CHAPTER_03": {
+      "title": "Кварталы и жители Теотиуакана",
+      "center": [
+        19.6814,
+        -98.8467
+      ],
+      "zoom": 5
+    },
+    "AME_CHAPTER_04": {
+      "title": "Теотиуакан за пределами долины",
+      "center": [
+        17.0438,
+        -96.7677
+      ],
+      "zoom": 5
+    },
+    "AME_CHAPTER_05": {
+      "title": "Классические майя: города, цари и письмо",
+      "center": [
+        17.222,
+        -89.6237
+      ],
+      "zoom": 5
+    },
+    "AME_CHAPTER_06": {
+      "title": "Тикаль и Калакмуль: династическая геополитика",
+      "center": [
+        17.222,
+        -89.6237
+      ],
+      "zoom": 5
+    },
+    "AME_CHAPTER_07": {
+      "title": "Моче: долины, каналы и политические центры",
+      "center": [
+        -8.128,
+        -78.994
+      ],
+      "zoom": 5
+    },
+    "AME_CHAPTER_08": {
+      "title": "Моче: ритуал, образы и погребения",
+      "center": [
+        -6.79,
+        -79.6
+      ],
+      "zoom": 5
+    },
+    "AME_CHAPTER_09": {
+      "title": "Наска: пустыня, вода и линии",
+      "center": [
+        -14.818,
+        -75.13
+      ],
+      "zoom": 5
+    },
+    "AME_CHAPTER_10": {
+      "title": "Тиуанако и мир озера Титикака",
+      "center": [
+        -16.5547,
+        -68.6733
+      ],
+      "zoom": 5
+    },
+    "AME_CHAPTER_11": {
+      "title": "Уари и Америки около 700 года",
+      "center": [
+        -13.057,
+        -74.22
+      ],
+      "zoom": 5
+    }
+  },
+  "missionCenter": [
+    2.0,
+    -82.0
+  ],
+  "missionZoom": 3
+}

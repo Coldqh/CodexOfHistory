@@ -1,6 +1,6 @@
-/* Codex v7.6.0 — Archaic Greece */
+/* Codex v7.7.0 — Archaic Greece */
 (()=>{
-  const V='7.6.0';
+  const V='7.7.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.GREECE_ARCHAIC='GREECE_ARCHAIC';
   state.archaicPhase=state.archaicPhase||'RECOVERY';

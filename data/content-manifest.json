@@ -1,5 +1,5 @@
 {
-  "version": "7.6.0",
+  "version": "7.7.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -82,7 +82,9 @@
       "data/cards/china-post-han/story.json",
       "data/cards/china-post-han/archive.json",
       "data/cards/aksum-nubia-arabia/story.json",
-      "data/cards/aksum-nubia-arabia/archive.json"
+      "data/cards/aksum-nubia-arabia/archive.json",
+      "data/cards/americas-late/story.json",
+      "data/cards/americas-late/archive.json"
     ],
     "relations": "data/core/relations.json",
     "pools": [
@@ -124,7 +126,8 @@
       "data/campaigns/central-asia-late/pools.json",
       "data/campaigns/india-gupta/pools.json",
       "data/campaigns/china-post-han/pools.json",
-      "data/campaigns/aksum-nubia-arabia/pools.json"
+      "data/campaigns/aksum-nubia-arabia/pools.json",
+      "data/campaigns/americas-late/pools.json"
     ],
     "quizzes": [
       "data/quizzes/rome/chapter_01.json",
@@ -178,7 +181,8 @@
       "data/quizzes/central-asia-late/campaign.json",
       "data/quizzes/india-gupta/campaign.json",
       "data/quizzes/china-post-han/campaign.json",
-      "data/quizzes/aksum-nubia-arabia/campaign.json"
+      "data/quizzes/aksum-nubia-arabia/campaign.json",
+      "data/quizzes/americas-late/campaign.json"
     ],
     "stories": [
       "data/stories/rome/personal.json",
@@ -219,7 +223,8 @@
       "data/stories/central-asia-late/personal.json",
       "data/stories/india-gupta/personal.json",
       "data/stories/china-post-han/personal.json",
-      "data/stories/aksum-nubia-arabia/personal.json"
+      "data/stories/aksum-nubia-arabia/personal.json",
+      "data/stories/americas-late/personal.json"
     ],
     "mastery": "data/core/mastery.json",
     "packs": "data/core/packs.json",
@@ -264,7 +269,8 @@
       "CENTRAL_ASIA_LATE": "data/maps/central-asia-late.json",
       "GUPTA": "data/maps/india-gupta.json",
       "CHINA_POST_HAN": "data/maps/china-post-han.json",
-      "AKSUM_NUBIA_ARABIA": "data/maps/aksum-nubia-arabia.json"
+      "AKSUM_NUBIA_ARABIA": "data/maps/aksum-nubia-arabia.json",
+      "AMERICAS_LATE": "data/maps/americas-late.json"
     },
     "daily": "data/core/daily-learning.json",
     "lessons": [
@@ -319,7 +325,8 @@
       "data/lessons/central-asia-late/campaign.json",
       "data/lessons/india-gupta/campaign.json",
       "data/lessons/china-post-han/campaign.json",
-      "data/lessons/aksum-nubia-arabia/campaign.json"
+      "data/lessons/aksum-nubia-arabia/campaign.json",
+      "data/lessons/americas-late/campaign.json"
     ],
     "eras": "data/world/eras.json",
     "campaignCatalog": "data/world/campaigns.json",
@@ -363,7 +370,8 @@
       "data/campaigns/central-asia-late/campaign.json",
       "data/campaigns/india-gupta/campaign.json",
       "data/campaigns/china-post-han/campaign.json",
-      "data/campaigns/aksum-nubia-arabia/campaign.json"
+      "data/campaigns/aksum-nubia-arabia/campaign.json",
+      "data/campaigns/americas-late/campaign.json"
     ],
     "imageQueries": "data/image_queries.json"
   },
@@ -429,6 +437,7 @@
     "js/features/v7-4-india-gupta.js",
     "js/features/v7-5-china-post-han.js",
     "js/features/v7-6-aksum-nubia-arabia.js",
+    "js/features/v7-7-americas-late.js",
     "js/features/v6-9-1-stability.js",
     "js/features/v3-1-1-hotfix.js",
     "js/features/v3-1-3-visual-semantics.js",

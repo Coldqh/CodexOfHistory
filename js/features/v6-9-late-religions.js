@@ -1,6 +1,6 @@
-/* Codex v7.7.0 — Christianity and Religions of Late Antiquity */
+/* Codex v7.8.0 — Christianity and Religions of Late Antiquity */
 (()=>{
-  const V='7.7.0';
+  const V='7.8.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.EARLY_CHRISTIANITY='EARLY_CHRISTIANITY';
   state.lateReligionsPhase=state.lateReligionsPhase||'JUDEA_ORIGINS';

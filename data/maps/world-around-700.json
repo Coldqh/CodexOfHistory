@@ -1,0 +1,258 @@
+{
+  "points": {
+    "RAVENNA": [
+      44.4184,
+      12.2035
+    ],
+    "TOLEDO": [
+      39.8628,
+      -4.0273
+    ],
+    "CONSTANTINOPLE": [
+      41.0082,
+      28.9784
+    ],
+    "CTESIPHON": [
+      33.0933,
+      44.58
+    ],
+    "JERUSALEM": [
+      31.778,
+      35.235
+    ],
+    "ALEXANDRIA": [
+      31.2001,
+      29.9187
+    ],
+    "AXUM": [
+      14.13,
+      38.72
+    ],
+    "ADULIS": [
+      15.26,
+      39.66
+    ],
+    "MECCA": [
+      21.3891,
+      39.8579
+    ],
+    "SAMARKAND": [
+      39.6542,
+      66.9597
+    ],
+    "MERV": [
+      37.66,
+      62.18
+    ],
+    "BAMIYAN": [
+      34.817,
+      67.817
+    ],
+    "NALANDA": [
+      25.1367,
+      85.4437
+    ],
+    "UJJAIN": [
+      23.1765,
+      75.7885
+    ],
+    "CHANGAN": [
+      34.3416,
+      108.9398
+    ],
+    "LUOYANG": [
+      34.6197,
+      112.454
+    ],
+    "DUNHUANG": [
+      40.1421,
+      94.6619
+    ],
+    "TIKAL": [
+      17.222,
+      -89.6237
+    ],
+    "TEOT": [
+      19.6925,
+      -98.8438
+    ],
+    "TIWANAKU": [
+      -16.5547,
+      -68.6733
+    ],
+    "WARI": [
+      -13.057,
+      -74.22
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "WAE_S_01_01": "CONSTANTINOPLE",
+    "WAE_S_01_02": "CTESIPHON",
+    "WAE_S_01_03": "CHANGAN",
+    "WAE_S_01_04": "CONSTANTINOPLE",
+    "WAE_S_01_05": "TIKAL",
+    "WAE_S_01_06": "SAMARKAND",
+    "WAE_S_01_07": "RAVENNA",
+    "WAE_S_01_08": "CHANGAN",
+    "WAE_A_01_01": "CONSTANTINOPLE",
+    "WAE_A_01_02": "SAMARKAND",
+    "WAE_A_01_03": "CONSTANTINOPLE",
+    "WAE_A_01_04": "TIKAL",
+    "WAE_S_02_01": "TOLEDO",
+    "WAE_S_02_02": "CONSTANTINOPLE",
+    "WAE_S_02_03": "CTESIPHON",
+    "WAE_S_02_04": "CHANGAN",
+    "WAE_S_02_05": "RAVENNA",
+    "WAE_S_02_06": "CTESIPHON",
+    "WAE_S_02_07": "CONSTANTINOPLE",
+    "WAE_S_02_08": "CHANGAN",
+    "WAE_A_02_01": "TOLEDO",
+    "WAE_A_02_02": "CONSTANTINOPLE",
+    "WAE_A_02_03": "CTESIPHON",
+    "WAE_A_02_04": "CHANGAN",
+    "WAE_S_03_01": "CONSTANTINOPLE",
+    "WAE_S_03_02": "CTESIPHON",
+    "WAE_S_03_03": "SAMARKAND",
+    "WAE_S_03_04": "DUNHUANG",
+    "WAE_S_03_05": "TOLEDO",
+    "WAE_S_03_06": "ALEXANDRIA",
+    "WAE_S_03_07": "RAVENNA",
+    "WAE_S_03_08": "MERV",
+    "WAE_A_03_01": "CONSTANTINOPLE",
+    "WAE_A_03_02": "CTESIPHON",
+    "WAE_A_03_03": "SAMARKAND",
+    "WAE_A_03_04": "DUNHUANG",
+    "WAE_S_04_01": "CONSTANTINOPLE",
+    "WAE_S_04_02": "SAMARKAND",
+    "WAE_S_04_03": "NALANDA",
+    "WAE_S_04_04": "CHANGAN",
+    "WAE_S_04_05": "CHANGAN",
+    "WAE_S_04_06": "UJJAIN",
+    "WAE_S_04_07": "RAVENNA",
+    "WAE_S_04_08": "CONSTANTINOPLE",
+    "WAE_A_04_01": "ALEXANDRIA",
+    "WAE_A_04_02": "UJJAIN",
+    "WAE_A_04_03": "CHANGAN",
+    "WAE_A_04_04": "SAMARKAND",
+    "WAE_S_05_01": "CONSTANTINOPLE",
+    "WAE_S_05_02": "CTESIPHON",
+    "WAE_S_05_03": "NALANDA",
+    "WAE_S_05_04": "BAMIYAN",
+    "WAE_S_05_05": "CHANGAN",
+    "WAE_S_05_06": "CTESIPHON",
+    "WAE_S_05_07": "JERUSALEM",
+    "WAE_S_05_08": "TIKAL",
+    "WAE_A_05_01": "CONSTANTINOPLE",
+    "WAE_A_05_02": "SAMARKAND",
+    "WAE_A_05_03": "NALANDA",
+    "WAE_A_05_04": "TIKAL",
+    "WAE_S_06_01": "ADULIS",
+    "WAE_S_06_02": "SAMARKAND",
+    "WAE_S_06_03": "DUNHUANG",
+    "WAE_S_06_04": "CHANGAN",
+    "WAE_S_06_05": "MERV",
+    "WAE_S_06_06": "SAMARKAND",
+    "WAE_S_06_07": "SAMARKAND",
+    "WAE_S_06_08": "TEOT",
+    "WAE_A_06_01": "SAMARKAND",
+    "WAE_A_06_02": "ADULIS",
+    "WAE_A_06_03": "CHANGAN",
+    "WAE_A_06_04": "TEOT",
+    "WAE_S_07_01": "CONSTANTINOPLE",
+    "WAE_S_07_02": "CTESIPHON",
+    "WAE_S_07_03": "TEOT",
+    "WAE_S_07_04": "WARI",
+    "WAE_S_07_05": "ALEXANDRIA",
+    "WAE_S_07_06": "CONSTANTINOPLE",
+    "WAE_S_07_07": "TOLEDO",
+    "WAE_S_07_08": "CHANGAN",
+    "WAE_A_07_01": "CONSTANTINOPLE",
+    "WAE_A_07_02": "CONSTANTINOPLE",
+    "WAE_A_07_03": "CTESIPHON",
+    "WAE_A_07_04": "TEOT",
+    "WAE_S_08_01": "CONSTANTINOPLE",
+    "WAE_S_08_02": "JERUSALEM",
+    "WAE_S_08_03": "CHANGAN",
+    "WAE_S_08_04": "TOLEDO",
+    "WAE_S_08_05": "SAMARKAND",
+    "WAE_S_08_06": "NALANDA",
+    "WAE_S_08_07": "TIKAL",
+    "WAE_S_08_08": "CONSTANTINOPLE",
+    "WAE_A_08_01": "CONSTANTINOPLE",
+    "WAE_A_08_02": "SAMARKAND",
+    "WAE_A_08_03": "JERUSALEM",
+    "WAE_A_08_04": "CHANGAN"
+  },
+  "chapters": {
+    "WAE_CHAPTER_01": {
+      "title": "Один 700 год, разные исторические часы",
+      "center": [
+        41.0082,
+        28.9784
+      ],
+      "zoom": 5
+    },
+    "WAE_CHAPTER_02": {
+      "title": "Государства, дворы и наследники империй",
+      "center": [
+        39.8628,
+        -4.0273
+      ],
+      "zoom": 5
+    },
+    "WAE_CHAPTER_03": {
+      "title": "Армии, границы и мобильные силы",
+      "center": [
+        41.0082,
+        28.9784
+      ],
+      "zoom": 5
+    },
+    "WAE_CHAPTER_04": {
+      "title": "Земля, налоги, города и труд",
+      "center": [
+        41.0082,
+        28.9784
+      ],
+      "zoom": 5
+    },
+    "WAE_CHAPTER_05": {
+      "title": "Религии, общины и институты знания",
+      "center": [
+        31.778,
+        35.235
+      ],
+      "zoom": 5
+    },
+    "WAE_CHAPTER_06": {
+      "title": "Моря, караваны и цепи обмена",
+      "center": [
+        15.26,
+        39.66
+      ],
+      "zoom": 5
+    },
+    "WAE_CHAPTER_07": {
+      "title": "Войны, эпидемии, климат и устойчивость",
+      "center": [
+        41.0082,
+        28.9784
+      ],
+      "zoom": 5
+    },
+    "WAE_CHAPTER_08": {
+      "title": "Источники и переход к средневековым мирам",
+      "center": [
+        41.0082,
+        28.9784
+      ],
+      "zoom": 5
+    }
+  },
+  "missionCenter": [
+    24.0,
+    38.0
+  ],
+  "missionZoom": 2
+}

@@ -1,6 +1,6 @@
-/* Codex v7.7.0 — Eastern Roman Empire */
+/* Codex v7.8.0 — Eastern Roman Empire */
 (()=>{
-  const V='7.7.0';
+  const V='7.8.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.EASTERN_ROMAN='EASTERN_ROMAN';
   state.easternRomanPhase=state.easternRomanPhase||'EASTERN_COURT';

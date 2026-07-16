@@ -1,0 +1,591 @@
+{
+  "campaignId": "WORLD_AROUND_700",
+  "campaigns": {
+    "WORLD_AROUND_700": {
+      "id": "WORLD_AROUND_700",
+      "title": "Мир около 700 года: сравнительный экзамен",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "WAE_POOL_01",
+      "campaign": "WORLD_AROUND_700",
+      "title": "Один 700 год, разные исторические часы",
+      "unlockMission": "WAE_01_02",
+      "cardIds": [
+        "WAE_A_01_01",
+        "WAE_A_01_02",
+        "WAE_A_01_03",
+        "WAE_A_01_04"
+      ]
+    },
+    {
+      "id": "WAE_POOL_02",
+      "campaign": "WORLD_AROUND_700",
+      "title": "Государства, дворы и наследники империй",
+      "unlockMission": "WAE_02_02",
+      "cardIds": [
+        "WAE_A_02_01",
+        "WAE_A_02_02",
+        "WAE_A_02_03",
+        "WAE_A_02_04"
+      ]
+    },
+    {
+      "id": "WAE_POOL_03",
+      "campaign": "WORLD_AROUND_700",
+      "title": "Армии, границы и мобильные силы",
+      "unlockMission": "WAE_03_02",
+      "cardIds": [
+        "WAE_A_03_01",
+        "WAE_A_03_02",
+        "WAE_A_03_03",
+        "WAE_A_03_04"
+      ]
+    },
+    {
+      "id": "WAE_POOL_04",
+      "campaign": "WORLD_AROUND_700",
+      "title": "Земля, налоги, города и труд",
+      "unlockMission": "WAE_04_02",
+      "cardIds": [
+        "WAE_A_04_01",
+        "WAE_A_04_02",
+        "WAE_A_04_03",
+        "WAE_A_04_04"
+      ]
+    },
+    {
+      "id": "WAE_POOL_05",
+      "campaign": "WORLD_AROUND_700",
+      "title": "Религии, общины и институты знания",
+      "unlockMission": "WAE_05_02",
+      "cardIds": [
+        "WAE_A_05_01",
+        "WAE_A_05_02",
+        "WAE_A_05_03",
+        "WAE_A_05_04"
+      ]
+    },
+    {
+      "id": "WAE_POOL_06",
+      "campaign": "WORLD_AROUND_700",
+      "title": "Моря, караваны и цепи обмена",
+      "unlockMission": "WAE_06_02",
+      "cardIds": [
+        "WAE_A_06_01",
+        "WAE_A_06_02",
+        "WAE_A_06_03",
+        "WAE_A_06_04"
+      ]
+    },
+    {
+      "id": "WAE_POOL_07",
+      "campaign": "WORLD_AROUND_700",
+      "title": "Войны, эпидемии, климат и устойчивость",
+      "unlockMission": "WAE_07_02",
+      "cardIds": [
+        "WAE_A_07_01",
+        "WAE_A_07_02",
+        "WAE_A_07_03",
+        "WAE_A_07_04"
+      ]
+    },
+    {
+      "id": "WAE_POOL_08",
+      "campaign": "WORLD_AROUND_700",
+      "title": "Источники и переход к средневековым мирам",
+      "unlockMission": "WAE_08_02",
+      "cardIds": [
+        "WAE_A_08_01",
+        "WAE_A_08_02",
+        "WAE_A_08_03",
+        "WAE_A_08_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "WAE_S_01_01": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 1
+    },
+    "WAE_S_01_02": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 1
+    },
+    "WAE_S_01_03": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 1
+    },
+    "WAE_S_01_04": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 1
+    },
+    "WAE_S_01_05": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 1
+    },
+    "WAE_S_01_06": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 1
+    },
+    "WAE_S_01_07": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 1
+    },
+    "WAE_S_01_08": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 1
+    },
+    "WAE_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_01",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_01",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_01",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_01",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_S_02_01": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 2
+    },
+    "WAE_S_02_02": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 2
+    },
+    "WAE_S_02_03": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 2
+    },
+    "WAE_S_02_04": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 2
+    },
+    "WAE_S_02_05": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 2
+    },
+    "WAE_S_02_06": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 2
+    },
+    "WAE_S_02_07": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 2
+    },
+    "WAE_S_02_08": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 2
+    },
+    "WAE_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_02",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_02",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_02",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_02",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_S_03_01": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 3
+    },
+    "WAE_S_03_02": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 3
+    },
+    "WAE_S_03_03": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 3
+    },
+    "WAE_S_03_04": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 3
+    },
+    "WAE_S_03_05": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 3
+    },
+    "WAE_S_03_06": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 3
+    },
+    "WAE_S_03_07": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 3
+    },
+    "WAE_S_03_08": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 3
+    },
+    "WAE_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_03",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_03",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_03",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_03",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_S_04_01": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 4
+    },
+    "WAE_S_04_02": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 4
+    },
+    "WAE_S_04_03": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 4
+    },
+    "WAE_S_04_04": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 4
+    },
+    "WAE_S_04_05": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 4
+    },
+    "WAE_S_04_06": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 4
+    },
+    "WAE_S_04_07": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 4
+    },
+    "WAE_S_04_08": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 4
+    },
+    "WAE_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_04",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_04",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_04",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_04",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_S_05_01": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 5
+    },
+    "WAE_S_05_02": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 5
+    },
+    "WAE_S_05_03": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 5
+    },
+    "WAE_S_05_04": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 5
+    },
+    "WAE_S_05_05": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 5
+    },
+    "WAE_S_05_06": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 5
+    },
+    "WAE_S_05_07": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 5
+    },
+    "WAE_S_05_08": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 5
+    },
+    "WAE_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_05",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_05",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_05",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_05",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_S_06_01": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 6
+    },
+    "WAE_S_06_02": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 6
+    },
+    "WAE_S_06_03": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 6
+    },
+    "WAE_S_06_04": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 6
+    },
+    "WAE_S_06_05": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 6
+    },
+    "WAE_S_06_06": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 6
+    },
+    "WAE_S_06_07": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 6
+    },
+    "WAE_S_06_08": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 6
+    },
+    "WAE_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_06",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_06",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_06",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_06",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_S_07_01": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 7
+    },
+    "WAE_S_07_02": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 7
+    },
+    "WAE_S_07_03": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 7
+    },
+    "WAE_S_07_04": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 7
+    },
+    "WAE_S_07_05": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 7
+    },
+    "WAE_S_07_06": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 7
+    },
+    "WAE_S_07_07": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 7
+    },
+    "WAE_S_07_08": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 7
+    },
+    "WAE_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_07",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_07",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_07",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_07",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_S_08_01": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 8
+    },
+    "WAE_S_08_02": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 8
+    },
+    "WAE_S_08_03": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 8
+    },
+    "WAE_S_08_04": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 8
+    },
+    "WAE_S_08_05": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 8
+    },
+    "WAE_S_08_06": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 8
+    },
+    "WAE_S_08_07": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 8
+    },
+    "WAE_S_08_08": {
+      "kind": "STORY",
+      "campaignId": "WORLD_AROUND_700",
+      "chapter": 8
+    },
+    "WAE_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_08",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_08",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_08",
+      "campaign": "WORLD_AROUND_700"
+    },
+    "WAE_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "WAE_POOL_08",
+      "campaign": "WORLD_AROUND_700"
+    }
+  }
+}

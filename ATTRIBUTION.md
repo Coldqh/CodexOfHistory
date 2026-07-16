@@ -383,6 +383,7 @@
 
 Локальные SVG-обложки 132 карточек и обложка пака созданы для Codex of History. Учебная основа: UNESCO Aksum, Archaeological Sites of the Island of Meroe и Gebel Barkal, British Museum, Metropolitan Museum of Art, Digital Archive for the Study of pre-Islamic Arabian Inscriptions и исследования по Адулису, Эзане, нубийским царствам, Химьяру и Наджрану.
 
-## v7.7 — Америки в эпоху поздней Античности
 
-Локальные SVG-обложки 132 карточек и обложка пака созданы для Codex of History. Учебная основа: UNESCO Teotihuacan, Tikal, Calakmul, Lines and Geoglyphs of Nasca and Palpa и Tiwanaku; Metropolitan Museum of Art; Dumbarton Oaks и археологические исследования Теотиуакана, классических майя, Моче, Наска, Тиуанако и Уари.
+## v7.8 — Мир около 700 года
+
+Локальные SVG-обложки 96 карточек и общего пака созданы для Codex of History. Источниковая рамка опирается на материалы Metropolitan Museum of Art, UNESCO World Heritage Centre, Dumbarton Oaks и институциональные архивы предыдущих региональных кампаний.

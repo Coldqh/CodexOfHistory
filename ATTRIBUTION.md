@@ -412,3 +412,8 @@
 ## v8.6 — Аль-Андалус и исламский Запад
 
 Локальные SVG-обложки 144 карточек и кампанийного пака созданы для Codex of History. Источниковая рамка опирается на Metropolitan Museum of Art, UNESCO Historic Centre of Cordoba, UNESCO Caliphate City of Medina Azahara, UNESCO Kairouan, UNESCO Medina of Fez и корпус переводных средневековых источников Fordham University.
+
+
+## v8.7 — Китай: от Тан к Сун
+
+Локальные SVG-обложки 132 карточек и кампанийного пака созданы для Codex of History. Источниковая рамка опирается на Metropolitan Museum of Art, UNESCO Longmen Grottoes, UNESCO Mogao Caves, UNESCO Silk Roads: Chang’an–Tianshan Corridor, UNESCO Grand Canal и International Dunhuang Project.

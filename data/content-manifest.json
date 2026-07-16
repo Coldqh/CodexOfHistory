@@ -1,5 +1,5 @@
 {
-  "version": "8.6.0",
+  "version": "8.7.0",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -100,7 +100,9 @@
       "data/cards/slavic-bulgaria-rus/story.json",
       "data/cards/slavic-bulgaria-rus/archive.json",
       "data/cards/al-andalus-west/story.json",
-      "data/cards/al-andalus-west/archive.json"
+      "data/cards/al-andalus-west/archive.json",
+      "data/cards/tang-song/story.json",
+      "data/cards/tang-song/archive.json"
     ],
     "relations": "data/core/relations.json",
     "pools": [
@@ -151,7 +153,8 @@
       "data/campaigns/byzantium-macedonian/pools.json",
       "data/campaigns/vikings-north-atlantic/pools.json",
       "data/campaigns/slavic-bulgaria-rus/pools.json",
-      "data/campaigns/al-andalus-west/pools.json"
+      "data/campaigns/al-andalus-west/pools.json",
+      "data/campaigns/tang-song/pools.json"
     ],
     "quizzes": [
       "data/quizzes/rome/chapter_01.json",
@@ -214,7 +217,8 @@
       "data/quizzes/byzantium-macedonian/campaign.json",
       "data/quizzes/vikings-north-atlantic/campaign.json",
       "data/quizzes/slavic-bulgaria-rus/campaign.json",
-      "data/quizzes/al-andalus-west/campaign.json"
+      "data/quizzes/al-andalus-west/campaign.json",
+      "data/quizzes/tang-song/campaign.json"
     ],
     "stories": [
       "data/stories/rome/personal.json",
@@ -264,7 +268,8 @@
       "data/stories/byzantium-macedonian/personal.json",
       "data/stories/vikings-north-atlantic/personal.json",
       "data/stories/slavic-bulgaria-rus/personal.json",
-      "data/stories/al-andalus-west/personal.json"
+      "data/stories/al-andalus-west/personal.json",
+      "data/stories/tang-song/personal.json"
     ],
     "mastery": "data/core/mastery.json",
     "packs": "data/core/packs.json",
@@ -318,7 +323,8 @@
       "BYZANTIUM_MACEDONIAN": "data/maps/byzantium-macedonian.json",
       "VIKINGS_NORTH_ATLANTIC": "data/maps/vikings-north-atlantic.json",
       "SLAVIC_BULGARIA_RUS": "data/maps/slavic-bulgaria-rus.json",
-      "AL_ANDALUS_WEST": "data/maps/al-andalus-west.json"
+      "AL_ANDALUS_WEST": "data/maps/al-andalus-west.json",
+      "TANG_SONG": "data/maps/tang-song.json"
     },
     "daily": "data/core/daily-learning.json",
     "lessons": [
@@ -382,7 +388,8 @@
       "data/lessons/byzantium-macedonian/campaign.json",
       "data/lessons/vikings-north-atlantic/campaign.json",
       "data/lessons/slavic-bulgaria-rus/campaign.json",
-      "data/lessons/al-andalus-west/campaign.json"
+      "data/lessons/al-andalus-west/campaign.json",
+      "data/lessons/tang-song/campaign.json"
     ],
     "eras": "data/world/eras.json",
     "campaignCatalog": "data/world/campaigns.json",
@@ -435,7 +442,8 @@
       "data/campaigns/byzantium-macedonian/campaign.json",
       "data/campaigns/vikings-north-atlantic/campaign.json",
       "data/campaigns/slavic-bulgaria-rus/campaign.json",
-      "data/campaigns/al-andalus-west/campaign.json"
+      "data/campaigns/al-andalus-west/campaign.json",
+      "data/campaigns/tang-song/campaign.json"
     ],
     "imageQueries": "data/image_queries.json"
   },
@@ -510,6 +518,7 @@
     "js/features/v8-4-vikings-north-atlantic.js",
     "js/features/v8-5-slavic-bulgaria-rus.js",
     "js/features/v8-6-al-andalus-west.js",
+    "js/features/v8-7-tang-song.js",
     "js/features/v6-9-1-stability.js",
     "js/features/v3-1-1-hotfix.js",
     "js/features/v3-1-3-visual-semantics.js",

@@ -1,0 +1,330 @@
+{
+  "points": {
+    "CHANGAN": [
+      34.3416,
+      108.9398
+    ],
+    "LUOYANG": [
+      34.6197,
+      112.454
+    ],
+    "LONGMEN": [
+      34.5553,
+      112.469
+    ],
+    "DUNHUANG": [
+      40.1421,
+      94.6619
+    ],
+    "MOGAO": [
+      40.0372,
+      94.8048
+    ],
+    "TURFAN": [
+      42.9513,
+      89.1895
+    ],
+    "KUCHA": [
+      41.7179,
+      82.962
+    ],
+    "TALAS": [
+      42.9,
+      71.3667
+    ],
+    "HEXICORRIDOR": [
+      39.0,
+      98.5
+    ],
+    "FANYANG": [
+      39.9,
+      116.4
+    ],
+    "TONGPASS": [
+      34.543,
+      110.246
+    ],
+    "YANJING": [
+      39.9042,
+      116.4074
+    ],
+    "YANGZHOU": [
+      32.3942,
+      119.4129
+    ],
+    "GUANGZHOU": [
+      23.1291,
+      113.2644
+    ],
+    "CHENGDU": [
+      30.5728,
+      104.0668
+    ],
+    "KAIFENG": [
+      34.7973,
+      114.3076
+    ],
+    "BianRIVER": [
+      34.7,
+      114.0
+    ],
+    "HANGZHOU": [
+      30.2741,
+      120.1551
+    ],
+    "Bianjing": [
+      34.7973,
+      114.3076
+    ],
+    "JIANGNAN": [
+      31.2,
+      120.5
+    ],
+    "SICHUAN": [
+      30.65,
+      104.1
+    ],
+    "HENAN": [
+      34.7,
+      113.6
+    ],
+    "HEBEI": [
+      38.0,
+      115.0
+    ],
+    "SHANDONG": [
+      36.4,
+      118.0
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "TSG_S_01_01": "CHANGAN",
+    "TSG_S_01_02": "LUOYANG",
+    "TSG_S_01_03": "KUCHA",
+    "TSG_S_01_04": "HEBEI",
+    "TSG_S_01_05": "LUOYANG",
+    "TSG_S_01_06": "CHANGAN",
+    "TSG_S_01_07": "KUCHA",
+    "TSG_S_01_08": "HEXICORRIDOR",
+    "TSG_A_01_01": "CHANGAN",
+    "TSG_A_01_02": "KUCHA",
+    "TSG_A_01_03": "CHANGAN",
+    "TSG_A_01_04": "HEBEI",
+    "TSG_S_02_01": "LUOYANG",
+    "TSG_S_02_02": "LUOYANG",
+    "TSG_S_02_03": "LUOYANG",
+    "TSG_S_02_04": "LONGMEN",
+    "TSG_S_02_05": "LUOYANG",
+    "TSG_S_02_06": "LUOYANG",
+    "TSG_S_02_07": "LUOYANG",
+    "TSG_S_02_08": "CHANGAN",
+    "TSG_A_02_01": "CHANGAN",
+    "TSG_A_02_02": "LONGMEN",
+    "TSG_A_02_03": "LUOYANG",
+    "TSG_A_02_04": "CHANGAN",
+    "TSG_S_03_01": "CHANGAN",
+    "TSG_S_03_02": "CHANGAN",
+    "TSG_S_03_03": "CHANGAN",
+    "TSG_S_03_04": "HENAN",
+    "TSG_S_03_05": "LUOYANG",
+    "TSG_S_03_06": "CHANGAN",
+    "TSG_S_03_07": "BianRIVER",
+    "TSG_S_03_08": "CHANGAN",
+    "TSG_A_03_01": "CHANGAN",
+    "TSG_A_03_02": "CHANGAN",
+    "TSG_A_03_03": "DUNHUANG",
+    "TSG_A_03_04": "BianRIVER",
+    "TSG_S_04_01": "CHANGAN",
+    "TSG_S_04_02": "CHANGAN",
+    "TSG_S_04_03": "LUOYANG",
+    "TSG_S_04_04": "CHANGAN",
+    "TSG_S_04_05": "YANGZHOU",
+    "TSG_S_04_06": "GUANGZHOU",
+    "TSG_S_04_07": "CHANGAN",
+    "TSG_S_04_08": "CHANGAN",
+    "TSG_A_04_01": "CHANGAN",
+    "TSG_A_04_02": "CHANGAN",
+    "TSG_A_04_03": "CHANGAN",
+    "TSG_A_04_04": "GUANGZHOU",
+    "TSG_S_05_01": "CHANGAN",
+    "TSG_S_05_02": "CHANGAN",
+    "TSG_S_05_03": "MOGAO",
+    "TSG_S_05_04": "DUNHUANG",
+    "TSG_S_05_05": "CHANGAN",
+    "TSG_S_05_06": "HENAN",
+    "TSG_S_05_07": "CHANGAN",
+    "TSG_S_05_08": "CHANGAN",
+    "TSG_A_05_01": "DUNHUANG",
+    "TSG_A_05_02": "MOGAO",
+    "TSG_A_05_03": "CHANGAN",
+    "TSG_A_05_04": "CHANGAN",
+    "TSG_S_06_01": "KUCHA",
+    "TSG_S_06_02": "TURFAN",
+    "TSG_S_06_03": "TALAS",
+    "TSG_S_06_04": "HEXICORRIDOR",
+    "TSG_S_06_05": "FANYANG",
+    "TSG_S_06_06": "KUCHA",
+    "TSG_S_06_07": "CHANGAN",
+    "TSG_S_06_08": "TALAS",
+    "TSG_A_06_01": "CHANGAN",
+    "TSG_A_06_02": "KUCHA",
+    "TSG_A_06_03": "TURFAN",
+    "TSG_A_06_04": "HEXICORRIDOR",
+    "TSG_S_07_01": "FANYANG",
+    "TSG_S_07_02": "LUOYANG",
+    "TSG_S_07_03": "CHANGAN",
+    "TSG_S_07_04": "TONGPASS",
+    "TSG_S_07_05": "LUOYANG",
+    "TSG_S_07_06": "CHANGAN",
+    "TSG_S_07_07": "HENAN",
+    "TSG_S_07_08": "CHANGAN",
+    "TSG_A_07_01": "CHANGAN",
+    "TSG_A_07_02": "LUOYANG",
+    "TSG_A_07_03": "HENAN",
+    "TSG_A_07_04": "LUOYANG",
+    "TSG_S_08_01": "CHANGAN",
+    "TSG_S_08_02": "YANGZHOU",
+    "TSG_S_08_03": "CHANGAN",
+    "TSG_S_08_04": "CHANGAN",
+    "TSG_S_08_05": "CHANGAN",
+    "TSG_S_08_06": "CHANGAN",
+    "TSG_S_08_07": "YANGZHOU",
+    "TSG_S_08_08": "HEBEI",
+    "TSG_A_08_01": "YANGZHOU",
+    "TSG_A_08_02": "CHANGAN",
+    "TSG_A_08_03": "CHANGAN",
+    "TSG_A_08_04": "CHANGAN",
+    "TSG_S_09_01": "LUOYANG",
+    "TSG_S_09_02": "KAIFENG",
+    "TSG_S_09_03": "KAIFENG",
+    "TSG_S_09_04": "JIANGNAN",
+    "TSG_S_09_05": "YANJING",
+    "TSG_S_09_06": "YANJING",
+    "TSG_S_09_07": "JIANGNAN",
+    "TSG_S_09_08": "KAIFENG",
+    "TSG_A_09_01": "JIANGNAN",
+    "TSG_A_09_02": "KAIFENG",
+    "TSG_A_09_03": "YANJING",
+    "TSG_A_09_04": "LUOYANG",
+    "TSG_S_10_01": "KAIFENG",
+    "TSG_S_10_02": "KAIFENG",
+    "TSG_S_10_03": "KAIFENG",
+    "TSG_S_10_04": "KAIFENG",
+    "TSG_S_10_05": "KAIFENG",
+    "TSG_S_10_06": "JIANGNAN",
+    "TSG_S_10_07": "YANJING",
+    "TSG_S_10_08": "YANJING",
+    "TSG_A_10_01": "KAIFENG",
+    "TSG_A_10_02": "KAIFENG",
+    "TSG_A_10_03": "YANJING",
+    "TSG_A_10_04": "BianRIVER",
+    "TSG_S_11_01": "KAIFENG",
+    "TSG_S_11_02": "KAIFENG",
+    "TSG_S_11_03": "CHENGDU",
+    "TSG_S_11_04": "HENAN",
+    "TSG_S_11_05": "KAIFENG",
+    "TSG_S_11_06": "GUANGZHOU",
+    "TSG_S_11_07": "JIANGNAN",
+    "TSG_S_11_08": "KAIFENG",
+    "TSG_A_11_01": "KAIFENG",
+    "TSG_A_11_02": "CHENGDU",
+    "TSG_A_11_03": "JIANGNAN",
+    "TSG_A_11_04": "BianRIVER"
+  },
+  "chapters": {
+    "TSG_CHAPTER_01": {
+      "title": "Тан после Тай-цзуна: империя Гао-цзуна",
+      "center": [
+        34.3416,
+        108.9398
+      ],
+      "zoom": 5
+    },
+    "TSG_CHAPTER_02": {
+      "title": "У Цзэтянь и династия Чжоу",
+      "center": [
+        34.6197,
+        112.454
+      ],
+      "zoom": 5
+    },
+    "TSG_CHAPTER_03": {
+      "title": "Чиновники, экзамены и управление империей",
+      "center": [
+        34.3416,
+        108.9398
+      ],
+      "zoom": 5
+    },
+    "TSG_CHAPTER_04": {
+      "title": "Чанъань, Лоян и международные сети",
+      "center": [
+        34.3416,
+        108.9398
+      ],
+      "zoom": 5
+    },
+    "TSG_CHAPTER_05": {
+      "title": "Буддизм, даосизм и имперское покровительство",
+      "center": [
+        34.3416,
+        108.9398
+      ],
+      "zoom": 5
+    },
+    "TSG_CHAPTER_06": {
+      "title": "Фронтиры Тан: тюрки, Тибет и военные губернаторы",
+      "center": [
+        41.7179,
+        82.962
+      ],
+      "zoom": 5
+    },
+    "TSG_CHAPTER_07": {
+      "title": "Восстание Ань Лушаня и гражданская война",
+      "center": [
+        39.9,
+        116.4
+      ],
+      "zoom": 5
+    },
+    "TSG_CHAPTER_08": {
+      "title": "Поздняя Тан: налоги, евнухи и региональные армии",
+      "center": [
+        34.3416,
+        108.9398
+      ],
+      "zoom": 5
+    },
+    "TSG_CHAPTER_09": {
+      "title": "Падение Тан и Пять династий",
+      "center": [
+        34.7973,
+        114.3076
+      ],
+      "zoom": 5
+    },
+    "TSG_CHAPTER_10": {
+      "title": "Основание Сун и власть гражданского двора",
+      "center": [
+        34.7973,
+        114.3076
+      ],
+      "zoom": 5
+    },
+    "TSG_CHAPTER_11": {
+      "title": "Города, печать и экономика ранней Сун",
+      "center": [
+        34.7973,
+        114.3076
+      ],
+      "zoom": 5
+    }
+  },
+  "missionCenter": [
+    34.5,
+    108.0
+  ],
+  "missionZoom": 4
+}

@@ -2,7 +2,7 @@
 import fs from 'node:fs';import path from 'node:path';import assert from 'node:assert/strict';import {fileURLToPath} from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));const exists=p=>fs.existsSync(path.join(root,p));
-const manifest=read('data/content-manifest.json');assert.equal(manifest.version,'8.6.0');
+const manifest=read('data/content-manifest.json');assert.equal(manifest.version,'8.7.0');
 const required=['data/cards/classical-greece/story.json','data/cards/classical-greece/archive.json','data/campaigns/classical-greece/campaign.json','data/campaigns/classical-greece/pools.json','data/lessons/classical-greece/campaign.json','data/quizzes/classical-greece/campaign.json','data/stories/classical-greece/personal.json','data/maps/classical-greece.json','assets/packs/classical-greece-pack.svg','js/features/v5-1-classical-greece.js'];
 for(const p of required)assert.ok(exists(p),`missing ${p}`);
 const story=read(required[0]),archive=read(required[1]),campaign=read(required[2]),pools=read(required[3]),lessons=read(required[4]),quizzes=read(required[5]),stories=read(required[6]),map=read(required[7]);
@@ -14,10 +14,10 @@ assert.ok(story.every(c=>c.acquisition==='STORY'));assert.ok(archive.every(c=>c.
 const allCards=manifest.datasets.cards.flatMap(read);const olderTitles=new Set(allCards.filter(c=>c.campaign!=='GREECE_CLASSICAL').map(c=>c.title.toLocaleLowerCase('ru-RU')));for(const c of [...story,...archive])assert.ok(!olderTitles.has(c.title.toLocaleLowerCase('ru-RU')),`${c.id}: duplicate old title ${c.title}`);
 const world=read('data/world/campaigns.json').find(c=>c.id==='GREECE_CLASSICAL');assert.equal(world.status,'PLAYABLE');assert.equal(world.releasedChapters,10);assert.equal(world.chapterCount,10);
 const era=read('data/world/eras.json').find(e=>e.id==='ERA_CLASSICAL');assert.ok(era.campaignIds.includes('GREECE_CLASSICAL'));
-const queries=read('data/image_queries.json');assert.equal(queries.version,'8.6.0');assert.equal(queries.count,5931);assert.equal(Object.keys(queries.cards).length,5931);assert.equal(queries.cards.CLG_S_02_01.group,'GREECE_CLASSICAL');
-const images=read('data/image_manifest.json');assert.equal(images.version,'8.6.0');assert.equal(images.count,5931);assert.equal(images.staticHistoricalImageCount,42);assert.equal(images.projectCoverCount,5889);assert.equal(images.dynamicQueryCount,5889);
+const queries=read('data/image_queries.json');assert.equal(queries.version,'8.7.0');assert.equal(queries.count,6063);assert.equal(Object.keys(queries.cards).length,6063);assert.equal(queries.cards.CLG_S_02_01.group,'GREECE_CLASSICAL');
+const images=read('data/image_manifest.json');assert.equal(images.version,'8.7.0');assert.equal(images.count,6063);assert.equal(images.staticHistoricalImageCount,42);assert.equal(images.projectCoverCount,6021);assert.equal(images.dynamicQueryCount,6021);
 const rel=read('data/core/relations.json');assert.ok(rel.some(r=>r.source==='PER_S_09_04'&&r.target==='CLG_S_01_01'));assert.ok(rel.some(r=>r.source==='PER_A_10_02'&&r.target==='CLG_A_07_03'));
-const runtime=fs.readFileSync(path.join(root,'js/features/v5-1-classical-greece.js'),'utf8');for(const token of ["const V='8.6.0'",'GREECE_CLASSICAL','classicalGreecePhase','openClassicalGreeceExamModule','assets/packs/classical-greece-pack.svg'])assert.match(runtime,new RegExp(token.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')));
+const runtime=fs.readFileSync(path.join(root,'js/features/v5-1-classical-greece.js'),'utf8');for(const token of ["const V='8.7.0'",'GREECE_CLASSICAL','classicalGreecePhase','openClassicalGreeceExamModule','assets/packs/classical-greece-pack.svg'])assert.match(runtime,new RegExp(token.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')));
 const sw=fs.readFileSync(path.join(root,'sw.js'),'utf8');assert.match(sw,/v5-1-classical-greece\.js/);assert.match(sw,/classical-greece-pack\.svg/);
 const allText=JSON.stringify({story,archive,campaign,lessons});assert.match(allText,/Афины|Спарта|Пелопоннес/i);assert.match(allText,/граждан|Делос|Фукидид/i);assert.match(allText,/источник|надпис|археолог/i);assert.ok(!allText.includes('демократия включала всех жителей'));
 console.log('✓ v5.1 Classical Greece static smoke: 10 chapters, 60 missions, 120 cards');

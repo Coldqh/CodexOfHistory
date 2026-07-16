@@ -1,0 +1,362 @@
+{
+  "points": {
+    "LUOYANG": [
+      34.68,
+      112.45
+    ],
+    "CHANGAN": [
+      34.27,
+      108.95
+    ],
+    "XUCHANG": [
+      34.03,
+      113.85
+    ],
+    "YE": [
+      36.34,
+      114.62
+    ],
+    "CHENGDU": [
+      30.67,
+      104.07
+    ],
+    "JIANYE": [
+      32.06,
+      118.79
+    ],
+    "CHIBI": [
+      29.72,
+      113.88
+    ],
+    "XIANGYANG": [
+      32.01,
+      112.12
+    ],
+    "JIANKANG": [
+      32.06,
+      118.79
+    ],
+    "JINGZHOU": [
+      30.34,
+      112.24
+    ],
+    "KUAJI": [
+      30.0,
+      120.58
+    ],
+    "GUANGZHOU": [
+      23.13,
+      113.26
+    ],
+    "PINGCHENG": [
+      40.08,
+      113.3
+    ],
+    "DATONG": [
+      40.08,
+      113.3
+    ],
+    "YUNGANG": [
+      40.11,
+      113.12
+    ],
+    "LONGMEN": [
+      34.56,
+      112.47
+    ],
+    "DUNHUANG": [
+      40.14,
+      94.66
+    ],
+    "JIUQUAN": [
+      39.73,
+      98.5
+    ],
+    "LIANGZHOU": [
+      37.93,
+      102.64
+    ],
+    "GUZANG": [
+      37.93,
+      102.64
+    ],
+    "PENGCHENG": [
+      34.26,
+      117.19
+    ],
+    "JINYANG": [
+      37.87,
+      112.55
+    ],
+    "GUANZHONG": [
+      34.35,
+      108.8
+    ],
+    "HEBEI": [
+      37.9,
+      114.5
+    ],
+    "DAXING": [
+      34.27,
+      108.95
+    ],
+    "ZHUOJUN": [
+      39.9,
+      116.4
+    ],
+    "JIANGDU": [
+      32.39,
+      119.42
+    ],
+    "HANGZHOU": [
+      30.27,
+      120.15
+    ],
+    "TAIYUAN": [
+      37.87,
+      112.55
+    ],
+    "XUANWU": [
+      34.27,
+      108.95
+    ],
+    "LIANGZHOU_WEST": [
+      37.93,
+      102.64
+    ],
+    "KOGURYO": [
+      41.15,
+      126.18
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "PHT_S_01_01": "LUOYANG",
+    "PHT_S_01_02": "XUCHANG",
+    "PHT_S_01_03": "XUCHANG",
+    "PHT_S_01_04": "CHIBI",
+    "PHT_S_01_05": "YE",
+    "PHT_S_01_06": "CHENGDU",
+    "PHT_S_01_07": "JIANYE",
+    "PHT_S_01_08": "LUOYANG",
+    "PHT_A_01_01": "CHENGDU",
+    "PHT_A_01_02": "YE",
+    "PHT_A_01_03": "JIANYE",
+    "PHT_A_01_04": "CHIBI",
+    "PHT_S_02_01": "LUOYANG",
+    "PHT_S_02_02": "JIANYE",
+    "PHT_S_02_03": "LUOYANG",
+    "PHT_S_02_04": "LUOYANG",
+    "PHT_S_02_05": "LUOYANG",
+    "PHT_S_02_06": "YE",
+    "PHT_S_02_07": "JINYANG",
+    "PHT_S_02_08": "LUOYANG",
+    "PHT_A_02_01": "LUOYANG",
+    "PHT_A_02_02": "LUOYANG",
+    "PHT_A_02_03": "LUOYANG",
+    "PHT_A_02_04": "CHANGAN",
+    "PHT_S_03_01": "JINYANG",
+    "PHT_S_03_02": "CHANGAN",
+    "PHT_S_03_03": "YE",
+    "PHT_S_03_04": "CHANGAN",
+    "PHT_S_03_05": "JIANKANG",
+    "PHT_S_03_06": "HEBEI",
+    "PHT_S_03_07": "LIANGZHOU",
+    "PHT_S_03_08": "CHANGAN",
+    "PHT_A_03_01": "JINYANG",
+    "PHT_A_03_02": "YE",
+    "PHT_A_03_03": "LIANGZHOU",
+    "PHT_A_03_04": "YE",
+    "PHT_S_04_01": "JIANKANG",
+    "PHT_S_04_02": "JIANKANG",
+    "PHT_S_04_03": "JIANKANG",
+    "PHT_S_04_04": "JIANKANG",
+    "PHT_S_04_05": "KUAJI",
+    "PHT_S_04_06": "JINGZHOU",
+    "PHT_S_04_07": "JIANKANG",
+    "PHT_S_04_08": "JIANKANG",
+    "PHT_A_04_01": "JIANKANG",
+    "PHT_A_04_02": "JIANKANG",
+    "PHT_A_04_03": "XIANGYANG",
+    "PHT_A_04_04": "JIANKANG",
+    "PHT_S_05_01": "PINGCHENG",
+    "PHT_S_05_02": "PINGCHENG",
+    "PHT_S_05_03": "PINGCHENG",
+    "PHT_S_05_04": "LIANGZHOU",
+    "PHT_S_05_05": "PINGCHENG",
+    "PHT_S_05_06": "PINGCHENG",
+    "PHT_S_05_07": "PINGCHENG",
+    "PHT_S_05_08": "HEBEI",
+    "PHT_A_05_01": "PINGCHENG",
+    "PHT_A_05_02": "DATONG",
+    "PHT_A_05_03": "YUNGANG",
+    "PHT_A_05_04": "LUOYANG",
+    "PHT_S_06_01": "CHANGAN",
+    "PHT_S_06_02": "JIANKANG",
+    "PHT_S_06_03": "JIANKANG",
+    "PHT_S_06_04": "YUNGANG",
+    "PHT_S_06_05": "LONGMEN",
+    "PHT_S_06_06": "LUOYANG",
+    "PHT_S_06_07": "CHANGAN",
+    "PHT_S_06_08": "PINGCHENG",
+    "PHT_A_06_01": "YUNGANG",
+    "PHT_A_06_02": "LONGMEN",
+    "PHT_A_06_03": "CHANGAN",
+    "PHT_A_06_04": "JIANKANG",
+    "PHT_S_07_01": "LUOYANG",
+    "PHT_S_07_02": "LUOYANG",
+    "PHT_S_07_03": "HEBEI",
+    "PHT_S_07_04": "LUOYANG",
+    "PHT_S_07_05": "LUOYANG",
+    "PHT_S_07_06": "LUOYANG",
+    "PHT_S_07_07": "LUOYANG",
+    "PHT_S_07_08": "LUOYANG",
+    "PHT_A_07_01": "LUOYANG",
+    "PHT_A_07_02": "LONGMEN",
+    "PHT_A_07_03": "LUOYANG",
+    "PHT_A_07_04": "LUOYANG",
+    "PHT_S_08_01": "JIANKANG",
+    "PHT_S_08_02": "JIANKANG",
+    "PHT_S_08_03": "JIANKANG",
+    "PHT_S_08_04": "JIANKANG",
+    "PHT_S_08_05": "YE",
+    "PHT_S_08_06": "CHANGAN",
+    "PHT_S_08_07": "JIANKANG",
+    "PHT_S_08_08": "XIANGYANG",
+    "PHT_A_08_01": "JIANKANG",
+    "PHT_A_08_02": "YE",
+    "PHT_A_08_03": "JIANKANG",
+    "PHT_A_08_04": "CHANGAN",
+    "PHT_S_09_01": "PINGCHENG",
+    "PHT_S_09_02": "PINGCHENG",
+    "PHT_S_09_03": "LUOYANG",
+    "PHT_S_09_04": "YE",
+    "PHT_S_09_05": "CHANGAN",
+    "PHT_S_09_06": "GUANZHONG",
+    "PHT_S_09_07": "CHANGAN",
+    "PHT_S_09_08": "YE",
+    "PHT_A_09_01": "JINYANG",
+    "PHT_A_09_02": "CHANGAN",
+    "PHT_A_09_03": "GUANZHONG",
+    "PHT_A_09_04": "YE",
+    "PHT_S_10_01": "DAXING",
+    "PHT_S_10_02": "JIANKANG",
+    "PHT_S_10_03": "DAXING",
+    "PHT_S_10_04": "DAXING",
+    "PHT_S_10_05": "DAXING",
+    "PHT_S_10_06": "JIANGDU",
+    "PHT_S_10_07": "JIANGDU",
+    "PHT_S_10_08": "JIANGDU",
+    "PHT_A_10_01": "DAXING",
+    "PHT_A_10_02": "JIANGDU",
+    "PHT_A_10_03": "DAXING",
+    "PHT_A_10_04": "KOGURYO",
+    "PHT_S_11_01": "TAIYUAN",
+    "PHT_S_11_02": "DAXING",
+    "PHT_S_11_03": "DAXING",
+    "PHT_S_11_04": "XUANWU",
+    "PHT_S_11_05": "DAXING",
+    "PHT_S_11_06": "DAXING",
+    "PHT_S_11_07": "LIANGZHOU_WEST",
+    "PHT_S_11_08": "DAXING",
+    "PHT_A_11_01": "DAXING",
+    "PHT_A_11_02": "DAXING",
+    "PHT_A_11_03": "DAXING",
+    "PHT_A_11_04": "DUNHUANG"
+  },
+  "chapters": {
+    "PHT_CHAPTER_01": {
+      "title": "Падение Хань и Троецарствие",
+      "center": [
+        34.03,
+        113.85
+      ],
+      "zoom": 6
+    },
+    "PHT_CHAPTER_02": {
+      "title": "Западная Цзинь и война восьми князей",
+      "center": [
+        34.68,
+        112.45
+      ],
+      "zoom": 6
+    },
+    "PHT_CHAPTER_03": {
+      "title": "Падение северных столиц и Шестнадцать государств",
+      "center": [
+        34.68,
+        112.45
+      ],
+      "zoom": 6
+    },
+    "PHT_CHAPTER_04": {
+      "title": "Восточная Цзинь и южный аристократический порядок",
+      "center": [
+        32.06,
+        118.79
+      ],
+      "zoom": 6
+    },
+    "PHT_CHAPTER_05": {
+      "title": "Северная Вэй и объединение севера",
+      "center": [
+        40.08,
+        113.3
+      ],
+      "zoom": 6
+    },
+    "PHT_CHAPTER_06": {
+      "title": "Буддизм, переводы и пещерные храмы",
+      "center": [
+        34.27,
+        108.95
+      ],
+      "zoom": 6
+    },
+    "PHT_CHAPTER_07": {
+      "title": "Реформы Сяовэня и перенос столицы в Лоян",
+      "center": [
+        40.08,
+        113.3
+      ],
+      "zoom": 6
+    },
+    "PHT_CHAPTER_08": {
+      "title": "Северные и Южные династии",
+      "center": [
+        32.06,
+        118.79
+      ],
+      "zoom": 6
+    },
+    "PHT_CHAPTER_09": {
+      "title": "Гарнизонные восстания и новые северные государства",
+      "center": [
+        40.08,
+        113.3
+      ],
+      "zoom": 6
+    },
+    "PHT_CHAPTER_10": {
+      "title": "Суй: объединение и имперская инфраструктура",
+      "center": [
+        34.27,
+        108.95
+      ],
+      "zoom": 6
+    },
+    "PHT_CHAPTER_11": {
+      "title": "Возникновение Тан",
+      "center": [
+        37.87,
+        112.55
+      ],
+      "zoom": 6
+    }
+  },
+  "missionCenter": [
+    34.5,
+    112.0
+  ],
+  "missionZoom": 4
+}

@@ -1,6 +1,6 @@
-/* Codex v7.4.0 — Hittites and Anatolia */
+/* Codex v7.5.0 — Hittites and Anatolia */
 (()=>{
-  const V='7.4.0';
+  const V='7.5.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.HITTITES='HITTITES';
   state.hittitePhase=state.hittitePhase||'ORIGINS';

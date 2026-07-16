@@ -2,7 +2,7 @@
 import fs from 'node:fs';import path from 'node:path';import assert from 'node:assert/strict';import {fileURLToPath} from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));const exists=p=>fs.existsSync(path.join(root,p));
-const manifest=read('data/content-manifest.json');assert.equal(manifest.version,'7.4.0');
+const manifest=read('data/content-manifest.json');assert.equal(manifest.version,'7.5.0');
 const required=['data/cards/phoenicians/story.json','data/cards/phoenicians/archive.json','data/campaigns/phoenicians/campaign.json','data/campaigns/phoenicians/pools.json','data/lessons/phoenicians/campaign.json','data/quizzes/phoenicians/campaign.json','data/stories/phoenicians/personal.json','data/maps/phoenicians.json','assets/packs/phoenicians-pack.svg','js/features/v4-1-phoenicians.js'];
 for(const p of required)assert.ok(exists(p),`missing ${p}`);
 const story=read('data/cards/phoenicians/story.json'),archive=read('data/cards/phoenicians/archive.json'),campaign=read('data/campaigns/phoenicians/campaign.json'),pools=read('data/campaigns/phoenicians/pools.json'),lessons=read('data/lessons/phoenicians/campaign.json'),quizzes=read('data/quizzes/phoenicians/campaign.json'),stories=read('data/stories/phoenicians/personal.json'),map=read('data/maps/phoenicians.json');
@@ -13,9 +13,9 @@ for(const c of [...story,...archive]){assert.ok(exists(c.image.local),`${c.id}: 
 assert.ok(story.every(c=>c.acquisition==='STORY'));assert.ok(archive.every(c=>c.acquisition==='ARCHIVE'));
 const world=read('data/world/campaigns.json').find(c=>c.id==='PHOENICIANS');assert.equal(world.status,'PLAYABLE');assert.equal(world.releasedChapters,10);assert.equal(world.chapterCount,10);
 const era=read('data/world/eras.json').find(e=>e.id==='ERA_IRON');assert.ok(era.campaignIds.includes('PHOENICIANS'));
-const queries=read('data/image_queries.json');assert.equal(queries.version,'7.4.0');assert.equal(queries.count,4503);assert.equal(Object.keys(queries.cards).length,4503);assert.equal(queries.cards.PHO_S_03_01.group,'PHOENICIANS');
-const images=read('data/image_manifest.json');assert.equal(images.version,'7.4.0');assert.equal(images.count,4503);assert.equal(images.staticHistoricalImageCount,42);assert.equal(images.projectCoverCount,4461);assert.equal(images.dynamicQueryCount,4461);
+const queries=read('data/image_queries.json');assert.equal(queries.version,'7.5.0');assert.equal(queries.count,4635);assert.equal(Object.keys(queries.cards).length,4635);assert.equal(queries.cards.PHO_S_03_01.group,'PHOENICIANS');
+const images=read('data/image_manifest.json');assert.equal(images.version,'7.5.0');assert.equal(images.count,4635);assert.equal(images.staticHistoricalImageCount,42);assert.equal(images.projectCoverCount,4593);assert.equal(images.dynamicQueryCount,4593);
 const rel=read('data/core/relations.json');assert.ok(rel.some(r=>r.source==='COL_S_10_06'&&r.target==='PHO_S_01_01'));assert.ok(rel.some(r=>r.source==='INT_S_08_02'&&r.target==='PHO_S_04_08'));
-const runtime=fs.readFileSync(path.join(root,'js/features/v4-1-phoenicians.js'),'utf8');for(const token of ["const V='7.4.0'",'PHOENICIANS','assyria-phases','openPhoeniciaExamModule','assets/packs/phoenicians-pack.svg'])assert.match(runtime,new RegExp(token.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')));
+const runtime=fs.readFileSync(path.join(root,'js/features/v4-1-phoenicians.js'),'utf8');for(const token of ["const V='7.5.0'",'PHOENICIANS','assyria-phases','openPhoeniciaExamModule','assets/packs/phoenicians-pack.svg'])assert.match(runtime,new RegExp(token.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')));
 const sw=fs.readFileSync(path.join(root,'sw.js'),'utf8');assert.match(sw,/v4-1-phoenicians\.js/);assert.match(sw,/phoenicians-pack\.svg/);
 console.log('✓ v4.1 Phoenicians and western Mediterranean static smoke: 10 chapters, 60 missions, 120 cards');

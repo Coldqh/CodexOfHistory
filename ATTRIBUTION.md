@@ -374,3 +374,7 @@
 ## v7.4 — Индия от Кушанов до Гуптов
 
 Локальные SVG-обложки 132 карточек и обложка пака созданы для Codex of History. Учебная основа: Metropolitan Museum of Art, UNESCO Sanchi, Ajanta и Nalanda, British Museum, Archaeological Survey of India, American Numismatic Society и исследования по Кушанам, Сатаваханам, Гуптам, индийской математике и торговле Индийского океана.
+
+## v7.5 — Китай между Хань и Тан
+
+Локальные SVG-обложки 132 карточек и обложка пака созданы для Codex of History. Учебная основа: UNESCO Yungang и Longmen, Metropolitan Museum of Art, British Museum, Smithsonian National Museum of Asian Art, International Dunhuang Programme, Chinese Text Project и исследования по Троецарствию, Северной Вэй, династиям Суй и ранней Тан.

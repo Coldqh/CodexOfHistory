@@ -1,6 +1,6 @@
-/* Codex v7.4.0 — India from Kushans to Guptas */
+/* Codex v7.5.0 — India from Kushans to Guptas */
 (()=>{
-  const V='7.4.0';
+  const V='7.5.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.GUPTA='GUPTA';
   state.indiaGuptaPhase=state.indiaGuptaPhase||'POST_MAURYA';

@@ -1,5 +1,5 @@
 {
-  "version": "6.9.0",
+  "version": "6.9.1",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -366,6 +366,7 @@
     "js/features/v6-7-hellenistic-roman-world.js",
     "js/features/v6-8-late-roman.js",
     "js/features/v6-9-late-religions.js",
+    "js/features/v6-9-1-stability.js",
     "js/features/v3-1-1-hotfix.js",
     "js/features/v3-1-3-visual-semantics.js",
     "js/core/start.js"

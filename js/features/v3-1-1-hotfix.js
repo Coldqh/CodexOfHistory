@@ -1,6 +1,6 @@
-/* Codex v6.9.0 — starter campaign and image-state hotfix */
+/* Codex v6.9.1 — starter campaign and image-state hotfix */
 (()=>{
-  const V='6.9.0';
+  const V='6.9.1';
   window.CODEX_VERSION=V;
   const LEGACY_ROME_STARTERS=['PER_ROM_001','PER_ROM_005','EVT_ROM_001'];
 
@@ -67,6 +67,8 @@
     if(!confirm('Сбросить весь локальный прогресс?'))return;
     const theme=state.theme==='parchment'?'parchment':'night';
     localStorage.removeItem(STORE);
+    localStorage.removeItem('codex_history_save_backup_v1');
+    localStorage.removeItem('codex_history_save_previous_v1');
     state={
       ...initial,theme,unlocked:[],discovered:[],read:[],quizResults:{},quizDone:[],missionsCompleted:[],
       mapTasks:{},timelineTasks:{},masteryChecks:{},reviewSchedule:{},fragments:0,packHistory:[],dailyPackDate:null,

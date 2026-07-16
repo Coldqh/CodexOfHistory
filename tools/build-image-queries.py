@@ -8,7 +8,7 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "6.9.0"
+VERSION = "6.9.1"
 
 GROUP_CONTEXT = {
     "ROME": {

@@ -1470,3 +1470,10 @@ body.onboarding-active{overflow-x:hidden}.onboarding-v26{position:relative;min-h
 .assyria-exam header{border-color:rgba(196,155,98,.28)}
 @media(max-width:900px){.assyria-phases{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:760px){.assyria-seal{min-width:150px;min-height:150px}.assyria-seal span{font-size:58px}.assyria-phases{grid-template-columns:1fr}.assyria-phases button{padding:12px 14px}}
+
+
+/* v6.9.1 — bounded collection rendering */
+.collection-load-more{display:flex;align-items:center;justify-content:center;gap:14px;flex-wrap:wrap;padding:22px 0 8px;text-align:center}
+.collection-load-more small{color:var(--muted);font-size:12px;letter-spacing:.04em}
+.collection-load-more .btn{min-width:190px}
+@media(max-width:640px){.collection-load-more{padding:16px 0 4px}.collection-load-more .btn{width:100%}}

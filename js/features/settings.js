@@ -20,6 +20,7 @@ function preferenceButton(key,value,label,sub=''){
 }
 async function forceRefresh(ask=true){
   if(ask&&!confirm('Принудительно загрузить свежую версию Codex? Прогресс останется на месте.'))return;
+  save();
   preferences.lastForcedRefresh=new Date().toISOString();savePreferences();
   showToast('Обновляем Codex','Очищаем кэш и загружаем свежие файлы','↻');
   try{
@@ -44,7 +45,10 @@ async function importSave(event){
     const payload=JSON.parse(await file.text());const progress=payload.progress||payload;
     if(!progress||typeof progress!=='object'||!Array.isArray(progress.unlocked))throw new Error('Не найдено корректное сохранение');
     if(!confirm('Заменить текущий прогресс данными из файла?'))return;
-    localStorage.setItem(STORE,JSON.stringify(progress));
+    const imported={...progress,_saveMeta:{schema:1,appVersion:appVersion(),updatedAt:Date.now(),imported:true}};
+    const importedJson=JSON.stringify(imported);
+    localStorage.setItem(STORE,importedJson);
+    localStorage.setItem('codex_history_save_backup_v1',importedJson);
     if(payload.preferences&&typeof payload.preferences==='object')localStorage.setItem(PREF_STORE,JSON.stringify({...DEFAULT_PREFERENCES,...payload.preferences}));
     sessionStorage.setItem('codex_force_refresh',String(Date.now()));location.reload();
   }catch(error){showToast('Импорт не выполнен',error.message||'Файл повреждён','!');}

@@ -2,6 +2,11 @@
 state.collectionView = state.collectionView === 'CATALOG' ? 'CATALOG' : 'ARCHIVE';
 const CATALOG_SCOPES = ['ALL','OWNED','OPEN_POOLS','FUTURE','STORY','ARCHIVE'];
 state.catalogScope = CATALOG_SCOPES.includes(state.catalogScope) ? state.catalogScope : 'ALL';
+const COLLECTION_BATCH_SIZE=48;
+state.collectionLimit=COLLECTION_BATCH_SIZE;
+function resetCollectionLimit(){state.collectionLimit=COLLECTION_BATCH_SIZE;}
+function collectionWindow(list){const limit=Math.max(COLLECTION_BATCH_SIZE,Number(state.collectionLimit)||COLLECTION_BATCH_SIZE);return {visible:list.slice(0,limit),total:list.length,hasMore:list.length>limit};}
+function loadMoreCollection(){state.collectionLimit=Math.min(CARDS.length,(Number(state.collectionLimit)||COLLECTION_BATCH_SIZE)+COLLECTION_BATCH_SIZE);save();render();}
 PAGE_META.collection=['Библиотека','Архив и полный каталог'];
 
 function ownedCards(){ return CARDS.filter(c=>isUnlocked(c.id)); }
@@ -11,6 +16,7 @@ function setCollectionView(view){
   state.collectionView=view;
   state.collectionMode='ALL';
   state.masteryFilter='ALL';
+  resetCollectionLimit();
   save();render();
 }
 function setCatalogScope(scope){
@@ -21,7 +27,21 @@ function setCatalogScope(scope){
   state.filter='ALL';
   state.rarity='ALL';
   state.masteryFilter='ALL';
+  resetCollectionLimit();
   save();render();
+}
+const V691_go=go;
+go=function(tab){if(tab==='collection'&&state.tab!=='collection')resetCollectionLimit();return V691_go(tab);};
+const V691_setCollectionMode=setCollectionMode;
+setCollectionMode=function(mode){resetCollectionLimit();return V691_setCollectionMode(mode);};
+const V691_setFilter=setFilter;
+setFilter=function(key,value){resetCollectionLimit();return V691_setFilter(key,value);};
+const V691_updateSearch=updateSearch;
+updateSearch=function(el){resetCollectionLimit();return V691_updateSearch(el);};
+function collectionMoreButton(windowed){
+  if(!windowed.hasMore)return '';
+  const next=Math.min(COLLECTION_BATCH_SIZE,windowed.total-windowed.visible.length);
+  return `<div class="collection-load-more"><small>Показано ${windowed.visible.length} из ${windowed.total}</small><button class="btn secondary" onclick="loadMoreCollection()">Показать ещё ${next}</button></div>`;
 }
 function openCatalogCard(id){
   const c=card(id); if(!c)return;
@@ -97,14 +117,14 @@ function commonSearchControls(placeholder,withMastery=false){
 collection=function(){
   if(state.collectionView==='CATALOG'){
     const scopes=[['ALL','Все карты'],['OWNED','Полученные'],['OPEN_POOLS','Доступные сейчас'],['FUTURE','Будущие этапы'],['STORY','Сюжетные'],['ARCHIVE','Архивные']];
-    const list=catalogCardsForScope();
-    const cardsHtml=list.length?list.map(catalogCard).join(''):'<div class="empty">В выбранном разделе карточек нет.</div>';
+    const list=catalogCardsForScope(),windowed=collectionWindow(list);
+    const cardsHtml=windowed.visible.length?windowed.visible.map(catalogCard).join(''):'<div class="empty">В выбранном разделе карточек нет.</div>';
     return shell(`<section class="collection-header reveal"><div><div class="eyebrow">Полный исторический каталог</div><h2>Коллекция всех карточек</h2><p>Здесь виден весь контент проекта. Закрытые карты показывают способ получения и этап, но не раскрывают досье, факты и связи раньше времени.</p></div><div class="collection-actions"><div class="collection-count">${list.length}/${CARDS.length}</div><button class="btn" onclick="openPackHub()">✦ Паки · ◇ ${state.fragments}</button></div></section>
       ${librarySwitch()}
       <div class="collection-tabs catalog-tabs reveal">${scopes.map(([id,label])=>`<button class="${state.catalogScope===id?'active':''}" onclick="setCatalogScope('${id}')">${label}</button>`).join('')}</div>
       ${commonSearchControls('Найти карточку в полном каталоге...')}
       <section class="catalog-summary reveal"><div><b>${ownedCards().length}</b><span>получено</span></div><div><b>${availablePackCards().length}</b><span>может выпасть сейчас</span></div><div><b>${catalogLockedCount()}</b><span>ещё не получено</span></div></section>
-      <div class="catalog-grid reveal">${cardsHtml}</div>`);
+      <div class="catalog-grid reveal">${cardsHtml}</div>${collectionMoreButton(windowed)}`);
   }
 
   const modes=[['ALL','Все полученные'],['STORY','Сюжетные'],['ARCHIVE','Из паков'],['STORIES','Личные истории'],['MASTERED','Закреплённые']];
@@ -117,13 +137,14 @@ collection=function(){
     if(state.collectionMode==='MASTERED')allowed=mastery.key==='CONSOLIDATED';
     return allowed&&(state.masteryFilter==='ALL'||mastery.key===state.masteryFilter)&&cardMatchesFilters(c);
   });
-  const archiveCards=list.length?list.map(renderMiniCard).join(''):`<div class="empty archive-empty"><i>▦</i><h3>В этом разделе пока пусто</h3><p>Получи карту в сюжете, из пака или за фрагменты. Закрытые карты находятся только во вкладке «Коллекция».</p><button class="btn" onclick="setCollectionView('CATALOG')">Открыть полный каталог</button></div>`;
+  const windowed=collectionWindow(list);
+  const archiveCards=windowed.visible.length?windowed.visible.map(renderMiniCard).join(''):`<div class="empty archive-empty"><i>▦</i><h3>В этом разделе пока пусто</h3><p>Получи карту в сюжете, из пака или за фрагменты. Закрытые карты находятся только во вкладке «Коллекция».</p><button class="btn" onclick="setCollectionView('CATALOG')">Открыть полный каталог</button></div>`;
   return shell(`<section class="collection-header reveal"><div><div class="eyebrow">Личный архив</div><h2>Только полученные карточки</h2><p>Архив больше не показывает закрытые силуэты. Здесь лежат только карты, которые ты реально открыл в кампании, получил из пака или собрал за фрагменты.</p></div><div class="collection-actions"><div class="collection-count">${list.length} в разделе</div><button class="btn" onclick="openPackHub()">✦ Паки · ◇ ${state.fragments}</button></div></section>
     ${librarySwitch()}
     <div class="collection-tabs reveal">${modes.map(([id,label])=>`<button class="${state.collectionMode===id?'active':''}" onclick="setCollectionMode('${id}')">${label}</button>`).join('')}</div>
     <section class="mastery-overview reveal"><div class="mastery-total"><div class="mastery-big-ring" style="--mastery:${averageMastery()}"><strong>${averageMastery()}%</strong><span>освоение доступной истории</span></div></div><div class="mastery-stages">${MASTERY_FILTERS.slice(2).map(k=>{const meta=MASTERY_META[k];const count=ownedCards().filter(c=>masteryInfo(c.id).key===k).length;return `<button class="mastery-stage ${state.masteryFilter===k?'active':''}" onclick="setFilter('masteryFilter','${state.masteryFilter===k?'ALL':k}')"><i>${meta.icon}</i><b>${count}</b><span>${meta.label}</span></button>`;}).join('')}</div></section>
     ${commonSearchControls('Поиск в личном архиве...',true)}
-    <div class="card-grid reveal">${archiveCards}</div>`);
+    <div class="card-grid reveal">${archiveCards}</div>${collectionMoreButton(windowed)}`);
 };
 
 const V10_PREVIOUS_DETAIL=detail;

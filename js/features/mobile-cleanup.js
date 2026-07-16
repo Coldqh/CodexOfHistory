@@ -61,8 +61,8 @@ collection=function(){
   const top=`<section class="collection-header compact-collection-head reveal"><div><div class="eyebrow">${state.collectionView==='ARCHIVE'?'Личный архив':'Полный каталог'}</div><h2>${state.collectionView==='ARCHIVE'?'Архив':'Коллекция'}</h2></div><div class="collection-head-tools">${libraryMiniSwitch()}<button class="mini-pack-button" onclick="openPackHub()">✦ ${state.fragments} ◇</button></div></section>`;
   if(state.collectionView==='CATALOG'){
     const scopes=[['ALL','Все'],['OWNED','Полученные'],['OPEN_POOLS','Доступные'],['FUTURE','Будущие'],['STORY','Сюжет'],['ARCHIVE','Архивные']];
-    const list=catalogCardsForScope();
-    return shell(`${top}<div class="compact-chip-row reveal">${scopes.map(([id,label])=>`<button class="${state.catalogScope===id?'active':''}" onclick="setCatalogScope('${id}')">${label}</button>`).join('')}<span>${list.length}/${CARDS.length}</span></div>${compactFilterControls('Поиск по коллекции...')}<div class="catalog-grid reveal">${list.length?list.map(catalogCard).join(''):'<div class="empty">Карточек по этим фильтрам нет.</div>'}</div>`);
+    const list=catalogCardsForScope(),windowed=collectionWindow(list);
+    return shell(`${top}<div class="compact-chip-row reveal">${scopes.map(([id,label])=>`<button class="${state.catalogScope===id?'active':''}" onclick="setCatalogScope('${id}')">${label}</button>`).join('')}<span>${windowed.visible.length}/${list.length}</span></div>${compactFilterControls('Поиск по коллекции...')}<div class="catalog-grid reveal">${windowed.visible.length?windowed.visible.map(catalogCard).join(''):'<div class="empty">Карточек по этим фильтрам нет.</div>'}</div>${collectionMoreButton(windowed)}`);
   }
   const modes=[['ALL','Все'],['STORY','Сюжет'],['ARCHIVE','Из паков'],['STORIES','Истории'],['MASTERED','Закреплены']];
   const list=ownedCards().filter(c=>{
@@ -73,8 +73,9 @@ collection=function(){
     if(state.collectionMode==='MASTERED')allowed=mastery.key==='CONSOLIDATED';
     return allowed&&(state.masteryFilter==='ALL'||mastery.key===state.masteryFilter)&&cardMatchesFilters(c);
   });
-  const body=list.length?list.map(renderMiniCard).join(''):`<div class="empty archive-empty"><i>▦</i><h3>Здесь пока пусто</h3><button class="btn" onclick="setCollectionView('CATALOG')">Открыть коллекцию</button></div>`;
-  return shell(`${top}<div class="compact-chip-row reveal">${modes.map(([id,label])=>`<button class="${state.collectionMode===id?'active':''}" onclick="setCollectionMode('${id}')">${label}</button>`).join('')}<span>${list.length}</span></div>${compactFilterControls('Поиск в архиве...',true)}<div class="card-grid reveal">${body}</div>`);
+  const windowed=collectionWindow(list);
+  const body=windowed.visible.length?windowed.visible.map(renderMiniCard).join(''):`<div class="empty archive-empty"><i>▦</i><h3>Здесь пока пусто</h3><button class="btn" onclick="setCollectionView('CATALOG')">Открыть коллекцию</button></div>`;
+  return shell(`${top}<div class="compact-chip-row reveal">${modes.map(([id,label])=>`<button class="${state.collectionMode===id?'active':''}" onclick="setCollectionMode('${id}')">${label}</button>`).join('')}<span>${windowed.visible.length}/${list.length}</span></div>${compactFilterControls('Поиск в архиве...',true)}<div class="card-grid reveal">${body}</div>${collectionMoreButton(windowed)}`);
 };
 
 mapScreen=function(){

@@ -1,6 +1,6 @@
-/* Codex v8.5.0 — Hellenistic world */
+/* Codex v8.6.0 — Hellenistic world */
 (()=>{
-  const V='8.5.0';
+  const V='8.6.0';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.HELLENISTIC='HELLENISTIC';
   state.hellenisticPhase=state.hellenisticPhase||'SUCCESSORS';

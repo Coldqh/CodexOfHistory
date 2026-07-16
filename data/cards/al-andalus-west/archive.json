@@ -1,0 +1,2834 @@
+[
+  {
+    "id": "ADW_A_01_01",
+    "type": "TEXT",
+    "title": "Латинская хроника 754 года",
+    "original": "Латинская хроника 754 года",
+    "subtitle": "современный событиям христианский текст использует собственные политические и религиозные категории",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "754 год",
+    "rarity": "UNCOMMON",
+    "difficulty": 15,
+    "summary": "Латинская хроника 754 года — современный событиям христианский текст использует собственные политические и религиозные категории.",
+    "importance": "Архивная карточка углубляет главу «Завоевание Иберии и провинция аль-Андалус» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: 754 год.",
+      "Основной смысл: современный событиям христианский текст использует собственные политические и религиозные категории.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Завоевание Иберии и провинция аль-Андалус",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Толедо",
+      "lat": 39.8628,
+      "lon": -4.0273
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-01/adw_a_01_01.svg",
+      "caption": "Локальная учебная обложка: Латинская хроника 754 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_01_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Umayyad Period in Spain (711–1031)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_01"
+  },
+  {
+    "id": "ADW_A_01_02",
+    "type": "TEXT",
+    "title": "Поздняя арабская традиция о Тарике",
+    "original": "Поздняя арабская традиция о Тарике",
+    "subtitle": "рассказы записаны позже и требуют сопоставления с ранними свидетельствами",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "IX–XI века",
+    "rarity": "RARE",
+    "difficulty": 15,
+    "summary": "Поздняя арабская традиция о Тарике — рассказы записаны позже и требуют сопоставления с ранними свидетельствами.",
+    "importance": "Архивная карточка углубляет главу «Завоевание Иберии и провинция аль-Андалус» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–XI века.",
+      "Основной смысл: рассказы записаны позже и требуют сопоставления с ранними свидетельствами.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Завоевание Иберии и провинция аль-Андалус",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 6,
+      "culture": 9,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Кордова",
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-01/adw_a_01_02.svg",
+      "caption": "Локальная учебная обложка: Поздняя арабская традиция о Тарике",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_01_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Umayyad Period in Spain (711–1031)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_01"
+  },
+  {
+    "id": "ADW_A_01_03",
+    "type": "COIN",
+    "title": "Монета переходного времени в Иберии",
+    "original": "Монета переходного времени в Иберии",
+    "subtitle": "легенды и металл показывают постепенную смену имперских знаков",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "VIII век",
+    "rarity": "EPIC",
+    "difficulty": 15,
+    "summary": "Монета переходного времени в Иберии — легенды и металл показывают постепенную смену имперских знаков.",
+    "importance": "Архивная карточка углубляет главу «Завоевание Иберии и провинция аль-Андалус» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII век.",
+      "Основной смысл: легенды и металл показывают постепенную смену имперских знаков.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Завоевание Иберии и провинция аль-Андалус",
+      "coin"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 6,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мерида",
+      "lat": 38.9161,
+      "lon": -6.3437
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-01/adw_a_01_03.svg",
+      "caption": "Локальная учебная обложка: Монета переходного времени в Иберии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_01_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Umayyad Period in Spain (711–1031)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_01"
+  },
+  {
+    "id": "ADW_A_01_04",
+    "type": "MAP",
+    "title": "Карта ранних договоров и гарнизонов",
+    "original": "Карта ранних договоров и гарнизонов",
+    "subtitle": "границы провинции менялись и не совпадали с устойчивым контролем на местах",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "VIII век",
+    "rarity": "LEGENDARY",
+    "difficulty": 15,
+    "summary": "Карта ранних договоров и гарнизонов — границы провинции менялись и не совпадали с устойчивым контролем на местах.",
+    "importance": "Архивная карточка углубляет главу «Завоевание Иберии и провинция аль-Андалус» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII век.",
+      "Основной смысл: границы провинции менялись и не совпадали с устойчивым контролем на местах.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Завоевание Иберии и провинция аль-Андалус",
+      "map"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 7,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Кордова",
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-01/adw_a_01_04.svg",
+      "caption": "Локальная учебная обложка: Карта ранних договоров и гарнизонов",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_01_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Umayyad Period in Spain (711–1031)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_01"
+  },
+  {
+    "id": "ADW_A_02_01",
+    "type": "ARCHITECTURE",
+    "title": "Фрагмент ранней мечети Кордовы",
+    "original": "Фрагмент ранней мечети Кордовы",
+    "subtitle": "колонны и двойные арки демонстрируют переработку местных и восточных строительных практик",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "VIII век",
+    "rarity": "UNCOMMON",
+    "difficulty": 15,
+    "summary": "Фрагмент ранней мечети Кордовы — колонны и двойные арки демонстрируют переработку местных и восточных строительных практик.",
+    "importance": "Архивная карточка углубляет главу «Абд ар-Рахман I и независимый эмират» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII век.",
+      "Основной смысл: колонны и двойные арки демонстрируют переработку местных и восточных строительных практик.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Абд ар-Рахман I и независимый эмират",
+      "architecture"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Кордова",
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-02/adw_a_02_01.svg",
+      "caption": "Локальная учебная обложка: Фрагмент ранней мечети Кордовы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_02_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Umayyad Period in Spain (711–1031)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_02"
+  },
+  {
+    "id": "ADW_A_02_02",
+    "type": "COIN",
+    "title": "Дирхам Абд ар-Рахмана I",
+    "original": "Дирхам Абд ар-Рахмана I",
+    "subtitle": "эпиграфика и вес связывают западный выпуск с общим исламским денежным языком",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "VIII век",
+    "rarity": "RARE",
+    "difficulty": 15,
+    "summary": "Дирхам Абд ар-Рахмана I — эпиграфика и вес связывают западный выпуск с общим исламским денежным языком.",
+    "importance": "Архивная карточка углубляет главу «Абд ар-Рахман I и независимый эмират» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII век.",
+      "Основной смысл: эпиграфика и вес связывают западный выпуск с общим исламским денежным языком.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Абд ар-Рахман I и независимый эмират",
+      "coin"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 7,
+      "culture": 6,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кордова",
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-02/adw_a_02_02.svg",
+      "caption": "Локальная учебная обложка: Дирхам Абд ар-Рахмана I",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_02_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Umayyad Period in Spain (711–1031)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_02"
+  },
+  {
+    "id": "ADW_A_02_03",
+    "type": "TEXT",
+    "title": "Поздняя биография омейядского эмира",
+    "original": "Поздняя биография омейядского эмира",
+    "subtitle": "династическая память подчёркивает чудесное спасение и законность правителя",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "X век",
+    "rarity": "EPIC",
+    "difficulty": 15,
+    "summary": "Поздняя биография омейядского эмира — династическая память подчёркивает чудесное спасение и законность правителя.",
+    "importance": "Архивная карточка углубляет главу «Абд ар-Рахман I и независимый эмират» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X век.",
+      "Основной смысл: династическая память подчёркивает чудесное спасение и законность правителя.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Абд ар-Рахман I и независимый эмират",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 8,
+      "culture": 7,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Кордова",
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-02/adw_a_02_03.svg",
+      "caption": "Локальная учебная обложка: Поздняя биография омейядского эмира",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_02_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Umayyad Period in Spain (711–1031)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_02"
+  },
+  {
+    "id": "ADW_A_02_04",
+    "type": "MAP",
+    "title": "Карта опорных городов раннего эмирата",
+    "original": "Карта опорных городов раннего эмирата",
+    "subtitle": "власть столицы была сильнее в одних регионах и слабее в других",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "VIII век",
+    "rarity": "LEGENDARY",
+    "difficulty": 15,
+    "summary": "Карта опорных городов раннего эмирата — власть столицы была сильнее в одних регионах и слабее в других.",
+    "importance": "Архивная карточка углубляет главу «Абд ар-Рахман I и независимый эмират» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII век.",
+      "Основной смысл: власть столицы была сильнее в одних регионах и слабее в других.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Абд ар-Рахман I и независимый эмират",
+      "map"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 8,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Севилья",
+      "lat": 37.3891,
+      "lon": -5.9845
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-02/adw_a_02_04.svg",
+      "caption": "Локальная учебная обложка: Карта опорных городов раннего эмирата",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_02_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Umayyad Period in Spain (711–1031)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_02"
+  },
+  {
+    "id": "ADW_A_03_01",
+    "type": "TEXT",
+    "title": "Анналы франков о походе 778 года",
+    "original": "Анналы франков о походе 778 года",
+    "subtitle": "дворцовый текст объясняет неудачу в интересах Каролингов",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "VIII–IX века",
+    "rarity": "UNCOMMON",
+    "difficulty": 15,
+    "summary": "Анналы франков о походе 778 года — дворцовый текст объясняет неудачу в интересах Каролингов.",
+    "importance": "Архивная карточка углубляет главу «Пограничные марки и христианский север» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–IX века.",
+      "Основной смысл: дворцовый текст объясняет неудачу в интересах Каролингов.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Пограничные марки и христианский север",
+      "text"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 6,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Барселона",
+      "lat": 41.3874,
+      "lon": 2.1686
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-03/adw_a_03_01.svg",
+      "caption": "Локальная учебная обложка: Анналы франков о походе 778 года",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/sbook1i.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_03_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Internet Medieval Sourcebook: Muslim Spain",
+      "url": "https://sourcebooks.fordham.edu/sbook1i.asp",
+      "type": "primary-source-index"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_03"
+  },
+  {
+    "id": "ADW_A_03_02",
+    "type": "TEXT",
+    "title": "Арабская хроника Бану Каси",
+    "original": "Арабская хроника Бану Каси",
+    "subtitle": "поздняя компиляция сохраняет сведения о локальной политике и родственных связях",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "IX–X века",
+    "rarity": "RARE",
+    "difficulty": 15,
+    "summary": "Арабская хроника Бану Каси — поздняя компиляция сохраняет сведения о локальной политике и родственных связях.",
+    "importance": "Архивная карточка углубляет главу «Пограничные марки и христианский север» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: поздняя компиляция сохраняет сведения о локальной политике и родственных связях.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Пограничные марки и христианский север",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 8,
+      "culture": 7,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Сарагоса",
+      "lat": 41.6488,
+      "lon": -0.8891
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-03/adw_a_03_02.svg",
+      "caption": "Локальная учебная обложка: Арабская хроника Бану Каси",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/sbook1i.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_03_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Internet Medieval Sourcebook: Muslim Spain",
+      "url": "https://sourcebooks.fordham.edu/sbook1i.asp",
+      "type": "primary-source-index"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_03"
+  },
+  {
+    "id": "ADW_A_03_03",
+    "type": "COIN",
+    "title": "Пограничный клад серебряных монет",
+    "original": "Пограничный клад серебряных монет",
+    "subtitle": "состав клада показывает движение денег через политические рубежи",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "IX век",
+    "rarity": "EPIC",
+    "difficulty": 15,
+    "summary": "Пограничный клад серебряных монет — состав клада показывает движение денег через политические рубежи.",
+    "importance": "Архивная карточка углубляет главу «Пограничные марки и христианский север» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: состав клада показывает движение денег через политические рубежи.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Пограничные марки и христианский север",
+      "coin"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 3,
+      "culture": 8,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "долина Эбро",
+      "lat": 41.7,
+      "lon": -1.0
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-03/adw_a_03_03.svg",
+      "caption": "Локальная учебная обложка: Пограничный клад серебряных монет",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/sbook1i.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_03_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Internet Medieval Sourcebook: Muslim Spain",
+      "url": "https://sourcebooks.fordham.edu/sbook1i.asp",
+      "type": "primary-source-index"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_03"
+  },
+  {
+    "id": "ADW_A_03_04",
+    "type": "MAP",
+    "title": "Карта крепостей Верхней марки",
+    "original": "Карта крепостей Верхней марки",
+    "subtitle": "сеть опорных точек важнее условной сплошной границы",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "IX–X века",
+    "rarity": "LEGENDARY",
+    "difficulty": 15,
+    "summary": "Карта крепостей Верхней марки — сеть опорных точек важнее условной сплошной границы.",
+    "importance": "Архивная карточка углубляет главу «Пограничные марки и христианский север» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: сеть опорных точек важнее условной сплошной границы.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Пограничные марки и христианский север",
+      "map"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 5,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Сарагоса",
+      "lat": 41.6488,
+      "lon": -0.8891
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-03/adw_a_03_04.svg",
+      "caption": "Локальная учебная обложка: Карта крепостей Верхней марки",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/sbook1i.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_03_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Internet Medieval Sourcebook: Muslim Spain",
+      "url": "https://sourcebooks.fordham.edu/sbook1i.asp",
+      "type": "primary-source-index"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_03"
+  },
+  {
+    "id": "ADW_A_04_01",
+    "type": "PLAN",
+    "title": "План расширений Большой мечети",
+    "original": "План расширений Большой мечети",
+    "subtitle": "разные строительные этапы читаются в стенах, колоннах и ориентации пространства",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "VIII–X века",
+    "rarity": "UNCOMMON",
+    "difficulty": 15,
+    "summary": "План расширений Большой мечети — разные строительные этапы читаются в стенах, колоннах и ориентации пространства.",
+    "importance": "Архивная карточка углубляет главу «Кордова, мечеть и городской мир» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–X века.",
+      "Основной смысл: разные строительные этапы читаются в стенах, колоннах и ориентации пространства.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Кордова, мечеть и городской мир",
+      "plan"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 7,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Кордова",
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-04/adw_a_04_01.svg",
+      "caption": "Локальная учебная обложка: План расширений Большой мечети",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/313/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_04_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Historic Centre of Cordoba",
+      "url": "https://whc.unesco.org/en/list/313/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_04"
+  },
+  {
+    "id": "ADW_A_04_02",
+    "type": "ARTEFACT",
+    "title": "Капитель кордовской мастерской",
+    "original": "Капитель кордовской мастерской",
+    "subtitle": "резьба показывает работу специализированных мастерских и дворцовые заказы",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "X век",
+    "rarity": "RARE",
+    "difficulty": 15,
+    "summary": "Капитель кордовской мастерской — резьба показывает работу специализированных мастерских и дворцовые заказы.",
+    "importance": "Архивная карточка углубляет главу «Кордова, мечеть и городской мир» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X век.",
+      "Основной смысл: резьба показывает работу специализированных мастерских и дворцовые заказы.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Кордова, мечеть и городской мир",
+      "artefact"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 3,
+      "culture": 8,
+      "politics": 5,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кордова",
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-04/adw_a_04_02.svg",
+      "caption": "Локальная учебная обложка: Капитель кордовской мастерской",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/313/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_04_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Historic Centre of Cordoba",
+      "url": "https://whc.unesco.org/en/list/313/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_04"
+  },
+  {
+    "id": "ADW_A_04_03",
+    "type": "ARCHAEOLOGY",
+    "title": "Фрагмент водопровода столицы",
+    "original": "Фрагмент водопровода столицы",
+    "subtitle": "каналы и трубы раскрывают обслуживание дворцов, бань и садов",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "IX–X века",
+    "rarity": "EPIC",
+    "difficulty": 15,
+    "summary": "Фрагмент водопровода столицы — каналы и трубы раскрывают обслуживание дворцов, бань и садов.",
+    "importance": "Архивная карточка углубляет главу «Кордова, мечеть и городской мир» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: каналы и трубы раскрывают обслуживание дворцов, бань и садов.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Кордова, мечеть и городской мир",
+      "archaeology"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 4,
+      "culture": 9,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Кордова",
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-04/adw_a_04_03.svg",
+      "caption": "Локальная учебная обложка: Фрагмент водопровода столицы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/313/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_04_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Historic Centre of Cordoba",
+      "url": "https://whc.unesco.org/en/list/313/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_04"
+  },
+  {
+    "id": "ADW_A_04_04",
+    "type": "MAP",
+    "title": "UNESCO-карта исторического центра Кордовы",
+    "original": "UNESCO-карта исторического центра Кордовы",
+    "subtitle": "современная охранная зона помогает читать многослойный городской ландшафт",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "современность",
+    "rarity": "MYTHIC",
+    "difficulty": 15,
+    "summary": "UNESCO-карта исторического центра Кордовы — современная охранная зона помогает читать многослойный городской ландшафт.",
+    "importance": "Архивная карточка углубляет главу «Кордова, мечеть и городской мир» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: современность.",
+      "Основной смысл: современная охранная зона помогает читать многослойный городской ландшафт.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Кордова, мечеть и городской мир",
+      "map"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кордова",
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-04/adw_a_04_04.svg",
+      "caption": "Локальная учебная обложка: UNESCO-карта исторического центра Кордовы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/313/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_04_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Historic Centre of Cordoba",
+      "url": "https://whc.unesco.org/en/list/313/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_04"
+  },
+  {
+    "id": "ADW_A_05_01",
+    "type": "TEXT",
+    "title": "Латинский текст Евлогия Кордовского",
+    "original": "Латинский текст Евлогия Кордовского",
+    "subtitle": "автор защищал мучеников и критиковал культурное сближение христиан с арабской средой",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "IX век",
+    "rarity": "UNCOMMON",
+    "difficulty": 15,
+    "summary": "Латинский текст Евлогия Кордовского — автор защищал мучеников и критиковал культурное сближение христиан с арабской средой.",
+    "importance": "Архивная карточка углубляет главу «Общины, право и обращение в ислам» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: автор защищал мучеников и критиковал культурное сближение христиан с арабской средой.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Общины, право и обращение в ислам",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 8,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кордова",
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-05/adw_a_05_01.svg",
+      "caption": "Локальная учебная обложка: Латинский текст Евлогия Кордовского",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_05_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Umayyad Period in Spain (711–1031)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_05"
+  },
+  {
+    "id": "ADW_A_05_02",
+    "type": "EPIGRAPHY",
+    "title": "Арабская надпись иудейского заказчика",
+    "original": "Арабская надпись иудейского заказчика",
+    "subtitle": "язык предмета не определяет автоматически религию владельца",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "X век",
+    "rarity": "RARE",
+    "difficulty": 15,
+    "summary": "Арабская надпись иудейского заказчика — язык предмета не определяет автоматически религию владельца.",
+    "importance": "Архивная карточка углубляет главу «Общины, право и обращение в ислам» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X век.",
+      "Основной смысл: язык предмета не определяет автоматически религию владельца.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Общины, право и обращение в ислам",
+      "epigraphy"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 4,
+      "culture": 9,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Кордова",
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-05/adw_a_05_02.svg",
+      "caption": "Локальная учебная обложка: Арабская надпись иудейского заказчика",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_05_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Umayyad Period in Spain (711–1031)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_05"
+  },
+  {
+    "id": "ADW_A_05_03",
+    "type": "DOCUMENT",
+    "title": "Налоговая квитанция общины",
+    "original": "Налоговая квитанция общины",
+    "subtitle": "документ показывает практику платежей лучше общей правовой формулы",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "IX–X века",
+    "rarity": "EPIC",
+    "difficulty": 15,
+    "summary": "Налоговая квитанция общины — документ показывает практику платежей лучше общей правовой формулы.",
+    "importance": "Архивная карточка углубляет главу «Общины, право и обращение в ислам» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: документ показывает практику платежей лучше общей правовой формулы.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Общины, право и обращение в ислам",
+      "document"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 5,
+      "culture": 6,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Толедо",
+      "lat": 39.8628,
+      "lon": -4.0273
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-05/adw_a_05_03.svg",
+      "caption": "Локальная учебная обложка: Налоговая квитанция общины",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_05_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Umayyad Period in Spain (711–1031)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_05"
+  },
+  {
+    "id": "ADW_A_05_04",
+    "type": "MAP",
+    "title": "Карта религиозных зданий Кордовы",
+    "original": "Карта религиозных зданий Кордовы",
+    "subtitle": "сохранность памятников не равна численности общин в прошлом",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "IX–XI века",
+    "rarity": "LEGENDARY",
+    "difficulty": 15,
+    "summary": "Карта религиозных зданий Кордовы — сохранность памятников не равна численности общин в прошлом.",
+    "importance": "Архивная карточка углубляет главу «Общины, право и обращение в ислам» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–XI века.",
+      "Основной смысл: сохранность памятников не равна численности общин в прошлом.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Общины, право и обращение в ислам",
+      "map"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 7,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Кордова",
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-05/adw_a_05_04.svg",
+      "caption": "Локальная учебная обложка: Карта религиозных зданий Кордовы",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_05_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Umayyad Period in Spain (711–1031)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_05"
+  },
+  {
+    "id": "ADW_A_06_01",
+    "type": "ARCHAEOLOGY",
+    "title": "Археоботанические остатки городского сада",
+    "original": "Археоботанические остатки городского сада",
+    "subtitle": "семена и пыльца помогают проверять распространение культур",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "IX–XI века",
+    "rarity": "UNCOMMON",
+    "difficulty": 15,
+    "summary": "Археоботанические остатки городского сада — семена и пыльца помогают проверять распространение культур.",
+    "importance": "Архивная карточка углубляет главу «Земля, вода, ремесло и Средиземноморье» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–XI века.",
+      "Основной смысл: семена и пыльца помогают проверять распространение культур.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Земля, вода, ремесло и Средиземноморье",
+      "archaeology"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 9,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Кордова",
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-06/adw_a_06_01.svg",
+      "caption": "Локальная учебная обложка: Археоботанические остатки городского сада",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/313/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_06_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Historic Centre of Cordoba",
+      "url": "https://whc.unesco.org/en/list/313/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_06"
+  },
+  {
+    "id": "ADW_A_06_02",
+    "type": "ARCHAEOLOGY",
+    "title": "Фрагмент оросительного канала",
+    "original": "Фрагмент оросительного канала",
+    "subtitle": "профиль канала раскрывает ремонт, наносы и последовательность использования",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "VIII–XI века",
+    "rarity": "RARE",
+    "difficulty": 15,
+    "summary": "Фрагмент оросительного канала — профиль канала раскрывает ремонт, наносы и последовательность использования.",
+    "importance": "Архивная карточка углубляет главу «Земля, вода, ремесло и Средиземноморье» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: VIII–XI века.",
+      "Основной смысл: профиль канала раскрывает ремонт, наносы и последовательность использования.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Земля, вода, ремесло и Средиземноморье",
+      "archaeology"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 5,
+      "culture": 6,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "долина Гвадалквивира",
+      "lat": 37.7,
+      "lon": -5.3
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-06/adw_a_06_02.svg",
+      "caption": "Локальная учебная обложка: Фрагмент оросительного канала",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/313/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_06_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Historic Centre of Cordoba",
+      "url": "https://whc.unesco.org/en/list/313/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_06"
+  },
+  {
+    "id": "ADW_A_06_03",
+    "type": "ARTEFACT",
+    "title": "Корабельная амфора западного Средиземноморья",
+    "original": "Корабельная амфора западного Средиземноморья",
+    "subtitle": "тара показывает маршруты, но не всегда точное происхождение содержимого",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "IX–XI века",
+    "rarity": "EPIC",
+    "difficulty": 15,
+    "summary": "Корабельная амфора западного Средиземноморья — тара показывает маршруты, но не всегда точное происхождение содержимого.",
+    "importance": "Архивная карточка углубляет главу «Земля, вода, ремесло и Средиземноморье» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–XI века.",
+      "Основной смысл: тара показывает маршруты, но не всегда точное происхождение содержимого.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Земля, вода, ремесло и Средиземноморье",
+      "artefact"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 7,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Альмерия",
+      "lat": 36.834,
+      "lon": -2.4637
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-06/adw_a_06_03.svg",
+      "caption": "Локальная учебная обложка: Корабельная амфора западного Средиземноморья",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/313/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_06_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Historic Centre of Cordoba",
+      "url": "https://whc.unesco.org/en/list/313/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_06"
+  },
+  {
+    "id": "ADW_A_06_04",
+    "type": "MAP",
+    "title": "Карта портов и речных путей аль-Андалуса",
+    "original": "Карта портов и речных путей аль-Андалуса",
+    "subtitle": "морские и сухопутные сети менялись по сезонам и политической безопасности",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "IX–XI века",
+    "rarity": "LEGENDARY",
+    "difficulty": 15,
+    "summary": "Карта портов и речных путей аль-Андалуса — морские и сухопутные сети менялись по сезонам и политической безопасности.",
+    "importance": "Архивная карточка углубляет главу «Земля, вода, ремесло и Средиземноморье» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–XI века.",
+      "Основной смысл: морские и сухопутные сети менялись по сезонам и политической безопасности.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Земля, вода, ремесло и Средиземноморье",
+      "map"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 8,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Западное Средиземноморье",
+      "lat": 38.0,
+      "lon": 2.0
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-06/adw_a_06_04.svg",
+      "caption": "Локальная учебная обложка: Карта портов и речных путей аль-Андалуса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/313/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_06_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Historic Centre of Cordoba",
+      "url": "https://whc.unesco.org/en/list/313/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_06"
+  },
+  {
+    "id": "ADW_A_07_01",
+    "type": "PLAN",
+    "title": "План Великой мечети Кайруана",
+    "original": "План Великой мечети Кайруана",
+    "subtitle": "архитектурные этапы показывают вложения династии и развитие мастерских",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "IX век",
+    "rarity": "UNCOMMON",
+    "difficulty": 15,
+    "summary": "План Великой мечети Кайруана — архитектурные этапы показывают вложения династии и развитие мастерских.",
+    "importance": "Архивная карточка углубляет главу «Магриб: Кайруан, Тахерт и Фес» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: архитектурные этапы показывают вложения династии и развитие мастерских.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Магриб: Кайруан, Тахерт и Фес",
+      "plan"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 6,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кайруан",
+      "lat": 35.6781,
+      "lon": 10.0963
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-07/adw_a_07_01.svg",
+      "caption": "Локальная учебная обложка: План Великой мечети Кайруана",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/499/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_07_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Kairouan",
+      "url": "https://whc.unesco.org/en/list/499/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_07"
+  },
+  {
+    "id": "ADW_A_07_02",
+    "type": "COIN",
+    "title": "Монета Идрисидов Феса",
+    "original": "Монета Идрисидов Феса",
+    "subtitle": "легенда и металл фиксируют династическую власть и региональный обмен",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "IX век",
+    "rarity": "RARE",
+    "difficulty": 15,
+    "summary": "Монета Идрисидов Феса — легенда и металл фиксируют династическую власть и региональный обмен.",
+    "importance": "Архивная карточка углубляет главу «Магриб: Кайруан, Тахерт и Фес» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX век.",
+      "Основной смысл: легенда и металл фиксируют династическую власть и региональный обмен.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Магриб: Кайруан, Тахерт и Фес",
+      "coin"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 6,
+      "culture": 7,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Фес",
+      "lat": 34.0181,
+      "lon": -5.0078
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-07/adw_a_07_02.svg",
+      "caption": "Локальная учебная обложка: Монета Идрисидов Феса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/499/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_07_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Kairouan",
+      "url": "https://whc.unesco.org/en/list/499/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_07"
+  },
+  {
+    "id": "ADW_A_07_03",
+    "type": "TEXT",
+    "title": "Ибадитская хроника Тахерта",
+    "original": "Ибадитская хроника Тахерта",
+    "subtitle": "общинная память объясняет власть через собственную религиозную традицию",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "IX–X века",
+    "rarity": "EPIC",
+    "difficulty": 15,
+    "summary": "Ибадитская хроника Тахерта — общинная память объясняет власть через собственную религиозную традицию.",
+    "importance": "Архивная карточка углубляет главу «Магриб: Кайруан, Тахерт и Фес» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: общинная память объясняет власть через собственную религиозную традицию.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Магриб: Кайруан, Тахерт и Фес",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 7,
+      "culture": 8,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Тахерт",
+      "lat": 35.37,
+      "lon": 1.32
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-07/adw_a_07_03.svg",
+      "caption": "Локальная учебная обложка: Ибадитская хроника Тахерта",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/499/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_07_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Kairouan",
+      "url": "https://whc.unesco.org/en/list/499/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_07"
+  },
+  {
+    "id": "ADW_A_07_04",
+    "type": "MAP",
+    "title": "Карта династий исламского Запада",
+    "original": "Карта династий исламского Запада",
+    "subtitle": "политические зоны перекрывались с торговыми и племенными сетями",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "IX–X века",
+    "rarity": "LEGENDARY",
+    "difficulty": 15,
+    "summary": "Карта династий исламского Запада — политические зоны перекрывались с торговыми и племенными сетями.",
+    "importance": "Архивная карточка углубляет главу «Магриб: Кайруан, Тахерт и Фес» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: политические зоны перекрывались с торговыми и племенными сетями.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Магриб: Кайруан, Тахерт и Фес",
+      "map"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 9,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Тунис",
+      "lat": 36.8065,
+      "lon": 10.1815
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-07/adw_a_07_04.svg",
+      "caption": "Локальная учебная обложка: Карта династий исламского Запада",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/499/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_07_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Kairouan",
+      "url": "https://whc.unesco.org/en/list/499/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_07"
+  },
+  {
+    "id": "ADW_A_08_01",
+    "type": "ARCHAEOLOGY",
+    "title": "Раскопки церкви Бобастро",
+    "original": "Раскопки церкви Бобастро",
+    "subtitle": "скальное сооружение связано с христианской фазой центра, но его точная функция обсуждается",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "IX–X века",
+    "rarity": "UNCOMMON",
+    "difficulty": 15,
+    "summary": "Раскопки церкви Бобастро — скальное сооружение связано с христианской фазой центра, но его точная функция обсуждается.",
+    "importance": "Архивная карточка углубляет главу «Кризисы эмирата и восстание Ибн Хафсуна» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: скальное сооружение связано с христианской фазой центра, но его точная функция обсуждается.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Кризисы эмирата и восстание Ибн Хафсуна",
+      "archaeology"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 7,
+      "politics": 7,
+      "religion": 8,
+      "economy": 9,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Бобастро",
+      "lat": 36.991,
+      "lon": -4.792
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-08/adw_a_08_01.svg",
+      "caption": "Локальная учебная обложка: Раскопки церкви Бобастро",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/sbook1i.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_08_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Internet Medieval Sourcebook: Muslim Spain",
+      "url": "https://sourcebooks.fordham.edu/sbook1i.asp",
+      "type": "primary-source-index"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_08"
+  },
+  {
+    "id": "ADW_A_08_02",
+    "type": "TEXT",
+    "title": "Арабская хроника восстания",
+    "original": "Арабская хроника восстания",
+    "subtitle": "дворцовый автор описывает противника языком мятежа и нелегитимности",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "X век",
+    "rarity": "RARE",
+    "difficulty": 15,
+    "summary": "Арабская хроника восстания — дворцовый автор описывает противника языком мятежа и нелегитимности.",
+    "importance": "Архивная карточка углубляет главу «Кризисы эмирата и восстание Ибн Хафсуна» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X век.",
+      "Основной смысл: дворцовый автор описывает противника языком мятежа и нелегитимности.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Кризисы эмирата и восстание Ибн Хафсуна",
+      "text"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 7,
+      "culture": 8,
+      "politics": 8,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кордова",
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-08/adw_a_08_02.svg",
+      "caption": "Локальная учебная обложка: Арабская хроника восстания",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/sbook1i.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_08_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Internet Medieval Sourcebook: Muslim Spain",
+      "url": "https://sourcebooks.fordham.edu/sbook1i.asp",
+      "type": "primary-source-index"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_08"
+  },
+  {
+    "id": "ADW_A_08_03",
+    "type": "ARTEFACT",
+    "title": "Керамика горной крепости",
+    "original": "Керамика горной крепости",
+    "subtitle": "бытовые находки показывают снабжение и длительность проживания",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "IX–X века",
+    "rarity": "EPIC",
+    "difficulty": 15,
+    "summary": "Керамика горной крепости — бытовые находки показывают снабжение и длительность проживания.",
+    "importance": "Архивная карточка углубляет главу «Кризисы эмирата и восстание Ибн Хафсуна» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: IX–X века.",
+      "Основной смысл: бытовые находки показывают снабжение и длительность проживания.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Кризисы эмирата и восстание Ибн Хафсуна",
+      "artefact"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 8,
+      "culture": 9,
+      "politics": 9,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Бобастро",
+      "lat": 36.991,
+      "lon": -4.792
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-08/adw_a_08_03.svg",
+      "caption": "Локальная учебная обложка: Керамика горной крепости",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/sbook1i.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_08_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Internet Medieval Sourcebook: Muslim Spain",
+      "url": "https://sourcebooks.fordham.edu/sbook1i.asp",
+      "type": "primary-source-index"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_08"
+  },
+  {
+    "id": "ADW_A_08_04",
+    "type": "MAP",
+    "title": "Карта кордовских походов против крепостей",
+    "original": "Карта кордовских походов против крепостей",
+    "subtitle": "военная кампания шла по этапам и зависела от дорог и лояльности соседей",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "912–928 годы",
+    "rarity": "MYTHIC",
+    "difficulty": 15,
+    "summary": "Карта кордовских походов против крепостей — военная кампания шла по этапам и зависела от дорог и лояльности соседей.",
+    "importance": "Архивная карточка углубляет главу «Кризисы эмирата и восстание Ибн Хафсуна» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: 912–928 годы.",
+      "Основной смысл: военная кампания шла по этапам и зависела от дорог и лояльности соседей.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Кризисы эмирата и восстание Ибн Хафсуна",
+      "map"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 6,
+      "politics": 5,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Ронда",
+      "lat": 36.7462,
+      "lon": -5.1612
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-08/adw_a_08_04.svg",
+      "caption": "Локальная учебная обложка: Карта кордовских походов против крепостей",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://sourcebooks.fordham.edu/sbook1i.asp",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_08_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "Internet Medieval Sourcebook: Muslim Spain",
+      "url": "https://sourcebooks.fordham.edu/sbook1i.asp",
+      "type": "primary-source-index"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_08"
+  },
+  {
+    "id": "ADW_A_09_01",
+    "type": "COIN",
+    "title": "Динар Абд ар-Рахмана III",
+    "original": "Динар Абд ар-Рахмана III",
+    "subtitle": "золотой выпуск демонстрирует халифскую титулатуру и контроль над металлом",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "X век",
+    "rarity": "UNCOMMON",
+    "difficulty": 15,
+    "summary": "Динар Абд ар-Рахмана III — золотой выпуск демонстрирует халифскую титулатуру и контроль над металлом.",
+    "importance": "Архивная карточка углубляет главу «Абд ар-Рахман III и Кордовский халифат» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X век.",
+      "Основной смысл: золотой выпуск демонстрирует халифскую титулатуру и контроль над металлом.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Абд ар-Рахман III и Кордовский халифат",
+      "coin"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 8,
+      "politics": 9,
+      "religion": 4,
+      "economy": 5,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кордова",
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-09/adw_a_09_01.svg",
+      "caption": "Локальная учебная обложка: Динар Абд ар-Рахмана III",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1560/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_09_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Caliphate City of Medina Azahara",
+      "url": "https://whc.unesco.org/en/list/1560/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_09"
+  },
+  {
+    "id": "ADW_A_09_02",
+    "type": "TEXT",
+    "title": "Посольский рассказ о кордовском дворе",
+    "original": "Посольский рассказ о кордовском дворе",
+    "subtitle": "описание церемониала подчёркивает порядок, богатство и дистанцию от правителя",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "X век",
+    "rarity": "RARE",
+    "difficulty": 15,
+    "summary": "Посольский рассказ о кордовском дворе — описание церемониала подчёркивает порядок, богатство и дистанцию от правителя.",
+    "importance": "Архивная карточка углубляет главу «Абд ар-Рахман III и Кордовский халифат» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X век.",
+      "Основной смысл: описание церемониала подчёркивает порядок, богатство и дистанцию от правителя.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Абд ар-Рахман III и Кордовский халифат",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 8,
+      "culture": 9,
+      "politics": 5,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Мадинат аз-Захра",
+      "lat": 37.8868,
+      "lon": -4.867
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-09/adw_a_09_02.svg",
+      "caption": "Локальная учебная обложка: Посольский рассказ о кордовском дворе",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1560/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_09_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Caliphate City of Medina Azahara",
+      "url": "https://whc.unesco.org/en/list/1560/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_09"
+  },
+  {
+    "id": "ADW_A_09_03",
+    "type": "ARCHAEOLOGY",
+    "title": "Морская база Альмерии",
+    "original": "Морская база Альмерии",
+    "subtitle": "портовые укрепления и мастерские связывают флот с городской экономикой",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "X век",
+    "rarity": "EPIC",
+    "difficulty": 15,
+    "summary": "Морская база Альмерии — портовые укрепления и мастерские связывают флот с городской экономикой.",
+    "importance": "Архивная карточка углубляет главу «Абд ар-Рахман III и Кордовский халифат» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X век.",
+      "Основной смысл: портовые укрепления и мастерские связывают флот с городской экономикой.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Абд ар-Рахман III и Кордовский халифат",
+      "archaeology"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 3,
+      "culture": 6,
+      "politics": 6,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Альмерия",
+      "lat": 36.834,
+      "lon": -2.4637
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-09/adw_a_09_03.svg",
+      "caption": "Локальная учебная обложка: Морская база Альмерии",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1560/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_09_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Caliphate City of Medina Azahara",
+      "url": "https://whc.unesco.org/en/list/1560/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_09"
+  },
+  {
+    "id": "ADW_A_09_04",
+    "type": "MAP",
+    "title": "Карта кордовско-фатимидского соперничества",
+    "original": "Карта кордовско-фатимидского соперничества",
+    "subtitle": "влияние в Магрибе зависело от союзов и портов, а не сплошной оккупации",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "X век",
+    "rarity": "LEGENDARY",
+    "difficulty": 15,
+    "summary": "Карта кордовско-фатимидского соперничества — влияние в Магрибе зависело от союзов и портов, а не сплошной оккупации.",
+    "importance": "Архивная карточка углубляет главу «Абд ар-Рахман III и Кордовский халифат» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X век.",
+      "Основной смысл: влияние в Магрибе зависело от союзов и портов, а не сплошной оккупации.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Абд ар-Рахман III и Кордовский халифат",
+      "map"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 7,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Сеута",
+      "lat": 35.8894,
+      "lon": -5.3213
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-09/adw_a_09_04.svg",
+      "caption": "Локальная учебная обложка: Карта кордовско-фатимидского соперничества",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1560/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_09_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Caliphate City of Medina Azahara",
+      "url": "https://whc.unesco.org/en/list/1560/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_09"
+  },
+  {
+    "id": "ADW_A_10_01",
+    "type": "PLAN",
+    "title": "Археологический план Мадинат аз-Захры",
+    "original": "Археологический план Мадинат аз-Захры",
+    "subtitle": "террасы и проходы позволяют реконструировать административную иерархию",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "X век",
+    "rarity": "UNCOMMON",
+    "difficulty": 15,
+    "summary": "Археологический план Мадинат аз-Захры — террасы и проходы позволяют реконструировать административную иерархию.",
+    "importance": "Архивная карточка углубляет главу «Мадинат аз-Захра и дворцовая власть» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X век.",
+      "Основной смысл: террасы и проходы позволяют реконструировать административную иерархию.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Мадинат аз-Захра и дворцовая власть",
+      "plan"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 8,
+      "culture": 9,
+      "politics": 6,
+      "religion": 5,
+      "economy": 6,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Мадинат аз-Захра",
+      "lat": 37.8868,
+      "lon": -4.867
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-10/adw_a_10_01.svg",
+      "caption": "Локальная учебная обложка: Археологический план Мадинат аз-Захры",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1560/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_10_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Caliphate City of Medina Azahara",
+      "url": "https://whc.unesco.org/en/list/1560/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_10"
+  },
+  {
+    "id": "ADW_A_10_02",
+    "type": "ARTEFACT",
+    "title": "Резная мраморная панель дворца",
+    "original": "Резная мраморная панель дворца",
+    "subtitle": "орнамент и надпись связывают мастерскую, заказчика и конкретное пространство",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "X век",
+    "rarity": "RARE",
+    "difficulty": 15,
+    "summary": "Резная мраморная панель дворца — орнамент и надпись связывают мастерскую, заказчика и конкретное пространство.",
+    "importance": "Архивная карточка углубляет главу «Мадинат аз-Захра и дворцовая власть» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X век.",
+      "Основной смысл: орнамент и надпись связывают мастерскую, заказчика и конкретное пространство.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Мадинат аз-Захра и дворцовая власть",
+      "artefact"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 9,
+      "legacy": 8,
+      "military": 3,
+      "culture": 6,
+      "politics": 7,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мадинат аз-Захра",
+      "lat": 37.8868,
+      "lon": -4.867
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-10/adw_a_10_02.svg",
+      "caption": "Локальная учебная обложка: Резная мраморная панель дворца",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1560/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_10_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Caliphate City of Medina Azahara",
+      "url": "https://whc.unesco.org/en/list/1560/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_10"
+  },
+  {
+    "id": "ADW_A_10_03",
+    "type": "ARTEFACT",
+    "title": "Керамика служебного квартала",
+    "original": "Керамика служебного квартала",
+    "subtitle": "обычная посуда показывает питание и работу жителей за пределами парадных залов",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "X век",
+    "rarity": "EPIC",
+    "difficulty": 15,
+    "summary": "Керамика служебного квартала — обычная посуда показывает питание и работу жителей за пределами парадных залов.",
+    "importance": "Архивная карточка углубляет главу «Мадинат аз-Захра и дворцовая власть» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X век.",
+      "Основной смысл: обычная посуда показывает питание и работу жителей за пределами парадных залов.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Мадинат аз-Захра и дворцовая власть",
+      "artefact"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 7,
+      "legacy": 8,
+      "military": 4,
+      "culture": 7,
+      "politics": 8,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Мадинат аз-Захра",
+      "lat": 37.8868,
+      "lon": -4.867
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-10/adw_a_10_03.svg",
+      "caption": "Локальная учебная обложка: Керамика служебного квартала",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1560/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_10_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Caliphate City of Medina Azahara",
+      "url": "https://whc.unesco.org/en/list/1560/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_10"
+  },
+  {
+    "id": "ADW_A_10_04",
+    "type": "HERITAGE",
+    "title": "UNESCO-досье дворцового города",
+    "original": "UNESCO-досье дворцового города",
+    "subtitle": "современная охрана объединяет археологию, ландшафт и историю разрушения",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "современность",
+    "rarity": "LEGENDARY",
+    "difficulty": 15,
+    "summary": "UNESCO-досье дворцового города — современная охрана объединяет археологию, ландшафт и историю разрушения.",
+    "importance": "Архивная карточка углубляет главу «Мадинат аз-Захра и дворцовая власть» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: современность.",
+      "Основной смысл: современная охрана объединяет археологию, ландшафт и историю разрушения.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Мадинат аз-Захра и дворцовая власть",
+      "heritage"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 8,
+      "legacy": 8,
+      "military": 5,
+      "culture": 8,
+      "politics": 9,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Мадинат аз-Захра",
+      "lat": 37.8868,
+      "lon": -4.867
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-10/adw_a_10_04.svg",
+      "caption": "Локальная учебная обложка: UNESCO-досье дворцового города",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://whc.unesco.org/en/list/1560/",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_10_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "UNESCO: Caliphate City of Medina Azahara",
+      "url": "https://whc.unesco.org/en/list/1560/",
+      "type": "heritage"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_10"
+  },
+  {
+    "id": "ADW_A_11_01",
+    "type": "MANUSCRIPT",
+    "title": "Хирургическая рукопись аль-Захрави",
+    "original": "Хирургическая рукопись аль-Захрави",
+    "subtitle": "поздние копии сохраняют схемы инструментов и текст медицинского свода",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "XI–XIII века",
+    "rarity": "UNCOMMON",
+    "difficulty": 15,
+    "summary": "Хирургическая рукопись аль-Захрави — поздние копии сохраняют схемы инструментов и текст медицинского свода.",
+    "importance": "Архивная карточка углубляет главу «Аль-Хакам II, знания и придворные посредники» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: XI–XIII века.",
+      "Основной смысл: поздние копии сохраняют схемы инструментов и текст медицинского свода.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Аль-Хакам II, знания и придворные посредники",
+      "manuscript"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 3,
+      "culture": 6,
+      "politics": 8,
+      "religion": 6,
+      "economy": 7,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кордова",
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-11/adw_a_11_01.svg",
+      "caption": "Локальная учебная обложка: Хирургическая рукопись аль-Захрави",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_11_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Umayyad Period in Spain (711–1031)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_11"
+  },
+  {
+    "id": "ADW_A_11_02",
+    "type": "TEXT",
+    "title": "Письмо Хасдая к хазарскому двору",
+    "original": "Письмо Хасдая к хазарскому двору",
+    "subtitle": "дипломатический текст отражает иудейскую сеть и придворную политику",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "X век",
+    "rarity": "RARE",
+    "difficulty": 15,
+    "summary": "Письмо Хасдая к хазарскому двору — дипломатический текст отражает иудейскую сеть и придворную политику.",
+    "importance": "Архивная карточка углубляет главу «Аль-Хакам II, знания и придворные посредники» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X век.",
+      "Основной смысл: дипломатический текст отражает иудейскую сеть и придворную политику.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Аль-Хакам II, знания и придворные посредники",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 9,
+      "legacy": 9,
+      "military": 4,
+      "culture": 7,
+      "politics": 9,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Кордова",
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-11/adw_a_11_02.svg",
+      "caption": "Локальная учебная обложка: Письмо Хасдая к хазарскому двору",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_11_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Umayyad Period in Spain (711–1031)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_11"
+  },
+  {
+    "id": "ADW_A_11_03",
+    "type": "MANUSCRIPT",
+    "title": "Кораническая рукопись кордовской мастерской",
+    "original": "Кораническая рукопись кордовской мастерской",
+    "subtitle": "почерк, пергамент и орнамент показывают дорогую книжную культуру",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "X век",
+    "rarity": "EPIC",
+    "difficulty": 15,
+    "summary": "Кораническая рукопись кордовской мастерской — почерк, пергамент и орнамент показывают дорогую книжную культуру.",
+    "importance": "Архивная карточка углубляет главу «Аль-Хакам II, знания и придворные посредники» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X век.",
+      "Основной смысл: почерк, пергамент и орнамент показывают дорогую книжную культуру.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Аль-Хакам II, знания и придворные посредники",
+      "manuscript"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 7,
+      "legacy": 9,
+      "military": 5,
+      "culture": 8,
+      "politics": 5,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кордова",
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-11/adw_a_11_03.svg",
+      "caption": "Локальная учебная обложка: Кораническая рукопись кордовской мастерской",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_11_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Umayyad Period in Spain (711–1031)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_11"
+  },
+  {
+    "id": "ADW_A_11_04",
+    "type": "TEXT",
+    "title": "Каталог учёных аль-Андалуса",
+    "original": "Каталог учёных аль-Андалуса",
+    "subtitle": "биографический жанр формирует канон авторитетов и скрывает часть практиков",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "X–XI века",
+    "rarity": "LEGENDARY",
+    "difficulty": 15,
+    "summary": "Каталог учёных аль-Андалуса — биографический жанр формирует канон авторитетов и скрывает часть практиков.",
+    "importance": "Архивная карточка углубляет главу «Аль-Хакам II, знания и придворные посредники» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X–XI века.",
+      "Основной смысл: биографический жанр формирует канон авторитетов и скрывает часть практиков.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Аль-Хакам II, знания и придворные посредники",
+      "text"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 8,
+      "legacy": 9,
+      "military": 6,
+      "culture": 9,
+      "politics": 6,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Кордова",
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-11/adw_a_11_04.svg",
+      "caption": "Локальная учебная обложка: Каталог учёных аль-Андалуса",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_11_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Umayyad Period in Spain (711–1031)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_11"
+  },
+  {
+    "id": "ADW_A_12_01",
+    "type": "TEXT",
+    "title": "Хроника походов аль-Мансура",
+    "original": "Хроника походов аль-Мансура",
+    "subtitle": "дворцовая запись превращает регулярные кампании в программу законной победы",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "X–XI века",
+    "rarity": "UNCOMMON",
+    "difficulty": 15,
+    "summary": "Хроника походов аль-Мансура — дворцовая запись превращает регулярные кампании в программу законной победы.",
+    "importance": "Архивная карточка углубляет главу «Альманзор, фитна и возникновение тайф» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: X–XI века.",
+      "Основной смысл: дворцовая запись превращает регулярные кампании в программу законной победы.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Альманзор, фитна и возникновение тайф",
+      "text"
+    ],
+    "stats": {
+      "influence": 7,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 4,
+      "culture": 7,
+      "politics": 5,
+      "religion": 7,
+      "economy": 8,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Кордова",
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-12/adw_a_12_01.svg",
+      "caption": "Локальная учебная обложка: Хроника походов аль-Мансура",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_12_01.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Umayyad Period in Spain (711–1031)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_12"
+  },
+  {
+    "id": "ADW_A_12_02",
+    "type": "COIN",
+    "title": "Монета времени фитны",
+    "original": "Монета времени фитны",
+    "subtitle": "быстрая смена имён на чеканке отражает конкуренцию правителей",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "XI век",
+    "rarity": "RARE",
+    "difficulty": 15,
+    "summary": "Монета времени фитны — быстрая смена имён на чеканке отражает конкуренцию правителей.",
+    "importance": "Архивная карточка углубляет главу «Альманзор, фитна и возникновение тайф» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: XI век.",
+      "Основной смысл: быстрая смена имён на чеканке отражает конкуренцию правителей.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Альманзор, фитна и возникновение тайф",
+      "coin"
+    ],
+    "stats": {
+      "influence": 8,
+      "complexity": 9,
+      "legacy": 7,
+      "military": 5,
+      "culture": 8,
+      "politics": 6,
+      "religion": 8,
+      "economy": 9,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Кордова",
+      "lat": 37.8882,
+      "lon": -4.7794
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-12/adw_a_12_02.svg",
+      "caption": "Локальная учебная обложка: Монета времени фитны",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_12_02.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Umayyad Period in Spain (711–1031)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_12"
+  },
+  {
+    "id": "ADW_A_12_03",
+    "type": "ARCHAEOLOGY",
+    "title": "Слой разрушения Мадинат аз-Захры",
+    "original": "Слой разрушения Мадинат аз-Захры",
+    "subtitle": "пожары, разбор камня и вторичное использование фиксируют насильственный конец города",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "XI век",
+    "rarity": "EPIC",
+    "difficulty": 15,
+    "summary": "Слой разрушения Мадинат аз-Захры — пожары, разбор камня и вторичное использование фиксируют насильственный конец города.",
+    "importance": "Архивная карточка углубляет главу «Альманзор, фитна и возникновение тайф» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: XI век.",
+      "Основной смысл: пожары, разбор камня и вторичное использование фиксируют насильственный конец города.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Альманзор, фитна и возникновение тайф",
+      "archaeology"
+    ],
+    "stats": {
+      "influence": 9,
+      "complexity": 7,
+      "legacy": 7,
+      "military": 6,
+      "culture": 9,
+      "politics": 7,
+      "religion": 4,
+      "economy": 5,
+      "connections": 9
+    },
+    "loc": {
+      "label": "Мадинат аз-Захра",
+      "lat": 37.8868,
+      "lon": -4.867
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-12/adw_a_12_03.svg",
+      "caption": "Локальная учебная обложка: Слой разрушения Мадинат аз-Захры",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_12_03.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Umayyad Period in Spain (711–1031)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_12"
+  },
+  {
+    "id": "ADW_A_12_04",
+    "type": "MAP",
+    "title": "Карта первых тайф",
+    "original": "Карта первых тайф",
+    "subtitle": "границы менялись быстро, а города заключали союзы и платили дань соседям",
+    "era": "Раннее Средневековье",
+    "region": "Иберийский полуостров и Магриб",
+    "date": "XI век",
+    "rarity": "MYTHIC",
+    "difficulty": 15,
+    "summary": "Карта первых тайф — границы менялись быстро, а города заключали союзы и платили дань соседям.",
+    "importance": "Архивная карточка углубляет главу «Альманзор, фитна и возникновение тайф» через конкретный документ, предмет, памятник или спорную реконструкцию.",
+    "facts": [
+      "Датировка: XI век.",
+      "Основной смысл: границы менялись быстро, а города заключали союзы и платили дань соседям.",
+      "Архивный вывод должен учитывать происхождение находки, жанр источника, историю публикации и пределы сохранности."
+    ],
+    "tags": [
+      "Иберийский полуостров и Магриб",
+      "архив",
+      "Альманзор, фитна и возникновение тайф",
+      "map"
+    ],
+    "stats": {
+      "influence": 6,
+      "complexity": 8,
+      "legacy": 7,
+      "military": 7,
+      "culture": 6,
+      "politics": 8,
+      "religion": 5,
+      "economy": 6,
+      "connections": 8
+    },
+    "loc": {
+      "label": "Сарагоса",
+      "lat": 41.6488,
+      "lon": -0.8891
+    },
+    "image": {
+      "local": "assets/cards/al-andalus-west/chapter-12/adw_a_12_04.svg",
+      "caption": "Локальная учебная обложка: Карта первых тайф",
+      "credit": "Codex of History · локальная учебная обложка",
+      "source_url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "license": "Project asset",
+      "focus": "50% 50%",
+      "file": "adw_a_12_04.svg",
+      "kind": "project-cover"
+    },
+    "source": {
+      "title": "The Metropolitan Museum of Art: The Art of the Umayyad Period in Spain (711–1031)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-in-spain-711-1031",
+      "type": "museum"
+    },
+    "acquisition": "ARCHIVE",
+    "campaign": "AL_ANDALUS_WEST",
+    "chapter": "ADW_CHAPTER_12"
+  }
+]

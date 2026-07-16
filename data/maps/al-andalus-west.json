@@ -1,0 +1,358 @@
+{
+  "points": {
+    "CORDOBA": [
+      37.8882,
+      -4.7794
+    ],
+    "MEDINA_AZAHARA": [
+      37.8868,
+      -4.867
+    ],
+    "GUADALQUIVIR": [
+      37.7,
+      -5.3
+    ],
+    "SEVILLE": [
+      37.3891,
+      -5.9845
+    ],
+    "TOLEDO": [
+      39.8628,
+      -4.0273
+    ],
+    "MERIDA": [
+      38.9161,
+      -6.3437
+    ],
+    "ZARAGOZA": [
+      41.6488,
+      -0.8891
+    ],
+    "EBRO": [
+      41.7,
+      -1.0
+    ],
+    "PAMPLONA": [
+      42.8125,
+      -1.6458
+    ],
+    "BARCELONA": [
+      41.3874,
+      2.1686
+    ],
+    "LEON": [
+      42.5987,
+      -5.5671
+    ],
+    "GIBRALTAR": [
+      36.1408,
+      -5.3536
+    ],
+    "ALGECIRAS": [
+      36.1408,
+      -5.4562
+    ],
+    "MALAGA": [
+      36.7213,
+      -4.4214
+    ],
+    "GRANADA": [
+      37.1773,
+      -3.5986
+    ],
+    "ALMERIA": [
+      36.834,
+      -2.4637
+    ],
+    "BOBASTRO": [
+      36.991,
+      -4.792
+    ],
+    "RONDA": [
+      36.7462,
+      -5.1612
+    ],
+    "TANGIER": [
+      35.7595,
+      -5.834
+    ],
+    "CEUTA": [
+      35.8894,
+      -5.3213
+    ],
+    "FEZ": [
+      34.0181,
+      -5.0078
+    ],
+    "TAHERT": [
+      35.37,
+      1.32
+    ],
+    "KAIROUAN": [
+      35.6781,
+      10.0963
+    ],
+    "TUNIS": [
+      36.8065,
+      10.1815
+    ],
+    "SICILY": [
+      37.6,
+      14.0
+    ],
+    "MEDITERRANEAN": [
+      38.0,
+      2.0
+    ]
+  },
+  "regions": {},
+  "cardPoints": {
+    "ADW_S_01_01": "GIBRALTAR",
+    "ADW_S_01_02": "GUADALQUIVIR",
+    "ADW_S_01_03": "SEVILLE",
+    "ADW_S_01_04": "TOLEDO",
+    "ADW_S_01_05": "MERIDA",
+    "ADW_S_01_06": "CORDOBA",
+    "ADW_S_01_07": "CORDOBA",
+    "ADW_S_01_08": "TOLEDO",
+    "ADW_A_01_01": "TOLEDO",
+    "ADW_A_01_02": "CORDOBA",
+    "ADW_A_01_03": "MERIDA",
+    "ADW_A_01_04": "CORDOBA",
+    "ADW_S_02_01": "CORDOBA",
+    "ADW_S_02_02": "CORDOBA",
+    "ADW_S_02_03": "CORDOBA",
+    "ADW_S_02_04": "CORDOBA",
+    "ADW_S_02_05": "CORDOBA",
+    "ADW_S_02_06": "SEVILLE",
+    "ADW_S_02_07": "CORDOBA",
+    "ADW_S_02_08": "CORDOBA",
+    "ADW_A_02_01": "CORDOBA",
+    "ADW_A_02_02": "CORDOBA",
+    "ADW_A_02_03": "CORDOBA",
+    "ADW_A_02_04": "SEVILLE",
+    "ADW_S_03_01": "ZARAGOZA",
+    "ADW_S_03_02": "ZARAGOZA",
+    "ADW_S_03_03": "EBRO",
+    "ADW_S_03_04": "PAMPLONA",
+    "ADW_S_03_05": "BARCELONA",
+    "ADW_S_03_06": "PAMPLONA",
+    "ADW_S_03_07": "EBRO",
+    "ADW_S_03_08": "ZARAGOZA",
+    "ADW_A_03_01": "BARCELONA",
+    "ADW_A_03_02": "ZARAGOZA",
+    "ADW_A_03_03": "EBRO",
+    "ADW_A_03_04": "ZARAGOZA",
+    "ADW_S_04_01": "CORDOBA",
+    "ADW_S_04_02": "CORDOBA",
+    "ADW_S_04_03": "CORDOBA",
+    "ADW_S_04_04": "CORDOBA",
+    "ADW_S_04_05": "CORDOBA",
+    "ADW_S_04_06": "CORDOBA",
+    "ADW_S_04_07": "CORDOBA",
+    "ADW_S_04_08": "CORDOBA",
+    "ADW_A_04_01": "CORDOBA",
+    "ADW_A_04_02": "CORDOBA",
+    "ADW_A_04_03": "CORDOBA",
+    "ADW_A_04_04": "CORDOBA",
+    "ADW_S_05_01": "CORDOBA",
+    "ADW_S_05_02": "TOLEDO",
+    "ADW_S_05_03": "CORDOBA",
+    "ADW_S_05_04": "SEVILLE",
+    "ADW_S_05_05": "CORDOBA",
+    "ADW_S_05_06": "CORDOBA",
+    "ADW_S_05_07": "TOLEDO",
+    "ADW_S_05_08": "CORDOBA",
+    "ADW_A_05_01": "CORDOBA",
+    "ADW_A_05_02": "CORDOBA",
+    "ADW_A_05_03": "TOLEDO",
+    "ADW_A_05_04": "CORDOBA",
+    "ADW_S_06_01": "GUADALQUIVIR",
+    "ADW_S_06_02": "CORDOBA",
+    "ADW_S_06_03": "SEVILLE",
+    "ADW_S_06_04": "ALMERIA",
+    "ADW_S_06_05": "CORDOBA",
+    "ADW_S_06_06": "CORDOBA",
+    "ADW_S_06_07": "MEDINA_AZAHARA",
+    "ADW_S_06_08": "GUADALQUIVIR",
+    "ADW_A_06_01": "CORDOBA",
+    "ADW_A_06_02": "GUADALQUIVIR",
+    "ADW_A_06_03": "ALMERIA",
+    "ADW_A_06_04": "MEDITERRANEAN",
+    "ADW_S_07_01": "KAIROUAN",
+    "ADW_S_07_02": "KAIROUAN",
+    "ADW_S_07_03": "KAIROUAN",
+    "ADW_S_07_04": "TAHERT",
+    "ADW_S_07_05": "FEZ",
+    "ADW_S_07_06": "FEZ",
+    "ADW_S_07_07": "SICILY",
+    "ADW_S_07_08": "TUNIS",
+    "ADW_A_07_01": "KAIROUAN",
+    "ADW_A_07_02": "FEZ",
+    "ADW_A_07_03": "TAHERT",
+    "ADW_A_07_04": "TUNIS",
+    "ADW_S_08_01": "BOBASTRO",
+    "ADW_S_08_02": "BOBASTRO",
+    "ADW_S_08_03": "TOLEDO",
+    "ADW_S_08_04": "RONDA",
+    "ADW_S_08_05": "BOBASTRO",
+    "ADW_S_08_06": "CORDOBA",
+    "ADW_S_08_07": "CORDOBA",
+    "ADW_S_08_08": "BOBASTRO",
+    "ADW_A_08_01": "BOBASTRO",
+    "ADW_A_08_02": "CORDOBA",
+    "ADW_A_08_03": "BOBASTRO",
+    "ADW_A_08_04": "RONDA",
+    "ADW_S_09_01": "CORDOBA",
+    "ADW_S_09_02": "CORDOBA",
+    "ADW_S_09_03": "CEUTA",
+    "ADW_S_09_04": "MEDITERRANEAN",
+    "ADW_S_09_05": "CORDOBA",
+    "ADW_S_09_06": "MEDINA_AZAHARA",
+    "ADW_S_09_07": "CORDOBA",
+    "ADW_S_09_08": "CORDOBA",
+    "ADW_A_09_01": "CORDOBA",
+    "ADW_A_09_02": "MEDINA_AZAHARA",
+    "ADW_A_09_03": "ALMERIA",
+    "ADW_A_09_04": "CEUTA",
+    "ADW_S_10_01": "MEDINA_AZAHARA",
+    "ADW_S_10_02": "MEDINA_AZAHARA",
+    "ADW_S_10_03": "MEDINA_AZAHARA",
+    "ADW_S_10_04": "MEDINA_AZAHARA",
+    "ADW_S_10_05": "MEDINA_AZAHARA",
+    "ADW_S_10_06": "MEDINA_AZAHARA",
+    "ADW_S_10_07": "MEDINA_AZAHARA",
+    "ADW_S_10_08": "MEDINA_AZAHARA",
+    "ADW_A_10_01": "MEDINA_AZAHARA",
+    "ADW_A_10_02": "MEDINA_AZAHARA",
+    "ADW_A_10_03": "MEDINA_AZAHARA",
+    "ADW_A_10_04": "MEDINA_AZAHARA",
+    "ADW_S_11_01": "CORDOBA",
+    "ADW_S_11_02": "CORDOBA",
+    "ADW_S_11_03": "CORDOBA",
+    "ADW_S_11_04": "CORDOBA",
+    "ADW_S_11_05": "CORDOBA",
+    "ADW_S_11_06": "CORDOBA",
+    "ADW_S_11_07": "CORDOBA",
+    "ADW_S_11_08": "MEDITERRANEAN",
+    "ADW_A_11_01": "CORDOBA",
+    "ADW_A_11_02": "CORDOBA",
+    "ADW_A_11_03": "CORDOBA",
+    "ADW_A_11_04": "CORDOBA",
+    "ADW_S_12_01": "CORDOBA",
+    "ADW_S_12_02": "CORDOBA",
+    "ADW_S_12_03": "CORDOBA",
+    "ADW_S_12_04": "LEON",
+    "ADW_S_12_05": "CORDOBA",
+    "ADW_S_12_06": "CORDOBA",
+    "ADW_S_12_07": "TOLEDO",
+    "ADW_S_12_08": "SEVILLE",
+    "ADW_A_12_01": "CORDOBA",
+    "ADW_A_12_02": "CORDOBA",
+    "ADW_A_12_03": "MEDINA_AZAHARA",
+    "ADW_A_12_04": "ZARAGOZA"
+  },
+  "chapters": {
+    "ADW_CHAPTER_01": {
+      "title": "Завоевание Иберии и провинция аль-Андалус",
+      "center": [
+        36.1408,
+        -5.3536
+      ],
+      "zoom": 5
+    },
+    "ADW_CHAPTER_02": {
+      "title": "Абд ар-Рахман I и независимый эмират",
+      "center": [
+        37.8882,
+        -4.7794
+      ],
+      "zoom": 5
+    },
+    "ADW_CHAPTER_03": {
+      "title": "Пограничные марки и христианский север",
+      "center": [
+        41.6488,
+        -0.8891
+      ],
+      "zoom": 5
+    },
+    "ADW_CHAPTER_04": {
+      "title": "Кордова, мечеть и городской мир",
+      "center": [
+        37.8882,
+        -4.7794
+      ],
+      "zoom": 5
+    },
+    "ADW_CHAPTER_05": {
+      "title": "Общины, право и обращение в ислам",
+      "center": [
+        37.8882,
+        -4.7794
+      ],
+      "zoom": 5
+    },
+    "ADW_CHAPTER_06": {
+      "title": "Земля, вода, ремесло и Средиземноморье",
+      "center": [
+        37.7,
+        -5.3
+      ],
+      "zoom": 5
+    },
+    "ADW_CHAPTER_07": {
+      "title": "Магриб: Кайруан, Тахерт и Фес",
+      "center": [
+        35.6781,
+        10.0963
+      ],
+      "zoom": 5
+    },
+    "ADW_CHAPTER_08": {
+      "title": "Кризисы эмирата и восстание Ибн Хафсуна",
+      "center": [
+        36.991,
+        -4.792
+      ],
+      "zoom": 5
+    },
+    "ADW_CHAPTER_09": {
+      "title": "Абд ар-Рахман III и Кордовский халифат",
+      "center": [
+        37.8882,
+        -4.7794
+      ],
+      "zoom": 5
+    },
+    "ADW_CHAPTER_10": {
+      "title": "Мадинат аз-Захра и дворцовая власть",
+      "center": [
+        37.8868,
+        -4.867
+      ],
+      "zoom": 5
+    },
+    "ADW_CHAPTER_11": {
+      "title": "Аль-Хакам II, знания и придворные посредники",
+      "center": [
+        37.8882,
+        -4.7794
+      ],
+      "zoom": 5
+    },
+    "ADW_CHAPTER_12": {
+      "title": "Альманзор, фитна и возникновение тайф",
+      "center": [
+        37.8882,
+        -4.7794
+      ],
+      "zoom": 5
+    }
+  },
+  "missionCenter": [
+    38.0,
+    -3.0
+  ],
+  "missionZoom": 4
+}

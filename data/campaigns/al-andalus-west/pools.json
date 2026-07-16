@@ -1,0 +1,879 @@
+{
+  "campaignId": "AL_ANDALUS_WEST",
+  "campaigns": {
+    "AL_ANDALUS_WEST": {
+      "id": "AL_ANDALUS_WEST",
+      "title": "Аль-Андалус и исламский Запад",
+      "active": true,
+      "status": "STARTED"
+    }
+  },
+  "pools": [
+    {
+      "id": "ADW_POOL_01",
+      "campaign": "AL_ANDALUS_WEST",
+      "title": "Завоевание Иберии и провинция аль-Андалус",
+      "unlockMission": "ADW_01_02",
+      "cardIds": [
+        "ADW_A_01_01",
+        "ADW_A_01_02",
+        "ADW_A_01_03",
+        "ADW_A_01_04"
+      ]
+    },
+    {
+      "id": "ADW_POOL_02",
+      "campaign": "AL_ANDALUS_WEST",
+      "title": "Абд ар-Рахман I и независимый эмират",
+      "unlockMission": "ADW_02_02",
+      "cardIds": [
+        "ADW_A_02_01",
+        "ADW_A_02_02",
+        "ADW_A_02_03",
+        "ADW_A_02_04"
+      ]
+    },
+    {
+      "id": "ADW_POOL_03",
+      "campaign": "AL_ANDALUS_WEST",
+      "title": "Пограничные марки и христианский север",
+      "unlockMission": "ADW_03_02",
+      "cardIds": [
+        "ADW_A_03_01",
+        "ADW_A_03_02",
+        "ADW_A_03_03",
+        "ADW_A_03_04"
+      ]
+    },
+    {
+      "id": "ADW_POOL_04",
+      "campaign": "AL_ANDALUS_WEST",
+      "title": "Кордова, мечеть и городской мир",
+      "unlockMission": "ADW_04_02",
+      "cardIds": [
+        "ADW_A_04_01",
+        "ADW_A_04_02",
+        "ADW_A_04_03",
+        "ADW_A_04_04"
+      ]
+    },
+    {
+      "id": "ADW_POOL_05",
+      "campaign": "AL_ANDALUS_WEST",
+      "title": "Общины, право и обращение в ислам",
+      "unlockMission": "ADW_05_02",
+      "cardIds": [
+        "ADW_A_05_01",
+        "ADW_A_05_02",
+        "ADW_A_05_03",
+        "ADW_A_05_04"
+      ]
+    },
+    {
+      "id": "ADW_POOL_06",
+      "campaign": "AL_ANDALUS_WEST",
+      "title": "Земля, вода, ремесло и Средиземноморье",
+      "unlockMission": "ADW_06_02",
+      "cardIds": [
+        "ADW_A_06_01",
+        "ADW_A_06_02",
+        "ADW_A_06_03",
+        "ADW_A_06_04"
+      ]
+    },
+    {
+      "id": "ADW_POOL_07",
+      "campaign": "AL_ANDALUS_WEST",
+      "title": "Магриб: Кайруан, Тахерт и Фес",
+      "unlockMission": "ADW_07_02",
+      "cardIds": [
+        "ADW_A_07_01",
+        "ADW_A_07_02",
+        "ADW_A_07_03",
+        "ADW_A_07_04"
+      ]
+    },
+    {
+      "id": "ADW_POOL_08",
+      "campaign": "AL_ANDALUS_WEST",
+      "title": "Кризисы эмирата и восстание Ибн Хафсуна",
+      "unlockMission": "ADW_08_02",
+      "cardIds": [
+        "ADW_A_08_01",
+        "ADW_A_08_02",
+        "ADW_A_08_03",
+        "ADW_A_08_04"
+      ]
+    },
+    {
+      "id": "ADW_POOL_09",
+      "campaign": "AL_ANDALUS_WEST",
+      "title": "Абд ар-Рахман III и Кордовский халифат",
+      "unlockMission": "ADW_09_02",
+      "cardIds": [
+        "ADW_A_09_01",
+        "ADW_A_09_02",
+        "ADW_A_09_03",
+        "ADW_A_09_04"
+      ]
+    },
+    {
+      "id": "ADW_POOL_10",
+      "campaign": "AL_ANDALUS_WEST",
+      "title": "Мадинат аз-Захра и дворцовая власть",
+      "unlockMission": "ADW_10_02",
+      "cardIds": [
+        "ADW_A_10_01",
+        "ADW_A_10_02",
+        "ADW_A_10_03",
+        "ADW_A_10_04"
+      ]
+    },
+    {
+      "id": "ADW_POOL_11",
+      "campaign": "AL_ANDALUS_WEST",
+      "title": "Аль-Хакам II, знания и придворные посредники",
+      "unlockMission": "ADW_11_02",
+      "cardIds": [
+        "ADW_A_11_01",
+        "ADW_A_11_02",
+        "ADW_A_11_03",
+        "ADW_A_11_04"
+      ]
+    },
+    {
+      "id": "ADW_POOL_12",
+      "campaign": "AL_ANDALUS_WEST",
+      "title": "Альманзор, фитна и возникновение тайф",
+      "unlockMission": "ADW_12_02",
+      "cardIds": [
+        "ADW_A_12_01",
+        "ADW_A_12_02",
+        "ADW_A_12_03",
+        "ADW_A_12_04"
+      ]
+    }
+  ],
+  "acquisition": {
+    "ADW_S_01_01": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 1
+    },
+    "ADW_S_01_02": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 1
+    },
+    "ADW_S_01_03": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 1
+    },
+    "ADW_S_01_04": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 1
+    },
+    "ADW_S_01_05": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 1
+    },
+    "ADW_S_01_06": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 1
+    },
+    "ADW_S_01_07": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 1
+    },
+    "ADW_S_01_08": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 1
+    },
+    "ADW_A_01_01": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_01",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_01_02": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_01",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_01_03": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_01",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_01_04": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_01",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_S_02_01": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 2
+    },
+    "ADW_S_02_02": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 2
+    },
+    "ADW_S_02_03": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 2
+    },
+    "ADW_S_02_04": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 2
+    },
+    "ADW_S_02_05": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 2
+    },
+    "ADW_S_02_06": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 2
+    },
+    "ADW_S_02_07": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 2
+    },
+    "ADW_S_02_08": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 2
+    },
+    "ADW_A_02_01": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_02",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_02_02": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_02",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_02_03": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_02",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_02_04": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_02",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_S_03_01": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 3
+    },
+    "ADW_S_03_02": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 3
+    },
+    "ADW_S_03_03": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 3
+    },
+    "ADW_S_03_04": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 3
+    },
+    "ADW_S_03_05": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 3
+    },
+    "ADW_S_03_06": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 3
+    },
+    "ADW_S_03_07": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 3
+    },
+    "ADW_S_03_08": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 3
+    },
+    "ADW_A_03_01": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_03",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_03_02": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_03",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_03_03": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_03",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_03_04": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_03",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_S_04_01": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 4
+    },
+    "ADW_S_04_02": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 4
+    },
+    "ADW_S_04_03": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 4
+    },
+    "ADW_S_04_04": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 4
+    },
+    "ADW_S_04_05": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 4
+    },
+    "ADW_S_04_06": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 4
+    },
+    "ADW_S_04_07": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 4
+    },
+    "ADW_S_04_08": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 4
+    },
+    "ADW_A_04_01": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_04",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_04_02": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_04",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_04_03": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_04",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_04_04": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_04",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_S_05_01": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 5
+    },
+    "ADW_S_05_02": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 5
+    },
+    "ADW_S_05_03": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 5
+    },
+    "ADW_S_05_04": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 5
+    },
+    "ADW_S_05_05": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 5
+    },
+    "ADW_S_05_06": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 5
+    },
+    "ADW_S_05_07": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 5
+    },
+    "ADW_S_05_08": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 5
+    },
+    "ADW_A_05_01": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_05",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_05_02": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_05",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_05_03": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_05",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_05_04": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_05",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_S_06_01": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 6
+    },
+    "ADW_S_06_02": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 6
+    },
+    "ADW_S_06_03": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 6
+    },
+    "ADW_S_06_04": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 6
+    },
+    "ADW_S_06_05": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 6
+    },
+    "ADW_S_06_06": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 6
+    },
+    "ADW_S_06_07": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 6
+    },
+    "ADW_S_06_08": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 6
+    },
+    "ADW_A_06_01": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_06",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_06_02": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_06",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_06_03": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_06",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_06_04": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_06",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_S_07_01": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 7
+    },
+    "ADW_S_07_02": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 7
+    },
+    "ADW_S_07_03": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 7
+    },
+    "ADW_S_07_04": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 7
+    },
+    "ADW_S_07_05": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 7
+    },
+    "ADW_S_07_06": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 7
+    },
+    "ADW_S_07_07": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 7
+    },
+    "ADW_S_07_08": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 7
+    },
+    "ADW_A_07_01": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_07",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_07_02": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_07",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_07_03": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_07",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_07_04": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_07",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_S_08_01": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 8
+    },
+    "ADW_S_08_02": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 8
+    },
+    "ADW_S_08_03": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 8
+    },
+    "ADW_S_08_04": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 8
+    },
+    "ADW_S_08_05": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 8
+    },
+    "ADW_S_08_06": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 8
+    },
+    "ADW_S_08_07": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 8
+    },
+    "ADW_S_08_08": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 8
+    },
+    "ADW_A_08_01": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_08",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_08_02": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_08",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_08_03": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_08",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_08_04": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_08",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_S_09_01": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 9
+    },
+    "ADW_S_09_02": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 9
+    },
+    "ADW_S_09_03": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 9
+    },
+    "ADW_S_09_04": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 9
+    },
+    "ADW_S_09_05": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 9
+    },
+    "ADW_S_09_06": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 9
+    },
+    "ADW_S_09_07": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 9
+    },
+    "ADW_S_09_08": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 9
+    },
+    "ADW_A_09_01": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_09",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_09_02": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_09",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_09_03": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_09",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_09_04": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_09",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_S_10_01": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 10
+    },
+    "ADW_S_10_02": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 10
+    },
+    "ADW_S_10_03": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 10
+    },
+    "ADW_S_10_04": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 10
+    },
+    "ADW_S_10_05": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 10
+    },
+    "ADW_S_10_06": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 10
+    },
+    "ADW_S_10_07": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 10
+    },
+    "ADW_S_10_08": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 10
+    },
+    "ADW_A_10_01": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_10",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_10_02": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_10",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_10_03": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_10",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_10_04": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_10",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_S_11_01": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 11
+    },
+    "ADW_S_11_02": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 11
+    },
+    "ADW_S_11_03": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 11
+    },
+    "ADW_S_11_04": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 11
+    },
+    "ADW_S_11_05": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 11
+    },
+    "ADW_S_11_06": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 11
+    },
+    "ADW_S_11_07": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 11
+    },
+    "ADW_S_11_08": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 11
+    },
+    "ADW_A_11_01": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_11",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_11_02": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_11",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_11_03": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_11",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_11_04": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_11",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_S_12_01": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 12
+    },
+    "ADW_S_12_02": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 12
+    },
+    "ADW_S_12_03": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 12
+    },
+    "ADW_S_12_04": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 12
+    },
+    "ADW_S_12_05": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 12
+    },
+    "ADW_S_12_06": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 12
+    },
+    "ADW_S_12_07": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 12
+    },
+    "ADW_S_12_08": {
+      "kind": "STORY",
+      "campaignId": "AL_ANDALUS_WEST",
+      "chapter": 12
+    },
+    "ADW_A_12_01": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_12",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_12_02": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_12",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_12_03": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_12",
+      "campaign": "AL_ANDALUS_WEST"
+    },
+    "ADW_A_12_04": {
+      "kind": "ARCHIVE",
+      "pool": "ADW_POOL_12",
+      "campaign": "AL_ANDALUS_WEST"
+    }
+  }
+}

@@ -409,6 +409,6 @@
 Локальные SVG-обложки 132 карточек и кампанийного пака созданы для Codex of History. Источниковая рамка опирается на Encyclopaedia Britannica, UNESCO Paleochristian and Byzantine Monuments of Thessalonika, Metropolitan Museum of Art и исследовательские материалы Dumbarton Oaks по византийским печатям, рукописям и праву.
 
 
-## v8.5 — Славяне, Болгария, Великая Моравия и ранняя Русь
+## v8.6 — Аль-Андалус и исламский Запад
 
-Локальные SVG-обложки 132 карточек и кампанийного пака созданы для Codex of History. Источниковая рамка опирается на UNESCO Madara Rider, UNESCO Saint-Sophia Kyiv, UNESCO Historic Monuments of Novgorod, маршрут Кирилла и Мефодия Совета Европы, Cambridge University Press и тексты Начальной летописи в Internet Medieval Sourcebook.
+Локальные SVG-обложки 144 карточек и кампанийного пака созданы для Codex of History. Источниковая рамка опирается на Metropolitan Museum of Art, UNESCO Historic Centre of Cordoba, UNESCO Caliphate City of Medina Azahara, UNESCO Kairouan, UNESCO Medina of Fez и корпус переводных средневековых источников Fordham University.

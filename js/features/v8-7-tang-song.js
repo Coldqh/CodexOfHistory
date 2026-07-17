@@ -1,6 +1,6 @@
-/* Codex v8.7.0 — China from Tang to Song */
+/* Codex v8.7.1 — China from Tang to Song */
 (()=>{
-  const V='8.7.0';
+  const V='8.7.1';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.TANG_SONG='TANG_SONG';
   state.tangSongPhase=state.tangSongPhase||'HIGH_TANG';

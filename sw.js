@@ -1,5 +1,5 @@
-/* Codex of History v8.7.0 — bounded GitHub Pages service worker with session-only remote card images */
-const VERSION='codex-v8.7.0';
+/* Codex of History v8.7.1 — bounded GitHub Pages service worker with session-only remote card images */
+const VERSION='codex-v8.7.1';
 const APP_CACHE=`${VERSION}-app`;
 const IMAGE_CACHE=`${VERSION}-images`;
 const TILE_CACHE=`${VERSION}-tiles`;

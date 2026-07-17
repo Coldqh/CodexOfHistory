@@ -1,6 +1,6 @@
-/* Codex v8.7.1 — Aksum, Nubia and South Arabia */
+/* Codex v8.7.2 — Aksum, Nubia and South Arabia */
 (()=>{
-  const V='8.7.1';
+  const V='8.7.2';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.AKSUM_NUBIA_ARABIA='AKSUM_NUBIA_ARABIA';
   state.redSeaPhase=state.redSeaPhase||'RED_SEA_NETWORK';

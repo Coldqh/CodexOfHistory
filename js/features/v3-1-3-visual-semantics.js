@@ -1,4 +1,4 @@
-/* Codex of History v8.7.1 — semantic historical image resolver with session-only lazy loading */
+/* Codex of History v8.7.2 — semantic historical image resolver with session-only lazy loading */
 (() => {
   const CACHE_KEY='codex_history_visual_archive_session_v322';
   const VISUAL_STORAGE=(()=>{try{return sessionStorage;}catch{return null;}})();
@@ -19,7 +19,7 @@
 
   try{
     const saved=JSON.parse(VISUAL_STORAGE?.getItem(CACHE_KEY)||'{}');
-    if(saved&&saved.version==='8.7.1'&&saved.records&&typeof saved.records==='object'){
+    if(saved&&saved.version==='8.7.2'&&saved.records&&typeof saved.records==='object'){
       stateVisual.records=saved.records;
       stateVisual.lastRun=saved.lastRun||null;
       stateVisual.rejectedCandidates=Number(saved.rejectedCandidates)||0;
@@ -64,7 +64,7 @@
         .slice(0,MAX_STORED_RECORDS);
       stateVisual.records=Object.fromEntries(recent);
       VISUAL_STORAGE?.setItem(CACHE_KEY,JSON.stringify({
-        version:'8.7.1',lastRun:stateVisual.lastRun,records:stateVisual.records,rejectedCandidates:stateVisual.rejectedCandidates
+        version:'8.7.2',lastRun:stateVisual.lastRun,records:stateVisual.records,rejectedCandidates:stateVisual.rejectedCandidates
       }));
     }catch(error){console.warn('[Codex visuals] cache write failed',error);}
   };
@@ -130,7 +130,7 @@
   async function loadQueries(force=false){
     if(stateVisual.queries&&!force)return stateVisual.queries;
     if(typeof fetch!=='function')return null;
-    const url=new URL(QUERY_PATH,location.href);url.searchParams.set('v',CODEX_MANIFEST?.version||'8.7.1');
+    const url=new URL(QUERY_PATH,location.href);url.searchParams.set('v',CODEX_MANIFEST?.version||'8.7.2');
     const response=await fetch(url.href,{cache:'no-store'});
     if(!response.ok)throw new Error(`image queries HTTP ${response.status}`);
     const payload=await response.json();

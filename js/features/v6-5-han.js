@@ -1,6 +1,6 @@
-/* Codex v8.7.1 — Han Empire */
+/* Codex v8.7.2 — Han Empire */
 (()=>{
-  const V='8.7.1';
+  const V='8.7.2';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.HAN='HAN';
   state.hanPhase=state.hanPhase||'QIN_TRANSITION';

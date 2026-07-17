@@ -1,5 +1,5 @@
 {
-  "version": "8.7.1",
+  "version": "8.7.2",
   "title": "Codex of History Content Manifest",
   "locale": "ru-RU",
   "datasets": {
@@ -521,6 +521,7 @@
     "js/features/v8-7-tang-song.js",
     "js/features/v6-9-1-stability.js",
     "js/features/v8-7-1-mission-consolidation.js",
+    "js/features/v8-7-2-era-one-consolidation.js",
     "js/features/v3-1-1-hotfix.js",
     "js/features/v3-1-3-visual-semantics.js",
     "js/core/start.js"

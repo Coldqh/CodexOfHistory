@@ -1,6 +1,6 @@
-/* Codex v8.7.1 — Slavs, Bulgaria, Great Moravia and early Rus */
+/* Codex v8.7.2 — Slavs, Bulgaria, Great Moravia and early Rus */
 (()=>{
-  const V='8.7.1';
+  const V='8.7.2';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.SLAVIC_BULGARIA_RUS='SLAVIC_BULGARIA_RUS';
   state.slavicPhase=state.slavicPhase||'SLAV_AVAR';

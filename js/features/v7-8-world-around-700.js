@@ -1,6 +1,6 @@
-/* Codex v8.7.1 — World around 700 comparative exam */
+/* Codex v8.7.2 — World around 700 comparative exam */
 (()=>{
-  const V='8.7.1';
+  const V='8.7.2';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.WORLD_AROUND_700='WORLD_AROUND_700';
   state.lateWorldRegion=state.lateWorldRegion||'EAST_ROMAN';

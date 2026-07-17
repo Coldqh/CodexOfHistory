@@ -1,6 +1,6 @@
-/* Codex v8.7.1 — stable saves, pack fallback and update recovery */
+/* Codex v8.7.2 — stable saves, pack fallback and update recovery */
 (()=>{
-  const V='8.7.1';
+  const V='8.7.2';
   const SAVE_BACKUP='codex_history_save_backup_v1';
   const SAVE_PREVIOUS='codex_history_save_previous_v1';
   window.CODEX_VERSION=V;

@@ -12,10 +12,6 @@
       "description": "Рассказ, хронология, разбор, теория и практика.",
       "missionIds": [
         "CHN_01_01",
-        "CHN_01_02",
-        "CHN_01_03",
-        "CHN_01_04",
-        "CHN_01_05",
         "CHN_01_06"
       ]
     },
@@ -27,10 +23,6 @@
       "description": "Рассказ, хронология, разбор, теория и практика.",
       "missionIds": [
         "CHN_02_01",
-        "CHN_02_02",
-        "CHN_02_03",
-        "CHN_02_04",
-        "CHN_02_05",
         "CHN_02_06"
       ]
     },
@@ -42,10 +34,6 @@
       "description": "Рассказ, хронология, разбор, теория и практика.",
       "missionIds": [
         "CHN_03_01",
-        "CHN_03_02",
-        "CHN_03_03",
-        "CHN_03_04",
-        "CHN_03_05",
         "CHN_03_06"
       ]
     },
@@ -57,10 +45,6 @@
       "description": "Рассказ, хронология, разбор, теория и практика.",
       "missionIds": [
         "CHN_04_01",
-        "CHN_04_02",
-        "CHN_04_03",
-        "CHN_04_04",
-        "CHN_04_05",
         "CHN_04_06"
       ]
     },
@@ -72,10 +56,6 @@
       "description": "Рассказ, хронология, разбор, теория и практика.",
       "missionIds": [
         "CHN_05_01",
-        "CHN_05_02",
-        "CHN_05_03",
-        "CHN_05_04",
-        "CHN_05_05",
         "CHN_05_06"
       ]
     },
@@ -87,10 +67,6 @@
       "description": "Рассказ, хронология, разбор, теория и практика.",
       "missionIds": [
         "CHN_06_01",
-        "CHN_06_02",
-        "CHN_06_03",
-        "CHN_06_04",
-        "CHN_06_05",
         "CHN_06_06"
       ]
     },
@@ -102,10 +78,6 @@
       "description": "Рассказ, хронология, разбор, теория и практика.",
       "missionIds": [
         "CHN_07_01",
-        "CHN_07_02",
-        "CHN_07_03",
-        "CHN_07_04",
-        "CHN_07_05",
         "CHN_07_06"
       ]
     },
@@ -117,10 +89,6 @@
       "description": "Рассказ, хронология, разбор, теория и практика.",
       "missionIds": [
         "CHN_08_01",
-        "CHN_08_02",
-        "CHN_08_03",
-        "CHN_08_04",
-        "CHN_08_05",
         "CHN_08_06"
       ]
     }
@@ -129,56 +97,24 @@
     {
       "id": "CHN_01_01",
       "type": "LESSON",
-      "title": "Две большие речные зоны",
-      "description": "Почему ранний Китай нельзя сводить только к долине Хуанхэ",
+      "title": "Просо на севере, рис на юге и множество неолитических миров",
+      "description": "Показать, что ранний Китай возник из нескольких экологических и культурных зон, а не из одной линии Хуанхэ.",
       "cards": [
         "STATE_CHN_001",
         "RIV_CHN_001",
-        "RIV_CHN_002"
-      ],
-      "unlockCards": [
-        "TERM_CHNA_001"
-      ],
-      "xp": 145,
-      "emoji": "▤",
-      "chapterId": "CHN_CHAPTER_01",
-      "lessonId": "CHN_01_01"
-    },
-    {
-      "id": "CHN_01_02",
-      "type": "CAUSE_EFFECT",
-      "title": "Просо, рис и природные условия",
-      "description": "Как хозяйство зависело от климата и ландшафта",
-      "cards": [
-        "RIV_CHN_001",
-        "RIV_CHN_002",
-        "REG_CHN_001"
-      ],
-      "unlockCards": [
-        "TERM_CHNA_002"
-      ],
-      "xp": 153,
-      "emoji": "◉",
-      "chapterId": "CHN_CHAPTER_01",
-      "lessonId": "CHN_01_02"
-    },
-    {
-      "id": "CHN_01_03",
-      "type": "MAP",
-      "title": "Хуанхэ, Янцзы и лёссовое плато",
-      "description": "Найти главные природные зоны раннего Китая",
-      "cards": [
         "RIV_CHN_002",
         "REG_CHN_001",
         "CULT_CHN_001"
       ],
       "unlockCards": [
+        "TERM_CHNA_001",
+        "TERM_CHNA_002",
         "ART_CHNA_001"
       ],
-      "xp": 161,
-      "emoji": "⌖",
+      "xp": 145,
+      "emoji": "▤",
       "chapterId": "CHN_CHAPTER_01",
-      "lessonId": "CHN_01_03",
+      "lessonId": "CHN_01_01",
       "mapTargets": [
         {
           "key": "yellow",
@@ -204,40 +140,28 @@
       ]
     },
     {
-      "id": "CHN_01_04",
-      "type": "SYSTEM",
-      "title": "Яншао и Хэмуду",
-      "description": "Сравнить северные и южные культурные комплексы",
+      "id": "CHN_01_06",
+      "type": "FINAL",
+      "title": "Лянчжу как доказательство южного регионального государства",
+      "description": "Проверка источников и итог главы",
       "cards": [
         "REG_CHN_001",
         "CULT_CHN_001",
-        "CULT_CHN_002"
-      ],
-      "unlockCards": [
-        "ART_CHNA_002"
-      ],
-      "xp": 169,
-      "emoji": "◎",
-      "chapterId": "CHN_CHAPTER_01",
-      "lessonId": "CHN_01_04"
-    },
-    {
-      "id": "CHN_01_05",
-      "type": "TIMELINE",
-      "title": "От поселений к региональным традициям",
-      "description": "Собрать хронологию ранних культур",
-      "cards": [
+        "CULT_CHN_002",
         "STATE_CHN_001",
         "RIV_CHN_001",
         "RIV_CHN_002"
       ],
       "unlockCards": [
-        "REG_CHNA_001"
+        "ART_CHNA_002",
+        "REG_CHNA_001",
+        "TERM_CHNA_003"
       ],
-      "xp": 177,
-      "emoji": "⌛",
+      "xp": 185,
+      "emoji": "◆",
       "chapterId": "CHN_CHAPTER_01",
-      "lessonId": "CHN_01_05",
+      "lessonId": "CHN_01_06",
+      "quiz": "QUIZ_CHN_CH1",
       "timeline": {
         "order": [
           "c1_0",
@@ -260,77 +184,26 @@
       }
     },
     {
-      "id": "CHN_01_06",
-      "type": "FINAL",
-      "title": "Итог: не один центр",
-      "description": "Проверка географии и регионального разнообразия",
-      "cards": [
-        "STATE_CHN_001",
-        "RIV_CHN_001",
-        "RIV_CHN_002"
-      ],
-      "unlockCards": [
-        "TERM_CHNA_003"
-      ],
-      "xp": 185,
-      "emoji": "◆",
-      "chapterId": "CHN_CHAPTER_01",
-      "lessonId": "CHN_01_06",
-      "quiz": "QUIZ_CHN_CH1"
-    },
-    {
       "id": "CHN_02_01",
       "type": "LESSON",
-      "title": "Поздний неолит и конкуренция",
-      "description": "Почему поселения стали крупнее и лучше защищены",
+      "title": "Луншань, Таоси и рост конкуренции на севере",
+      "description": "Связать укрепления и богатые погребения с ростом власти, не объявляя каждый центр столицей династии.",
       "cards": [
         "CULT_CHN_003",
         "CULT_CHN_004",
-        "SITE_CHN_001"
-      ],
-      "unlockCards": [
-        "TERM_CHNA_004"
-      ],
-      "xp": 157,
-      "emoji": "▤",
-      "chapterId": "CHN_CHAPTER_02",
-      "lessonId": "CHN_02_01"
-    },
-    {
-      "id": "CHN_02_02",
-      "type": "CAUSE_EFFECT",
-      "title": "Стены, элиты и распределение труда",
-      "description": "Как укрепления связаны с властью и конфликтом",
-      "cards": [
-        "CULT_CHN_004",
-        "SITE_CHN_001",
-        "SITE_CHN_002"
-      ],
-      "unlockCards": [
-        "ART_CHNA_003"
-      ],
-      "xp": 165,
-      "emoji": "◉",
-      "chapterId": "CHN_CHAPTER_02",
-      "lessonId": "CHN_02_02"
-    },
-    {
-      "id": "CHN_02_03",
-      "type": "MAP",
-      "title": "Лянчжу, Таоси и Шимао",
-      "description": "Найти крупные центры разных регионов",
-      "cards": [
         "SITE_CHN_001",
         "SITE_CHN_002",
         "TERM_CHN_001"
       ],
       "unlockCards": [
+        "TERM_CHNA_004",
+        "ART_CHNA_003",
         "ART_CHNA_004"
       ],
-      "xp": 173,
-      "emoji": "⌖",
+      "xp": 157,
+      "emoji": "▤",
       "chapterId": "CHN_CHAPTER_02",
-      "lessonId": "CHN_02_03",
+      "lessonId": "CHN_02_01",
       "mapTargets": [
         {
           "key": "liangzhu",
@@ -356,40 +229,28 @@
       ]
     },
     {
-      "id": "CHN_02_04",
-      "type": "SOURCE",
-      "title": "Погребения и нефрит",
-      "description": "Что богатые захоронения говорят о социальном устройстве",
+      "id": "CHN_02_06",
+      "type": "FINAL",
+      "title": "Шимао и Лянчжу: стены, ритуал и неравенство вне одной модели",
+      "description": "Проверка источников и итог главы",
       "cards": [
         "SITE_CHN_002",
         "TERM_CHN_001",
-        "TERM_CHN_002"
-      ],
-      "unlockCards": [
-        "TERM_CHNA_005"
-      ],
-      "xp": 181,
-      "emoji": "◇",
-      "chapterId": "CHN_CHAPTER_02",
-      "lessonId": "CHN_02_04"
-    },
-    {
-      "id": "CHN_02_05",
-      "type": "TIMELINE",
-      "title": "От деревни к центру власти",
-      "description": "Собрать хронологию поздненеолитической централизации",
-      "cards": [
+        "TERM_CHN_002",
         "CULT_CHN_003",
         "CULT_CHN_004",
         "SITE_CHN_001"
       ],
       "unlockCards": [
-        "BUILD_CHNA_001"
+        "TERM_CHNA_005",
+        "BUILD_CHNA_001",
+        "ART_CHNA_005"
       ],
-      "xp": 189,
-      "emoji": "⌛",
+      "xp": 197,
+      "emoji": "◆",
       "chapterId": "CHN_CHAPTER_02",
-      "lessonId": "CHN_02_05",
+      "lessonId": "CHN_02_06",
+      "quiz": "QUIZ_CHN_CH2",
       "timeline": {
         "order": [
           "c2_0",
@@ -412,77 +273,26 @@
       }
     },
     {
-      "id": "CHN_02_06",
-      "type": "FINAL",
-      "title": "Итог: первые политические центры",
-      "description": "Проверка укреплений, элит и ритуала",
-      "cards": [
-        "CULT_CHN_003",
-        "CULT_CHN_004",
-        "SITE_CHN_001"
-      ],
-      "unlockCards": [
-        "ART_CHNA_005"
-      ],
-      "xp": 197,
-      "emoji": "◆",
-      "chapterId": "CHN_CHAPTER_02",
-      "lessonId": "CHN_02_06",
-      "quiz": "QUIZ_CHN_CH2"
-    },
-    {
       "id": "CHN_03_01",
       "type": "LESSON",
-      "title": "Культура Эрлитоу",
-      "description": "Что археологи находят в бассейне Ило",
+      "title": "Дворцовые зоны, дороги и бронза в Эрлитоу",
+      "description": "Разобрать Эрлитоу как ранний политический центр и отдельно оценить позднюю династическую традицию.",
       "cards": [
         "CULT_CHN_005",
         "SITE_CHN_003",
-        "TERM_CHN_003"
-      ],
-      "unlockCards": [
-        "REG_CHNA_002"
-      ],
-      "xp": 169,
-      "emoji": "▤",
-      "chapterId": "CHN_CHAPTER_03",
-      "lessonId": "CHN_03_01"
-    },
-    {
-      "id": "CHN_03_02",
-      "type": "CAUSE_EFFECT",
-      "title": "Дворцы, дороги и ранняя централизация",
-      "description": "Почему планировка Эрлитоу важна для истории государства",
-      "cards": [
-        "SITE_CHN_003",
-        "TERM_CHN_003",
-        "BUILD_CHN_001"
-      ],
-      "unlockCards": [
-        "CITY_CHNA_001"
-      ],
-      "xp": 177,
-      "emoji": "◉",
-      "chapterId": "CHN_CHAPTER_03",
-      "lessonId": "CHN_03_02"
-    },
-    {
-      "id": "CHN_03_03",
-      "type": "MAP",
-      "title": "Эрлитоу, Яньши и бассейн Ило",
-      "description": "Найти ранние центры Центральной равнины",
-      "cards": [
         "TERM_CHN_003",
         "BUILD_CHN_001",
         "ART_CHN_001"
       ],
       "unlockCards": [
+        "REG_CHNA_002",
+        "CITY_CHNA_001",
         "ROAD_CHNA_001"
       ],
-      "xp": 185,
-      "emoji": "⌖",
+      "xp": 169,
+      "emoji": "▤",
       "chapterId": "CHN_CHAPTER_03",
-      "lessonId": "CHN_03_03",
+      "lessonId": "CHN_03_01",
       "mapTargets": [
         {
           "key": "erlitou",
@@ -508,40 +318,28 @@
       ]
     },
     {
-      "id": "CHN_03_04",
-      "type": "SOURCE",
-      "title": "Можно ли назвать Эрлитоу династией Ся",
-      "description": "Разобрать границу между памятником и поздней традицией",
+      "id": "CHN_03_06",
+      "type": "FINAL",
+      "title": "Почему археологический памятник нельзя автоматически назвать династией Ся",
+      "description": "Проверка источников и итог главы",
       "cards": [
         "BUILD_CHN_001",
         "ART_CHN_001",
-        "ART_CHN_002"
-      ],
-      "unlockCards": [
-        "TERM_CHNA_006"
-      ],
-      "xp": 193,
-      "emoji": "◇",
-      "chapterId": "CHN_CHAPTER_03",
-      "lessonId": "CHN_03_04"
-    },
-    {
-      "id": "CHN_03_05",
-      "type": "TIMELINE",
-      "title": "Фазы Эрлитоу",
-      "description": "Собрать развитие поселения и бронзового производства",
-      "cards": [
+        "ART_CHN_002",
         "CULT_CHN_005",
         "SITE_CHN_003",
         "TERM_CHN_003"
       ],
       "unlockCards": [
-        "ART_CHNA_006"
+        "TERM_CHNA_006",
+        "ART_CHNA_006",
+        "TERM_CHNA_007"
       ],
-      "xp": 201,
-      "emoji": "⌛",
+      "xp": 209,
+      "emoji": "◆",
       "chapterId": "CHN_CHAPTER_03",
-      "lessonId": "CHN_03_05",
+      "lessonId": "CHN_03_06",
+      "quiz": "QUIZ_CHN_CH3",
       "timeline": {
         "order": [
           "c3_0",
@@ -564,77 +362,26 @@
       }
     },
     {
-      "id": "CHN_03_06",
-      "type": "FINAL",
-      "title": "Итог: археология и династическая история",
-      "description": "Проверка данных и спорных отождествлений",
-      "cards": [
-        "CULT_CHN_005",
-        "SITE_CHN_003",
-        "TERM_CHN_003"
-      ],
-      "unlockCards": [
-        "TERM_CHNA_007"
-      ],
-      "xp": 209,
-      "emoji": "◆",
-      "chapterId": "CHN_CHAPTER_03",
-      "lessonId": "CHN_03_06",
-      "quiz": "QUIZ_CHN_CH3"
-    },
-    {
       "id": "CHN_04_01",
       "type": "LESSON",
-      "title": "Эрлиганский горизонт",
-      "description": "Как новые формы города и бронзы распространились по Центральной равнине",
+      "title": "Эрлиган, Чжэнчжоу и новая концентрация производства",
+      "description": "Объяснить раннее государство Шан через сеть центров, мастерских и военной силы.",
       "cards": [
         "STATE_CHN_002",
         "CULT_CHN_006",
-        "CITY_CHN_001"
-      ],
-      "unlockCards": [
-        "CITY_CHNA_002"
-      ],
-      "xp": 181,
-      "emoji": "▤",
-      "chapterId": "CHN_CHAPTER_04",
-      "lessonId": "CHN_04_01"
-    },
-    {
-      "id": "CHN_04_02",
-      "type": "CAUSE_EFFECT",
-      "title": "Центр, мастерские и зависимые регионы",
-      "description": "Как раннее государство связывало разные территории",
-      "cards": [
-        "CULT_CHN_006",
-        "CITY_CHN_001",
-        "PER_CHN_001"
-      ],
-      "unlockCards": [
-        "CITY_CHNA_003"
-      ],
-      "xp": 189,
-      "emoji": "◉",
-      "chapterId": "CHN_CHAPTER_04",
-      "lessonId": "CHN_04_02"
-    },
-    {
-      "id": "CHN_04_03",
-      "type": "MAP",
-      "title": "Чжэнчжоу, Паньлунчэн и Хуаньбэй",
-      "description": "Найти центры раннего и среднего Шан",
-      "cards": [
         "CITY_CHN_001",
         "PER_CHN_001",
         "EVENT_CHN_001"
       ],
       "unlockCards": [
+        "CITY_CHNA_002",
+        "CITY_CHNA_003",
         "FACTION_CHNA_001"
       ],
-      "xp": 197,
-      "emoji": "⌖",
+      "xp": 181,
+      "emoji": "▤",
       "chapterId": "CHN_CHAPTER_04",
-      "lessonId": "CHN_04_03",
+      "lessonId": "CHN_04_01",
       "mapTargets": [
         {
           "key": "zhengzhou",
@@ -660,40 +407,28 @@
       ]
     },
     {
-      "id": "CHN_04_04",
-      "type": "SOURCE",
-      "title": "Чэн Тан и проблема ранних царей",
-      "description": "Сопоставить поздние списки с археологией",
+      "id": "CHN_04_06",
+      "type": "FINAL",
+      "title": "Паньлунчэн и расширение шанского политико-ритуального мира",
+      "description": "Проверка источников и итог главы",
       "cards": [
         "PER_CHN_001",
         "EVENT_CHN_001",
-        "TERM_CHN_004"
-      ],
-      "unlockCards": [
-        "SYSTEM_CHNA_001"
-      ],
-      "xp": 205,
-      "emoji": "◇",
-      "chapterId": "CHN_CHAPTER_04",
-      "lessonId": "CHN_04_04"
-    },
-    {
-      "id": "CHN_04_05",
-      "type": "TIMELINE",
-      "title": "От Эрлитоу к Эрлигану",
-      "description": "Собрать хронологию возникновения Шан",
-      "cards": [
+        "TERM_CHN_004",
         "STATE_CHN_002",
         "CULT_CHN_006",
         "CITY_CHN_001"
       ],
       "unlockCards": [
-        "SYSTEM_CHNA_002"
+        "SYSTEM_CHNA_001",
+        "SYSTEM_CHNA_002",
+        "BUILD_CHNA_002"
       ],
-      "xp": 213,
-      "emoji": "⌛",
+      "xp": 221,
+      "emoji": "◆",
       "chapterId": "CHN_CHAPTER_04",
-      "lessonId": "CHN_04_05",
+      "lessonId": "CHN_04_06",
+      "quiz": "QUIZ_CHN_CH4",
       "timeline": {
         "order": [
           "c4_0",
@@ -716,77 +451,26 @@
       }
     },
     {
-      "id": "CHN_04_06",
-      "type": "FINAL",
-      "title": "Итог: раннее государство Шан",
-      "description": "Проверка городов, бронзы и политической сети",
-      "cards": [
-        "STATE_CHN_002",
-        "CULT_CHN_006",
-        "CITY_CHN_001"
-      ],
-      "unlockCards": [
-        "BUILD_CHNA_002"
-      ],
-      "xp": 221,
-      "emoji": "◆",
-      "chapterId": "CHN_CHAPTER_04",
-      "lessonId": "CHN_04_06",
-      "quiz": "QUIZ_CHN_CH4"
-    },
-    {
       "id": "CHN_05_01",
       "type": "LESSON",
-      "title": "Поздний Шан в Аняне",
-      "description": "Как Иньсюй раскрывает устройство царского двора",
+      "title": "Иньсюй, царский род и хозяйство позднего Шан",
+      "description": "Показать двор Аняна через дворцы, могилы, гадательные записи и хозяйственные сети.",
       "cards": [
         "SITE_CHN_004",
         "PER_CHN_002",
-        "PER_CHN_003"
-      ],
-      "unlockCards": [
-        "BUILD_CHNA_003"
-      ],
-      "xp": 193,
-      "emoji": "▤",
-      "chapterId": "CHN_CHAPTER_05",
-      "lessonId": "CHN_05_01"
-    },
-    {
-      "id": "CHN_05_02",
-      "type": "CAUSE_EFFECT",
-      "title": "Царь, род и зависимые группы",
-      "description": "Почему власть строилась вокруг династии и ритуала",
-      "cards": [
-        "PER_CHN_002",
-        "PER_CHN_003",
-        "PER_CHN_004"
-      ],
-      "unlockCards": [
-        "SITE_CHNA_004"
-      ],
-      "xp": 201,
-      "emoji": "◉",
-      "chapterId": "CHN_CHAPTER_05",
-      "lessonId": "CHN_05_02"
-    },
-    {
-      "id": "CHN_05_03",
-      "type": "MAP",
-      "title": "Иньсюй и река Хуань",
-      "description": "Найти столичный комплекс позднего Шан",
-      "cards": [
         "PER_CHN_003",
         "PER_CHN_004",
         "TERM_CHN_005"
       ],
       "unlockCards": [
+        "BUILD_CHNA_003",
+        "SITE_CHNA_004",
         "SITE_CHNA_005"
       ],
-      "xp": 209,
-      "emoji": "⌖",
+      "xp": 193,
+      "emoji": "▤",
       "chapterId": "CHN_CHAPTER_05",
-      "lessonId": "CHN_05_03",
+      "lessonId": "CHN_05_01",
       "mapTargets": [
         {
           "key": "yinxu",
@@ -812,40 +496,28 @@
       ]
     },
     {
-      "id": "CHN_05_04",
-      "type": "SOURCE",
-      "title": "Гробница Фу Хао",
-      "description": "Что одно непотревоженное погребение говорит о дворе, войне и ритуале",
+      "id": "CHN_05_06",
+      "type": "FINAL",
+      "title": "Фу Хао: военачальница, жрица и источник о положении элиты",
+      "description": "Проверка источников и итог главы",
       "cards": [
         "PER_CHN_004",
         "TERM_CHN_005",
-        "TERM_CHN_006"
-      ],
-      "unlockCards": [
-        "SYSTEM_CHNA_003"
-      ],
-      "xp": 217,
-      "emoji": "◇",
-      "chapterId": "CHN_CHAPTER_05",
-      "lessonId": "CHN_05_04"
-    },
-    {
-      "id": "CHN_05_05",
-      "type": "TIMELINE",
-      "title": "От Пань Гэна к У Дину",
-      "description": "Собрать хронологию поздней столицы",
-      "cards": [
+        "TERM_CHN_006",
         "SITE_CHN_004",
         "PER_CHN_002",
         "PER_CHN_003"
       ],
       "unlockCards": [
-        "RIV_CHNA_001"
+        "SYSTEM_CHNA_003",
+        "RIV_CHNA_001",
+        "TERM_CHNA_008"
       ],
-      "xp": 225,
-      "emoji": "⌛",
+      "xp": 233,
+      "emoji": "◆",
       "chapterId": "CHN_CHAPTER_05",
-      "lessonId": "CHN_05_05",
+      "lessonId": "CHN_05_06",
+      "quiz": "QUIZ_CHN_CH5",
       "timeline": {
         "order": [
           "c5_0",
@@ -868,77 +540,26 @@
       }
     },
     {
-      "id": "CHN_05_06",
-      "type": "FINAL",
-      "title": "Итог: двор и столица",
-      "description": "Проверка царской власти и археологии Иньсюя",
-      "cards": [
-        "SITE_CHN_004",
-        "PER_CHN_002",
-        "PER_CHN_003"
-      ],
-      "unlockCards": [
-        "TERM_CHNA_008"
-      ],
-      "xp": 233,
-      "emoji": "◆",
-      "chapterId": "CHN_CHAPTER_05",
-      "lessonId": "CHN_05_06",
-      "quiz": "QUIZ_CHN_CH5"
-    },
-    {
       "id": "CHN_06_01",
       "type": "LESSON",
-      "title": "Бронза как система производства",
-      "description": "Почему ритуальный сосуд требовал сложной организации труда",
+      "title": "Как шанские мастерские отливали сосуды и оружие",
+      "description": "Связать бронзовую технологию с организацией труда, войной и культом предков.",
       "cards": [
         "ART_CHN_003",
         "TERM_CHN_007",
-        "ART_CHN_004"
-      ],
-      "unlockCards": [
-        "ART_CHNA_007"
-      ],
-      "xp": 205,
-      "emoji": "▤",
-      "chapterId": "CHN_CHAPTER_06",
-      "lessonId": "CHN_06_01"
-    },
-    {
-      "id": "CHN_06_02",
-      "type": "CAUSE_EFFECT",
-      "title": "Оружие, колесницы и мобилизация",
-      "description": "Как война была связана с царским двором и зависимыми общинами",
-      "cards": [
-        "TERM_CHN_007",
-        "ART_CHN_004",
-        "ART_CHN_005"
-      ],
-      "unlockCards": [
-        "ART_CHNA_008"
-      ],
-      "xp": 213,
-      "emoji": "◉",
-      "chapterId": "CHN_CHAPTER_06",
-      "lessonId": "CHN_06_02"
-    },
-    {
-      "id": "CHN_06_03",
-      "type": "MAP",
-      "title": "Мастерские и военные зоны Аняна",
-      "description": "Показать основные пространства производства и погребений",
-      "cards": [
         "ART_CHN_004",
         "ART_CHN_005",
         "TERM_CHN_008"
       ],
       "unlockCards": [
+        "ART_CHNA_007",
+        "ART_CHNA_008",
         "SYSTEM_CHNA_004"
       ],
-      "xp": 221,
-      "emoji": "⌖",
+      "xp": 205,
+      "emoji": "▤",
       "chapterId": "CHN_CHAPTER_06",
-      "lessonId": "CHN_06_03",
+      "lessonId": "CHN_06_01",
       "mapTargets": [
         {
           "key": "workshops",
@@ -964,40 +585,28 @@
       ]
     },
     {
-      "id": "CHN_06_04",
-      "type": "SOURCE",
-      "title": "Ритуальный сосуд как источник",
-      "description": "Как надпись, форма и контекст помогают читать бронзу",
+      "id": "CHN_06_06",
+      "type": "FINAL",
+      "title": "Колесницы, человеческие жертвы и политический смысл церемоний",
+      "description": "Проверка источников и итог главы",
       "cards": [
         "ART_CHN_005",
         "TERM_CHN_008",
-        "FACTION_CHN_001"
-      ],
-      "unlockCards": [
-        "ART_CHNA_009"
-      ],
-      "xp": 229,
-      "emoji": "◇",
-      "chapterId": "CHN_CHAPTER_06",
-      "lessonId": "CHN_06_04"
-    },
-    {
-      "id": "CHN_06_05",
-      "type": "TIMELINE",
-      "title": "От руды к церемонии",
-      "description": "Собрать цепочку производства бронзового сосуда",
-      "cards": [
+        "FACTION_CHN_001",
         "ART_CHN_003",
         "TERM_CHN_007",
         "ART_CHN_004"
       ],
       "unlockCards": [
-        "ART_CHNA_010"
+        "ART_CHNA_009",
+        "ART_CHNA_010",
+        "TERM_CHNA_009"
       ],
-      "xp": 237,
-      "emoji": "⌛",
+      "xp": 245,
+      "emoji": "◆",
       "chapterId": "CHN_CHAPTER_06",
-      "lessonId": "CHN_06_05",
+      "lessonId": "CHN_06_06",
+      "quiz": "QUIZ_CHN_CH6",
       "timeline": {
         "order": [
           "c6_0",
@@ -1020,77 +629,26 @@
       }
     },
     {
-      "id": "CHN_06_06",
-      "type": "FINAL",
-      "title": "Итог: бронзовый мир Шан",
-      "description": "Проверка технологии, армии и ритуала",
-      "cards": [
-        "ART_CHN_003",
-        "TERM_CHN_007",
-        "ART_CHN_004"
-      ],
-      "unlockCards": [
-        "TERM_CHNA_009"
-      ],
-      "xp": 245,
-      "emoji": "◆",
-      "chapterId": "CHN_CHAPTER_06",
-      "lessonId": "CHN_06_06",
-      "quiz": "QUIZ_CHN_CH6"
-    },
-    {
       "id": "CHN_07_01",
       "type": "LESSON",
-      "title": "Как проходило гадание",
-      "description": "Разобрать последовательность работы с костью или панцирем",
+      "title": "Подготовка кости, вопрос, трещина и запись результата",
+      "description": "Объяснить технологию гадания и показать социальную ограниченность раннего письменного корпуса.",
       "cards": [
         "TEXT_CHN_001",
         "TERM_CHN_009",
-        "REL_CHN_001"
-      ],
-      "unlockCards": [
-        "TERM_CHNA_010"
-      ],
-      "xp": 217,
-      "emoji": "▤",
-      "chapterId": "CHN_CHAPTER_07",
-      "lessonId": "CHN_07_01"
-    },
-    {
-      "id": "CHN_07_02",
-      "type": "CAUSE_EFFECT",
-      "title": "Письмо при царском дворе",
-      "description": "Почему надписи связаны с решениями правителя",
-      "cards": [
-        "TERM_CHN_009",
-        "REL_CHN_001",
-        "TERM_CHN_010"
-      ],
-      "unlockCards": [
-        "OFF_CHNA_001"
-      ],
-      "xp": 225,
-      "emoji": "◉",
-      "chapterId": "CHN_CHAPTER_07",
-      "lessonId": "CHN_07_02"
-    },
-    {
-      "id": "CHN_07_03",
-      "type": "MAP",
-      "title": "Архивы гадательных костей Иньсюя",
-      "description": "Найти районы находок и царский центр",
-      "cards": [
         "REL_CHN_001",
         "TERM_CHN_010",
         "TERM_CHN_011"
       ],
       "unlockCards": [
+        "TERM_CHNA_010",
+        "OFF_CHNA_001",
         "TERM_CHNA_011"
       ],
-      "xp": 233,
-      "emoji": "⌖",
+      "xp": 217,
+      "emoji": "▤",
       "chapterId": "CHN_CHAPTER_07",
-      "lessonId": "CHN_07_03",
+      "lessonId": "CHN_07_01",
       "mapTargets": [
         {
           "key": "oracle",
@@ -1116,40 +674,28 @@
       ]
     },
     {
-      "id": "CHN_07_04",
-      "type": "SOURCE",
-      "title": "Вопрос, прогноз и проверка",
-      "description": "Научиться читать структуру гадательной надписи",
+      "id": "CHN_07_06",
+      "type": "FINAL",
+      "title": "Что царский архив рассказывает о Шан — и что оставляет за пределами",
+      "description": "Проверка источников и итог главы",
       "cards": [
         "TERM_CHN_010",
         "TERM_CHN_011",
-        "REL_CHN_002"
-      ],
-      "unlockCards": [
-        "ART_CHNA_011"
-      ],
-      "xp": 241,
-      "emoji": "◇",
-      "chapterId": "CHN_CHAPTER_07",
-      "lessonId": "CHN_07_04"
-    },
-    {
-      "id": "CHN_07_05",
-      "type": "TIMELINE",
-      "title": "От подготовки к записи результата",
-      "description": "Собрать этапы ритуала и документа",
-      "cards": [
+        "REL_CHN_002",
         "TEXT_CHN_001",
         "TERM_CHN_009",
         "REL_CHN_001"
       ],
       "unlockCards": [
-        "ART_CHNA_012"
+        "ART_CHNA_011",
+        "ART_CHNA_012",
+        "TERM_CHNA_012"
       ],
-      "xp": 249,
-      "emoji": "⌛",
+      "xp": 257,
+      "emoji": "◆",
       "chapterId": "CHN_CHAPTER_07",
-      "lessonId": "CHN_07_05",
+      "lessonId": "CHN_07_06",
+      "quiz": "QUIZ_CHN_CH7",
       "timeline": {
         "order": [
           "c7_0",
@@ -1172,77 +718,26 @@
       }
     },
     {
-      "id": "CHN_07_06",
-      "type": "FINAL",
-      "title": "Итог: письмо и знание",
-      "description": "Проверка источников, календаря и ограничений корпуса",
-      "cards": [
-        "TEXT_CHN_001",
-        "TERM_CHN_009",
-        "REL_CHN_001"
-      ],
-      "unlockCards": [
-        "TERM_CHNA_012"
-      ],
-      "xp": 257,
-      "emoji": "◆",
-      "chapterId": "CHN_CHAPTER_07",
-      "lessonId": "CHN_07_06",
-      "quiz": "QUIZ_CHN_CH7"
-    },
-    {
       "id": "CHN_08_01",
       "type": "LESSON",
-      "title": "Последние десятилетия Шан",
-      "description": "Что известно о кризисе и образе Ди Синя",
+      "title": "Коалиция Чжоу и битва при Муе",
+      "description": "Разделить события завоевания и более позднюю идеологию, оправдывавшую смену династии.",
       "cards": [
         "PER_CHN_005",
         "EVENT_CHN_002",
-        "PER_CHN_006"
-      ],
-      "unlockCards": [
-        "PER_CHNA_001"
-      ],
-      "xp": 229,
-      "emoji": "▤",
-      "chapterId": "CHN_CHAPTER_08",
-      "lessonId": "CHN_08_01"
-    },
-    {
-      "id": "CHN_08_02",
-      "type": "CAUSE_EFFECT",
-      "title": "Коалиция Чжоу",
-      "description": "Почему западное государство смогло бросить вызов Шан",
-      "cards": [
-        "EVENT_CHN_002",
-        "PER_CHN_006",
-        "EVENT_CHN_003"
-      ],
-      "unlockCards": [
-        "FACTION_CHNA_002"
-      ],
-      "xp": 237,
-      "emoji": "◉",
-      "chapterId": "CHN_CHAPTER_08",
-      "lessonId": "CHN_08_02"
-    },
-    {
-      "id": "CHN_08_03",
-      "type": "MAP",
-      "title": "Чжоуyuan, Муе и Иньсюй",
-      "description": "Найти маршрут завоевания",
-      "cards": [
         "PER_CHN_006",
         "EVENT_CHN_003",
         "TERM_CHN_012"
       ],
       "unlockCards": [
+        "PER_CHNA_001",
+        "FACTION_CHNA_002",
         "TERM_CHNA_013"
       ],
-      "xp": 245,
-      "emoji": "⌖",
+      "xp": 229,
+      "emoji": "▤",
       "chapterId": "CHN_CHAPTER_08",
-      "lessonId": "CHN_08_03",
+      "lessonId": "CHN_08_01",
       "mapTargets": [
         {
           "key": "zhouyuan",
@@ -1268,40 +763,28 @@
       ]
     },
     {
-      "id": "CHN_08_04",
-      "type": "SOURCE",
-      "title": "Мандат Неба как политическая формула",
-      "description": "Отделить позднее объяснение от самого хода войны",
+      "id": "CHN_08_06",
+      "type": "FINAL",
+      "title": "Мандат Неба как объяснение победы и новая политическая программа",
+      "description": "Проверка источников и итог главы",
       "cards": [
         "EVENT_CHN_003",
         "TERM_CHN_012",
-        "STATE_CHN_003"
-      ],
-      "unlockCards": [
-        "STATE_CHNA_001"
-      ],
-      "xp": 253,
-      "emoji": "◇",
-      "chapterId": "CHN_CHAPTER_08",
-      "lessonId": "CHN_08_04"
-    },
-    {
-      "id": "CHN_08_05",
-      "type": "TIMELINE",
-      "title": "От Шан к Западной Чжоу",
-      "description": "Собрать хронологию перехода власти",
-      "cards": [
+        "STATE_CHN_003",
         "PER_CHN_005",
         "EVENT_CHN_002",
         "PER_CHN_006"
       ],
       "unlockCards": [
-        "ART_CHNA_013"
+        "STATE_CHNA_001",
+        "ART_CHNA_013",
+        "TERM_CHNA_014"
       ],
-      "xp": 261,
-      "emoji": "⌛",
+      "xp": 269,
+      "emoji": "◆",
       "chapterId": "CHN_CHAPTER_08",
-      "lessonId": "CHN_08_05",
+      "lessonId": "CHN_08_06",
+      "quiz": "QUIZ_CHN_CH8",
       "timeline": {
         "order": [
           "c8_0",
@@ -1322,25 +805,6 @@
           "c8_1"
         ]
       }
-    },
-    {
-      "id": "CHN_08_06",
-      "type": "FINAL",
-      "title": "Финал кампании: как возник исторический Китай бронзового века",
-      "description": "Итоговый экзамен всей кампании",
-      "cards": [
-        "PER_CHN_005",
-        "EVENT_CHN_002",
-        "PER_CHN_006"
-      ],
-      "unlockCards": [
-        "TERM_CHNA_014"
-      ],
-      "xp": 269,
-      "emoji": "◆",
-      "chapterId": "CHN_CHAPTER_08",
-      "lessonId": "CHN_08_06",
-      "quiz": "QUIZ_CHN_CH8"
     }
   ]
 }

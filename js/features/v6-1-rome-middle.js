@@ -1,6 +1,6 @@
-/* Codex v8.7.1 — complete Rome campaign: Republic, principate, high empire and western transformation */
+/* Codex v8.7.2 — complete Rome campaign: Republic, principate, high empire and western transformation */
 (()=>{
-  const V='8.7.1';
+  const V='8.7.2';
   window.CODEX_VERSION=V;
   state.romeMiddlePhase=state.romeMiddlePhase||'FOUNDATIONS';
   state.romeCheckpoint=state.romeCheckpoint||{};

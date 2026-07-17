@@ -1,6 +1,6 @@
-/* Codex v8.7.1 — Zhou and Warring States */
+/* Codex v8.7.2 — Zhou and Warring States */
 (()=>{
-  const V='8.7.1';
+  const V='8.7.2';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.ZHOU_WARRING='ZHOU_WARRING';
   state.zhouPhase=state.zhouPhase||'WESTERN';

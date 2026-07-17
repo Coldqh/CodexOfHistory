@@ -1,6 +1,6 @@
-/* Codex v8.7.1 — Al-Andalus and the Islamic West */
+/* Codex v8.7.2 — Al-Andalus and the Islamic West */
 (()=>{
-  const V='8.7.1';
+  const V='8.7.2';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.AL_ANDALUS_WEST='AL_ANDALUS_WEST';
   state.andalusPhase=state.andalusPhase||'CONQUEST_EMIRATE';

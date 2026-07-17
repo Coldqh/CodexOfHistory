@@ -1,6 +1,6 @@
-/* Codex v8.7.1 — Americas in Late Antiquity */
+/* Codex v8.7.2 — Americas in Late Antiquity */
 (()=>{
-  const V='8.7.1';
+  const V='8.7.2';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.AMERICAS_LATE='AMERICAS_LATE';
   state.americasPhase=state.americasPhase||'PARALLEL_AMERICAS';

@@ -1,6 +1,6 @@
 /* Codex v2.5 — modern learning experience and study-era selection */
 (function(){
-  const V='8.7.1';
+  const V='8.7.2';
   window.CODEX_VERSION=V;
   state.studyEra=state.studyEra||null;
   state.studyCampaign=state.studyCampaign||null;

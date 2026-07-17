@@ -11,10 +11,6 @@
       "subtitle": "Как четыре региона использовали воду, почвы и сезонные циклы.",
       "description": "Сравнение Нила, Тигра и Евфрата, Инда и речных зон раннего Китая.",
       "missionIds": [
-        "CIV_01_01",
-        "CIV_01_02",
-        "CIV_01_03",
-        "CIV_01_04",
         "CIV_01_05"
       ]
     },
@@ -25,10 +21,6 @@
       "subtitle": "Почему крупные поселения возникали разными путями и не всегда имели одинаковую власть.",
       "description": "Рост крупных центров, региональные сети, специализация и признаки города.",
       "missionIds": [
-        "CIV_02_01",
-        "CIV_02_02",
-        "CIV_02_03",
-        "CIV_02_04",
         "CIV_02_05"
       ]
     },
@@ -39,10 +31,6 @@
       "subtitle": "Как работали двор, храм, ритуал, управление и территориальная власть.",
       "description": "Храмы, дворы, правители, ритуал и способы контролировать территорию.",
       "missionIds": [
-        "CIV_03_01",
-        "CIV_03_02",
-        "CIV_03_03",
-        "CIV_03_04",
         "CIV_03_05"
       ]
     },
@@ -53,10 +41,6 @@
       "subtitle": "Что записывали ранние общества и почему отсутствие дешифровки ограничивает выводы.",
       "description": "Ранние системы записи, административный учёт и пределы дешифровки.",
       "missionIds": [
-        "CIV_04_01",
-        "CIV_04_02",
-        "CIV_04_03",
-        "CIV_04_04",
         "CIV_04_05"
       ]
     },
@@ -67,10 +51,6 @@
       "subtitle": "Как организовывались мастерские, стандарты, повинности и крупное строительство.",
       "description": "Мастерские, стандарты, мобилизация работников и снабжение крупных строек.",
       "missionIds": [
-        "CIV_05_01",
-        "CIV_05_02",
-        "CIV_05_03",
-        "CIV_05_04",
         "CIV_05_05"
       ]
     },
@@ -81,108 +61,36 @@
       "subtitle": "Археология, тексты, датировка, пробелы и граница между фактом и интерпретацией.",
       "description": "Археологический контекст, датировки, тексты и проверка исторических выводов.",
       "missionIds": [
-        "CIV_06_01",
-        "CIV_06_02",
-        "CIV_06_03",
-        "CIV_06_04",
         "CIV_06_05"
       ]
     }
   ],
   "nodes": [
     {
-      "id": "CIV_01_01",
-      "type": "LESSON",
-      "title": "Четыре речных мира",
-      "description": "Сравни четыре региона и отметь, какие задачи создавали реки, климат и почвы.",
+      "id": "CIV_01_05",
+      "type": "FINAL",
+      "title": "Четыре природных мира",
+      "description": "Сравнить природные условия Месопотамии, Египта, Инда и раннего Китая без модели «одинаковых речных цивилизаций».",
       "cards": [
         "REG_CIV_001",
         "RIV_CIV_001",
-        "RIV_CIV_002"
-      ],
-      "unlockCards": [
-        "REG_CIV_001"
-      ],
-      "xp": 157,
-      "emoji": "≋",
-      "chapterId": "CIV_CHAPTER_01",
-      "lessonId": "CIV_01_01"
-    },
-    {
-      "id": "CIV_01_02",
-      "type": "TIMELINE",
-      "title": "Параллельная хронология природных зон",
-      "description": "Размести природные и хозяйственные процессы на общей шкале без искусственной синхронности.",
-      "cards": [
-        "RIV_CIV_001",
         "RIV_CIV_002",
-        "RIV_CIV_003"
-      ],
-      "unlockCards": [
-        "RIV_CIV_001"
-      ],
-      "xp": 161,
-      "emoji": "◷",
-      "chapterId": "CIV_CHAPTER_01",
-      "lessonId": "CIV_01_02",
-      "timeline": [
-        {
-          "id": "t1",
-          "date": "ок. 4000–3200 до н. э.",
-          "title": "Рост Урука"
-        },
-        {
-          "id": "t2",
-          "date": "ок. 3200–3000 до н. э.",
-          "title": "Раннее государство Египта"
-        },
-        {
-          "id": "t3",
-          "date": "ок. 2600–1900 до н. э.",
-          "title": "Зрелая Индская цивилизация"
-        },
-        {
-          "id": "t4",
-          "date": "ок. 1750–1046 до н. э.",
-          "title": "Эрлитоу и Шан"
-        }
-      ]
-    },
-    {
-      "id": "CIV_01_03",
-      "type": "CAUSE_EFFECT",
-      "title": "Паводок, риск и адаптация",
-      "description": "Разбери, как паводки создавали риск и почему способы адаптации различались.",
-      "cards": [
-        "RIV_CIV_002",
-        "RIV_CIV_003",
-        "RIV_CIV_004"
-      ],
-      "unlockCards": [
-        "RIV_CIV_002"
-      ],
-      "xp": 165,
-      "emoji": "◆",
-      "chapterId": "CIV_CHAPTER_01",
-      "lessonId": "CIV_01_03"
-    },
-    {
-      "id": "CIV_01_04",
-      "type": "MAP",
-      "title": "Карта четырёх регионов",
-      "description": "Найди четыре региона на карте и свяжи каждый с его речной системой.",
-      "cards": [
         "RIV_CIV_003",
         "RIV_CIV_004",
         "TERM_CIV_001"
       ],
       "unlockCards": [
-        "RIV_CIV_003"
+        "REG_CIV_001",
+        "RIV_CIV_001",
+        "RIV_CIV_002",
+        "RIV_CIV_003",
+        "RIV_CIV_004"
       ],
-      "xp": 169,
-      "emoji": "⌖",
+      "xp": 173,
+      "emoji": "◎",
       "chapterId": "CIV_CHAPTER_01",
-      "lessonId": "CIV_01_04",
+      "lessonId": "CIV_01_05",
+      "quiz": "QUIZ_CIV_CH1",
       "mapTargets": [
         {
           "key": "mesopotamia",
@@ -212,62 +120,55 @@
           "zoom": 5,
           "radius": 650000
         }
+      ],
+      "timeline": [
+        {
+          "id": "t1",
+          "date": "ок. 4000–3200 до н. э.",
+          "title": "Рост Урука"
+        },
+        {
+          "id": "t2",
+          "date": "ок. 3200–3000 до н. э.",
+          "title": "Раннее государство Египта"
+        },
+        {
+          "id": "t3",
+          "date": "ок. 2600–1900 до н. э.",
+          "title": "Зрелая Индская цивилизация"
+        },
+        {
+          "id": "t4",
+          "date": "ок. 1750–1046 до н. э.",
+          "title": "Эрлитоу и Шан"
+        }
       ]
     },
     {
-      "id": "CIV_01_05",
+      "id": "CIV_02_05",
       "type": "FINAL",
-      "title": "Итог: среда задаёт задачи, а не готовый строй",
-      "description": "Проверь, где заканчивается влияние среды и начинаются решения общества.",
-      "cards": [
-        "RIV_CIV_004",
-        "TERM_CIV_001",
-        "REG_CIV_001"
-      ],
-      "unlockCards": [
-        "RIV_CIV_004"
-      ],
-      "xp": 173,
-      "emoji": "◎",
-      "chapterId": "CIV_CHAPTER_01",
-      "lessonId": "CIV_01_05",
-      "quiz": "QUIZ_CIV_CH1"
-    },
-    {
-      "id": "CIV_02_01",
-      "type": "LESSON",
-      "title": "Четыре пути к городу",
-      "description": "Сравни Урук, Мемфис, Мохенджо-Даро и Эрлитоу как разные типы крупного центра.",
+      "title": "Четыре пути к крупному центру",
+      "description": "Сравнить Урук, ранний Мемфис, Мохенджо-Даро и Эрлитоу как разные формы урбанизации.",
       "cards": [
         "CITY_CIV_001",
         "CITY_CIV_002",
-        "CITY_CIV_003"
+        "CITY_CIV_003",
+        "CITY_CIV_004",
+        "CITY_CIV_005",
+        "TERM_CIV_002"
       ],
       "unlockCards": [
-        "CITY_CIV_001"
-      ],
-      "xp": 165,
-      "emoji": "≋",
-      "chapterId": "CIV_CHAPTER_02",
-      "lessonId": "CIV_02_01"
-    },
-    {
-      "id": "CIV_02_02",
-      "type": "TIMELINE",
-      "title": "Когда росли крупные центры",
-      "description": "Сопоставь периоды роста городских центров в четырёх регионах.",
-      "cards": [
+        "CITY_CIV_001",
         "CITY_CIV_002",
         "CITY_CIV_003",
-        "CITY_CIV_004"
+        "CITY_CIV_004",
+        "CITY_CIV_005"
       ],
-      "unlockCards": [
-        "CITY_CIV_002"
-      ],
-      "xp": 169,
-      "emoji": "◷",
+      "xp": 181,
+      "emoji": "◎",
       "chapterId": "CIV_CHAPTER_02",
-      "lessonId": "CIV_02_02",
+      "lessonId": "CIV_02_05",
+      "quiz": "QUIZ_CIV_CH2",
       "timeline": [
         {
           "id": "t1",
@@ -292,143 +193,23 @@
       ]
     },
     {
-      "id": "CIV_02_03",
-      "type": "SOURCE",
-      "title": "Что считать городом",
-      "description": "Отдели размер поселения от городских функций, специализации и управления округой.",
-      "cards": [
-        "CITY_CIV_003",
-        "CITY_CIV_004",
-        "CITY_CIV_005"
-      ],
-      "unlockCards": [
-        "CITY_CIV_003"
-      ],
-      "xp": 173,
-      "emoji": "▤",
-      "chapterId": "CIV_CHAPTER_02",
-      "lessonId": "CIV_02_03"
-    },
-    {
-      "id": "CIV_02_04",
-      "type": "MATCH",
-      "title": "Сети, стандарты и специализация",
-      "description": "Проследи связи между стандартами, ремеслом, обменом и поселковой иерархией.",
-      "cards": [
-        "CITY_CIV_004",
-        "CITY_CIV_005",
-        "TERM_CIV_002"
-      ],
-      "unlockCards": [
-        "CITY_CIV_004"
-      ],
-      "xp": 177,
-      "emoji": "⇄",
-      "chapterId": "CIV_CHAPTER_02",
-      "lessonId": "CIV_02_04"
-    },
-    {
-      "id": "CIV_02_05",
+      "id": "CIV_03_05",
       "type": "FINAL",
-      "title": "Итог: урбанизация без единой модели",
-      "description": "Закрепи признаки урбанизации и различия между региональными моделями.",
-      "cards": [
-        "CITY_CIV_005",
-        "TERM_CIV_002",
-        "CITY_CIV_001"
-      ],
-      "unlockCards": [
-        "CITY_CIV_005"
-      ],
-      "xp": 181,
-      "emoji": "◎",
-      "chapterId": "CIV_CHAPTER_02",
-      "lessonId": "CIV_02_05",
-      "quiz": "QUIZ_CIV_CH2"
-    },
-    {
-      "id": "CIV_03_01",
-      "type": "LESSON",
-      "title": "Сравнить формы власти",
-      "description": "Сравни храмовую, дворцовую, городскую и территориальную организацию власти.",
+      "title": "Власть без единого шаблона",
+      "description": "Сравнить царя, храм, городской стандарт и ритуальную элиту в четырёх регионах.",
       "cards": [
         "SYS_CIV_001",
         "ORG_CIV_001",
-        "ORG_CIV_002"
-      ],
-      "unlockCards": [
-        "SYS_CIV_001"
-      ],
-      "xp": 173,
-      "emoji": "≋",
-      "chapterId": "CIV_CHAPTER_03",
-      "lessonId": "CIV_03_01"
-    },
-    {
-      "id": "CIV_03_02",
-      "type": "MATCH",
-      "title": "Храм, двор и склад",
-      "description": "Разбери, как храм и двор соединяли ритуал, хранение ресурсов и управление людьми.",
-      "cards": [
-        "ORG_CIV_001",
         "ORG_CIV_002",
-        "PER_CIV_001"
-      ],
-      "unlockCards": [
-        "ORG_CIV_001"
-      ],
-      "xp": 177,
-      "emoji": "⇄",
-      "chapterId": "CIV_CHAPTER_03",
-      "lessonId": "CIV_03_02"
-    },
-    {
-      "id": "CIV_03_03",
-      "type": "SOURCE",
-      "title": "Образ правителя как источник",
-      "description": "Прочитай царское изображение как официальный источник, а не прямую запись событий.",
-      "cards": [
-        "ORG_CIV_002",
-        "PER_CIV_001",
-        "TERM_CIV_003"
-      ],
-      "unlockCards": [
-        "ORG_CIV_002"
-      ],
-      "xp": 181,
-      "emoji": "▤",
-      "chapterId": "CIV_CHAPTER_03",
-      "lessonId": "CIV_03_03"
-    },
-    {
-      "id": "CIV_03_04",
-      "type": "CAUSE_EFFECT",
-      "title": "От центра к территории",
-      "description": "Проследи переход от власти над центром к контролю сети поселений и территории.",
-      "cards": [
         "PER_CIV_001",
         "TERM_CIV_003",
         "STATE_CIV_001"
       ],
       "unlockCards": [
-        "PER_CIV_001"
-      ],
-      "xp": 185,
-      "emoji": "◆",
-      "chapterId": "CIV_CHAPTER_03",
-      "lessonId": "CIV_03_04"
-    },
-    {
-      "id": "CIV_03_05",
-      "type": "FINAL",
-      "title": "Итог: власть и священный порядок",
-      "description": "Проверь, как ритуал, администрация и сила поддерживали раннюю власть.",
-      "cards": [
-        "TERM_CIV_003",
-        "STATE_CIV_001",
-        "SYS_CIV_001"
-      ],
-      "unlockCards": [
+        "SYS_CIV_001",
+        "ORG_CIV_001",
+        "ORG_CIV_002",
+        "PER_CIV_001",
         "TERM_CIV_003"
       ],
       "xp": 189,
@@ -438,40 +219,30 @@
       "quiz": "QUIZ_CIV_CH3"
     },
     {
-      "id": "CIV_04_01",
-      "type": "LESSON",
-      "title": "Четыре системы записи",
-      "description": "Сравни протоклинопись, иероглифы, индские знаки и гадательные надписи.",
+      "id": "CIV_04_05",
+      "type": "FINAL",
+      "title": "Письмо и молчание источников",
+      "description": "Сопоставить клинопись, египетское письмо, знаки Инда и гадательные надписи Шан.",
       "cards": [
         "SYS_CIV_002",
         "TEXT_CIV_001",
-        "TEXT_CIV_002"
+        "TEXT_CIV_002",
+        "TEXT_CIV_003",
+        "TEXT_CIV_004",
+        "TERM_CIV_004"
       ],
       "unlockCards": [
-        "SYS_CIV_002"
-      ],
-      "xp": 181,
-      "emoji": "≋",
-      "chapterId": "CIV_CHAPTER_04",
-      "lessonId": "CIV_04_01"
-    },
-    {
-      "id": "CIV_04_02",
-      "type": "TIMELINE",
-      "title": "Когда появились записи",
-      "description": "Размести ранние системы записи на шкале и учти широту датировок.",
-      "cards": [
+        "SYS_CIV_002",
         "TEXT_CIV_001",
         "TEXT_CIV_002",
-        "TEXT_CIV_003"
+        "TEXT_CIV_003",
+        "TEXT_CIV_004"
       ],
-      "unlockCards": [
-        "TEXT_CIV_001"
-      ],
-      "xp": 185,
-      "emoji": "◷",
+      "xp": 197,
+      "emoji": "◎",
       "chapterId": "CIV_CHAPTER_04",
-      "lessonId": "CIV_04_02",
+      "lessonId": "CIV_04_05",
+      "quiz": "QUIZ_CIV_CH4",
       "timeline": [
         {
           "id": "t1",
@@ -496,113 +267,30 @@
       ]
     },
     {
-      "id": "CIV_04_03",
-      "type": "SOURCE",
-      "title": "Что сохраняет письменный источник",
-      "description": "Определи, что документ сообщает прямо, а что требует дополнительного контекста.",
-      "cards": [
-        "TEXT_CIV_002",
-        "TEXT_CIV_003",
-        "TEXT_CIV_004"
-      ],
-      "unlockCards": [
-        "TEXT_CIV_002"
-      ],
-      "xp": 189,
-      "emoji": "▤",
-      "chapterId": "CIV_CHAPTER_04",
-      "lessonId": "CIV_04_03"
-    },
-    {
-      "id": "CIV_04_04",
-      "type": "MATCH",
-      "title": "Нерасшифрованное письмо и границы знания",
-      "description": "Разбери, почему наличие знаков ещё не означает возможность прочитать язык.",
-      "cards": [
-        "TEXT_CIV_003",
-        "TEXT_CIV_004",
-        "TERM_CIV_004"
-      ],
-      "unlockCards": [
-        "TEXT_CIV_003"
-      ],
-      "xp": 193,
-      "emoji": "⇄",
-      "chapterId": "CIV_CHAPTER_04",
-      "lessonId": "CIV_04_04"
-    },
-    {
-      "id": "CIV_04_05",
+      "id": "CIV_05_05",
       "type": "FINAL",
-      "title": "Итог: письмо, управление и молчание источников",
-      "description": "Закрепи связь письма с управлением и ограничения письменных источников.",
-      "cards": [
-        "TEXT_CIV_004",
-        "TERM_CIV_004",
-        "SYS_CIV_002"
-      ],
-      "unlockCards": [
-        "TEXT_CIV_004"
-      ],
-      "xp": 197,
-      "emoji": "◎",
-      "chapterId": "CIV_CHAPTER_04",
-      "lessonId": "CIV_04_05",
-      "quiz": "QUIZ_CIV_CH4"
-    },
-    {
-      "id": "CIV_05_01",
-      "type": "LESSON",
-      "title": "Труд и специалисты",
-      "description": "Восстанови роли работников, мастеров, управленцев и поставщиков в общей системе.",
+      "title": "Труд, стандарт и большой проект",
+      "description": "Сравнить организацию ремесла и строительства без сведения всех работников к рабам.",
       "cards": [
         "SYS_CIV_003",
         "ART_CIV_001",
-        "ART_CIV_002"
-      ],
-      "unlockCards": [
-        "SYS_CIV_003"
-      ],
-      "xp": 189,
-      "emoji": "≋",
-      "chapterId": "CIV_CHAPTER_05",
-      "lessonId": "CIV_05_01"
-    },
-    {
-      "id": "CIV_05_02",
-      "type": "MATCH",
-      "title": "Мастерская и стандарт",
-      "description": "Свяжи мастерскую, технологическую цепочку и повторяемые стандарты производства.",
-      "cards": [
-        "ART_CIV_001",
         "ART_CIV_002",
-        "BUILD_CIV_001"
+        "BUILD_CIV_001",
+        "TERM_CIV_005",
+        "TERM_CIV_006"
       ],
       "unlockCards": [
-        "ART_CIV_001"
-      ],
-      "xp": 193,
-      "emoji": "⇄",
-      "chapterId": "CIV_CHAPTER_05",
-      "lessonId": "CIV_05_02"
-    },
-    {
-      "id": "CIV_05_03",
-      "type": "MAP",
-      "title": "Карта крупных проектов",
-      "description": "Найди крупные проекты четырёх регионов и сравни требования к их снабжению.",
-      "cards": [
+        "SYS_CIV_003",
+        "ART_CIV_001",
         "ART_CIV_002",
         "BUILD_CIV_001",
         "TERM_CIV_005"
       ],
-      "unlockCards": [
-        "ART_CIV_002"
-      ],
-      "xp": 197,
-      "emoji": "⌖",
+      "xp": 205,
+      "emoji": "◎",
       "chapterId": "CIV_CHAPTER_05",
-      "lessonId": "CIV_05_03",
+      "lessonId": "CIV_05_05",
+      "quiz": "QUIZ_CIV_CH5",
       "mapTargets": [
         {
           "key": "giza",
@@ -635,147 +323,23 @@
       ]
     },
     {
-      "id": "CIV_05_04",
-      "type": "CAUSE_EFFECT",
-      "title": "От сбора ресурса к готовому сооружению",
-      "description": "Собери цепочку от добычи сырья и учёта пайков до перевозки и строительства.",
-      "cards": [
-        "BUILD_CIV_001",
-        "TERM_CIV_005",
-        "TERM_CIV_006"
-      ],
-      "unlockCards": [
-        "BUILD_CIV_001"
-      ],
-      "xp": 201,
-      "emoji": "◆",
-      "chapterId": "CIV_CHAPTER_05",
-      "lessonId": "CIV_05_04"
-    },
-    {
-      "id": "CIV_05_05",
+      "id": "CIV_06_05",
       "type": "FINAL",
-      "title": "Итог: проекты как система организации",
-      "description": "Проверь, какие формы координации можно восстановить по готовому объекту и записям.",
-      "cards": [
-        "TERM_CIV_005",
-        "TERM_CIV_006",
-        "SYS_CIV_003"
-      ],
-      "unlockCards": [
-        "TERM_CIV_005"
-      ],
-      "xp": 205,
-      "emoji": "◎",
-      "chapterId": "CIV_CHAPTER_05",
-      "lessonId": "CIV_05_05",
-      "quiz": "QUIZ_CIV_CH5"
-    },
-    {
-      "id": "CIV_06_01",
-      "type": "LESSON",
-      "title": "Археология и тексты",
-      "description": "Сравни возможности археологических находок, современных им текстов и поздних традиций.",
+      "title": "Как строится доказательство",
+      "description": "Завершить эпоху умением связывать слой, предмет, дату и ограниченный вывод.",
       "cards": [
         "SYS_CIV_004",
         "TERM_CIV_007",
-        "TERM_CIV_008"
-      ],
-      "unlockCards": [
-        "SYS_CIV_004"
-      ],
-      "xp": 197,
-      "emoji": "≋",
-      "chapterId": "CIV_CHAPTER_06",
-      "lessonId": "CIV_06_01"
-    },
-    {
-      "id": "CIV_06_02",
-      "type": "TIMELINE",
-      "title": "Как строится датировка",
-      "description": "Выстрой датировку из слоёв, типологии и лабораторных диапазонов.",
-      "cards": [
-        "TERM_CIV_007",
         "TERM_CIV_008",
-        "TERM_CIV_009"
-      ],
-      "unlockCards": [
-        "TERM_CIV_007"
-      ],
-      "xp": 201,
-      "emoji": "◷",
-      "chapterId": "CIV_CHAPTER_06",
-      "lessonId": "CIV_06_02",
-      "timeline": [
-        {
-          "id": "t1",
-          "date": "Сначала",
-          "title": "Стратиграфия и контекст"
-        },
-        {
-          "id": "t2",
-          "date": "Затем",
-          "title": "Типология и относительная последовательность"
-        },
-        {
-          "id": "t3",
-          "date": "При наличии материала",
-          "title": "Абсолютная датировка с диапазоном"
-        },
-        {
-          "id": "t4",
-          "date": "После сопоставления",
-          "title": "Историческая интерпретация"
-        }
-      ]
-    },
-    {
-      "id": "CIV_06_03",
-      "type": "SOURCE",
-      "title": "Факт, интерпретация и поздняя традиция",
-      "description": "Раздели наблюдаемый материал, датировку, объяснение и спорную гипотезу.",
-      "cards": [
-        "TERM_CIV_008",
-        "TERM_CIV_009",
-        "TERM_CIV_010"
-      ],
-      "unlockCards": [
-        "TERM_CIV_008"
-      ],
-      "xp": 205,
-      "emoji": "▤",
-      "chapterId": "CIV_CHAPTER_06",
-      "lessonId": "CIV_06_03"
-    },
-    {
-      "id": "CIV_06_04",
-      "type": "MATCH",
-      "title": "Собрать исторический аргумент",
-      "description": "Собери вывод из нескольких источников и укажи степень уверенности.",
-      "cards": [
         "TERM_CIV_009",
         "TERM_CIV_010",
         "TERM_CIV_011"
       ],
       "unlockCards": [
-        "TERM_CIV_009"
-      ],
-      "xp": 209,
-      "emoji": "⇄",
-      "chapterId": "CIV_CHAPTER_06",
-      "lessonId": "CIV_06_04"
-    },
-    {
-      "id": "CIV_06_05",
-      "type": "FINAL",
-      "title": "Экзамен эпохи",
-      "description": "Пройди шесть модулей по карте, хронологии, сравнению, источникам и причинным связям.",
-      "cards": [
-        "TERM_CIV_010",
-        "TERM_CIV_011",
-        "SYS_CIV_004"
-      ],
-      "unlockCards": [
+        "SYS_CIV_004",
+        "TERM_CIV_007",
+        "TERM_CIV_008",
+        "TERM_CIV_009",
         "TERM_CIV_010"
       ],
       "xp": 213,
@@ -806,6 +370,28 @@
         {
           "id": "QUIZ_CIV_ERA_SYNTHESIS",
           "title": "Итоговый вывод"
+        }
+      ],
+      "timeline": [
+        {
+          "id": "t1",
+          "date": "Сначала",
+          "title": "Стратиграфия и контекст"
+        },
+        {
+          "id": "t2",
+          "date": "Затем",
+          "title": "Типология и относительная последовательность"
+        },
+        {
+          "id": "t3",
+          "date": "При наличии материала",
+          "title": "Абсолютная датировка с диапазоном"
+        },
+        {
+          "id": "t4",
+          "date": "После сопоставления",
+          "title": "Историческая интерпретация"
         }
       ]
     }

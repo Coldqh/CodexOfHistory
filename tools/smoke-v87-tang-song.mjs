@@ -7,7 +7,7 @@ const story=read('data/cards/tang-song/story.json'),archive=read('data/cards/tan
 const campaign=read('data/campaigns/tang-song/campaign.json'),pools=read('data/campaigns/tang-song/pools.json');
 const lessons=read('data/lessons/tang-song/campaign.json'),quizzes=read('data/quizzes/tang-song/campaign.json');
 const stories=read('data/stories/tang-song/personal.json'),map=read('data/maps/tang-song.json');
-assert.equal(pkg.version,'8.7.1');assert.equal(manifest.version,'8.7.1');
+assert.equal(pkg.version,'8.7.2');assert.equal(manifest.version,'8.7.2');
 assert.ok(manifest.scripts.includes('js/features/v8-7-tang-song.js'));
 assert.ok(manifest.scripts.indexOf('js/features/v8-7-tang-song.js')>manifest.scripts.indexOf('js/features/v8-6-al-andalus-west.js'));
 assert.ok(manifest.scripts.indexOf('js/features/v8-7-tang-song.js')<manifest.scripts.indexOf('js/features/v6-9-1-stability.js'));
@@ -20,10 +20,10 @@ assert.ok(exists('assets/packs/tang-song-pack.svg'));assert.ok(campaign.nodes.ev
 const catalogue=read('data/world/campaigns.json'),world=catalogue.find(c=>c.id==='TANG_SONG');assert.ok(world);assert.equal(world.eraId,'ERA_EARLY_MEDIEVAL');assert.equal(world.chapterCount,11);assert.equal(world.period,'649–1067 годы');
 const eras=read('data/world/eras.json'),early=eras.find(e=>e.id==='ERA_EARLY_MEDIEVAL');for(const id of ['ABBASID_BAGHDAD','BYZANTIUM_MACEDONIAN','VIKINGS_NORTH_ATLANTIC','SLAVIC_BULGARIA_RUS','AL_ANDALUS_WEST','TANG_SONG'])assert.ok(early.campaignIds.includes(id));assert.equal(early.status,'PLAYABLE');
 const timeline=read('data/world/timeline.json').filter(x=>x.campaignId==='TANG_SONG');assert.ok(timeline.length>=12);
-const queries=read('data/image_queries.json');assert.equal(queries.version,'8.7.1');assert.equal(queries.count,6063);assert.equal(Object.keys(queries.cards).length,6063);assert.equal(queries.cards.TSG_S_01_01.group,'TANG_SONG');
-const images=read('data/image_manifest.json');assert.equal(images.version,'8.7.1');assert.equal(images.count,6063);assert.equal(images.staticHistoricalImageCount,42);assert.equal(images.projectCoverCount,6021);assert.equal(images.dynamicQueryCount,6021);
+const queries=read('data/image_queries.json');assert.equal(queries.version,'8.7.2');assert.equal(queries.count,6063);assert.equal(Object.keys(queries.cards).length,6063);assert.equal(queries.cards.TSG_S_01_01.group,'TANG_SONG');
+const images=read('data/image_manifest.json');assert.equal(images.version,'8.7.2');assert.equal(images.count,6063);assert.equal(images.staticHistoricalImageCount,42);assert.equal(images.projectCoverCount,6021);assert.equal(images.dynamicQueryCount,6021);
 const rel=read('data/core/relations.json');assert.ok(rel.some(r=>r.source==='PHT_S_11_05'&&r.target==='TSG_S_01_01'));assert.ok(rel.some(r=>r.source==='CAL_S_05_01'&&r.target==='TSG_S_06_02'));assert.ok(rel.some(r=>r.source==='ABB_S_04_03'&&r.target==='TSG_S_06_03'));
-const runtime=fs.readFileSync(path.join(root,'js/features/v8-7-tang-song.js'),'utf8');for(const token of ["const V='8.7.1'",'TANG_SONG','tangSongPhase','openTangSongExamModule','assets/packs/tang-song-pack.svg'])assert.match(runtime,new RegExp(token.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')));
+const runtime=fs.readFileSync(path.join(root,'js/features/v8-7-tang-song.js'),'utf8');for(const token of ["const V='8.7.2'",'TANG_SONG','tangSongPhase','openTangSongExamModule','assets/packs/tang-song-pack.svg'])assert.match(runtime,new RegExp(token.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')));
 const sw=fs.readFileSync(path.join(root,'sw.js'),'utf8');assert.match(sw,/v8-7-tang-song\.js/);assert.match(sw,/tang-song-pack\.svg/);
 const allCards=manifest.datasets.cards.flatMap(read),ids=new Set();for(const c of allCards){assert.ok(!ids.has(c.id),`duplicate id ${c.id}`);ids.add(c.id);}const newCards=[...story,...archive],newIds=new Set(newCards.map(c=>c.id)),oldTitles=new Map(allCards.filter(c=>!newIds.has(c.id)).map(c=>[c.title.trim().toLocaleLowerCase('ru'),c.id]));for(const c of newCards)assert.ok(!oldTitles.has(c.title.trim().toLocaleLowerCase('ru')),`new title collision: ${c.title}`);
 const allText=JSON.stringify({story,archive,campaign,lessons});for(const token of ['Чанъань','У Цзэтянь','Ань Лушань','Пять династий','Кайфэн','цзяоцзы'])assert.match(allText,new RegExp(token,'i'));assert.ok(!allText.includes('Тан мгновенно распалась в 755 году'));assert.ok(!allText.includes('экзамены отменили происхождение'));

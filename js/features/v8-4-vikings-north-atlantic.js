@@ -1,6 +1,6 @@
-/* Codex v8.7.1 — Vikings and the North Atlantic */
+/* Codex v8.7.2 — Vikings and the North Atlantic */
 (()=>{
-  const V='8.7.1';
+  const V='8.7.2';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.VIKINGS_NORTH_ATLANTIC='VIKINGS_NORTH_ATLANTIC';
   state.vikingPhase=state.vikingPhase||'NORTH';

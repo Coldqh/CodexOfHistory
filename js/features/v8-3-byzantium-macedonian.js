@@ -1,6 +1,6 @@
-/* Codex v8.7.1 — Byzantium from Iconoclasm to Basil II */
+/* Codex v8.7.2 — Byzantium from Iconoclasm to Basil II */
 (()=>{
-  const V='8.7.1';
+  const V='8.7.2';
   window.CODEX_VERSION=V;
   V22_CAMPAIGN_CODES.BYZANTIUM_MACEDONIAN='BYZANTIUM_MACEDONIAN';
   state.byzantiumPhase=state.byzantiumPhase||'SURVIVAL';

@@ -88,4 +88,4 @@ assert.equal(duplicateObjectives.length, 0, `repeated objectives: ${duplicateObj
 const duplicatedSentences = [...sentenceSeen.entries()].filter(([, ids]) => new Set(ids).size > 2);
 assert.equal(duplicatedSentences.length, 0, `repeated researched sentences: ${duplicatedSentences.slice(0, 5).map(([s, ids]) => `${ids.join(',')}: ${s}`).join('\n')}`);
 
-console.log(`✓ v8.7.1 researched lesson audit: ${Object.keys(lessons).length} consolidated missions, concrete objectives, sourced theory and no 3+ mission sentence clones`);
+console.log(`✓ v8.7.2 researched lesson audit: ${Object.keys(lessons).length} consolidated missions, concrete objectives, sourced theory and no 3+ mission sentence clones`);

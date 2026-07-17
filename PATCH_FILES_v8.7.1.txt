@@ -1,25 +1,17 @@
-Codex of History v8.7.1 patch files
-Base version: v8.7.0
-Files: 131
-
-PATCH_FILES_v8.7.1.txt
-README.md
+data/campaigns/egypt/campaign.json
+data/campaigns/mesopotamia/campaign.json
+data/campaigns/mesopotamia/pools.json
 data/content-manifest.json
 data/core/packs.json
 data/image_manifest.json
 data/image_queries.json
-data/lessons/china/campaign.json
-data/lessons/civilizations/campaign.json
-data/lessons/comparison/campaign.json
 data/lessons/egypt/chapter_01_05.json
 data/lessons/egypt/chapter_06_10.json
-data/lessons/indus/campaign.json
 data/lessons/mesopotamia/chapter_01_05.json
 data/lessons/mesopotamia/chapter_06_10.json
-data/quality/lesson-duplicate-baseline.json
 docs/NEXT_PATCH_PLAN.md
-docs/PATCH_NOTES_v8_7_1.md
-docs/QA_v8_7_1_DUPLICATE_CLEANUP.md
+docs/PATCH_NOTES_v8_7_1_RESEARCHED.md
+docs/QA_v8_7_1_RESEARCHED.md
 index.html
 js/bootstrap.js
 js/core/start.js
@@ -74,16 +66,19 @@ js/features/v8-3-byzantium-macedonian.js
 js/features/v8-4-vikings-north-atlantic.js
 js/features/v8-5-slavic-bulgaria-rus.js
 js/features/v8-6-al-andalus-west.js
+js/features/v8-7-1-mission-consolidation.js
 js/features/v8-7-tang-song.js
 manifest.webmanifest
 package.json
+README.md
 sw.js
-tools/audit-lesson-duplicates.mjs
-tools/build-image-queries.py
-tools/campaign_factory.py
-tools/edit-v871-first-era.py
+tools/audit-v871-researched-lessons.mjs
 tools/runtime-v313-visual-semantics.mjs
 tools/runtime-v691-stability.mjs
+tools/runtime-v871-mission-consolidation.mjs
+tools/smoke-v22-mesopotamia.mjs
+tools/smoke-v23-mesopotamia.mjs
+tools/smoke-v25-egypt-learning.mjs
 tools/smoke-v31-babylon.mjs
 tools/smoke-v313-visual-semantics.mjs
 tools/smoke-v314-pwa.mjs
@@ -133,3 +128,5 @@ tools/smoke-v84-vikings.mjs
 tools/smoke-v85-slavic-bulgaria-rus.mjs
 tools/smoke-v86-al-andalus-west.mjs
 tools/smoke-v87-tang-song.mjs
+tools/validate-content.mjs
+PATCH_FILES_v8.7.1.txt
